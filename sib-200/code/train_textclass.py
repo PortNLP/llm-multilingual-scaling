@@ -49,6 +49,9 @@ from transformers import (
     XLMRobertaForSequenceClassification,
     XLMRobertaTokenizer,
     get_linear_schedule_with_warmup,
+    BloomConfig,
+    BloomForSequenceClassification,
+    BloomTokenizerFast,
 )
 
 try:
@@ -64,6 +67,7 @@ MODEL_CLASSES = {
     "roberta": (RobertaConfig, RobertaForSequenceClassification, RobertaTokenizer),
     "distilbert": (DistilBertConfig, DistilBertForSequenceClassification, DistilBertTokenizer),
     "xlmroberta": (XLMRobertaConfig, XLMRobertaForSequenceClassification, XLMRobertaTokenizer),
+    "bloom": (BloomConfig, BloomForSequenceClassification, BloomTokenizerFast),
 }
 
 def set_seed(args):
@@ -172,7 +176,7 @@ def train(args, train_dataset, dev_dataset, labels, model, tokenizer):
             model.train()
             batch = tuple(t.to(args.device) for t in batch)
             inputs = {"input_ids": batch[0], "attention_mask": batch[1], "labels": batch[3]}
-            if args.model_type not in ["distilbert", "xlmroberta"]:
+            if args.model_type not in ["distilbert", "xlmroberta", "bloom"]:
                 inputs["token_type_ids"] = (
                     batch[2] if args.model_type in ["bert"] else None
                 )  # XLM and DistilBERT don't use segment_ids
@@ -275,7 +279,7 @@ def evaluate(args, model, tokenizer, labels, mode, prefix="", display_res=False)
 
         with torch.no_grad():
             inputs = {"input_ids": batch[0], "attention_mask": batch[1], "labels": batch[3]}
-            if args.model_type != "distilbert":
+            if args.model_type not in ["distilbert", "bloom"]:
                 inputs["token_type_ids"] = (
                     batch[2] if args.model_type in ["bert"] else None
                 )  # XLM and DistilBERT don't use segment_ids
@@ -343,7 +347,7 @@ def load_and_cache_examples(args, tokenizer, labels, mode='train'):
     # Convert to Tensors and build dataset
     all_input_ids = torch.tensor([f.input_ids for f in features], dtype=torch.long)
     all_attention_mask = torch.tensor([f.attention_mask for f in features], dtype=torch.long)
-    if args.model_type != 'xlmroberta':
+    if args.model_type not in ['xlmroberta', 'bloom']:
         all_token_type_ids = torch.tensor([f.token_type_ids for f in features], dtype=torch.long)
     else:
         all_token_type_ids = torch.tensor([f.attention_mask for f in features], dtype=torch.long)
@@ -650,4 +654,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
