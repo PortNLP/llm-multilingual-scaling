@@ -137,7 +137,7 @@ def train(args, train_dataset, dev_dataset, labels, model, tokenizer):
         args.train_batch_size
         * args.gradient_accumulation_steps
         * (torch.distributed.get_world_size() if args.local_rank != -1 else 1),
-    )
+        )
     logger.info("  Gradient Accumulation steps = %d", args.gradient_accumulation_steps)
     logger.info("  Total optimization steps = %d", t_total)
 
