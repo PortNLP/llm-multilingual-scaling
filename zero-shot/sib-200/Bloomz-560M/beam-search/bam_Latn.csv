@@ -1,205 +1,2449 @@
 text,actual_category,predicted_category,generated_text
-"Yɛlɛmali be farikolo dilan na yɛlɛmali kura farakan, ani sugandili b'a bɔ kɛnɛkantaw yɛlɛmali kulu cɛla.",science/technology,travel,"""Yɛlɛmali be farikolo dilan na yɛlɛmali kura farakan, ani sugandili b'a bɔ kɛnɛkantaw yɛlɛmali kulu cɛla."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-Bɔmu atomiki be baaraw kɛ nin cogoya ye min be kuran fagan ta ka camancɛ dɔ nin porotɔnw ani neturɔnw camawfara ɲɔgɔnkan.,science/technology,N/A,"""Bɔmu atomiki be baaraw kɛ nin cogoya ye min be kuran fagan ta ka camancɛ dɔ nin porotɔnw ani neturɔnw camawfara ɲɔgɔnkan."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: tech</s>"
-Kɔnɔna dilan ne dɔn ni paritiki fila ye: neturɔn ani purotɔn.,science/technology,N/A,"""Kɔnɔna dilan ne dɔn ni paritiki fila ye: neturɔn ani purotɔn."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: culture</s>"
-Nin de ye a to zoom be se ka jaa dɔw bɔ min suguya be kaɲa ni suguya ye min sɔrɔla ni fokali janɲa kuntilenɲa ye.,science/technology,travel,"""Nin de ye a to zoom be se ka jaa dɔw bɔ min suguya be kaɲa ni suguya ye min sɔrɔla ni fokali janɲa kuntilenɲa ye."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"U be ɛntɛrɛni tamasiyɛn jatedenw ɲɛ kun camaw na: u ɛntɛrɛniti siraw bɛɛ fale, min tɛ http dɔrɔn ye.",science/technology,N/A,"""U be ɛntɛrɛni tamasiyɛn jatedenw ɲɛ kun camaw na: u ɛntɛrɛniti siraw bɛɛ fale, min tɛ http dɔrɔn ye."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: tech</s>"
-Kumaɲɔgɔnyaɲɛgɛn mako bɛ i k'i hakilinaw jateminɛ tugun kumalase kan ani i ka miiri kalan sira caman kan.,science/technology,travel,"""Kumaɲɔgɔnyaɲɛgɛn mako bɛ i k'i hakilinaw jateminɛ tugun kumalase kan ani i ka miiri kalan sira caman kan."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"O kɛra waleya carilen ye, nka nege be cɛni cama kɛ wagɔn jiri senw na.",science/technology,travel,"""O kɛra waleya carilen ye, nka nege be cɛni cama kɛ wagɔn jiri senw na."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"kuluba bɛ talikɛ cɛmankɔrɔlen kelen ka taa saba la, musow denw munu bɛ taa bisaba la.",science/technology,travel,"""kuluba bɛ talikɛ cɛmankɔrɔlen kelen ka taa saba la, musow denw munu bɛ taa bisaba la."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Ali na sɔrɔ kɔrɔ cama baw be Al nzirin filimuw kɔnɔ, Al be ɔridinatɛri mariki nafan ma ba dɔ dilan, min baara kɛ nin tabolo ye, kalan ani hakilina dɔni ye masinimanfɛn na.",science/technology,entertainment,"""Ali na sɔrɔ kɔrɔ cama baw be Al nzirin filimuw kɔnɔ, Al be ɔridinatɛri mariki nafan ma ba dɔ dilan, min baara kɛ nin tabolo ye, kalan ani hakilina dɔni ye masinimanfɛn na."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: entertainment</s>"
-Ni yangan in suguya kunnafoni ( a tilali sigiyɔrɔ ma tan ni fila yasa ka kunnafoni bƐƐ la gansanw jaateden)  a folen do ko min ye 3:2.,science/technology,entertainment,"""Ni yangan in suguya kunnafoni ( a tilali sigiyɔrɔ ma tan ni fila yasa ka kunnafoni bƐƐ la gansanw jaateden)  a folen do ko min ye 3:2."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: entertainment</s>"
-"Telefɔni satelitiman tɛ waatcamana tɛlɛfɔni pɔritabulu nɔnabila ye, inafɔ i kan ka bɔ kɛnɛma yɔrɔjɛlen na yɔrɔ mina i be sateliti ye ka apɛlikɛ.",science/technology,N/A,"""Telefɔni satelitiman tɛ waatcamana tɛlɛfɔni pɔritabulu nɔnabila ye, inafɔ i kan ka bɔ kɛnɛma yɔrɔjɛlen na yɔrɔ mina i be sateliti ye ka apɛlikɛ."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: tech</s>"
-"Ali na sɔrɔ tirɛsira kun dilan neno ni jiri faraw ye, u kun b'ato sow minunw b'a sama ka witesi telima sɔrɔ ani ka dɔni girimanbaw sama ka tɛmɛ sira fitini gɛlɛmaw kan o waatila.",science/technology,travel,"""Ali na sɔrɔ tirɛsira kun dilan neno ni jiri faraw ye, u kun b'ato sow minunw b'a sama ka witesi telima sɔrɔ ani ka dɔni girimanbaw sama ka tɛmɛ sira fitini gɛlɛmaw kan o waatila."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Mɔgɔ bɔra simiman fɛn kalama inafɔ sanu, waricɛ ani sira kabini lawalela, komi u bɛɛ be seka ye kunko kɔnɔ u cogoya jɔnjɔn na ani u sen ka di nin fɔlɔfɔlɔ fɛnw ye.",science/technology,travel,"""Mɔgɔ bɔra simiman fɛn kalama inafɔ sanu, waricɛ ani sira kabini lawalela, komi u bɛɛ be seka ye kunko kɔnɔ u cogoya jɔnjɔn na ani u sen ka di nin fɔlɔfɔlɔ fɛnw ye."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-walan ye dunuya yɛlɛma dabalibancogow la. yɛlɛmabelebele munuw kɛla anw ye  walan fɛ ye ka taakasegi nɔgɔyaliba ni teliyaliba ye.,science/technology,travel,"""walan ye dunuya yɛlɛma dabalibancogow la. yɛlɛmabelebele munuw kɛla anw ye  walan fɛ ye ka taakasegi nɔgɔyaliba ni teliyaliba ye."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-ũndũ ũyũ wĩkagwo nĩguo mbica iihũre gĩcicioinĩ gĩothe. ũndu ũyũ witagwo overscan.,science/technology,N/A,"""ũndũ ũyũ wĩkagwo nĩguo mbica iihũre gĩcicioinĩ gĩothe. ũndu ũyũ witagwo overscan."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: tech</s>"
-Alimaɲi jijukɔrɔkurunw tun be wele ko U-Boats. Alimaɲi kaw tun be se kɔsɛbɛ jijukɔrɔkurun bolili n'a lataama cogo la.,science/technology,N/A,"""Alimaɲi jijukɔrɔkurunw tun be wele ko U-Boats. Alimaɲi kaw tun be se kɔsɛbɛ jijukɔrɔkurun bolili n'a lataama cogo la."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: military</s>"
-"Alina sɔrɔ a farikolo cogoya be seka falen, a dilan cogoya simila be t'a nɔna.",science/technology,travel,"""Alina sɔrɔ a farikolo cogoya be seka falen, a dilan cogoya simila be t'a nɔna."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-sanfɛla fanga bɛ boɲa bawo ji kisɛw bɛ ɲɔkɔn saman ka tɛmɛn fiɲɛ kisɛw kan min b'u sanfɛ.,science/technology,travel,"""sanfɛla fanga bɛ boɲa bawo ji kisɛw bɛ ɲɔkɔn saman ka tɛmɛn fiɲɛ kisɛw kan min b'u sanfɛ."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-Thĩna ũrĩa mũnene hĩndi ya kũgeria gũcenjia thenema  ĩtuĩke DVD nĩ overscan.,science/technology,entertainment,"""Thĩna ũrĩa mũnene hĩndi ya kũgeria gũcenjia thenema  ĩtuĩke DVD nĩ overscan."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: entertainment</s>"
-"kɛrɛnkɛrɛniyala, a fɔra ko a be seka dɔ nin mɔgɔ dɔ be ka nkalɔn tikɛ nin a farilikolo yɛlɛma cogoya finitiw ɲɛfɔli kaɲɛ kosɛbɛ.",science/technology,travel,"""kɛrɛnkɛrɛniyala, a fɔra ko a be seka dɔ nin mɔgɔ dɔ be ka nkalɔn tikɛ nin a farilikolo yɛlɛma cogoya finitiw ɲɛfɔli kaɲɛ kosɛbɛ."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-sanu bɛ se ka bila cogo bɛɛ la. a bɛ se ka gosi k'a dɔgɔya.,science/technology,travel,"""sanu bɛ se ka bila cogo bɛɛ la. a bɛ se ka gosi k'a dɔgɔya."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Al sisitɛmu be itilize waatidɔw la  sɔrɔkalani, medesine, ɛnziɲeriya ani sɔrɔdasiya bɔnda kɔnɔ, inafɔ  ɔridanatɛri ani zuye widewo lozisiyɛluw dilana so cama kɔnɔ.",science/technology,travel,"""Al sisitɛmu be itilize waatidɔw la  sɔrɔkalani, medesine, ɛnziɲeriya ani sɔrɔdasiya bɔnda kɔnɔ, inafɔ  ɔridanatɛri ani zuye widewo lozisiyɛluw dilana so cama kɔnɔ."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"A be dilan hali bi-bi in na, ɲa janko, a ka lahalaya kunnafoni taara cƐn na jatalan nimerikiw jaa kaptelanw yangan  fƐ",science/technology,N/A,"""A be dilan hali bi-bi in na, ɲa janko, a ka lahalaya kunnafoni taara cƐn na jatalan nimerikiw jaa kaptelanw yangan  fƐ"" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: tech</s>"
-"Tila sabana sariya, min labaralen do kojugun wa burujalen do tuma do, ye sariya guwansan de ye min ni d0 ka fƐn bƐƐ bila u nɔ la jaa kan.",science/technology,travel,"""Tila sabana sariya, min labaralen do kojugun wa burujalen do tuma do, ye sariya guwansan de ye min ni d0 ka fƐn bƐƐ bila u nɔ la jaa kan."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"O be a sɛnbɛntiya dɔrɔn ko jolo tun be dinozɔr nunu dɔw la, kumakan min caarilen don ka ban, ɲa a be ɲƐfɔli dɔw dii ni ni fɛnkɔrɔ te se ka o dii tu ma bɛƐ, ina fɔ suguya ani kƐcogo sigiyɔrɔmasaba hakɛ.",science/technology,travel,"""O be a sɛnbɛntiya dɔrɔn ko jolo tun be dinozɔr nunu dɔw la, kumakan min caarilen don ka ban, ɲa a be ɲƐfɔli dɔw dii ni ni fɛnkɔrɔ te se ka o dii tu ma bɛƐ, ina fɔ suguya ani kƐcogo sigiyɔrɔmasaba hakɛ."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Lo bɛ munumunu cogo jumɛn nɛ kɛrɛfɛ? ni yi jɔ lo kan, i fanka giriya tɛ dugukolo sanfɛla ta bɔ.",science/technology,travel,"""Lo bɛ munumunu cogo jumɛn nɛ kɛrɛfɛ? ni yi jɔ lo kan, i fanka giriya tɛ dugukolo sanfɛla ta bɔ."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-NextGen boloda ye FAA bɛ ka min laɲini kun bɛ na pankuru pansira surunɲa ani taji digan caama nɔkɔya san o san ani ka fuɲɛjugubɔ lajɔ.,science/technology,N/A,"""NextGen boloda ye FAA bɛ ka min laɲini kun bɛ na pankuru pansira surunɲa ani taji digan caama nɔkɔya san o san ani ka fuɲɛjugubɔ lajɔ."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: tech</s>"
-"Nerolozi kunafoniw be pirewu wilibali di hakilina fɛrɛ siratigɛ fɛ dɔni kalanlila. O la, a be ɲɛɲinili yɔrɔw dɔgɔya ani b'a to be kɛ wilibali ye.",science/technology,travel,"""Nerolozi kunafoniw be pirewu wilibali di hakilina fɛrɛ siratigɛ fɛ dɔni kalanlila. O la, a be ɲɛɲinili yɔrɔw dɔgɔya ani b'a to be kɛ wilibali ye."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"A ka lɛrɛ 2 kumalase senfɛ a ko ""Bi  Apple bena Iphone in lakurakura ya, an bena don tariku la sisan"".",science/technology,N/A,"""A ka lɛrɛ 2 kumalase senfɛ a ko ""Bi  Apple bena Iphone in lakurakura ya, an bena don tariku la sisan""."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: tech</s>"
-Zooms kɔlɔ ye fokali gƐlƐya ni kuntilenna fƐn minw hakƐka kan yasa fokaliw cƐjanɲa gamu sɔrɔ kaɲi kɔsɔbƐ ka tƐmƐ kuntilenna folow kan.,science/technology,travel,"""Zooms kɔlɔ ye fokali gƐlƐya ni kuntilenna fƐn minw hakƐka kan yasa fokaliw cƐjanɲa gamu sɔrɔ kaɲi kɔsɔbƐ ka tƐmƐ kuntilenna folow kan."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"A bɔlen do jabarani yɔrɔjanlabaarala dɔ fɛ, labaaralikɛla in  be baara kɛ ni talikɛla fila ye minnuw be bila jabarani kɛrɛfɛ k'a kɛyɔrɔ suma.",science/technology,travel,"""A bɔlen do jabarani yɔrɔjanlabaarala dɔ fɛ, labaaralikɛla in  be baara kɛ ni talikɛla fila ye minnuw be bila jabarani kɛrɛfɛ k'a kɛyɔrɔ suma."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-DɔnnikƐlaw ko ko nin datanfƐn faarikansi tun ɲƐ  ye worojiima de ye a kan ani ɲƐ  ladibilen walima ɲƐ  karotenoyide a kɔrɔla yanfa.,science/technology,N/A,"""DɔnnikƐlaw ko ko nin datanfƐn faarikansi tun ɲƐ  ye worojiima de ye a kan ani ɲƐ  ladibilen walima ɲƐ  karotenoyide a kɔrɔla yanfa."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: agriculture</s>"
-"O fɛn fila bɛ baara kɛ ɲɔgɔn fɛ ka kɛ kisɛkisɛniw ye minnu bese ka sukunɛbara ka baara lajɔ, sanfɛkalanso koɲɛɲininaw ko ten.",science/technology,travel,"""O fɛn fila bɛ baara kɛ ɲɔgɔn fɛ ka kɛ kisɛkisɛniw ye minnu bese ka sukunɛbara ka baara lajɔ, sanfɛkalanso koɲɛɲininaw ko ten."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-O resolisiyɔn di min be 35 mm negatiwu siyɛn naani bɔ (3136 mm2 nin 864).,science/technology,entertainment,"""O resolisiyɔn di min be 35 mm negatiwu siyɛn naani bɔ (3136 mm2 nin 864)."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: entertainment</s>"
-"Nin kɔkɔjiduguma ɛntɛrɛnɛti filijuruw ye, fili dugulen Erɔpula ani satelitibaw la, Greenland tugulen na kaɲɛ nin u yɔrɔ mɔgɔ 93 kɛmɛ sarala akisɛsɔrɔli ɛntɛrɛnɛti la.",science/technology,travel,"""Nin kɔkɔjiduguma ɛntɛrɛnɛti filijuruw ye, fili dugulen Erɔpula ani satelitibaw la, Greenland tugulen na kaɲɛ nin u yɔrɔ mɔgɔ 93 kɛmɛ sarala akisɛsɔrɔli ɛntɛrɛnɛti la."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Apilikasiyɔn ba kelen nin bɔnda in na ye Google kanbayɛlɛmala ye, min kanyɛlɛmali danga ɛntɛrɛni kɔfɛ tumamina nin ye kan kunafoniw ɲininlen terisarize.",science/technology,N/A,"""Apilikasiyɔn ba kelen nin bɔnda in na ye Google kanbayɛlɛmala ye, min kanyɛlɛmali danga ɛntɛrɛni kɔfɛ tumamina nin ye kan kunafoniw ɲininlen terisarize."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: tech</s>"
-"A b'a molekili cogola kelen ne ta ali na sɔrɔ a kɛra fiyɛn, ji walima jalen ye.",science/technology,N/A,"""A b'a molekili cogola kelen ne ta ali na sɔrɔ a kɛra fiyɛn, ji walima jalen ye."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: culture</s>"
-"Widewo dilan natilli y'an sama ka ɲɛɲiniliw nafan ma cama kɛ farikolo tabolo finitiw ɲɛfɔlila, ɲɛda yɛlɛmaw cogoya ɲɛfɔlila minunw ye milisekɔndi damadami dɔrɔn.",science/technology,travel,"""Widewo dilan natilli y'an sama ka ɲɛɲiniliw nafan ma cama kɛ farikolo tabolo finitiw ɲɛfɔlila, ɲɛda yɛlɛmaw cogoya ɲɛfɔlila minunw ye milisekɔndi damadami dɔrɔn."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-Adamadenw be lunɛtiw dilan ani k'u dɔn cɛɲali kama kabini san bayirikaw kɔnɔ.,science/technology,travel,"""Adamadenw be lunɛtiw dilan ani k'u dɔn cɛɲali kama kabini san bayirikaw kɔnɔ."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"A tɛ kelen dɔrɔn ye koyi, sɛgɛsɛgɛli lajɛli, ani sɛgɛsɛgɛli dɔ ye sɛgɛsɛgɛli ye min be nati walasa ka hakilina kelen walima fila den gɛrɛfɛ, ɲininkaliw kɛli ani lajɛliw kɛli be dɔni ɲɛɲininli nɛfɛ.",science/technology,travel,"""A tɛ kelen dɔrɔn ye koyi, sɛgɛsɛgɛli lajɛli, ani sɛgɛsɛgɛli dɔ ye sɛgɛsɛgɛli ye min be nati walasa ka hakilina kelen walima fila den gɛrɛfɛ, ɲininkaliw kɛli ani lajɛliw kɛli be dɔni ɲɛɲininli nɛfɛ."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Waati jateminɛla, jiri senw falen na nin nɛgɛ senw ye. San ba 1767, tirɛnboli siraw dafalen nana.",science/technology,travel,"""Waati jateminɛla, jiri senw falen na nin nɛgɛ senw ye. San ba 1767, tirɛnboli siraw dafalen nana."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Ali na sɔrɔ pisiw camaw kaɲi walasa ka weleli kɛ yɔrɔ bɛɛ la, dɔw sipesiyalizeleno wele nɔgɔmani dilila piriw la ka jamana kulu kɛrɛnkɛrɛni dɔw la.",science/technology,travel,"""Ali na sɔrɔ pisiw camaw kaɲi walasa ka weleli kɛ yɔrɔ bɛɛ la, dɔw sipesiyalizeleno wele nɔgɔmani dilila piriw la ka jamana kulu kɛrɛnkɛrɛni dɔw la."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-Sisan ɲɛɲinlini lajɛlikɛlaw camaw ye yɔrɔw bele belebaw ye yɔrɔ yanw la nin waati cogoya ɲuman ye.,science/technology,travel,"""Sisan ɲɛɲinlini lajɛlikɛlaw camaw ye yɔrɔw bele belebaw ye yɔrɔ yanw la nin waati cogoya ɲuman ye."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-lasɔmiseni bɛ foko ji sanfɛ ka da sanfɛla fanga ye.,science/technology,travel,"""lasɔmiseni bɛ foko ji sanfɛ ka da sanfɛla fanga ye."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Yangan 35 mm ni 36 mm yangan 24 mm janɲa kan be taa  tiɲƐ la, o be se ka fili mɔgɔ u ma.",science/technology,entertainment,"""Yangan 35 mm ni 36 mm yangan 24 mm janɲa kan be taa  tiɲƐ la, o be se ka fili mɔgɔ u ma."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: entertainment</s>"
-"Farikolobɔnw ye fɛn fitini ani mako kabɔn ɲɛnɛmaya kalanlila, tiɲɛla, nin u be wele ko ""ɲɛnɛmaya sojɔlanw"".",science/technology,travel,"""Farikolobɔnw ye fɛn fitini ani mako kabɔn ɲɛnɛmaya kalanlila, tiɲɛla, nin u be wele ko ""ɲɛnɛmaya sojɔlanw""."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-Kelen ŊPN (kelena erezo dugulen) di baw ye sira ɲumanba ye ka panli ye politiki baliliw ani feere ɛntɛrɛnɛti tamasiyɛnw sɛnsɛnli kuna.,science/technology,politics,"""Kelen ŊPN (kelena erezo dugulen) di baw ye sira ɲumanba ye ka panli ye politiki baliliw ani feere ɛntɛrɛnɛti tamasiyɛnw sɛnsɛnli kuna."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: politics</s>"
-"Hali n'a sɔrɔ gyroscope kɔnna ka tunun dugukolokɔkan-cakɛda ka ci senfɛ, cakɛda m'a kɛcogo bila.",science/technology,N/A,"""Hali n'a sɔrɔ gyroscope kɔnna ka tunun dugukolokɔkan-cakɛda ka ci senfɛ, cakɛda m'a kɛcogo bila."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: military</s>"
-"Andũ arĩa makorago na mwĩcirĩrie ta ũcio nĩmahotaga kũririkana mĩtaratara, kũona ihonia na kũruta wĩra kũringana na ithimi cia sayansi.",science/technology,travel,"""Andũ arĩa makorago na mwĩcirĩrie ta ũcio nĩmahotaga kũririkana mĩtaratara, kũona ihonia na kũruta wĩra kũringana na ithimi cia sayansi."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Bakanmisɛnniw dunni kadi jakumawaraw ye. U bɛ warabilenw, saaw, sokomisɛnniw, ani kɔnɔw n'u bɛ se. Bakanmisɛnninw tilan minw bɛ minɛ jakumawara fɛ ka dɔkɔ kɔsɔbƐ kojugun ka tɛmɛ a yɛrɛ kan.",science/technology,travel,"""Bakanmisɛnniw dunni kadi jakumawaraw ye. U bɛ warabilenw, saaw, sokomisɛnniw, ani kɔnɔw n'u bɛ se. Bakanmisɛnninw tilan minw bɛ minɛ jakumawara fɛ ka dɔkɔ kɔsɔbƐ kojugun ka tɛmɛ a yɛrɛ kan."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Filimu fɔrima fitini kamera dɔw be 6 nin 6 cm fɔrima itilize, kɛrɛnkɛrɛniyala 56 nin 56 mm negatiwu.",science/technology,entertainment,"""Filimu fɔrima fitini kamera dɔw be 6 nin 6 cm fɔrima itilize, kɛrɛnkɛrɛniyala 56 nin 56 mm negatiwu."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: entertainment</s>"
-A ɲinineno woyasi kɛlaw fɛ kosɛbɛ u k'u janto faratiw ka kabɔ waati cogoya juguma kan min ye kɔlɔlɔ ye o yɔrɔ la komi u be seka i ka woyasi pilanw tiɲɛ.,travel,travel,"""A ɲinineno woyasi kɛlaw fɛ kosɛbɛ u k'u janto faratiw ka kabɔ waati cogoya juguma kan min ye kɔlɔlɔ ye o yɔrɔ la komi u be seka i ka woyasi pilanw tiɲɛ."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Bisiw be bɔ karitiyew ɲɔgɔncɛ bisi jɔyɔrɔla (ka tɛmɛ jifɛ) tile kɔnɔ, ali na sɔrɔ camaw, kɛrɛnkɛrɛniyala minunw be ɲɛsin kɔrɔnma ani Jakar/Bumthang be b'ɔ sanga 6:30 ani 7:30 ɲɔgɔncɛ.",travel,travel,"""Bisiw be bɔ karitiyew ɲɔgɔncɛ bisi jɔyɔrɔla (ka tɛmɛ jifɛ) tile kɔnɔ, ali na sɔrɔ camaw, kɛrɛnkɛrɛniyala minunw be ɲɛsin kɔrɔnma ani Jakar/Bumthang be b'ɔ sanga 6:30 ani 7:30 ɲɔgɔncɛ."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-U be sitabilite ba di sobolilikɛla ma nka be seka lakana kunbala nati ko sababu kɛ sobolila senw be ka balan u la.,travel,travel,"""U be sitabilite ba di sobolilikɛla ma nka be seka lakana kunbala nati ko sababu kɛ sobolila senw be ka balan u la."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Baltic batɔn ninunw camaw ye jɔli jan kɛ St. Petersburg, Russie kɔnɔ.",travel,travel,"""Baltic batɔn ninunw camaw ye jɔli jan kɛ St. Petersburg, Russie kɔnɔ."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Ladilikan b'a jigiya ko waoyasikɛlaw mankan suyɛnlikɛ, dansagoli, sendɔn suku kɔnlen dɔ la, delili walima cogoya wɛrɛ la ka min mɔgɔw la u ka nafan kama.",travel,travel,"""Ladilikan b'a jigiya ko waoyasikɛlaw mankan suyɛnlikɛ, dansagoli, sendɔn suku kɔnlen dɔ la, delili walima cogoya wɛrɛ la ka min mɔgɔw la u ka nafan kama."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-Fɛnw camaw beyi i kan ka min jateminɛ yani and tumamina i be ka woyase ka ta yɔrɔ dɔ la.,travel,travel,"""Fɛnw camaw beyi i kan ka min jateminɛ yani and tumamina i be ka woyase ka ta yɔrɔ dɔ la."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Funteni dɔn la, woyasikɛlaw be seka  hakili wasu wasu ye min bena jira ola ko ji beyi (walima fɛn wɛrɛ).",travel,travel,"""Funteni dɔn la, woyasikɛlaw be seka  hakili wasu wasu ye min bena jira ola ko ji beyi (walima fɛn wɛrɛ)."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Duw nin denmisɛniw ye yeli ka dɔgɔ, nka dunajiginyɔrɔ dɔw b'a to ka dɔn suɲɛkɔnɔ kɛrɛnkɛrɛnlen kɔnɔ.",travel,travel,"""Duw nin denmisɛniw ye yeli ka dɔgɔ, nka dunajiginyɔrɔ dɔw b'a to ka dɔn suɲɛkɔnɔ kɛrɛnkɛrɛnlen kɔnɔ."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Misalila, fɔlɔfɔlɔ satow lajɛli Loire Valley kɔnɔ, Rhine Valle walima batɔntali ka dugu nafanw la Danube sanfɛ walima batɔnbili Erie Canal fɛ.",travel,travel,"""Misalila, fɔlɔfɔlɔ satow lajɛli Loire Valley kɔnɔ, Rhine Valle walima batɔntali ka dugu nafanw la Danube sanfɛ walima batɔnbili Erie Canal fɛ."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-A kaɲi ka tɛmɛ woyasi ɲɛnɛbɔba baarakɛla dɔ fɛ min maraliw woyaziw o kumu kɔnɔ minunw nin ta ye kelen ye.,travel,travel,"""A kaɲi ka tɛmɛ woyasi ɲɛnɛbɔba baarakɛla dɔ fɛ min maraliw woyaziw o kumu kɔnɔ minunw nin ta ye kelen ye."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-Fotɛyijisanfɛpani daminɛna Zanwuyekalo 2004 tumamina ɔridinatɛri porogaramu kɛla Casey Fenton ye cogoya nɔgɔmani sɔrɔ ka ta Islande nka ma sigiyɔrɔ sɔrɔ ka to yen.,travel,N/A,"""Fotɛyijisanfɛpani daminɛna Zanwuyekalo 2004 tumamina ɔridinatɛri porogaramu kɛla Casey Fenton ye cogoya nɔgɔmani sɔrɔ ka ta Islande nka ma sigiyɔrɔ sɔrɔ ka to yen."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: tech</s>"
-kalanden wizaw ɲininli fɛnw tɛ kelen waaticamala ani a sɔrɔli baaraw turisiw gansanw fɛ walima baarakɛ wizaw.,travel,travel,"""kalanden wizaw ɲininli fɛnw tɛ kelen waaticamala ani a sɔrɔli baaraw turisiw gansanw fɛ walima baarakɛ wizaw."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-Jamana kelenw kelenw ka sariya kɛrɛnkɛrɛni fɛnɛ beyi min jatogola yɛrɛdɛmɛ fɛnw minunw kan ka kɛ mɔbili kɔnɔ.,travel,travel,"""Jamana kelenw kelenw ka sariya kɛrɛnkɛrɛni fɛnɛ beyi min jatogola yɛrɛdɛmɛ fɛnw minunw kan ka kɛ mɔbili kɔnɔ."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Ali na sɔrɔ azansi camaw be fɛka yɔrɔmara nɔrɔmaliw kɛɛ, woyasi ɲɛnɛbɔba baarakɛla camaw b'u yɛrɛw sipesiyalize kɛrɛnkɛrɛniyala woyasi suguya dɔw kan, waaribɔta filancɛ walima lajɛɛkikɛyɔrɔ.",travel,travel,"""Ali na sɔrɔ azansi camaw be fɛka yɔrɔmara nɔrɔmaliw kɛɛ, woyasi ɲɛnɛbɔba baarakɛla camaw b'u yɛrɛw sipesiyalize kɛrɛnkɛrɛniyala woyasi suguya dɔw kan, waaribɔta filancɛ walima lajɛɛkikɛyɔrɔ."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-Woyazikɛlaw be seka lala fɛnɲɛnɛmani kilinkɛraw bɛn u tɛ minunw dɔn u ka maarayɔrɔw la.,travel,travel,"""Woyazikɛlaw be seka lala fɛnɲɛnɛmani kilinkɛraw bɛn u tɛ minunw dɔn u ka maarayɔrɔw la."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Kɔkɔdugu yanfan fɛnɛ, Sanctuary of Lady of Fatima (Alabatoso) ɲumanba lajɛ, yɔrɔ min kodɔnleno diɲɛ fan bɛɛ kada Mari ka bɔliw kan.s",travel,travel,"""Kɔkɔdugu yanfan fɛnɛ, Sanctuary of Lady of Fatima (Alabatoso) ɲumanba lajɛ, yɔrɔ min kodɔnleno diɲɛ fan bɛɛ kada Mari ka bɔliw kan.s"" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-Noũhũthĩre boda-boda (duthi) gũthiũrũrũka Goma. Marĩhi ma (kawaida) nĩ 500 Congolese Francs gucerio handu hanini.,travel,travel,"""Noũhũthĩre boda-boda (duthi) gũthiũrũrũka Goma. Marĩhi ma (kawaida) nĩ 500 Congolese Francs gucerio handu hanini."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Ka ɲɛsin mɔgɔ min be kɛnɛma baaraw fɛ, tama ka ta Sea ani Sky kɔnɔna sirafɛ nafan kabɔn.",travel,travel,"""Ka ɲɛsin mɔgɔ min be kɛnɛma baaraw fɛ, tama ka ta Sea ani Sky kɔnɔna sirafɛ nafan kabɔn."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Sena lajɛli dɔ (min be wele fɛrɛ ""kunkokɔnɔna tama"", ""kuluyɛlɛ tama"" walima tali ""tama tama na"") be kɛ kuluyɛlɛ ye, lɛri damadɔni dɔrɔn walima tile camaw.",travel,travel,"""Sena lajɛli dɔ (min be wele fɛrɛ ""kunkokɔnɔna tama"", ""kuluyɛlɛ tama"" walima tali ""tama tama na"") be kɛ kuluyɛlɛ ye, lɛri damadɔni dɔrɔn walima tile camaw."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Sira kelen min beyi ka cili teliya kun ye ka ci inafɔ minɛn tɔgɔ sɛbɛnlen. Pankuruso sariyaw t'u yamariya ka minɛnw jalan kelenw ci, i bena do yɔrɔ mina.",travel,travel,"""Sira kelen min beyi ka cili teliya kun ye ka ci inafɔ minɛn tɔgɔ sɛbɛnlen. Pankuruso sariyaw t'u yamariya ka minɛnw jalan kelenw ci, i bena do yɔrɔ mina."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-Tirɛnwotorow 300 fara la 1.300 kan walasa ka jamakafoba nɔgɔya.,travel,travel,"""Tirɛnwotorow 300 fara la 1.300 kan walasa ka jamakafoba nɔgɔya."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Denbayaw nin den fitiniw ye mako be lala labɛn camaw la, nka tile kelen kɛrɛma ɲɛnɛjɛbaaraw be seka kɛ nɔgɔyala ali nin denw ye ani denmisɛni minunw be zariden na.",travel,travel,"""Denbayaw nin den fitiniw ye mako be lala labɛn camaw la, nka tile kelen kɛrɛma ɲɛnɛjɛbaaraw be seka kɛ nɔgɔyala ali nin denw ye ani denmisɛni minunw be zariden na."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Mɔgɔw mɔgɔw bena fili ka jigi sanfɛlara walima kulu sanfɛ kan ɲɛzi jateminɛ, gilasi walima nɛnɛjuguman ba.",travel,travel,"""Mɔgɔw mɔgɔw bena fili ka jigi sanfɛlara walima kulu sanfɛ kan ɲɛzi jateminɛ, gilasi walima nɛnɛjuguman ba."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Bibi in na, Tombouctou ye fanta dugu ye, ali na sɔrɔ a tɔgɔ be turisiw sama, ani ayeropɔri beyi.",travel,travel,"""Bibi in na, Tombouctou ye fanta dugu ye, ali na sɔrɔ a tɔgɔ be turisiw sama, ani ayeropɔri beyi."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Ɲɛzifiyɛnkolɔnbaw waatila, ɲɛzi dɔni dɔrɔn min be sek'i balan be seka jigin waati fitini bɛɛ la.",travel,travel,"""Ɲɛzifiyɛnkolɔnbaw waatila, ɲɛzi dɔni dɔrɔn min be sek'i balan be seka jigin waati fitini bɛɛ la."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"In i be fɛka woyase pankuru kɔnɔ diɲɛ fan bɛɛ worodugu emisifɛri kɔnɔ, pankuru woyasiw ani yɔrɔw danbɔleno ko sababu kɛɛ kɔkɔjiw siraw tugubali ye ɲɔgɔna.",travel,travel,"""In i be fɛka woyase pankuru kɔnɔ diɲɛ fan bɛɛ worodugu emisifɛri kɔnɔ, pankuru woyasiw ani yɔrɔw danbɔleno ko sababu kɛɛ kɔkɔjiw siraw tugubali ye ɲɔgɔna."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Pankurusow inafɔ Emirates, Etihad, Airways, Quatar Airways and Turkish Airways y'u ka sɛriwisiw bɔɲa kosɛbɛ ka ɲɛsin Farafina ma, ani be tuguliw kɛ ka ta Farafina dugu baw la nin piri nɔgɔmaniw ye ka tɛmɛ Erɔpu pankurusow kan.",travel,travel,"""Pankurusow inafɔ Emirates, Etihad, Airways, Quatar Airways and Turkish Airways y'u ka sɛriwisiw bɔɲa kosɛbɛ ka ɲɛsin Farafina ma, ani be tuguliw kɛ ka ta Farafina dugu baw la nin piri nɔgɔmaniw ye ka tɛmɛ Erɔpu pankurusow kan."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Taakasegi tɛ ka kɛ ani danfɛnɛkɛsiramɔbiliw tɛ na jɔ Wembley, ani mɔbilifitinijɔyɔrɔ ni jɔli-ni-boli minɛw tɛ baara kɛ dugukolo kan.",travel,sports,"""Taakasegi tɛ ka kɛ ani danfɛnɛkɛsiramɔbiliw tɛ na jɔ Wembley, ani mɔbilifitinijɔyɔrɔ ni jɔli-ni-boli minɛw tɛ baara kɛ dugukolo kan."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: sports</s>"
-"bakurubala, tolila kɔfɛ jamana fɛnw fɛnw kɔnɔ waatikuntalajan la bena ɲinin i fɛ ka wiza ɲinin ka bila.",travel,travel,"""bakurubala, tolila kɔfɛ jamana fɛnw fɛnw kɔnɔ waatikuntalajan la bena ɲinin i fɛ ka wiza ɲinin ka bila."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-MetropPlus ani Metro kɔlɔsilibaw be tirɛn bɛɛ kɔnɔ; MetroPlus kɔlɔsilikɛlaw be waatibɛɛ tirɛn dan na Cape Town gɛrɛfɛ.,travel,travel,"""MetropPlus ani Metro kɔlɔsilibaw be tirɛn bɛɛ kɔnɔ; MetroPlus kɔlɔsilikɛlaw be waatibɛɛ tirɛn dan na Cape Town gɛrɛfɛ."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-Mɔgɔ bɛɛ be sen dɔn dugubaara la ani be tiransipɔri sira itilize. Mɔgɔw bɛɛ b'u damagasi tiransipɔri siraw cogoyala.,travel,travel,"""Mɔgɔ bɛɛ be sen dɔn dugubaara la ani be tiransipɔri sira itilize. Mɔgɔw bɛɛ b'u damagasi tiransipɔri siraw cogoyala."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Komi mɔgɔ caman tɛ a yɔrɔw la, ani polisiyɔn fitini dɔrɔn ne be yen ola ote problemoun ye tuma dɔw la, i be sekana nisondiya nin lolow ye.",travel,travel,"""Komi mɔgɔ caman tɛ a yɔrɔw la, ani polisiyɔn fitini dɔrɔn ne be yen ola ote problemoun ye tuma dɔw la, i be sekana nisondiya nin lolow ye."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-Visa ɲininfɛnw an'a sɔngɔn be yɛlɛma kabɔ jamanaw dɔ la ka ta jamana dɔ la ani be ɛnfiliyanse nin i beka jamana mina ye.,travel,travel,"""Visa ɲininfɛnw an'a sɔngɔn be yɛlɛma kabɔ jamanaw dɔ la ka ta jamana dɔ la ani be ɛnfiliyanse nin i beka jamana mina ye."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Na njĩra ndaya, hatirĩ bata wa kwenda kũnyihĩrio marĩhi ma itĩ cia business kana first class ũkiuma A nginya B",travel,travel,"""Na njĩra ndaya, hatirĩ bata wa kwenda kũnyihĩrio marĩhi ma itĩ cia business kana first class ũkiuma A nginya B"" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-Boomerang filili ye se kodɔnlen ye turisiw camaw be fɛka min kalan.,travel,travel,"""Boomerang filili ye se kodɔnlen ye turisiw camaw be fɛka min kalan."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-Woyasi pankurula dɔrɔn teyi nin i be fɛka pan Pasifiki Worodugu yanfan kuna ani Ameriki di Sud jida tileben yanfan kan. (a lajɛ duguma).,travel,travel,"""Woyasi pankurula dɔrɔn teyi nin i be fɛka pan Pasifiki Worodugu yanfan kuna ani Ameriki di Sud jida tileben yanfan kan. (a lajɛ duguma)."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"San Francisco ye turusi infirasirikiti ba camaw dilan nin ɔtɛli camaw ye, dugunikɛyɔrɔw, ani yɔrɔbaw minunw be diɲɛ yɔrɔbaw jɔcogo bato.",travel,travel,"""San Francisco ye turusi infirasirikiti ba camaw dilan nin ɔtɛli camaw ye, dugunikɛyɔrɔw, ani yɔrɔbaw minunw be diɲɛ yɔrɔbaw jɔcogo bato."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-Alakamabaarakɛli tumamina nin be woyasila ye sira ɲumanba ye ka danfara bɔ nka o tɛ dili dɔrɔn kuna.,travel,travel,"""Alakamabaarakɛli tumamina nin be woyasila ye sira ɲumanba ye ka danfara bɔ nka o tɛ dili dɔrɔn kuna."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-Adũ nomage kũmenya atĩ wetereri na ũmenyo nĩũkoragwo wĩ wa bata kũri athii magĩcoka muciĩ,travel,travel,"""Adũ nomage kũmenya atĩ wetereri na ũmenyo nĩũkoragwo wĩ wa bata kũri athii magĩcoka muciĩ"" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Kana ɲina ka wiza waari fara depansi wɛrɛ kan, tali takisi, tuma tiransipɔri, dɔ wɛrɛ nin yɔrɔ ninunw bɛɛla Farafina kɔfɛ.",travel,travel,"""Kana ɲina ka wiza waari fara depansi wɛrɛ kan, tali takisi, tuma tiransipɔri, dɔ wɛrɛ nin yɔrɔ ninunw bɛɛla Farafina kɔfɛ."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-Bishkek sigibagaw caman tun jigina mɔgɔmurutiniw la ka bɔ worodugu fɛ sariya bonyabaliya la.,politics,N/A,"""Bishkek sigibagaw caman tun jigina mɔgɔmurutiniw la ka bɔ worodugu fɛ sariya bonyabaliya la."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: military</s>"
-Bɛliziki bi-sigiyɔrɔw tun yed Luxembourg fan dɔ ye fɔlɔ nka u kɛra Bɛliziki ta ye Bɛlizikikaw ka yɛlɛma kɔfɛ san 1830 kɔnɔ.,politics,travel,"""Bɛliziki bi-sigiyɔrɔw tun yed Luxembourg fan dɔ ye fɔlɔ nka u kɛra Bɛliziki ta ye Bɛlizikikaw ka yɛlɛma kɔfɛ san 1830 kɔnɔ."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Kabi san 1988, yeli bɛ kɛ kɛsu fɛ walasa kalatalaw ni jateminɛkɛlaw k'a sereya ko forokoni tɛ ye kalata daminɛna ani ko forokoniwɛrɛw ma fara n'a bɔra minnu jatera ani kalatayamaruyalenw.",politics,travel,"""Kabi san 1988, yeli bɛ kɛ kɛsu fɛ walasa kalatalaw ni jateminɛkɛlaw k'a sereya ko forokoni tɛ ye kalata daminɛna ani ko forokoniwɛrɛw ma fara n'a bɔra minnu jatera ani kalatayamaruyalenw."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-DɛmɛMinisiriɲɛmɔgɔ Julia Gillard y'a ɲini san 2010 jamanadorogonikalata-yɛrɛkofɔ senfɛ k'a dara a la ko Australie bɛ na kɛ jamana kelen ye Masakɛmuso Elizabeth ka fanga laban na.,politics,politics,"""DɛmɛMinisiriɲɛmɔgɔ Julia Gillard y'a ɲini san 2010 jamanadorogonikalata-yɛrɛkofɔ senfɛ k'a dara a la ko Australie bɛ na kɛ jamana kelen ye Masakɛmuso Elizabeth ka fanga laban na."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: World politics</s>"
-Irilandi marabaaw be k'u sinsin Wasabulon sariyasen teliman in kan ka ko in latilen.,politics,entertainment,"""Irilandi marabaaw be k'u sinsin Wasabulon sariyasen teliman in kan ka ko in latilen."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: entertainment</s>"
-Politiki `mankanw maarayɔrɔ kuna be bek'alisa Armenie ani Azerbajan ka  cɛw cɛn.,politics,N/A,"""Politiki `mankanw maarayɔrɔ kuna be bek'alisa Armenie ani Azerbajan ka  cɛw cɛn."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: military</s>"
-"Minisiri Ɲɛmɔgɔ Stephen Harper sɔnna ka jamana ɲɛmogow ka "" Fiyɛn Jɛlen Sariyasen"" ci  tɔn-bɛɛ-jɛkulu dɔ ma yasa ka lajƐkura  ye tugun yani a kalan ko filana cɛ, Taratadon sanga 25 ɲɔgɔnye kɔfɛ ni NDP ɲɛmogo Jack Layton ye PMO la.",politics,politics,"""Minisiri Ɲɛmɔgɔ Stephen Harper sɔnna ka jamana ɲɛmogow ka "" Fiyɛn Jɛlen Sariyasen"" ci  tɔn-bɛɛ-jɛkulu dɔ ma yasa ka lajƐkura  ye tugun yani a kalan ko filana cɛ, Taratadon sanga 25 ɲɔgɔnye kɔfɛ ni NDP ɲɛmogo Jack Layton ye PMO la."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: politics</s>"
-"Nikwarĩ mĩrũrũngano mĩnene mweri mũhetũku kũria Poland rĩrĩa bũrũri ũcio wahũrire kĩrore ACTA, ĩrĩa ĩtũmĩte thirikari ya Poland ĩtue dĩkũhetũkia wĩiguithanio ũcio.",politics,politics,"""Nikwarĩ mĩrũrũngano mĩnene mweri mũhetũku kũria Poland rĩrĩa bũrũri ũcio wahũrire kĩrore ACTA, ĩrĩa ĩtũmĩte thirikari ya Poland ĩtue dĩkũhetũkia wĩiguithanio ũcio."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: World politics</s>"
-Ladilikanw ye dɔrɔn dakuruɲɛ dama damani ye jamana dɔ politi ko cogoya kan.,politics,travel,"""Ladilikanw ye dɔrɔn dakuruɲɛ dama damani ye jamana dɔ politi ko cogoya kan."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"San 1976  San 1976 kalataw waatiw la, a be Carter bilasira jamana kɔkan politiki tabolow kan, ani ka laban ka kɛ jamana lakana bilasirali jɔyɔrɔ kƐ ((JLB) ka bɔ san 1977 ka ta san 1981, Henry Kissinger kɔfɛ .",politics,politics,"""San 1976  San 1976 kalataw waatiw la, a be Carter bilasira jamana kɔkan politiki tabolow kan, ani ka laban ka kɛ jamana lakana bilasirali jɔyɔrɔ kƐ ((JLB) ka bɔ san 1977 ka ta san 1981, Henry Kissinger kɔfɛ ."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: politics</s>"
-"Turki bena a jɔ fɛnɛ ni ISIS ka kƐlƐden minɛlenw la donni ye minw ni erɔpu jamanaw ye I ban lasegifaso la, kunafoni laseli cogo fƐ,  ne don u ka segin so ma.",politics,N/A,"""Turki bena a jɔ fɛnɛ ni ISIS ka kƐlƐden minɛlenw la donni ye minw ni erɔpu jamanaw ye I ban lasegifaso la, kunafoni laseli cogo fƐ,  ne don u ka segin so ma."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: military</s>"
-"Nka, o fɛɛrɛ ninunw kun kɔrɔla suki ni dugujɛ cɛ, tumamina nin kɛlɛkɛdenw min ka ca nin ban 800.000 ka bɔ SoViet's Union Red Army dɔna ani ka Bielorussie dilan, ani Ukraine kɛlɛkɛyɔrɔ bolo u kɛnikɔ ka Pɔlɔɲi kɔrɔn maarayɔrɔ minɛ nin Riga Peace Treaty, Soviet-Polish Non-Agression Pact, ani diɲɛ bɛnkan wɛrɛw, jamana fila ni ɲɔgɔcɛ ani jamana cam nin ɲɔgɔncɛ batobaliya ye.",politics,N/A,"""Nka, o fɛɛrɛ ninunw kun kɔrɔla suki ni dugujɛ cɛ, tumamina nin kɛlɛkɛdenw min ka ca nin ban 800.000 ka bɔ SoViet's Union Red Army dɔna ani ka Bielorussie dilan, ani Ukraine kɛlɛkɛyɔrɔ bolo u kɛnikɔ ka Pɔlɔɲi kɔrɔn maarayɔrɔ minɛ nin Riga Peace Treaty, Soviet-Polish Non-Agression Pact, ani diɲɛ bɛnkan wɛrɛw, jamana fila ni ɲɔgɔcɛ ani jamana cam nin ɲɔgɔncɛ batobaliya ye."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: military</s>"
-"Taabolo in kɔfɛ, HJR-3 bena sɛgɛsɛgɛ ko kura  Wasabulon nataa in fɛ min bena sigi  san 2015 wala 2016 ka taabolo in to senna",politics,politics,"""Taabolo in kɔfɛ, HJR-3 bena sɛgɛsɛgɛ ko kura  Wasabulon nataa in fɛ min bena sigi  san 2015 wala 2016 ka taabolo in to senna"" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: politics</s>"
-"A latigɛ nin kɔ Wasadenbulɔn fɛ Zuyekalo tile 4, tigɛra sɛbɛni tigɛnon bila mina Wasadenbulɔn ɲɛmɔgɔ fɛ John Hancock ani Sɛkiretɛri Charles Thomson cira ka ta so damani damani dɔrɔn John Dunlap gafedilanyɔrɔ.",politics,travel,"""A latigɛ nin kɔ Wasadenbulɔn fɛ Zuyekalo tile 4, tigɛra sɛbɛni tigɛnon bila mina Wasadenbulɔn ɲɛmɔgɔ fɛ John Hancock ani Sɛkiretɛri Charles Thomson cira ka ta so damani damani dɔrɔn John Dunlap gafedilanyɔrɔ."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"11:00 tƐmƐra drɔn, mamurutilenw ye sira tigƐ kƐɲƐkan fƐ siraba kan Whitehall kɔnɔ.",politics,travel,"""11:00 tƐmƐra drɔn, mamurutilenw ye sira tigƐ kƐɲƐkan fƐ siraba kan Whitehall kɔnɔ."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"O n'a bɛɛ Zuyekalo la san 1956, Kruschev ka lahiduw gɛlɛyara k'a sabu kɛ Pɔlɔɲi mankanw min senfɛ baarakɛlaw murutila balokodɛsɛ ni sara jiginni na, k'a laban foroba murutili la Kominizimu kama.",politics,N/A,"""O n'a bɛɛ Zuyekalo la san 1956, Kruschev ka lahiduw gɛlɛyara k'a sabu kɛ Pɔlɔɲi mankanw min senfɛ baarakɛlaw murutila balokodɛsɛ ni sara jiginni na, k'a laban foroba murutili la Kominizimu kama."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: military</s>"
-"A tun kan ka mɛn ka se san 40 nataw ma ani kun bena kɛlɛkɛ tiɲɛla, yɔrɔjan kɛlɛ nin kɛlɛbolo wɛrɛw ye, kɛlɛkɛnɛw ka ta Afiriki ka ta bila Asie, Afghanistan, Cuba kɔnɔ and yɔrɔ cama wɛɛrɛw la.",politics,travel,"""A tun kan ka mɛn ka se san 40 nataw ma ani kun bena kɛlɛkɛ tiɲɛla, yɔrɔjan kɛlɛ nin kɛlɛbolo wɛrɛw ye, kɛlɛkɛnɛw ka ta Afiriki ka ta bila Asie, Afghanistan, Cuba kɔnɔ and yɔrɔ cama wɛɛrɛw la."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-Kalo tɛmɛnen ɲɛmɔgɔya so jɛkulu dɔ ye laɲini gɛlɛma kɛ ko CEP ka baara bila kɛ fɔlɔ  inafɔ labɛn sariyaw fan dɔ min bɛ jamana lataa kalafili kuraw la.,politics,N/A,"""Kalo tɛmɛnen ɲɛmɔgɔya so jɛkulu dɔ ye laɲini gɛlɛma kɛ ko CEP ka baara bila kɛ fɔlɔ  inafɔ labɛn sariyaw fan dɔ min bɛ jamana lataa kalafili kuraw la."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: finance</s>"
-Ko kuma wɛrɛw sera Isirayɛli jamana ka siniɲɛsigin ma min ka gɛlɛn jamana fila nunuw ma ani Zɔrɔdani Kulufurancɛ ko ma.,politics,travel,"""Ko kuma wɛrɛw sera Isirayɛli jamana ka siniɲɛsigin ma min ka gɛlɛn jamana fila nunuw ma ani Zɔrɔdani Kulufurancɛ ko ma."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-Fanga fana tun te ala walasa ka nisɔngo kow ni songɔw labaara jamanabolow ni ɲɔgɔn cɛ.,politics,travel,"""Fanga fana tun te ala walasa ka nisɔngo kow ni songɔw labaara jamanabolow ni ɲɔgɔn cɛ."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-Faransi kalatasariya ye gundo don a kɛcogow la sisan.,politics,travel,"""Faransi kalatasariya ye gundo don a kɛcogow la sisan."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Dɔgɔkun kelen furancɛ kalata ciliw  kɔfɛ, Bush kumana jama dɔ fɛ jago  yiriwali kan Asia",politics,politics,"""Dɔgɔkun kelen furancɛ kalata ciliw  kɔfɛ, Bush kumana jama dɔ fɛ jago  yiriwali kan Asia"" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: World politics</s>"
-"Fɛɛrɛ tun ɲɛna, ka minɛkunbabaw tigɛ kɛlɛdenw ni mɔgɔgansanw la, hali ni a sɔrɔ ni datuguli in tun bɛ diɲɛlamini sariya sɔsɔ kosɛbɛ bɛn kɛra min kan diiɲɛlaminisankɛmɛfilalabanbɛnkansɛbɛnw fɛ.",politics,travel,"""Fɛɛrɛ tun ɲɛna, ka minɛkunbabaw tigɛ kɛlɛdenw ni mɔgɔgansanw la, hali ni a sɔrɔ ni datuguli in tun bɛ diɲɛlamini sariya sɔsɔ kosɛbɛ bɛn kɛra min kan diiɲɛlaminisankɛmɛfilalabanbɛnkansɛbɛnw fɛ."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-Sɔrɔ baaraw dilana nin Maldive fan filaw ni ɲɔgɔncɛ ali na sɔrɔ politiki sikafɔw ma taɲɛ.,politics,travel,"""Sɔrɔ baaraw dilana nin Maldive fan filaw ni ɲɔgɔncɛ ali na sɔrɔ politiki sikafɔw ma taɲɛ."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"A bilasiralen cacɛɲɛmɔgɔ ninnu fɛ, aye Texas kaw hakilila tigɛ ko fɛɛrɛw be ka ta walasa ka jaman ka  lakana sabati.",politics,travel,"""A bilasiralen cacɛɲɛmɔgɔ ninnu fɛ, aye Texas kaw hakilila tigɛ ko fɛɛrɛw be ka ta walasa ka jaman ka  lakana sabati."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-Jɔliko kurayali in timinandiya foroba kɔrɔfɔw y'u sinsin jɔli kura dili saratiw kan k'a di Washington kɔnɔ mɔgɔw ma,politics,travel,"""Jɔliko kurayali in timinandiya foroba kɔrɔfɔw y'u sinsin jɔli kura dili saratiw kan k'a di Washington kɔnɔ mɔgɔw ma"" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"N'a bɔra kalatala 1,400 na minnu bɛ san 2010 jamanadorokonikalata ko la, minnu y'u kɔda Australie ka bɛjɛnfanga ye yɛlɛra ni 8 ye kɛmɛ sarada san 2008.",politics,travel,"""N'a bɔra kalatala 1,400 na minnu bɛ san 2010 jamanadorokonikalata ko la, minnu y'u kɔda Australie ka bɛjɛnfanga ye yɛlɛra ni 8 ye kɛmɛ sarada san 2008."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-Lasigidenw y'a fɔ k'u tun ye dibidibifɛn jɔnjɔn sɔrɔ Afuganisitan  siriyakolo la walasa ka kalafili takofilana in kɛ manamana ye.,politics,N/A,"""Lasigidenw y'a fɔ k'u tun ye dibidibifɛn jɔnjɔn sɔrɔ Afuganisitan  siriyakolo la walasa ka kalafili takofilana in kɛ manamana ye."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: military</s>"
-"Jabiw bɔni kɔ, Gingrich ye Santorum fo, nka a ka kumakankolon sera Romney ma, min tun sababu ye mankutujugu lase a ma.",politics,politics,"""Jabiw bɔni kɔ, Gingrich ye Santorum fo, nka a ka kumakankolon sera Romney ma, min tun sababu ye mankutujugu lase a ma."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: politics</s>"
-Ni ye Martelly ka CEP duurunan ye san naani kɔnɔ.,politics,politics,"""Ni ye Martelly ka CEP duurunan ye san naani kɔnɔ."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: politics</s>"
-"Olympic sanujɔnjɔntabaa kun kakan ka yɛrɛsako-ni-taakasekinɔnni kɛ mɛtiri 100 ni mɛtiri 200 la angilɛfɔjamanaw ka tulonkɛw la, nka k'a da a ka damakasiw kan sika kɛra n'a bɛ bɛn.",sports,sports,"""Olympic sanujɔnjɔntabaa kun kakan ka yɛrɛsako-ni-taakasekinɔnni kɛ mɛtiri 100 ni mɛtiri 200 la angilɛfɔjamanaw ka tulonkɛw la, nka k'a da a ka damakasiw kan sika kɛra n'a bɛ bɛn."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: sports</s>"
-"Ka fara Olɛnpik ni diyɛn ŋana dɔ kan, Saito tun ye Zapɔn ka waatiw bɛɛ Zido Kalankɛ Kulu ɲɛmɔgɔ ye a sa waati.",sports,sports,"""Ka fara Olɛnpik ni diyɛn ŋana dɔ kan, Saito tun ye Zapɔn ka waatiw bɛɛ Zido Kalankɛ Kulu ɲɛmɔgɔ ye a sa waati."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: sports</s>"
-"Diyɛn Olɛnpik Kulu ye kala ta farikoloɲɛnajɛ nunu ladonni na uka ɲɛmɔgɔ ɲɔgɔnye la bi Bɛrilɛn. Rigibi kɛrɛnkɛrɛnnenyala mɔgɔ 15 Rugby, ani Golf de sugandila farikoloɲɛnajɛ duuru wɛrɛw cɛla walasa k'u sen don Olinpik Ɲɛnajɛw la.",sports,sports,"""Diyɛn Olɛnpik Kulu ye kala ta farikoloɲɛnajɛ nunu ladonni na uka ɲɛmɔgɔ ɲɔgɔnye la bi Bɛrilɛn. Rigibi kɛrɛnkɛrɛnnenyala mɔgɔ 15 Rugby, ani Golf de sugandila farikoloɲɛnajɛ duuru wɛrɛw cɛla walasa k'u sen don Olinpik Ɲɛnajɛw la."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: Sports</s>"
-San ɲɔgɔndantulɔn belebele ba be kɛ Desanburukalo kɔnɔ polo zuwekɛyɔrɔw la Las Canitas kɔnɔ.,sports,sports,"""San ɲɔgɔndantulɔn belebele ba be kɛ Desanburukalo kɔnɔ polo zuwekɛyɔrɔw la Las Canitas kɔnɔ."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: sports</s>"
-"Kabini a naara Katalan faaba kɔnɔ, Vidal ye ntolatan 49 de kƐ a ka kulubu ye.",sports,sports,"""Kabini a naara Katalan faaba kɔnɔ, Vidal ye ntolatan 49 de kƐ a ka kulubu ye."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: Sports</s>"
-"Farikolo kɛnɛya barika dakɛɲɛnali marali, jimi waleyaw ɲuma barali ani dafana fɛnw cogoya cama famuya be seka farikoloɲɛnɛjɛra dɛmɛ ka ka dɔfara a farikolo se kan ani ka ka farikoloɲɛnɛjɛ damu bɔnɲa.",sports,travel,"""Farikolo kɛnɛya barika dakɛɲɛnali marali, jimi waleyaw ɲuma barali ani dafana fɛnw cogoya cama famuya be seka farikoloɲɛnɛjɛra dɛmɛ ka ka dɔfara a farikolo se kan ani ka ka farikoloɲɛnɛjɛ damu bɔnɲa."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"A sabananjɔyɔrɔ la, Hamlin ye kuru mugan jɛn kɔfɛ, nka duuru b'a bolo ka tɛmɛ Bowyer la. Kahne ni Truex, Jr. kɛra ye duurunan ni wɔrɔnan ye ka tuku ɲɔgɔn kɔ ni kuru 2,220 ani 2,207 ye.",sports,sports,"""A sabananjɔyɔrɔ la, Hamlin ye kuru mugan jɛn kɔfɛ, nka duuru b'a bolo ka tɛmɛ Bowyer la. Kahne ni Truex, Jr. kɛra ye duurunan ni wɔrɔnan ye ka tuku ɲɔgɔn kɔ ni kuru 2,220 ani 2,207 ye."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: Sports</s>"
-Nadal ni  Kanadakaw ka ɲɔgonsɔrɔ jaate ye 7-2.,sports,sports,"""Nadal ni  Kanadakaw ka ɲɔgonsɔrɔ jaate ye 7-2."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: Sports</s>"
-Jacque tun be ntolatan ɲɛbila ladegeli dɔ la sɔkɔma joona fɛ   Coverciano Itali kɔnɔ. A tun be ntolatan kulu ka dunanjigiso la yani ntolatan dɔ cɛ karidon Bolonia juguya la.,sports,sports,"""Jacque tun be ntolatan ɲɛbila ladegeli dɔ la sɔkɔma joona fɛ   Coverciano Itali kɔnɔ. A tun be ntolatan kulu ka dunanjigiso la yani ntolatan dɔ cɛ karidon Bolonia juguya la."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: sports</s>"
-BolifƐnko magƐlƐya ye maaw jagoya ka tulontankƐ  kasɔrɔ kulu jukɔrɔma dodonibaw ma do.,sports,travel,"""BolifƐnko magƐlƐya ye maaw jagoya ka tulontankƐ  kasɔrɔ kulu jukɔrɔma dodonibaw ma do."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Tommy Dreamer ko ""Luna tun ye Extreme ka Masamuso ye. Ne kalanbagafɔlɔ. Luna banna kalofilasu don. A ɲɔgɔn tun tɛ ye. Muso seni tun do.""",sports,entertainment,"""Tommy Dreamer ko ""Luna tun ye Extreme ka Masamuso ye. Ne kalanbagafɔlɔ. Luna banna kalofilasu don. A ɲɔgɔn tun tɛ ye. Muso seni tun do."""" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: entertainment</s>"
-Polandi suranfiyɛn cɛw ka jikurubolila Maciej Krezel n'a ka yiralikɛla Anna Ogarzynska tilala jɔyɔrɔ tan ni saabanan na Super-G ɲɔgɔndan la. Sudi Kore Jong Seork Park tilala jɔyɔrɔ mugan ni naaninan na cɛw ka Supper-G ɲɔgɔndan la.,sports,sports,"""Polandi suranfiyɛn cɛw ka jikurubolila Maciej Krezel n'a ka yiralikɛla Anna Ogarzynska tilala jɔyɔrɔ tan ni saabanan na Super-G ɲɔgɔndan la. Sudi Kore Jong Seork Park tilala jɔyɔrɔ mugan ni naaninan na cɛw ka Supper-G ɲɔgɔndan la."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: Sports</s>"
-"Nin kunafoni ye ɲɔgɔndantulɔnw kan ani yɔrɔmina ka tikew san polo zuyew lajɛli kama, Asociacion Argentina de Polo lajɛ.",sports,sports,"""Nin kunafoni ye ɲɔgɔndantulɔnw kan ani yɔrɔmina ka tikew san polo zuyew lajɛli kama, Asociacion Argentina de Polo lajɛ."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: Sports</s>"
-"Mathako majirie thaa inya cia rũcinĩ kwĩna rĩera rĩega tiga gũthuthua kwa rũcinĩ kũrĩa gwathirire naihenya, warĩ mũthenya mwega mũno wa 7's rugby.",sports,sports,"""Mathako majirie thaa inya cia rũcinĩ kwĩna rĩera rĩega tiga gũthuthua kwa rũcinĩ kũrĩa gwathirire naihenya, warĩ mũthenya mwega mũno wa 7's rugby."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: sports</s>"
-Mɛkisiki Arly Velasquez tilala jɔyɔrɔ tan ni duurunan la cɛw ka Supper-G senfɛ. Niwu Zelandi Adam Hall tilala jɔyɔrɔ kɔnɔtɔnnan na cɛw ka Super-G ɲɔgɔndan sen fɛ.,sports,sports,"""Mɛkisiki Arly Velasquez tilala jɔyɔrɔ tan ni duurunan la cɛw ka Supper-G senfɛ. Niwu Zelandi Adam Hall tilala jɔyɔrɔ kɔnɔtɔnnan na cɛw ka Super-G ɲɔgɔndan sen fɛ."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: sports</s>"
-"Tolonkuncɛtolon bɛ na kɛ Ellis Park, Johannesburg kɔnɔ, dɔgɔcɛ wɛrɛ, min senfɛ Springboks ni Ɔsitirali bɛ na ɲɔgɔn sɔrɔ.",sports,sports,"""Tolonkuncɛtolon bɛ na kɛ Ellis Park, Johannesburg kɔnɔ, dɔgɔcɛ wɛrɛ, min senfɛ Springboks ni Ɔsitirali bɛ na ɲɔgɔn sɔrɔ."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: Sports</s>"
-"Cogoya ɲumanw na, i bena seka yɔrɔ camaw boli cogoyala min tɛ tama ye - nka cogoya gɛlɛna i bena seka dugufulancɛ boli siki witɛsi sɔrɔ nin kɔlasaki girin ma tɛ sira dilaniw kan.",sports,travel,"""Cogoya ɲumanw na, i bena seka yɔrɔ camaw boli cogoyala min tɛ tama ye - nka cogoya gɛlɛna i bena seka dugufulancɛ boli siki witɛsi sɔrɔ nin kɔlasaki girin ma tɛ sira dilaniw kan."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Ni kuru wolonfila ye min y'u bɔ ɲɔgɔn na  kɔfɛ, Johnson ye filanan ye ni kuru 2,243 ye.",sports,sports,"""Ni kuru wolonfila ye min y'u bɔ ɲɔgɔn na  kɔfɛ, Johnson ye filanan ye ni kuru 2,243 ye."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: Sports</s>"
-"Bolili kulufulancɛ jira sanfɛ (walima bolili kulufulancɛɛ jira sanfɛ) ye ka kulu dugumalara, min be seka ja walima faleno jila.",sports,travel,"""Bolili kulufulancɛ jira sanfɛ (walima bolili kulufulancɛɛ jira sanfɛ) ye ka kulu dugumalara, min be seka ja walima faleno jila."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Robin Uthappa ye bere ndolan bɛɛ la cɛlu sɔrɔ, boli 70 ndolan 41dron na ni gosili nanani 11 ani woroni 2",sports,sports,"""Robin Uthappa ye bere ndolan bɛɛ la cɛlu sɔrɔ, boli 70 ndolan 41dron na ni gosili nanani 11 ani woroni 2"" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: Sports</s>"
-"Jikuru waati farikoloɲɛnajɛw de dɔnnen ba don, Worodugu yanfanw fɛ, wa Italikaw sen be ye diyɛn tulogɛ ni Olɛnpik ɲɛnɛjɛw la.",sports,travel,"""Jikuru waati farikoloɲɛnajɛw de dɔnnen ba don, Worodugu yanfanw fɛ, wa Italikaw sen be ye diyɛn tulogɛ ni Olɛnpik ɲɛnɛjɛw la."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-Maroochydore labanan yɛlɛyɛlɛnan bɛɛ la  sanfɛ ni kuru jɛlen wɔrɔ ye ka Noosa kɛ filanan ye,sports,sports,"""Maroochydore labanan yɛlɛyɛlɛnan bɛɛ la  sanfɛ ni kuru jɛlen wɔrɔ ye ka Noosa kɛ filanan ye"" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: sports</s>"
-"Michael Schumacher tilala aka ɲɔgɔndan na sɔɔni Alonso kɔfɛ, k'a sabu kɛ mɔbili jɔlan ciyɛnni ye kɛlɛ caman senfɛ ɲɔgɔndan in na.",sports,sports,"""Michael Schumacher tilala aka ɲɔgɔndan na sɔɔni Alonso kɔfɛ, k'a sabu kɛ mɔbili jɔlan ciyɛnni ye kɛlɛ caman senfɛ ɲɔgɔndan in na."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: sports</s>"
-"dumuniɲumannafama yɛrɛ yɛrɛ waleyaw dɔrɔn tɛ seka sanfɛla farikolo se d'ima, nka u be seka farikoloɲɛnɛjɛlaw denmisɛniw ka kɛnɛya yɛlɛma cogoyabala.",sports,travel,"""dumuniɲumannafama yɛrɛ yɛrɛ waleyaw dɔrɔn tɛ seka sanfɛla farikolo se d'ima, nka u be seka farikoloɲɛnɛjɛlaw denmisɛniw ka kɛnɛya yɛlɛma cogoyabala."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"a ma se k'a furaw ta munu b'a ka dimi mada, bawo jɛn kɛlen tɛ n'u ye tulonw na .",sports,travel,"""a ma se k'a furaw ta munu b'a ka dimi mada, bawo jɛn kɛlen tɛ n'u ye tulonw na ."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-Ɲɛninili ye jira ko musow ka teli ka nzɛbɛn bana in sɔrɔ siyɛn ka tɛmɛ cɛ kan.,health,travel,"""Ɲɛninili ye jira ko musow ka teli ka nzɛbɛn bana in sɔrɔ siyɛn ka tɛmɛ cɛ kan."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Jama jama camaw be seka sɔrɔ sipiriti kɔnlenw la minunw be seka kɛ metanɔli ye, min be seka fiyɛn nati walima saya ali a fitini minli.",health,travel,"""Jama jama camaw be seka sɔrɔ sipiriti kɔnlenw la minunw be seka kɛ metanɔli ye, min be seka fiyɛn nati walima saya ali a fitini minli."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Dimi kɔlɔlɔ dɔrɔn, min tɛ jigitigɛ ani jɔrɔ ye fɛnw ye dɔgɔkun PA baaraw sirileno mina.",health,travel,"""Dimi kɔlɔlɔ dɔrɔn, min tɛ jigitigɛ ani jɔrɔ ye fɛnw ye dɔgɔkun PA baaraw sirileno mina."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Andũ magĩa ngari nyingĩ nĩmatũmaga mĩtino mĩingi ya barabara yonekane, na mĩtambo ya kĩ-riu nĩ ĩbatarĩkanaga nginya mathibitarĩ-inĩ gũthondeka mĩĩri ĩrĩa mĩtihangie.",health,travel,"""Andũ magĩa ngari nyingĩ nĩmatũmaga mĩtino mĩingi ya barabara yonekane, na mĩtambo ya kĩ-riu nĩ ĩbatarĩkanaga nginya mathibitarĩ-inĩ gũthondeka mĩĩri ĩrĩa mĩtihangie."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-" Ɲinninikɛla jɔnjɔnw  ko ko o be se ka to boɔ bana, Sɔgɔsɔgɔnijɛ, SIDA bana ani Sumaya sƐgƐsƐgƐli joona ka se ka kƐ banabatɔw dɛsɛbato jamana la, yɔrɔ minw na ni boɔbanatɔ inafɔ sin na boɔ balota hakƐ bese ka dɔgɔya ni setigi jamanaw ta tila.",health,health,""" Ɲinninikɛla jɔnjɔnw  ko ko o be se ka to boɔ bana, Sɔgɔsɔgɔnijɛ, SIDA bana ani Sumaya sƐgƐsƐgƐli joona ka se ka kƐ banabatɔw dɛsɛbato jamana la, yɔrɔ minw na ni boɔbanatɔ inafɔ sin na boɔ balota hakƐ bese ka dɔgɔya ni setigi jamanaw ta tila."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: health</s>"
-"Dr. Ehud Ur, kɛnɛya karamɔkɔ Dalhousie sanfɛ kalanso la Halifax, Nova Scotia ani Kanada sukɔrɔbana jɛkulu tɔn kɛnɛyako ni ɲinini cakɛda ɲɛmoko ye lasɔnni kɛ ka yira ko ɲininiw ma ta yɔrɔ jan fɔlɔ.",health,travel,"""Dr. Ehud Ur, kɛnɛya karamɔkɔ Dalhousie sanfɛ kalanso la Halifax, Nova Scotia ani Kanada sukɔrɔbana jɛkulu tɔn kɛnɛyako ni ɲinini cakɛda ɲɛmoko ye lasɔnni kɛ ka yira ko ɲininiw ma ta yɔrɔ jan fɔlɔ."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"U denmisɛniw b'u yɛrɛ do kunbalan cama na bari u be dɔn ""farati kow la, kɛlɛw la, fagan sɔsɔ baaraw la"" walasa ka hakili nisondiya ba bari u hakili tɛ nisondiya nin fɛɛrɛ nɔrɔmaliw ye.",health,travel,"""U denmisɛniw b'u yɛrɛ do kunbalan cama na bari u be dɔn ""farati kow la, kɛlɛw la, fagan sɔsɔ baaraw la"" walasa ka hakili nisondiya ba bari u hakili tɛ nisondiya nin fɛɛrɛ nɔrɔmaliw ye."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-Adamadenw ninakilitɔ bɛ se k'a sɔrɔ ji fɛ min bɛ se ka sanfɛla sɔrɔ fiɲɛ ni jilonbolabatɔ fɛ.,health,travel,"""Adamadenw ninakilitɔ bɛ se k'a sɔrɔ ji fɛ min bɛ se ka sanfɛla sɔrɔ fiɲɛ ni jilonbolabatɔ fɛ."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-Mɔgɔ dɔw dalen n'ala ko suko dilanlen jɔlen cama natili be seka sɛgɛ damatɛmɛ wale nati.,health,travel,"""Mɔgɔ dɔw dalen n'ala ko suko dilanlen jɔlen cama natili be seka sɛgɛ damatɛmɛ wale nati."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Potro furakɛra a kaman na o waati in na, nk'a sera ka segin ɲɔgɔndan in na.",health,sports,"""Potro furakɛra a kaman na o waati in na, nk'a sera ka segin ɲɔgɔndan in na."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: sports</s>"
-"Farakan fɔlila, a ɲɛnɛbɔ baliyala be seka kɔlɔlɔ juguma nati: kɔrɔbayali gɛlɛya, dumuni nafan ma dɔn ni baliya bana, ani laban laban na saya.",health,travel,"""Farakan fɔlila, a ɲɛnɛbɔ baliyala be seka kɔlɔlɔ juguma nati: kɔrɔbayali gɛlɛya, dumuni nafan ma dɔn ni baliya bana, ani laban laban na saya."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-Duguɲɛmɔgɔw minnu bɛ Amsterdam ni sekonidɔnkomaraso Anne Frank kama ko  biyɛlɛnbaana bɛ yiriw minɛ min  bɛ se ka mɔgɔw ka kɛnɛya bila ngalama na u ka dalu kɛra k'a bɛ yɛlɛman farati kɔnɔ.,health,travel,"""Duguɲɛmɔgɔw minnu bɛ Amsterdam ni sekonidɔnkomaraso Anne Frank kama ko  biyɛlɛnbaana bɛ yiriw minɛ min  bɛ se ka mɔgɔw ka kɛnɛya bila ngalama na u ka dalu kɛra k'a bɛ yɛlɛman farati kɔnɔ."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Kɛnɛyaso in ye banayɛlɛma kunbɛ taabolo bato, no dɔ ye ka banabaatɔ in mabɔ tɔw la walasa ka banayɛlɛmali bali.",health,travel,"""Kɛnɛyaso in ye banayɛlɛma kunbɛ taabolo bato, no dɔ ye ka banabaatɔ in mabɔ tɔw la walasa ka banayɛlɛmali bali."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-Institute ya Haiti ya Justice na Democracy nĩĩgwetete ũthuthuria wa mwanya ũrĩa ũronania aigi thayũ a UN a Nepal mahota gũkorwo nĩo marehire mũtuthũko ũcio Haiti matekũmenya.,health,politics,"""Institute ya Haiti ya Justice na Democracy nĩĩgwetete ũthuthuria wa mwanya ũrĩa ũronania aigi thayũ a UN a Nepal mahota gũkorwo nĩo marehire mũtuthũko ũcio Haiti matekũmenya."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: World politics</s>"
-"Bana juguw yɛrɛw, walima bagan faratilenw minunw be seka mɔgɔw bana walima faga nin fagan ye, tɛ jate waaticama inafɔ fɛnɲɛnɛmani mɔgɔtɔrɔlaw.",health,travel,"""Bana juguw yɛrɛw, walima bagan faratilenw minunw be seka mɔgɔw bana walima faga nin fagan ye, tɛ jate waaticama inafɔ fɛnɲɛnɛmani mɔgɔtɔrɔlaw."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Jatekɛminɛbaliya Bana be denmisɛni minunw na be gɛlɛya sɔrɔ walasa ko ɲɛsin fɛnw ma inafɔ lɛkɔli baara, nka u be seka ɲsɛin fɛnw ma minw ka d'o ye inafɔ zuye kɛli walima i jaɲɛ wakulɔni filɛli walima kumasen sɛbɛni nin tomi sɛbɛn baliya ye.",health,travel,"""Jatekɛminɛbaliya Bana be denmisɛni minunw na be gɛlɛya sɔrɔ walasa ko ɲɛsin fɛnw ma inafɔ lɛkɔli baara, nka u be seka ɲsɛin fɛnw ma minw ka d'o ye inafɔ zuye kɛli walima i jaɲɛ wakulɔni filɛli walima kumasen sɛbɛni nin tomi sɛbɛn baliya ye."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"San kelen kɔnɔna na, banabaatɔ kelen be se ka banakisɛ in yɛlɛma a masurunna mɔgɔ 10 k'a se 15 ma.",health,travel,"""San kelen kɔnɔna na, banabaatɔ kelen be se ka banakisɛ in yɛlɛma a masurunna mɔgɔ 10 k'a se 15 ma."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Kɛlɛ banni, madiminiw tani kɔ ka taa dɔkɔtɔrɔso la, a bɛ mɔgɔ 40 hakɛ bɔ kasodenw na minnu bana ka segi kasobonw kɔnɔ.",health,travel,"""Kɛlɛ banni, madiminiw tani kɔ ka taa dɔkɔtɔrɔso la, a bɛ mɔgɔ 40 hakɛ bɔ kasodenw na minnu bana ka segi kasobonw kɔnɔ."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-Furakɛlikɛlalaw y'a daminɛ ka ta baara la Fangamasa Augustus fɛ wa u ye Roman Furakɛlikɛli Baarakɛbolo fɔlɔ sigi senkan min tun kakan ka baarakɛ kɛlɛ kɔfɛ.,health,N/A,"""Furakɛlikɛlalaw y'a daminɛ ka ta baara la Fangamasa Augustus fɛ wa u ye Roman Furakɛlikɛli Baarakɛbolo fɔlɔ sigi senkan min tun kakan ka baarakɛ kɛlɛ kɔfɛ."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: culture</s>"
-Nka mɔbilibolila in banana a kunkolo la ka juguya.,health,travel,"""Nka mɔbilibolila in banana a kunkolo la ka juguya."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"""Kalo nani ɲinɛw be an bolo sisan sukarɔbana te minw la ni hali kasɔrɔ a tun be ula"", a ye fɔ ka o fara a kan.",health,travel,"""""Kalo nani ɲinɛw be an bolo sisan sukarɔbana te minw la ni hali kasɔrɔ a tun be ula"", a ye fɔ ka o fara a kan."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-Kɔnɔna dɔngɔnɔn be seka y'o yɔrɔninbɛla. O waleyaw inafɔ fɔnɔli ye dangɛ min ma se sɛgɛsɛgɛli jɔna jɔna ma.,health,travel,"""Kɔnɔna dɔngɔnɔn be seka y'o yɔrɔninbɛla. O waleyaw inafɔ fɔnɔli ye dangɛ min ma se sɛgɛsɛgɛli jɔna jɔna ma."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"O kɔlɔlɔ kɛra a minbagaw bɛ ɲɛnaminisisi min caman, ani sekonidɔnkotigilamɔgɔw yɛrɛ bɛ ka u lamɛnbagaw lasu ka don a la.",entertainment,travel,"""O kɔlɔlɔ kɛra a minbagaw bɛ ɲɛnaminisisi min caman, ani sekonidɔnkotigilamɔgɔw yɛrɛ bɛ ka u lamɛnbagaw lasu ka don a la."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-Aerosmith y'aka munumunu ɲɛnajɛ tɔw bɔ ama,entertainment,entertainment,"""Aerosmith y'aka munumunu ɲɛnajɛ tɔw bɔ ama"" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: entertainment</s>"
-"Nin i be fɛka ka kɛ tulɔnbaaraw gɛrɛfɛ, i kan kana jɔna walasa ka sigiyɔrɔ sɔrɔ dɔngili gɛrɛfɛ.",entertainment,travel,"""Nin i be fɛka ka kɛ tulɔnbaaraw gɛrɛfɛ, i kan kana jɔna walasa ka sigiyɔrɔ sɔrɔ dɔngili gɛrɛfɛ."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-Filimu cogoya camaw beyi minunw natila san cama tɛmɛni kɔnɔ. Filimu nɔrɔmali 35 (36 nin 24 milimɛtiri negatiwu ye) ye kodɔnlen ba ye.,entertainment,entertainment,"""Filimu cogoya camaw beyi minunw natila san cama tɛmɛni kɔnɔ. Filimu nɔrɔmali 35 (36 nin 24 milimɛtiri negatiwu ye) ye kodɔnlen ba ye."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: entertainment</s>"
-"Ali ni o ye baara kodɔnlen ba dɔ ye, a kɔn neno Disney fɛ: tikew tɛ seka yɛlɛma.",entertainment,entertainment,"""Ali ni o ye baara kodɔnlen ba dɔ ye, a kɔn neno Disney fɛ: tikew tɛ seka yɛlɛma."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: entertainment</s>"
-O kihingo gia kĩbindi kĩu nĩkĩahinyagĩrĩria ũndũ ũmwe ibukuinĩ rĩmwe na gĩkatabania ũhoro ũcio na ng'ano nyingĩ.,entertainment,travel,"""O kihingo gia kĩbindi kĩu nĩkĩahinyagĩrĩria ũndũ ũmwe ibukuinĩ rĩmwe na gĩkatabania ũhoro ũcio na ng'ano nyingĩ."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-Jabara belebele caama tun sigira yɔrɔ caama na Rome walasa mɔgɔw ka se ka janaja in lajɛ,entertainment,travel,"""Jabara belebele caama tun sigira yɔrɔ caama na Rome walasa mɔgɔw ka se ka janaja in lajɛ"" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-Sophocoles ni Aristophanes ye hali sisan sɛbɛnnikɛla tɔgɔtigiw ye wa uka sɛbɛnniw be jate diyɛn sɛbɛnni baara baw cɛ la.,entertainment,N/A,"""Sophocoles ni Aristophanes ye hali sisan sɛbɛnnikɛla tɔgɔtigiw ye wa uka sɛbɛnniw be jate diyɛn sɛbɛnni baara baw cɛ la."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: culture</s>"
-Kĩbindi nokiaheaga ciana mwerekera wa mabuku marĩa cigwetha na cithome rĩrĩa ciathiĩ library.,entertainment,N/A,"""Kĩbindi nokiaheaga ciana mwerekera wa mabuku marĩa cigwetha na cithome rĩrĩa ciathiĩ library."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: culture</s>"
-"Akɔridiyɔn kan, walasa ka mankan layɛlɛ, i bɛ nɛgɛniw digi ni fanga ni teliya dɔɔnin ye.",entertainment,travel,"""Akɔridiyɔn kan, walasa ka mankan layɛlɛ, i bɛ nɛgɛniw digi ni fanga ni teliya dɔɔnin ye."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-I be seka piramidiw ye dibila ani i bese k'u ye mankan tan ni tulɔn be daminɛ.,entertainment,travel,"""I be seka piramidiw ye dibila ani i bese k'u ye mankan tan ni tulɔn be daminɛ."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Yɔrɔlajɛli baaraw milisaliw dɔ ye sogofaga ye, jɛgɛmɔw, fotota, kɔnɔlajɛ ani parikuw lajɛli, ani kunafoniw kalani yɔrɔ ani jiri kɛcogoyala.",entertainment,travel,"""Yɔrɔlajɛli baaraw milisaliw dɔ ye sogofaga ye, jɛgɛmɔw, fotota, kɔnɔlajɛ ani parikuw lajɛli, ani kunafoniw kalani yɔrɔ ani jiri kɛcogoyala."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-Sphinx bilaleno kɔfɛlala ani inafɔ nzirin janyi ɲɛfɔba.,entertainment,N/A,"""Sphinx bilaleno kɔfɛlala ani inafɔ nzirin janyi ɲɛfɔba."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: culture</s>"
-"Dumuniw, minfɛnw ani tulɔnw kɛrɛnkɛrɛniw b'u bolo ka dunanw marakato nisondiyala ani k'u minɛkato u ka yɔrɔ la.",entertainment,travel,"""Dumuniw, minfɛnw ani tulɔnw kɛrɛnkɛrɛniw b'u bolo ka dunanw marakato nisondiyala ani k'u minɛkato u ka yɔrɔ la."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Dunuyalaminijɛkɛlu bɛ ka ɛsipaɲɔli, Italiyɛn ani kɔreyɛn kanw lasankɔrɔta, jabarani, bɔlɔlɔ ani npalankɔnɔmansinw la.",entertainment,travel,"""Dunuyalaminijɛkɛlu bɛ ka ɛsipaɲɔli, Italiyɛn ani kɔreyɛn kanw lasankɔrɔta, jabarani, bɔlɔlɔ ani npalankɔnɔmansinw la."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-Yani Simpsons cɛ Simon tun ye baarakɛ jɛmukan caman na jɔyɔrɔ caman na.,entertainment,entertainment,"""Yani Simpsons cɛ Simon tun ye baarakɛ jɛmukan caman na jɔyɔrɔ caman na."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: entertainment</s>"
-O b'a to ɲɛnajɛkɛlaw ka se ka ɲɛnajɛ in kɛwalew ni taanikaseginw kɛ u sago la ni mansin in munumununi ye fiyɛn fɛ.,entertainment,travel,"""O b'a to ɲɛnajɛkɛlaw ka se ka ɲɛnajɛ in kɛwalew ni taanikaseginw kɛ u sago la ni mansin in munumununi ye fiyɛn fɛ."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"A dɔgɔyalen Mɔgɔ 100 ye ɲɛnajɛ in lajɛ, walasa ka furudenw ka sanyɛlɛma fɔlɔ furu ɲɛnajɛ kɛ, furu min sirila salo.",entertainment,travel,"""A dɔgɔyalen Mɔgɔ 100 ye ɲɛnajɛ in lajɛ, walasa ka furudenw ka sanyɛlɛma fɔlɔ furu ɲɛnajɛ kɛ, furu min sirila salo."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Filimu kɔrɔ dongili filaw, LamƐl¡ (Fatɔw minw be sugo) ani Dolow ka dugu, sugandira ka kɛ dongiliw bɛƐ la ɲuman danma ye. Studio Lionsgate ye  sugandira siɲɛ 26, ka tƐmƐ filimubɔyɔrɔ wƐrƐ kan.",entertainment,entertainment,"""Filimu kɔrɔ dongili filaw, LamƐl¡ (Fatɔw minw be sugo) ani Dolow ka dugu, sugandira ka kɛ dongiliw bɛƐ la ɲuman danma ye. Studio Lionsgate ye  sugandira siɲɛ 26, ka tƐmƐ filimubɔyɔrɔ wƐrƐ kan."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: entertainment</s>"
-Kɔfara jalen bɔɲan be kilomɛtiri 70 bɔ nin gɛrɛra la ani kilomɛtiri 100 bɔɲa nin ka jan la.,geography,travel,"""Kɔfara jalen bɔɲan be kilomɛtiri 70 bɔ nin gɛrɛra la ani kilomɛtiri 100 bɔɲa nin ka jan la."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-Wɔrɔdugu yanfan dan ye Niagara Falls ye ani kɔkɔdugu yanfan ye Musoka kunko yɛlɛmabali cɛɲuma ye   ani o sanfɛ.,geography,travel,"""Wɔrɔdugu yanfan dan ye Niagara Falls ye ani kɔkɔdugu yanfan ye Musoka kunko yɛlɛmabali cɛɲuma ye   ani o sanfɛ."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Ellsworth land ye penɛnsili worodugu maarayɔrɔ ye, min danbɔleno nin Bellingshausen Sea ye.",geography,travel,"""Ellsworth land ye penɛnsili worodugu maarayɔrɔ ye, min danbɔleno nin Bellingshausen Sea ye."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-South Pole Traverse (walima siraba) ye sira kilomɛtiri 1600 ye kabɔ McMurdo Station Ross Sea sanfɛ ka ta Poli fɛ.,geography,travel,"""South Pole Traverse (walima siraba) ye sira kilomɛtiri 1600 ye kabɔ McMurdo Station Ross Sea sanfɛ ka ta Poli fɛ."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Jolila Machu Picchu kɔkɔdugu yanfan sanfɛla dan na ye nin yɛlɛka jigin kulu in ye, waatidɔwla fotow kɔfɛla ja yɔrɔtɔw ye.",geography,travel,"""Jolila Machu Picchu kɔkɔdugu yanfan sanfɛla dan na ye nin yɛlɛka jigin kulu in ye, waatidɔwla fotow kɔfɛla ja yɔrɔtɔw ye."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-Enceladus dolo ye fɛn dɔ ye tileyeelen kɔnɔ min ye kadi ka tɛmɛ tɔ bɛɛ kan min fɛnɛ bɛ tileyeelen kɛmɛ-kɛmɛ sarada 90 segi a ma.,geography,travel,"""Enceladus dolo ye fɛn dɔ ye tileyeelen kɔnɔ min ye kadi ka tɛmɛ tɔ bɛɛ kan min fɛnɛ bɛ tileyeelen kɛmɛ-kɛmɛ sarada 90 segi a ma."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-Fɛn wɛrɛ tɛ se ka ye ni a bɔra sankolo cɛɲumanni-jɛman i sanfɛ ni kuluw caman minnu bɛ ka i lamini. Diɲɛ fan foyi ye man di walema mɛ man di ka i to a kɔnɔ.,geography,travel,"""Fɛn wɛrɛ tɛ se ka ye ni a bɔra sankolo cɛɲumanni-jɛman i sanfɛ ni kuluw caman minnu bɛ ka i lamini. Diɲɛ fan foyi ye man di walema mɛ man di ka i to a kɔnɔ."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-Sisan Zapɔn ka ko la. Zapɔn tun ye gun jamana dɔ ye inafɔ Biritaɲi.,geography,travel,"""Sisan Zapɔn ka ko la. Zapɔn tun ye gun jamana dɔ ye inafɔ Biritaɲi."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Fiɲɛjuguba Gonu, min tɔgɔ dara ntenbulubɔrɔkelen na Malidivikan na, k'a to a dan bɛɛ la tun bɛ kɛ funufunuba min bɛ kilomɛtɛrɛ 240 boli sanga kelen kɔnɔ (nɔngɔnɲɛ 149 sanga kelen kɔnɔ).",geography,travel,"""Fiɲɛjuguba Gonu, min tɔgɔ dara ntenbulubɔrɔkelen na Malidivikan na, k'a to a dan bɛɛ la tun bɛ kɛ funufunuba min bɛ kilomɛtɛrɛ 240 boli sanga kelen kɔnɔ (nɔngɔnɲɛ 149 sanga kelen kɔnɔ)."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Tiriki dugukolo, k'a fara dalaw kan, bɛ kilomɛtɛrɛ_kare 783.562 (nɔgɔn_kare ɲɛ 300.948) ta, min cɛma kilomɛtɛrɛ_kare 755.688 (nɔngɔn_kare ɲɛ 291.773) Azi worodugu_tilebinyanfan fɛ.",geography,travel,"""Tiriki dugukolo, k'a fara dalaw kan, bɛ kilomɛtɛrɛ_kare 783.562 (nɔgɔn_kare ɲɛ 300.948) ta, min cɛma kilomɛtɛrɛ_kare 755.688 (nɔngɔn_kare ɲɛ 291.773) Azi worodugu_tilebinyanfan fɛ."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"South Shetland Islands, kodɔnlen san 1819 kɔnɔ, tigiya fɔla jamana camaw fɛ  ani sorodasi kanw camaw beyi, nin taniwɔɔrɔ min be baara la san 2020 kɔnɔ.",geography,travel,"""South Shetland Islands, kodɔnlen san 1819 kɔnɔ, tigiya fɔla jamana camaw fɛ  ani sorodasi kanw camaw beyi, nin taniwɔɔrɔ min be baara la san 2020 kɔnɔ."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-Apia ye Samoa faba ye. Dugu be Upolu gun sanfɛ ani a mɔgɔ be dɔni dɔrɔn mɔgɔ 40.000 duguma.,geography,travel,"""Apia ye Samoa faba ye. Dugu be Upolu gun sanfɛ ani a mɔgɔ be dɔni dɔrɔn mɔgɔ 40.000 duguma."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-" Ikomi sanfiyɛn yɔrɔ ka jan dugukolo la, a ka gɛlɛn ka kɔlɔlɔ dɔn Etasini walima Caraïbes.",geography,travel,""" Ikomi sanfiyɛn yɔrɔ ka jan dugukolo la, a ka gɛlɛn ka kɔlɔlɔ dɔn Etasini walima Caraïbes."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-A ka dɔgɔ nin be tasumajisisikulu gɛrɛfɛ ani ka bɔn nin be sanfɛra legelegew la.,geography,travel,"""A ka dɔgɔ nin be tasumajisisikulu gɛrɛfɛ ani ka bɔn nin be sanfɛra legelegew la."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-Kunko ninunw tɛ jijukɔrɔ bin dɔrɔn ye ali na sɔrɔ - u be kunkoba laban tɔlenw ta min kun be Gangetic kulu datugu dɔn tɛmɛnula.,geography,travel,"""Kunko ninunw tɛ jijukɔrɔ bin dɔrɔn ye ali na sɔrɔ - u be kunkoba laban tɔlenw ta min kun be Gangetic kulu datugu dɔn tɛmɛnula."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-Mabu ya United States Geological Survey yonanirie gũtirĩ ithingithia thĩinĩ wa Iceland wiki ĩ mwe mbere.,geography,travel,"""Mabu ya United States Geological Survey yonanirie gũtirĩ ithingithia thĩinĩ wa Iceland wiki ĩ mwe mbere."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-" Kuluwo in bɛ a kelenna, min bɛ kuluw cɛman kelen sanfɛ Makan kaɲɛka la.",geography,travel,""" Kuluwo in bɛ a kelenna, min bɛ kuluw cɛman kelen sanfɛ Makan kaɲɛka la."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
+"Yɛlɛmali be farikolo dilan na yɛlɛmali kura farakan, ani sugandili b'a bɔ kɛnɛkantaw yɛlɛmali kulu cɛla.",science/technology,travel,"SENTENCE:
+ Yɛlɛmali be farikolo dilan na yɛlɛmali kura farakan, ani sugandili b'a bɔ kɛnɛkantaw yɛlɛmali kulu cɛla. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Bɔmu atomiki be baaraw kɛ nin cogoya ye min be kuran fagan ta ka camancɛ dɔ nin porotɔnw ani neturɔnw camawfara ɲɔgɔnkan.,science/technology,science/technology,"SENTENCE:
+ Bɔmu atomiki be baaraw kɛ nin cogoya ye min be kuran fagan ta ka camancɛ dɔ nin porotɔnw ani neturɔnw camawfara ɲɔgɔnkan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+Kɔnɔna dilan ne dɔn ni paritiki fila ye: neturɔn ani purotɔn.,science/technology,travel,"SENTENCE:
+ Kɔnɔna dilan ne dɔn ni paritiki fila ye: neturɔn ani purotɔn. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Nin de ye a to zoom be se ka jaa dɔw bɔ min suguya be kaɲa ni suguya ye min sɔrɔla ni fokali janɲa kuntilenɲa ye.,science/technology,travel,"SENTENCE:
+ Nin de ye a to zoom be se ka jaa dɔw bɔ min suguya be kaɲa ni suguya ye min sɔrɔla ni fokali janɲa kuntilenɲa ye. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"U be ɛntɛrɛni tamasiyɛn jatedenw ɲɛ kun camaw na: u ɛntɛrɛniti siraw bɛɛ fale, min tɛ http dɔrɔn ye.",science/technology,travel,"SENTENCE:
+ U be ɛntɛrɛni tamasiyɛn jatedenw ɲɛ kun camaw na: u ɛntɛrɛniti siraw bɛɛ fale, min tɛ http dɔrɔn ye. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Kumaɲɔgɔnyaɲɛgɛn mako bɛ i k'i hakilinaw jateminɛ tugun kumalase kan ani i ka miiri kalan sira caman kan.,science/technology,travel,"SENTENCE:
+ Kumaɲɔgɔnyaɲɛgɛn mako bɛ i k'i hakilinaw jateminɛ tugun kumalase kan ani i ka miiri kalan sira caman kan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"O kɛra waleya carilen ye, nka nege be cɛni cama kɛ wagɔn jiri senw na.",science/technology,travel,"SENTENCE:
+ O kɛra waleya carilen ye, nka nege be cɛni cama kɛ wagɔn jiri senw na. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"kuluba bɛ talikɛ cɛmankɔrɔlen kelen ka taa saba la, musow denw munu bɛ taa bisaba la.",science/technology,travel,"SENTENCE:
+ kuluba bɛ talikɛ cɛmankɔrɔlen kelen ka taa saba la, musow denw munu bɛ taa bisaba la. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ali na sɔrɔ kɔrɔ cama baw be Al nzirin filimuw kɔnɔ, Al be ɔridinatɛri mariki nafan ma ba dɔ dilan, min baara kɛ nin tabolo ye, kalan ani hakilina dɔni ye masinimanfɛn na.",science/technology,entertainment,"SENTENCE:
+ Ali na sɔrɔ kɔrɔ cama baw be Al nzirin filimuw kɔnɔ, Al be ɔridinatɛri mariki nafan ma ba dɔ dilan, min baara kɛ nin tabolo ye, kalan ani hakilina dɔni ye masinimanfɛn na. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Ni yangan in suguya kunnafoni ( a tilali sigiyɔrɔ ma tan ni fila yasa ka kunnafoni bƐƐ la gansanw jaateden)  a folen do ko min ye 3:2.,science/technology,travel,"SENTENCE:
+ Ni yangan in suguya kunnafoni ( a tilali sigiyɔrɔ ma tan ni fila yasa ka kunnafoni bƐƐ la gansanw jaateden)  a folen do ko min ye 3:2. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Telefɔni satelitiman tɛ waatcamana tɛlɛfɔni pɔritabulu nɔnabila ye, inafɔ i kan ka bɔ kɛnɛma yɔrɔjɛlen na yɔrɔ mina i be sateliti ye ka apɛlikɛ.",science/technology,travel,"SENTENCE:
+ Telefɔni satelitiman tɛ waatcamana tɛlɛfɔni pɔritabulu nɔnabila ye, inafɔ i kan ka bɔ kɛnɛma yɔrɔjɛlen na yɔrɔ mina i be sateliti ye ka apɛlikɛ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ali na sɔrɔ tirɛsira kun dilan neno ni jiri faraw ye, u kun b'ato sow minunw b'a sama ka witesi telima sɔrɔ ani ka dɔni girimanbaw sama ka tɛmɛ sira fitini gɛlɛmaw kan o waatila.",science/technology,travel,"SENTENCE:
+ Ali na sɔrɔ tirɛsira kun dilan neno ni jiri faraw ye, u kun b'ato sow minunw b'a sama ka witesi telima sɔrɔ ani ka dɔni girimanbaw sama ka tɛmɛ sira fitini gɛlɛmaw kan o waatila. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Mɔgɔ bɔra simiman fɛn kalama inafɔ sanu, waricɛ ani sira kabini lawalela, komi u bɛɛ be seka ye kunko kɔnɔ u cogoya jɔnjɔn na ani u sen ka di nin fɔlɔfɔlɔ fɛnw ye.",science/technology,travel,"SENTENCE:
+ Mɔgɔ bɔra simiman fɛn kalama inafɔ sanu, waricɛ ani sira kabini lawalela, komi u bɛɛ be seka ye kunko kɔnɔ u cogoya jɔnjɔn na ani u sen ka di nin fɔlɔfɔlɔ fɛnw ye. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+walan ye dunuya yɛlɛma dabalibancogow la. yɛlɛmabelebele munuw kɛla anw ye  walan fɛ ye ka taakasegi nɔgɔyaliba ni teliyaliba ye.,science/technology,travel,"SENTENCE:
+ walan ye dunuya yɛlɛma dabalibancogow la. yɛlɛmabelebele munuw kɛla anw ye  walan fɛ ye ka taakasegi nɔgɔyaliba ni teliyaliba ye. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+ũndũ ũyũ wĩkagwo nĩguo mbica iihũre gĩcicioinĩ gĩothe. ũndu ũyũ witagwo overscan.,science/technology,travel,"SENTENCE:
+ ũndũ ũyũ wĩkagwo nĩguo mbica iihũre gĩcicioinĩ gĩothe. ũndu ũyũ witagwo overscan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Alimaɲi jijukɔrɔkurunw tun be wele ko U-Boats. Alimaɲi kaw tun be se kɔsɛbɛ jijukɔrɔkurun bolili n'a lataama cogo la.,science/technology,travel,"SENTENCE:
+ Alimaɲi jijukɔrɔkurunw tun be wele ko U-Boats. Alimaɲi kaw tun be se kɔsɛbɛ jijukɔrɔkurun bolili n'a lataama cogo la. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Alina sɔrɔ a farikolo cogoya be seka falen, a dilan cogoya simila be t'a nɔna.",science/technology,travel,"SENTENCE:
+ Alina sɔrɔ a farikolo cogoya be seka falen, a dilan cogoya simila be t'a nɔna. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+sanfɛla fanga bɛ boɲa bawo ji kisɛw bɛ ɲɔkɔn saman ka tɛmɛn fiɲɛ kisɛw kan min b'u sanfɛ.,science/technology,travel,"SENTENCE:
+ sanfɛla fanga bɛ boɲa bawo ji kisɛw bɛ ɲɔkɔn saman ka tɛmɛn fiɲɛ kisɛw kan min b'u sanfɛ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Thĩna ũrĩa mũnene hĩndi ya kũgeria gũcenjia thenema  ĩtuĩke DVD nĩ overscan.,science/technology,entertainment,"SENTENCE:
+ Thĩna ũrĩa mũnene hĩndi ya kũgeria gũcenjia thenema  ĩtuĩke DVD nĩ overscan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"kɛrɛnkɛrɛniyala, a fɔra ko a be seka dɔ nin mɔgɔ dɔ be ka nkalɔn tikɛ nin a farilikolo yɛlɛma cogoya finitiw ɲɛfɔli kaɲɛ kosɛbɛ.",science/technology,travel,"SENTENCE:
+ kɛrɛnkɛrɛniyala, a fɔra ko a be seka dɔ nin mɔgɔ dɔ be ka nkalɔn tikɛ nin a farilikolo yɛlɛma cogoya finitiw ɲɛfɔli kaɲɛ kosɛbɛ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+sanu bɛ se ka bila cogo bɛɛ la. a bɛ se ka gosi k'a dɔgɔya.,science/technology,travel,"SENTENCE:
+ sanu bɛ se ka bila cogo bɛɛ la. a bɛ se ka gosi k'a dɔgɔya. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Al sisitɛmu be itilize waatidɔw la  sɔrɔkalani, medesine, ɛnziɲeriya ani sɔrɔdasiya bɔnda kɔnɔ, inafɔ  ɔridanatɛri ani zuye widewo lozisiyɛluw dilana so cama kɔnɔ.",science/technology,travel,"SENTENCE:
+ Al sisitɛmu be itilize waatidɔw la  sɔrɔkalani, medesine, ɛnziɲeriya ani sɔrɔdasiya bɔnda kɔnɔ, inafɔ  ɔridanatɛri ani zuye widewo lozisiyɛluw dilana so cama kɔnɔ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"A be dilan hali bi-bi in na, ɲa janko, a ka lahalaya kunnafoni taara cƐn na jatalan nimerikiw jaa kaptelanw yangan  fƐ",science/technology,travel,"SENTENCE:
+ A be dilan hali bi-bi in na, ɲa janko, a ka lahalaya kunnafoni taara cƐn na jatalan nimerikiw jaa kaptelanw yangan  fƐ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Tila sabana sariya, min labaralen do kojugun wa burujalen do tuma do, ye sariya guwansan de ye min ni d0 ka fƐn bƐƐ bila u nɔ la jaa kan.",science/technology,travel,"SENTENCE:
+ Tila sabana sariya, min labaralen do kojugun wa burujalen do tuma do, ye sariya guwansan de ye min ni d0 ka fƐn bƐƐ bila u nɔ la jaa kan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"O be a sɛnbɛntiya dɔrɔn ko jolo tun be dinozɔr nunu dɔw la, kumakan min caarilen don ka ban, ɲa a be ɲƐfɔli dɔw dii ni ni fɛnkɔrɔ te se ka o dii tu ma bɛƐ, ina fɔ suguya ani kƐcogo sigiyɔrɔmasaba hakɛ.",science/technology,travel,"SENTENCE:
+ O be a sɛnbɛntiya dɔrɔn ko jolo tun be dinozɔr nunu dɔw la, kumakan min caarilen don ka ban, ɲa a be ɲƐfɔli dɔw dii ni ni fɛnkɔrɔ te se ka o dii tu ma bɛƐ, ina fɔ suguya ani kƐcogo sigiyɔrɔmasaba hakɛ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Lo bɛ munumunu cogo jumɛn nɛ kɛrɛfɛ? ni yi jɔ lo kan, i fanka giriya tɛ dugukolo sanfɛla ta bɔ.",science/technology,travel,"SENTENCE:
+ Lo bɛ munumunu cogo jumɛn nɛ kɛrɛfɛ? ni yi jɔ lo kan, i fanka giriya tɛ dugukolo sanfɛla ta bɔ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+NextGen boloda ye FAA bɛ ka min laɲini kun bɛ na pankuru pansira surunɲa ani taji digan caama nɔkɔya san o san ani ka fuɲɛjugubɔ lajɔ.,science/technology,travel,"SENTENCE:
+ NextGen boloda ye FAA bɛ ka min laɲini kun bɛ na pankuru pansira surunɲa ani taji digan caama nɔkɔya san o san ani ka fuɲɛjugubɔ lajɔ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Nerolozi kunafoniw be pirewu wilibali di hakilina fɛrɛ siratigɛ fɛ dɔni kalanlila. O la, a be ɲɛɲinili yɔrɔw dɔgɔya ani b'a to be kɛ wilibali ye.",science/technology,travel,"SENTENCE:
+ Nerolozi kunafoniw be pirewu wilibali di hakilina fɛrɛ siratigɛ fɛ dɔni kalanlila. O la, a be ɲɛɲinili yɔrɔw dɔgɔya ani b'a to be kɛ wilibali ye. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"A ka lɛrɛ 2 kumalase senfɛ a ko ""Bi  Apple bena Iphone in lakurakura ya, an bena don tariku la sisan"".",science/technology,N/A,"SENTENCE:
+ A ka lɛrɛ 2 kumalase senfɛ a ko ""Bi  Apple bena Iphone in lakurakura ya, an bena don tariku la sisan"". 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: tech tech</s>"
+Zooms kɔlɔ ye fokali gƐlƐya ni kuntilenna fƐn minw hakƐka kan yasa fokaliw cƐjanɲa gamu sɔrɔ kaɲi kɔsɔbƐ ka tƐmƐ kuntilenna folow kan.,science/technology,travel,"SENTENCE:
+ Zooms kɔlɔ ye fokali gƐlƐya ni kuntilenna fƐn minw hakƐka kan yasa fokaliw cƐjanɲa gamu sɔrɔ kaɲi kɔsɔbƐ ka tƐmƐ kuntilenna folow kan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"A bɔlen do jabarani yɔrɔjanlabaarala dɔ fɛ, labaaralikɛla in  be baara kɛ ni talikɛla fila ye minnuw be bila jabarani kɛrɛfɛ k'a kɛyɔrɔ suma.",science/technology,travel,"SENTENCE:
+ A bɔlen do jabarani yɔrɔjanlabaarala dɔ fɛ, labaaralikɛla in  be baara kɛ ni talikɛla fila ye minnuw be bila jabarani kɛrɛfɛ k'a kɛyɔrɔ suma. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+DɔnnikƐlaw ko ko nin datanfƐn faarikansi tun ɲƐ  ye worojiima de ye a kan ani ɲƐ  ladibilen walima ɲƐ  karotenoyide a kɔrɔla yanfa.,science/technology,travel,"SENTENCE:
+ DɔnnikƐlaw ko ko nin datanfƐn faarikansi tun ɲƐ  ye worojiima de ye a kan ani ɲƐ  ladibilen walima ɲƐ  karotenoyide a kɔrɔla yanfa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"O fɛn fila bɛ baara kɛ ɲɔgɔn fɛ ka kɛ kisɛkisɛniw ye minnu bese ka sukunɛbara ka baara lajɔ, sanfɛkalanso koɲɛɲininaw ko ten.",science/technology,travel,"SENTENCE:
+ O fɛn fila bɛ baara kɛ ɲɔgɔn fɛ ka kɛ kisɛkisɛniw ye minnu bese ka sukunɛbara ka baara lajɔ, sanfɛkalanso koɲɛɲininaw ko ten. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+O resolisiyɔn di min be 35 mm negatiwu siyɛn naani bɔ (3136 mm2 nin 864).,science/technology,entertainment,"SENTENCE:
+ O resolisiyɔn di min be 35 mm negatiwu siyɛn naani bɔ (3136 mm2 nin 864). 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Nin kɔkɔjiduguma ɛntɛrɛnɛti filijuruw ye, fili dugulen Erɔpula ani satelitibaw la, Greenland tugulen na kaɲɛ nin u yɔrɔ mɔgɔ 93 kɛmɛ sarala akisɛsɔrɔli ɛntɛrɛnɛti la.",science/technology,travel,"SENTENCE:
+ Nin kɔkɔjiduguma ɛntɛrɛnɛti filijuruw ye, fili dugulen Erɔpula ani satelitibaw la, Greenland tugulen na kaɲɛ nin u yɔrɔ mɔgɔ 93 kɛmɛ sarala akisɛsɔrɔli ɛntɛrɛnɛti la. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Apilikasiyɔn ba kelen nin bɔnda in na ye Google kanbayɛlɛmala ye, min kanyɛlɛmali danga ɛntɛrɛni kɔfɛ tumamina nin ye kan kunafoniw ɲininlen terisarize.",science/technology,N/A,"SENTENCE:
+ Apilikasiyɔn ba kelen nin bɔnda in na ye Google kanbayɛlɛmala ye, min kanyɛlɛmali danga ɛntɛrɛni kɔfɛ tumamina nin ye kan kunafoniw ɲininlen terisarize. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: tech tech</s>"
+"A b'a molekili cogola kelen ne ta ali na sɔrɔ a kɛra fiyɛn, ji walima jalen ye.",science/technology,science/technology,"SENTENCE:
+ A b'a molekili cogola kelen ne ta ali na sɔrɔ a kɛra fiyɛn, ji walima jalen ye. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+"Widewo dilan natilli y'an sama ka ɲɛɲiniliw nafan ma cama kɛ farikolo tabolo finitiw ɲɛfɔlila, ɲɛda yɛlɛmaw cogoya ɲɛfɔlila minunw ye milisekɔndi damadami dɔrɔn.",science/technology,travel,"SENTENCE:
+ Widewo dilan natilli y'an sama ka ɲɛɲiniliw nafan ma cama kɛ farikolo tabolo finitiw ɲɛfɔlila, ɲɛda yɛlɛmaw cogoya ɲɛfɔlila minunw ye milisekɔndi damadami dɔrɔn. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Adamadenw be lunɛtiw dilan ani k'u dɔn cɛɲali kama kabini san bayirikaw kɔnɔ.,science/technology,travel,"SENTENCE:
+ Adamadenw be lunɛtiw dilan ani k'u dɔn cɛɲali kama kabini san bayirikaw kɔnɔ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"A tɛ kelen dɔrɔn ye koyi, sɛgɛsɛgɛli lajɛli, ani sɛgɛsɛgɛli dɔ ye sɛgɛsɛgɛli ye min be nati walasa ka hakilina kelen walima fila den gɛrɛfɛ, ɲininkaliw kɛli ani lajɛliw kɛli be dɔni ɲɛɲininli nɛfɛ.",science/technology,travel,"SENTENCE:
+ A tɛ kelen dɔrɔn ye koyi, sɛgɛsɛgɛli lajɛli, ani sɛgɛsɛgɛli dɔ ye sɛgɛsɛgɛli ye min be nati walasa ka hakilina kelen walima fila den gɛrɛfɛ, ɲininkaliw kɛli ani lajɛliw kɛli be dɔni ɲɛɲininli nɛfɛ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Waati jateminɛla, jiri senw falen na nin nɛgɛ senw ye. San ba 1767, tirɛnboli siraw dafalen nana.",science/technology,travel,"SENTENCE:
+ Waati jateminɛla, jiri senw falen na nin nɛgɛ senw ye. San ba 1767, tirɛnboli siraw dafalen nana. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ali na sɔrɔ pisiw camaw kaɲi walasa ka weleli kɛ yɔrɔ bɛɛ la, dɔw sipesiyalizeleno wele nɔgɔmani dilila piriw la ka jamana kulu kɛrɛnkɛrɛni dɔw la.",science/technology,travel,"SENTENCE:
+ Ali na sɔrɔ pisiw camaw kaɲi walasa ka weleli kɛ yɔrɔ bɛɛ la, dɔw sipesiyalizeleno wele nɔgɔmani dilila piriw la ka jamana kulu kɛrɛnkɛrɛni dɔw la. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Sisan ɲɛɲinlini lajɛlikɛlaw camaw ye yɔrɔw bele belebaw ye yɔrɔ yanw la nin waati cogoya ɲuman ye.,science/technology,travel,"SENTENCE:
+ Sisan ɲɛɲinlini lajɛlikɛlaw camaw ye yɔrɔw bele belebaw ye yɔrɔ yanw la nin waati cogoya ɲuman ye. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+lasɔmiseni bɛ foko ji sanfɛ ka da sanfɛla fanga ye.,science/technology,travel,"SENTENCE:
+ lasɔmiseni bɛ foko ji sanfɛ ka da sanfɛla fanga ye. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Yangan 35 mm ni 36 mm yangan 24 mm janɲa kan be taa  tiɲƐ la, o be se ka fili mɔgɔ u ma.",science/technology,entertainment,"SENTENCE:
+ Yangan 35 mm ni 36 mm yangan 24 mm janɲa kan be taa  tiɲƐ la, o be se ka fili mɔgɔ u ma. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Farikolobɔnw ye fɛn fitini ani mako kabɔn ɲɛnɛmaya kalanlila, tiɲɛla, nin u be wele ko ""ɲɛnɛmaya sojɔlanw"".",science/technology,travel,"SENTENCE:
+ Farikolobɔnw ye fɛn fitini ani mako kabɔn ɲɛnɛmaya kalanlila, tiɲɛla, nin u be wele ko ""ɲɛnɛmaya sojɔlanw"". 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Kelen ŊPN (kelena erezo dugulen) di baw ye sira ɲumanba ye ka panli ye politiki baliliw ani feere ɛntɛrɛnɛti tamasiyɛnw sɛnsɛnli kuna.,science/technology,politics,"SENTENCE:
+ Kelen ŊPN (kelena erezo dugulen) di baw ye sira ɲumanba ye ka panli ye politiki baliliw ani feere ɛntɛrɛnɛti tamasiyɛnw sɛnsɛnli kuna. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+"Hali n'a sɔrɔ gyroscope kɔnna ka tunun dugukolokɔkan-cakɛda ka ci senfɛ, cakɛda m'a kɛcogo bila.",science/technology,travel,"SENTENCE:
+ Hali n'a sɔrɔ gyroscope kɔnna ka tunun dugukolokɔkan-cakɛda ka ci senfɛ, cakɛda m'a kɛcogo bila. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Andũ arĩa makorago na mwĩcirĩrie ta ũcio nĩmahotaga kũririkana mĩtaratara, kũona ihonia na kũruta wĩra kũringana na ithimi cia sayansi.",science/technology,travel,"SENTENCE:
+ Andũ arĩa makorago na mwĩcirĩrie ta ũcio nĩmahotaga kũririkana mĩtaratara, kũona ihonia na kũruta wĩra kũringana na ithimi cia sayansi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Bakanmisɛnniw dunni kadi jakumawaraw ye. U bɛ warabilenw, saaw, sokomisɛnniw, ani kɔnɔw n'u bɛ se. Bakanmisɛnninw tilan minw bɛ minɛ jakumawara fɛ ka dɔkɔ kɔsɔbƐ kojugun ka tɛmɛ a yɛrɛ kan.",science/technology,travel,"SENTENCE:
+ Bakanmisɛnniw dunni kadi jakumawaraw ye. U bɛ warabilenw, saaw, sokomisɛnniw, ani kɔnɔw n'u bɛ se. Bakanmisɛnninw tilan minw bɛ minɛ jakumawara fɛ ka dɔkɔ kɔsɔbƐ kojugun ka tɛmɛ a yɛrɛ kan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Filimu fɔrima fitini kamera dɔw be 6 nin 6 cm fɔrima itilize, kɛrɛnkɛrɛniyala 56 nin 56 mm negatiwu.",science/technology,entertainment,"SENTENCE:
+ Filimu fɔrima fitini kamera dɔw be 6 nin 6 cm fɔrima itilize, kɛrɛnkɛrɛniyala 56 nin 56 mm negatiwu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+A ɲinineno woyasi kɛlaw fɛ kosɛbɛ u k'u janto faratiw ka kabɔ waati cogoya juguma kan min ye kɔlɔlɔ ye o yɔrɔ la komi u be seka i ka woyasi pilanw tiɲɛ.,travel,travel,"SENTENCE:
+ A ɲinineno woyasi kɛlaw fɛ kosɛbɛ u k'u janto faratiw ka kabɔ waati cogoya juguma kan min ye kɔlɔlɔ ye o yɔrɔ la komi u be seka i ka woyasi pilanw tiɲɛ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Bisiw be bɔ karitiyew ɲɔgɔncɛ bisi jɔyɔrɔla (ka tɛmɛ jifɛ) tile kɔnɔ, ali na sɔrɔ camaw, kɛrɛnkɛrɛniyala minunw be ɲɛsin kɔrɔnma ani Jakar/Bumthang be b'ɔ sanga 6:30 ani 7:30 ɲɔgɔncɛ.",travel,travel,"SENTENCE:
+ Bisiw be bɔ karitiyew ɲɔgɔncɛ bisi jɔyɔrɔla (ka tɛmɛ jifɛ) tile kɔnɔ, ali na sɔrɔ camaw, kɛrɛnkɛrɛniyala minunw be ɲɛsin kɔrɔnma ani Jakar/Bumthang be b'ɔ sanga 6:30 ani 7:30 ɲɔgɔncɛ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+U be sitabilite ba di sobolilikɛla ma nka be seka lakana kunbala nati ko sababu kɛ sobolila senw be ka balan u la.,travel,travel,"SENTENCE:
+ U be sitabilite ba di sobolilikɛla ma nka be seka lakana kunbala nati ko sababu kɛ sobolila senw be ka balan u la. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Baltic batɔn ninunw camaw ye jɔli jan kɛ St. Petersburg, Russie kɔnɔ.",travel,travel,"SENTENCE:
+ Baltic batɔn ninunw camaw ye jɔli jan kɛ St. Petersburg, Russie kɔnɔ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ladilikan b'a jigiya ko waoyasikɛlaw mankan suyɛnlikɛ, dansagoli, sendɔn suku kɔnlen dɔ la, delili walima cogoya wɛrɛ la ka min mɔgɔw la u ka nafan kama.",travel,travel,"SENTENCE:
+ Ladilikan b'a jigiya ko waoyasikɛlaw mankan suyɛnlikɛ, dansagoli, sendɔn suku kɔnlen dɔ la, delili walima cogoya wɛrɛ la ka min mɔgɔw la u ka nafan kama. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Fɛnw camaw beyi i kan ka min jateminɛ yani and tumamina i be ka woyase ka ta yɔrɔ dɔ la.,travel,travel,"SENTENCE:
+ Fɛnw camaw beyi i kan ka min jateminɛ yani and tumamina i be ka woyase ka ta yɔrɔ dɔ la. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Funteni dɔn la, woyasikɛlaw be seka  hakili wasu wasu ye min bena jira ola ko ji beyi (walima fɛn wɛrɛ).",travel,travel,"SENTENCE:
+ Funteni dɔn la, woyasikɛlaw be seka  hakili wasu wasu ye min bena jira ola ko ji beyi (walima fɛn wɛrɛ). 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Duw nin denmisɛniw ye yeli ka dɔgɔ, nka dunajiginyɔrɔ dɔw b'a to ka dɔn suɲɛkɔnɔ kɛrɛnkɛrɛnlen kɔnɔ.",travel,travel,"SENTENCE:
+ Duw nin denmisɛniw ye yeli ka dɔgɔ, nka dunajiginyɔrɔ dɔw b'a to ka dɔn suɲɛkɔnɔ kɛrɛnkɛrɛnlen kɔnɔ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Misalila, fɔlɔfɔlɔ satow lajɛli Loire Valley kɔnɔ, Rhine Valle walima batɔntali ka dugu nafanw la Danube sanfɛ walima batɔnbili Erie Canal fɛ.",travel,travel,"SENTENCE:
+ Misalila, fɔlɔfɔlɔ satow lajɛli Loire Valley kɔnɔ, Rhine Valle walima batɔntali ka dugu nafanw la Danube sanfɛ walima batɔnbili Erie Canal fɛ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+A kaɲi ka tɛmɛ woyasi ɲɛnɛbɔba baarakɛla dɔ fɛ min maraliw woyaziw o kumu kɔnɔ minunw nin ta ye kelen ye.,travel,travel,"SENTENCE:
+ A kaɲi ka tɛmɛ woyasi ɲɛnɛbɔba baarakɛla dɔ fɛ min maraliw woyaziw o kumu kɔnɔ minunw nin ta ye kelen ye. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Fotɛyijisanfɛpani daminɛna Zanwuyekalo 2004 tumamina ɔridinatɛri porogaramu kɛla Casey Fenton ye cogoya nɔgɔmani sɔrɔ ka ta Islande nka ma sigiyɔrɔ sɔrɔ ka to yen.,travel,travel,"SENTENCE:
+ Fotɛyijisanfɛpani daminɛna Zanwuyekalo 2004 tumamina ɔridinatɛri porogaramu kɛla Casey Fenton ye cogoya nɔgɔmani sɔrɔ ka ta Islande nka ma sigiyɔrɔ sɔrɔ ka to yen. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+kalanden wizaw ɲininli fɛnw tɛ kelen waaticamala ani a sɔrɔli baaraw turisiw gansanw fɛ walima baarakɛ wizaw.,travel,travel,"SENTENCE:
+ kalanden wizaw ɲininli fɛnw tɛ kelen waaticamala ani a sɔrɔli baaraw turisiw gansanw fɛ walima baarakɛ wizaw. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Jamana kelenw kelenw ka sariya kɛrɛnkɛrɛni fɛnɛ beyi min jatogola yɛrɛdɛmɛ fɛnw minunw kan ka kɛ mɔbili kɔnɔ.,travel,travel,"SENTENCE:
+ Jamana kelenw kelenw ka sariya kɛrɛnkɛrɛni fɛnɛ beyi min jatogola yɛrɛdɛmɛ fɛnw minunw kan ka kɛ mɔbili kɔnɔ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ali na sɔrɔ azansi camaw be fɛka yɔrɔmara nɔrɔmaliw kɛɛ, woyasi ɲɛnɛbɔba baarakɛla camaw b'u yɛrɛw sipesiyalize kɛrɛnkɛrɛniyala woyasi suguya dɔw kan, waaribɔta filancɛ walima lajɛɛkikɛyɔrɔ.",travel,travel,"SENTENCE:
+ Ali na sɔrɔ azansi camaw be fɛka yɔrɔmara nɔrɔmaliw kɛɛ, woyasi ɲɛnɛbɔba baarakɛla camaw b'u yɛrɛw sipesiyalize kɛrɛnkɛrɛniyala woyasi suguya dɔw kan, waaribɔta filancɛ walima lajɛɛkikɛyɔrɔ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Woyazikɛlaw be seka lala fɛnɲɛnɛmani kilinkɛraw bɛn u tɛ minunw dɔn u ka maarayɔrɔw la.,travel,travel,"SENTENCE:
+ Woyazikɛlaw be seka lala fɛnɲɛnɛmani kilinkɛraw bɛn u tɛ minunw dɔn u ka maarayɔrɔw la. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Kɔkɔdugu yanfan fɛnɛ, Sanctuary of Lady of Fatima (Alabatoso) ɲumanba lajɛ, yɔrɔ min kodɔnleno diɲɛ fan bɛɛ kada Mari ka bɔliw kan.s",travel,travel,"SENTENCE:
+ Kɔkɔdugu yanfan fɛnɛ, Sanctuary of Lady of Fatima (Alabatoso) ɲumanba lajɛ, yɔrɔ min kodɔnleno diɲɛ fan bɛɛ kada Mari ka bɔliw kan.s 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Noũhũthĩre boda-boda (duthi) gũthiũrũrũka Goma. Marĩhi ma (kawaida) nĩ 500 Congolese Francs gucerio handu hanini.,travel,travel,"SENTENCE:
+ Noũhũthĩre boda-boda (duthi) gũthiũrũrũka Goma. Marĩhi ma (kawaida) nĩ 500 Congolese Francs gucerio handu hanini. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ka ɲɛsin mɔgɔ min be kɛnɛma baaraw fɛ, tama ka ta Sea ani Sky kɔnɔna sirafɛ nafan kabɔn.",travel,travel,"SENTENCE:
+ Ka ɲɛsin mɔgɔ min be kɛnɛma baaraw fɛ, tama ka ta Sea ani Sky kɔnɔna sirafɛ nafan kabɔn. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Sena lajɛli dɔ (min be wele fɛrɛ ""kunkokɔnɔna tama"", ""kuluyɛlɛ tama"" walima tali ""tama tama na"") be kɛ kuluyɛlɛ ye, lɛri damadɔni dɔrɔn walima tile camaw.",travel,travel,"SENTENCE:
+ Sena lajɛli dɔ (min be wele fɛrɛ ""kunkokɔnɔna tama"", ""kuluyɛlɛ tama"" walima tali ""tama tama na"") be kɛ kuluyɛlɛ ye, lɛri damadɔni dɔrɔn walima tile camaw. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Sira kelen min beyi ka cili teliya kun ye ka ci inafɔ minɛn tɔgɔ sɛbɛnlen. Pankuruso sariyaw t'u yamariya ka minɛnw jalan kelenw ci, i bena do yɔrɔ mina.",travel,travel,"SENTENCE:
+ Sira kelen min beyi ka cili teliya kun ye ka ci inafɔ minɛn tɔgɔ sɛbɛnlen. Pankuruso sariyaw t'u yamariya ka minɛnw jalan kelenw ci, i bena do yɔrɔ mina. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Tirɛnwotorow 300 fara la 1.300 kan walasa ka jamakafoba nɔgɔya.,travel,travel,"SENTENCE:
+ Tirɛnwotorow 300 fara la 1.300 kan walasa ka jamakafoba nɔgɔya. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Denbayaw nin den fitiniw ye mako be lala labɛn camaw la, nka tile kelen kɛrɛma ɲɛnɛjɛbaaraw be seka kɛ nɔgɔyala ali nin denw ye ani denmisɛni minunw be zariden na.",travel,travel,"SENTENCE:
+ Denbayaw nin den fitiniw ye mako be lala labɛn camaw la, nka tile kelen kɛrɛma ɲɛnɛjɛbaaraw be seka kɛ nɔgɔyala ali nin denw ye ani denmisɛni minunw be zariden na. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Mɔgɔw mɔgɔw bena fili ka jigi sanfɛlara walima kulu sanfɛ kan ɲɛzi jateminɛ, gilasi walima nɛnɛjuguman ba.",travel,travel,"SENTENCE:
+ Mɔgɔw mɔgɔw bena fili ka jigi sanfɛlara walima kulu sanfɛ kan ɲɛzi jateminɛ, gilasi walima nɛnɛjuguman ba. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Bibi in na, Tombouctou ye fanta dugu ye, ali na sɔrɔ a tɔgɔ be turisiw sama, ani ayeropɔri beyi.",travel,travel,"SENTENCE:
+ Bibi in na, Tombouctou ye fanta dugu ye, ali na sɔrɔ a tɔgɔ be turisiw sama, ani ayeropɔri beyi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ɲɛzifiyɛnkolɔnbaw waatila, ɲɛzi dɔni dɔrɔn min be sek'i balan be seka jigin waati fitini bɛɛ la.",travel,travel,"SENTENCE:
+ Ɲɛzifiyɛnkolɔnbaw waatila, ɲɛzi dɔni dɔrɔn min be sek'i balan be seka jigin waati fitini bɛɛ la. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"In i be fɛka woyase pankuru kɔnɔ diɲɛ fan bɛɛ worodugu emisifɛri kɔnɔ, pankuru woyasiw ani yɔrɔw danbɔleno ko sababu kɛɛ kɔkɔjiw siraw tugubali ye ɲɔgɔna.",travel,travel,"SENTENCE:
+ In i be fɛka woyase pankuru kɔnɔ diɲɛ fan bɛɛ worodugu emisifɛri kɔnɔ, pankuru woyasiw ani yɔrɔw danbɔleno ko sababu kɛɛ kɔkɔjiw siraw tugubali ye ɲɔgɔna. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Pankurusow inafɔ Emirates, Etihad, Airways, Quatar Airways and Turkish Airways y'u ka sɛriwisiw bɔɲa kosɛbɛ ka ɲɛsin Farafina ma, ani be tuguliw kɛ ka ta Farafina dugu baw la nin piri nɔgɔmaniw ye ka tɛmɛ Erɔpu pankurusow kan.",travel,travel,"SENTENCE:
+ Pankurusow inafɔ Emirates, Etihad, Airways, Quatar Airways and Turkish Airways y'u ka sɛriwisiw bɔɲa kosɛbɛ ka ɲɛsin Farafina ma, ani be tuguliw kɛ ka ta Farafina dugu baw la nin piri nɔgɔmaniw ye ka tɛmɛ Erɔpu pankurusow kan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Taakasegi tɛ ka kɛ ani danfɛnɛkɛsiramɔbiliw tɛ na jɔ Wembley, ani mɔbilifitinijɔyɔrɔ ni jɔli-ni-boli minɛw tɛ baara kɛ dugukolo kan.",travel,sports,"SENTENCE:
+ Taakasegi tɛ ka kɛ ani danfɛnɛkɛsiramɔbiliw tɛ na jɔ Wembley, ani mɔbilifitinijɔyɔrɔ ni jɔli-ni-boli minɛw tɛ baara kɛ dugukolo kan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"bakurubala, tolila kɔfɛ jamana fɛnw fɛnw kɔnɔ waatikuntalajan la bena ɲinin i fɛ ka wiza ɲinin ka bila.",travel,travel,"SENTENCE:
+ bakurubala, tolila kɔfɛ jamana fɛnw fɛnw kɔnɔ waatikuntalajan la bena ɲinin i fɛ ka wiza ɲinin ka bila. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+MetropPlus ani Metro kɔlɔsilibaw be tirɛn bɛɛ kɔnɔ; MetroPlus kɔlɔsilikɛlaw be waatibɛɛ tirɛn dan na Cape Town gɛrɛfɛ.,travel,travel,"SENTENCE:
+ MetropPlus ani Metro kɔlɔsilibaw be tirɛn bɛɛ kɔnɔ; MetroPlus kɔlɔsilikɛlaw be waatibɛɛ tirɛn dan na Cape Town gɛrɛfɛ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Mɔgɔ bɛɛ be sen dɔn dugubaara la ani be tiransipɔri sira itilize. Mɔgɔw bɛɛ b'u damagasi tiransipɔri siraw cogoyala.,travel,travel,"SENTENCE:
+ Mɔgɔ bɛɛ be sen dɔn dugubaara la ani be tiransipɔri sira itilize. Mɔgɔw bɛɛ b'u damagasi tiransipɔri siraw cogoyala. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Komi mɔgɔ caman tɛ a yɔrɔw la, ani polisiyɔn fitini dɔrɔn ne be yen ola ote problemoun ye tuma dɔw la, i be sekana nisondiya nin lolow ye.",travel,travel,"SENTENCE:
+ Komi mɔgɔ caman tɛ a yɔrɔw la, ani polisiyɔn fitini dɔrɔn ne be yen ola ote problemoun ye tuma dɔw la, i be sekana nisondiya nin lolow ye. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Visa ɲininfɛnw an'a sɔngɔn be yɛlɛma kabɔ jamanaw dɔ la ka ta jamana dɔ la ani be ɛnfiliyanse nin i beka jamana mina ye.,travel,travel,"SENTENCE:
+ Visa ɲininfɛnw an'a sɔngɔn be yɛlɛma kabɔ jamanaw dɔ la ka ta jamana dɔ la ani be ɛnfiliyanse nin i beka jamana mina ye. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Na njĩra ndaya, hatirĩ bata wa kwenda kũnyihĩrio marĩhi ma itĩ cia business kana first class ũkiuma A nginya B",travel,travel,"SENTENCE:
+ Na njĩra ndaya, hatirĩ bata wa kwenda kũnyihĩrio marĩhi ma itĩ cia business kana first class ũkiuma A nginya B 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Boomerang filili ye se kodɔnlen ye turisiw camaw be fɛka min kalan.,travel,travel,"SENTENCE:
+ Boomerang filili ye se kodɔnlen ye turisiw camaw be fɛka min kalan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Woyasi pankurula dɔrɔn teyi nin i be fɛka pan Pasifiki Worodugu yanfan kuna ani Ameriki di Sud jida tileben yanfan kan. (a lajɛ duguma).,travel,travel,"SENTENCE:
+ Woyasi pankurula dɔrɔn teyi nin i be fɛka pan Pasifiki Worodugu yanfan kuna ani Ameriki di Sud jida tileben yanfan kan. (a lajɛ duguma). 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"San Francisco ye turusi infirasirikiti ba camaw dilan nin ɔtɛli camaw ye, dugunikɛyɔrɔw, ani yɔrɔbaw minunw be diɲɛ yɔrɔbaw jɔcogo bato.",travel,travel,"SENTENCE:
+ San Francisco ye turusi infirasirikiti ba camaw dilan nin ɔtɛli camaw ye, dugunikɛyɔrɔw, ani yɔrɔbaw minunw be diɲɛ yɔrɔbaw jɔcogo bato. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Alakamabaarakɛli tumamina nin be woyasila ye sira ɲumanba ye ka danfara bɔ nka o tɛ dili dɔrɔn kuna.,travel,travel,"SENTENCE:
+ Alakamabaarakɛli tumamina nin be woyasila ye sira ɲumanba ye ka danfara bɔ nka o tɛ dili dɔrɔn kuna. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Adũ nomage kũmenya atĩ wetereri na ũmenyo nĩũkoragwo wĩ wa bata kũri athii magĩcoka muciĩ,travel,travel,"SENTENCE:
+ Adũ nomage kũmenya atĩ wetereri na ũmenyo nĩũkoragwo wĩ wa bata kũri athii magĩcoka muciĩ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Kana ɲina ka wiza waari fara depansi wɛrɛ kan, tali takisi, tuma tiransipɔri, dɔ wɛrɛ nin yɔrɔ ninunw bɛɛla Farafina kɔfɛ.",travel,travel,"SENTENCE:
+ Kana ɲina ka wiza waari fara depansi wɛrɛ kan, tali takisi, tuma tiransipɔri, dɔ wɛrɛ nin yɔrɔ ninunw bɛɛla Farafina kɔfɛ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Bishkek sigibagaw caman tun jigina mɔgɔmurutiniw la ka bɔ worodugu fɛ sariya bonyabaliya la.,politics,travel,"SENTENCE:
+ Bishkek sigibagaw caman tun jigina mɔgɔmurutiniw la ka bɔ worodugu fɛ sariya bonyabaliya la. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Bɛliziki bi-sigiyɔrɔw tun yed Luxembourg fan dɔ ye fɔlɔ nka u kɛra Bɛliziki ta ye Bɛlizikikaw ka yɛlɛma kɔfɛ san 1830 kɔnɔ.,politics,travel,"SENTENCE:
+ Bɛliziki bi-sigiyɔrɔw tun yed Luxembourg fan dɔ ye fɔlɔ nka u kɛra Bɛliziki ta ye Bɛlizikikaw ka yɛlɛma kɔfɛ san 1830 kɔnɔ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Kabi san 1988, yeli bɛ kɛ kɛsu fɛ walasa kalatalaw ni jateminɛkɛlaw k'a sereya ko forokoni tɛ ye kalata daminɛna ani ko forokoniwɛrɛw ma fara n'a bɔra minnu jatera ani kalatayamaruyalenw.",politics,travel,"SENTENCE:
+ Kabi san 1988, yeli bɛ kɛ kɛsu fɛ walasa kalatalaw ni jateminɛkɛlaw k'a sereya ko forokoni tɛ ye kalata daminɛna ani ko forokoniwɛrɛw ma fara n'a bɔra minnu jatera ani kalatayamaruyalenw. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+DɛmɛMinisiriɲɛmɔgɔ Julia Gillard y'a ɲini san 2010 jamanadorogonikalata-yɛrɛkofɔ senfɛ k'a dara a la ko Australie bɛ na kɛ jamana kelen ye Masakɛmuso Elizabeth ka fanga laban na.,politics,politics,"SENTENCE:
+ DɛmɛMinisiriɲɛmɔgɔ Julia Gillard y'a ɲini san 2010 jamanadorogonikalata-yɛrɛkofɔ senfɛ k'a dara a la ko Australie bɛ na kɛ jamana kelen ye Masakɛmuso Elizabeth ka fanga laban na. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+Irilandi marabaaw be k'u sinsin Wasabulon sariyasen teliman in kan ka ko in latilen.,politics,entertainment,"SENTENCE:
+ Irilandi marabaaw be k'u sinsin Wasabulon sariyasen teliman in kan ka ko in latilen. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Politiki `mankanw maarayɔrɔ kuna be bek'alisa Armenie ani Azerbajan ka  cɛw cɛn.,politics,travel,"SENTENCE:
+ Politiki `mankanw maarayɔrɔ kuna be bek'alisa Armenie ani Azerbajan ka  cɛw cɛn. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Minisiri Ɲɛmɔgɔ Stephen Harper sɔnna ka jamana ɲɛmogow ka "" Fiyɛn Jɛlen Sariyasen"" ci  tɔn-bɛɛ-jɛkulu dɔ ma yasa ka lajƐkura  ye tugun yani a kalan ko filana cɛ, Taratadon sanga 25 ɲɔgɔnye kɔfɛ ni NDP ɲɛmogo Jack Layton ye PMO la.",politics,politics,"SENTENCE:
+ Minisiri Ɲɛmɔgɔ Stephen Harper sɔnna ka jamana ɲɛmogow ka "" Fiyɛn Jɛlen Sariyasen"" ci  tɔn-bɛɛ-jɛkulu dɔ ma yasa ka lajƐkura  ye tugun yani a kalan ko filana cɛ, Taratadon sanga 25 ɲɔgɔnye kɔfɛ ni NDP ɲɛmogo Jack Layton ye PMO la. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+"Nikwarĩ mĩrũrũngano mĩnene mweri mũhetũku kũria Poland rĩrĩa bũrũri ũcio wahũrire kĩrore ACTA, ĩrĩa ĩtũmĩte thirikari ya Poland ĩtue dĩkũhetũkia wĩiguithanio ũcio.",politics,travel,"SENTENCE:
+ Nikwarĩ mĩrũrũngano mĩnene mweri mũhetũku kũria Poland rĩrĩa bũrũri ũcio wahũrire kĩrore ACTA, ĩrĩa ĩtũmĩte thirikari ya Poland ĩtue dĩkũhetũkia wĩiguithanio ũcio. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Ladilikanw ye dɔrɔn dakuruɲɛ dama damani ye jamana dɔ politi ko cogoya kan.,politics,travel,"SENTENCE:
+ Ladilikanw ye dɔrɔn dakuruɲɛ dama damani ye jamana dɔ politi ko cogoya kan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"San 1976  San 1976 kalataw waatiw la, a be Carter bilasira jamana kɔkan politiki tabolow kan, ani ka laban ka kɛ jamana lakana bilasirali jɔyɔrɔ kƐ ((JLB) ka bɔ san 1977 ka ta san 1981, Henry Kissinger kɔfɛ .",politics,politics,"SENTENCE:
+ San 1976  San 1976 kalataw waatiw la, a be Carter bilasira jamana kɔkan politiki tabolow kan, ani ka laban ka kɛ jamana lakana bilasirali jɔyɔrɔ kƐ ((JLB) ka bɔ san 1977 ka ta san 1981, Henry Kissinger kɔfɛ . 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+"Turki bena a jɔ fɛnɛ ni ISIS ka kƐlƐden minɛlenw la donni ye minw ni erɔpu jamanaw ye I ban lasegifaso la, kunafoni laseli cogo fƐ,  ne don u ka segin so ma.",politics,travel,"SENTENCE:
+ Turki bena a jɔ fɛnɛ ni ISIS ka kƐlƐden minɛlenw la donni ye minw ni erɔpu jamanaw ye I ban lasegifaso la, kunafoni laseli cogo fƐ,  ne don u ka segin so ma. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Nka, o fɛɛrɛ ninunw kun kɔrɔla suki ni dugujɛ cɛ, tumamina nin kɛlɛkɛdenw min ka ca nin ban 800.000 ka bɔ SoViet's Union Red Army dɔna ani ka Bielorussie dilan, ani Ukraine kɛlɛkɛyɔrɔ bolo u kɛnikɔ ka Pɔlɔɲi kɔrɔn maarayɔrɔ minɛ nin Riga Peace Treaty, Soviet-Polish Non-Agression Pact, ani diɲɛ bɛnkan wɛrɛw, jamana fila ni ɲɔgɔcɛ ani jamana cam nin ɲɔgɔncɛ batobaliya ye.",politics,travel,"SENTENCE:
+ Nka, o fɛɛrɛ ninunw kun kɔrɔla suki ni dugujɛ cɛ, tumamina nin kɛlɛkɛdenw min ka ca nin ban 800.000 ka bɔ SoViet's Union Red Army dɔna ani ka Bielorussie dilan, ani Ukraine kɛlɛkɛyɔrɔ bolo u kɛnikɔ ka Pɔlɔɲi kɔrɔn maarayɔrɔ minɛ nin Riga Peace Treaty, Soviet-Polish Non-Agression Pact, ani diɲɛ bɛnkan wɛrɛw, jamana fila ni ɲɔgɔcɛ ani jamana cam nin ɲɔgɔncɛ batobaliya ye. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Taabolo in kɔfɛ, HJR-3 bena sɛgɛsɛgɛ ko kura  Wasabulon nataa in fɛ min bena sigi  san 2015 wala 2016 ka taabolo in to senna",politics,politics,"SENTENCE:
+ Taabolo in kɔfɛ, HJR-3 bena sɛgɛsɛgɛ ko kura  Wasabulon nataa in fɛ min bena sigi  san 2015 wala 2016 ka taabolo in to senna 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+"A latigɛ nin kɔ Wasadenbulɔn fɛ Zuyekalo tile 4, tigɛra sɛbɛni tigɛnon bila mina Wasadenbulɔn ɲɛmɔgɔ fɛ John Hancock ani Sɛkiretɛri Charles Thomson cira ka ta so damani damani dɔrɔn John Dunlap gafedilanyɔrɔ.",politics,travel,"SENTENCE:
+ A latigɛ nin kɔ Wasadenbulɔn fɛ Zuyekalo tile 4, tigɛra sɛbɛni tigɛnon bila mina Wasadenbulɔn ɲɛmɔgɔ fɛ John Hancock ani Sɛkiretɛri Charles Thomson cira ka ta so damani damani dɔrɔn John Dunlap gafedilanyɔrɔ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"11:00 tƐmƐra drɔn, mamurutilenw ye sira tigƐ kƐɲƐkan fƐ siraba kan Whitehall kɔnɔ.",politics,travel,"SENTENCE:
+ 11:00 tƐmƐra drɔn, mamurutilenw ye sira tigƐ kƐɲƐkan fƐ siraba kan Whitehall kɔnɔ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"O n'a bɛɛ Zuyekalo la san 1956, Kruschev ka lahiduw gɛlɛyara k'a sabu kɛ Pɔlɔɲi mankanw min senfɛ baarakɛlaw murutila balokodɛsɛ ni sara jiginni na, k'a laban foroba murutili la Kominizimu kama.",politics,travel,"SENTENCE:
+ O n'a bɛɛ Zuyekalo la san 1956, Kruschev ka lahiduw gɛlɛyara k'a sabu kɛ Pɔlɔɲi mankanw min senfɛ baarakɛlaw murutila balokodɛsɛ ni sara jiginni na, k'a laban foroba murutili la Kominizimu kama. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"A tun kan ka mɛn ka se san 40 nataw ma ani kun bena kɛlɛkɛ tiɲɛla, yɔrɔjan kɛlɛ nin kɛlɛbolo wɛrɛw ye, kɛlɛkɛnɛw ka ta Afiriki ka ta bila Asie, Afghanistan, Cuba kɔnɔ and yɔrɔ cama wɛɛrɛw la.",politics,travel,"SENTENCE:
+ A tun kan ka mɛn ka se san 40 nataw ma ani kun bena kɛlɛkɛ tiɲɛla, yɔrɔjan kɛlɛ nin kɛlɛbolo wɛrɛw ye, kɛlɛkɛnɛw ka ta Afiriki ka ta bila Asie, Afghanistan, Cuba kɔnɔ and yɔrɔ cama wɛɛrɛw la. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Kalo tɛmɛnen ɲɛmɔgɔya so jɛkulu dɔ ye laɲini gɛlɛma kɛ ko CEP ka baara bila kɛ fɔlɔ  inafɔ labɛn sariyaw fan dɔ min bɛ jamana lataa kalafili kuraw la.,politics,travel,"SENTENCE:
+ Kalo tɛmɛnen ɲɛmɔgɔya so jɛkulu dɔ ye laɲini gɛlɛma kɛ ko CEP ka baara bila kɛ fɔlɔ  inafɔ labɛn sariyaw fan dɔ min bɛ jamana lataa kalafili kuraw la. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Ko kuma wɛrɛw sera Isirayɛli jamana ka siniɲɛsigin ma min ka gɛlɛn jamana fila nunuw ma ani Zɔrɔdani Kulufurancɛ ko ma.,politics,travel,"SENTENCE:
+ Ko kuma wɛrɛw sera Isirayɛli jamana ka siniɲɛsigin ma min ka gɛlɛn jamana fila nunuw ma ani Zɔrɔdani Kulufurancɛ ko ma. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Fanga fana tun te ala walasa ka nisɔngo kow ni songɔw labaara jamanabolow ni ɲɔgɔn cɛ.,politics,travel,"SENTENCE:
+ Fanga fana tun te ala walasa ka nisɔngo kow ni songɔw labaara jamanabolow ni ɲɔgɔn cɛ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Faransi kalatasariya ye gundo don a kɛcogow la sisan.,politics,travel,"SENTENCE:
+ Faransi kalatasariya ye gundo don a kɛcogow la sisan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Dɔgɔkun kelen furancɛ kalata ciliw  kɔfɛ, Bush kumana jama dɔ fɛ jago  yiriwali kan Asia",politics,travel,"SENTENCE:
+ Dɔgɔkun kelen furancɛ kalata ciliw  kɔfɛ, Bush kumana jama dɔ fɛ jago  yiriwali kan Asia 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Fɛɛrɛ tun ɲɛna, ka minɛkunbabaw tigɛ kɛlɛdenw ni mɔgɔgansanw la, hali ni a sɔrɔ ni datuguli in tun bɛ diɲɛlamini sariya sɔsɔ kosɛbɛ bɛn kɛra min kan diiɲɛlaminisankɛmɛfilalabanbɛnkansɛbɛnw fɛ.",politics,travel,"SENTENCE:
+ Fɛɛrɛ tun ɲɛna, ka minɛkunbabaw tigɛ kɛlɛdenw ni mɔgɔgansanw la, hali ni a sɔrɔ ni datuguli in tun bɛ diɲɛlamini sariya sɔsɔ kosɛbɛ bɛn kɛra min kan diiɲɛlaminisankɛmɛfilalabanbɛnkansɛbɛnw fɛ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Sɔrɔ baaraw dilana nin Maldive fan filaw ni ɲɔgɔncɛ ali na sɔrɔ politiki sikafɔw ma taɲɛ.,politics,travel,"SENTENCE:
+ Sɔrɔ baaraw dilana nin Maldive fan filaw ni ɲɔgɔncɛ ali na sɔrɔ politiki sikafɔw ma taɲɛ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"A bilasiralen cacɛɲɛmɔgɔ ninnu fɛ, aye Texas kaw hakilila tigɛ ko fɛɛrɛw be ka ta walasa ka jaman ka  lakana sabati.",politics,travel,"SENTENCE:
+ A bilasiralen cacɛɲɛmɔgɔ ninnu fɛ, aye Texas kaw hakilila tigɛ ko fɛɛrɛw be ka ta walasa ka jaman ka  lakana sabati. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Jɔliko kurayali in timinandiya foroba kɔrɔfɔw y'u sinsin jɔli kura dili saratiw kan k'a di Washington kɔnɔ mɔgɔw ma,politics,travel,"SENTENCE:
+ Jɔliko kurayali in timinandiya foroba kɔrɔfɔw y'u sinsin jɔli kura dili saratiw kan k'a di Washington kɔnɔ mɔgɔw ma 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"N'a bɔra kalatala 1,400 na minnu bɛ san 2010 jamanadorokonikalata ko la, minnu y'u kɔda Australie ka bɛjɛnfanga ye yɛlɛra ni 8 ye kɛmɛ sarada san 2008.",politics,travel,"SENTENCE:
+ N'a bɔra kalatala 1,400 na minnu bɛ san 2010 jamanadorokonikalata ko la, minnu y'u kɔda Australie ka bɛjɛnfanga ye yɛlɛra ni 8 ye kɛmɛ sarada san 2008. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Lasigidenw y'a fɔ k'u tun ye dibidibifɛn jɔnjɔn sɔrɔ Afuganisitan  siriyakolo la walasa ka kalafili takofilana in kɛ manamana ye.,politics,travel,"SENTENCE:
+ Lasigidenw y'a fɔ k'u tun ye dibidibifɛn jɔnjɔn sɔrɔ Afuganisitan  siriyakolo la walasa ka kalafili takofilana in kɛ manamana ye. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Jabiw bɔni kɔ, Gingrich ye Santorum fo, nka a ka kumakankolon sera Romney ma, min tun sababu ye mankutujugu lase a ma.",politics,politics,"SENTENCE:
+ Jabiw bɔni kɔ, Gingrich ye Santorum fo, nka a ka kumakankolon sera Romney ma, min tun sababu ye mankutujugu lase a ma. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+Ni ye Martelly ka CEP duurunan ye san naani kɔnɔ.,politics,politics,"SENTENCE:
+ Ni ye Martelly ka CEP duurunan ye san naani kɔnɔ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+"Olympic sanujɔnjɔntabaa kun kakan ka yɛrɛsako-ni-taakasekinɔnni kɛ mɛtiri 100 ni mɛtiri 200 la angilɛfɔjamanaw ka tulonkɛw la, nka k'a da a ka damakasiw kan sika kɛra n'a bɛ bɛn.",sports,sports,"SENTENCE:
+ Olympic sanujɔnjɔntabaa kun kakan ka yɛrɛsako-ni-taakasekinɔnni kɛ mɛtiri 100 ni mɛtiri 200 la angilɛfɔjamanaw ka tulonkɛw la, nka k'a da a ka damakasiw kan sika kɛra n'a bɛ bɛn. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Ka fara Olɛnpik ni diyɛn ŋana dɔ kan, Saito tun ye Zapɔn ka waatiw bɛɛ Zido Kalankɛ Kulu ɲɛmɔgɔ ye a sa waati.",sports,travel,"SENTENCE:
+ Ka fara Olɛnpik ni diyɛn ŋana dɔ kan, Saito tun ye Zapɔn ka waatiw bɛɛ Zido Kalankɛ Kulu ɲɛmɔgɔ ye a sa waati. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Diyɛn Olɛnpik Kulu ye kala ta farikoloɲɛnajɛ nunu ladonni na uka ɲɛmɔgɔ ɲɔgɔnye la bi Bɛrilɛn. Rigibi kɛrɛnkɛrɛnnenyala mɔgɔ 15 Rugby, ani Golf de sugandila farikoloɲɛnajɛ duuru wɛrɛw cɛla walasa k'u sen don Olinpik Ɲɛnajɛw la.",sports,sports,"SENTENCE:
+ Diyɛn Olɛnpik Kulu ye kala ta farikoloɲɛnajɛ nunu ladonni na uka ɲɛmɔgɔ ɲɔgɔnye la bi Bɛrilɛn. Rigibi kɛrɛnkɛrɛnnenyala mɔgɔ 15 Rugby, ani Golf de sugandila farikoloɲɛnajɛ duuru wɛrɛw cɛla walasa k'u sen don Olinpik Ɲɛnajɛw la. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+San ɲɔgɔndantulɔn belebele ba be kɛ Desanburukalo kɔnɔ polo zuwekɛyɔrɔw la Las Canitas kɔnɔ.,sports,sports,"SENTENCE:
+ San ɲɔgɔndantulɔn belebele ba be kɛ Desanburukalo kɔnɔ polo zuwekɛyɔrɔw la Las Canitas kɔnɔ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Kabini a naara Katalan faaba kɔnɔ, Vidal ye ntolatan 49 de kƐ a ka kulubu ye.",sports,sports,"SENTENCE:
+ Kabini a naara Katalan faaba kɔnɔ, Vidal ye ntolatan 49 de kƐ a ka kulubu ye. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Farikolo kɛnɛya barika dakɛɲɛnali marali, jimi waleyaw ɲuma barali ani dafana fɛnw cogoya cama famuya be seka farikoloɲɛnɛjɛra dɛmɛ ka ka dɔfara a farikolo se kan ani ka ka farikoloɲɛnɛjɛ damu bɔnɲa.",sports,travel,"SENTENCE:
+ Farikolo kɛnɛya barika dakɛɲɛnali marali, jimi waleyaw ɲuma barali ani dafana fɛnw cogoya cama famuya be seka farikoloɲɛnɛjɛra dɛmɛ ka ka dɔfara a farikolo se kan ani ka ka farikoloɲɛnɛjɛ damu bɔnɲa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"A sabananjɔyɔrɔ la, Hamlin ye kuru mugan jɛn kɔfɛ, nka duuru b'a bolo ka tɛmɛ Bowyer la. Kahne ni Truex, Jr. kɛra ye duurunan ni wɔrɔnan ye ka tuku ɲɔgɔn kɔ ni kuru 2,220 ani 2,207 ye.",sports,sports,"SENTENCE:
+ A sabananjɔyɔrɔ la, Hamlin ye kuru mugan jɛn kɔfɛ, nka duuru b'a bolo ka tɛmɛ Bowyer la. Kahne ni Truex, Jr. kɛra ye duurunan ni wɔrɔnan ye ka tuku ɲɔgɔn kɔ ni kuru 2,220 ani 2,207 ye. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Nadal ni  Kanadakaw ka ɲɔgonsɔrɔ jaate ye 7-2.,sports,sports,"SENTENCE:
+ Nadal ni  Kanadakaw ka ɲɔgonsɔrɔ jaate ye 7-2. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Jacque tun be ntolatan ɲɛbila ladegeli dɔ la sɔkɔma joona fɛ   Coverciano Itali kɔnɔ. A tun be ntolatan kulu ka dunanjigiso la yani ntolatan dɔ cɛ karidon Bolonia juguya la.,sports,sports,"SENTENCE:
+ Jacque tun be ntolatan ɲɛbila ladegeli dɔ la sɔkɔma joona fɛ   Coverciano Itali kɔnɔ. A tun be ntolatan kulu ka dunanjigiso la yani ntolatan dɔ cɛ karidon Bolonia juguya la. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+BolifƐnko magƐlƐya ye maaw jagoya ka tulontankƐ  kasɔrɔ kulu jukɔrɔma dodonibaw ma do.,sports,travel,"SENTENCE:
+ BolifƐnko magƐlƐya ye maaw jagoya ka tulontankƐ  kasɔrɔ kulu jukɔrɔma dodonibaw ma do. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Tommy Dreamer ko ""Luna tun ye Extreme ka Masamuso ye. Ne kalanbagafɔlɔ. Luna banna kalofilasu don. A ɲɔgɔn tun tɛ ye. Muso seni tun do.""",sports,entertainment,"SENTENCE:
+ Tommy Dreamer ko ""Luna tun ye Extreme ka Masamuso ye. Ne kalanbagafɔlɔ. Luna banna kalofilasu don. A ɲɔgɔn tun tɛ ye. Muso seni tun do."" 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Polandi suranfiyɛn cɛw ka jikurubolila Maciej Krezel n'a ka yiralikɛla Anna Ogarzynska tilala jɔyɔrɔ tan ni saabanan na Super-G ɲɔgɔndan la. Sudi Kore Jong Seork Park tilala jɔyɔrɔ mugan ni naaninan na cɛw ka Supper-G ɲɔgɔndan la.,sports,sports,"SENTENCE:
+ Polandi suranfiyɛn cɛw ka jikurubolila Maciej Krezel n'a ka yiralikɛla Anna Ogarzynska tilala jɔyɔrɔ tan ni saabanan na Super-G ɲɔgɔndan la. Sudi Kore Jong Seork Park tilala jɔyɔrɔ mugan ni naaninan na cɛw ka Supper-G ɲɔgɔndan la. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Nin kunafoni ye ɲɔgɔndantulɔnw kan ani yɔrɔmina ka tikew san polo zuyew lajɛli kama, Asociacion Argentina de Polo lajɛ.",sports,sports,"SENTENCE:
+ Nin kunafoni ye ɲɔgɔndantulɔnw kan ani yɔrɔmina ka tikew san polo zuyew lajɛli kama, Asociacion Argentina de Polo lajɛ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Mathako majirie thaa inya cia rũcinĩ kwĩna rĩera rĩega tiga gũthuthua kwa rũcinĩ kũrĩa gwathirire naihenya, warĩ mũthenya mwega mũno wa 7's rugby.",sports,sports,"SENTENCE:
+ Mathako majirie thaa inya cia rũcinĩ kwĩna rĩera rĩega tiga gũthuthua kwa rũcinĩ kũrĩa gwathirire naihenya, warĩ mũthenya mwega mũno wa 7's rugby. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Mɛkisiki Arly Velasquez tilala jɔyɔrɔ tan ni duurunan la cɛw ka Supper-G senfɛ. Niwu Zelandi Adam Hall tilala jɔyɔrɔ kɔnɔtɔnnan na cɛw ka Super-G ɲɔgɔndan sen fɛ.,sports,sports,"SENTENCE:
+ Mɛkisiki Arly Velasquez tilala jɔyɔrɔ tan ni duurunan la cɛw ka Supper-G senfɛ. Niwu Zelandi Adam Hall tilala jɔyɔrɔ kɔnɔtɔnnan na cɛw ka Super-G ɲɔgɔndan sen fɛ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Tolonkuncɛtolon bɛ na kɛ Ellis Park, Johannesburg kɔnɔ, dɔgɔcɛ wɛrɛ, min senfɛ Springboks ni Ɔsitirali bɛ na ɲɔgɔn sɔrɔ.",sports,sports,"SENTENCE:
+ Tolonkuncɛtolon bɛ na kɛ Ellis Park, Johannesburg kɔnɔ, dɔgɔcɛ wɛrɛ, min senfɛ Springboks ni Ɔsitirali bɛ na ɲɔgɔn sɔrɔ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Cogoya ɲumanw na, i bena seka yɔrɔ camaw boli cogoyala min tɛ tama ye - nka cogoya gɛlɛna i bena seka dugufulancɛ boli siki witɛsi sɔrɔ nin kɔlasaki girin ma tɛ sira dilaniw kan.",sports,travel,"SENTENCE:
+ Cogoya ɲumanw na, i bena seka yɔrɔ camaw boli cogoyala min tɛ tama ye - nka cogoya gɛlɛna i bena seka dugufulancɛ boli siki witɛsi sɔrɔ nin kɔlasaki girin ma tɛ sira dilaniw kan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ni kuru wolonfila ye min y'u bɔ ɲɔgɔn na  kɔfɛ, Johnson ye filanan ye ni kuru 2,243 ye.",sports,sports,"SENTENCE:
+ Ni kuru wolonfila ye min y'u bɔ ɲɔgɔn na  kɔfɛ, Johnson ye filanan ye ni kuru 2,243 ye. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Bolili kulufulancɛ jira sanfɛ (walima bolili kulufulancɛɛ jira sanfɛ) ye ka kulu dugumalara, min be seka ja walima faleno jila.",sports,travel,"SENTENCE:
+ Bolili kulufulancɛ jira sanfɛ (walima bolili kulufulancɛɛ jira sanfɛ) ye ka kulu dugumalara, min be seka ja walima faleno jila. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Robin Uthappa ye bere ndolan bɛɛ la cɛlu sɔrɔ, boli 70 ndolan 41dron na ni gosili nanani 11 ani woroni 2",sports,sports,"SENTENCE:
+ Robin Uthappa ye bere ndolan bɛɛ la cɛlu sɔrɔ, boli 70 ndolan 41dron na ni gosili nanani 11 ani woroni 2 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Jikuru waati farikoloɲɛnajɛw de dɔnnen ba don, Worodugu yanfanw fɛ, wa Italikaw sen be ye diyɛn tulogɛ ni Olɛnpik ɲɛnɛjɛw la.",sports,travel,"SENTENCE:
+ Jikuru waati farikoloɲɛnajɛw de dɔnnen ba don, Worodugu yanfanw fɛ, wa Italikaw sen be ye diyɛn tulogɛ ni Olɛnpik ɲɛnɛjɛw la. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Maroochydore labanan yɛlɛyɛlɛnan bɛɛ la  sanfɛ ni kuru jɛlen wɔrɔ ye ka Noosa kɛ filanan ye,sports,sports,"SENTENCE:
+ Maroochydore labanan yɛlɛyɛlɛnan bɛɛ la  sanfɛ ni kuru jɛlen wɔrɔ ye ka Noosa kɛ filanan ye 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Michael Schumacher tilala aka ɲɔgɔndan na sɔɔni Alonso kɔfɛ, k'a sabu kɛ mɔbili jɔlan ciyɛnni ye kɛlɛ caman senfɛ ɲɔgɔndan in na.",sports,sports,"SENTENCE:
+ Michael Schumacher tilala aka ɲɔgɔndan na sɔɔni Alonso kɔfɛ, k'a sabu kɛ mɔbili jɔlan ciyɛnni ye kɛlɛ caman senfɛ ɲɔgɔndan in na. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"dumuniɲumannafama yɛrɛ yɛrɛ waleyaw dɔrɔn tɛ seka sanfɛla farikolo se d'ima, nka u be seka farikoloɲɛnɛjɛlaw denmisɛniw ka kɛnɛya yɛlɛma cogoyabala.",sports,travel,"SENTENCE:
+ dumuniɲumannafama yɛrɛ yɛrɛ waleyaw dɔrɔn tɛ seka sanfɛla farikolo se d'ima, nka u be seka farikoloɲɛnɛjɛlaw denmisɛniw ka kɛnɛya yɛlɛma cogoyabala. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"a ma se k'a furaw ta munu b'a ka dimi mada, bawo jɛn kɛlen tɛ n'u ye tulonw na .",sports,travel,"SENTENCE:
+ a ma se k'a furaw ta munu b'a ka dimi mada, bawo jɛn kɛlen tɛ n'u ye tulonw na . 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Ɲɛninili ye jira ko musow ka teli ka nzɛbɛn bana in sɔrɔ siyɛn ka tɛmɛ cɛ kan.,health,travel,"SENTENCE:
+ Ɲɛninili ye jira ko musow ka teli ka nzɛbɛn bana in sɔrɔ siyɛn ka tɛmɛ cɛ kan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Jama jama camaw be seka sɔrɔ sipiriti kɔnlenw la minunw be seka kɛ metanɔli ye, min be seka fiyɛn nati walima saya ali a fitini minli.",health,travel,"SENTENCE:
+ Jama jama camaw be seka sɔrɔ sipiriti kɔnlenw la minunw be seka kɛ metanɔli ye, min be seka fiyɛn nati walima saya ali a fitini minli. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Dimi kɔlɔlɔ dɔrɔn, min tɛ jigitigɛ ani jɔrɔ ye fɛnw ye dɔgɔkun PA baaraw sirileno mina.",health,travel,"SENTENCE:
+ Dimi kɔlɔlɔ dɔrɔn, min tɛ jigitigɛ ani jɔrɔ ye fɛnw ye dɔgɔkun PA baaraw sirileno mina. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Andũ magĩa ngari nyingĩ nĩmatũmaga mĩtino mĩingi ya barabara yonekane, na mĩtambo ya kĩ-riu nĩ ĩbatarĩkanaga nginya mathibitarĩ-inĩ gũthondeka mĩĩri ĩrĩa mĩtihangie.",health,travel,"SENTENCE:
+ Andũ magĩa ngari nyingĩ nĩmatũmaga mĩtino mĩingi ya barabara yonekane, na mĩtambo ya kĩ-riu nĩ ĩbatarĩkanaga nginya mathibitarĩ-inĩ gũthondeka mĩĩri ĩrĩa mĩtihangie. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+" Ɲinninikɛla jɔnjɔnw  ko ko o be se ka to boɔ bana, Sɔgɔsɔgɔnijɛ, SIDA bana ani Sumaya sƐgƐsƐgƐli joona ka se ka kƐ banabatɔw dɛsɛbato jamana la, yɔrɔ minw na ni boɔbanatɔ inafɔ sin na boɔ balota hakƐ bese ka dɔgɔya ni setigi jamanaw ta tila.",health,travel,"SENTENCE:
+  Ɲinninikɛla jɔnjɔnw  ko ko o be se ka to boɔ bana, Sɔgɔsɔgɔnijɛ, SIDA bana ani Sumaya sƐgƐsƐgƐli joona ka se ka kƐ banabatɔw dɛsɛbato jamana la, yɔrɔ minw na ni boɔbanatɔ inafɔ sin na boɔ balota hakƐ bese ka dɔgɔya ni setigi jamanaw ta tila. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Dr. Ehud Ur, kɛnɛya karamɔkɔ Dalhousie sanfɛ kalanso la Halifax, Nova Scotia ani Kanada sukɔrɔbana jɛkulu tɔn kɛnɛyako ni ɲinini cakɛda ɲɛmoko ye lasɔnni kɛ ka yira ko ɲininiw ma ta yɔrɔ jan fɔlɔ.",health,travel,"SENTENCE:
+ Dr. Ehud Ur, kɛnɛya karamɔkɔ Dalhousie sanfɛ kalanso la Halifax, Nova Scotia ani Kanada sukɔrɔbana jɛkulu tɔn kɛnɛyako ni ɲinini cakɛda ɲɛmoko ye lasɔnni kɛ ka yira ko ɲininiw ma ta yɔrɔ jan fɔlɔ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"U denmisɛniw b'u yɛrɛ do kunbalan cama na bari u be dɔn ""farati kow la, kɛlɛw la, fagan sɔsɔ baaraw la"" walasa ka hakili nisondiya ba bari u hakili tɛ nisondiya nin fɛɛrɛ nɔrɔmaliw ye.",health,travel,"SENTENCE:
+ U denmisɛniw b'u yɛrɛ do kunbalan cama na bari u be dɔn ""farati kow la, kɛlɛw la, fagan sɔsɔ baaraw la"" walasa ka hakili nisondiya ba bari u hakili tɛ nisondiya nin fɛɛrɛ nɔrɔmaliw ye. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Adamadenw ninakilitɔ bɛ se k'a sɔrɔ ji fɛ min bɛ se ka sanfɛla sɔrɔ fiɲɛ ni jilonbolabatɔ fɛ.,health,travel,"SENTENCE:
+ Adamadenw ninakilitɔ bɛ se k'a sɔrɔ ji fɛ min bɛ se ka sanfɛla sɔrɔ fiɲɛ ni jilonbolabatɔ fɛ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Mɔgɔ dɔw dalen n'ala ko suko dilanlen jɔlen cama natili be seka sɛgɛ damatɛmɛ wale nati.,health,travel,"SENTENCE:
+ Mɔgɔ dɔw dalen n'ala ko suko dilanlen jɔlen cama natili be seka sɛgɛ damatɛmɛ wale nati. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Potro furakɛra a kaman na o waati in na, nk'a sera ka segin ɲɔgɔndan in na.",health,sports,"SENTENCE:
+ Potro furakɛra a kaman na o waati in na, nk'a sera ka segin ɲɔgɔndan in na. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Farakan fɔlila, a ɲɛnɛbɔ baliyala be seka kɔlɔlɔ juguma nati: kɔrɔbayali gɛlɛya, dumuni nafan ma dɔn ni baliya bana, ani laban laban na saya.",health,travel,"SENTENCE:
+ Farakan fɔlila, a ɲɛnɛbɔ baliyala be seka kɔlɔlɔ juguma nati: kɔrɔbayali gɛlɛya, dumuni nafan ma dɔn ni baliya bana, ani laban laban na saya. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Duguɲɛmɔgɔw minnu bɛ Amsterdam ni sekonidɔnkomaraso Anne Frank kama ko  biyɛlɛnbaana bɛ yiriw minɛ min  bɛ se ka mɔgɔw ka kɛnɛya bila ngalama na u ka dalu kɛra k'a bɛ yɛlɛman farati kɔnɔ.,health,travel,"SENTENCE:
+ Duguɲɛmɔgɔw minnu bɛ Amsterdam ni sekonidɔnkomaraso Anne Frank kama ko  biyɛlɛnbaana bɛ yiriw minɛ min  bɛ se ka mɔgɔw ka kɛnɛya bila ngalama na u ka dalu kɛra k'a bɛ yɛlɛman farati kɔnɔ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Kɛnɛyaso in ye banayɛlɛma kunbɛ taabolo bato, no dɔ ye ka banabaatɔ in mabɔ tɔw la walasa ka banayɛlɛmali bali.",health,travel,"SENTENCE:
+ Kɛnɛyaso in ye banayɛlɛma kunbɛ taabolo bato, no dɔ ye ka banabaatɔ in mabɔ tɔw la walasa ka banayɛlɛmali bali. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Institute ya Haiti ya Justice na Democracy nĩĩgwetete ũthuthuria wa mwanya ũrĩa ũronania aigi thayũ a UN a Nepal mahota gũkorwo nĩo marehire mũtuthũko ũcio Haiti matekũmenya.,health,travel,"SENTENCE:
+ Institute ya Haiti ya Justice na Democracy nĩĩgwetete ũthuthuria wa mwanya ũrĩa ũronania aigi thayũ a UN a Nepal mahota gũkorwo nĩo marehire mũtuthũko ũcio Haiti matekũmenya. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Bana juguw yɛrɛw, walima bagan faratilenw minunw be seka mɔgɔw bana walima faga nin fagan ye, tɛ jate waaticama inafɔ fɛnɲɛnɛmani mɔgɔtɔrɔlaw.",health,travel,"SENTENCE:
+ Bana juguw yɛrɛw, walima bagan faratilenw minunw be seka mɔgɔw bana walima faga nin fagan ye, tɛ jate waaticama inafɔ fɛnɲɛnɛmani mɔgɔtɔrɔlaw. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Jatekɛminɛbaliya Bana be denmisɛni minunw na be gɛlɛya sɔrɔ walasa ko ɲɛsin fɛnw ma inafɔ lɛkɔli baara, nka u be seka ɲsɛin fɛnw ma minw ka d'o ye inafɔ zuye kɛli walima i jaɲɛ wakulɔni filɛli walima kumasen sɛbɛni nin tomi sɛbɛn baliya ye.",health,travel,"SENTENCE:
+ Jatekɛminɛbaliya Bana be denmisɛni minunw na be gɛlɛya sɔrɔ walasa ko ɲɛsin fɛnw ma inafɔ lɛkɔli baara, nka u be seka ɲsɛin fɛnw ma minw ka d'o ye inafɔ zuye kɛli walima i jaɲɛ wakulɔni filɛli walima kumasen sɛbɛni nin tomi sɛbɛn baliya ye. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"San kelen kɔnɔna na, banabaatɔ kelen be se ka banakisɛ in yɛlɛma a masurunna mɔgɔ 10 k'a se 15 ma.",health,travel,"SENTENCE:
+ San kelen kɔnɔna na, banabaatɔ kelen be se ka banakisɛ in yɛlɛma a masurunna mɔgɔ 10 k'a se 15 ma. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Kɛlɛ banni, madiminiw tani kɔ ka taa dɔkɔtɔrɔso la, a bɛ mɔgɔ 40 hakɛ bɔ kasodenw na minnu bana ka segi kasobonw kɔnɔ.",health,travel,"SENTENCE:
+ Kɛlɛ banni, madiminiw tani kɔ ka taa dɔkɔtɔrɔso la, a bɛ mɔgɔ 40 hakɛ bɔ kasodenw na minnu bana ka segi kasobonw kɔnɔ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Furakɛlikɛlalaw y'a daminɛ ka ta baara la Fangamasa Augustus fɛ wa u ye Roman Furakɛlikɛli Baarakɛbolo fɔlɔ sigi senkan min tun kakan ka baarakɛ kɛlɛ kɔfɛ.,health,travel,"SENTENCE:
+ Furakɛlikɛlalaw y'a daminɛ ka ta baara la Fangamasa Augustus fɛ wa u ye Roman Furakɛlikɛli Baarakɛbolo fɔlɔ sigi senkan min tun kakan ka baarakɛ kɛlɛ kɔfɛ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Nka mɔbilibolila in banana a kunkolo la ka juguya.,health,travel,"SENTENCE:
+ Nka mɔbilibolila in banana a kunkolo la ka juguya. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"""Kalo nani ɲinɛw be an bolo sisan sukarɔbana te minw la ni hali kasɔrɔ a tun be ula"", a ye fɔ ka o fara a kan.",health,travel,"SENTENCE:
+ ""Kalo nani ɲinɛw be an bolo sisan sukarɔbana te minw la ni hali kasɔrɔ a tun be ula"", a ye fɔ ka o fara a kan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Kɔnɔna dɔngɔnɔn be seka y'o yɔrɔninbɛla. O waleyaw inafɔ fɔnɔli ye dangɛ min ma se sɛgɛsɛgɛli jɔna jɔna ma.,health,travel,"SENTENCE:
+ Kɔnɔna dɔngɔnɔn be seka y'o yɔrɔninbɛla. O waleyaw inafɔ fɔnɔli ye dangɛ min ma se sɛgɛsɛgɛli jɔna jɔna ma. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"O kɔlɔlɔ kɛra a minbagaw bɛ ɲɛnaminisisi min caman, ani sekonidɔnkotigilamɔgɔw yɛrɛ bɛ ka u lamɛnbagaw lasu ka don a la.",entertainment,travel,"SENTENCE:
+ O kɔlɔlɔ kɛra a minbagaw bɛ ɲɛnaminisisi min caman, ani sekonidɔnkotigilamɔgɔw yɛrɛ bɛ ka u lamɛnbagaw lasu ka don a la. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Aerosmith y'aka munumunu ɲɛnajɛ tɔw bɔ ama,entertainment,entertainment,"SENTENCE:
+ Aerosmith y'aka munumunu ɲɛnajɛ tɔw bɔ ama 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Nin i be fɛka ka kɛ tulɔnbaaraw gɛrɛfɛ, i kan kana jɔna walasa ka sigiyɔrɔ sɔrɔ dɔngili gɛrɛfɛ.",entertainment,travel,"SENTENCE:
+ Nin i be fɛka ka kɛ tulɔnbaaraw gɛrɛfɛ, i kan kana jɔna walasa ka sigiyɔrɔ sɔrɔ dɔngili gɛrɛfɛ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Filimu cogoya camaw beyi minunw natila san cama tɛmɛni kɔnɔ. Filimu nɔrɔmali 35 (36 nin 24 milimɛtiri negatiwu ye) ye kodɔnlen ba ye.,entertainment,entertainment,"SENTENCE:
+ Filimu cogoya camaw beyi minunw natila san cama tɛmɛni kɔnɔ. Filimu nɔrɔmali 35 (36 nin 24 milimɛtiri negatiwu ye) ye kodɔnlen ba ye. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Ali ni o ye baara kodɔnlen ba dɔ ye, a kɔn neno Disney fɛ: tikew tɛ seka yɛlɛma.",entertainment,entertainment,"SENTENCE:
+ Ali ni o ye baara kodɔnlen ba dɔ ye, a kɔn neno Disney fɛ: tikew tɛ seka yɛlɛma. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+O kihingo gia kĩbindi kĩu nĩkĩahinyagĩrĩria ũndũ ũmwe ibukuinĩ rĩmwe na gĩkatabania ũhoro ũcio na ng'ano nyingĩ.,entertainment,travel,"SENTENCE:
+ O kihingo gia kĩbindi kĩu nĩkĩahinyagĩrĩria ũndũ ũmwe ibukuinĩ rĩmwe na gĩkatabania ũhoro ũcio na ng'ano nyingĩ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Jabara belebele caama tun sigira yɔrɔ caama na Rome walasa mɔgɔw ka se ka janaja in lajɛ,entertainment,travel,"SENTENCE:
+ Jabara belebele caama tun sigira yɔrɔ caama na Rome walasa mɔgɔw ka se ka janaja in lajɛ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Sophocoles ni Aristophanes ye hali sisan sɛbɛnnikɛla tɔgɔtigiw ye wa uka sɛbɛnniw be jate diyɛn sɛbɛnni baara baw cɛ la.,entertainment,entertainment,"SENTENCE:
+ Sophocoles ni Aristophanes ye hali sisan sɛbɛnnikɛla tɔgɔtigiw ye wa uka sɛbɛnniw be jate diyɛn sɛbɛnni baara baw cɛ la. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Kĩbindi nokiaheaga ciana mwerekera wa mabuku marĩa cigwetha na cithome rĩrĩa ciathiĩ library.,entertainment,travel,"SENTENCE:
+ Kĩbindi nokiaheaga ciana mwerekera wa mabuku marĩa cigwetha na cithome rĩrĩa ciathiĩ library. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Akɔridiyɔn kan, walasa ka mankan layɛlɛ, i bɛ nɛgɛniw digi ni fanga ni teliya dɔɔnin ye.",entertainment,travel,"SENTENCE:
+ Akɔridiyɔn kan, walasa ka mankan layɛlɛ, i bɛ nɛgɛniw digi ni fanga ni teliya dɔɔnin ye. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+I be seka piramidiw ye dibila ani i bese k'u ye mankan tan ni tulɔn be daminɛ.,entertainment,travel,"SENTENCE:
+ I be seka piramidiw ye dibila ani i bese k'u ye mankan tan ni tulɔn be daminɛ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Yɔrɔlajɛli baaraw milisaliw dɔ ye sogofaga ye, jɛgɛmɔw, fotota, kɔnɔlajɛ ani parikuw lajɛli, ani kunafoniw kalani yɔrɔ ani jiri kɛcogoyala.",entertainment,travel,"SENTENCE:
+ Yɔrɔlajɛli baaraw milisaliw dɔ ye sogofaga ye, jɛgɛmɔw, fotota, kɔnɔlajɛ ani parikuw lajɛli, ani kunafoniw kalani yɔrɔ ani jiri kɛcogoyala. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Sphinx bilaleno kɔfɛlala ani inafɔ nzirin janyi ɲɛfɔba.,entertainment,travel,"SENTENCE:
+ Sphinx bilaleno kɔfɛlala ani inafɔ nzirin janyi ɲɛfɔba. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Dumuniw, minfɛnw ani tulɔnw kɛrɛnkɛrɛniw b'u bolo ka dunanw marakato nisondiyala ani k'u minɛkato u ka yɔrɔ la.",entertainment,travel,"SENTENCE:
+ Dumuniw, minfɛnw ani tulɔnw kɛrɛnkɛrɛniw b'u bolo ka dunanw marakato nisondiyala ani k'u minɛkato u ka yɔrɔ la. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Dunuyalaminijɛkɛlu bɛ ka ɛsipaɲɔli, Italiyɛn ani kɔreyɛn kanw lasankɔrɔta, jabarani, bɔlɔlɔ ani npalankɔnɔmansinw la.",entertainment,travel,"SENTENCE:
+ Dunuyalaminijɛkɛlu bɛ ka ɛsipaɲɔli, Italiyɛn ani kɔreyɛn kanw lasankɔrɔta, jabarani, bɔlɔlɔ ani npalankɔnɔmansinw la. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Yani Simpsons cɛ Simon tun ye baarakɛ jɛmukan caman na jɔyɔrɔ caman na.,entertainment,entertainment,"SENTENCE:
+ Yani Simpsons cɛ Simon tun ye baarakɛ jɛmukan caman na jɔyɔrɔ caman na. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+O b'a to ɲɛnajɛkɛlaw ka se ka ɲɛnajɛ in kɛwalew ni taanikaseginw kɛ u sago la ni mansin in munumununi ye fiyɛn fɛ.,entertainment,travel,"SENTENCE:
+ O b'a to ɲɛnajɛkɛlaw ka se ka ɲɛnajɛ in kɛwalew ni taanikaseginw kɛ u sago la ni mansin in munumununi ye fiyɛn fɛ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"A dɔgɔyalen Mɔgɔ 100 ye ɲɛnajɛ in lajɛ, walasa ka furudenw ka sanyɛlɛma fɔlɔ furu ɲɛnajɛ kɛ, furu min sirila salo.",entertainment,travel,"SENTENCE:
+ A dɔgɔyalen Mɔgɔ 100 ye ɲɛnajɛ in lajɛ, walasa ka furudenw ka sanyɛlɛma fɔlɔ furu ɲɛnajɛ kɛ, furu min sirila salo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Filimu kɔrɔ dongili filaw, LamƐl¡ (Fatɔw minw be sugo) ani Dolow ka dugu, sugandira ka kɛ dongiliw bɛƐ la ɲuman danma ye. Studio Lionsgate ye  sugandira siɲɛ 26, ka tƐmƐ filimubɔyɔrɔ wƐrƐ kan.",entertainment,entertainment,"SENTENCE:
+ Filimu kɔrɔ dongili filaw, LamƐl¡ (Fatɔw minw be sugo) ani Dolow ka dugu, sugandira ka kɛ dongiliw bɛƐ la ɲuman danma ye. Studio Lionsgate ye  sugandira siɲɛ 26, ka tƐmƐ filimubɔyɔrɔ wƐrƐ kan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Kɔfara jalen bɔɲan be kilomɛtiri 70 bɔ nin gɛrɛra la ani kilomɛtiri 100 bɔɲa nin ka jan la.,geography,travel,"SENTENCE:
+ Kɔfara jalen bɔɲan be kilomɛtiri 70 bɔ nin gɛrɛra la ani kilomɛtiri 100 bɔɲa nin ka jan la. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Wɔrɔdugu yanfan dan ye Niagara Falls ye ani kɔkɔdugu yanfan ye Musoka kunko yɛlɛmabali cɛɲuma ye   ani o sanfɛ.,geography,travel,"SENTENCE:
+ Wɔrɔdugu yanfan dan ye Niagara Falls ye ani kɔkɔdugu yanfan ye Musoka kunko yɛlɛmabali cɛɲuma ye   ani o sanfɛ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ellsworth land ye penɛnsili worodugu maarayɔrɔ ye, min danbɔleno nin Bellingshausen Sea ye.",geography,travel,"SENTENCE:
+ Ellsworth land ye penɛnsili worodugu maarayɔrɔ ye, min danbɔleno nin Bellingshausen Sea ye. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+South Pole Traverse (walima siraba) ye sira kilomɛtiri 1600 ye kabɔ McMurdo Station Ross Sea sanfɛ ka ta Poli fɛ.,geography,travel,"SENTENCE:
+ South Pole Traverse (walima siraba) ye sira kilomɛtiri 1600 ye kabɔ McMurdo Station Ross Sea sanfɛ ka ta Poli fɛ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Jolila Machu Picchu kɔkɔdugu yanfan sanfɛla dan na ye nin yɛlɛka jigin kulu in ye, waatidɔwla fotow kɔfɛla ja yɔrɔtɔw ye.",geography,travel,"SENTENCE:
+ Jolila Machu Picchu kɔkɔdugu yanfan sanfɛla dan na ye nin yɛlɛka jigin kulu in ye, waatidɔwla fotow kɔfɛla ja yɔrɔtɔw ye. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Enceladus dolo ye fɛn dɔ ye tileyeelen kɔnɔ min ye kadi ka tɛmɛ tɔ bɛɛ kan min fɛnɛ bɛ tileyeelen kɛmɛ-kɛmɛ sarada 90 segi a ma.,geography,travel,"SENTENCE:
+ Enceladus dolo ye fɛn dɔ ye tileyeelen kɔnɔ min ye kadi ka tɛmɛ tɔ bɛɛ kan min fɛnɛ bɛ tileyeelen kɛmɛ-kɛmɛ sarada 90 segi a ma. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Fɛn wɛrɛ tɛ se ka ye ni a bɔra sankolo cɛɲumanni-jɛman i sanfɛ ni kuluw caman minnu bɛ ka i lamini. Diɲɛ fan foyi ye man di walema mɛ man di ka i to a kɔnɔ.,geography,travel,"SENTENCE:
+ Fɛn wɛrɛ tɛ se ka ye ni a bɔra sankolo cɛɲumanni-jɛman i sanfɛ ni kuluw caman minnu bɛ ka i lamini. Diɲɛ fan foyi ye man di walema mɛ man di ka i to a kɔnɔ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Sisan Zapɔn ka ko la. Zapɔn tun ye gun jamana dɔ ye inafɔ Biritaɲi.,geography,travel,"SENTENCE:
+ Sisan Zapɔn ka ko la. Zapɔn tun ye gun jamana dɔ ye inafɔ Biritaɲi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Fiɲɛjuguba Gonu, min tɔgɔ dara ntenbulubɔrɔkelen na Malidivikan na, k'a to a dan bɛɛ la tun bɛ kɛ funufunuba min bɛ kilomɛtɛrɛ 240 boli sanga kelen kɔnɔ (nɔngɔnɲɛ 149 sanga kelen kɔnɔ).",geography,travel,"SENTENCE:
+ Fiɲɛjuguba Gonu, min tɔgɔ dara ntenbulubɔrɔkelen na Malidivikan na, k'a to a dan bɛɛ la tun bɛ kɛ funufunuba min bɛ kilomɛtɛrɛ 240 boli sanga kelen kɔnɔ (nɔngɔnɲɛ 149 sanga kelen kɔnɔ). 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Tiriki dugukolo, k'a fara dalaw kan, bɛ kilomɛtɛrɛ_kare 783.562 (nɔgɔn_kare ɲɛ 300.948) ta, min cɛma kilomɛtɛrɛ_kare 755.688 (nɔngɔn_kare ɲɛ 291.773) Azi worodugu_tilebinyanfan fɛ.",geography,travel,"SENTENCE:
+ Tiriki dugukolo, k'a fara dalaw kan, bɛ kilomɛtɛrɛ_kare 783.562 (nɔgɔn_kare ɲɛ 300.948) ta, min cɛma kilomɛtɛrɛ_kare 755.688 (nɔngɔn_kare ɲɛ 291.773) Azi worodugu_tilebinyanfan fɛ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"South Shetland Islands, kodɔnlen san 1819 kɔnɔ, tigiya fɔla jamana camaw fɛ  ani sorodasi kanw camaw beyi, nin taniwɔɔrɔ min be baara la san 2020 kɔnɔ.",geography,travel,"SENTENCE:
+ South Shetland Islands, kodɔnlen san 1819 kɔnɔ, tigiya fɔla jamana camaw fɛ  ani sorodasi kanw camaw beyi, nin taniwɔɔrɔ min be baara la san 2020 kɔnɔ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Apia ye Samoa faba ye. Dugu be Upolu gun sanfɛ ani a mɔgɔ be dɔni dɔrɔn mɔgɔ 40.000 duguma.,geography,travel,"SENTENCE:
+ Apia ye Samoa faba ye. Dugu be Upolu gun sanfɛ ani a mɔgɔ be dɔni dɔrɔn mɔgɔ 40.000 duguma. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+" Ikomi sanfiyɛn yɔrɔ ka jan dugukolo la, a ka gɛlɛn ka kɔlɔlɔ dɔn Etasini walima Caraïbes.",geography,travel,"SENTENCE:
+  Ikomi sanfiyɛn yɔrɔ ka jan dugukolo la, a ka gɛlɛn ka kɔlɔlɔ dɔn Etasini walima Caraïbes. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+A ka dɔgɔ nin be tasumajisisikulu gɛrɛfɛ ani ka bɔn nin be sanfɛra legelegew la.,geography,travel,"SENTENCE:
+ A ka dɔgɔ nin be tasumajisisikulu gɛrɛfɛ ani ka bɔn nin be sanfɛra legelegew la. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Kunko ninunw tɛ jijukɔrɔ bin dɔrɔn ye ali na sɔrɔ - u be kunkoba laban tɔlenw ta min kun be Gangetic kulu datugu dɔn tɛmɛnula.,geography,travel,"SENTENCE:
+ Kunko ninunw tɛ jijukɔrɔ bin dɔrɔn ye ali na sɔrɔ - u be kunkoba laban tɔlenw ta min kun be Gangetic kulu datugu dɔn tɛmɛnula. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Mabu ya United States Geological Survey yonanirie gũtirĩ ithingithia thĩinĩ wa Iceland wiki ĩ mwe mbere.,geography,travel,"SENTENCE:
+ Mabu ya United States Geological Survey yonanirie gũtirĩ ithingithia thĩinĩ wa Iceland wiki ĩ mwe mbere. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+" Kuluwo in bɛ a kelenna, min bɛ kuluw cɛman kelen sanfɛ Makan kaɲɛka la.",geography,travel,"SENTENCE:
+  Kuluwo in bɛ a kelenna, min bɛ kuluw cɛman kelen sanfɛ Makan kaɲɛka la. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"

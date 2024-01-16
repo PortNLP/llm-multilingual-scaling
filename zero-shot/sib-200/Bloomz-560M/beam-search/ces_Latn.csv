@@ -1,205 +1,2449 @@
 text,actual_category,predicted_category,generated_text
-"Mutace přidávají novou genetickou variaci, a výběr je odstraňuje ze souboru vyjádřených variací.",science/technology,N/A,"""Mutace přidávají novou genetickou variaci, a výběr je odstraňuje ze souboru vyjádřených variací."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: agriculture</s>"
-"Štěpná jaderná bomba funguje na principu, že k udržení jádra s mnoha protony a neutrony pohromadě je zapotřebí energie.",science/technology,N/A,"""Štěpná jaderná bomba funguje na principu, že k udržení jádra s mnoha protony a neutrony pohromadě je zapotřebí energie."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: physics</s>"
-Jádro se skládá ze dvou částic – neutronů a protonů.,science/technology,N/A,"""Jádro se skládá ze dvou částic – neutronů a protonů."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: physics</s>"
-"To umožnilo objektivům s přiblížením produkovat snímky srovnatelné kvality s tou, kterou dosahují objektivy s fixní ohniskovou vzdáleností.",science/technology,travel,"""To umožnilo objektivům s přiblížením produkovat snímky srovnatelné kvality s tou, kterou dosahují objektivy s fixní ohniskovou vzdáleností."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Jsou lepší než webové proxy servery z několika důvodů: přesměrují veškerý internetový provoz, nejen http.",science/technology,N/A,"""Jsou lepší než webové proxy servery z několika důvodů: přesměrují veškerý internetový provoz, nejen http."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: tech</s>"
-"Interaktivní design vyžaduje, abyste přehodnotili své domněnky o mediální produkci a naučili se přemýšlet nelineárně.",science/technology,N/A,"""Interaktivní design vyžaduje, abyste přehodnotili své domněnky o mediální produkci a naučili se přemýšlet nelineárně."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: tech</s>"
-"To se stalo běžným jevem, ale železo způsobilo větší opotřebení dřevěných kol vozů.",science/technology,travel,"""To se stalo běžným jevem, ale železo způsobilo větší opotřebení dřevěných kol vozů."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-Smečku tvoří jeden až tři příbuzní dospělí samci spolu s až třiceti samicemi a mláďaty.,science/technology,travel,"""Smečku tvoří jeden až tři příbuzní dospělí samci spolu s až třiceti samicemi a mláďaty."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Ačkoliv má umělá inteligence silnou konotaci se science fiction, tvoří velmi důležitou oblast počítačové vědy zabývající se chováním, učením a inteligenční adaptací strojů.",science/technology,entertainment,"""Ačkoliv má umělá inteligence silnou konotaci se science fiction, tvoří velmi důležitou oblast počítačové vědy zabývající se chováním, učením a inteligenční adaptací strojů."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: entertainment</s>"
-Poměr stran tohoto formátu (vyděleno dvanácti pro získání nejjednoduššího poměru v celých číslech) je tedy 3:2.,science/technology,N/A,"""Poměr stran tohoto formátu (vyděleno dvanácti pro získání nejjednoduššího poměru v celých číslech) je tedy 3:2."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: culture</s>"
-"Satelitní telefon není obecně náhradou za mobilní telefon, protože abyste mohli volat, musíte se nacházet venku bez překážek mezi vámi a satelitem.",science/technology,N/A,"""Satelitní telefon není obecně náhradou za mobilní telefon, protože abyste mohli volat, musíte se nacházet venku bez překážek mezi vámi a satelitem."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: tech</s>"
-"Přestože se dostavníkové cesty většinou skládaly pouze z rovnoběžných prken, umožňovaly tažným koním dosáhnout větší rychlosti a uvézt těžší břemeno než na ostatních tehdejších cestách, které byly o něco hrubší.",science/technology,travel,"""Přestože se dostavníkové cesty většinou skládaly pouze z rovnoběžných prken, umožňovaly tažným koním dosáhnout větší rychlosti a uvézt těžší břemeno než na ostatních tehdejších cestách, které byly o něco hrubší."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Lidé znají už od pradávna základní chemické prvky jako zlato, stříbro a měď, jelikož se tyto prvky nalézají v přírodě ve své ryzí formě a dají se relativně snadno těžit i za použití jednoduchých nástrojů.",science/technology,travel,"""Lidé znají už od pradávna základní chemické prvky jako zlato, stříbro a měď, jelikož se tyto prvky nalézají v přírodě ve své ryzí formě a dají se relativně snadno těžit i za použití jednoduchých nástrojů."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Kolo změnilo svět nevídaným způsobem. To nejvýznamnější, co způsobilo, bylo podstatné usnadnění a zrychlení přepravy.",science/technology,travel,"""Kolo změnilo svět nevídaným způsobem. To nejvýznamnější, co způsobilo, bylo podstatné usnadnění a zrychlení přepravy."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Je to pro ujištění, že obrázek zakrývá celou obrazovku. To se nazývá overscan.",science/technology,N/A,"""Je to pro ujištění, že obrázek zakrývá celou obrazovku. To se nazývá overscan."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: tech</s>"
-Německé ponorky se nazývaly U-Boot. Němci byli v navigaci a řízení svých ponorek velice zdatní.,science/technology,N/A,"""Německé ponorky se nazývaly U-Boot. Němci byli v navigaci a řízení svých ponorek velice zdatní."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: military</s>"
-"Ačkoliv se fyzický stav může měnit, chemická podoba zůstává stejná.",science/technology,travel,"""Ačkoliv se fyzický stav může měnit, chemická podoba zůstává stejná."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"K povrchovému napětí dochází proto, že molekuly vody na vodní hladině jsou k sobě přitahovány silněji než k molekulám vzduchu nad sebou.",science/technology,N/A,"""K povrchovému napětí dochází proto, že molekuly vody na vodní hladině jsou k sobě přitahovány silněji než k molekulám vzduchu nad sebou."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: physics</s>"
-Jedním z nejčastějších problémů při pokusu konvertovat film do formátu DVD je takzvaný overscan.,science/technology,entertainment,"""Jedním z nejčastějších problémů při pokusu konvertovat film do formátu DVD je takzvaný overscan."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: entertainment</s>"
-"Konkrétně můžete díky správné interpretaci mikrovýrazů zjistit, jestli vám druhý člověk lže.",science/technology,travel,"""Konkrétně můžete díky správné interpretaci mikrovýrazů zjistit, jestli vám druhý člověk lže."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-Zlato se dá zpracovat do všemožných tvarů. Je možné ho srolovat do miniaturních kousků.,science/technology,travel,"""Zlato se dá zpracovat do všemožných tvarů. Je možné ho srolovat do miniaturních kousků."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Systém umělé inteligence je nyní často používán v oblastech ekonomiky, medicíny, strojírenství a vojenství a je vestavěn v řadě aplikací domácích počítačů a softwaru videoher.",science/technology,N/A,"""Systém umělé inteligence je nyní často používán v oblastech ekonomiky, medicíny, strojírenství a vojenství a je vestavěn v řadě aplikací domácích počítačů a softwaru videoher."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: tech</s>"
-"Vyrábějí se dodnes, ale důležitější je, že jejich poměr stran převzaly i formáty snímače digitálních fotoaparátů.",science/technology,N/A,"""Vyrábějí se dodnes, ale důležitější je, že jejich poměr stran převzaly i formáty snímače digitálních fotoaparátů."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: culture</s>"
-"Často zneužívané a zesměšňované „pravidlo třetin“ je prostým vodítkem, které v obraze vytváří dynamiku při zachování určitého pořádku.",science/technology,travel,"""Často zneužívané a zesměšňované „pravidlo třetin“ je prostým vodítkem, které v obraze vytváří dynamiku při zachování určitého pořádku."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Tato skutečnost nejen potvrzuje, že přinejmenším někteří dinosauři měli peří (tato teorie je již rozšířená), ale také poskytuje podrobnosti, které fosílie obecně nemohou poskytnout, například o barevném a trojrozměrném uspořádání.",science/technology,travel,"""Tato skutečnost nejen potvrzuje, že přinejmenším někteří dinosauři měli peří (tato teorie je již rozšířená), ale také poskytuje podrobnosti, které fosílie obecně nemohou poskytnout, například o barevném a trojrozměrném uspořádání."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Jak by mě přitahovala gravitace měsíce Io? Pokud byste stáli na povrchu Io, vážili byste méně než na Zemi.",science/technology,travel,"""Jak by mě přitahovala gravitace měsíce Io? Pokud byste stáli na povrchu Io, vážili byste méně než na Zemi."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"NextGen je systém, který by podle agentury FAA umožnil letadlům létat kratšími trasami a každý rok tak ušetřit miliony galonů paliva a snížit uhlíkové emise.",science/technology,N/A,"""NextGen je systém, který by podle agentury FAA umožnil letadlům létat kratšími trasami a každý rok tak ušetřit miliony galonů paliva a snížit uhlíkové emise."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: tech</s>"
-Neurobiologické údaje poskytují fyzickou evidenci teoretickému přístupu ke zkoumání kognice. Tuto výzkumnou oblast tak zužují a upřesňují.,science/technology,N/A,"""Neurobiologické údaje poskytují fyzickou evidenci teoretickému přístupu ke zkoumání kognice. Tuto výzkumnou oblast tak zužují a upřesňují."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: education</s>"
-"Během své dvouhodinové řeči prohlásil, že „Apple dnes znovu vynalezne telefon, dnes se zapíšeme do historie“.",science/technology,N/A,"""Během své dvouhodinové řeči prohlásil, že „Apple dnes znovu vynalezne telefon, dnes se zapíšeme do historie“."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: tech</s>"
-"Nevýhodou objektivů s přiblížením je, že ohnisková složitost a počet prvků čoček potřebných k dosažení rozsahu ohniskových vzdáleností je mnohem větší než u fixních objektivů.",science/technology,N/A,"""Nevýhodou objektivů s přiblížením je, že ohnisková složitost a počet prvků čoček potřebných k dosažení rozsahu ohniskových vzdáleností je mnohem větší než u fixních objektivů."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: culture</s>"
-"Ovladač podobný televiznímu ovládání používá dva senzory umístěné poblíž uživatelovy televize, které triangulují jeho polohu v trojrozměrném prostoru.",science/technology,entertainment,"""Ovladač podobný televiznímu ovládání používá dva senzory umístěné poblíž uživatelovy televize, které triangulují jeho polohu v trojrozměrném prostoru."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: entertainment</s>"
-"Vědci tvrdí, že peří tohoto zvířete bylo kaštanově hnědé svrchu s bledou nebo karotenově zbarvenou spodní stranou.",science/technology,entertainment,"""Vědci tvrdí, že peří tohoto zvířete bylo kaštanově hnědé svrchu s bledou nebo karotenově zbarvenou spodní stranou."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: entertainment</s>"
-"Výzkumníci z univerzity uvedli, že tyto dvě sloučeniny na sebe vzájemně reagují a formují krystaly, které mohou blokovat funkci ledvin.",science/technology,N/A,"""Výzkumníci z univerzity uvedli, že tyto dvě sloučeniny na sebe vzájemně reagují a formují krystaly, které mohou blokovat funkci ledvin."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: culture</s>"
-Ten poskytuje téměř čtyřikrát vyšší rozlišení než 35mm negativ (3136 mm2 oproti 864 mm2).,science/technology,travel,"""Ten poskytuje téměř čtyřikrát vyšší rozlišení než 35mm negativ (3136 mm2 oproti 864 mm2)."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-Díky spojení s Evropou podmořským optickým kabelem a širokopásmovému satelitnímu signálu je v Grónsku k dispozici dobré připojení a 93 % obyvatel má přístup k internetu.,science/technology,N/A,"""Díky spojení s Evropou podmořským optickým kabelem a širokopásmovému satelitnímu signálu je v Grónsku k dispozici dobré připojení a 93 % obyvatel má přístup k internetu."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: tech</s>"
-"Jednou z nejvýznamnějších aplikací v této kategorii je Google Translate, která po stažení požadovaných jazykových dat umožňuje offline překlad.",science/technology,N/A,"""Jednou z nejvýznamnějších aplikací v této kategorii je Google Translate, která po stažení požadovaných jazykových dat umožňuje offline překlad."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: tech</s>"
-"Má stejnou molekulární strukturu bez ohledu na to, zda je ve skupenství plynném, kapalném nebo pevném.",science/technology,N/A,"""Má stejnou molekulární strukturu bez ohledu na to, zda je ve skupenství plynném, kapalném nebo pevném."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: military</s>"
-Používání videozáznamů vedlo k důležitým objevům při interpretaci mikrosdělení – pohybů obličeje trvajících pouhých několik mikrosekund.,science/technology,N/A,"""Používání videozáznamů vedlo k důležitým objevům při interpretaci mikrosdělení – pohybů obličeje trvajících pouhých několik mikrosekund."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: culture</s>"
-Lidé vyrábějí a používají zvětšovací čočky již po tisíce let.,science/technology,travel,"""Lidé vyrábějí a používají zvětšovací čočky již po tisíce let."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Není to však samo o sobě experimentování. Experiment je test, který se používá k popření jedné nebo více možných hypotéz, ale pro vědecký výzkum je důležité také kladení otázek a pozorování.",science/technology,N/A,"""Není to však samo o sobě experimentování. Experiment je test, který se používá k popření jedné nebo více možných hypotéz, ale pro vědecký výzkum je důležité také kladení otázek a pozorování."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: education</s>"
-Nakonec byla dřevěná kola nahrazena železnými. V roce 1767 byly představeny první celoželezné kolejnice.,science/technology,travel,"""Nakonec byla dřevěná kola nahrazena železnými. V roce 1767 byly představeny první celoželezné kolejnice."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Zatímco většina karet je vhodná pro volání na celém světě, některé se specializují na poskytování příznivých sazeb za volání do konkrétních skupin zemí.",science/technology,travel,"""Zatímco většina karet je vhodná pro volání na celém světě, některé se specializují na poskytování příznivých sazeb za volání do konkrétních skupin zemí."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-Většina moderních výzkumných teleskopů jsou obrovská zařízení v odlehlých oblastech s příznivými atmosférickými podmínkami.,science/technology,travel,"""Většina moderních výzkumných teleskopů jsou obrovská zařízení v odlehlých oblastech s příznivými atmosférickými podmínkami."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-Ocelová jehla se udrží na vodní hladině díky povrchovému napětí.,science/technology,travel,"""Ocelová jehla se udrží na vodní hladině díky povrchovému napětí."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Ačkoliv je to poněkud matoucí, formát 35mm má ve skutečnosti šířku 36mm a výšku 24mm.",science/technology,N/A,"""Ačkoliv je to poněkud matoucí, formát 35mm má ve skutečnosti šířku 36mm a výšku 24mm."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: culture</s>"
-"Buňky hrají při studii života tak základní a zásadní roli, že se o nich často hovoří jako o „stavebních kamenech života“.",science/technology,travel,"""Buňky hrají při studii života tak základní a zásadní roli, že se o nich často hovoří jako o „stavebních kamenech života“."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Osobní VPN (virtuální privátní síť) poskytuje excelentní způsob, jak obejít politickou cenzuru i komerční IP geofiltrování.",science/technology,N/A,"""Osobní VPN (virtuální privátní síť) poskytuje excelentní způsob, jak obejít politickou cenzuru i komerční IP geofiltrování."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: tech</s>"
-Stanice udržovala svou polohu až do konce výstupu do volného kosmického prostoru navzdory dřívější ztrátě gyroskopu během mise vesmírné stanice.,science/technology,travel,"""Stanice udržovala svou polohu až do konce výstupu do volného kosmického prostoru navzdory dřívější ztrátě gyroskopu během mise vesmírné stanice."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Lidé s tímto typem přemýšlení mají logické smýšlení, jsou schopni zapamatovat si vzorce, řešit problémy a pracovat na vědeckých testech.",science/technology,N/A,"""Lidé s tímto typem přemýšlení mají logické smýšlení, jsou schopni zapamatovat si vzorce, řešit problémy a pracovat na vědeckých testech."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: education</s>"
-"Oceloti rádi jedí malá zvířata. Pokud mají možnost, chytají opice, hady, hlodavce a ptáky. Skoro všechna zvířata, která ocelot loví, jsou mnohem menší než on sám.",science/technology,travel,"""Oceloti rádi jedí malá zvířata. Pokud mají možnost, chytají opice, hady, hlodavce a ptáky. Skoro všechna zvířata, která ocelot loví, jsou mnohem menší než on sám."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Některé fotoaparáty z kategorie středního formátu využívají formát 6 × 6 cm, přesněji negativ o rozměrech 56 × 56 mm.",science/technology,N/A,"""Některé fotoaparáty z kategorie středního formátu využívají formát 6 × 6 cm, přesněji negativ o rozměrech 56 × 56 mm."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: culture</s>"
-"Cestovatelům se důrazně doporučuje mít přehled o všech možných rizicích nepříznivého počasí v jejich oblasti, protože to může ovlivnit veškeré cestovní plány.",travel,travel,"""Cestovatelům se důrazně doporučuje mít přehled o všech možných rizicích nepříznivého počasí v jejich oblasti, protože to může ovlivnit veškeré cestovní plány."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Autobusy odjíždějí z meziměstského autobusového nádraží (přes řeku) po celý den, ale většina z nich, zejména ty, které míří na východ a Jakar/Bumthang, odjíždí mezi 6:30 a 7:30.",travel,travel,"""Autobusy odjíždějí z meziměstského autobusového nádraží (přes řeku) po celý den, ale většina z nich, zejména ty, které míří na východ a Jakar/Bumthang, odjíždí mezi 6:30 a 7:30."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Poskytují jezdci větší stabilitu, mohou ale být spojeny s bezpečnostními problémy kvůli možnosti, že se v nich nohy jezdce zaseknou.",travel,travel,"""Poskytují jezdci větší stabilitu, mohou ale být spojeny s bezpečnostními problémy kvůli možnosti, že se v nich nohy jezdce zaseknou."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-Plavby po Baltském moři mají většinou na programu delší pobyt v ruském Petrohradu.,travel,travel,"""Plavby po Baltském moři mají většinou na programu delší pobyt v ruském Petrohradu."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Tato rada předpokládá, že cestující nekradou, nepáchají přestupky, neúčastní se černého trhu, nežebrají nebo jinak nezneužívají jiné lidi k vlastnímu prospěchu.",travel,travel,"""Tato rada předpokládá, že cestující nekradou, nepáchají přestupky, neúčastní se černého trhu, nežebrají nebo jinak nezneužívají jiné lidi k vlastnímu prospěchu."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-Před a během cesty je potřeba zvážit mnoho věcí.,travel,travel,"""Před a během cesty je potřeba zvážit mnoho věcí."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Za denního úpalu mohou cestovatelé vidět zrcadlení, které vyvolává iluzi vody (nebo jiných věcí).",travel,travel,"""Za denního úpalu mohou cestovatelé vidět zrcadlení, které vyvolává iluzi vody (nebo jiných věcí)."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Rodiny s dětmi jsou vzácností, ale některé hostely jim nabízejí soukromé pokoje.",travel,travel,"""Rodiny s dětmi jsou vzácností, ale některé hostely jim nabízejí soukromé pokoje."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-Například návštěva hradů v údolí Loiry a Rýnu nebo okružní cesta po zajímavých městech na Dunaji či plavba po Erijském kanálu.,travel,sports,"""Například návštěva hradů v údolí Loiry a Rýnu nebo okružní cesta po zajímavých městech na Dunaji či plavba po Erijském kanálu."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: sports</s>"
-"Může být lepší využít služeb agenta, který často rezervuje výlety podobné tomu vašemu.",travel,travel,"""Může být lepší využít služeb agenta, který často rezervuje výlety podobné tomu vašemu."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Couchsurfing byl založen v lednu 2004 poté, co počítačový programátor Casey Fenton nalezl levný let na Island, ale neměl kde tam pobývat.",travel,travel,"""Couchsurfing byl založen v lednu 2004 poté, co počítačový programátor Casey Fenton nalezl levný let na Island, ale neměl kde tam pobývat."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-Studentská víza mají obvykle jiné požadavky a postupy při podávání žádosti než běžná turistická nebo obchodní víza.,travel,travel,"""Studentská víza mají obvykle jiné požadavky a postupy při podávání žádosti než běžná turistická nebo obchodní víza."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Každá země má také své vlastní právní předpisy, které upravují obsah povinné nouzové výbavy, kterou je nutno mít v autě.",travel,travel,"""Každá země má také své vlastní právní předpisy, které upravují obsah povinné nouzové výbavy, kterou je nutno mít v autě."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Většina agentur je ochotná splnit všechny obvyklé požadavky, někteří agenti se ale specializují jen na některé druhy cest, cenové kategorie nebo oblasti.",travel,travel,"""Většina agentur je ochotná splnit všechny obvyklé požadavky, někteří agenti se ale specializují jen na některé druhy cest, cenové kategorie nebo oblasti."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Cestovatelé se mohou setkat se zvířecími škůdci, které ve svých domovských regionech neznají.",travel,travel,"""Cestovatelé se mohou setkat se zvířecími škůdci, které ve svých domovských regionech neznají."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Na severu také navštivte Svatyni Panny Marie ve Fatimě (Sanctuary of Our Lady of Fatima), která je celosvětově známým místem zjevování Panny Marie.",travel,N/A,"""Na severu také navštivte Svatyni Panny Marie ve Fatimě (Sanctuary of Our Lady of Fatima), která je celosvětově známým místem zjevování Panny Marie."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: culture</s>"
-Pro cestu po Gomě můžete využít boda boda (motocyklové taxi). Běžná cena za krátkou jízdu je zhruba 500 konžských franků.,travel,travel,"""Pro cestu po Gomě můžete využít boda boda (motocyklové taxi). Běžná cena za krátkou jízdu je zhruba 500 konžských franků."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Všichni, kdo mají v oblibě pobyt v přírodě, by měli určitě navštívit koridor Sea to Sky.",travel,travel,"""Všichni, kdo mají v oblibě pobyt v přírodě, by měli určitě navštívit koridor Sea to Sky."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-Turistické safari se skládá z pěší túry trvající několik hodin až několik dní.,travel,travel,"""Turistické safari se skládá z pěší túry trvající několik hodin až několik dní."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Jediný způsob, jak to zvládnout rychleji, je poslat danou věc jako odbavené zavazadlo. Letecké předpisy ale nedovolují poslat zavazadlo bez cestujícího, a tady přicházíte na řadu vy.",travel,travel,"""Jediný způsob, jak to zvládnout rychleji, je poslat danou věc jako odbavené zavazadlo. Letecké předpisy ale nedovolují poslat zavazadlo bez cestujícího, a tady přicházíte na řadu vy."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-S dalšími 300 je to celkově 1 300 povozů potřebných ke zmírnění přelidnění.,travel,travel,"""S dalšími 300 je to celkově 1 300 povozů potřebných ke zmírnění přelidnění."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Rodiny s malými dětmi se budou možná muset více připravovat, ale strávit den venku je snadno možné i s nemluvňaty a předškoláky.",travel,travel,"""Rodiny s malými dětmi se budou možná muset více připravovat, ale strávit den venku je snadno možné i s nemluvňaty a předškoláky."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Každý, kdo bude řídit ve vysoké zeměpisné výšce nebo v horském průsmyku, byl měl zvážit možnost sněhu, ledu nebo mrazivých teplot.",travel,travel,"""Každý, kdo bude řídit ve vysoké zeměpisné výšce nebo v horském průsmyku, byl měl zvážit možnost sněhu, ledu nebo mrazivých teplot."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Timbuktu je dnes zchudlé město, díky své pověsti je však turistickou atrakci. Má také své letiště.",travel,travel,"""Timbuktu je dnes zchudlé město, díky své pověsti je však turistickou atrakci. Má také své letiště."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Během sněhové bouře napadá ve velmi krátkém čase dostatek sněhu na to, aby vám znemožnil jízdu.",travel,travel,"""Během sněhové bouře napadá ve velmi krátkém čase dostatek sněhu na to, aby vám znemožnil jízdu."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Pokud chcete letět kolem světa jen po jižní polokouli, výběr letů a destinací je z důvodu nedostatečného množství transoceánských tras omezený.",travel,travel,"""Pokud chcete letět kolem světa jen po jižní polokouli, výběr letů a destinací je z důvodu nedostatečného množství transoceánských tras omezený."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Letecké společnosti jako Emirates, Etihad Airways, Qatar Airways a Turkish Airlines ve velké míře rozšířily své služby do Afriky, a nabízí spojení do řady afrických měst za příznivější ceny než jiné evropské aerolinie.",travel,travel,"""Letecké společnosti jako Emirates, Etihad Airways, Qatar Airways a Turkish Airlines ve velké míře rozšířily své služby do Afriky, a nabízí spojení do řady afrických měst za příznivější ceny než jiné evropské aerolinie."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Nebude zavedena žádná mimořádná doprava, nadzemní vlaková doprava nebude ve Wembley stavět, na místě nejsou k dispozici parkoviště ani místa park-and-ride.",travel,sports,"""Nebude zavedena žádná mimořádná doprava, nadzemní vlaková doprava nebude ve Wembley stavět, na místě nejsou k dispozici parkoviště ani místa park-and-ride."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: sports</s>"
-"Obecně platí, že pobyt v jakékoli cizí zemi po delší dobu vyžaduje, abyste si předem obstarali vízum.",travel,travel,"""Obecně platí, že pobyt v jakékoli cizí zemi po delší dobu vyžaduje, abyste si předem obstarali vízum."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"V každém vlaku jsou jak vagony MetroPlus, tak Metro. Vagony MetroPlus jsou vždy zařazeny na konec vlaku směrem ke Kapskému Městu.",travel,travel,"""V každém vlaku jsou jak vagony MetroPlus, tak Metro. Vagony MetroPlus jsou vždy zařazeny na konec vlaku směrem ke Kapskému Městu."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-Každý se účastní života ve společnosti a využívá dopravní systémy. Téměř všichni si na dopravní systémy stěžují.,travel,sports,"""Každý se účastní života ve společnosti a využívá dopravní systémy. Téměř všichni si na dopravní systémy stěžují."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: sports</s>"
-"Protože tato území jsou jen řídce osídlená a světelné znečištění většinou nepředstavuje problém, budete si moci vychutnat pohled i na hvězdy.",travel,travel,"""Protože tato území jsou jen řídce osídlená a světelné znečištění většinou nepředstavuje problém, budete si moci vychutnat pohled i na hvězdy."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Pravidla používání karty Visa a poplatky jsou jiné v každé oblasti a závisejí na zemi, odkud pocházíte.",travel,travel,"""Pravidla používání karty Visa a poplatky jsou jiné v každé oblasti a závisejí na zemi, odkud pocházíte."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Obecně lze říci, že nemá smysl vůbec hledat slevy na lety z bodu A do bodu B pro první nebo byznys třídu.",travel,travel,"""Obecně lze říci, že nemá smysl vůbec hledat slevy na lety z bodu A do bodu B pro první nebo byznys třídu."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Házení bumerangem je oblíbenou dovedností, kterou se snaží ovládnout mnoho turistů.",travel,travel,"""Házení bumerangem je oblíbenou dovedností, kterou se snaží ovládnout mnoho turistů."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Tento let není jedinou možností, pokud si přejete vynechat jižní Pacifik a západní pobřeží Jižní Ameriky. (viz níže)",travel,travel,"""Tento let není jedinou možností, pokud si přejete vynechat jižní Pacifik a západní pobřeží Jižní Ameriky. (viz níže)"" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"San Francisko vyvinulo rozsáhlou turistickou infrastrukturu zahrnující četné hotely, restaurace a špičková kongresová zařízení.",travel,travel,"""San Francisko vyvinulo rozsáhlou turistickou infrastrukturu zahrnující četné hotely, restaurace a špičková kongresová zařízení."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Dobrovolnické aktivity v rámci cestování jsou skvělým způsobem, jak učinit něco užitečného, ale nejde jen o to, něco dát.",travel,sports,"""Dobrovolnické aktivity v rámci cestování jsou skvělým způsobem, jak učinit něco užitečného, ale nejde jen o to, něco dát."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: sports</s>"
-"Lidé si možná neuvědomují, že trpělivost a pochopení potřebují i cestovatelé, kteří se vracejí domů.",travel,sports,"""Lidé si možná neuvědomují, že trpělivost a pochopení potřebují i cestovatelé, kteří se vracejí domů."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: sports</s>"
-"Nezapomeňte zahrnout do propočtu další výdaje za dodatečná víza, poplatky za odjezd, pozemní dopravu atd. ve všech těchto místech mimo Afriku.",travel,travel,"""Nezapomeňte zahrnout do propočtu další výdaje za dodatečná víza, poplatky za odjezd, pozemní dopravu atd. ve všech těchto místech mimo Afriku."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-Několik obyvatel Biškeku obvinilo protestující z jihu z nezákonného jednání.,politics,travel,"""Několik obyvatel Biškeku obvinilo protestující z jihu z nezákonného jednání."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Části dnešní Belgie byly v minulosti součástí Lucemburska, ale po belgické revoluci roku 1830 se staly součástí Belgie.",politics,travel,"""Části dnešní Belgie byly v minulosti součástí Lucemburska, ale po belgické revoluci roku 1830 se staly součástí Belgie."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Od roku 1988 musí být volební urny průhledné, aby voliči i pozorovatelé mohli dosvědčit, že se v nich nenacházely žádné obálky ještě před začátkem hlasování a že nebyly přidány žádné jiné obálky než ty, které vložili spočítaní a oprávnění voliči.",politics,travel,"""Od roku 1988 musí být volební urny průhledné, aby voliči i pozorovatelé mohli dosvědčit, že se v nich nenacházely žádné obálky ještě před začátkem hlasování a že nebyly přidány žádné jiné obálky než ty, které vložili spočítaní a oprávnění voliči."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Předsedkyně úřednické vlády Julia Gillard během kampaně ve federálních volbách 2010 prohlásila, že věří, že by se na konci vlády královny Alžběty II. měla Austrálie stát republikou.",politics,politics,"""Předsedkyně úřednické vlády Julia Gillard během kampaně ve federálních volbách 2010 prohlásila, že věří, že by se na konci vlády královny Alžběty II. měla Austrálie stát republikou."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: politics</s>"
-"Irská vláda zdůrazňuje nutnost vytvoření parlamentní legislativy, která povede k nápravě situace.",politics,politics,"""Irská vláda zdůrazňuje nutnost vytvoření parlamentní legislativy, která povede k nápravě situace."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: politics</s>"
-Diplomatické spory o oblast nadále maří vztahy mezi Arménií a Ázerbajdžánem.,politics,N/A,"""Diplomatické spory o oblast nadále maří vztahy mezi Arménií a Ázerbajdžánem."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: military</s>"
-"""Předseda vlády Stephen Harper souhlasil, že vládní """"Vyhlášku o čistém vzduchu"""" předloží ke kontrole výboru všech stran před jejím druhým čtením, a to po úterním 25minutovém setkání s lídrem NDP Jackem Laytonem v projektové kanceláři. """,politics,politics,"""""Předseda vlády Stephen Harper souhlasil, že vládní """"Vyhlášku o čistém vzduchu"""" předloží ke kontrole výboru všech stran před jejím druhým čtením, a to po úterním 25minutovém setkání s lídrem NDP Jackem Laytonem v projektové kanceláři. """" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: World politics</s>"
-"Minulý měsíc se v Polsku, které podepsalo dohodu ACTA, odehrály velké protesty, jež vedly k tomu, že polská vláda odmítla prozatím dohodu ratifikovat.",politics,politics,"""Minulý měsíc se v Polsku, které podepsalo dohodu ACTA, odehrály velké protesty, jež vedly k tomu, že polská vláda odmítla prozatím dohodu ratifikovat."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: politics</s>"
-Poradenství jsou pouze stručným souhrnem politické situace v dané zemi.,politics,travel,"""Poradenství jsou pouze stručným souhrnem politické situace v dané zemi."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Během výběrů v roce 1976 radil Carterovi v oblasti zahraniční politiky, poté od roku 1977 do roku 1981 působil jako poradce pro národní bezpečnost (NSA), kde nahradil Henryho Kissingera.",politics,politics,"""Během výběrů v roce 1976 radil Carterovi v oblasti zahraniční politiky, poté od roku 1977 do roku 1981 působil jako poradce pro národní bezpečnost (NSA), kde nahradil Henryho Kissingera."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: politics</s>"
-"Turecko také převezme ostrahu zajatých bojovníků ISIS, které dle prohlášení odmítly evropské národy repatriovat.",politics,N/A,"""Turecko také převezme ostrahu zajatých bojovníků ISIS, které dle prohlášení odmítly evropské národy repatriovat."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: military</s>"
-"Tyto plány však téměř přes noc vzaly za své, když více než 800 000 vojáků sovětské Rudé armády vytvořilo běloruské a ukrajinské fronty poté, co vojáci napadli východní oblasti Polska a porušili tím Rižskou mírovou smlouvou, Sovětsko-polský pakt o neútočení a další mezinárodní smlouvy, a to jak dvoustranné, tak i mnohostranné.",politics,travel,"""Tyto plány však téměř přes noc vzaly za své, když více než 800 000 vojáků sovětské Rudé armády vytvořilo běloruské a ukrajinské fronty poté, co vojáci napadli východní oblasti Polska a porušili tím Rižskou mírovou smlouvou, Sovětsko-polský pakt o neútočení a další mezinárodní smlouvy, a to jak dvoustranné, tak i mnohostranné."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Po skončení tohoto procesu bude zákon HJR-3 znovu posouzen nově zvoleným zákonodárným shromážděním buď v roce 2015, nebo 2016, aby mohl jeho schvalovací proces pokračovat.",politics,travel,"""Po skončení tohoto procesu bude zákon HJR-3 znovu posouzen nově zvoleným zákonodárným shromážděním buď v roce 2015, nebo 2016, aby mohl jeho schvalovací proces pokračovat."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Po přijetí Kongresem 4. července pak byl ručně psaný návrh, který podepsal Předseda kongresu John Hancock a tajemník Charles Thomson, poslán o pár bloků dál do tiskařství Johna Dunlapa.",politics,politics,"""Po přijetí Kongresem 4. července pak byl ručně psaný návrh, který podepsal Předseda kongresu John Hancock a tajemník Charles Thomson, poslán o pár bloků dál do tiskařství Johna Dunlapa."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: politics</s>"
-Krátce po 11. hodině zablokovali protestující ve Whitehallu provoz silnice směřující na sever.,politics,politics,"""Krátce po 11. hodině zablokovali protestující ve Whitehallu provoz silnice směřující na sever."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: politics</s>"
-"V červnu 1956 však Chruščovovy sliby prošly zkouškou, když se nepokoje v Polsku, kde dělníci protestovali proti nedostatku jídla a snižování platů, proměnily v obecný protest proti komunismu.",politics,N/A,"""V červnu 1956 však Chruščovovy sliby prošly zkouškou, když se nepokoje v Polsku, kde dělníci protestovali proti nedostatku jídla a snižování platů, proměnily v obecný protest proti komunismu."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: culture</s>"
-"Trvala dalších 40 let a skutečně se bojovalo zástupnými armádami na bojištích od Afriky po Asii, v Afghánistánu, na Kubě a na mnoha dalších místech.",politics,N/A,"""Trvala dalších 40 let a skutečně se bojovalo zástupnými armádami na bojištích od Afriky po Asii, v Afghánistánu, na Kubě a na mnoha dalších místech."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: military</s>"
-"Minulý měsíc doporučila prezidentská komise rezignaci předešlého CEP jakožto součást opatření sloužících k tomu, aby se země posunula k novým volbám.",politics,politics,"""Minulý měsíc doporučila prezidentská komise rezignaci předešlého CEP jakožto součást opatření sloužících k tomu, aby se země posunula k novým volbám."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: politics</s>"
-"Další zahrnutá témata podle všeho obsahují budoucí stát Jeruzalém, který je posvátný pro oba národy i problematiku Jordánského údolí.",politics,travel,"""Další zahrnutá témata podle všeho obsahují budoucí stát Jeruzalém, který je posvátný pro oba národy i problematiku Jordánského údolí."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-Rovněž nemělo žádnou pravomoc zrušit daňové zákony a tarify mezi státy.,politics,travel,"""Rovněž nemělo žádnou pravomoc zrušit daňové zákony a tarify mezi státy."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-Francouzský volební zákon obsahuje celkem přísnou kodifikaci průběhu voleb.,politics,travel,"""Francouzský volební zákon obsahuje celkem přísnou kodifikaci průběhu voleb."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-Po ztrátovém týdnu při pololetních volbách Bush informoval publikum o rozšíření trhu v Asii.,politics,politics,"""Po ztrátovém týdnu při pololetních volbách Bush informoval publikum o rozšíření trhu v Asii."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: World politics</s>"
-"Strategie se ukázala jako efektivní, protože přerušila životně důležité vojenské a civilní zásobování, přestože tato blokáda porušovala všeobecně přijaté mezinárodní právo kodifikované několika mezinárodními dohodami z předchozích dvou století.",politics,N/A,"""Strategie se ukázala jako efektivní, protože přerušila životně důležité vojenské a civilní zásobování, přestože tato blokáda porušovala všeobecně přijaté mezinárodní právo kodifikované několika mezinárodními dohodami z předchozích dvou století."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: military</s>"
-Hospodářské vazby mezi těmito dvěma částmi Moldavska byly navzdory neúspěchu v politických jednáních obnoveny.,politics,travel,"""Hospodářské vazby mezi těmito dvěma částmi Moldavska byly navzdory neúspěchu v politických jednáních obnoveny."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"V doprovodu těchto zástupců ujistil občany Texasu, že jsou podnikány kroky za účelem ochránění veřejné bezpečnosti.",politics,sports,"""V doprovodu těchto zástupců ujistil občany Texasu, že jsou podnikány kroky za účelem ochránění veřejné bezpečnosti."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: sports</s>"
-"Liberální kritika snah o rekonstrukci se soustředila na to, že smlouvy o rekonstrukci vyhrávali domnělí washingtonští zasvěcenci.",politics,N/A,"""Liberální kritika snah o rekonstrukci se soustředila na to, že smlouvy o rekonstrukci vyhrávali domnělí washingtonští zasvěcenci."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: military</s>"
-"Průzkum veřejného mínění provedený u 1 400 lidí před federálními volbami v roce 2010 ukázal, že počet lidí, kteří nesouhlasí v přeměnu Austrálie na republiku, stoupl oproti roku 2008 o 8 procent.",politics,sports,"""Průzkum veřejného mínění provedený u 1 400 lidí před federálními volbami v roce 2010 ukázal, že počet lidí, kteří nesouhlasí v přeměnu Austrálie na republiku, stoupl oproti roku 2008 o 8 procent."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: sports</s>"
-"Diplomati uvádějí, že v afghánské ústavě nalezli dostatek nejednoznačnosti na to, aby toto druhé kolo označili za nepotřebné.",politics,travel,"""Diplomati uvádějí, že v afghánské ústavě nalezli dostatek nejednoznačnosti na to, aby toto druhé kolo označili za nepotřebné."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Po přijetí výsledků Gingrich pochválil Santoruma, tvrdá slova měl však pro Romneyho, kvůli kterému byly v Iowě spuštěny negativní reklamní kampaně vůči Gingrichovi.",politics,N/A,"""Po přijetí výsledků Gingrich pochválil Santoruma, tvrdá slova měl však pro Romneyho, kvůli kterému byly v Iowě spuštěny negativní reklamní kampaně vůči Gingrichovi."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: Business</s>"
-Je to Martellyho pátá CEP za čtyři roky.,politics,politics,"""Je to Martellyho pátá CEP za čtyři roky."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: politics</s>"
-"Zlatý olympijský medailista měl na Commonwealth Games plavat 100 m a 200 m volným stylem a ve třech štafetách, ale vzhledem k jeho námitkám se pochybovalo o jeho způsobilosti.",sports,sports,"""Zlatý olympijský medailista měl na Commonwealth Games plavat 100 m a 200 m volným stylem a ve třech štafetách, ale vzhledem k jeho námitkám se pochybovalo o jeho způsobilosti."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: sports</s>"
-"Kromě toho, že byl olympijským a světovým šampiónem, byl Saito v době své smrti také předsedou tréninkového výboru Celojaponské judistické federace.",sports,sports,"""Kromě toho, že byl olympijským a světovým šampiónem, byl Saito v době své smrti také předsedou tréninkového výboru Celojaponské judistické federace."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: sports</s>"
-"Mezinárodní olympijský výbor dnes hlasoval o zahrnutí sportů na svém zasedání výkonné rady v Berlíně. Ragby, konkrétně ragbyová unie, a golf dostaly při zvažování účasti na olympijských hrách přednost před pěti dalšími sporty.",sports,sports,"""Mezinárodní olympijský výbor dnes hlasoval o zahrnutí sportů na svém zasedání výkonné rady v Berlíně. Ragby, konkrétně ragbyová unie, a golf dostaly při zvažování účasti na olympijských hrách přednost před pěti dalšími sporty."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: sports</s>"
-Největší turnaj roku se odehrává v prosinci na hřištích na pólo v Las Cañitas.,sports,travel,"""Největší turnaj roku se odehrává v prosinci na hřištích na pólo v Las Cañitas."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-Od přestupu do katalánského hlavního města odehrál Vidal za klub 49 utkání.,sports,sports,"""Od přestupu do katalánského hlavního města odehrál Vidal za klub 49 utkání."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: Sports</s>"
-"Udržování zdravé energetické rovnováhy, praktikování efektivních hydratačních návyků a pochopení různých aspektů problematiky suplementů může sportovcům pomoci zlepšit jejich výkon a posílit jejich dobrý pocit ze sportu.",sports,sports,"""Udržování zdravé energetické rovnováhy, praktikování efektivních hydratačních návyků a pochopení různých aspektů problematiky suplementů může sportovcům pomoci zlepšit jejich výkon a posílit jejich dobrý pocit ze sportu."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: sports</s>"
-"Na třetím místě je Hamlin, který ztrácí 20 bodů, ale s pěti body se umístil před Bowyerem. Kahne a Truex Jr. jsou na 5. a 6. místě s 2 220 a 2 207 body.",sports,sports,"""Na třetím místě je Hamlin, který ztrácí 20 bodů, ale s pěti body se umístil před Bowyerem. Kahne a Truex Jr. jsou na 5. a 6. místě s 2 220 a 2 207 body."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: Sports</s>"
-Nadalův rekord ze vzájemných utkání proti Kanaďanovi je 7–2.,sports,sports,"""Nadalův rekord ze vzájemných utkání proti Kanaďanovi je 7–2."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: Sports</s>"
-Jarque dříve toho dne trénoval při předsezónovém tréninku v Covercianu v Itálii. Před zápasem s Boloňou plánovaným na neděli bydlel v týmovém hotelu.,sports,sports,"""Jarque dříve toho dne trénoval při předsezónovém tréninku v Covercianu v Itálii. Před zápasem s Boloňou plánovaným na neděli bydlel v týmovém hotelu."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: sports</s>"
-"Obavy z nedostatku dopravních možností zvýšily šance, že se zápas bude muset odehrát za zavřenými dveřmi bez fanoušků týmu.",sports,travel,"""Obavy z nedostatku dopravních možností zvýšily šance, že se zápas bude muset odehrát za zavřenými dveřmi bez fanoušků týmu."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Tommy Dreamer řekl: „Luna byla první Královnou extrémů. Moje první manažerka. Luna zemřela během noci, kdy byly na obloze dva Měsíce. Jedinečné, stejně jako ona sama. Byla to silná žena.",sports,sports,"""Tommy Dreamer řekl: „Luna byla první Královnou extrémů. Moje první manažerka. Luna zemřela během noci, kdy byly na obloze dva Měsíce. Jedinečné, stejně jako ona sama. Byla to silná žena."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: sports</s>"
-Zrakově postižený lyžař Maciej Krezel a vodička Anna Ogarzynska z Polska skočili v super-G na 13. místě. Jong Seork Park z Jižní Koreji skončil v mužském super-G vsedě na 24. místě.,sports,sports,"""Zrakově postižený lyžař Maciej Krezel a vodička Anna Ogarzynska z Polska skočili v super-G na 13. místě. Jong Seork Park z Jižní Koreji skončil v mužském super-G vsedě na 24. místě."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: sports</s>"
-"Zajímáte-li se o turnaje a o to, kde sehnat vstupenky na zápasy v pólu, podívejte se na Asociacion Argentina de Polo.",sports,sports,"""Zajímáte-li se o turnaje a o to, kde sehnat vstupenky na zápasy v pólu, podívejte se na Asociacion Argentina de Polo."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: Sports</s>"
-"Zápas byl zahájen v 10:00 za skvělého počasí a s výjimkou dopolední přeháňky, která se rychle rozehnala, se jednalo o skvělý den pro sedmičkové rugby.",sports,sports,"""Zápas byl zahájen v 10:00 za skvělého počasí a s výjimkou dopolední přeháňky, která se rychle rozehnala, se jednalo o skvělý den pro sedmičkové rugby."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: sports</s>"
-Arly Velásquez z Mexika skončil patnáctý v závodě pánské super-G v sedě. Novozélandský Adam Hall skončil devátý v závodě pánské super-G ve stoje.,sports,sports,"""Arly Velásquez z Mexika skončil patnáctý v závodě pánské super-G v sedě. Novozélandský Adam Hall skončil devátý v závodě pánské super-G ve stoje."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: sports</s>"
-"Finální zápas série se odehraje příští týden v Ellis Park v Johannesburgu, kde budou hrát Springboks proti Austrálii.",sports,sports,"""Finální zápas série se odehraje příští týden v Ellis Park v Johannesburgu, kde budou hrát Springboks proti Austrálii."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: Sports</s>"
-"Za příznivých podmínek zvládnete překonat o něco větší vzdálenosti než pěšky – ale jen zřídka se budete pohybovat rychlostí, jaké byste dosáhli na běžkách bez těžkého batohu a v upravené stopě.",sports,travel,"""Za příznivých podmínek zvládnete překonat o něco větší vzdálenosti než pěšky – ale jen zřídka se budete pohybovat rychlostí, jaké byste dosáhli na běžkách bez těžkého batohu a v upravené stopě."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Johnson je druhý s 2 243 body, tedy s rozdílem sedmi bodů.",sports,sports,"""Johnson je druhý s 2 243 body, tedy s rozdílem sedmi bodů."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: sports</s>"
-"Canyoning je sport, při kterém se leze na dno kaňonu, který je buď vyschlý, nebo plný vody.",sports,sports,"""Canyoning je sport, při kterém se leze na dno kaňonu, který je buď vyschlý, nebo plný vody."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: sports</s>"
-"Robin Uthappa dosáhl nejvyššího skóre za směnu, kdy za 70 výpadů při pouhých 41 míčích hodil 11 čtyřek a 2 šestky.",sports,sports,"""Robin Uthappa dosáhl nejvyššího skóre za směnu, kdy za 70 výpadů při pouhých 41 míčích hodil 11 čtyřek a 2 šestky."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: sports</s>"
-"Zimní sporty jsou velmi oblíbené v severních oblastech, kde Italové soutěží v mezinárodních hrách a olympijských kláních.",sports,sports,"""Zimní sporty jsou velmi oblíbené v severních oblastech, kde Italové soutěží v mezinárodních hrách a olympijských kláních."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: sports</s>"
-"Město Maroochydore skončilo na vrcholu žebříčku, šest bodů před druhou Noosou.",sports,sports,"""Město Maroochydore skončilo na vrcholu žebříčku, šest bodů před druhou Noosou."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: sports</s>"
-"Michael Schumacher ukončil svůj závod krátce po Alonsovi, a to kvůli poškození podvozku způsobenému mnoha bitvami během závodu.",sports,sports,"""Michael Schumacher ukončil svůj závod krátce po Alonsovi, a to kvůli poškození podvozku způsobenému mnoha bitvami během závodu."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: sports</s>"
-"Správné stravovací návyky nemohou samy o sobě vést k prvotřídním výkonům, ale mohou významně ovlivnit celkové zdraví a kondici mladých sportovců.",sports,sports,"""Správné stravovací návyky nemohou samy o sobě vést k prvotřídním výkonům, ale mohou významně ovlivnit celkové zdraví a kondici mladých sportovců."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: sports</s>"
-"Nemohl si vzít lék potřebný pro překonání bolesti, jelikož léčiva jsou na Hrách zakázána.",sports,travel,"""Nemohl si vzít lék potřebný pro překonání bolesti, jelikož léčiva jsou na Hrách zakázána."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Výzkum ukázal, že u žen je dvakrát vyšší pravděpodobnost výskytu RS než u mužů.",health,travel,"""Výzkum ukázal, že u žen je dvakrát vyšší pravděpodobnost výskytu RS než u mužů."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Nelegální lihoviny mohou obsahovat různé nebezpečné příměsi včetně methanolu, který může i v malých dávkách způsobit slepotu nebo smrt.",health,travel,"""Nelegální lihoviny mohou obsahovat různé nebezpečné příměsi včetně methanolu, který může i v malých dávkách způsobit slepotu nebo smrt."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Pravidelné týdenní strukturované fyzické aktivity neměly vliv na deprese nebo strach, pouze na katastrofické vidění světa.",health,travel,"""Pravidelné týdenní strukturované fyzické aktivity neměly vliv na deprese nebo strach, pouze na katastrofické vidění světa."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Masové vlastnictví aut také vede k nárůstu případů silničních nehod, což způsobuje vynalézání nových technik ve zdravotnictví, jak opravovat poškozená těla.",health,N/A,"""Masové vlastnictví aut také vede k nárůstu případů silničních nehod, což způsobuje vynalézání nových technik ve zdravotnictví, jak opravovat poškozená těla."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: military</s>"
-"Přední výzkumníci tvrdí, že to může umožnit včasné zjištění rakoviny, tuberkulózy, HIV a malárie pacientům v zemích s nízkým příjmem, kde jsou počty přeživších u chorob, jako je rakovina prsu, až o polovinu nižší oproti bohatším zemím.",health,health,"""Přední výzkumníci tvrdí, že to může umožnit včasné zjištění rakoviny, tuberkulózy, HIV a malárie pacientům v zemích s nízkým příjmem, kde jsou počty přeživších u chorob, jako je rakovina prsu, až o polovinu nižší oproti bohatším zemím."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: health</s>"
-"Dr. Ehud Ur, profesor medicíny na Dalhousieově univerzitě v Halifaxu v Novém Skotsku a zároveň předseda klinické a vědecké divize Kanadské diabetické asociace upozornil, že výzkum je teprve ve svých počátcích.",health,health,"""Dr. Ehud Ur, profesor medicíny na Dalhousieově univerzitě v Halifaxu v Novém Skotsku a zároveň předseda klinické a vědecké divize Kanadské diabetické asociace upozornil, že výzkum je teprve ve svých počátcích."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: health</s>"
-"Tyto děti mají tendenci dostávat se do mnoha problémů, protože „se zapojují do rizikového chování, dostávají se do bitek a zpochybňují autoritu“, aby stimulovaly svůj mozek, protože jejich mozek nemůže být stimulován běžnými způsoby.",health,N/A,"""Tyto děti mají tendenci dostávat se do mnoha problémů, protože „se zapojují do rizikového chování, dostávají se do bitek a zpochybňují autoritu“, aby stimulovaly svůj mozek, protože jejich mozek nemůže být stimulován běžnými způsoby."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: culture</s>"
-"Lidé mohou být postiženi vdechnutím dotčené vody, která se dostane do vzduchu větrem a vlnami.",health,travel,"""Lidé mohou být postiženi vdechnutím dotčené vody, která se dostane do vzduchu větrem a vlnami."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Někteří lidé se domnívají, že prožití mnoha uměle vyvolaných lucidních snů často může být velmi vyčerpávající.",health,travel,"""Někteří lidé se domnívají, že prožití mnoha uměle vyvolaných lucidních snů často může být velmi vyčerpávající."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Potro v tuto chvíli potřeboval rameno ošetřit, ale podařilo se mu vrátit se do hry.",health,sports,"""Potro v tuto chvíli potřeboval rameno ošetřit, ale podařilo se mu vrátit se do hry."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: sports</s>"
-"Pokud tak navíc neučiní, má to vážné následky: růst deprese, podvýživu a nakonec smrt.",health,travel,"""Pokud tak navíc neučiní, má to vážné následky: růst deprese, podvýživu a nakonec smrt."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Zástupci města Amsterdamu a muzea Anny Frankové tvrdí, že strom je napaden houbou a přestavuje riziko pro veřejné zdraví, protože by podle nich mohl kdykoliv spadnout.",health,entertainment,"""Zástupci města Amsterdamu a muzea Anny Frankové tvrdí, že strom je napaden houbou a přestavuje riziko pro veřejné zdraví, protože by podle nich mohl kdykoliv spadnout."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: entertainment</s>"
-"Nemocnice dodržovala protokol o kontrole infekcí, včetně separace pacientů za účelem zabránění možné nákazy ostatních.",health,travel,"""Nemocnice dodržovala protokol o kontrole infekcí, včetně separace pacientů za účelem zabránění možné nákazy ostatních."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Institut spravedlnost a demokracie na Haiti zmínil nezávislé studie, které naznačují, že nemoc na Haiti nevědomky přivlekly nepálské mírové jednotky OSN.",health,N/A,"""Institut spravedlnost a demokracie na Haiti zmínil nezávislé studie, které naznačují, že nemoc na Haiti nevědomky přivlekly nepálské mírové jednotky OSN."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: education</s>"
-"Infekční nemoci nebo nebezpečná zvířata, která mohou silou zranit nebo zabít člověka, se jako taková většinou neřadí mezi škůdce.",health,travel,"""Infekční nemoci nebo nebezpečná zvířata, která mohou silou zranit nebo zabít člověka, se jako taková většinou neřadí mezi škůdce."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Děti s ADD se těžko soustředí na věci typu školní práce, ale mohou se soustředit na věci, které je baví – například hraní her, sledování oblíbených animovaných filmů nebo psaní vět bez interpunkce.",health,entertainment,"""Děti s ADD se těžko soustředí na věci typu školní práce, ale mohou se soustředit na věci, které je baví – například hraní her, sledování oblíbených animovaných filmů nebo psaní vět bez interpunkce."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: entertainment</s>"
-Za dobu jednoho roku může nakažený člověk nakazit 10 až 15 blízkých kontaktů.,health,travel,"""Za dobu jednoho roku může nakažený člověk nakazit 10 až 15 blízkých kontaktů."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Když po transportu raněných do nemocnice boje ustaly, asi 40 zbylých vězňů zůstalo na dvoře a odmítlo se vrátit do svých cel.",health,travel,"""Když po transportu raněných do nemocnice boje ustaly, asi 40 zbylých vězňů zůstalo na dvoře a odmítlo se vrátit do svých cel."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Rekrutovat lékaře začal císař Augustus a dokonce vytvořil první Římský lékařský sbor, který měl najít své uplatnění po skončení bitev.",health,N/A,"""Rekrutovat lékaře začal císař Augustus a dokonce vytvořil první Římský lékařský sbor, který měl najít své uplatnění po skončení bitev."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: military</s>"
-Řidič však utrpěl vážné poranění hlavy.,health,travel,"""Řidič však utrpěl vážné poranění hlavy."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"„Nyní máme čtyřměsíční myši bez cukrovky, které ji dříve měly,“ dodal.",health,travel,"""„Nyní máme čtyřměsíční myši bez cukrovky, které ji dříve měly,“ dodal."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-Vnitřní otrava nemusí být hned zřejmá. Symptomy jako například zvracení jsou příliš obecné na stanovení okamžité diagnózy.,health,health,"""Vnitřní otrava nemusí být hned zřejmá. Symptomy jako například zvracení jsou příliš obecné na stanovení okamžité diagnózy."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: health</s>"
-"Výsledkem je, že účinkující v představení kouří na scéně marihuanové jointy a divadlo samotné podporuje obecenstvo, aby se k nim přidalo.",entertainment,sports,"""Výsledkem je, že účinkující v představení kouří na scéně marihuanové jointy a divadlo samotné podporuje obecenstvo, aby se k nim přidalo."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: sports</s>"
-Aerosmith zrušili zbývající koncerty svého turné.,entertainment,entertainment,"""Aerosmith zrušili zbývající koncerty svého turné."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: entertainment</s>"
-"Pokud chcete být v centru dění, budete muset přijet co nejdříve, abyste získali místo na stanování, které se nachází blízko hudební produkce.",entertainment,travel,"""Pokud chcete být v centru dění, budete muset přijet co nejdříve, abyste získali místo na stanování, které se nachází blízko hudební produkce."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-Během let bylo používáno mnoho různých formátů filmu. Standardní 35 mm film (negativ 36 na 24 mm) je zdaleka nejběžnější.,entertainment,entertainment,"""Během let bylo používáno mnoho různých formátů filmu. Standardní 35 mm film (negativ 36 na 24 mm) je zdaleka nejběžnější."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: entertainment</s>"
-"Přestože je to zcela běžné, Disney tuto praxi zakazuje. Vstupenky jsou nepřenosné.",entertainment,entertainment,"""Přestože je to zcela běžné, Disney tuto praxi zakazuje. Vstupenky jsou nepřenosné."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: entertainment</s>"
-Každá epizoda pořadu se soustředí na téma konkrétní knihy a potom toto téma zkoumá skrze několik příběhů.,entertainment,travel,"""Každá epizoda pořadu se soustředí na téma konkrétní knihy a potom toto téma zkoumá skrze několik příběhů."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Na různých místech v Římě byly umístěny velké televizní obrazovky, aby lidé mohli sledovat ceremonii.",entertainment,entertainment,"""Na různých místech v Římě byly umístěny velké televizní obrazovky, aby lidé mohli sledovat ceremonii."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: entertainment</s>"
-Sofoklés a Aristofanés jsou stále populárními autory a jejich hry jsou považovány za jedny z největších děl světové literatury.,entertainment,N/A,"""Sofoklés a Aristofanés jsou stále populárními autory a jejich hry jsou považovány za jedny z největších děl světové literatury."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: culture</s>"
-"V každém dílu bylo také poskytnuto doporučení na knihy, které děti měly vyhledat, když šly do knihovny.",entertainment,travel,"""V každém dílu bylo také poskytnuto doporučení na knihy, které děti měly vyhledat, když šly do knihovny."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Pokud chcete na akordeon hrát hlasitěji, musíte měch stlačovat silněji nebo rychleji.",entertainment,entertainment,"""Pokud chcete na akordeon hrát hlasitěji, musíte měch stlačovat silněji nebo rychleji."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: entertainment</s>"
-"Pyramidy můžete vidět ve tmě a v tichosti ještě předtím, než představení začne.",entertainment,travel,"""Pyramidy můžete vidět ve tmě a v tichosti ještě předtím, než představení začne."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Příklady aktivit při tomto druhu turistiky: lov, rybolov, fotografování, pozorování ptactva, návštěva parků a studium informací o příslušném ekosystému.",entertainment,travel,"""Příklady aktivit při tomto druhu turistiky: lov, rybolov, fotografování, pozorování ptactva, návštěva parků a studium informací o příslušném ekosystému."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-Sfinga má funkci kulisy a vypravěče dlouhého příběhu.,entertainment,travel,"""Sfinga má funkci kulisy a vypravěče dlouhého příběhu."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Obvykle mají speciální jídlo, nápoje a nabídky zábavy, aby udrželi návštěvníky v dobrém rozpoložení a v prostorách kasína.",entertainment,sports,"""Obvykle mají speciální jídlo, nápoje a nabídky zábavy, aby udrželi návštěvníky v dobrém rozpoložení a v prostorách kasína."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: sports</s>"
-"Kromě již existujícího zpravodajství v angličtině a japonštině spouští globální organizace španělské, italské a korejské jazykové programy pro televizi, web a mobilní zařízení.",entertainment,entertainment,"""Kromě již existujícího zpravodajství v angličtině a japonštině spouští globální organizace španělské, italské a korejské jazykové programy pro televizi, web a mobilní zařízení."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: entertainment</s>"
-Před Simpsonovými pracoval Simon na několika seriálech v různých pozicích.,entertainment,sports,"""Před Simpsonovými pracoval Simon na několika seriálech v různých pozicích."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: sports</s>"
-"To umožní hráčům ovládat své akce a pohyby ve videohrách tím, že pohnou svým zařízením v prostoru.",entertainment,entertainment,"""To umožní hráčům ovládat své akce a pohyby ve videohrách tím, že pohnou svým zařízením v prostoru."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: entertainment</s>"
-"Večírku uspořádaného za účelem oslavy prvního výročí páru, jehož svatba se konala loni, se zúčastnilo nejméně 100 lidí.",entertainment,travel,"""Večírku uspořádaného za účelem oslavy prvního výročí páru, jehož svatba se konala loni, se zúčastnilo nejméně 100 lidí."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-Dvě písně z filmu Audition (The Fools Who Dream) a City of Stars získaly nominace na nejlepší originální píseň. Studio Lionsgate získalo 26 nominací – více než jakékoli jiné studio.,entertainment,entertainment,"""Dvě písně z filmu Audition (The Fools Who Dream) a City of Stars získaly nominace na nejlepší originální píseň. Studio Lionsgate získalo 26 nominací – více než jakékoli jiné studio."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: entertainment</s>"
-Kůra je silná přibližně 70 km na přivrácené straně a okolo 100 km na odvrácené straně.,geography,travel,"""Kůra je silná přibližně 70 km na přivrácené straně a okolo 100 km na odvrácené straně."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-Dále na jih leží Niagarské vodopády a na severu dosud čekají na objevení krásy regionu Muskoka a další.,geography,travel,"""Dále na jih leží Niagarské vodopády a na severu dosud čekají na objevení krásy regionu Muskoka a další."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-Ellsworth Land je region jižně od poloostrova obklopený Bellingshausenovým mořem.,geography,travel,"""Ellsworth Land je region jižně od poloostrova obklopený Bellingshausenovým mořem."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-Traverz jižního pólu je 1 600 km dlouhá stezka vedoucí ze stanice McMurdo v Rossově moři k pólu.,geography,travel,"""Traverz jižního pólu je 1 600 km dlouhá stezka vedoucí ze stanice McMurdo v Rossově moři k pólu."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Tato příkrá hora, která se tyčí nad severním koncem Machu Picchu, je častým pozadím mnoha fotografií ruin.",geography,travel,"""Tato příkrá hora, která se tyčí nad severním koncem Machu Picchu, je častým pozadím mnoha fotografií ruin."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Enceladus je nejvíce odrazivé těleso Sluneční soustavy, odráží asi 90 procent slunečního záření, které na něj dopadne.",geography,travel,"""Enceladus je nejvíce odrazivé těleso Sluneční soustavy, odráží asi 90 procent slunečního záření, které na něj dopadne."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-Není vidět nic než nádherně jasná obloha a velký počet okolních hor. Z vnitřku jeskyně je vidět a slyšet jen velmi málo z tohoto světa.,geography,travel,"""Není vidět nic než nádherně jasná obloha a velký počet okolních hor. Z vnitřku jeskyně je vidět a slyšet jen velmi málo z tohoto světa."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Nyní přejděme k Japonsku, které bylo stejně jako Británie ostrovním státem.",geography,N/A,"""Nyní přejděme k Japonsku, které bylo stejně jako Británie ostrovním státem."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: military</s>"
-"Tropická cyklóna Gonu, pojmenovaná po pytlu palmových listů v maledivštině, dosáhla na svém vrcholu stálé rychlosti větru 240 kilometrů za hodinu (149 mil za hodinu).",geography,travel,"""Tropická cyklóna Gonu, pojmenovaná po pytlu palmových listů v maledivštině, dosáhla na svém vrcholu stálé rychlosti větru 240 kilometrů za hodinu (149 mil za hodinu)."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Oblast Turecka včetně jezer zabírá 783 562 čtverečních kilometrů (300 948 čtverečních mil), z nichž 755 688 čtverečních kilometrů (291 773 čtverečních mil) je v jihozápadní Asii a 23 764 čtverečních kilometrů (9 174 čtverečních mil) v Evropě.",geography,travel,"""Oblast Turecka včetně jezer zabírá 783 562 čtverečních kilometrů (300 948 čtverečních mil), z nichž 755 688 čtverečních kilometrů (291 773 čtverečních mil) je v jihozápadní Asii a 23 764 čtverečních kilometrů (9 174 čtverečních mil) v Evropě."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Jižní Shetlandy, které byly objeveny v roce 1819, jsou nárokovány více zeměni a mají nejvíc základen – v roce 2020 jich zde bylo aktivních 16.",geography,travel,"""Jižní Shetlandy, které byly objeveny v roce 1819, jsou nárokovány více zeměni a mají nejvíc základen – v roce 2020 jich zde bylo aktivních 16."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-Hlavním městem Samoji je Apia. Město se nachází na ostrově Upolu a čítá necelých 40 000 obyvatel.,geography,travel,"""Hlavním městem Samoji je Apia. Město se nachází na ostrově Upolu a čítá necelých 40 000 obyvatel."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Vzhledem k tomu, že se bouře nachází daleko od pobřeží, je nadále obtížné posoudit její možný dopad na Spojené státy nebo Karibik.",geography,sports,"""Vzhledem k tomu, že se bouře nachází daleko od pobřeží, je nadále obtížné posoudit její možný dopad na Spojené státy nebo Karibik."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: sports</s>"
-Pod moři je slabší a pod pohořími zase silnější.,geography,travel,"""Pod moři je slabší a pod pohořími zase silnější."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Tyto lesy však nejsou jen mangrovými bažinami – patří mezi ně i některé z posledních zbývajících úseků mocných džunglí, které kdysi pokrývaly pláně Gangy.",geography,travel,"""Tyto lesy však nejsou jen mangrovými bažinami – patří mezi ně i některé z posledních zbývajících úseků mocných džunglí, které kdysi pokrývaly pláně Gangy."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-Mezinárodní mapa zemětřesení agentury The United States Geological Survey neukázala na Islandu v předchozím týdnu žádná zemětřesení.,geography,travel,"""Mezinárodní mapa zemětřesení agentury The United States Geological Survey neukázala na Islandu v předchozím týdnu žádná zemětřesení."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-Při své poloze na vrcholu jedné z hor severně od Mekky je tato jeskyně kompletně izolována od zbytku světa.,geography,sports,"""Při své poloze na vrcholu jedné z hor severně od Mekky je tato jeskyně kompletně izolována od zbytku světa."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: sports</s>"
+"Mutace přidávají novou genetickou variaci, a výběr je odstraňuje ze souboru vyjádřených variací.",science/technology,science/technology,"SENTENCE:
+ Mutace přidávají novou genetickou variaci, a výběr je odstraňuje ze souboru vyjádřených variací. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+"Štěpná jaderná bomba funguje na principu, že k udržení jádra s mnoha protony a neutrony pohromadě je zapotřebí energie.",science/technology,science/technology,"SENTENCE:
+ Štěpná jaderná bomba funguje na principu, že k udržení jádra s mnoha protony a neutrony pohromadě je zapotřebí energie. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+Jádro se skládá ze dvou částic – neutronů a protonů.,science/technology,science/technology,"SENTENCE:
+ Jádro se skládá ze dvou částic – neutronů a protonů. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+"To umožnilo objektivům s přiblížením produkovat snímky srovnatelné kvality s tou, kterou dosahují objektivy s fixní ohniskovou vzdáleností.",science/technology,travel,"SENTENCE:
+ To umožnilo objektivům s přiblížením produkovat snímky srovnatelné kvality s tou, kterou dosahují objektivy s fixní ohniskovou vzdáleností. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Jsou lepší než webové proxy servery z několika důvodů: přesměrují veškerý internetový provoz, nejen http.",science/technology,science/technology,"SENTENCE:
+ Jsou lepší než webové proxy servery z několika důvodů: přesměrují veškerý internetový provoz, nejen http. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+"Interaktivní design vyžaduje, abyste přehodnotili své domněnky o mediální produkci a naučili se přemýšlet nelineárně.",science/technology,entertainment,"SENTENCE:
+ Interaktivní design vyžaduje, abyste přehodnotili své domněnky o mediální produkci a naučili se přemýšlet nelineárně. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"To se stalo běžným jevem, ale železo způsobilo větší opotřebení dřevěných kol vozů.",science/technology,travel,"SENTENCE:
+ To se stalo běžným jevem, ale železo způsobilo větší opotřebení dřevěných kol vozů. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Smečku tvoří jeden až tři příbuzní dospělí samci spolu s až třiceti samicemi a mláďaty.,science/technology,travel,"SENTENCE:
+ Smečku tvoří jeden až tři příbuzní dospělí samci spolu s až třiceti samicemi a mláďaty. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ačkoliv má umělá inteligence silnou konotaci se science fiction, tvoří velmi důležitou oblast počítačové vědy zabývající se chováním, učením a inteligenční adaptací strojů.",science/technology,entertainment,"SENTENCE:
+ Ačkoliv má umělá inteligence silnou konotaci se science fiction, tvoří velmi důležitou oblast počítačové vědy zabývající se chováním, učením a inteligenční adaptací strojů. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Poměr stran tohoto formátu (vyděleno dvanácti pro získání nejjednoduššího poměru v celých číslech) je tedy 3:2.,science/technology,travel,"SENTENCE:
+ Poměr stran tohoto formátu (vyděleno dvanácti pro získání nejjednoduššího poměru v celých číslech) je tedy 3:2. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Satelitní telefon není obecně náhradou za mobilní telefon, protože abyste mohli volat, musíte se nacházet venku bez překážek mezi vámi a satelitem.",science/technology,travel,"SENTENCE:
+ Satelitní telefon není obecně náhradou za mobilní telefon, protože abyste mohli volat, musíte se nacházet venku bez překážek mezi vámi a satelitem. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Přestože se dostavníkové cesty většinou skládaly pouze z rovnoběžných prken, umožňovaly tažným koním dosáhnout větší rychlosti a uvézt těžší břemeno než na ostatních tehdejších cestách, které byly o něco hrubší.",science/technology,travel,"SENTENCE:
+ Přestože se dostavníkové cesty většinou skládaly pouze z rovnoběžných prken, umožňovaly tažným koním dosáhnout větší rychlosti a uvézt těžší břemeno než na ostatních tehdejších cestách, které byly o něco hrubší. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Lidé znají už od pradávna základní chemické prvky jako zlato, stříbro a měď, jelikož se tyto prvky nalézají v přírodě ve své ryzí formě a dají se relativně snadno těžit i za použití jednoduchých nástrojů.",science/technology,travel,"SENTENCE:
+ Lidé znají už od pradávna základní chemické prvky jako zlato, stříbro a měď, jelikož se tyto prvky nalézají v přírodě ve své ryzí formě a dají se relativně snadno těžit i za použití jednoduchých nástrojů. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Kolo změnilo svět nevídaným způsobem. To nejvýznamnější, co způsobilo, bylo podstatné usnadnění a zrychlení přepravy.",science/technology,travel,"SENTENCE:
+ Kolo změnilo svět nevídaným způsobem. To nejvýznamnější, co způsobilo, bylo podstatné usnadnění a zrychlení přepravy. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Je to pro ujištění, že obrázek zakrývá celou obrazovku. To se nazývá overscan.",science/technology,travel,"SENTENCE:
+ Je to pro ujištění, že obrázek zakrývá celou obrazovku. To se nazývá overscan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Německé ponorky se nazývaly U-Boot. Němci byli v navigaci a řízení svých ponorek velice zdatní.,science/technology,travel,"SENTENCE:
+ Německé ponorky se nazývaly U-Boot. Němci byli v navigaci a řízení svých ponorek velice zdatní. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ačkoliv se fyzický stav může měnit, chemická podoba zůstává stejná.",science/technology,travel,"SENTENCE:
+ Ačkoliv se fyzický stav může měnit, chemická podoba zůstává stejná. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"K povrchovému napětí dochází proto, že molekuly vody na vodní hladině jsou k sobě přitahovány silněji než k molekulám vzduchu nad sebou.",science/technology,science/technology,"SENTENCE:
+ K povrchovému napětí dochází proto, že molekuly vody na vodní hladině jsou k sobě přitahovány silněji než k molekulám vzduchu nad sebou. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+Jedním z nejčastějších problémů při pokusu konvertovat film do formátu DVD je takzvaný overscan.,science/technology,entertainment,"SENTENCE:
+ Jedním z nejčastějších problémů při pokusu konvertovat film do formátu DVD je takzvaný overscan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Konkrétně můžete díky správné interpretaci mikrovýrazů zjistit, jestli vám druhý člověk lže.",science/technology,travel,"SENTENCE:
+ Konkrétně můžete díky správné interpretaci mikrovýrazů zjistit, jestli vám druhý člověk lže. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Zlato se dá zpracovat do všemožných tvarů. Je možné ho srolovat do miniaturních kousků.,science/technology,travel,"SENTENCE:
+ Zlato se dá zpracovat do všemožných tvarů. Je možné ho srolovat do miniaturních kousků. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Systém umělé inteligence je nyní často používán v oblastech ekonomiky, medicíny, strojírenství a vojenství a je vestavěn v řadě aplikací domácích počítačů a softwaru videoher.",science/technology,entertainment,"SENTENCE:
+ Systém umělé inteligence je nyní často používán v oblastech ekonomiky, medicíny, strojírenství a vojenství a je vestavěn v řadě aplikací domácích počítačů a softwaru videoher. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Vyrábějí se dodnes, ale důležitější je, že jejich poměr stran převzaly i formáty snímače digitálních fotoaparátů.",science/technology,travel,"SENTENCE:
+ Vyrábějí se dodnes, ale důležitější je, že jejich poměr stran převzaly i formáty snímače digitálních fotoaparátů. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Často zneužívané a zesměšňované „pravidlo třetin“ je prostým vodítkem, které v obraze vytváří dynamiku při zachování určitého pořádku.",science/technology,travel,"SENTENCE:
+ Často zneužívané a zesměšňované „pravidlo třetin“ je prostým vodítkem, které v obraze vytváří dynamiku při zachování určitého pořádku. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Tato skutečnost nejen potvrzuje, že přinejmenším někteří dinosauři měli peří (tato teorie je již rozšířená), ale také poskytuje podrobnosti, které fosílie obecně nemohou poskytnout, například o barevném a trojrozměrném uspořádání.",science/technology,travel,"SENTENCE:
+ Tato skutečnost nejen potvrzuje, že přinejmenším někteří dinosauři měli peří (tato teorie je již rozšířená), ale také poskytuje podrobnosti, které fosílie obecně nemohou poskytnout, například o barevném a trojrozměrném uspořádání. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Jak by mě přitahovala gravitace měsíce Io? Pokud byste stáli na povrchu Io, vážili byste méně než na Zemi.",science/technology,science/technology,"SENTENCE:
+ Jak by mě přitahovala gravitace měsíce Io? Pokud byste stáli na povrchu Io, vážili byste méně než na Zemi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+"NextGen je systém, který by podle agentury FAA umožnil letadlům létat kratšími trasami a každý rok tak ušetřit miliony galonů paliva a snížit uhlíkové emise.",science/technology,travel,"SENTENCE:
+ NextGen je systém, který by podle agentury FAA umožnil letadlům létat kratšími trasami a každý rok tak ušetřit miliony galonů paliva a snížit uhlíkové emise. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Neurobiologické údaje poskytují fyzickou evidenci teoretickému přístupu ke zkoumání kognice. Tuto výzkumnou oblast tak zužují a upřesňují.,science/technology,science/technology,"SENTENCE:
+ Neurobiologické údaje poskytují fyzickou evidenci teoretickému přístupu ke zkoumání kognice. Tuto výzkumnou oblast tak zužují a upřesňují. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+"Během své dvouhodinové řeči prohlásil, že „Apple dnes znovu vynalezne telefon, dnes se zapíšeme do historie“.",science/technology,N/A,"SENTENCE:
+ Během své dvouhodinové řeči prohlásil, že „Apple dnes znovu vynalezne telefon, dnes se zapíšeme do historie“. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: tech</s>"
+"Nevýhodou objektivů s přiblížením je, že ohnisková složitost a počet prvků čoček potřebných k dosažení rozsahu ohniskových vzdáleností je mnohem větší než u fixních objektivů.",science/technology,science/technology,"SENTENCE:
+ Nevýhodou objektivů s přiblížením je, že ohnisková složitost a počet prvků čoček potřebných k dosažení rozsahu ohniskových vzdáleností je mnohem větší než u fixních objektivů. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+"Ovladač podobný televiznímu ovládání používá dva senzory umístěné poblíž uživatelovy televize, které triangulují jeho polohu v trojrozměrném prostoru.",science/technology,entertainment,"SENTENCE:
+ Ovladač podobný televiznímu ovládání používá dva senzory umístěné poblíž uživatelovy televize, které triangulují jeho polohu v trojrozměrném prostoru. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Vědci tvrdí, že peří tohoto zvířete bylo kaštanově hnědé svrchu s bledou nebo karotenově zbarvenou spodní stranou.",science/technology,entertainment,"SENTENCE:
+ Vědci tvrdí, že peří tohoto zvířete bylo kaštanově hnědé svrchu s bledou nebo karotenově zbarvenou spodní stranou. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Výzkumníci z univerzity uvedli, že tyto dvě sloučeniny na sebe vzájemně reagují a formují krystaly, které mohou blokovat funkci ledvin.",science/technology,travel,"SENTENCE:
+ Výzkumníci z univerzity uvedli, že tyto dvě sloučeniny na sebe vzájemně reagují a formují krystaly, které mohou blokovat funkci ledvin. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Ten poskytuje téměř čtyřikrát vyšší rozlišení než 35mm negativ (3136 mm2 oproti 864 mm2).,science/technology,entertainment,"SENTENCE:
+ Ten poskytuje téměř čtyřikrát vyšší rozlišení než 35mm negativ (3136 mm2 oproti 864 mm2). 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Díky spojení s Evropou podmořským optickým kabelem a širokopásmovému satelitnímu signálu je v Grónsku k dispozici dobré připojení a 93 % obyvatel má přístup k internetu.,science/technology,travel,"SENTENCE:
+ Díky spojení s Evropou podmořským optickým kabelem a širokopásmovému satelitnímu signálu je v Grónsku k dispozici dobré připojení a 93 % obyvatel má přístup k internetu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Jednou z nejvýznamnějších aplikací v této kategorii je Google Translate, která po stažení požadovaných jazykových dat umožňuje offline překlad.",science/technology,travel,"SENTENCE:
+ Jednou z nejvýznamnějších aplikací v této kategorii je Google Translate, která po stažení požadovaných jazykových dat umožňuje offline překlad. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Má stejnou molekulární strukturu bez ohledu na to, zda je ve skupenství plynném, kapalném nebo pevném.",science/technology,science/technology,"SENTENCE:
+ Má stejnou molekulární strukturu bez ohledu na to, zda je ve skupenství plynném, kapalném nebo pevném. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+Používání videozáznamů vedlo k důležitým objevům při interpretaci mikrosdělení – pohybů obličeje trvajících pouhých několik mikrosekund.,science/technology,entertainment,"SENTENCE:
+ Používání videozáznamů vedlo k důležitým objevům při interpretaci mikrosdělení – pohybů obličeje trvajících pouhých několik mikrosekund. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Lidé vyrábějí a používají zvětšovací čočky již po tisíce let.,science/technology,travel,"SENTENCE:
+ Lidé vyrábějí a používají zvětšovací čočky již po tisíce let. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Není to však samo o sobě experimentování. Experiment je test, který se používá k popření jedné nebo více možných hypotéz, ale pro vědecký výzkum je důležité také kladení otázek a pozorování.",science/technology,travel,"SENTENCE:
+ Není to však samo o sobě experimentování. Experiment je test, který se používá k popření jedné nebo více možných hypotéz, ale pro vědecký výzkum je důležité také kladení otázek a pozorování. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Nakonec byla dřevěná kola nahrazena železnými. V roce 1767 byly představeny první celoželezné kolejnice.,science/technology,travel,"SENTENCE:
+ Nakonec byla dřevěná kola nahrazena železnými. V roce 1767 byly představeny první celoželezné kolejnice. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Zatímco většina karet je vhodná pro volání na celém světě, některé se specializují na poskytování příznivých sazeb za volání do konkrétních skupin zemí.",science/technology,travel,"SENTENCE:
+ Zatímco většina karet je vhodná pro volání na celém světě, některé se specializují na poskytování příznivých sazeb za volání do konkrétních skupin zemí. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Většina moderních výzkumných teleskopů jsou obrovská zařízení v odlehlých oblastech s příznivými atmosférickými podmínkami.,science/technology,travel,"SENTENCE:
+ Většina moderních výzkumných teleskopů jsou obrovská zařízení v odlehlých oblastech s příznivými atmosférickými podmínkami. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Ocelová jehla se udrží na vodní hladině díky povrchovému napětí.,science/technology,travel,"SENTENCE:
+ Ocelová jehla se udrží na vodní hladině díky povrchovému napětí. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ačkoliv je to poněkud matoucí, formát 35mm má ve skutečnosti šířku 36mm a výšku 24mm.",science/technology,entertainment,"SENTENCE:
+ Ačkoliv je to poněkud matoucí, formát 35mm má ve skutečnosti šířku 36mm a výšku 24mm. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Buňky hrají při studii života tak základní a zásadní roli, že se o nich často hovoří jako o „stavebních kamenech života“.",science/technology,travel,"SENTENCE:
+ Buňky hrají při studii života tak základní a zásadní roli, že se o nich často hovoří jako o „stavebních kamenech života“. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Osobní VPN (virtuální privátní síť) poskytuje excelentní způsob, jak obejít politickou cenzuru i komerční IP geofiltrování.",science/technology,science/technology,"SENTENCE:
+ Osobní VPN (virtuální privátní síť) poskytuje excelentní způsob, jak obejít politickou cenzuru i komerční IP geofiltrování. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+Stanice udržovala svou polohu až do konce výstupu do volného kosmického prostoru navzdory dřívější ztrátě gyroskopu během mise vesmírné stanice.,science/technology,science/technology,"SENTENCE:
+ Stanice udržovala svou polohu až do konce výstupu do volného kosmického prostoru navzdory dřívější ztrátě gyroskopu během mise vesmírné stanice. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+"Lidé s tímto typem přemýšlení mají logické smýšlení, jsou schopni zapamatovat si vzorce, řešit problémy a pracovat na vědeckých testech.",science/technology,travel,"SENTENCE:
+ Lidé s tímto typem přemýšlení mají logické smýšlení, jsou schopni zapamatovat si vzorce, řešit problémy a pracovat na vědeckých testech. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Oceloti rádi jedí malá zvířata. Pokud mají možnost, chytají opice, hady, hlodavce a ptáky. Skoro všechna zvířata, která ocelot loví, jsou mnohem menší než on sám.",science/technology,travel,"SENTENCE:
+ Oceloti rádi jedí malá zvířata. Pokud mají možnost, chytají opice, hady, hlodavce a ptáky. Skoro všechna zvířata, která ocelot loví, jsou mnohem menší než on sám. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Některé fotoaparáty z kategorie středního formátu využívají formát 6 × 6 cm, přesněji negativ o rozměrech 56 × 56 mm.",science/technology,entertainment,"SENTENCE:
+ Některé fotoaparáty z kategorie středního formátu využívají formát 6 × 6 cm, přesněji negativ o rozměrech 56 × 56 mm. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Cestovatelům se důrazně doporučuje mít přehled o všech možných rizicích nepříznivého počasí v jejich oblasti, protože to může ovlivnit veškeré cestovní plány.",travel,travel,"SENTENCE:
+ Cestovatelům se důrazně doporučuje mít přehled o všech možných rizicích nepříznivého počasí v jejich oblasti, protože to může ovlivnit veškeré cestovní plány. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Autobusy odjíždějí z meziměstského autobusového nádraží (přes řeku) po celý den, ale většina z nich, zejména ty, které míří na východ a Jakar/Bumthang, odjíždí mezi 6:30 a 7:30.",travel,travel,"SENTENCE:
+ Autobusy odjíždějí z meziměstského autobusového nádraží (přes řeku) po celý den, ale většina z nich, zejména ty, které míří na východ a Jakar/Bumthang, odjíždí mezi 6:30 a 7:30. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Poskytují jezdci větší stabilitu, mohou ale být spojeny s bezpečnostními problémy kvůli možnosti, že se v nich nohy jezdce zaseknou.",travel,travel,"SENTENCE:
+ Poskytují jezdci větší stabilitu, mohou ale být spojeny s bezpečnostními problémy kvůli možnosti, že se v nich nohy jezdce zaseknou. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Plavby po Baltském moři mají většinou na programu delší pobyt v ruském Petrohradu.,travel,travel,"SENTENCE:
+ Plavby po Baltském moři mají většinou na programu delší pobyt v ruském Petrohradu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Tato rada předpokládá, že cestující nekradou, nepáchají přestupky, neúčastní se černého trhu, nežebrají nebo jinak nezneužívají jiné lidi k vlastnímu prospěchu.",travel,travel,"SENTENCE:
+ Tato rada předpokládá, že cestující nekradou, nepáchají přestupky, neúčastní se černého trhu, nežebrají nebo jinak nezneužívají jiné lidi k vlastnímu prospěchu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Před a během cesty je potřeba zvážit mnoho věcí.,travel,travel,"SENTENCE:
+ Před a během cesty je potřeba zvážit mnoho věcí. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Za denního úpalu mohou cestovatelé vidět zrcadlení, které vyvolává iluzi vody (nebo jiných věcí).",travel,travel,"SENTENCE:
+ Za denního úpalu mohou cestovatelé vidět zrcadlení, které vyvolává iluzi vody (nebo jiných věcí). 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Rodiny s dětmi jsou vzácností, ale některé hostely jim nabízejí soukromé pokoje.",travel,travel,"SENTENCE:
+ Rodiny s dětmi jsou vzácností, ale některé hostely jim nabízejí soukromé pokoje. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Například návštěva hradů v údolí Loiry a Rýnu nebo okružní cesta po zajímavých městech na Dunaji či plavba po Erijském kanálu.,travel,travel,"SENTENCE:
+ Například návštěva hradů v údolí Loiry a Rýnu nebo okružní cesta po zajímavých městech na Dunaji či plavba po Erijském kanálu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Může být lepší využít služeb agenta, který často rezervuje výlety podobné tomu vašemu.",travel,travel,"SENTENCE:
+ Může být lepší využít služeb agenta, který často rezervuje výlety podobné tomu vašemu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Couchsurfing byl založen v lednu 2004 poté, co počítačový programátor Casey Fenton nalezl levný let na Island, ale neměl kde tam pobývat.",travel,travel,"SENTENCE:
+ Couchsurfing byl založen v lednu 2004 poté, co počítačový programátor Casey Fenton nalezl levný let na Island, ale neměl kde tam pobývat. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Studentská víza mají obvykle jiné požadavky a postupy při podávání žádosti než běžná turistická nebo obchodní víza.,travel,travel,"SENTENCE:
+ Studentská víza mají obvykle jiné požadavky a postupy při podávání žádosti než běžná turistická nebo obchodní víza. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Každá země má také své vlastní právní předpisy, které upravují obsah povinné nouzové výbavy, kterou je nutno mít v autě.",travel,travel,"SENTENCE:
+ Každá země má také své vlastní právní předpisy, které upravují obsah povinné nouzové výbavy, kterou je nutno mít v autě. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Většina agentur je ochotná splnit všechny obvyklé požadavky, někteří agenti se ale specializují jen na některé druhy cest, cenové kategorie nebo oblasti.",travel,travel,"SENTENCE:
+ Většina agentur je ochotná splnit všechny obvyklé požadavky, někteří agenti se ale specializují jen na některé druhy cest, cenové kategorie nebo oblasti. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Cestovatelé se mohou setkat se zvířecími škůdci, které ve svých domovských regionech neznají.",travel,travel,"SENTENCE:
+ Cestovatelé se mohou setkat se zvířecími škůdci, které ve svých domovských regionech neznají. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Na severu také navštivte Svatyni Panny Marie ve Fatimě (Sanctuary of Our Lady of Fatima), která je celosvětově známým místem zjevování Panny Marie.",travel,travel,"SENTENCE:
+ Na severu také navštivte Svatyni Panny Marie ve Fatimě (Sanctuary of Our Lady of Fatima), která je celosvětově známým místem zjevování Panny Marie. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Pro cestu po Gomě můžete využít boda boda (motocyklové taxi). Běžná cena za krátkou jízdu je zhruba 500 konžských franků.,travel,travel,"SENTENCE:
+ Pro cestu po Gomě můžete využít boda boda (motocyklové taxi). Běžná cena za krátkou jízdu je zhruba 500 konžských franků. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Všichni, kdo mají v oblibě pobyt v přírodě, by měli určitě navštívit koridor Sea to Sky.",travel,travel,"SENTENCE:
+ Všichni, kdo mají v oblibě pobyt v přírodě, by měli určitě navštívit koridor Sea to Sky. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Turistické safari se skládá z pěší túry trvající několik hodin až několik dní.,travel,travel,"SENTENCE:
+ Turistické safari se skládá z pěší túry trvající několik hodin až několik dní. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Jediný způsob, jak to zvládnout rychleji, je poslat danou věc jako odbavené zavazadlo. Letecké předpisy ale nedovolují poslat zavazadlo bez cestujícího, a tady přicházíte na řadu vy.",travel,travel,"SENTENCE:
+ Jediný způsob, jak to zvládnout rychleji, je poslat danou věc jako odbavené zavazadlo. Letecké předpisy ale nedovolují poslat zavazadlo bez cestujícího, a tady přicházíte na řadu vy. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+S dalšími 300 je to celkově 1 300 povozů potřebných ke zmírnění přelidnění.,travel,travel,"SENTENCE:
+ S dalšími 300 je to celkově 1 300 povozů potřebných ke zmírnění přelidnění. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Rodiny s malými dětmi se budou možná muset více připravovat, ale strávit den venku je snadno možné i s nemluvňaty a předškoláky.",travel,travel,"SENTENCE:
+ Rodiny s malými dětmi se budou možná muset více připravovat, ale strávit den venku je snadno možné i s nemluvňaty a předškoláky. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Každý, kdo bude řídit ve vysoké zeměpisné výšce nebo v horském průsmyku, byl měl zvážit možnost sněhu, ledu nebo mrazivých teplot.",travel,travel,"SENTENCE:
+ Každý, kdo bude řídit ve vysoké zeměpisné výšce nebo v horském průsmyku, byl měl zvážit možnost sněhu, ledu nebo mrazivých teplot. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Timbuktu je dnes zchudlé město, díky své pověsti je však turistickou atrakci. Má také své letiště.",travel,travel,"SENTENCE:
+ Timbuktu je dnes zchudlé město, díky své pověsti je však turistickou atrakci. Má také své letiště. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Během sněhové bouře napadá ve velmi krátkém čase dostatek sněhu na to, aby vám znemožnil jízdu.",travel,travel,"SENTENCE:
+ Během sněhové bouře napadá ve velmi krátkém čase dostatek sněhu na to, aby vám znemožnil jízdu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Pokud chcete letět kolem světa jen po jižní polokouli, výběr letů a destinací je z důvodu nedostatečného množství transoceánských tras omezený.",travel,travel,"SENTENCE:
+ Pokud chcete letět kolem světa jen po jižní polokouli, výběr letů a destinací je z důvodu nedostatečného množství transoceánských tras omezený. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Letecké společnosti jako Emirates, Etihad Airways, Qatar Airways a Turkish Airlines ve velké míře rozšířily své služby do Afriky, a nabízí spojení do řady afrických měst za příznivější ceny než jiné evropské aerolinie.",travel,travel,"SENTENCE:
+ Letecké společnosti jako Emirates, Etihad Airways, Qatar Airways a Turkish Airlines ve velké míře rozšířily své služby do Afriky, a nabízí spojení do řady afrických měst za příznivější ceny než jiné evropské aerolinie. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Nebude zavedena žádná mimořádná doprava, nadzemní vlaková doprava nebude ve Wembley stavět, na místě nejsou k dispozici parkoviště ani místa park-and-ride.",travel,sports,"SENTENCE:
+ Nebude zavedena žádná mimořádná doprava, nadzemní vlaková doprava nebude ve Wembley stavět, na místě nejsou k dispozici parkoviště ani místa park-and-ride. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Obecně platí, že pobyt v jakékoli cizí zemi po delší dobu vyžaduje, abyste si předem obstarali vízum.",travel,travel,"SENTENCE:
+ Obecně platí, že pobyt v jakékoli cizí zemi po delší dobu vyžaduje, abyste si předem obstarali vízum. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"V každém vlaku jsou jak vagony MetroPlus, tak Metro. Vagony MetroPlus jsou vždy zařazeny na konec vlaku směrem ke Kapskému Městu.",travel,travel,"SENTENCE:
+ V každém vlaku jsou jak vagony MetroPlus, tak Metro. Vagony MetroPlus jsou vždy zařazeny na konec vlaku směrem ke Kapskému Městu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Každý se účastní života ve společnosti a využívá dopravní systémy. Téměř všichni si na dopravní systémy stěžují.,travel,travel,"SENTENCE:
+ Každý se účastní života ve společnosti a využívá dopravní systémy. Téměř všichni si na dopravní systémy stěžují. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Protože tato území jsou jen řídce osídlená a světelné znečištění většinou nepředstavuje problém, budete si moci vychutnat pohled i na hvězdy.",travel,travel,"SENTENCE:
+ Protože tato území jsou jen řídce osídlená a světelné znečištění většinou nepředstavuje problém, budete si moci vychutnat pohled i na hvězdy. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Pravidla používání karty Visa a poplatky jsou jiné v každé oblasti a závisejí na zemi, odkud pocházíte.",travel,travel,"SENTENCE:
+ Pravidla používání karty Visa a poplatky jsou jiné v každé oblasti a závisejí na zemi, odkud pocházíte. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Obecně lze říci, že nemá smysl vůbec hledat slevy na lety z bodu A do bodu B pro první nebo byznys třídu.",travel,travel,"SENTENCE:
+ Obecně lze říci, že nemá smysl vůbec hledat slevy na lety z bodu A do bodu B pro první nebo byznys třídu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Házení bumerangem je oblíbenou dovedností, kterou se snaží ovládnout mnoho turistů.",travel,travel,"SENTENCE:
+ Házení bumerangem je oblíbenou dovedností, kterou se snaží ovládnout mnoho turistů. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Tento let není jedinou možností, pokud si přejete vynechat jižní Pacifik a západní pobřeží Jižní Ameriky. (viz níže)",travel,travel,"SENTENCE:
+ Tento let není jedinou možností, pokud si přejete vynechat jižní Pacifik a západní pobřeží Jižní Ameriky. (viz níže) 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"San Francisko vyvinulo rozsáhlou turistickou infrastrukturu zahrnující četné hotely, restaurace a špičková kongresová zařízení.",travel,travel,"SENTENCE:
+ San Francisko vyvinulo rozsáhlou turistickou infrastrukturu zahrnující četné hotely, restaurace a špičková kongresová zařízení. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Dobrovolnické aktivity v rámci cestování jsou skvělým způsobem, jak učinit něco užitečného, ale nejde jen o to, něco dát.",travel,travel,"SENTENCE:
+ Dobrovolnické aktivity v rámci cestování jsou skvělým způsobem, jak učinit něco užitečného, ale nejde jen o to, něco dát. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Lidé si možná neuvědomují, že trpělivost a pochopení potřebují i cestovatelé, kteří se vracejí domů.",travel,travel,"SENTENCE:
+ Lidé si možná neuvědomují, že trpělivost a pochopení potřebují i cestovatelé, kteří se vracejí domů. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Nezapomeňte zahrnout do propočtu další výdaje za dodatečná víza, poplatky za odjezd, pozemní dopravu atd. ve všech těchto místech mimo Afriku.",travel,travel,"SENTENCE:
+ Nezapomeňte zahrnout do propočtu další výdaje za dodatečná víza, poplatky za odjezd, pozemní dopravu atd. ve všech těchto místech mimo Afriku. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Několik obyvatel Biškeku obvinilo protestující z jihu z nezákonného jednání.,politics,travel,"SENTENCE:
+ Několik obyvatel Biškeku obvinilo protestující z jihu z nezákonného jednání. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Části dnešní Belgie byly v minulosti součástí Lucemburska, ale po belgické revoluci roku 1830 se staly součástí Belgie.",politics,travel,"SENTENCE:
+ Části dnešní Belgie byly v minulosti součástí Lucemburska, ale po belgické revoluci roku 1830 se staly součástí Belgie. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Od roku 1988 musí být volební urny průhledné, aby voliči i pozorovatelé mohli dosvědčit, že se v nich nenacházely žádné obálky ještě před začátkem hlasování a že nebyly přidány žádné jiné obálky než ty, které vložili spočítaní a oprávnění voliči.",politics,travel,"SENTENCE:
+ Od roku 1988 musí být volební urny průhledné, aby voliči i pozorovatelé mohli dosvědčit, že se v nich nenacházely žádné obálky ještě před začátkem hlasování a že nebyly přidány žádné jiné obálky než ty, které vložili spočítaní a oprávnění voliči. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Předsedkyně úřednické vlády Julia Gillard během kampaně ve federálních volbách 2010 prohlásila, že věří, že by se na konci vlády královny Alžběty II. měla Austrálie stát republikou.",politics,politics,"SENTENCE:
+ Předsedkyně úřednické vlády Julia Gillard během kampaně ve federálních volbách 2010 prohlásila, že věří, že by se na konci vlády královny Alžběty II. měla Austrálie stát republikou. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+"Irská vláda zdůrazňuje nutnost vytvoření parlamentní legislativy, která povede k nápravě situace.",politics,travel,"SENTENCE:
+ Irská vláda zdůrazňuje nutnost vytvoření parlamentní legislativy, která povede k nápravě situace. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Diplomatické spory o oblast nadále maří vztahy mezi Arménií a Ázerbajdžánem.,politics,travel,"SENTENCE:
+ Diplomatické spory o oblast nadále maří vztahy mezi Arménií a Ázerbajdžánem. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"""Předseda vlády Stephen Harper souhlasil, že vládní """"Vyhlášku o čistém vzduchu"""" předloží ke kontrole výboru všech stran před jejím druhým čtením, a to po úterním 25minutovém setkání s lídrem NDP Jackem Laytonem v projektové kanceláři. """,politics,politics,"SENTENCE:
+ ""Předseda vlády Stephen Harper souhlasil, že vládní """"Vyhlášku o čistém vzduchu"""" předloží ke kontrole výboru všech stran před jejím druhým čtením, a to po úterním 25minutovém setkání s lídrem NDP Jackem Laytonem v projektové kanceláři. "" 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+"Minulý měsíc se v Polsku, které podepsalo dohodu ACTA, odehrály velké protesty, jež vedly k tomu, že polská vláda odmítla prozatím dohodu ratifikovat.",politics,politics,"SENTENCE:
+ Minulý měsíc se v Polsku, které podepsalo dohodu ACTA, odehrály velké protesty, jež vedly k tomu, že polská vláda odmítla prozatím dohodu ratifikovat. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+Poradenství jsou pouze stručným souhrnem politické situace v dané zemi.,politics,travel,"SENTENCE:
+ Poradenství jsou pouze stručným souhrnem politické situace v dané zemi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Během výběrů v roce 1976 radil Carterovi v oblasti zahraniční politiky, poté od roku 1977 do roku 1981 působil jako poradce pro národní bezpečnost (NSA), kde nahradil Henryho Kissingera.",politics,politics,"SENTENCE:
+ Během výběrů v roce 1976 radil Carterovi v oblasti zahraniční politiky, poté od roku 1977 do roku 1981 působil jako poradce pro národní bezpečnost (NSA), kde nahradil Henryho Kissingera. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+"Turecko také převezme ostrahu zajatých bojovníků ISIS, které dle prohlášení odmítly evropské národy repatriovat.",politics,travel,"SENTENCE:
+ Turecko také převezme ostrahu zajatých bojovníků ISIS, které dle prohlášení odmítly evropské národy repatriovat. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Tyto plány však téměř přes noc vzaly za své, když více než 800 000 vojáků sovětské Rudé armády vytvořilo běloruské a ukrajinské fronty poté, co vojáci napadli východní oblasti Polska a porušili tím Rižskou mírovou smlouvou, Sovětsko-polský pakt o neútočení a další mezinárodní smlouvy, a to jak dvoustranné, tak i mnohostranné.",politics,travel,"SENTENCE:
+ Tyto plány však téměř přes noc vzaly za své, když více než 800 000 vojáků sovětské Rudé armády vytvořilo běloruské a ukrajinské fronty poté, co vojáci napadli východní oblasti Polska a porušili tím Rižskou mírovou smlouvou, Sovětsko-polský pakt o neútočení a další mezinárodní smlouvy, a to jak dvoustranné, tak i mnohostranné. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Po skončení tohoto procesu bude zákon HJR-3 znovu posouzen nově zvoleným zákonodárným shromážděním buď v roce 2015, nebo 2016, aby mohl jeho schvalovací proces pokračovat.",politics,travel,"SENTENCE:
+ Po skončení tohoto procesu bude zákon HJR-3 znovu posouzen nově zvoleným zákonodárným shromážděním buď v roce 2015, nebo 2016, aby mohl jeho schvalovací proces pokračovat. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Po přijetí Kongresem 4. července pak byl ručně psaný návrh, který podepsal Předseda kongresu John Hancock a tajemník Charles Thomson, poslán o pár bloků dál do tiskařství Johna Dunlapa.",politics,travel,"SENTENCE:
+ Po přijetí Kongresem 4. července pak byl ručně psaný návrh, který podepsal Předseda kongresu John Hancock a tajemník Charles Thomson, poslán o pár bloků dál do tiskařství Johna Dunlapa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Krátce po 11. hodině zablokovali protestující ve Whitehallu provoz silnice směřující na sever.,politics,travel,"SENTENCE:
+ Krátce po 11. hodině zablokovali protestující ve Whitehallu provoz silnice směřující na sever. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"V červnu 1956 však Chruščovovy sliby prošly zkouškou, když se nepokoje v Polsku, kde dělníci protestovali proti nedostatku jídla a snižování platů, proměnily v obecný protest proti komunismu.",politics,travel,"SENTENCE:
+ V červnu 1956 však Chruščovovy sliby prošly zkouškou, když se nepokoje v Polsku, kde dělníci protestovali proti nedostatku jídla a snižování platů, proměnily v obecný protest proti komunismu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Trvala dalších 40 let a skutečně se bojovalo zástupnými armádami na bojištích od Afriky po Asii, v Afghánistánu, na Kubě a na mnoha dalších místech.",politics,travel,"SENTENCE:
+ Trvala dalších 40 let a skutečně se bojovalo zástupnými armádami na bojištích od Afriky po Asii, v Afghánistánu, na Kubě a na mnoha dalších místech. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Minulý měsíc doporučila prezidentská komise rezignaci předešlého CEP jakožto součást opatření sloužících k tomu, aby se země posunula k novým volbám.",politics,politics,"SENTENCE:
+ Minulý měsíc doporučila prezidentská komise rezignaci předešlého CEP jakožto součást opatření sloužících k tomu, aby se země posunula k novým volbám. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+"Další zahrnutá témata podle všeho obsahují budoucí stát Jeruzalém, který je posvátný pro oba národy i problematiku Jordánského údolí.",politics,travel,"SENTENCE:
+ Další zahrnutá témata podle všeho obsahují budoucí stát Jeruzalém, který je posvátný pro oba národy i problematiku Jordánského údolí. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Rovněž nemělo žádnou pravomoc zrušit daňové zákony a tarify mezi státy.,politics,travel,"SENTENCE:
+ Rovněž nemělo žádnou pravomoc zrušit daňové zákony a tarify mezi státy. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Francouzský volební zákon obsahuje celkem přísnou kodifikaci průběhu voleb.,politics,travel,"SENTENCE:
+ Francouzský volební zákon obsahuje celkem přísnou kodifikaci průběhu voleb. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Po ztrátovém týdnu při pololetních volbách Bush informoval publikum o rozšíření trhu v Asii.,politics,travel,"SENTENCE:
+ Po ztrátovém týdnu při pololetních volbách Bush informoval publikum o rozšíření trhu v Asii. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Strategie se ukázala jako efektivní, protože přerušila životně důležité vojenské a civilní zásobování, přestože tato blokáda porušovala všeobecně přijaté mezinárodní právo kodifikované několika mezinárodními dohodami z předchozích dvou století.",politics,travel,"SENTENCE:
+ Strategie se ukázala jako efektivní, protože přerušila životně důležité vojenské a civilní zásobování, přestože tato blokáda porušovala všeobecně přijaté mezinárodní právo kodifikované několika mezinárodními dohodami z předchozích dvou století. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Hospodářské vazby mezi těmito dvěma částmi Moldavska byly navzdory neúspěchu v politických jednáních obnoveny.,politics,travel,"SENTENCE:
+ Hospodářské vazby mezi těmito dvěma částmi Moldavska byly navzdory neúspěchu v politických jednáních obnoveny. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"V doprovodu těchto zástupců ujistil občany Texasu, že jsou podnikány kroky za účelem ochránění veřejné bezpečnosti.",politics,travel,"SENTENCE:
+ V doprovodu těchto zástupců ujistil občany Texasu, že jsou podnikány kroky za účelem ochránění veřejné bezpečnosti. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Liberální kritika snah o rekonstrukci se soustředila na to, že smlouvy o rekonstrukci vyhrávali domnělí washingtonští zasvěcenci.",politics,travel,"SENTENCE:
+ Liberální kritika snah o rekonstrukci se soustředila na to, že smlouvy o rekonstrukci vyhrávali domnělí washingtonští zasvěcenci. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Průzkum veřejného mínění provedený u 1 400 lidí před federálními volbami v roce 2010 ukázal, že počet lidí, kteří nesouhlasí v přeměnu Austrálie na republiku, stoupl oproti roku 2008 o 8 procent.",politics,travel,"SENTENCE:
+ Průzkum veřejného mínění provedený u 1 400 lidí před federálními volbami v roce 2010 ukázal, že počet lidí, kteří nesouhlasí v přeměnu Austrálie na republiku, stoupl oproti roku 2008 o 8 procent. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Diplomati uvádějí, že v afghánské ústavě nalezli dostatek nejednoznačnosti na to, aby toto druhé kolo označili za nepotřebné.",politics,travel,"SENTENCE:
+ Diplomati uvádějí, že v afghánské ústavě nalezli dostatek nejednoznačnosti na to, aby toto druhé kolo označili za nepotřebné. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Po přijetí výsledků Gingrich pochválil Santoruma, tvrdá slova měl však pro Romneyho, kvůli kterému byly v Iowě spuštěny negativní reklamní kampaně vůči Gingrichovi.",politics,entertainment,"SENTENCE:
+ Po přijetí výsledků Gingrich pochválil Santoruma, tvrdá slova měl však pro Romneyho, kvůli kterému byly v Iowě spuštěny negativní reklamní kampaně vůči Gingrichovi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Je to Martellyho pátá CEP za čtyři roky.,politics,politics,"SENTENCE:
+ Je to Martellyho pátá CEP za čtyři roky. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+"Zlatý olympijský medailista měl na Commonwealth Games plavat 100 m a 200 m volným stylem a ve třech štafetách, ale vzhledem k jeho námitkám se pochybovalo o jeho způsobilosti.",sports,sports,"SENTENCE:
+ Zlatý olympijský medailista měl na Commonwealth Games plavat 100 m a 200 m volným stylem a ve třech štafetách, ale vzhledem k jeho námitkám se pochybovalo o jeho způsobilosti. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Kromě toho, že byl olympijským a světovým šampiónem, byl Saito v době své smrti také předsedou tréninkového výboru Celojaponské judistické federace.",sports,sports,"SENTENCE:
+ Kromě toho, že byl olympijským a světovým šampiónem, byl Saito v době své smrti také předsedou tréninkového výboru Celojaponské judistické federace. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Mezinárodní olympijský výbor dnes hlasoval o zahrnutí sportů na svém zasedání výkonné rady v Berlíně. Ragby, konkrétně ragbyová unie, a golf dostaly při zvažování účasti na olympijských hrách přednost před pěti dalšími sporty.",sports,sports,"SENTENCE:
+ Mezinárodní olympijský výbor dnes hlasoval o zahrnutí sportů na svém zasedání výkonné rady v Berlíně. Ragby, konkrétně ragbyová unie, a golf dostaly při zvažování účasti na olympijských hrách přednost před pěti dalšími sporty. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Největší turnaj roku se odehrává v prosinci na hřištích na pólo v Las Cañitas.,sports,travel,"SENTENCE:
+ Největší turnaj roku se odehrává v prosinci na hřištích na pólo v Las Cañitas. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Od přestupu do katalánského hlavního města odehrál Vidal za klub 49 utkání.,sports,sports,"SENTENCE:
+ Od přestupu do katalánského hlavního města odehrál Vidal za klub 49 utkání. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Udržování zdravé energetické rovnováhy, praktikování efektivních hydratačních návyků a pochopení různých aspektů problematiky suplementů může sportovcům pomoci zlepšit jejich výkon a posílit jejich dobrý pocit ze sportu.",sports,sports,"SENTENCE:
+ Udržování zdravé energetické rovnováhy, praktikování efektivních hydratačních návyků a pochopení různých aspektů problematiky suplementů může sportovcům pomoci zlepšit jejich výkon a posílit jejich dobrý pocit ze sportu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Na třetím místě je Hamlin, který ztrácí 20 bodů, ale s pěti body se umístil před Bowyerem. Kahne a Truex Jr. jsou na 5. a 6. místě s 2 220 a 2 207 body.",sports,sports,"SENTENCE:
+ Na třetím místě je Hamlin, který ztrácí 20 bodů, ale s pěti body se umístil před Bowyerem. Kahne a Truex Jr. jsou na 5. a 6. místě s 2 220 a 2 207 body. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Nadalův rekord ze vzájemných utkání proti Kanaďanovi je 7–2.,sports,sports,"SENTENCE:
+ Nadalův rekord ze vzájemných utkání proti Kanaďanovi je 7–2. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Jarque dříve toho dne trénoval při předsezónovém tréninku v Covercianu v Itálii. Před zápasem s Boloňou plánovaným na neděli bydlel v týmovém hotelu.,sports,travel,"SENTENCE:
+ Jarque dříve toho dne trénoval při předsezónovém tréninku v Covercianu v Itálii. Před zápasem s Boloňou plánovaným na neděli bydlel v týmovém hotelu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Obavy z nedostatku dopravních možností zvýšily šance, že se zápas bude muset odehrát za zavřenými dveřmi bez fanoušků týmu.",sports,travel,"SENTENCE:
+ Obavy z nedostatku dopravních možností zvýšily šance, že se zápas bude muset odehrát za zavřenými dveřmi bez fanoušků týmu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Tommy Dreamer řekl: „Luna byla první Královnou extrémů. Moje první manažerka. Luna zemřela během noci, kdy byly na obloze dva Měsíce. Jedinečné, stejně jako ona sama. Byla to silná žena.",sports,entertainment,"SENTENCE:
+ Tommy Dreamer řekl: „Luna byla první Královnou extrémů. Moje první manažerka. Luna zemřela během noci, kdy byly na obloze dva Měsíce. Jedinečné, stejně jako ona sama. Byla to silná žena. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Zrakově postižený lyžař Maciej Krezel a vodička Anna Ogarzynska z Polska skočili v super-G na 13. místě. Jong Seork Park z Jižní Koreji skončil v mužském super-G vsedě na 24. místě.,sports,sports,"SENTENCE:
+ Zrakově postižený lyžař Maciej Krezel a vodička Anna Ogarzynska z Polska skočili v super-G na 13. místě. Jong Seork Park z Jižní Koreji skončil v mužském super-G vsedě na 24. místě. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Zajímáte-li se o turnaje a o to, kde sehnat vstupenky na zápasy v pólu, podívejte se na Asociacion Argentina de Polo.",sports,sports,"SENTENCE:
+ Zajímáte-li se o turnaje a o to, kde sehnat vstupenky na zápasy v pólu, podívejte se na Asociacion Argentina de Polo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Zápas byl zahájen v 10:00 za skvělého počasí a s výjimkou dopolední přeháňky, která se rychle rozehnala, se jednalo o skvělý den pro sedmičkové rugby.",sports,sports,"SENTENCE:
+ Zápas byl zahájen v 10:00 za skvělého počasí a s výjimkou dopolední přeháňky, která se rychle rozehnala, se jednalo o skvělý den pro sedmičkové rugby. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Arly Velásquez z Mexika skončil patnáctý v závodě pánské super-G v sedě. Novozélandský Adam Hall skončil devátý v závodě pánské super-G ve stoje.,sports,sports,"SENTENCE:
+ Arly Velásquez z Mexika skončil patnáctý v závodě pánské super-G v sedě. Novozélandský Adam Hall skončil devátý v závodě pánské super-G ve stoje. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Finální zápas série se odehraje příští týden v Ellis Park v Johannesburgu, kde budou hrát Springboks proti Austrálii.",sports,sports,"SENTENCE:
+ Finální zápas série se odehraje příští týden v Ellis Park v Johannesburgu, kde budou hrát Springboks proti Austrálii. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Za příznivých podmínek zvládnete překonat o něco větší vzdálenosti než pěšky – ale jen zřídka se budete pohybovat rychlostí, jaké byste dosáhli na běžkách bez těžkého batohu a v upravené stopě.",sports,travel,"SENTENCE:
+ Za příznivých podmínek zvládnete překonat o něco větší vzdálenosti než pěšky – ale jen zřídka se budete pohybovat rychlostí, jaké byste dosáhli na běžkách bez těžkého batohu a v upravené stopě. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Johnson je druhý s 2 243 body, tedy s rozdílem sedmi bodů.",sports,sports,"SENTENCE:
+ Johnson je druhý s 2 243 body, tedy s rozdílem sedmi bodů. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Canyoning je sport, při kterém se leze na dno kaňonu, který je buď vyschlý, nebo plný vody.",sports,sports,"SENTENCE:
+ Canyoning je sport, při kterém se leze na dno kaňonu, který je buď vyschlý, nebo plný vody. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Robin Uthappa dosáhl nejvyššího skóre za směnu, kdy za 70 výpadů při pouhých 41 míčích hodil 11 čtyřek a 2 šestky.",sports,sports,"SENTENCE:
+ Robin Uthappa dosáhl nejvyššího skóre za směnu, kdy za 70 výpadů při pouhých 41 míčích hodil 11 čtyřek a 2 šestky. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Zimní sporty jsou velmi oblíbené v severních oblastech, kde Italové soutěží v mezinárodních hrách a olympijských kláních.",sports,sports,"SENTENCE:
+ Zimní sporty jsou velmi oblíbené v severních oblastech, kde Italové soutěží v mezinárodních hrách a olympijských kláních. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Město Maroochydore skončilo na vrcholu žebříčku, šest bodů před druhou Noosou.",sports,sports,"SENTENCE:
+ Město Maroochydore skončilo na vrcholu žebříčku, šest bodů před druhou Noosou. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Michael Schumacher ukončil svůj závod krátce po Alonsovi, a to kvůli poškození podvozku způsobenému mnoha bitvami během závodu.",sports,sports,"SENTENCE:
+ Michael Schumacher ukončil svůj závod krátce po Alonsovi, a to kvůli poškození podvozku způsobenému mnoha bitvami během závodu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Správné stravovací návyky nemohou samy o sobě vést k prvotřídním výkonům, ale mohou významně ovlivnit celkové zdraví a kondici mladých sportovců.",sports,sports,"SENTENCE:
+ Správné stravovací návyky nemohou samy o sobě vést k prvotřídním výkonům, ale mohou významně ovlivnit celkové zdraví a kondici mladých sportovců. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Nemohl si vzít lék potřebný pro překonání bolesti, jelikož léčiva jsou na Hrách zakázána.",sports,travel,"SENTENCE:
+ Nemohl si vzít lék potřebný pro překonání bolesti, jelikož léčiva jsou na Hrách zakázána. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Výzkum ukázal, že u žen je dvakrát vyšší pravděpodobnost výskytu RS než u mužů.",health,travel,"SENTENCE:
+ Výzkum ukázal, že u žen je dvakrát vyšší pravděpodobnost výskytu RS než u mužů. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Nelegální lihoviny mohou obsahovat různé nebezpečné příměsi včetně methanolu, který může i v malých dávkách způsobit slepotu nebo smrt.",health,travel,"SENTENCE:
+ Nelegální lihoviny mohou obsahovat různé nebezpečné příměsi včetně methanolu, který může i v malých dávkách způsobit slepotu nebo smrt. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Pravidelné týdenní strukturované fyzické aktivity neměly vliv na deprese nebo strach, pouze na katastrofické vidění světa.",health,science/technology,"SENTENCE:
+ Pravidelné týdenní strukturované fyzické aktivity neměly vliv na deprese nebo strach, pouze na katastrofické vidění světa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+"Masové vlastnictví aut také vede k nárůstu případů silničních nehod, což způsobuje vynalézání nových technik ve zdravotnictví, jak opravovat poškozená těla.",health,travel,"SENTENCE:
+ Masové vlastnictví aut také vede k nárůstu případů silničních nehod, což způsobuje vynalézání nových technik ve zdravotnictví, jak opravovat poškozená těla. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Přední výzkumníci tvrdí, že to může umožnit včasné zjištění rakoviny, tuberkulózy, HIV a malárie pacientům v zemích s nízkým příjmem, kde jsou počty přeživších u chorob, jako je rakovina prsu, až o polovinu nižší oproti bohatším zemím.",health,entertainment,"SENTENCE:
+ Přední výzkumníci tvrdí, že to může umožnit včasné zjištění rakoviny, tuberkulózy, HIV a malárie pacientům v zemích s nízkým příjmem, kde jsou počty přeživších u chorob, jako je rakovina prsu, až o polovinu nižší oproti bohatším zemím. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Dr. Ehud Ur, profesor medicíny na Dalhousieově univerzitě v Halifaxu v Novém Skotsku a zároveň předseda klinické a vědecké divize Kanadské diabetické asociace upozornil, že výzkum je teprve ve svých počátcích.",health,health,"SENTENCE:
+ Dr. Ehud Ur, profesor medicíny na Dalhousieově univerzitě v Halifaxu v Novém Skotsku a zároveň předseda klinické a vědecké divize Kanadské diabetické asociace upozornil, že výzkum je teprve ve svých počátcích. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: health</s>"
+"Tyto děti mají tendenci dostávat se do mnoha problémů, protože „se zapojují do rizikového chování, dostávají se do bitek a zpochybňují autoritu“, aby stimulovaly svůj mozek, protože jejich mozek nemůže být stimulován běžnými způsoby.",health,travel,"SENTENCE:
+ Tyto děti mají tendenci dostávat se do mnoha problémů, protože „se zapojují do rizikového chování, dostávají se do bitek a zpochybňují autoritu“, aby stimulovaly svůj mozek, protože jejich mozek nemůže být stimulován běžnými způsoby. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Lidé mohou být postiženi vdechnutím dotčené vody, která se dostane do vzduchu větrem a vlnami.",health,travel,"SENTENCE:
+ Lidé mohou být postiženi vdechnutím dotčené vody, která se dostane do vzduchu větrem a vlnami. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Někteří lidé se domnívají, že prožití mnoha uměle vyvolaných lucidních snů často může být velmi vyčerpávající.",health,travel,"SENTENCE:
+ Někteří lidé se domnívají, že prožití mnoha uměle vyvolaných lucidních snů často může být velmi vyčerpávající. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Potro v tuto chvíli potřeboval rameno ošetřit, ale podařilo se mu vrátit se do hry.",health,sports,"SENTENCE:
+ Potro v tuto chvíli potřeboval rameno ošetřit, ale podařilo se mu vrátit se do hry. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Pokud tak navíc neučiní, má to vážné následky: růst deprese, podvýživu a nakonec smrt.",health,travel,"SENTENCE:
+ Pokud tak navíc neučiní, má to vážné následky: růst deprese, podvýživu a nakonec smrt. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Zástupci města Amsterdamu a muzea Anny Frankové tvrdí, že strom je napaden houbou a přestavuje riziko pro veřejné zdraví, protože by podle nich mohl kdykoliv spadnout.",health,entertainment,"SENTENCE:
+ Zástupci města Amsterdamu a muzea Anny Frankové tvrdí, že strom je napaden houbou a přestavuje riziko pro veřejné zdraví, protože by podle nich mohl kdykoliv spadnout. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Nemocnice dodržovala protokol o kontrole infekcí, včetně separace pacientů za účelem zabránění možné nákazy ostatních.",health,travel,"SENTENCE:
+ Nemocnice dodržovala protokol o kontrole infekcí, včetně separace pacientů za účelem zabránění možné nákazy ostatních. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Institut spravedlnost a demokracie na Haiti zmínil nezávislé studie, které naznačují, že nemoc na Haiti nevědomky přivlekly nepálské mírové jednotky OSN.",health,travel,"SENTENCE:
+ Institut spravedlnost a demokracie na Haiti zmínil nezávislé studie, které naznačují, že nemoc na Haiti nevědomky přivlekly nepálské mírové jednotky OSN. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Infekční nemoci nebo nebezpečná zvířata, která mohou silou zranit nebo zabít člověka, se jako taková většinou neřadí mezi škůdce.",health,travel,"SENTENCE:
+ Infekční nemoci nebo nebezpečná zvířata, která mohou silou zranit nebo zabít člověka, se jako taková většinou neřadí mezi škůdce. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Děti s ADD se těžko soustředí na věci typu školní práce, ale mohou se soustředit na věci, které je baví – například hraní her, sledování oblíbených animovaných filmů nebo psaní vět bez interpunkce.",health,entertainment,"SENTENCE:
+ Děti s ADD se těžko soustředí na věci typu školní práce, ale mohou se soustředit na věci, které je baví – například hraní her, sledování oblíbených animovaných filmů nebo psaní vět bez interpunkce. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Za dobu jednoho roku může nakažený člověk nakazit 10 až 15 blízkých kontaktů.,health,travel,"SENTENCE:
+ Za dobu jednoho roku může nakažený člověk nakazit 10 až 15 blízkých kontaktů. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Když po transportu raněných do nemocnice boje ustaly, asi 40 zbylých vězňů zůstalo na dvoře a odmítlo se vrátit do svých cel.",health,travel,"SENTENCE:
+ Když po transportu raněných do nemocnice boje ustaly, asi 40 zbylých vězňů zůstalo na dvoře a odmítlo se vrátit do svých cel. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Rekrutovat lékaře začal císař Augustus a dokonce vytvořil první Římský lékařský sbor, který měl najít své uplatnění po skončení bitev.",health,travel,"SENTENCE:
+ Rekrutovat lékaře začal císař Augustus a dokonce vytvořil první Římský lékařský sbor, který měl najít své uplatnění po skončení bitev. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Řidič však utrpěl vážné poranění hlavy.,health,travel,"SENTENCE:
+ Řidič však utrpěl vážné poranění hlavy. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"„Nyní máme čtyřměsíční myši bez cukrovky, které ji dříve měly,“ dodal.",health,travel,"SENTENCE:
+ „Nyní máme čtyřměsíční myši bez cukrovky, které ji dříve měly,“ dodal. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Vnitřní otrava nemusí být hned zřejmá. Symptomy jako například zvracení jsou příliš obecné na stanovení okamžité diagnózy.,health,travel,"SENTENCE:
+ Vnitřní otrava nemusí být hned zřejmá. Symptomy jako například zvracení jsou příliš obecné na stanovení okamžité diagnózy. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Výsledkem je, že účinkující v představení kouří na scéně marihuanové jointy a divadlo samotné podporuje obecenstvo, aby se k nim přidalo.",entertainment,travel,"SENTENCE:
+ Výsledkem je, že účinkující v představení kouří na scéně marihuanové jointy a divadlo samotné podporuje obecenstvo, aby se k nim přidalo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Aerosmith zrušili zbývající koncerty svého turné.,entertainment,entertainment,"SENTENCE:
+ Aerosmith zrušili zbývající koncerty svého turné. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Pokud chcete být v centru dění, budete muset přijet co nejdříve, abyste získali místo na stanování, které se nachází blízko hudební produkce.",entertainment,travel,"SENTENCE:
+ Pokud chcete být v centru dění, budete muset přijet co nejdříve, abyste získali místo na stanování, které se nachází blízko hudební produkce. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Během let bylo používáno mnoho různých formátů filmu. Standardní 35 mm film (negativ 36 na 24 mm) je zdaleka nejběžnější.,entertainment,entertainment,"SENTENCE:
+ Během let bylo používáno mnoho různých formátů filmu. Standardní 35 mm film (negativ 36 na 24 mm) je zdaleka nejběžnější. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Přestože je to zcela běžné, Disney tuto praxi zakazuje. Vstupenky jsou nepřenosné.",entertainment,entertainment,"SENTENCE:
+ Přestože je to zcela běžné, Disney tuto praxi zakazuje. Vstupenky jsou nepřenosné. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Každá epizoda pořadu se soustředí na téma konkrétní knihy a potom toto téma zkoumá skrze několik příběhů.,entertainment,travel,"SENTENCE:
+ Každá epizoda pořadu se soustředí na téma konkrétní knihy a potom toto téma zkoumá skrze několik příběhů. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Na různých místech v Římě byly umístěny velké televizní obrazovky, aby lidé mohli sledovat ceremonii.",entertainment,entertainment,"SENTENCE:
+ Na různých místech v Římě byly umístěny velké televizní obrazovky, aby lidé mohli sledovat ceremonii. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Sofoklés a Aristofanés jsou stále populárními autory a jejich hry jsou považovány za jedny z největších děl světové literatury.,entertainment,entertainment,"SENTENCE:
+ Sofoklés a Aristofanés jsou stále populárními autory a jejich hry jsou považovány za jedny z největších děl světové literatury. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"V každém dílu bylo také poskytnuto doporučení na knihy, které děti měly vyhledat, když šly do knihovny.",entertainment,travel,"SENTENCE:
+ V každém dílu bylo také poskytnuto doporučení na knihy, které děti měly vyhledat, když šly do knihovny. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Pokud chcete na akordeon hrát hlasitěji, musíte měch stlačovat silněji nebo rychleji.",entertainment,entertainment,"SENTENCE:
+ Pokud chcete na akordeon hrát hlasitěji, musíte měch stlačovat silněji nebo rychleji. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Pyramidy můžete vidět ve tmě a v tichosti ještě předtím, než představení začne.",entertainment,travel,"SENTENCE:
+ Pyramidy můžete vidět ve tmě a v tichosti ještě předtím, než představení začne. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Příklady aktivit při tomto druhu turistiky: lov, rybolov, fotografování, pozorování ptactva, návštěva parků a studium informací o příslušném ekosystému.",entertainment,travel,"SENTENCE:
+ Příklady aktivit při tomto druhu turistiky: lov, rybolov, fotografování, pozorování ptactva, návštěva parků a studium informací o příslušném ekosystému. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Sfinga má funkci kulisy a vypravěče dlouhého příběhu.,entertainment,travel,"SENTENCE:
+ Sfinga má funkci kulisy a vypravěče dlouhého příběhu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Obvykle mají speciální jídlo, nápoje a nabídky zábavy, aby udrželi návštěvníky v dobrém rozpoložení a v prostorách kasína.",entertainment,sports,"SENTENCE:
+ Obvykle mají speciální jídlo, nápoje a nabídky zábavy, aby udrželi návštěvníky v dobrém rozpoložení a v prostorách kasína. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Kromě již existujícího zpravodajství v angličtině a japonštině spouští globální organizace španělské, italské a korejské jazykové programy pro televizi, web a mobilní zařízení.",entertainment,entertainment,"SENTENCE:
+ Kromě již existujícího zpravodajství v angličtině a japonštině spouští globální organizace španělské, italské a korejské jazykové programy pro televizi, web a mobilní zařízení. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Před Simpsonovými pracoval Simon na několika seriálech v různých pozicích.,entertainment,sports,"SENTENCE:
+ Před Simpsonovými pracoval Simon na několika seriálech v různých pozicích. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"To umožní hráčům ovládat své akce a pohyby ve videohrách tím, že pohnou svým zařízením v prostoru.",entertainment,entertainment,"SENTENCE:
+ To umožní hráčům ovládat své akce a pohyby ve videohrách tím, že pohnou svým zařízením v prostoru. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Večírku uspořádaného za účelem oslavy prvního výročí páru, jehož svatba se konala loni, se zúčastnilo nejméně 100 lidí.",entertainment,travel,"SENTENCE:
+ Večírku uspořádaného za účelem oslavy prvního výročí páru, jehož svatba se konala loni, se zúčastnilo nejméně 100 lidí. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Dvě písně z filmu Audition (The Fools Who Dream) a City of Stars získaly nominace na nejlepší originální píseň. Studio Lionsgate získalo 26 nominací – více než jakékoli jiné studio.,entertainment,entertainment,"SENTENCE:
+ Dvě písně z filmu Audition (The Fools Who Dream) a City of Stars získaly nominace na nejlepší originální píseň. Studio Lionsgate získalo 26 nominací – více než jakékoli jiné studio. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Kůra je silná přibližně 70 km na přivrácené straně a okolo 100 km na odvrácené straně.,geography,travel,"SENTENCE:
+ Kůra je silná přibližně 70 km na přivrácené straně a okolo 100 km na odvrácené straně. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Dále na jih leží Niagarské vodopády a na severu dosud čekají na objevení krásy regionu Muskoka a další.,geography,travel,"SENTENCE:
+ Dále na jih leží Niagarské vodopády a na severu dosud čekají na objevení krásy regionu Muskoka a další. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Ellsworth Land je region jižně od poloostrova obklopený Bellingshausenovým mořem.,geography,travel,"SENTENCE:
+ Ellsworth Land je region jižně od poloostrova obklopený Bellingshausenovým mořem. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Traverz jižního pólu je 1 600 km dlouhá stezka vedoucí ze stanice McMurdo v Rossově moři k pólu.,geography,travel,"SENTENCE:
+ Traverz jižního pólu je 1 600 km dlouhá stezka vedoucí ze stanice McMurdo v Rossově moři k pólu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Tato příkrá hora, která se tyčí nad severním koncem Machu Picchu, je častým pozadím mnoha fotografií ruin.",geography,travel,"SENTENCE:
+ Tato příkrá hora, která se tyčí nad severním koncem Machu Picchu, je častým pozadím mnoha fotografií ruin. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Enceladus je nejvíce odrazivé těleso Sluneční soustavy, odráží asi 90 procent slunečního záření, které na něj dopadne.",geography,science/technology,"SENTENCE:
+ Enceladus je nejvíce odrazivé těleso Sluneční soustavy, odráží asi 90 procent slunečního záření, které na něj dopadne. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+Není vidět nic než nádherně jasná obloha a velký počet okolních hor. Z vnitřku jeskyně je vidět a slyšet jen velmi málo z tohoto světa.,geography,travel,"SENTENCE:
+ Není vidět nic než nádherně jasná obloha a velký počet okolních hor. Z vnitřku jeskyně je vidět a slyšet jen velmi málo z tohoto světa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Nyní přejděme k Japonsku, které bylo stejně jako Británie ostrovním státem.",geography,travel,"SENTENCE:
+ Nyní přejděme k Japonsku, které bylo stejně jako Británie ostrovním státem. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Tropická cyklóna Gonu, pojmenovaná po pytlu palmových listů v maledivštině, dosáhla na svém vrcholu stálé rychlosti větru 240 kilometrů za hodinu (149 mil za hodinu).",geography,travel,"SENTENCE:
+ Tropická cyklóna Gonu, pojmenovaná po pytlu palmových listů v maledivštině, dosáhla na svém vrcholu stálé rychlosti větru 240 kilometrů za hodinu (149 mil za hodinu). 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Oblast Turecka včetně jezer zabírá 783 562 čtverečních kilometrů (300 948 čtverečních mil), z nichž 755 688 čtverečních kilometrů (291 773 čtverečních mil) je v jihozápadní Asii a 23 764 čtverečních kilometrů (9 174 čtverečních mil) v Evropě.",geography,travel,"SENTENCE:
+ Oblast Turecka včetně jezer zabírá 783 562 čtverečních kilometrů (300 948 čtverečních mil), z nichž 755 688 čtverečních kilometrů (291 773 čtverečních mil) je v jihozápadní Asii a 23 764 čtverečních kilometrů (9 174 čtverečních mil) v Evropě. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Jižní Shetlandy, které byly objeveny v roce 1819, jsou nárokovány více zeměni a mají nejvíc základen – v roce 2020 jich zde bylo aktivních 16.",geography,travel,"SENTENCE:
+ Jižní Shetlandy, které byly objeveny v roce 1819, jsou nárokovány více zeměni a mají nejvíc základen – v roce 2020 jich zde bylo aktivních 16. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Hlavním městem Samoji je Apia. Město se nachází na ostrově Upolu a čítá necelých 40 000 obyvatel.,geography,travel,"SENTENCE:
+ Hlavním městem Samoji je Apia. Město se nachází na ostrově Upolu a čítá necelých 40 000 obyvatel. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Vzhledem k tomu, že se bouře nachází daleko od pobřeží, je nadále obtížné posoudit její možný dopad na Spojené státy nebo Karibik.",geography,travel,"SENTENCE:
+ Vzhledem k tomu, že se bouře nachází daleko od pobřeží, je nadále obtížné posoudit její možný dopad na Spojené státy nebo Karibik. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Pod moři je slabší a pod pohořími zase silnější.,geography,travel,"SENTENCE:
+ Pod moři je slabší a pod pohořími zase silnější. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Tyto lesy však nejsou jen mangrovými bažinami – patří mezi ně i některé z posledních zbývajících úseků mocných džunglí, které kdysi pokrývaly pláně Gangy.",geography,travel,"SENTENCE:
+ Tyto lesy však nejsou jen mangrovými bažinami – patří mezi ně i některé z posledních zbývajících úseků mocných džunglí, které kdysi pokrývaly pláně Gangy. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Mezinárodní mapa zemětřesení agentury The United States Geological Survey neukázala na Islandu v předchozím týdnu žádná zemětřesení.,geography,travel,"SENTENCE:
+ Mezinárodní mapa zemětřesení agentury The United States Geological Survey neukázala na Islandu v předchozím týdnu žádná zemětřesení. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Při své poloze na vrcholu jedné z hor severně od Mekky je tato jeskyně kompletně izolována od zbytku světa.,geography,sports,"SENTENCE:
+ Při své poloze na vrcholu jedné z hor severně od Mekky je tato jeskyně kompletně izolována od zbytku světa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"

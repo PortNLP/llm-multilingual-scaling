@@ -1,205 +1,2449 @@
 text,actual_category,predicted_category,generated_text
-"Lokruok mag gik mangima kata mutation medo pogruoge manyien mag chwech kata jenetik, kaeto yiero to gole oko kowuok ei pogruoge moyudi go.",science/technology,N/A,"""Lokruok mag gik mangima kata mutation medo pogruoge manyien mag chwech kata jenetik, kaeto yiero to gole oko kowuok ei pogruoge moyudi go."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: tech</s>"
-"Bomb mar fision tiyo nii, okaw teko mar keto nyuklia kanyakla, man kod protons gi neutrons mathoth.",science/technology,N/A,"""Bomb mar fision tiyo nii, okaw teko mar keto nyuklia kanyakla, man kod protons gi neutrons mathoth."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: physics</s>"
-Niuklias oting'o gik moko ariyo- niutrons gi protons.,science/technology,N/A,"""Niuklias oting'o gik moko ariyo- niutrons gi protons."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: physics</s>"
-Mano osemiyo kio mag lens mayuayo gikmoko golo pichni manitiere e rang'iny minyalo mana pim gi mago ma ogol gi lens ma ok yua pichni.,science/technology,N/A,"""Mano osemiyo kio mag lens mayuayo gikmoko golo pichni manitiere e rang'iny minyalo mana pim gi mago ma ogol gi lens ma ok yua pichni."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: tech</s>"
-"Gibeyo maloyo proxy mag mbui kaluwore gi yore buora: Gidwoko trafik te mag mbui e yo makare, ok mana http Kende.",science/technology,N/A,"""Gibeyo maloyo proxy mag mbui kaluwore gi yore buora: Gidwoko trafik te mag mbui e yo makare, ok mana http Kende."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: tech</s>"
-Loso chwech mag tudruok mag mbui duaro ni inonane kendo paro magi kwom chwech mag gig fwambo kod keyo kendo ipuonjri paro e yore mopogore opogore.,science/technology,travel,"""Loso chwech mag tudruok mag mbui duaro ni inonane kendo paro magi kwom chwech mag gig fwambo kod keyo kendo ipuonjri paro e yore mopogore opogore."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Mano nobedo gima koro itiyogo pile, mak mana ni nyinyo go koro ne kelo kethruok ahinya mag tie geche manolosi gi yiende go.",science/technology,travel,"""Mano nobedo gima koro itiyogo pile, mak mana ni nyinyo go koro ne kelo kethruok ahinya mag tie geche manolosi gi yiende go."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Pride iloso kod sibuor madichwo achiel kata adek ma nikod tudruok, kod sibuoche ma mon manyalo romo piero adek to kod nyithindgi.",science/technology,travel,"""Pride iloso kod sibuor madichwo achiel kata adek ma nikod tudruok, kod sibuoche ma mon manyalo romo piero adek to kod nyithindgi."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Kata obedo ni AI nitiere kod okiki mag miriambo mag sayans, AI loso bad sayans mar kompyuta mowinjore ahinya, motenore gi timbe, puonjruok to kod lokruok e rieko mar masin.",science/technology,N/A,"""Kata obedo ni AI nitiere kod okiki mag miriambo mag sayans, AI loso bad sayans mar kompyuta mowinjore ahinya, motenore gi timbe, puonjruok to kod lokruok e rieko mar masin."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: tech</s>"
-Tudruok mar kwan e bor gi lach mar picha ma kamagi (pogo gi apar kod ariyo mondo iyud tudruok mar kwan mayot mochung' kende) koro iwacho ni en 3:2.,science/technology,sports,"""Tudruok mar kwan e bor gi lach mar picha ma kamagi (pogo gi apar kod ariyo mondo iyud tudruok mar kwan mayot mochung' kende) koro iwacho ni en 3:2."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: sports</s>"
-"Sime matiyo gi satelite oknyal wil kod simb ong'weyamo, nikech nyaka iwuog oko ma imanyri gi lain mar satelite korka igo simu.",science/technology,N/A,"""Sime matiyo gi satelite oknyal wil kod simb ong'weyamo, nikech nyaka iwuog oko ma imanyri gi lain mar satelite korka igo simu."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: tech</s>"
-"Kata wagonways oting'o mana parallel planks meke mbao, ne giyie faras mond odhirgi mond oyud speed mang'eny kendo oyua e ndara madongo kar e ndara mokak meke ndalogo",science/technology,sports,"""Kata wagonways oting'o mana parallel planks meke mbao, ne giyie faras mond odhirgi mond oyud speed mang'eny kendo oyua e ndara madongo kar e ndara mokak meke ndalogo"" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: sports</s>"
-"Ji ong'eyo kwiri ma ong'ere kaka dhahabu, fedha gi mula kowuok ndalo machon, magi te nyalo yudore e aluora kapod gin kod loo, kendo giyot kunyo kod gige kunyo machon.",science/technology,N/A,"""Ji ong'eyo kwiri ma ong'ere kaka dhahabu, fedha gi mula kowuok ndalo machon, magi te nyalo yudore e aluora kapod gin kod loo, kendo giyot kunyo kod gige kunyo machon."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: finance</s>"
-"Tielo mawinyore mar mtoka oloko piny ngima eyore mogundho. Maduong' moloyo mosetimo nwa en miyowa yot, kendo wuotho mapiyo.",science/technology,travel,"""Tielo mawinyore mar mtoka oloko piny ngima eyore mogundho. Maduong' moloyo mosetimo nwa en miyowa yot, kendo wuotho mapiyo."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-Maye olosi mondo okony e neno ni picha omako wang' sikrin tee. Mano iluongo ni overscan.,science/technology,entertainment,"""Maye olosi mondo okony e neno ni picha omako wang' sikrin tee. Mano iluongo ni overscan."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: entertainment</s>"
-Sabmarinde mag Jo-Jerman niluongo ni U-Boats. Jo-Jerman ne ber ahinya e riembo kendo e tiyo kod sabmarinde mekgi.,science/technology,N/A,"""Sabmarinde mag Jo-Jerman niluongo ni U-Boats. Jo-Jerman ne ber ahinya e riembo kendo e tiyo kod sabmarinde mekgi."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: military</s>"
-"Kata obedo ni chal mar dende nyalo lokore, chal mage mag kwiri to dong' machalre.",science/technology,travel,"""Kata obedo ni chal mar dende nyalo lokore, chal mage mag kwiri to dong' machalre."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-Gima iluongo ni surface tension timore nikech molekul mag pi manitiere gi e wi pi gimalo omakore motegno gi jowetegi moloyo kaka gimakore gi mag yamo manitiere e wi gi.,science/technology,N/A,"""Gima iluongo ni surface tension timore nikech molekul mag pi manitiere gi e wi pi gimalo omakore motegno gi jowetegi moloyo kaka gimakore gi mag yamo manitiere e wi gi."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: physics</s>"
-Achiel kwom chandruoge ma kinde ka kinde sama itemo loko sinema obedi e yor DVD en overscan.,science/technology,entertainment,"""Achiel kwom chandruoge ma kinde ka kinde sama itemo loko sinema obedi e yor DVD en overscan."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: entertainment</s>"
-"Ahinya ahinya, iwachoni ng'ato nyalo fwenyo ka ng'ato riambo ka iloko kaka otimo suche eyo makare.",science/technology,travel,"""Ahinya ahinya, iwachoni ng'ato nyalo fwenyo ka ng'ato riambo ka iloko kaka otimo suche eyo makare."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-Dhahabu inyalo losgo kido duto mopogore opogore. Inyalo dole e kido moko matindo tindo.,science/technology,travel,"""Dhahabu inyalo losgo kido duto mopogore opogore. Inyalo dole e kido moko matindo tindo."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Chenro mar AI koro ni ihinyo ti go e yore mag weche yuto, thieth, tije injinia, to kod lweny, mana kaka osegergi ei komyuta mag pacho gi progrembe mag tuke kompyuta buora.",science/technology,N/A,"""Chenro mar AI koro ni ihinyo ti go e yore mag weche yuto, thieth, tije injinia, to kod lweny, mana kaka osegergi ei komyuta mag pacho gi progrembe mag tuke kompyuta buora."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: tech</s>"
-"Pod ilose nyaka kawuono, to mochuno moloyo en ni aspect ratio mage osekopi kod kit ranen mag picha ei kamera manyien mag dijitol.",science/technology,N/A,"""Pod ilose nyaka kawuono, to mochuno moloyo en ni aspect ratio mage osekopi kod kit ranen mag picha ei kamera manyien mag dijitol."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: tech</s>"
-"Chik mithor yany, kendo ithor nyier, mar achiel kuom adek en gima yot maloso gik mopogre ka keto kwe maber e picha.",science/technology,sports,"""Chik mithor yany, kendo ithor nyier, mar achiel kuom adek en gima yot maloso gik mopogre ka keto kwe maber e picha."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: sports</s>"
-"Ma ok hul ahula kende ni moko kuom dinosau ne nitiere kod yier del, thiori ma bende oselandore malach ahinya, to bende ochiwo weche matut ahinya ma choke minono pile ok nyal chiwo, kaka rangi kod kaka nochan dendgi.",science/technology,travel,"""Ma ok hul ahula kende ni moko kuom dinosau ne nitiere kod yier del, thiori ma bende oselandore malach ahinya, to bende ochiwo weche matut ahinya ma choke minono pile ok nyal chiwo, kaka rangi kod kaka nochan dendgi."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-Ere kaka teko mayuayo gikmoko mar dwe Io nyalo ywaya? Kichung' e dweno mar Io to kar romb pek mari dhi dok chien mololo ka in e Piny ka.,science/technology,travel,"""Ere kaka teko mayuayo gikmoko mar dwe Io nyalo ywaya? Kichung' e dweno mar Io to kar romb pek mari dhi dok chien mololo ka in e Piny ka."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-NextGen en chenro ma FAA lieko ni biro miyo ndeke huyo koluwo yore machiegni kendo biro konyo depe tara mag mo e higa ka higa kendo duoko chien kar romb kabon ma ndeke golo.,science/technology,N/A,"""NextGen en chenro ma FAA lieko ni biro miyo ndeke huyo koluwo yore machiegni kendo biro konyo depe tara mag mo e higa ka higa kendo duoko chien kar romb kabon ma ndeke golo."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: tech</s>"
-"Deta mag neurobaoloji chiwo neno ma ayanga e yore mag thiori mag timo nonro mag dongruok mar obuongo. Kwom mano, oketo nonro no bedo mayot kendo mochimo gino sie.",science/technology,sports,"""Deta mag neurobaoloji chiwo neno ma ayanga e yore mag thiori mag timo nonro mag dongruok mar obuongo. Kwom mano, oketo nonro no bedo mayot kendo mochimo gino sie."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: sports</s>"
-"E sechege ariyo mane okawo kowuoyo, nowacho ni “Kawuono kambi mar Apple dhi loso simono kendo, Wadhi loso sigana kawuono”.",science/technology,N/A,"""E sechege ariyo mane okawo kowuoyo, nowacho ni “Kawuono kambi mar Apple dhi loso simono kendo, Wadhi loso sigana kawuono”."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: tech</s>"
-"Rach kiyo mamedo duong' gikmoko, en ni kaka nenogi tek gi namba mar gig kiyo ma gidwaro mondo iyud borgi ng'eny kendo duong', moloyo mar kiyo mamoko.",science/technology,travel,"""Rach kiyo mamedo duong' gikmoko, en ni kaka nenogi tek gi namba mar gig kiyo ma gidwaro mondo iyud borgi ng'eny kendo duong', moloyo mar kiyo mamoko."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Ka ochalgi rimot mar tivi, controller tiyogi sensors ariyo moket but tivi mond o triangulate position ne e three dimensional space.",science/technology,N/A,"""Ka ochalgi rimot mar tivi, controller tiyogi sensors ariyo moket but tivi mond o triangulate position ne e three dimensional space."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: tech</s>"
-"Josayans wacho ni pien lee ni nerabuor gi malo, to buoye ne ratong' kendo kuar.",science/technology,travel,"""Josayans wacho ni pien lee ni nerabuor gi malo, to buoye ne ratong' kendo kuar."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Kwiri ariyo go nywandore gi nyawadgi kaeto giloso kite moko manyalo tamo nyarogno tiyo, jotim nonro manitiere e mbalarianyno nowacho.",science/technology,travel,"""Kwiri ariyo go nywandore gi nyawadgi kaeto giloso kite moko manyalo tamo nyarogno tiyo, jotim nonro manitiere e mbalarianyno nowacho."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-Maye chiwo ler mar picha motegno maloyo mar 35 mm negative (3136 mm2 versus 864) gi manyalo romo nyading'wen,science/technology,entertainment,"""Maye chiwo ler mar picha motegno maloyo mar 35 mm negative (3136 mm2 versus 864) gi manyalo romo nyading'wen"" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: entertainment</s>"
-"Erokamano ne weyini mag fiber optic mag bwo nam moringo ei Ulaya to kod intanet motegno, piny mar Greenlad nikod tudruok malong'o kendo atamalo 93 mar kwan jok modak kuno nikod thuolo mar tiyo gi intanet.",science/technology,N/A,"""Erokamano ne weyini mag fiber optic mag bwo nam moringo ei Ulaya to kod intanet motegno, piny mar Greenlad nikod tudruok malong'o kendo atamalo 93 mar kwan jok modak kuno nikod thuolo mar tiyo gi intanet."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: tech</s>"
-"Achiel kuom progrembe mong'ere ahinya manie grubni en Google Translate, ma chiwo thuolo mar loko weche kata onge intanet bang' tielo data mag dhok midwa lokie no eie.",science/technology,N/A,"""Achiel kuom progrembe mong'ere ahinya manie grubni en Google Translate, ma chiwo thuolo mar loko weche kata onge intanet bang' tielo data mag dhok midwa lokie no eie."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: tech</s>"
-"En kod gedo machalre mar molekul kata ka en kaka iro, gima liw, kata duolo.",science/technology,travel,"""En kod gedo machalre mar molekul kata ka en kaka iro, gima liw, kata duolo."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Tiyo kod picha mar vidio osekelo fuenyruoge moko madongo e loko tie ranyisi mag del, chapni mag wang' matimore e nyiriri machuok ahinya.",science/technology,entertainment,"""Tiyo kod picha mar vidio osekelo fuenyruoge moko madongo e loko tie ranyisi mag del, chapni mag wang' matimore e nyiriri machuok ahinya."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: entertainment</s>"
-Dhano osebedo ka loso kendo tiyo gi gige miyo gik moko bed madongo higa gana gi gana.,science/technology,travel,"""Dhano osebedo ka loso kendo tiyo gi gige miyo gik moko bed madongo higa gana gi gana."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Ok en kende kata kamano, timo pim mag nonro, to pim mar nonro en pim mitiyo go kuom tieko paro achiel kata modhuro, penjo penjo, to gi chiwo paro bende tayo nonro mag sayans.",science/technology,travel,"""Ok en kende kata kamano, timo pim mag nonro, to pim mar nonro en pim mitiyo go kuom tieko paro achiel kata modhuro, penjo penjo, to gi chiwo paro bende tayo nonro mag sayans."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"E giko, tielo molos kod yien ne oloki kod tielo mar chumb nyinyo. Ehiga 1767, nyinyo mokuongo mag gach reru ne okel.",science/technology,travel,"""E giko, tielo molos kod yien ne oloki kod tielo mar chumb nyinyo. Ehiga 1767, nyinyo mokuongo mag gach reru ne okel."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"E seche me kadi mang'eny ber e goyo simu kamoro amora, moko to ochimore mana gi chiwo nengo mapiny mar goyo simu ne grup mag pinje moko.",science/technology,N/A,"""E seche me kadi mang'eny ber e goyo simu kamoro amora, moko to ochimore mana gi chiwo nengo mapiny mar goyo simu ne grup mag pinje moko."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: tech</s>"
-Thoth turbin ma nyasani mag timo nonro gin gigo malich ahinya ei gwenge maboyo boyo manitiere kod chal mar kor lwasi makare.,science/technology,travel,"""Thoth turbin ma nyasani mag timo nonro gin gigo malich ahinya ei gwenge maboyo boyo manitiere kod chal mar kor lwasi makare."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-Sindan lewre ewi pii nikech sayans mar surface tension.,science/technology,travel,"""Sindan lewre ewi pii nikech sayans mar surface tension."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Kido mar 35mm kuom adier, en aena 36mm e lach gi 24mm e bor.",science/technology,N/A,"""Kido mar 35mm kuom adier, en aena 36mm e lach gi 24mm e bor."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: military</s>"
-"Sel gin gik mochuno kendo malich ahinya e puonjruok ewi ngima dhano, kuom adier, ma koro kuom kinde mang'eny iluongo gi ni “kite mag gero ngima”.",science/technology,travel,"""Sel gin gik mochuno kendo malich ahinya e puonjruok ewi ngima dhano, kuom adier, ma koro kuom kinde mang'eny iluongo gi ni “kite mag gero ngima”."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-Chenro mag VPN (virtual private network) mar ng'ato owuon gin chenro mabeyo ahinya e mwomo rageng' ma sirkal keto e weche mag tudruok e mbui kaachiel kod rageng' ma weg ohala moko keto e geng'o adres mag IP mag tudruok gi kwonde mamoko mag piny.,science/technology,N/A,"""Chenro mag VPN (virtual private network) mar ng'ato owuon gin chenro mabeyo ahinya e mwomo rageng' ma sirkal keto e weche mag tudruok e mbui kaachiel kod rageng' ma weg ohala moko keto e geng'o adres mag IP mag tudruok gi kwonde mamoko mag piny."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: tech</s>"
-"Tesend no nochungo masinde ge motegno, kata obedo ni ne giwito jairoskop motelo chien kacha e tije mag kor lwasi mag tesendno, nyaka e giko wuodh mar kor lwasi no.",science/technology,travel,"""Tesend no nochungo masinde ge motegno, kata obedo ni ne giwito jairoskop motelo chien kacha e tije mag kor lwasi mag tesendno, nyaka e giko wuodh mar kor lwasi no."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Joma nikod paro ainani wigi ler, ginyalo paro ranyisi, ginyalo yudo dwoko mar sida, kendo ginyalo tiyo e nonro mag sayans.",science/technology,health,"""Joma nikod paro ainani wigi ler, ginyalo paro ranyisi, ginyalo yudo dwoko mar sida, kendo ginyalo tiyo e nonro mag sayans."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: health</s>"
-"Ondieg ocelot ohero chamo lee matindo. Gimako ong'eche, thuonde, oyieyo kod winy ka ginyalo. Chiegni lee duto ma ondieg ocelot pedho gin matindo ahinya moloyo kaka en.",science/technology,travel,"""Ondieg ocelot ohero chamo lee matindo. Gimako ong'eche, thuonde, oyieyo kod winy ka ginyalo. Chiegni lee duto ma ondieg ocelot pedho gin matindo ahinya moloyo kaka en."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Kamera moko tiyo kod filim mar 6 kod 6 sentimeta, ahinya ahinya 56 kod 56 milimeta.",science/technology,entertainment,"""Kamera moko tiyo kod filim mar 6 kod 6 sentimeta, ahinya ahinya 56 kod 56 milimeta."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: entertainment</s>"
-"Jowuoth ikwayo matek, mondo obed kong'eyo masira ekuondegi, minyal kel kod chal marach mar kor lwasi, nikech nyalo ketho wuodhegi.",travel,travel,"""Jowuoth ikwayo matek, mondo obed kong'eyo masira ekuondegi, minyal kel kod chal marach mar kor lwasi, nikech nyalo ketho wuodhegi."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Bas wuokga e tesen mar bas motudo distrige (ing'ado aora) e seche duto e odiechieng', kata kamano thothgi, ahinya ahinya mago madhi ugwe kod Jakar/Bumthang wuok ga e kind 06:30 kod 07:30.",travel,travel,"""Bas wuokga e tesen mar bas motudo distrige (ing'ado aora) e seche duto e odiechieng', kata kamano thothgi, ahinya ahinya mago madhi ugwe kod Jakar/Bumthang wuok ga e kind 06:30 kod 07:30."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-Gichiwo tegno mochwiny ne jariembo to ginyalo bedo kod ng'ikni eritruot nikech tie jariembo nyalo moko eiye.,travel,travel,"""Gichiwo tegno mochwiny ne jariembo to ginyalo bedo kod ng'ikni eritruot nikech tie jariembo nyalo moko eiye."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Thoth meli modhial mag Baltic Cruise nikod chenro machiwo thuolo mar dak kwom ndalo mathoth ei St. Petersburg, Russia.",travel,travel,"""Thoth meli modhial mag Baltic Cruise nikod chenro machiwo thuolo mar dak kwom ndalo mathoth ei St. Petersburg, Russia."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Paro michiwo no okao ni jowuoth ok kwel, ok mwuom kiew, okdonjre e ohelni ma ok opuodhi, ok kwechi kata ok tii marach gi ji mamoko ne ber ma mekgi gin giwegi.",travel,travel,"""Paro michiwo no okao ni jowuoth ok kwel, ok mwuom kiew, okdonjre e ohelni ma ok opuodhi, ok kwechi kata ok tii marach gi ji mamoko ne ber ma mekgi gin giwegi."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Nitie gik mang'eny ma onego ing'i ka pok idhi wuoth, togi ka isedhii wuoth kamoro.",travel,travel,"""Nitie gik mang'eny ma onego ing'i ka pok idhi wuoth, togi ka isedhii wuoth kamoro."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Ei lot mar odieching', jowuoth nyalo neno gik marieny ka rang'i machalo gi pi (kata gik mamoko).",travel,travel,"""Ei lot mar odieching', jowuoth nyalo neno gik marieny ka rang'i machalo gi pi (kata gik mamoko)."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Joot man gi nyithindo tek neno, to magawa moko oyienegi miyogi kar kendgi.",travel,travel,"""Joot man gi nyithindo tek neno, to magawa moko oyienegi miyogi kar kendgi."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Kwom ranyisi inyalo limo ohingni manitiere ei Loire Valley, Rhine Valley kata idho yie madhi kwonde moko mabecho mag aoch Danube kata ringo gi yie kokalo ei aora mokuny mar Erie Canal.",travel,travel,"""Kwom ranyisi inyalo limo ohingni manitiere ei Loire Valley, Rhine Valley kata idho yie madhi kwonde moko mabecho mag aoch Danube kata ringo gi yie kokalo ei aora mokuny mar Erie Canal."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Nyalo bedo maber tiyo kod jotelo matiyo pile, ekar ng'ado otiko machal kod meki.",travel,travel,"""Nyalo bedo maber tiyo kod jotelo matiyo pile, ekar ng'ado otiko machal kod meki."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-Couchsurfing ne olos e due mar achiel iga 2004 bang' kane computer programmer Casey Fenton noyudo ndege mabeche yot madhi Iceland lakini ne oonge kar dak.,travel,travel,"""Couchsurfing ne olos e due mar achiel iga 2004 bang' kane computer programmer Casey Fenton noyudo ndege mabeche yot madhi Iceland lakini ne oonge kar dak."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Barua mar dak epiny machielo mar Japuonjre nikod dwaro mopogre kod kaka imanye, kipimo kod barup dak mar welo kata mar jo-ohala.",travel,travel,"""Barua mar dak epiny machielo mar Japuonjre nikod dwaro mopogre kod kaka imanye, kipimo kod barup dak mar welo kata mar jo-ohala."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-Piny ka piny bende nitiere kod chike makende maduaro ni gin gikmage mag konyo masira ma apoya monego oketi ei mtokni.,travel,travel,"""Piny ka piny bende nitiere kod chike makende maduaro ni gin gikmage mag konyo masira ma apoya monego oketi ei mtokni."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Kata obedo ni kembe mang'eny duaro ni otim ng'eto mag otiko mapile mang'eny, jotijegi mang'eny ochomore kod migepe makende mag wuoth, bajet mopogore opogore kata kata kwonde wuoth mopogore opogore.",travel,travel,"""Kata obedo ni kembe mang'eny duaro ni otim ng'eto mag otiko mapile mang'eny, jotijegi mang'eny ochomore kod migepe makende mag wuoth, bajet mopogore opogore kata kata kwonde wuoth mopogore opogore."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-Jowuoth nyalo romo gi kute ma ok chalre gi ma ging'iyogo dala gi.,travel,travel,"""Jowuoth nyalo romo gi kute ma ok chalre gi ma ging'iyogo dala gi."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Bende kochimo yo nyandwat, lim Sang'tuari mar Our Lady of Fatima (kama ler), kama ong'ere e piny mangima kaka kar jachiend Marian.",travel,N/A,"""Bende kochimo yo nyandwat, lim Sang'tuari mar Our Lady of Fatima (kama ler), kama ong'ere e piny mangima kaka kar jachiend Marian."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: culture</s>"
-Inyalo tiyo kod boda-boda (taksi mar pikipiki) mondo ichop Goma. Nengo ma pile (mar aluorano) en Franc mar Kongo ~500 kwom ng'wech mar kinde machwok.,travel,travel,"""Inyalo tiyo kod boda-boda (taksi mar pikipiki) mondo ichop Goma. Nengo ma pile (mar aluorano) en Franc mar Kongo ~500 kwom ng'wech mar kinde machwok."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Ne jok mohero timo gik mitimo oko, wuotho gi tielo kochimo Sea to Sky en gima ochuno ahinya.",travel,travel,"""Ne jok mohero timo gik mitimo oko, wuotho gi tielo kochimo Sea to Sky en gima ochuno ahinya."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Wuoth mar bungu (ma kendo iluongo ni “wuodh bungu”, “twenyo kuonde moko”, kata dhii “kiwuotho”) oting'o idho gode, e saa matin kata odichienge mang'eny.",travel,travel,"""Wuoth mar bungu (ma kendo iluongo ni “wuodh bungu”, “twenyo kuonde moko”, kata dhii “kiwuotho”) oting'o idho gode, e saa matin kata odichienge mang'eny."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-Yo kende manewanyalo ore godo piyo en kaka misigo mang'ato dhigodo. Chike mag ndege masani okoyie ni osigo dhi kende maonge jawuoth makowe.,travel,travel,"""Yo kende manewanyalo ore godo piyo en kaka misigo mang'ato dhigodo. Chike mag ndege masani okoyie ni osigo dhi kende maonge jawuoth makowe."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Komed 300 tokele nyaka 1,300 mag bogi miduaro mondo odwok diruok chien.",travel,travel,"""Komed 300 tokele nyaka 1,300 mag bogi miduaro mondo odwok diruok chien."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Jo-ot man kod nyithindo matindo nyalo dwaro ikruok makende, to wuok oko dichiel bende nyalore kata kain kod nyithindo miting'o gi mapok ochako dhii skul.",travel,travel,"""Jo-ot man kod nyithindo matindo nyalo dwaro ikruok makende, to wuok oko dichiel bende nyalore kata kain kod nyithindo miting'o gi mapok ochako dhii skul."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Ng'ato ang'ata madhi riembo mtoka e kwonde moting'ore gi malo kata e yore mokadho e got onego opar ni nitiere nyalruok mar rodhno kod ong'weng'u, baraf, kata koyo malich miwuoro.",travel,travel,"""Ng'ato ang'ata madhi riembo mtoka e kwonde moting'ore gi malo kata e yore mokadho e got onego opar ni nitiere nyalruok mar rodhno kod ong'weng'u, baraf, kata koyo malich miwuoro."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Kawuono, Timbuktu en boma modhier miwuoro, kata obedo ni lich mar nyinge miyo olombo wang' jotim limbe, to kendo en kod paw ndeke.",travel,travel,"""Kawuono, Timbuktu en boma modhier miwuoro, kata obedo ni lich mar nyinge miyo olombo wang' jotim limbe, to kendo en kod paw ndeke."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Ndalo mag kodh pe gi yamo, pe moromo manyalo miyo imoki nyalo lwar e kinde machuok ahinya.",travel,travel,"""Ndalo mag kodh pe gi yamo, pe moromo manyalo miyo imoki nyalo lwar e kinde machuok ahinya."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Kidwaro fuyo kiluoro piny duto nyaka milambo mar piny, yiero mar ndeke kod kumaidhiye tin, nikech onge yore matudore minyal lu ewii nam.",travel,travel,"""Kidwaro fuyo kiluoro piny duto nyaka milambo mar piny, yiero mar ndeke kod kumaidhiye tin, nikech onge yore matudore minyal lu ewii nam."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Kembe ndeke kaka Emirates, Etihad Airways, Qatar Airways kod Turkish Airines osemedo ahinya tije mekgi e Africa, kendo giketo tudruok e bombe madongo mag Africa gi nengo mabeyo maloyo mag kembe mamoko mag Ulaya.",travel,travel,"""Kembe ndeke kaka Emirates, Etihad Airways, Qatar Airways kod Turkish Airines osemedo ahinya tije mekgi e Africa, kendo giketo tudruok e bombe madongo mag Africa gi nengo mabeyo maloyo mag kembe mamoko mag Ulaya."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Onge yor wuoth moro amora malang' mitiyogo, geche mag reru bende okbi chung' Wembley, kendo gig yiengo gi idho (ngware) bende onge.",travel,sports,"""Onge yor wuoth moro amora malang' mitiyogo, geche mag reru bende okbi chung' Wembley, kendo gig yiengo gi idho (ngware) bende onge."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: sports</s>"
-"Kwom mago duto, bedo ei piny mawendo kwom thuolo mar kinde momedi biro duaro ni mondo imany barua mar visa e thuolo motelo.",travel,travel,"""Kwom mago duto, bedo ei piny mawendo kwom thuolo mar kinde momedi biro duaro ni mondo imany barua mar visa e thuolo motelo."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-gari ya moshi moro amora nikod geche mag Metroplus to kod Metro koch. geche mag Metroplus yudre e stesend gari machiegni kod Cape Town,travel,travel,"""gari ya moshi moro amora nikod geche mag Metroplus to kod Metro koch. geche mag Metroplus yudre e stesend gari machiegni kod Cape Town"" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-Ng'ato ka ng'ato riwore ei oganda kendo tiyo kond chenro mag wuodhi. Chiegni ni ng'ato ka ng'ato ng'ur e wi chenro mag wuoth.,travel,travel,"""Ng'ato ka ng'ato riwore ei oganda kendo tiyo kond chenro mag wuodhi. Chiegni ni ng'ato ka ng'ato ng'ur e wi chenro mag wuoth."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Nikech kwan matin mag ji ema odak kuno, kendo gik mageng'o ler bende tin miwuoro, ibiro bedo gi mor mar nyalo neno sulwego manitie e kor polo.",travel,sports,"""Nikech kwan matin mag ji ema odak kuno, kendo gik mageng'o ler bende tin miwuoro, ibiro bedo gi mor mar nyalo neno sulwego manitie e kor polo."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: sports</s>"
-"Gige visa midwaro kod bechgi opogore kuom piny ka piny, kendo oluwore gi piny ma iwuokie.",travel,travel,"""Gige visa midwaro kod bechgi opogore kuom piny ka piny, kendo oluwore gi piny ma iwuokie."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"E wuoyo ma pile, onge kata tiende kwayo ng'eto mar nengo ne idho klas mar jo ohala kata klas mokuongo e ndege ma achiel kachiel kowuok A nyaka B.",travel,travel,"""E wuoyo ma pile, onge kata tiende kwayo ng'eto mar nengo ne idho klas mar jo ohala kata klas mokuongo e ndege ma achiel kachiel kowuok A nyaka B."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-Wito bao mar bumerang' en lony mong'ere ahinya ma jotim limbe mathoth gombo bedogo.,travel,N/A,"""Wito bao mar bumerang' en lony mong'ere ahinya ma jotim limbe mathoth gombo bedogo."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: military</s>"
-Ndege no ok ema inyalo tiyogo kende ka dipo ni idwa kalo Pacific ma Milambo to kod wedhe ma imbo mar Amerka ma Milambo. (rang piny kacha).,travel,N/A,"""Ndege no ok ema inyalo tiyogo kende ka dipo ni idwa kalo Pacific ma Milambo to kod wedhe ma imbo mar Amerka ma Milambo. (rang piny kacha)."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: military</s>"
-"San Francisco osetimo dongruok maduong' ne weche timo limbe ka gintiere kod otende modhuro, magawa, to kod kuonde ma nyangafu mag timo romo.",travel,travel,"""San Francisco osetimo dongruok maduong' ne weche timo limbe ka gintiere kod otende modhuro, magawa, to kod kuonde ma nyangafu mag timo romo."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-Chiwruok e seche mag timo wuodhi en yo malich ahinya mar kelo lokruok mak mana ni ok onego time atima ni ji time.,travel,travel,"""Chiwruok e seche mag timo wuodhi en yo malich ahinya mar kelo lokruok mak mana ni ok onego time atima ni ji time."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-Ji oknyal bedo gi paro moro ni horuok kod winjo bende gin gik mowijore ahinya ne jowuoth maduogo pacho.,travel,travel,"""Ji oknyal bedo gi paro moro ni horuok kod winjo bende gin gik mowijore ahinya ne jowuoth maduogo pacho."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Kik wiyi wil gi riwo nyaka omenda malang' mag visa mamoko, osuru mar wuok, wuodhi mag lowo, to kod mamoko ne kuonde go duto manitiere oko mar Afrika.",travel,travel,"""Kik wiyi wil gi riwo nyaka omenda malang' mag visa mamoko, osuru mar wuok, wuodhi mag lowo, to kod mamoko ne kuonde go duto manitiere oko mar Afrika."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-Jodak mathoth mag Bishek ne oketo ng'ur e wi jong'anyo mawuok milambo ne weche mag ketho chik mane otimore go.,politics,sports,"""Jodak mathoth mag Bishek ne oketo ng'ur e wi jong'anyo mawuok milambo ne weche mag ketho chik mane otimore go."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: sports</s>"
-"Kuonde masani epiny Belgium, negin gwenge mag piny Luxembourg endalo mokalo, tonegi bedo mar Belgium bang' tungni mag dhaw mar 1830 epiny Belgium.",politics,travel,"""Kuonde masani epiny Belgium, negin gwenge mag piny Luxembourg endalo mokalo, tonegi bedo mar Belgium bang' tungni mag dhaw mar 1830 epiny Belgium."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Chakre e higa mar 1988, sanduge mag luto ombulu nyaka bed ma korgi rieny mondo mi jolut ombulu kod joneno oyang ni onge kura mora mora mabedo eigi kapok ochak luto ombulu, kendo bende ni onge moko momedi mak mana ma oketi gi jolut ombulu mokwan kendo mopuodhi.",politics,sports,"""Chakre e higa mar 1988, sanduge mag luto ombulu nyaka bed ma korgi rieny mondo mi jolut ombulu kod joneno oyang ni onge kura mora mora mabedo eigi kapok ochak luto ombulu, kendo bende ni onge moko momedi mak mana ma oketi gi jolut ombulu mokwan kendo mopuodhi."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: sports</s>"
-Minista Maduong' ma kojolo Julia Gillard nolieko e kinde sero ombulu mar yiero maduong' ma 2010 ni ne en kod yie ni ni Australia onego chung kar kende kaka piny bang' loch mar Queen Elizabeth II.,politics,politics,"""Minista Maduong' ma kojolo Julia Gillard nolieko e kinde sero ombulu mar yiero maduong' ma 2010 ni ne en kod yie ni ni Australia onego chung kar kende kaka piny bang' loch mar Queen Elizabeth II."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: World politics</s>"
-Sirkand Ireland jiwo ka chuno mondo tim lokruok mar pend chike e od bura mapiyo piyo mondo olos kethruogno.,politics,travel,"""Sirkand Ireland jiwo ka chuno mondo tim lokruok mar pend chike e od bura mapiyo piyo mondo olos kethruogno."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Dwokruok kod weche ewi gwengego, medo ketho achiel ekind pinje-go mag Armenia gi Azerbaijan.",politics,N/A,"""Dwokruok kod weche ewi gwengego, medo ketho achiel ekind pinje-go mag Armenia gi Azerbaijan."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: military</s>"
-"Minista Maduong' Stephen Harper oseyie oro oboke mar piny owacho mar ‘Clean Air Act’ ne kamiti mar duonde duto mondo onone, ka pok osome mar ariyo, tok romo ma Tich Ariyo manokao dakika 25 e kinde gi jatend NDP Jack Layton ei PMO.",politics,N/A,"""Minista Maduong' Stephen Harper oseyie oro oboke mar piny owacho mar ‘Clean Air Act’ ne kamiti mar duonde duto mondo onone, ka pok osome mar ariyo, tok romo ma Tich Ariyo manokao dakika 25 e kinde gi jatend NDP Jack Layton ei PMO."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: Business</s>"
-"Dwe mokalo, nenitiere ng'anyo maduong' epiny Poland, kane piny owacho makono oketo kokgi e ACTA, maa osemiyo piny owacho okwedo winjruokno mar ACTA gisani.",politics,N/A,"""Dwe mokalo, nenitiere ng'anyo maduong' epiny Poland, kane piny owacho makono oketo kokgi e ACTA, maa osemiyo piny owacho okwedo winjruokno mar ACTA gisani."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: Business</s>"
-Siem gin agina weche matin manyiso kaka siasa dhii epiny moro.,politics,politics,"""Siem gin agina weche matin manyiso kaka siasa dhii epiny moro."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: politics</s>"
-"E ndalo yiero ma 1976 nong'ado ne Carter rieko e wi chike matayo gig pinje ma welo, kendo notiyo kaka jang'ad rieko ma en National Security Advisor (NSA) chakre 1977 nyaka 1981, ka nokao tijno kowuok kwom Henry Kissinger.",politics,N/A,"""E ndalo yiero ma 1976 nong'ado ne Carter rieko e wi chike matayo gig pinje ma welo, kendo notiyo kaka jang'ad rieko ma en National Security Advisor (NSA) chakre 1977 nyaka 1981, ka nokao tijno kowuok kwom Henry Kissinger."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: Business</s>"
-"Turkey bende ne onego okaw thuolo mar rito jokedo mag ISIS mane, wachno olero kaka, pinje mag Ulaya osedagi duoko e thuchegi.",politics,N/A,"""Turkey bende ne onego okaw thuolo mar rito jokedo mag ISIS mane, wachno olero kaka, pinje mag Ulaya osedagi duoko e thuchegi."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: military</s>"
-"Kata kamano, chenrogi ne owit oko gotienono, ka jolueny 800,000 mag Soviet Union Red Army nodonjo ma oloso ohinga mag piny Belarus kod piny Ukrain bang' monjo gwenge mag Ugwe mag piny Poland, kagiketho chik mar kwe maneokal maen Riga Peace Treaty, Soviet-Polish Non-Aggression Pact, gi iwinjruok mathoth mag pinje, mamoko gin ekind pinje ariyo to moko ekind pinje mathoth.",politics,N/A,"""Kata kamano, chenrogi ne owit oko gotienono, ka jolueny 800,000 mag Soviet Union Red Army nodonjo ma oloso ohinga mag piny Belarus kod piny Ukrain bang' monjo gwenge mag Ugwe mag piny Poland, kagiketho chik mar kwe maneokal maen Riga Peace Treaty, Soviet-Polish Non-Aggression Pact, gi iwinjruok mathoth mag pinje, mamoko gin ekind pinje ariyo to moko ekind pinje mathoth."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: military</s>"
-"Kaluwore gi okenge go, HJR-3 ibiro rangi kendo gi jo od bura manyien mibiro yier e higa mar 2015 kata mar 2016 mondo odhi nyime.",politics,N/A,"""Kaluwore gi okenge go, HJR-3 ibiro rangi kendo gi jo od bura manyien mibiro yier e higa mar 2015 kata mar 2016 mondo odhi nyime."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: education</s>"
-"Bang' ka nosekale kaka chik gi Od Bura Maduong' e dwe mar Julai tarik 4, otas manondikee gi lwedo manoketie sei kod Ker mar Od Bura Maduong' John Hancock kod Jagoro Charles Thomson noter ondamo moko machwok e duka mar goyo chapa mar John Dunlap.",politics,travel,"""Bang' ka nosekale kaka chik gi Od Bura Maduong' e dwe mar Julai tarik 4, otas manondikee gi lwedo manoketie sei kod Ker mar Od Bura Maduong' John Hancock kod Jagoro Charles Thomson noter ondamo moko machwok e duka mar goyo chapa mar John Dunlap."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Kinde machuok tok saa 11:00 otieno, jong'anyo ne ogeng'o ne mtokni e apaya maduong' ma nyanduat ei Whitehall.",politics,entertainment,"""Kinde machuok tok saa 11:00 otieno, jong'anyo ne ogeng'o ne mtokni e apaya maduong' ma nyanduat ei Whitehall."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: entertainment</s>"
-"Kata kamano, e dwe mar Jun 1956, singo mag Krushchev noketi e tem ka ne ng'anyo timore e piny mar Poland, kama ng'anyo mar jotich ne wach nok mar chiemo kod ng'eto mar osara margi nolokore ng'anyo maduong' makwedo jo Komunist.",politics,politics,"""Kata kamano, e dwe mar Jun 1956, singo mag Krushchev noketi e tem ka ne ng'anyo timore e piny mar Poland, kama ng'anyo mar jotich ne wach nok mar chiemo kod ng'eto mar osara margi nolokore ng'anyo maduong' makwedo jo Komunist."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: politics</s>"
-"Lwenyno nonego otiek higni 40 kendo ne idhi kede mar adier, gi jolwenj kedo mag pinje, e pewe mag lweny kochakore Afrika nyaka Asia, ei Afghanistan, Cuba to kod kwonde moko mathoth.",politics,N/A,"""Lwenyno nonego otiek higni 40 kendo ne idhi kede mar adier, gi jolwenj kedo mag pinje, e pewe mag lweny kochakore Afrika nyaka Asia, ei Afghanistan, Cuba to kod kwonde moko mathoth."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: military</s>"
-"Due mokadho, kamison mar kir ne owuoyo kapok jatelo mar CEP noweyo tich, kaka achiel kuom yore mohiki mondo osud pinyno ka dhi goyo ombulu manyien.",politics,N/A,"""Due mokadho, kamison mar kir ne owuoyo kapok jatelo mar CEP noweyo tich, kaka achiel kuom yore mohiki mondo osud pinyno ka dhi goyo ombulu manyien."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: Business</s>"
-"Thuon wach moko ma ne osesom gin kaka Jerusalem birobedo ndalo mabiro, ma en kamaler mar Nyasaye ne pinjego, kendo nyaka weche mag hoho Jordan.",politics,N/A,"""Thuon wach moko ma ne osesom gin kaka Jerusalem birobedo ndalo mabiro, ma en kamaler mar Nyasaye ne pinjego, kendo nyaka weche mag hoho Jordan."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: military</s>"
-Bende noonge kod teko mar buono chike mag osuru e kind pinjego.,politics,travel,"""Bende noonge kod teko mar buono chike mag osuru e kind pinjego."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-cheke meg yiero e piny ufaransa olero kaka gino onegotimre,politics,travel,"""cheke meg yiero e piny ufaransa olero kaka gino onegotimre"" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Bang' joge wito loch e yiero ma diere, Bush ne owuoyo gi jo-winjo kuom weche medruok mar ohala ei Asia.",politics,politics,"""Bang' joge wito loch e yiero ma diere, Bush ne owuoyo gi jo-winjo kuom weche medruok mar ohala ei Asia."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: World politics</s>"
-"Rieko neno notiyo, ng'ado oko kony madongo mag jolweny kod raia, kata ka geng'ono ne ok oluwo chike meke piny mangima manoketi kendo oyiego gi kuonde mang'eny mar senchari ariyo mokadho.",politics,travel,"""Rieko neno notiyo, ng'ado oko kony madongo mag jolweny kod raia, kata ka geng'ono ne ok oluwo chike meke piny mangima manoketi kendo oyiego gi kuonde mang'eny mar senchari ariyo mokadho."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-Tudruok e yore mag yuto oserie kendo e kind kwonde ariyogo mag Moldova kata obedo ni winjruok e yore mag siasa to pod otamore.,politics,politics,"""Tudruok e yore mag yuto oserie kendo e kind kwonde ariyogo mag Moldova kata obedo ni winjruok e yore mag siasa to pod otamore."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: politics</s>"
-"Kane okowe gi jotelogo, ne onyiso jo taon mar Texas ni okang' mar ritogi ne ikaw mondo orit hinyruok mar jopiny.",politics,sports,"""Kane okowe gi jotelogo, ne onyiso jo taon mar Texas ni okang' mar ritogi ne ikaw mondo orit hinyruok mar jopiny."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: sports</s>"
-Jo akwede motenore kod wach e wi nuocho mar gedono oseketo pachgi duto e yore ma ichiwogo orak mag nuocho mar gedogo ne jok mawachore ni gin jokanyo mag Wahington.,politics,sports,"""Jo akwede motenore kod wach e wi nuocho mar gedono oseketo pachgi duto e yore ma ichiwogo orak mag nuocho mar gedogo ne jok mawachore ni gin jokanyo mag Wahington."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: sports</s>"
-"Kuom ji 1,400 manotimnegi penjo mag nonro motelo ne yiero mar sirkal maduong' ma 2010, ji makwedo mondo Australia kik puodhi kaka piny ne omedore gi atamalo 8 chakre e higa mar 2008.",politics,travel,"""Kuom ji 1,400 manotimnegi penjo mag nonro motelo ne yiero mar sirkal maduong' ma 2010, ji makwedo mondo Australia kik puodhi kaka piny ne omedore gi atamalo 8 chakre e higa mar 2008."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-Jodiplomasia nowacho ni negiyudo chochni moromo e chike mag Afghan mondo ginyis kaka nuoyo ombulu en gima okochuno.,politics,N/A,"""Jodiplomasia nowacho ni negiyudo chochni moromo e chike mag Afghan mondo ginyis kaka nuoyo ombulu en gima okochuno."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: military</s>"
-"Bang' ka duoko nosewuok, Gingrich nopako Santorum, to ne en kod weche motegno ne Romney, ma bende e loe lendo maricho mag kampen e wi Gingrich nokee ei Iowa.",politics,politics,"""Bang' ka duoko nosewuok, Gingrich nopako Santorum, to ne en kod weche motegno ne Romney, ma bende e loe lendo maricho mag kampen e wi Gingrich nokee ei Iowa."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: politics</s>"
-En CEP mar Martelly mar abich kwom higni ang'wen.,politics,politics,"""En CEP mar Martelly mar abich kwom higni ang'wen."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: World politics</s>"
-"Jang'wech mane oloyo dhahabu ne onego opiem ego abal e mita mia achiel gi mita mia ariyo, kaka ihero, to kod ng'weje adek e tuke mag Commonwealth, kata kamano nikech ywagruok mare, ikruok mar ber dende niparo nyadiriyo.",sports,sports,"""Jang'wech mane oloyo dhahabu ne onego opiem ego abal e mita mia achiel gi mita mia ariyo, kaka ihero, to kod ng'weje adek e tuke mag Commonwealth, kata kamano nikech ywagruok mare, ikruok mar ber dende niparo nyadiriyo."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: sports</s>"
-"Kaachiel kod bedo ja amen mang'ula mar Olympic kod Piny mangima, Saito ne en jakom mar kamiti mar tiegruok e duol mar All Japan Judo Federation e kinde ma koro ne othoe no.",sports,sports,"""Kaachiel kod bedo ja amen mang'ula mar Olympic kod Piny mangima, Saito ne en jakom mar kamiti mar tiegruok e duol mar All Japan Judo Federation e kinde ma koro ne othoe no."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: sports</s>"
-Ogirmiti mar piem mar olimpik nogoyo ombulu mondo omed tuke e romo mar jotelo manotimre gwenge ma Berlin. Ttugo mar rugby kod mar golf noyier e kind tuke moko abich manilieko ni onegotug e tuke mag olimpik.,sports,sports,"""Ogirmiti mar piem mar olimpik nogoyo ombulu mondo omed tuke e romo mar jotelo manotimre gwenge ma Berlin. Ttugo mar rugby kod mar golf noyier e kind tuke moko abich manilieko ni onegotug e tuke mag olimpik."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: sports</s>"
-"Nyasi higa maduong' mar tugo timre dwe mar apargariyo, epap mar Polo mantie taon mar Las Cañitas.",sports,sports,"""Nyasi higa maduong' mar tugo timre dwe mar apargariyo, epap mar Polo mantie taon mar Las Cañitas."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: Sports</s>"
-"Nyaka nodar ka odhiyo e boma maduong' ma Catalonia no, Vidal osetugo tuke 49 ne klabno.",sports,sports,"""Nyaka nodar ka odhiyo e boma maduong' ma Catalonia no, Vidal osetugo tuke 49 ne klabno."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: Sports</s>"
-"Rito ngima man-gi teko maber, timbe maketo pii moromo edel, kendo winjo gik mopogore maonego imed edel, nyalo konyo jotugo timo maber, kendo medo heragi etugono.",sports,sports,"""Rito ngima man-gi teko maber, timbe maketo pii moromo edel, kendo winjo gik mopogore maonego imed edel, nyalo konyo jotugo timo maber, kendo medo heragi etugono."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: sports</s>"
-"E thuolo mar adek, Hamlin ni chien gi point piero ariyo, to en mbele mar Bowyer gi point abich. Kahne kod Truex, Jr. ni e thuolo mar abich kod auchiel moluwore gi point 2,220 kod 2,207.",sports,sports,"""E thuolo mar adek, Hamlin ni chien gi point piero ariyo, to en mbele mar Bowyer gi point abich. Kahne kod Truex, Jr. ni e thuolo mar abich kod auchiel moluwore gi point 2,220 kod 2,207."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: Sports</s>"
-Loch ma achiel ka achiel mane oloyogo Ja-Canada no en 7-2.,sports,sports,"""Loch ma achiel ka achiel mane oloyogo Ja-Canada no en 7-2."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: Sports</s>"
-Jarque ne timo orako e seche mane gitimo tiegruok mitimo ka pok ochak ndalo mag tuke ei Coverciano kocha e piny mar Italy e seche mag okinyi ma odiechieng'no. Ne odak e otel mar tim margi motelo ne tugo mane obagi e kindgi gi Bolonia chieng' Jumapil.,sports,sports,"""Jarque ne timo orako e seche mane gitimo tiegruok mitimo ka pok ochak ndalo mag tuke ei Coverciano kocha e piny mar Italy e seche mag okinyi ma odiechieng'no. Ne odak e otel mar tim margi motelo ne tugo mane obagi e kindgi gi Bolonia chieng' Jumapil."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: Sports</s>"
-"Luoro mar koso yo mar chopo kamoro, ne okelo wachmoro ni tugono inyalo biro chun matugi e i ot ma onge gi johera mag tugono.",sports,travel,"""Luoro mar koso yo mar chopo kamoro, ne okelo wachmoro ni tugono inyalo biro chun matugi e i ot ma onge gi johera mag tugono."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-Tommy Dreamer nowacho ni “Luna ema ne en Queen mokwongo mar Extreme. Meneja mara mokwongo. Luna ne otho e otieno mar dweche ariyo. Mana mayore yore kaka en. Dhako motegno ahinya”.,sports,entertainment,"""Tommy Dreamer nowacho ni “Luna ema ne en Queen mokwongo mar Extreme. Meneja mara mokwongo. Luna ne otho e otieno mar dweche ariyo. Mana mayore yore kaka en. Dhako motegno ahinya”."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: entertainment</s>"
-"Muofni madichuo mawuok piny Poland magin skier Maciej Krezel kod guide Anna Ogarzynska ne otieko kaka namba apar gi adek epiem mar Super-G. Ja South Korea manyinge Jong Seork Park, ne otieko kaka namba piero ariyo gi ang'wen etuk bedo mag chuo mar Super-G.",sports,sports,"""Muofni madichuo mawuok piny Poland magin skier Maciej Krezel kod guide Anna Ogarzynska ne otieko kaka namba apar gi adek epiem mar Super-G. Ja South Korea manyinge Jong Seork Park, ne otieko kaka namba piero ariyo gi ang'wen etuk bedo mag chuo mar Super-G."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: sports</s>"
-"Ne weche tuke kod kuonde nyiewo otiko mar tuke mag polo, dhi ng'i kod riwruok mar Asociacion Argentina de Polo.",sports,sports,"""Ne weche tuke kod kuonde nyiewo otiko mar tuke mag polo, dhi ng'i kod riwruok mar Asociacion Argentina de Polo."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: Sports</s>"
-"Tukego nochakore saa ang'wen gokinyi gi anga maber, kendo kopogre gi nyidho mar onyango mane orumo piyo, ne en odiochieng' maber ne jotugo magin 7's rugby.",sports,sports,"""Tukego nochakore saa ang'wen gokinyi gi anga maber, kendo kopogre gi nyidho mar onyango mane orumo piyo, ne en odiochieng' maber ne jotugo magin 7's rugby."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: sports</s>"
-Arly Velasquez mar Mexico notieko e thuolo mar apar kod abich e Super-G mar chuo makier kobet. Adam Hall mar New Zealand notieko e thuolo mar ochiko e Super-G mar chuo makier kochung' tir.,sports,sports,"""Arly Velasquez mar Mexico notieko e thuolo mar apar kod abich e Super-G mar chuo makier kobet. Adam Hall mar New Zealand notieko e thuolo mar ochiko e Super-G mar chuo makier kochung' tir."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: sports</s>"
-"Tugo mogik mar piem go biro timore e alap ma Elli Park ei Johanesburg juma manyien, kama Springbooks biro tugo gi Australia.",sports,travel,"""Tugo mogik mar piem go biro timore e alap ma Elli Park ei Johanesburg juma manyien, kama Springbooks biro tugo gi Australia."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-Seche ma piny ber to ibiro dhi atua maboyo ahinya moloyo kiwuotho - kata kamano ok ibihinyo kier gi ng'wech matek e baraf kionge gi bag mar ng'ech mapek mopangi malong'o ei othiwi.,sports,travel,"""Seche ma piny ber to ibiro dhi atua maboyo ahinya moloyo kiwuotho - kata kamano ok ibihinyo kier gi ng'wech matek e baraf kionge gi bag mar ng'ech mapek mopangi malong'o ei othiwi."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Ka en chien gi point abiriyo, Johnson nitiere e thuolo mar ariyo gi point 2,243.",sports,sports,"""Ka en chien gi point abiriyo, Johnson nitiere e thuolo mar ariyo gi point 2,243."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: Sports</s>"
-"Tugo mar mar leng'ruok e pi aora mamol (kata: canyoneering) en tugo ma ji donjoe e bwo hoho matut, mopong' gi pi kata motwo.",sports,travel,"""Tugo mar mar leng'ruok e pi aora mamol (kata: canyoneering) en tugo ma ji donjoe e bwo hoho matut, mopong' gi pi kata motwo."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Robin Uthappa ne oyudo loch mamalo mogik mag mulo kiew, ne oyudo ng'weye 70 kwom opiche 41, ka opichege nomulo kiew mar ang'wen di 11 to kod kiew mar auchiel di 2.",sports,sports,"""Robin Uthappa ne oyudo loch mamalo mogik mag mulo kiew, ne oyudo ng'weye 70 kwom opiche 41, ka opichege nomulo kiew mar ang'wen di 11 to kod kiew mar auchiel di 2."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: sports</s>"
-"Tuke mag ndalo chwiri timore ga ahinya ei gwenge ma Nyandwat, ka Jo-Italy piem ga e tuke mag pinje to kod tuke mag Olimpik.",sports,sports,"""Tuke mag ndalo chwiri timore ga ahinya ei gwenge ma Nyandwat, ka Jo-Italy piem ga e tuke mag pinje to kod tuke mag Olimpik."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: sports</s>"
-"Maroochydore notieko mokwongo ewi ngas, noyombo jalupne maen Noosa, kod point auchiel.",sports,sports,"""Maroochydore notieko mokwongo ewi ngas, noyombo jalupne maen Noosa, kod point auchiel."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: Sports</s>"
-"Michael Schumacher notieko ng'wech maok bor bang' Alonso, nikech kethruok mar saspenson, enyagruok kanoringo eng'wech.",sports,sports,"""Michael Schumacher notieko ng'wech maok bor bang' Alonso, nikech kethruok mar saspenson, enyagruok kanoringo eng'wech."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: Sports</s>"
-"Yore mag chiemo makare kende oknyal kelo duoko maber e tuke, to ginyalo loko ber mar dend jong'wech ma rowere gi kama duong' ahinya.",sports,travel,"""Yore mag chiemo makare kende oknyal kelo duoko maber e tuke, to ginyalo loko ber mar dend jong'wech ma rowere gi kama duong' ahinya."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-Ok osebedo gi nyalo mar muonyo yedhe madwarore mondo olo rem marame nikech ogogi marfuk e Tuke go.,sports,sports,"""Ok osebedo gi nyalo mar muonyo yedhe madwarore mondo olo rem marame nikech ogogi marfuk e Tuke go."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: sports</s>"
-Nonro oseyudo ni joma mime nyalo yudo tuo mar MS nyadiriyo maloyo joma chuo.,health,health,"""Nonro oseyudo ni joma mime nyalo yudo tuo mar MS nyadiriyo maloyo joma chuo."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: health</s>"
-"Kong'o ma okopwodhi nyalobedo kod chilo maricho mopogore opogore moriwo nyaka methanol, manyalo loko ng'ato muofu kata kelo tho kata kapo ni oti kode matin ahinya.",health,health,"""Kong'o ma okopwodhi nyalobedo kod chilo maricho mopogore opogore moriwo nyaka methanol, manyalo loko ng'ato muofu kata kelo tho kata kapo ni oti kode matin ahinya."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: health</s>"
-"Paro mar masira kende, ok kuyo kod luor, emanekelo gik malich amg chandruok, kanitimo tizi.",health,travel,"""Paro mar masira kende, ok kuyo kod luor, emanekelo gik malich amg chandruok, kanitimo tizi."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Bedo gi mtoka gi ji mang'eny bende kelo medruok mag masirni miyudo e apaya, mamiyo ifwenyo yore mamoko manyien motenore gi ngima dhano mar thieth mag del mohinyore.",health,travel,"""Bedo gi mtoka gi ji mang'eny bende kelo medruok mag masirni miyudo e apaya, mamiyo ifwenyo yore mamoko manyien motenore gi ngima dhano mar thieth mag del mohinyore."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Jononro motelo wachoni ma nyalo kelo fweny machon mag tuoche kaka kansa, tibi, ayaki, gi maleria ne jotuo manie epinje ma yutogi tin, kama kuo mar tuo kaka kansa mar thuno, nyalo bedo nus ne mar pinje man-gi yuto man malo.",health,travel,"""Jononro motelo wachoni ma nyalo kelo fweny machon mag tuoche kaka kansa, tibi, ayaki, gi maleria ne jotuo manie epinje ma yutogi tin, kama kuo mar tuo kaka kansa mar thuno, nyalo bedo nus ne mar pinje man-gi yuto man malo."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Laktar Ehud Ur, ngire mar weche thieth e Mbalariany mar Dalhousie ei Halifax, Nova Scottia, kendo jakom mar migao mar klinik kod sayans mar Riwruok mar Tuo sukari ma Kanada nochiwo siem ni nonro no pod nitiere e kindege mag chakruok.",health,travel,"""Laktar Ehud Ur, ngire mar weche thieth e Mbalariany mar Dalhousie ei Halifax, Nova Scottia, kendo jakom mar migao mar klinik kod sayans mar Riwruok mar Tuo sukari ma Kanada nochiwo siem ni nonro no pod nitiere e kindege mag chakruok."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Nyithindo ma kamagi kwom kinde mang'eny yudorega e chandruoge modhuro, mana nikech “gidonjore e timbe makelo masira, gidonjore e lweny, kendo giketho chike moketi gi jotendgi” ni eka mondo gijiw obwongo mekgi, nikech obwongo mekgi oknyal jiw gi yore mapile.",health,sports,"""Nyithindo ma kamagi kwom kinde mang'eny yudorega e chandruoge modhuro, mana nikech “gidonjore e timbe makelo masira, gidonjore e lweny, kendo giketho chike moketi gi jotendgi” ni eka mondo gijiw obwongo mekgi, nikech obwongo mekgi oknyal jiw gi yore mapile."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: sports</s>"
-"Dhano nyalohinyore kagiyueyo pii molil, moter ekor yamo kod auka gi apaka.",health,travel,"""Dhano nyalohinyore kagiyueyo pii molil, moter ekor yamo kod auka gi apaka."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-Ji moko paro ni parruok mang’eny makelo lek mag odiechieng' kuom kinde mang'eny kelo ga olo miwuoro.,health,travel,"""Ji moko paro ni parruok mang’eny makelo lek mag odiechieng' kuom kinde mang'eny kelo ga olo miwuoro."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Potro noyudo thieth egoke esechegi, topod nonyalo modok etugo.",health,sports,"""Potro noyudo thieth egoke esechegi, topod nonyalo modok etugo."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: Sports</s>"
-"E wi mano, weyo ma ok gitimo kamano nitiere kod chandruoge mager: dongo ma oksudi, kech mapek, kod thoye ma ok owinjore.",health,travel,"""E wi mano, weyo ma ok gitimo kamano nitiere kod chandruoge mager: dongo ma oksudi, kech mapek, kod thoye ma ok owinjore."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-Jotelo mag boma ma Amsterdam to kod ma Anne Frank Museum wacho ni yienno nitiere gi obuolo mar kute kend onyalo hinyo ngima jopiny ka giywak ni ochal gima nyalo gore piny saa asaya.,health,travel,"""Jotelo mag boma ma Amsterdam to kod ma Anne Frank Museum wacho ni yienno nitiere gi obuolo mar kute kend onyalo hinyo ngima jopiny ka giywak ni ochal gima nyalo gore piny saa asaya."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Od thieth no oseoluwo chike mag geng'o landruok mar tuo no, koriwo nyaka pogo jotuo go gi ji mamoko, mondo gigeng' nyalruok mar landore kuom ji mamoko.",health,travel,"""Od thieth no oseoluwo chike mag geng'o landruok mar tuo no, koriwo nyaka pogo jotuo go gi ji mamoko, mondo gigeng' nyalruok mar landore kuom ji mamoko."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Kar tiegruok man piny Haiti mar adiera kod demokrasia, notimo nonro kod somo mare kende ma wachoni jolweny Nepal ma jokelo kwe ebwo UN, ne okelo tuono e piny Haiti ka gikia.",health,politics,"""Kar tiegruok man piny Haiti mar adiera kod demokrasia, notimo nonro kod somo mare kende ma wachoni jolweny Nepal ma jokelo kwe ebwo UN, ne okelo tuono e piny Haiti ka gikia."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: World politics</s>"
-"Tuoche malandore owuon, kata lee mager manyalo hinyo kata nego ji gi thuon, e kinde duto ok giromo luongo ni kute maketho cham.",health,travel,"""Tuoche malandore owuon, kata lee mager manyalo hinyo kata nego ji gi thuon, e kinde duto ok giromo luongo ni kute maketho cham."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Nyithindo ma nitiere kod ADD bedo gi kinde matek e keto pachgi e gik machalo kaka tije skul, kata kamano ginyalo keto pachgi e timo gik ma gihero kaka tugo kata neno picha mag katun, kata ndiko weche ka ok giketo nyukta maber.",health,N/A,"""Nyithindo ma nitiere kod ADD bedo gi kinde matek e keto pachgi e gik machalo kaka tije skul, kata kamano ginyalo keto pachgi e timo gik ma gihero kaka tugo kata neno picha mag katun, kata ndiko weche ka ok giketo nyukta maber."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: education</s>"
-"Epiny higa achiel, jalno mankod tuo nyalo lande ne jii 10 nyaka 15 man machiegini kode.",health,travel,"""Epiny higa achiel, jalno mankod tuo nyalo lande ne jii 10 nyaka 15 man machiegini kode."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Kanedhaw orumo, bang' kane jomanohinyre noseter e kar thieth, chiegini jii 40 mane-odong' ejela nobedo oko, kendo negitamre dok kuondegi ei jela.",health,sports,"""Kanedhaw orumo, bang' kane jomanohinyre noseter e kar thieth, chiegini jii 40 mane-odong' ejela nobedo oko, kendo negitamre dok kuondegi ei jela."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: sports</s>"
-Lakteche ne ochak ndiki gi Ruoth Augustus kendo ne gi bedo lakteche mokwongo mag Roman Medical Corps mane otigo bang' lwenje go.,health,N/A,"""Lakteche ne ochak ndiki gi Ruoth Augustus kendo ne gi bedo lakteche mokwongo mag Roman Medical Corps mane otigo bang' lwenje go."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: military</s>"
-"Kata kamano, jariembo nohinyore matek e wiye.",health,travel,"""Kata kamano, jariembo nohinyore matek e wiye."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-“Koro wantiere kod oyiechni ma jo dweche ang'wen mane nitiere kod tuo sukari to koro sani gionge kod tuo no.”,health,travel,"""“Koro wantiere kod oyiechni ma jo dweche ang'wen mane nitiere kod tuo sukari to koro sani gionge kod tuo no.”"" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Sum maketho del gi e ich nyalo bedo ma oknen gikanyono. Ranyisi margi, kaka ng'ok oromo hulo ni yore mag thieth mapiyo piyo oknyal tim gi e sechego.",health,travel,"""Sum maketho del gi e ich nyalo bedo ma oknen gikanyono. Ranyisi margi, kaka ng'ok oromo hulo ni yore mag thieth mapiyo piyo oknyal tim gi e sechego."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Nikech kamano, jotugo madho njanga e stej kendo kanyo lombo joneno mondo odhioriwre kodgi emetho.",entertainment,sports,"""Nikech kamano, jotugo madho njanga e stej kendo kanyo lombo joneno mondo odhioriwre kodgi emetho."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: sports</s>"
-Jothum mar Aerosmith nochungo wuothegi mar dhii moro jopiny kod thum.,entertainment,entertainment,"""Jothum mar Aerosmith nochungo wuothegi mar dhii moro jopiny kod thum."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: entertainment</s>"
-"Kidwabedo machiegni kod gik matimre, to biro chuno idonj chon, mondo iket kambi machiegni kod kama ibirotime wer.",entertainment,travel,"""Kidwabedo machiegni kod gik matimre, to biro chuno idonj chon, mondo iket kambi machiegni kod kama ibirotime wer."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-Nitiere kido mang'eny mopogore opogore mag sinema mosetigo kwom higni modhuro. Kit sinema ma pile mar 35mm (negativ 36 di 24 mm) ema ojatigo ahinya.,entertainment,entertainment,"""Nitiere kido mang'eny mopogore opogore mag sinema mosetigo kwom higni modhuro. Kit sinema ma pile mar 35mm (negativ 36 di 24 mm) ema ojatigo ahinya."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: entertainment</s>"
-"E seche ma mano en gimatimore pile, Disney ok oyie kodgi: otiko go oknyal lok wegi.",entertainment,entertainment,"""E seche ma mano en gimatimore pile, Disney ok oyie kodgi: otiko go oknyal lok wegi."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: entertainment</s>"
-"Sura moro ka moro mar nyiso, biro ng'iyo thuon wach e buk achiel, kendo tiyo kod thuon wach, malos sigana mopogoreopogore. .",entertainment,travel,"""Sura moro ka moro mar nyiso, biro ng'iyo thuon wach e buk achiel, kendo tiyo kod thuon wach, malos sigana mopogoreopogore. ."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-Wang' jowi madongo buora ne ogur e kwonde mopogore opogore ei Rumi mondo ne omi ji thuolo mar neno nyasi no.,entertainment,N/A,"""Wang' jowi madongo buora ne ogur e kwonde mopogore opogore ei Rumi mondo ne omi ji thuolo mar neno nyasi no."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: culture</s>"
-Sophocles gi Arisophanes pod gin jondiko mag tuke drama marohuma kendo tukegi pod ineno kaka moko kuom tije malich ahinya e weche ndiko e piny mangima.,entertainment,N/A,"""Sophocles gi Arisophanes pod gin jondiko mag tuke drama marohuma kendo tukegi pod ineno kaka moko kuom tije malich ahinya e weche ndiko e piny mangima."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: culture</s>"
-Nyis moro ka moro mar tugono e wang' jowi ne walo buge ma nyithindo onego rangi ka gidhi e maktaba mekgi.,entertainment,travel,"""Nyis moro ka moro mar tugono e wang' jowi ne walo buge ma nyithindo onego rangi ka gidhi e maktaba mekgi."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"E-gir goyo thum manynge accordion, mondo imed duol mang'eny, itiyogi radii magin bellows man-gi muya kata maringo piyo.",entertainment,N/A,"""E-gir goyo thum manynge accordion, mondo imed duol mang'eny, itiyogi radii magin bellows man-gi muya kata maringo piyo."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: music</s>"
-"Inyalo neno piramid go e mudho, kendo inyalo neno gi ei ling' ka pok sinema no ochakore.",entertainment,entertainment,"""Inyalo neno piramid go e mudho, kendo inyalo neno gi ei ling' ka pok sinema no ochakore."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: entertainment</s>"
-"Ranyisi mar gigo minyalo tim kar limbe gin kaka dwar, lupo, goyo picha, neno winy, kod limo kuonde yueyo to kod puonjruok e weche mag ikoloji.",entertainment,travel,"""Ranyisi mar gigo minyalo tim kar limbe gin kaka dwar, lupo, goyo picha, neno winy, kod limo kuonde yueyo to kod puonjruok e weche mag ikoloji."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-Kido mopa mar Sphinx ema iketoga kaka jaler wach magoyo sigana no marabora.,entertainment,travel,"""Kido mopa mar Sphinx ema iketoga kaka jaler wach magoyo sigana no marabora."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"E kinde mang'eny gintiere ga kod chiwo moko makende mag chiemo, math, kod weche mag miyo ji mor, mondo giket welo obedi gi chuny mamor, kendo gibedi aming'a ei ute go.",entertainment,travel,"""E kinde mang'eny gintiere ga kod chiwo moko makende mag chiemo, math, kod weche mag miyo ji mor, mondo giket welo obedi gi chuny mamor, kendo gibedi aming'a ei ute go."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"E seche ma to koro gilendoe gi Dho-Ingresa gi Dho-Japan, kambi mar piny mangima no chuogo chenro mag Dho-Spain, Dho-Italy to kod Dho-Korea, ne wang' jowi, mbui, to kod gik ong'we yamo.",entertainment,travel,"""E seche ma to koro gilendoe gi Dho-Ingresa gi Dho-Japan, kambi mar piny mangima no chuogo chenro mag Dho-Spain, Dho-Italy to kod Dho-Korea, ne wang' jowi, mbui, to kod gik ong'we yamo."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Ka pok notiyo e The Simpsoms, Simon nosetiyo e tuke wang' jowi mathoth e rang'iny mopogore opogore.",entertainment,entertainment,"""Ka pok notiyo e The Simpsoms, Simon nosetiyo e tuke wang' jowi mathoth e rang'iny mopogore opogore."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: entertainment</s>"
-Mae biro yie ne jotugo mondo ota timruoge kog sweko e tuke mag vidio ka gifwayo masindno e kor yamo.,entertainment,entertainment,"""Mae biro yie ne jotugo mondo ota timruoge kog sweko e tuke mag vidio ka gifwayo masindno e kor yamo."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: entertainment</s>"
-"Ji ma ok tin ne 100 ne nitiere e nyasi no, mondo ne gitim nyasi mar rapar mokuongo mar jokeny ma arusgi ne oriw e higa mokalo.",entertainment,travel,"""Ji ma ok tin ne 100 ne nitiere e nyasi no, mondo ne gitim nyasi mar rapar mokuongo mar jokeny ma arusgi ne oriw e higa mokalo."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Wende ariyo moae movie, Temruok (Jomofuwo Maleko) kod Boma Mar Sulwe, ne oyudo puoch koket nying-gi kar wer maber mogik man kod chakruokne. Kar loso wer manyinge Lionsgate noyudo puoch koket nying-gi kuonde 26 - mang'eny moloyo jolos wer duto.",entertainment,entertainment,"""Wende ariyo moae movie, Temruok (Jomofuwo Maleko) kod Boma Mar Sulwe, ne oyudo puoch koket nying-gi kar wer maber mogik man kod chakruokne. Kar loso wer manyinge Lionsgate noyudo puoch koket nying-gi kuonde 26 - mang'eny moloyo jolos wer duto."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: entertainment</s>"
-Crust nitiere kod chwe manyalo romo kilomita 70 gi e bathe ko machiegni kendo gi kilomota 100 gi e bathe ko mabor.,geography,travel,"""Crust nitiere kod chwe manyalo romo kilomita 70 gi e bathe ko machiegni kendo gi kilomota 100 gi e bathe ko mabor."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-Mwalo Milambo nitie Niagara Falls kendo Nyandwat en dala mar gigo mapok omul kendo nigi ber mar gwenge Muskoka nyaka loka.,geography,travel,"""Mwalo Milambo nitie Niagara Falls kendo Nyandwat en dala mar gigo mapok omul kendo nigi ber mar gwenge Muskoka nyaka loka."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Piny Ellsworth en gwenge man Milambo mar dho wath, omakre gi nam mar Bellingshausen.",geography,travel,"""Piny Ellsworth en gwenge man Milambo mar dho wath, omakre gi nam mar Bellingshausen."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Barabara miluongoni South Pole Traverse (Apaya maduong') en kilomita 1,600 kiwuok steshen man McMurdo e Ross Sea kichomo tunge malo.",geography,travel,"""Barabara miluongoni South Pole Traverse (Apaya maduong') en kilomita 1,600 kiwuok steshen man McMurdo e Ross Sea kichomo tunge malo."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Ka iidho kichomo malo e tong' ma yo nyandwat mar Machu Picchu nitie got mochung' tir, kinde mathoth en e kama ji mang'eny goyoe picha.",geography,travel,"""Ka iidho kichomo malo e tong' ma yo nyandwat mar Machu Picchu nitie got mochung' tir, kinde mathoth en e kama ji mang'eny goyoe picha."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Gino manyinge Enceladus ema chero ler ahinya epiny mangima, ochero atamalo 90 mar ler tee moyudo koa kuom chieng'.",geography,travel,"""Gino manyinge Enceladus ema chero ler ahinya epiny mangima, ochero atamalo 90 mar ler tee moyudo koa kuom chieng'."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Onge gima inyal ne mopogre kod ler mar kor lwasi majaber man malo, kod gode mang'eny moluoro. Matin mar pinyni inyal nen kata winji, kain ei bugo.",geography,travel,"""Onge gima inyal ne mopogre kod ler mar kor lwasi majaber man malo, kod gode mang'eny moluoro. Matin mar pinyni inyal nen kata winji, kain ei bugo."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Koro ne Japan. Japan ne en piny mar chula, mana kaka piny mar Britain.",geography,N/A,"""Koro ne Japan. Japan ne en piny mar chula, mana kaka piny mar Britain."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: culture</s>"
-"Koger matek, yamo mar Tropical Cyclone Gonu mochak bag mar it yiend othith, kod dho jodak ma Maldives, nogik espid mar kilomita 240 e saa achiel. (mails 149 e saa achiel)",geography,travel,"""Koger matek, yamo mar Tropical Cyclone Gonu mochak bag mar it yiend othith, kod dho jodak ma Maldives, nogik espid mar kilomita 240 e saa achiel. (mails 149 e saa achiel)"" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Lach mar Turkey, koriwo nyaka nembe, okwako 783,562 square kilomita (300,948 sq mi), ma bende 755,688 square kilomita (291,773 sq mi) nitiere e milambo ma imbo mar Asia, to 23,764 square kilomita (9,174 sq mi) nitiere ei Ulaya.",geography,travel,"""Lach mar Turkey, koriwo nyaka nembe, okwako 783,562 square kilomita (300,948 sq mi), ma bende 755,688 square kilomita (291,773 sq mi) nitiere e milambo ma imbo mar Asia, to 23,764 square kilomita (9,174 sq mi) nitiere ei Ulaya."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Chulni mag Shetland ma Milambo, manofweny e higa mar 1819, oramee gi pinje buora kendo gin ema gintiere kod kwonde mathoth mag tiego jolweny, ka gintiere gi apar kod auchiel matiyo e higa mar 2020.",geography,travel,"""Chulni mag Shetland ma Milambo, manofweny e higa mar 1819, oramee gi pinje buora kendo gin ema gintiere kod kwonde mathoth mag tiego jolweny, ka gintiere gi apar kod auchiel matiyo e higa mar 2020."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Apia en boma maduong' ma piny mar Samoa. Bomano nitiere e chula mar Upolu kendo en kod kwan ji matin ne 40,000.",geography,travel,"""Apia en boma maduong' ma piny mar Samoa. Bomano nitiere e chula mar Upolu kendo en kod kwan ji matin ne 40,000."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Kaa apaka bor kod dhowath, pod tek mondo ong'e kethruok manyalore ne piny United States kata pinje man edho pii.",geography,travel,"""Kaa apaka bor kod dhowath, pod tek mondo ong'e kethruok manyalore ne piny United States kata pinje man edho pii."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-Opwot e bwo maria to oyienyo ebwo gode.,geography,travel,"""Opwot e bwo maria to oyienyo ebwo gode."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Bungego ok gin agina mag mangrove kata kamano — giriwo bunge moko mogik modong' manegin bunge malich, manokwako piny miluongo ni Gangetic plain.",geography,travel,"""Bungego ok gin agina mag mangrove kata kamano — giriwo bunge moko mogik modong' manegin bunge malich, manokwako piny miluongo ni Gangetic plain."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-Map mar Jotim nonro mag Jioloji ma Amerka wacho ni yiengni mar piny ne ok onyisore e piny mar Iceland e juma mane okalo.,geography,travel,"""Map mar Jotim nonro mag Jioloji ma Amerka wacho ni yiengni mar piny ne ok onyisore e piny mar Iceland e juma mane okalo."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
-"Bugo moko nikarkende kendo bor kod piny kabisa, en mana ewi got moro man nyandwat mar Mecca.",geography,travel,"""Bugo moko nikarkende kendo bor kod piny kabisa, en mana ewi got moro man nyandwat mar Mecca."" What category does this sentence belong to? science/technology, travel, politics, sports, health, entertainment, geography?? The correct answer is: travel</s>"
+"Lokruok mag gik mangima kata mutation medo pogruoge manyien mag chwech kata jenetik, kaeto yiero to gole oko kowuok ei pogruoge moyudi go.",science/technology,travel,"SENTENCE:
+ Lokruok mag gik mangima kata mutation medo pogruoge manyien mag chwech kata jenetik, kaeto yiero to gole oko kowuok ei pogruoge moyudi go. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Bomb mar fision tiyo nii, okaw teko mar keto nyuklia kanyakla, man kod protons gi neutrons mathoth.",science/technology,science/technology,"SENTENCE:
+ Bomb mar fision tiyo nii, okaw teko mar keto nyuklia kanyakla, man kod protons gi neutrons mathoth. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+Niuklias oting'o gik moko ariyo- niutrons gi protons.,science/technology,science/technology,"SENTENCE:
+ Niuklias oting'o gik moko ariyo- niutrons gi protons. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+Mano osemiyo kio mag lens mayuayo gikmoko golo pichni manitiere e rang'iny minyalo mana pim gi mago ma ogol gi lens ma ok yua pichni.,science/technology,travel,"SENTENCE:
+ Mano osemiyo kio mag lens mayuayo gikmoko golo pichni manitiere e rang'iny minyalo mana pim gi mago ma ogol gi lens ma ok yua pichni. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Gibeyo maloyo proxy mag mbui kaluwore gi yore buora: Gidwoko trafik te mag mbui e yo makare, ok mana http Kende.",science/technology,travel,"SENTENCE:
+ Gibeyo maloyo proxy mag mbui kaluwore gi yore buora: Gidwoko trafik te mag mbui e yo makare, ok mana http Kende. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Loso chwech mag tudruok mag mbui duaro ni inonane kendo paro magi kwom chwech mag gig fwambo kod keyo kendo ipuonjri paro e yore mopogore opogore.,science/technology,travel,"SENTENCE:
+ Loso chwech mag tudruok mag mbui duaro ni inonane kendo paro magi kwom chwech mag gig fwambo kod keyo kendo ipuonjri paro e yore mopogore opogore. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Mano nobedo gima koro itiyogo pile, mak mana ni nyinyo go koro ne kelo kethruok ahinya mag tie geche manolosi gi yiende go.",science/technology,travel,"SENTENCE:
+ Mano nobedo gima koro itiyogo pile, mak mana ni nyinyo go koro ne kelo kethruok ahinya mag tie geche manolosi gi yiende go. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Pride iloso kod sibuor madichwo achiel kata adek ma nikod tudruok, kod sibuoche ma mon manyalo romo piero adek to kod nyithindgi.",science/technology,travel,"SENTENCE:
+ Pride iloso kod sibuor madichwo achiel kata adek ma nikod tudruok, kod sibuoche ma mon manyalo romo piero adek to kod nyithindgi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Kata obedo ni AI nitiere kod okiki mag miriambo mag sayans, AI loso bad sayans mar kompyuta mowinjore ahinya, motenore gi timbe, puonjruok to kod lokruok e rieko mar masin.",science/technology,science/technology,"SENTENCE:
+ Kata obedo ni AI nitiere kod okiki mag miriambo mag sayans, AI loso bad sayans mar kompyuta mowinjore ahinya, motenore gi timbe, puonjruok to kod lokruok e rieko mar masin. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+Tudruok mar kwan e bor gi lach mar picha ma kamagi (pogo gi apar kod ariyo mondo iyud tudruok mar kwan mayot mochung' kende) koro iwacho ni en 3:2.,science/technology,travel,"SENTENCE:
+ Tudruok mar kwan e bor gi lach mar picha ma kamagi (pogo gi apar kod ariyo mondo iyud tudruok mar kwan mayot mochung' kende) koro iwacho ni en 3:2. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Sime matiyo gi satelite oknyal wil kod simb ong'weyamo, nikech nyaka iwuog oko ma imanyri gi lain mar satelite korka igo simu.",science/technology,travel,"SENTENCE:
+ Sime matiyo gi satelite oknyal wil kod simb ong'weyamo, nikech nyaka iwuog oko ma imanyri gi lain mar satelite korka igo simu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Kata wagonways oting'o mana parallel planks meke mbao, ne giyie faras mond odhirgi mond oyud speed mang'eny kendo oyua e ndara madongo kar e ndara mokak meke ndalogo",science/technology,travel,"SENTENCE:
+ Kata wagonways oting'o mana parallel planks meke mbao, ne giyie faras mond odhirgi mond oyud speed mang'eny kendo oyua e ndara madongo kar e ndara mokak meke ndalogo 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ji ong'eyo kwiri ma ong'ere kaka dhahabu, fedha gi mula kowuok ndalo machon, magi te nyalo yudore e aluora kapod gin kod loo, kendo giyot kunyo kod gige kunyo machon.",science/technology,travel,"SENTENCE:
+ Ji ong'eyo kwiri ma ong'ere kaka dhahabu, fedha gi mula kowuok ndalo machon, magi te nyalo yudore e aluora kapod gin kod loo, kendo giyot kunyo kod gige kunyo machon. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Tielo mawinyore mar mtoka oloko piny ngima eyore mogundho. Maduong' moloyo mosetimo nwa en miyowa yot, kendo wuotho mapiyo.",science/technology,travel,"SENTENCE:
+ Tielo mawinyore mar mtoka oloko piny ngima eyore mogundho. Maduong' moloyo mosetimo nwa en miyowa yot, kendo wuotho mapiyo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Maye olosi mondo okony e neno ni picha omako wang' sikrin tee. Mano iluongo ni overscan.,science/technology,entertainment,"SENTENCE:
+ Maye olosi mondo okony e neno ni picha omako wang' sikrin tee. Mano iluongo ni overscan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Sabmarinde mag Jo-Jerman niluongo ni U-Boats. Jo-Jerman ne ber ahinya e riembo kendo e tiyo kod sabmarinde mekgi.,science/technology,travel,"SENTENCE:
+ Sabmarinde mag Jo-Jerman niluongo ni U-Boats. Jo-Jerman ne ber ahinya e riembo kendo e tiyo kod sabmarinde mekgi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Kata obedo ni chal mar dende nyalo lokore, chal mage mag kwiri to dong' machalre.",science/technology,travel,"SENTENCE:
+ Kata obedo ni chal mar dende nyalo lokore, chal mage mag kwiri to dong' machalre. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Gima iluongo ni surface tension timore nikech molekul mag pi manitiere gi e wi pi gimalo omakore motegno gi jowetegi moloyo kaka gimakore gi mag yamo manitiere e wi gi.,science/technology,science/technology,"SENTENCE:
+ Gima iluongo ni surface tension timore nikech molekul mag pi manitiere gi e wi pi gimalo omakore motegno gi jowetegi moloyo kaka gimakore gi mag yamo manitiere e wi gi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+Achiel kwom chandruoge ma kinde ka kinde sama itemo loko sinema obedi e yor DVD en overscan.,science/technology,entertainment,"SENTENCE:
+ Achiel kwom chandruoge ma kinde ka kinde sama itemo loko sinema obedi e yor DVD en overscan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Ahinya ahinya, iwachoni ng'ato nyalo fwenyo ka ng'ato riambo ka iloko kaka otimo suche eyo makare.",science/technology,travel,"SENTENCE:
+ Ahinya ahinya, iwachoni ng'ato nyalo fwenyo ka ng'ato riambo ka iloko kaka otimo suche eyo makare. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Dhahabu inyalo losgo kido duto mopogore opogore. Inyalo dole e kido moko matindo tindo.,science/technology,travel,"SENTENCE:
+ Dhahabu inyalo losgo kido duto mopogore opogore. Inyalo dole e kido moko matindo tindo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Chenro mar AI koro ni ihinyo ti go e yore mag weche yuto, thieth, tije injinia, to kod lweny, mana kaka osegergi ei komyuta mag pacho gi progrembe mag tuke kompyuta buora.",science/technology,N/A,"SENTENCE:
+ Chenro mar AI koro ni ihinyo ti go e yore mag weche yuto, thieth, tije injinia, to kod lweny, mana kaka osegergi ei komyuta mag pacho gi progrembe mag tuke kompyuta buora. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: tech</s>"
+"Pod ilose nyaka kawuono, to mochuno moloyo en ni aspect ratio mage osekopi kod kit ranen mag picha ei kamera manyien mag dijitol.",science/technology,entertainment,"SENTENCE:
+ Pod ilose nyaka kawuono, to mochuno moloyo en ni aspect ratio mage osekopi kod kit ranen mag picha ei kamera manyien mag dijitol. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Chik mithor yany, kendo ithor nyier, mar achiel kuom adek en gima yot maloso gik mopogre ka keto kwe maber e picha.",science/technology,entertainment,"SENTENCE:
+ Chik mithor yany, kendo ithor nyier, mar achiel kuom adek en gima yot maloso gik mopogre ka keto kwe maber e picha. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Ma ok hul ahula kende ni moko kuom dinosau ne nitiere kod yier del, thiori ma bende oselandore malach ahinya, to bende ochiwo weche matut ahinya ma choke minono pile ok nyal chiwo, kaka rangi kod kaka nochan dendgi.",science/technology,travel,"SENTENCE:
+ Ma ok hul ahula kende ni moko kuom dinosau ne nitiere kod yier del, thiori ma bende oselandore malach ahinya, to bende ochiwo weche matut ahinya ma choke minono pile ok nyal chiwo, kaka rangi kod kaka nochan dendgi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Ere kaka teko mayuayo gikmoko mar dwe Io nyalo ywaya? Kichung' e dweno mar Io to kar romb pek mari dhi dok chien mololo ka in e Piny ka.,science/technology,science/technology,"SENTENCE:
+ Ere kaka teko mayuayo gikmoko mar dwe Io nyalo ywaya? Kichung' e dweno mar Io to kar romb pek mari dhi dok chien mololo ka in e Piny ka. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+NextGen en chenro ma FAA lieko ni biro miyo ndeke huyo koluwo yore machiegni kendo biro konyo depe tara mag mo e higa ka higa kendo duoko chien kar romb kabon ma ndeke golo.,science/technology,travel,"SENTENCE:
+ NextGen en chenro ma FAA lieko ni biro miyo ndeke huyo koluwo yore machiegni kendo biro konyo depe tara mag mo e higa ka higa kendo duoko chien kar romb kabon ma ndeke golo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Deta mag neurobaoloji chiwo neno ma ayanga e yore mag thiori mag timo nonro mag dongruok mar obuongo. Kwom mano, oketo nonro no bedo mayot kendo mochimo gino sie.",science/technology,travel,"SENTENCE:
+ Deta mag neurobaoloji chiwo neno ma ayanga e yore mag thiori mag timo nonro mag dongruok mar obuongo. Kwom mano, oketo nonro no bedo mayot kendo mochimo gino sie. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"E sechege ariyo mane okawo kowuoyo, nowacho ni “Kawuono kambi mar Apple dhi loso simono kendo, Wadhi loso sigana kawuono”.",science/technology,entertainment,"SENTENCE:
+ E sechege ariyo mane okawo kowuoyo, nowacho ni “Kawuono kambi mar Apple dhi loso simono kendo, Wadhi loso sigana kawuono”. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Rach kiyo mamedo duong' gikmoko, en ni kaka nenogi tek gi namba mar gig kiyo ma gidwaro mondo iyud borgi ng'eny kendo duong', moloyo mar kiyo mamoko.",science/technology,travel,"SENTENCE:
+ Rach kiyo mamedo duong' gikmoko, en ni kaka nenogi tek gi namba mar gig kiyo ma gidwaro mondo iyud borgi ng'eny kendo duong', moloyo mar kiyo mamoko. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ka ochalgi rimot mar tivi, controller tiyogi sensors ariyo moket but tivi mond o triangulate position ne e three dimensional space.",science/technology,science/technology,"SENTENCE:
+ Ka ochalgi rimot mar tivi, controller tiyogi sensors ariyo moket but tivi mond o triangulate position ne e three dimensional space. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+"Josayans wacho ni pien lee ni nerabuor gi malo, to buoye ne ratong' kendo kuar.",science/technology,travel,"SENTENCE:
+ Josayans wacho ni pien lee ni nerabuor gi malo, to buoye ne ratong' kendo kuar. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Kwiri ariyo go nywandore gi nyawadgi kaeto giloso kite moko manyalo tamo nyarogno tiyo, jotim nonro manitiere e mbalarianyno nowacho.",science/technology,travel,"SENTENCE:
+ Kwiri ariyo go nywandore gi nyawadgi kaeto giloso kite moko manyalo tamo nyarogno tiyo, jotim nonro manitiere e mbalarianyno nowacho. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Maye chiwo ler mar picha motegno maloyo mar 35 mm negative (3136 mm2 versus 864) gi manyalo romo nyading'wen,science/technology,entertainment,"SENTENCE:
+ Maye chiwo ler mar picha motegno maloyo mar 35 mm negative (3136 mm2 versus 864) gi manyalo romo nyading'wen 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Erokamano ne weyini mag fiber optic mag bwo nam moringo ei Ulaya to kod intanet motegno, piny mar Greenlad nikod tudruok malong'o kendo atamalo 93 mar kwan jok modak kuno nikod thuolo mar tiyo gi intanet.",science/technology,travel,"SENTENCE:
+ Erokamano ne weyini mag fiber optic mag bwo nam moringo ei Ulaya to kod intanet motegno, piny mar Greenlad nikod tudruok malong'o kendo atamalo 93 mar kwan jok modak kuno nikod thuolo mar tiyo gi intanet. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Achiel kuom progrembe mong'ere ahinya manie grubni en Google Translate, ma chiwo thuolo mar loko weche kata onge intanet bang' tielo data mag dhok midwa lokie no eie.",science/technology,travel,"SENTENCE:
+ Achiel kuom progrembe mong'ere ahinya manie grubni en Google Translate, ma chiwo thuolo mar loko weche kata onge intanet bang' tielo data mag dhok midwa lokie no eie. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"En kod gedo machalre mar molekul kata ka en kaka iro, gima liw, kata duolo.",science/technology,travel,"SENTENCE:
+ En kod gedo machalre mar molekul kata ka en kaka iro, gima liw, kata duolo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Tiyo kod picha mar vidio osekelo fuenyruoge moko madongo e loko tie ranyisi mag del, chapni mag wang' matimore e nyiriri machuok ahinya.",science/technology,entertainment,"SENTENCE:
+ Tiyo kod picha mar vidio osekelo fuenyruoge moko madongo e loko tie ranyisi mag del, chapni mag wang' matimore e nyiriri machuok ahinya. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Dhano osebedo ka loso kendo tiyo gi gige miyo gik moko bed madongo higa gana gi gana.,science/technology,sports,"SENTENCE:
+ Dhano osebedo ka loso kendo tiyo gi gige miyo gik moko bed madongo higa gana gi gana. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Ok en kende kata kamano, timo pim mag nonro, to pim mar nonro en pim mitiyo go kuom tieko paro achiel kata modhuro, penjo penjo, to gi chiwo paro bende tayo nonro mag sayans.",science/technology,travel,"SENTENCE:
+ Ok en kende kata kamano, timo pim mag nonro, to pim mar nonro en pim mitiyo go kuom tieko paro achiel kata modhuro, penjo penjo, to gi chiwo paro bende tayo nonro mag sayans. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"E giko, tielo molos kod yien ne oloki kod tielo mar chumb nyinyo. Ehiga 1767, nyinyo mokuongo mag gach reru ne okel.",science/technology,travel,"SENTENCE:
+ E giko, tielo molos kod yien ne oloki kod tielo mar chumb nyinyo. Ehiga 1767, nyinyo mokuongo mag gach reru ne okel. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"E seche me kadi mang'eny ber e goyo simu kamoro amora, moko to ochimore mana gi chiwo nengo mapiny mar goyo simu ne grup mag pinje moko.",science/technology,travel,"SENTENCE:
+ E seche me kadi mang'eny ber e goyo simu kamoro amora, moko to ochimore mana gi chiwo nengo mapiny mar goyo simu ne grup mag pinje moko. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Thoth turbin ma nyasani mag timo nonro gin gigo malich ahinya ei gwenge maboyo boyo manitiere kod chal mar kor lwasi makare.,science/technology,travel,"SENTENCE:
+ Thoth turbin ma nyasani mag timo nonro gin gigo malich ahinya ei gwenge maboyo boyo manitiere kod chal mar kor lwasi makare. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Sindan lewre ewi pii nikech sayans mar surface tension.,science/technology,travel,"SENTENCE:
+ Sindan lewre ewi pii nikech sayans mar surface tension. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Kido mar 35mm kuom adier, en aena 36mm e lach gi 24mm e bor.",science/technology,entertainment,"SENTENCE:
+ Kido mar 35mm kuom adier, en aena 36mm e lach gi 24mm e bor. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Sel gin gik mochuno kendo malich ahinya e puonjruok ewi ngima dhano, kuom adier, ma koro kuom kinde mang'eny iluongo gi ni “kite mag gero ngima”.",science/technology,travel,"SENTENCE:
+ Sel gin gik mochuno kendo malich ahinya e puonjruok ewi ngima dhano, kuom adier, ma koro kuom kinde mang'eny iluongo gi ni “kite mag gero ngima”. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Chenro mag VPN (virtual private network) mar ng'ato owuon gin chenro mabeyo ahinya e mwomo rageng' ma sirkal keto e weche mag tudruok e mbui kaachiel kod rageng' ma weg ohala moko keto e geng'o adres mag IP mag tudruok gi kwonde mamoko mag piny.,science/technology,science/technology,"SENTENCE:
+ Chenro mag VPN (virtual private network) mar ng'ato owuon gin chenro mabeyo ahinya e mwomo rageng' ma sirkal keto e weche mag tudruok e mbui kaachiel kod rageng' ma weg ohala moko keto e geng'o adres mag IP mag tudruok gi kwonde mamoko mag piny. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+"Tesend no nochungo masinde ge motegno, kata obedo ni ne giwito jairoskop motelo chien kacha e tije mag kor lwasi mag tesendno, nyaka e giko wuodh mar kor lwasi no.",science/technology,travel,"SENTENCE:
+ Tesend no nochungo masinde ge motegno, kata obedo ni ne giwito jairoskop motelo chien kacha e tije mag kor lwasi mag tesendno, nyaka e giko wuodh mar kor lwasi no. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Joma nikod paro ainani wigi ler, ginyalo paro ranyisi, ginyalo yudo dwoko mar sida, kendo ginyalo tiyo e nonro mag sayans.",science/technology,travel,"SENTENCE:
+ Joma nikod paro ainani wigi ler, ginyalo paro ranyisi, ginyalo yudo dwoko mar sida, kendo ginyalo tiyo e nonro mag sayans. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ondieg ocelot ohero chamo lee matindo. Gimako ong'eche, thuonde, oyieyo kod winy ka ginyalo. Chiegni lee duto ma ondieg ocelot pedho gin matindo ahinya moloyo kaka en.",science/technology,travel,"SENTENCE:
+ Ondieg ocelot ohero chamo lee matindo. Gimako ong'eche, thuonde, oyieyo kod winy ka ginyalo. Chiegni lee duto ma ondieg ocelot pedho gin matindo ahinya moloyo kaka en. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Kamera moko tiyo kod filim mar 6 kod 6 sentimeta, ahinya ahinya 56 kod 56 milimeta.",science/technology,entertainment,"SENTENCE:
+ Kamera moko tiyo kod filim mar 6 kod 6 sentimeta, ahinya ahinya 56 kod 56 milimeta. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Jowuoth ikwayo matek, mondo obed kong'eyo masira ekuondegi, minyal kel kod chal marach mar kor lwasi, nikech nyalo ketho wuodhegi.",travel,travel,"SENTENCE:
+ Jowuoth ikwayo matek, mondo obed kong'eyo masira ekuondegi, minyal kel kod chal marach mar kor lwasi, nikech nyalo ketho wuodhegi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Bas wuokga e tesen mar bas motudo distrige (ing'ado aora) e seche duto e odiechieng', kata kamano thothgi, ahinya ahinya mago madhi ugwe kod Jakar/Bumthang wuok ga e kind 06:30 kod 07:30.",travel,travel,"SENTENCE:
+ Bas wuokga e tesen mar bas motudo distrige (ing'ado aora) e seche duto e odiechieng', kata kamano thothgi, ahinya ahinya mago madhi ugwe kod Jakar/Bumthang wuok ga e kind 06:30 kod 07:30. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Gichiwo tegno mochwiny ne jariembo to ginyalo bedo kod ng'ikni eritruot nikech tie jariembo nyalo moko eiye.,travel,travel,"SENTENCE:
+ Gichiwo tegno mochwiny ne jariembo to ginyalo bedo kod ng'ikni eritruot nikech tie jariembo nyalo moko eiye. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Thoth meli modhial mag Baltic Cruise nikod chenro machiwo thuolo mar dak kwom ndalo mathoth ei St. Petersburg, Russia.",travel,travel,"SENTENCE:
+ Thoth meli modhial mag Baltic Cruise nikod chenro machiwo thuolo mar dak kwom ndalo mathoth ei St. Petersburg, Russia. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Paro michiwo no okao ni jowuoth ok kwel, ok mwuom kiew, okdonjre e ohelni ma ok opuodhi, ok kwechi kata ok tii marach gi ji mamoko ne ber ma mekgi gin giwegi.",travel,travel,"SENTENCE:
+ Paro michiwo no okao ni jowuoth ok kwel, ok mwuom kiew, okdonjre e ohelni ma ok opuodhi, ok kwechi kata ok tii marach gi ji mamoko ne ber ma mekgi gin giwegi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Nitie gik mang'eny ma onego ing'i ka pok idhi wuoth, togi ka isedhii wuoth kamoro.",travel,travel,"SENTENCE:
+ Nitie gik mang'eny ma onego ing'i ka pok idhi wuoth, togi ka isedhii wuoth kamoro. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ei lot mar odieching', jowuoth nyalo neno gik marieny ka rang'i machalo gi pi (kata gik mamoko).",travel,travel,"SENTENCE:
+ Ei lot mar odieching', jowuoth nyalo neno gik marieny ka rang'i machalo gi pi (kata gik mamoko). 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Joot man gi nyithindo tek neno, to magawa moko oyienegi miyogi kar kendgi.",travel,travel,"SENTENCE:
+ Joot man gi nyithindo tek neno, to magawa moko oyienegi miyogi kar kendgi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Kwom ranyisi inyalo limo ohingni manitiere ei Loire Valley, Rhine Valley kata idho yie madhi kwonde moko mabecho mag aoch Danube kata ringo gi yie kokalo ei aora mokuny mar Erie Canal.",travel,travel,"SENTENCE:
+ Kwom ranyisi inyalo limo ohingni manitiere ei Loire Valley, Rhine Valley kata idho yie madhi kwonde moko mabecho mag aoch Danube kata ringo gi yie kokalo ei aora mokuny mar Erie Canal. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Nyalo bedo maber tiyo kod jotelo matiyo pile, ekar ng'ado otiko machal kod meki.",travel,travel,"SENTENCE:
+ Nyalo bedo maber tiyo kod jotelo matiyo pile, ekar ng'ado otiko machal kod meki. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Couchsurfing ne olos e due mar achiel iga 2004 bang' kane computer programmer Casey Fenton noyudo ndege mabeche yot madhi Iceland lakini ne oonge kar dak.,travel,travel,"SENTENCE:
+ Couchsurfing ne olos e due mar achiel iga 2004 bang' kane computer programmer Casey Fenton noyudo ndege mabeche yot madhi Iceland lakini ne oonge kar dak. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Barua mar dak epiny machielo mar Japuonjre nikod dwaro mopogre kod kaka imanye, kipimo kod barup dak mar welo kata mar jo-ohala.",travel,travel,"SENTENCE:
+ Barua mar dak epiny machielo mar Japuonjre nikod dwaro mopogre kod kaka imanye, kipimo kod barup dak mar welo kata mar jo-ohala. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Piny ka piny bende nitiere kod chike makende maduaro ni gin gikmage mag konyo masira ma apoya monego oketi ei mtokni.,travel,travel,"SENTENCE:
+ Piny ka piny bende nitiere kod chike makende maduaro ni gin gikmage mag konyo masira ma apoya monego oketi ei mtokni. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Kata obedo ni kembe mang'eny duaro ni otim ng'eto mag otiko mapile mang'eny, jotijegi mang'eny ochomore kod migepe makende mag wuoth, bajet mopogore opogore kata kata kwonde wuoth mopogore opogore.",travel,travel,"SENTENCE:
+ Kata obedo ni kembe mang'eny duaro ni otim ng'eto mag otiko mapile mang'eny, jotijegi mang'eny ochomore kod migepe makende mag wuoth, bajet mopogore opogore kata kata kwonde wuoth mopogore opogore. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Jowuoth nyalo romo gi kute ma ok chalre gi ma ging'iyogo dala gi.,travel,travel,"SENTENCE:
+ Jowuoth nyalo romo gi kute ma ok chalre gi ma ging'iyogo dala gi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Bende kochimo yo nyandwat, lim Sang'tuari mar Our Lady of Fatima (kama ler), kama ong'ere e piny mangima kaka kar jachiend Marian.",travel,travel,"SENTENCE:
+ Bende kochimo yo nyandwat, lim Sang'tuari mar Our Lady of Fatima (kama ler), kama ong'ere e piny mangima kaka kar jachiend Marian. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Inyalo tiyo kod boda-boda (taksi mar pikipiki) mondo ichop Goma. Nengo ma pile (mar aluorano) en Franc mar Kongo ~500 kwom ng'wech mar kinde machwok.,travel,travel,"SENTENCE:
+ Inyalo tiyo kod boda-boda (taksi mar pikipiki) mondo ichop Goma. Nengo ma pile (mar aluorano) en Franc mar Kongo ~500 kwom ng'wech mar kinde machwok. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ne jok mohero timo gik mitimo oko, wuotho gi tielo kochimo Sea to Sky en gima ochuno ahinya.",travel,travel,"SENTENCE:
+ Ne jok mohero timo gik mitimo oko, wuotho gi tielo kochimo Sea to Sky en gima ochuno ahinya. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Wuoth mar bungu (ma kendo iluongo ni “wuodh bungu”, “twenyo kuonde moko”, kata dhii “kiwuotho”) oting'o idho gode, e saa matin kata odichienge mang'eny.",travel,travel,"SENTENCE:
+ Wuoth mar bungu (ma kendo iluongo ni “wuodh bungu”, “twenyo kuonde moko”, kata dhii “kiwuotho”) oting'o idho gode, e saa matin kata odichienge mang'eny. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Yo kende manewanyalo ore godo piyo en kaka misigo mang'ato dhigodo. Chike mag ndege masani okoyie ni osigo dhi kende maonge jawuoth makowe.,travel,travel,"SENTENCE:
+ Yo kende manewanyalo ore godo piyo en kaka misigo mang'ato dhigodo. Chike mag ndege masani okoyie ni osigo dhi kende maonge jawuoth makowe. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Komed 300 tokele nyaka 1,300 mag bogi miduaro mondo odwok diruok chien.",travel,travel,"SENTENCE:
+ Komed 300 tokele nyaka 1,300 mag bogi miduaro mondo odwok diruok chien. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Jo-ot man kod nyithindo matindo nyalo dwaro ikruok makende, to wuok oko dichiel bende nyalore kata kain kod nyithindo miting'o gi mapok ochako dhii skul.",travel,travel,"SENTENCE:
+ Jo-ot man kod nyithindo matindo nyalo dwaro ikruok makende, to wuok oko dichiel bende nyalore kata kain kod nyithindo miting'o gi mapok ochako dhii skul. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ng'ato ang'ata madhi riembo mtoka e kwonde moting'ore gi malo kata e yore mokadho e got onego opar ni nitiere nyalruok mar rodhno kod ong'weng'u, baraf, kata koyo malich miwuoro.",travel,travel,"SENTENCE:
+ Ng'ato ang'ata madhi riembo mtoka e kwonde moting'ore gi malo kata e yore mokadho e got onego opar ni nitiere nyalruok mar rodhno kod ong'weng'u, baraf, kata koyo malich miwuoro. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Kawuono, Timbuktu en boma modhier miwuoro, kata obedo ni lich mar nyinge miyo olombo wang' jotim limbe, to kendo en kod paw ndeke.",travel,travel,"SENTENCE:
+ Kawuono, Timbuktu en boma modhier miwuoro, kata obedo ni lich mar nyinge miyo olombo wang' jotim limbe, to kendo en kod paw ndeke. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ndalo mag kodh pe gi yamo, pe moromo manyalo miyo imoki nyalo lwar e kinde machuok ahinya.",travel,travel,"SENTENCE:
+ Ndalo mag kodh pe gi yamo, pe moromo manyalo miyo imoki nyalo lwar e kinde machuok ahinya. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Kidwaro fuyo kiluoro piny duto nyaka milambo mar piny, yiero mar ndeke kod kumaidhiye tin, nikech onge yore matudore minyal lu ewii nam.",travel,travel,"SENTENCE:
+ Kidwaro fuyo kiluoro piny duto nyaka milambo mar piny, yiero mar ndeke kod kumaidhiye tin, nikech onge yore matudore minyal lu ewii nam. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Kembe ndeke kaka Emirates, Etihad Airways, Qatar Airways kod Turkish Airines osemedo ahinya tije mekgi e Africa, kendo giketo tudruok e bombe madongo mag Africa gi nengo mabeyo maloyo mag kembe mamoko mag Ulaya.",travel,travel,"SENTENCE:
+ Kembe ndeke kaka Emirates, Etihad Airways, Qatar Airways kod Turkish Airines osemedo ahinya tije mekgi e Africa, kendo giketo tudruok e bombe madongo mag Africa gi nengo mabeyo maloyo mag kembe mamoko mag Ulaya. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Onge yor wuoth moro amora malang' mitiyogo, geche mag reru bende okbi chung' Wembley, kendo gig yiengo gi idho (ngware) bende onge.",travel,sports,"SENTENCE:
+ Onge yor wuoth moro amora malang' mitiyogo, geche mag reru bende okbi chung' Wembley, kendo gig yiengo gi idho (ngware) bende onge. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Kwom mago duto, bedo ei piny mawendo kwom thuolo mar kinde momedi biro duaro ni mondo imany barua mar visa e thuolo motelo.",travel,travel,"SENTENCE:
+ Kwom mago duto, bedo ei piny mawendo kwom thuolo mar kinde momedi biro duaro ni mondo imany barua mar visa e thuolo motelo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+gari ya moshi moro amora nikod geche mag Metroplus to kod Metro koch. geche mag Metroplus yudre e stesend gari machiegni kod Cape Town,travel,travel,"SENTENCE:
+ gari ya moshi moro amora nikod geche mag Metroplus to kod Metro koch. geche mag Metroplus yudre e stesend gari machiegni kod Cape Town 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Ng'ato ka ng'ato riwore ei oganda kendo tiyo kond chenro mag wuodhi. Chiegni ni ng'ato ka ng'ato ng'ur e wi chenro mag wuoth.,travel,travel,"SENTENCE:
+ Ng'ato ka ng'ato riwore ei oganda kendo tiyo kond chenro mag wuodhi. Chiegni ni ng'ato ka ng'ato ng'ur e wi chenro mag wuoth. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Nikech kwan matin mag ji ema odak kuno, kendo gik mageng'o ler bende tin miwuoro, ibiro bedo gi mor mar nyalo neno sulwego manitie e kor polo.",travel,sports,"SENTENCE:
+ Nikech kwan matin mag ji ema odak kuno, kendo gik mageng'o ler bende tin miwuoro, ibiro bedo gi mor mar nyalo neno sulwego manitie e kor polo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Gige visa midwaro kod bechgi opogore kuom piny ka piny, kendo oluwore gi piny ma iwuokie.",travel,travel,"SENTENCE:
+ Gige visa midwaro kod bechgi opogore kuom piny ka piny, kendo oluwore gi piny ma iwuokie. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"E wuoyo ma pile, onge kata tiende kwayo ng'eto mar nengo ne idho klas mar jo ohala kata klas mokuongo e ndege ma achiel kachiel kowuok A nyaka B.",travel,travel,"SENTENCE:
+ E wuoyo ma pile, onge kata tiende kwayo ng'eto mar nengo ne idho klas mar jo ohala kata klas mokuongo e ndege ma achiel kachiel kowuok A nyaka B. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Wito bao mar bumerang' en lony mong'ere ahinya ma jotim limbe mathoth gombo bedogo.,travel,travel,"SENTENCE:
+ Wito bao mar bumerang' en lony mong'ere ahinya ma jotim limbe mathoth gombo bedogo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Ndege no ok ema inyalo tiyogo kende ka dipo ni idwa kalo Pacific ma Milambo to kod wedhe ma imbo mar Amerka ma Milambo. (rang piny kacha).,travel,travel,"SENTENCE:
+ Ndege no ok ema inyalo tiyogo kende ka dipo ni idwa kalo Pacific ma Milambo to kod wedhe ma imbo mar Amerka ma Milambo. (rang piny kacha). 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"San Francisco osetimo dongruok maduong' ne weche timo limbe ka gintiere kod otende modhuro, magawa, to kod kuonde ma nyangafu mag timo romo.",travel,travel,"SENTENCE:
+ San Francisco osetimo dongruok maduong' ne weche timo limbe ka gintiere kod otende modhuro, magawa, to kod kuonde ma nyangafu mag timo romo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Chiwruok e seche mag timo wuodhi en yo malich ahinya mar kelo lokruok mak mana ni ok onego time atima ni ji time.,travel,travel,"SENTENCE:
+ Chiwruok e seche mag timo wuodhi en yo malich ahinya mar kelo lokruok mak mana ni ok onego time atima ni ji time. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Ji oknyal bedo gi paro moro ni horuok kod winjo bende gin gik mowijore ahinya ne jowuoth maduogo pacho.,travel,travel,"SENTENCE:
+ Ji oknyal bedo gi paro moro ni horuok kod winjo bende gin gik mowijore ahinya ne jowuoth maduogo pacho. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Kik wiyi wil gi riwo nyaka omenda malang' mag visa mamoko, osuru mar wuok, wuodhi mag lowo, to kod mamoko ne kuonde go duto manitiere oko mar Afrika.",travel,travel,"SENTENCE:
+ Kik wiyi wil gi riwo nyaka omenda malang' mag visa mamoko, osuru mar wuok, wuodhi mag lowo, to kod mamoko ne kuonde go duto manitiere oko mar Afrika. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Jodak mathoth mag Bishek ne oketo ng'ur e wi jong'anyo mawuok milambo ne weche mag ketho chik mane otimore go.,politics,travel,"SENTENCE:
+ Jodak mathoth mag Bishek ne oketo ng'ur e wi jong'anyo mawuok milambo ne weche mag ketho chik mane otimore go. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Kuonde masani epiny Belgium, negin gwenge mag piny Luxembourg endalo mokalo, tonegi bedo mar Belgium bang' tungni mag dhaw mar 1830 epiny Belgium.",politics,travel,"SENTENCE:
+ Kuonde masani epiny Belgium, negin gwenge mag piny Luxembourg endalo mokalo, tonegi bedo mar Belgium bang' tungni mag dhaw mar 1830 epiny Belgium. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Chakre e higa mar 1988, sanduge mag luto ombulu nyaka bed ma korgi rieny mondo mi jolut ombulu kod joneno oyang ni onge kura mora mora mabedo eigi kapok ochak luto ombulu, kendo bende ni onge moko momedi mak mana ma oketi gi jolut ombulu mokwan kendo mopuodhi.",politics,travel,"SENTENCE:
+ Chakre e higa mar 1988, sanduge mag luto ombulu nyaka bed ma korgi rieny mondo mi jolut ombulu kod joneno oyang ni onge kura mora mora mabedo eigi kapok ochak luto ombulu, kendo bende ni onge moko momedi mak mana ma oketi gi jolut ombulu mokwan kendo mopuodhi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Minista Maduong' ma kojolo Julia Gillard nolieko e kinde sero ombulu mar yiero maduong' ma 2010 ni ne en kod yie ni ni Australia onego chung kar kende kaka piny bang' loch mar Queen Elizabeth II.,politics,politics,"SENTENCE:
+ Minista Maduong' ma kojolo Julia Gillard nolieko e kinde sero ombulu mar yiero maduong' ma 2010 ni ne en kod yie ni ni Australia onego chung kar kende kaka piny bang' loch mar Queen Elizabeth II. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+Sirkand Ireland jiwo ka chuno mondo tim lokruok mar pend chike e od bura mapiyo piyo mondo olos kethruogno.,politics,travel,"SENTENCE:
+ Sirkand Ireland jiwo ka chuno mondo tim lokruok mar pend chike e od bura mapiyo piyo mondo olos kethruogno. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Dwokruok kod weche ewi gwengego, medo ketho achiel ekind pinje-go mag Armenia gi Azerbaijan.",politics,travel,"SENTENCE:
+ Dwokruok kod weche ewi gwengego, medo ketho achiel ekind pinje-go mag Armenia gi Azerbaijan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Minista Maduong' Stephen Harper oseyie oro oboke mar piny owacho mar ‘Clean Air Act’ ne kamiti mar duonde duto mondo onone, ka pok osome mar ariyo, tok romo ma Tich Ariyo manokao dakika 25 e kinde gi jatend NDP Jack Layton ei PMO.",politics,politics,"SENTENCE:
+ Minista Maduong' Stephen Harper oseyie oro oboke mar piny owacho mar ‘Clean Air Act’ ne kamiti mar duonde duto mondo onone, ka pok osome mar ariyo, tok romo ma Tich Ariyo manokao dakika 25 e kinde gi jatend NDP Jack Layton ei PMO. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+"Dwe mokalo, nenitiere ng'anyo maduong' epiny Poland, kane piny owacho makono oketo kokgi e ACTA, maa osemiyo piny owacho okwedo winjruokno mar ACTA gisani.",politics,travel,"SENTENCE:
+ Dwe mokalo, nenitiere ng'anyo maduong' epiny Poland, kane piny owacho makono oketo kokgi e ACTA, maa osemiyo piny owacho okwedo winjruokno mar ACTA gisani. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Siem gin agina weche matin manyiso kaka siasa dhii epiny moro.,politics,politics,"SENTENCE:
+ Siem gin agina weche matin manyiso kaka siasa dhii epiny moro. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+"E ndalo yiero ma 1976 nong'ado ne Carter rieko e wi chike matayo gig pinje ma welo, kendo notiyo kaka jang'ad rieko ma en National Security Advisor (NSA) chakre 1977 nyaka 1981, ka nokao tijno kowuok kwom Henry Kissinger.",politics,politics,"SENTENCE:
+ E ndalo yiero ma 1976 nong'ado ne Carter rieko e wi chike matayo gig pinje ma welo, kendo notiyo kaka jang'ad rieko ma en National Security Advisor (NSA) chakre 1977 nyaka 1981, ka nokao tijno kowuok kwom Henry Kissinger. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+"Turkey bende ne onego okaw thuolo mar rito jokedo mag ISIS mane, wachno olero kaka, pinje mag Ulaya osedagi duoko e thuchegi.",politics,travel,"SENTENCE:
+ Turkey bende ne onego okaw thuolo mar rito jokedo mag ISIS mane, wachno olero kaka, pinje mag Ulaya osedagi duoko e thuchegi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Kata kamano, chenrogi ne owit oko gotienono, ka jolueny 800,000 mag Soviet Union Red Army nodonjo ma oloso ohinga mag piny Belarus kod piny Ukrain bang' monjo gwenge mag Ugwe mag piny Poland, kagiketho chik mar kwe maneokal maen Riga Peace Treaty, Soviet-Polish Non-Aggression Pact, gi iwinjruok mathoth mag pinje, mamoko gin ekind pinje ariyo to moko ekind pinje mathoth.",politics,N/A,"SENTENCE:
+ Kata kamano, chenrogi ne owit oko gotienono, ka jolueny 800,000 mag Soviet Union Red Army nodonjo ma oloso ohinga mag piny Belarus kod piny Ukrain bang' monjo gwenge mag Ugwe mag piny Poland, kagiketho chik mar kwe maneokal maen Riga Peace Treaty, Soviet-Polish Non-Aggression Pact, gi iwinjruok mathoth mag pinje, mamoko gin ekind pinje ariyo to moko ekind pinje mathoth. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: military</s>"
+"Kaluwore gi okenge go, HJR-3 ibiro rangi kendo gi jo od bura manyien mibiro yier e higa mar 2015 kata mar 2016 mondo odhi nyime.",politics,politics,"SENTENCE:
+ Kaluwore gi okenge go, HJR-3 ibiro rangi kendo gi jo od bura manyien mibiro yier e higa mar 2015 kata mar 2016 mondo odhi nyime. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+"Bang' ka nosekale kaka chik gi Od Bura Maduong' e dwe mar Julai tarik 4, otas manondikee gi lwedo manoketie sei kod Ker mar Od Bura Maduong' John Hancock kod Jagoro Charles Thomson noter ondamo moko machwok e duka mar goyo chapa mar John Dunlap.",politics,travel,"SENTENCE:
+ Bang' ka nosekale kaka chik gi Od Bura Maduong' e dwe mar Julai tarik 4, otas manondikee gi lwedo manoketie sei kod Ker mar Od Bura Maduong' John Hancock kod Jagoro Charles Thomson noter ondamo moko machwok e duka mar goyo chapa mar John Dunlap. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Kinde machuok tok saa 11:00 otieno, jong'anyo ne ogeng'o ne mtokni e apaya maduong' ma nyanduat ei Whitehall.",politics,travel,"SENTENCE:
+ Kinde machuok tok saa 11:00 otieno, jong'anyo ne ogeng'o ne mtokni e apaya maduong' ma nyanduat ei Whitehall. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Kata kamano, e dwe mar Jun 1956, singo mag Krushchev noketi e tem ka ne ng'anyo timore e piny mar Poland, kama ng'anyo mar jotich ne wach nok mar chiemo kod ng'eto mar osara margi nolokore ng'anyo maduong' makwedo jo Komunist.",politics,politics,"SENTENCE:
+ Kata kamano, e dwe mar Jun 1956, singo mag Krushchev noketi e tem ka ne ng'anyo timore e piny mar Poland, kama ng'anyo mar jotich ne wach nok mar chiemo kod ng'eto mar osara margi nolokore ng'anyo maduong' makwedo jo Komunist. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+"Lwenyno nonego otiek higni 40 kendo ne idhi kede mar adier, gi jolwenj kedo mag pinje, e pewe mag lweny kochakore Afrika nyaka Asia, ei Afghanistan, Cuba to kod kwonde moko mathoth.",politics,travel,"SENTENCE:
+ Lwenyno nonego otiek higni 40 kendo ne idhi kede mar adier, gi jolwenj kedo mag pinje, e pewe mag lweny kochakore Afrika nyaka Asia, ei Afghanistan, Cuba to kod kwonde moko mathoth. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Due mokadho, kamison mar kir ne owuoyo kapok jatelo mar CEP noweyo tich, kaka achiel kuom yore mohiki mondo osud pinyno ka dhi goyo ombulu manyien.",politics,travel,"SENTENCE:
+ Due mokadho, kamison mar kir ne owuoyo kapok jatelo mar CEP noweyo tich, kaka achiel kuom yore mohiki mondo osud pinyno ka dhi goyo ombulu manyien. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Thuon wach moko ma ne osesom gin kaka Jerusalem birobedo ndalo mabiro, ma en kamaler mar Nyasaye ne pinjego, kendo nyaka weche mag hoho Jordan.",politics,travel,"SENTENCE:
+ Thuon wach moko ma ne osesom gin kaka Jerusalem birobedo ndalo mabiro, ma en kamaler mar Nyasaye ne pinjego, kendo nyaka weche mag hoho Jordan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Bende noonge kod teko mar buono chike mag osuru e kind pinjego.,politics,travel,"SENTENCE:
+ Bende noonge kod teko mar buono chike mag osuru e kind pinjego. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+cheke meg yiero e piny ufaransa olero kaka gino onegotimre,politics,travel,"SENTENCE:
+ cheke meg yiero e piny ufaransa olero kaka gino onegotimre 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Bang' joge wito loch e yiero ma diere, Bush ne owuoyo gi jo-winjo kuom weche medruok mar ohala ei Asia.",politics,travel,"SENTENCE:
+ Bang' joge wito loch e yiero ma diere, Bush ne owuoyo gi jo-winjo kuom weche medruok mar ohala ei Asia. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Rieko neno notiyo, ng'ado oko kony madongo mag jolweny kod raia, kata ka geng'ono ne ok oluwo chike meke piny mangima manoketi kendo oyiego gi kuonde mang'eny mar senchari ariyo mokadho.",politics,travel,"SENTENCE:
+ Rieko neno notiyo, ng'ado oko kony madongo mag jolweny kod raia, kata ka geng'ono ne ok oluwo chike meke piny mangima manoketi kendo oyiego gi kuonde mang'eny mar senchari ariyo mokadho. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Tudruok e yore mag yuto oserie kendo e kind kwonde ariyogo mag Moldova kata obedo ni winjruok e yore mag siasa to pod otamore.,politics,politics,"SENTENCE:
+ Tudruok e yore mag yuto oserie kendo e kind kwonde ariyogo mag Moldova kata obedo ni winjruok e yore mag siasa to pod otamore. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+"Kane okowe gi jotelogo, ne onyiso jo taon mar Texas ni okang' mar ritogi ne ikaw mondo orit hinyruok mar jopiny.",politics,sports,"SENTENCE:
+ Kane okowe gi jotelogo, ne onyiso jo taon mar Texas ni okang' mar ritogi ne ikaw mondo orit hinyruok mar jopiny. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Jo akwede motenore kod wach e wi nuocho mar gedono oseketo pachgi duto e yore ma ichiwogo orak mag nuocho mar gedogo ne jok mawachore ni gin jokanyo mag Wahington.,politics,travel,"SENTENCE:
+ Jo akwede motenore kod wach e wi nuocho mar gedono oseketo pachgi duto e yore ma ichiwogo orak mag nuocho mar gedogo ne jok mawachore ni gin jokanyo mag Wahington. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Kuom ji 1,400 manotimnegi penjo mag nonro motelo ne yiero mar sirkal maduong' ma 2010, ji makwedo mondo Australia kik puodhi kaka piny ne omedore gi atamalo 8 chakre e higa mar 2008.",politics,travel,"SENTENCE:
+ Kuom ji 1,400 manotimnegi penjo mag nonro motelo ne yiero mar sirkal maduong' ma 2010, ji makwedo mondo Australia kik puodhi kaka piny ne omedore gi atamalo 8 chakre e higa mar 2008. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Jodiplomasia nowacho ni negiyudo chochni moromo e chike mag Afghan mondo ginyis kaka nuoyo ombulu en gima okochuno.,politics,travel,"SENTENCE:
+ Jodiplomasia nowacho ni negiyudo chochni moromo e chike mag Afghan mondo ginyis kaka nuoyo ombulu en gima okochuno. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Bang' ka duoko nosewuok, Gingrich nopako Santorum, to ne en kod weche motegno ne Romney, ma bende e loe lendo maricho mag kampen e wi Gingrich nokee ei Iowa.",politics,politics,"SENTENCE:
+ Bang' ka duoko nosewuok, Gingrich nopako Santorum, to ne en kod weche motegno ne Romney, ma bende e loe lendo maricho mag kampen e wi Gingrich nokee ei Iowa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+En CEP mar Martelly mar abich kwom higni ang'wen.,politics,politics,"SENTENCE:
+ En CEP mar Martelly mar abich kwom higni ang'wen. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+"Jang'wech mane oloyo dhahabu ne onego opiem ego abal e mita mia achiel gi mita mia ariyo, kaka ihero, to kod ng'weje adek e tuke mag Commonwealth, kata kamano nikech ywagruok mare, ikruok mar ber dende niparo nyadiriyo.",sports,travel,"SENTENCE:
+ Jang'wech mane oloyo dhahabu ne onego opiem ego abal e mita mia achiel gi mita mia ariyo, kaka ihero, to kod ng'weje adek e tuke mag Commonwealth, kata kamano nikech ywagruok mare, ikruok mar ber dende niparo nyadiriyo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Kaachiel kod bedo ja amen mang'ula mar Olympic kod Piny mangima, Saito ne en jakom mar kamiti mar tiegruok e duol mar All Japan Judo Federation e kinde ma koro ne othoe no.",sports,sports,"SENTENCE:
+ Kaachiel kod bedo ja amen mang'ula mar Olympic kod Piny mangima, Saito ne en jakom mar kamiti mar tiegruok e duol mar All Japan Judo Federation e kinde ma koro ne othoe no. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Ogirmiti mar piem mar olimpik nogoyo ombulu mondo omed tuke e romo mar jotelo manotimre gwenge ma Berlin. Ttugo mar rugby kod mar golf noyier e kind tuke moko abich manilieko ni onegotug e tuke mag olimpik.,sports,sports,"SENTENCE:
+ Ogirmiti mar piem mar olimpik nogoyo ombulu mondo omed tuke e romo mar jotelo manotimre gwenge ma Berlin. Ttugo mar rugby kod mar golf noyier e kind tuke moko abich manilieko ni onegotug e tuke mag olimpik. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Nyasi higa maduong' mar tugo timre dwe mar apargariyo, epap mar Polo mantie taon mar Las Cañitas.",sports,travel,"SENTENCE:
+ Nyasi higa maduong' mar tugo timre dwe mar apargariyo, epap mar Polo mantie taon mar Las Cañitas. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Nyaka nodar ka odhiyo e boma maduong' ma Catalonia no, Vidal osetugo tuke 49 ne klabno.",sports,sports,"SENTENCE:
+ Nyaka nodar ka odhiyo e boma maduong' ma Catalonia no, Vidal osetugo tuke 49 ne klabno. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Rito ngima man-gi teko maber, timbe maketo pii moromo edel, kendo winjo gik mopogore maonego imed edel, nyalo konyo jotugo timo maber, kendo medo heragi etugono.",sports,travel,"SENTENCE:
+ Rito ngima man-gi teko maber, timbe maketo pii moromo edel, kendo winjo gik mopogore maonego imed edel, nyalo konyo jotugo timo maber, kendo medo heragi etugono. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"E thuolo mar adek, Hamlin ni chien gi point piero ariyo, to en mbele mar Bowyer gi point abich. Kahne kod Truex, Jr. ni e thuolo mar abich kod auchiel moluwore gi point 2,220 kod 2,207.",sports,sports,"SENTENCE:
+ E thuolo mar adek, Hamlin ni chien gi point piero ariyo, to en mbele mar Bowyer gi point abich. Kahne kod Truex, Jr. ni e thuolo mar abich kod auchiel moluwore gi point 2,220 kod 2,207. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Loch ma achiel ka achiel mane oloyogo Ja-Canada no en 7-2.,sports,sports,"SENTENCE:
+ Loch ma achiel ka achiel mane oloyogo Ja-Canada no en 7-2. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Jarque ne timo orako e seche mane gitimo tiegruok mitimo ka pok ochak ndalo mag tuke ei Coverciano kocha e piny mar Italy e seche mag okinyi ma odiechieng'no. Ne odak e otel mar tim margi motelo ne tugo mane obagi e kindgi gi Bolonia chieng' Jumapil.,sports,sports,"SENTENCE:
+ Jarque ne timo orako e seche mane gitimo tiegruok mitimo ka pok ochak ndalo mag tuke ei Coverciano kocha e piny mar Italy e seche mag okinyi ma odiechieng'no. Ne odak e otel mar tim margi motelo ne tugo mane obagi e kindgi gi Bolonia chieng' Jumapil. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Luoro mar koso yo mar chopo kamoro, ne okelo wachmoro ni tugono inyalo biro chun matugi e i ot ma onge gi johera mag tugono.",sports,travel,"SENTENCE:
+ Luoro mar koso yo mar chopo kamoro, ne okelo wachmoro ni tugono inyalo biro chun matugi e i ot ma onge gi johera mag tugono. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Tommy Dreamer nowacho ni “Luna ema ne en Queen mokwongo mar Extreme. Meneja mara mokwongo. Luna ne otho e otieno mar dweche ariyo. Mana mayore yore kaka en. Dhako motegno ahinya”.,sports,entertainment,"SENTENCE:
+ Tommy Dreamer nowacho ni “Luna ema ne en Queen mokwongo mar Extreme. Meneja mara mokwongo. Luna ne otho e otieno mar dweche ariyo. Mana mayore yore kaka en. Dhako motegno ahinya”. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Muofni madichuo mawuok piny Poland magin skier Maciej Krezel kod guide Anna Ogarzynska ne otieko kaka namba apar gi adek epiem mar Super-G. Ja South Korea manyinge Jong Seork Park, ne otieko kaka namba piero ariyo gi ang'wen etuk bedo mag chuo mar Super-G.",sports,sports,"SENTENCE:
+ Muofni madichuo mawuok piny Poland magin skier Maciej Krezel kod guide Anna Ogarzynska ne otieko kaka namba apar gi adek epiem mar Super-G. Ja South Korea manyinge Jong Seork Park, ne otieko kaka namba piero ariyo gi ang'wen etuk bedo mag chuo mar Super-G. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Ne weche tuke kod kuonde nyiewo otiko mar tuke mag polo, dhi ng'i kod riwruok mar Asociacion Argentina de Polo.",sports,sports,"SENTENCE:
+ Ne weche tuke kod kuonde nyiewo otiko mar tuke mag polo, dhi ng'i kod riwruok mar Asociacion Argentina de Polo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Tukego nochakore saa ang'wen gokinyi gi anga maber, kendo kopogre gi nyidho mar onyango mane orumo piyo, ne en odiochieng' maber ne jotugo magin 7's rugby.",sports,sports,"SENTENCE:
+ Tukego nochakore saa ang'wen gokinyi gi anga maber, kendo kopogre gi nyidho mar onyango mane orumo piyo, ne en odiochieng' maber ne jotugo magin 7's rugby. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Arly Velasquez mar Mexico notieko e thuolo mar apar kod abich e Super-G mar chuo makier kobet. Adam Hall mar New Zealand notieko e thuolo mar ochiko e Super-G mar chuo makier kochung' tir.,sports,sports,"SENTENCE:
+ Arly Velasquez mar Mexico notieko e thuolo mar apar kod abich e Super-G mar chuo makier kobet. Adam Hall mar New Zealand notieko e thuolo mar ochiko e Super-G mar chuo makier kochung' tir. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Tugo mogik mar piem go biro timore e alap ma Elli Park ei Johanesburg juma manyien, kama Springbooks biro tugo gi Australia.",sports,travel,"SENTENCE:
+ Tugo mogik mar piem go biro timore e alap ma Elli Park ei Johanesburg juma manyien, kama Springbooks biro tugo gi Australia. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Seche ma piny ber to ibiro dhi atua maboyo ahinya moloyo kiwuotho - kata kamano ok ibihinyo kier gi ng'wech matek e baraf kionge gi bag mar ng'ech mapek mopangi malong'o ei othiwi.,sports,travel,"SENTENCE:
+ Seche ma piny ber to ibiro dhi atua maboyo ahinya moloyo kiwuotho - kata kamano ok ibihinyo kier gi ng'wech matek e baraf kionge gi bag mar ng'ech mapek mopangi malong'o ei othiwi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ka en chien gi point abiriyo, Johnson nitiere e thuolo mar ariyo gi point 2,243.",sports,sports,"SENTENCE:
+ Ka en chien gi point abiriyo, Johnson nitiere e thuolo mar ariyo gi point 2,243. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Tugo mar mar leng'ruok e pi aora mamol (kata: canyoneering) en tugo ma ji donjoe e bwo hoho matut, mopong' gi pi kata motwo.",sports,travel,"SENTENCE:
+ Tugo mar mar leng'ruok e pi aora mamol (kata: canyoneering) en tugo ma ji donjoe e bwo hoho matut, mopong' gi pi kata motwo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Robin Uthappa ne oyudo loch mamalo mogik mag mulo kiew, ne oyudo ng'weye 70 kwom opiche 41, ka opichege nomulo kiew mar ang'wen di 11 to kod kiew mar auchiel di 2.",sports,sports,"SENTENCE:
+ Robin Uthappa ne oyudo loch mamalo mogik mag mulo kiew, ne oyudo ng'weye 70 kwom opiche 41, ka opichege nomulo kiew mar ang'wen di 11 to kod kiew mar auchiel di 2. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Tuke mag ndalo chwiri timore ga ahinya ei gwenge ma Nyandwat, ka Jo-Italy piem ga e tuke mag pinje to kod tuke mag Olimpik.",sports,sports,"SENTENCE:
+ Tuke mag ndalo chwiri timore ga ahinya ei gwenge ma Nyandwat, ka Jo-Italy piem ga e tuke mag pinje to kod tuke mag Olimpik. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Maroochydore notieko mokwongo ewi ngas, noyombo jalupne maen Noosa, kod point auchiel.",sports,sports,"SENTENCE:
+ Maroochydore notieko mokwongo ewi ngas, noyombo jalupne maen Noosa, kod point auchiel. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Michael Schumacher notieko ng'wech maok bor bang' Alonso, nikech kethruok mar saspenson, enyagruok kanoringo eng'wech.",sports,sports,"SENTENCE:
+ Michael Schumacher notieko ng'wech maok bor bang' Alonso, nikech kethruok mar saspenson, enyagruok kanoringo eng'wech. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Yore mag chiemo makare kende oknyal kelo duoko maber e tuke, to ginyalo loko ber mar dend jong'wech ma rowere gi kama duong' ahinya.",sports,travel,"SENTENCE:
+ Yore mag chiemo makare kende oknyal kelo duoko maber e tuke, to ginyalo loko ber mar dend jong'wech ma rowere gi kama duong' ahinya. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Ok osebedo gi nyalo mar muonyo yedhe madwarore mondo olo rem marame nikech ogogi marfuk e Tuke go.,sports,travel,"SENTENCE:
+ Ok osebedo gi nyalo mar muonyo yedhe madwarore mondo olo rem marame nikech ogogi marfuk e Tuke go. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Nonro oseyudo ni joma mime nyalo yudo tuo mar MS nyadiriyo maloyo joma chuo.,health,travel,"SENTENCE:
+ Nonro oseyudo ni joma mime nyalo yudo tuo mar MS nyadiriyo maloyo joma chuo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Kong'o ma okopwodhi nyalobedo kod chilo maricho mopogore opogore moriwo nyaka methanol, manyalo loko ng'ato muofu kata kelo tho kata kapo ni oti kode matin ahinya.",health,travel,"SENTENCE:
+ Kong'o ma okopwodhi nyalobedo kod chilo maricho mopogore opogore moriwo nyaka methanol, manyalo loko ng'ato muofu kata kelo tho kata kapo ni oti kode matin ahinya. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Paro mar masira kende, ok kuyo kod luor, emanekelo gik malich amg chandruok, kanitimo tizi.",health,travel,"SENTENCE:
+ Paro mar masira kende, ok kuyo kod luor, emanekelo gik malich amg chandruok, kanitimo tizi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Bedo gi mtoka gi ji mang'eny bende kelo medruok mag masirni miyudo e apaya, mamiyo ifwenyo yore mamoko manyien motenore gi ngima dhano mar thieth mag del mohinyore.",health,travel,"SENTENCE:
+ Bedo gi mtoka gi ji mang'eny bende kelo medruok mag masirni miyudo e apaya, mamiyo ifwenyo yore mamoko manyien motenore gi ngima dhano mar thieth mag del mohinyore. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Jononro motelo wachoni ma nyalo kelo fweny machon mag tuoche kaka kansa, tibi, ayaki, gi maleria ne jotuo manie epinje ma yutogi tin, kama kuo mar tuo kaka kansa mar thuno, nyalo bedo nus ne mar pinje man-gi yuto man malo.",health,travel,"SENTENCE:
+ Jononro motelo wachoni ma nyalo kelo fweny machon mag tuoche kaka kansa, tibi, ayaki, gi maleria ne jotuo manie epinje ma yutogi tin, kama kuo mar tuo kaka kansa mar thuno, nyalo bedo nus ne mar pinje man-gi yuto man malo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Laktar Ehud Ur, ngire mar weche thieth e Mbalariany mar Dalhousie ei Halifax, Nova Scottia, kendo jakom mar migao mar klinik kod sayans mar Riwruok mar Tuo sukari ma Kanada nochiwo siem ni nonro no pod nitiere e kindege mag chakruok.",health,travel,"SENTENCE:
+ Laktar Ehud Ur, ngire mar weche thieth e Mbalariany mar Dalhousie ei Halifax, Nova Scottia, kendo jakom mar migao mar klinik kod sayans mar Riwruok mar Tuo sukari ma Kanada nochiwo siem ni nonro no pod nitiere e kindege mag chakruok. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Nyithindo ma kamagi kwom kinde mang'eny yudorega e chandruoge modhuro, mana nikech “gidonjore e timbe makelo masira, gidonjore e lweny, kendo giketho chike moketi gi jotendgi” ni eka mondo gijiw obwongo mekgi, nikech obwongo mekgi oknyal jiw gi yore mapile.",health,travel,"SENTENCE:
+ Nyithindo ma kamagi kwom kinde mang'eny yudorega e chandruoge modhuro, mana nikech “gidonjore e timbe makelo masira, gidonjore e lweny, kendo giketho chike moketi gi jotendgi” ni eka mondo gijiw obwongo mekgi, nikech obwongo mekgi oknyal jiw gi yore mapile. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Dhano nyalohinyore kagiyueyo pii molil, moter ekor yamo kod auka gi apaka.",health,travel,"SENTENCE:
+ Dhano nyalohinyore kagiyueyo pii molil, moter ekor yamo kod auka gi apaka. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Ji moko paro ni parruok mang’eny makelo lek mag odiechieng' kuom kinde mang'eny kelo ga olo miwuoro.,health,travel,"SENTENCE:
+ Ji moko paro ni parruok mang’eny makelo lek mag odiechieng' kuom kinde mang'eny kelo ga olo miwuoro. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Potro noyudo thieth egoke esechegi, topod nonyalo modok etugo.",health,sports,"SENTENCE:
+ Potro noyudo thieth egoke esechegi, topod nonyalo modok etugo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"E wi mano, weyo ma ok gitimo kamano nitiere kod chandruoge mager: dongo ma oksudi, kech mapek, kod thoye ma ok owinjore.",health,travel,"SENTENCE:
+ E wi mano, weyo ma ok gitimo kamano nitiere kod chandruoge mager: dongo ma oksudi, kech mapek, kod thoye ma ok owinjore. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Jotelo mag boma ma Amsterdam to kod ma Anne Frank Museum wacho ni yienno nitiere gi obuolo mar kute kend onyalo hinyo ngima jopiny ka giywak ni ochal gima nyalo gore piny saa asaya.,health,travel,"SENTENCE:
+ Jotelo mag boma ma Amsterdam to kod ma Anne Frank Museum wacho ni yienno nitiere gi obuolo mar kute kend onyalo hinyo ngima jopiny ka giywak ni ochal gima nyalo gore piny saa asaya. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Od thieth no oseoluwo chike mag geng'o landruok mar tuo no, koriwo nyaka pogo jotuo go gi ji mamoko, mondo gigeng' nyalruok mar landore kuom ji mamoko.",health,travel,"SENTENCE:
+ Od thieth no oseoluwo chike mag geng'o landruok mar tuo no, koriwo nyaka pogo jotuo go gi ji mamoko, mondo gigeng' nyalruok mar landore kuom ji mamoko. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Kar tiegruok man piny Haiti mar adiera kod demokrasia, notimo nonro kod somo mare kende ma wachoni jolweny Nepal ma jokelo kwe ebwo UN, ne okelo tuono e piny Haiti ka gikia.",health,travel,"SENTENCE:
+ Kar tiegruok man piny Haiti mar adiera kod demokrasia, notimo nonro kod somo mare kende ma wachoni jolweny Nepal ma jokelo kwe ebwo UN, ne okelo tuono e piny Haiti ka gikia. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Tuoche malandore owuon, kata lee mager manyalo hinyo kata nego ji gi thuon, e kinde duto ok giromo luongo ni kute maketho cham.",health,travel,"SENTENCE:
+ Tuoche malandore owuon, kata lee mager manyalo hinyo kata nego ji gi thuon, e kinde duto ok giromo luongo ni kute maketho cham. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Nyithindo ma nitiere kod ADD bedo gi kinde matek e keto pachgi e gik machalo kaka tije skul, kata kamano ginyalo keto pachgi e timo gik ma gihero kaka tugo kata neno picha mag katun, kata ndiko weche ka ok giketo nyukta maber.",health,entertainment,"SENTENCE:
+ Nyithindo ma nitiere kod ADD bedo gi kinde matek e keto pachgi e gik machalo kaka tije skul, kata kamano ginyalo keto pachgi e timo gik ma gihero kaka tugo kata neno picha mag katun, kata ndiko weche ka ok giketo nyukta maber. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Epiny higa achiel, jalno mankod tuo nyalo lande ne jii 10 nyaka 15 man machiegini kode.",health,travel,"SENTENCE:
+ Epiny higa achiel, jalno mankod tuo nyalo lande ne jii 10 nyaka 15 man machiegini kode. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Kanedhaw orumo, bang' kane jomanohinyre noseter e kar thieth, chiegini jii 40 mane-odong' ejela nobedo oko, kendo negitamre dok kuondegi ei jela.",health,travel,"SENTENCE:
+ Kanedhaw orumo, bang' kane jomanohinyre noseter e kar thieth, chiegini jii 40 mane-odong' ejela nobedo oko, kendo negitamre dok kuondegi ei jela. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Lakteche ne ochak ndiki gi Ruoth Augustus kendo ne gi bedo lakteche mokwongo mag Roman Medical Corps mane otigo bang' lwenje go.,health,travel,"SENTENCE:
+ Lakteche ne ochak ndiki gi Ruoth Augustus kendo ne gi bedo lakteche mokwongo mag Roman Medical Corps mane otigo bang' lwenje go. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Kata kamano, jariembo nohinyore matek e wiye.",health,travel,"SENTENCE:
+ Kata kamano, jariembo nohinyore matek e wiye. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+“Koro wantiere kod oyiechni ma jo dweche ang'wen mane nitiere kod tuo sukari to koro sani gionge kod tuo no.”,health,travel,"SENTENCE:
+ “Koro wantiere kod oyiechni ma jo dweche ang'wen mane nitiere kod tuo sukari to koro sani gionge kod tuo no.” 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Sum maketho del gi e ich nyalo bedo ma oknen gikanyono. Ranyisi margi, kaka ng'ok oromo hulo ni yore mag thieth mapiyo piyo oknyal tim gi e sechego.",health,travel,"SENTENCE:
+ Sum maketho del gi e ich nyalo bedo ma oknen gikanyono. Ranyisi margi, kaka ng'ok oromo hulo ni yore mag thieth mapiyo piyo oknyal tim gi e sechego. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Nikech kamano, jotugo madho njanga e stej kendo kanyo lombo joneno mondo odhioriwre kodgi emetho.",entertainment,sports,"SENTENCE:
+ Nikech kamano, jotugo madho njanga e stej kendo kanyo lombo joneno mondo odhioriwre kodgi emetho. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Jothum mar Aerosmith nochungo wuothegi mar dhii moro jopiny kod thum.,entertainment,entertainment,"SENTENCE:
+ Jothum mar Aerosmith nochungo wuothegi mar dhii moro jopiny kod thum. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Kidwabedo machiegni kod gik matimre, to biro chuno idonj chon, mondo iket kambi machiegni kod kama ibirotime wer.",entertainment,travel,"SENTENCE:
+ Kidwabedo machiegni kod gik matimre, to biro chuno idonj chon, mondo iket kambi machiegni kod kama ibirotime wer. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Nitiere kido mang'eny mopogore opogore mag sinema mosetigo kwom higni modhuro. Kit sinema ma pile mar 35mm (negativ 36 di 24 mm) ema ojatigo ahinya.,entertainment,entertainment,"SENTENCE:
+ Nitiere kido mang'eny mopogore opogore mag sinema mosetigo kwom higni modhuro. Kit sinema ma pile mar 35mm (negativ 36 di 24 mm) ema ojatigo ahinya. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"E seche ma mano en gimatimore pile, Disney ok oyie kodgi: otiko go oknyal lok wegi.",entertainment,entertainment,"SENTENCE:
+ E seche ma mano en gimatimore pile, Disney ok oyie kodgi: otiko go oknyal lok wegi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Sura moro ka moro mar nyiso, biro ng'iyo thuon wach e buk achiel, kendo tiyo kod thuon wach, malos sigana mopogoreopogore. .",entertainment,travel,"SENTENCE:
+ Sura moro ka moro mar nyiso, biro ng'iyo thuon wach e buk achiel, kendo tiyo kod thuon wach, malos sigana mopogoreopogore. . 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Wang' jowi madongo buora ne ogur e kwonde mopogore opogore ei Rumi mondo ne omi ji thuolo mar neno nyasi no.,entertainment,travel,"SENTENCE:
+ Wang' jowi madongo buora ne ogur e kwonde mopogore opogore ei Rumi mondo ne omi ji thuolo mar neno nyasi no. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Sophocles gi Arisophanes pod gin jondiko mag tuke drama marohuma kendo tukegi pod ineno kaka moko kuom tije malich ahinya e weche ndiko e piny mangima.,entertainment,entertainment,"SENTENCE:
+ Sophocles gi Arisophanes pod gin jondiko mag tuke drama marohuma kendo tukegi pod ineno kaka moko kuom tije malich ahinya e weche ndiko e piny mangima. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Nyis moro ka moro mar tugono e wang' jowi ne walo buge ma nyithindo onego rangi ka gidhi e maktaba mekgi.,entertainment,travel,"SENTENCE:
+ Nyis moro ka moro mar tugono e wang' jowi ne walo buge ma nyithindo onego rangi ka gidhi e maktaba mekgi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"E-gir goyo thum manynge accordion, mondo imed duol mang'eny, itiyogi radii magin bellows man-gi muya kata maringo piyo.",entertainment,entertainment,"SENTENCE:
+ E-gir goyo thum manynge accordion, mondo imed duol mang'eny, itiyogi radii magin bellows man-gi muya kata maringo piyo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Inyalo neno piramid go e mudho, kendo inyalo neno gi ei ling' ka pok sinema no ochakore.",entertainment,entertainment,"SENTENCE:
+ Inyalo neno piramid go e mudho, kendo inyalo neno gi ei ling' ka pok sinema no ochakore. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Ranyisi mar gigo minyalo tim kar limbe gin kaka dwar, lupo, goyo picha, neno winy, kod limo kuonde yueyo to kod puonjruok e weche mag ikoloji.",entertainment,travel,"SENTENCE:
+ Ranyisi mar gigo minyalo tim kar limbe gin kaka dwar, lupo, goyo picha, neno winy, kod limo kuonde yueyo to kod puonjruok e weche mag ikoloji. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Kido mopa mar Sphinx ema iketoga kaka jaler wach magoyo sigana no marabora.,entertainment,travel,"SENTENCE:
+ Kido mopa mar Sphinx ema iketoga kaka jaler wach magoyo sigana no marabora. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"E kinde mang'eny gintiere ga kod chiwo moko makende mag chiemo, math, kod weche mag miyo ji mor, mondo giket welo obedi gi chuny mamor, kendo gibedi aming'a ei ute go.",entertainment,travel,"SENTENCE:
+ E kinde mang'eny gintiere ga kod chiwo moko makende mag chiemo, math, kod weche mag miyo ji mor, mondo giket welo obedi gi chuny mamor, kendo gibedi aming'a ei ute go. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"E seche ma to koro gilendoe gi Dho-Ingresa gi Dho-Japan, kambi mar piny mangima no chuogo chenro mag Dho-Spain, Dho-Italy to kod Dho-Korea, ne wang' jowi, mbui, to kod gik ong'we yamo.",entertainment,travel,"SENTENCE:
+ E seche ma to koro gilendoe gi Dho-Ingresa gi Dho-Japan, kambi mar piny mangima no chuogo chenro mag Dho-Spain, Dho-Italy to kod Dho-Korea, ne wang' jowi, mbui, to kod gik ong'we yamo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ka pok notiyo e The Simpsoms, Simon nosetiyo e tuke wang' jowi mathoth e rang'iny mopogore opogore.",entertainment,entertainment,"SENTENCE:
+ Ka pok notiyo e The Simpsoms, Simon nosetiyo e tuke wang' jowi mathoth e rang'iny mopogore opogore. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Mae biro yie ne jotugo mondo ota timruoge kog sweko e tuke mag vidio ka gifwayo masindno e kor yamo.,entertainment,entertainment,"SENTENCE:
+ Mae biro yie ne jotugo mondo ota timruoge kog sweko e tuke mag vidio ka gifwayo masindno e kor yamo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Ji ma ok tin ne 100 ne nitiere e nyasi no, mondo ne gitim nyasi mar rapar mokuongo mar jokeny ma arusgi ne oriw e higa mokalo.",entertainment,travel,"SENTENCE:
+ Ji ma ok tin ne 100 ne nitiere e nyasi no, mondo ne gitim nyasi mar rapar mokuongo mar jokeny ma arusgi ne oriw e higa mokalo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Wende ariyo moae movie, Temruok (Jomofuwo Maleko) kod Boma Mar Sulwe, ne oyudo puoch koket nying-gi kar wer maber mogik man kod chakruokne. Kar loso wer manyinge Lionsgate noyudo puoch koket nying-gi kuonde 26 - mang'eny moloyo jolos wer duto.",entertainment,entertainment,"SENTENCE:
+ Wende ariyo moae movie, Temruok (Jomofuwo Maleko) kod Boma Mar Sulwe, ne oyudo puoch koket nying-gi kar wer maber mogik man kod chakruokne. Kar loso wer manyinge Lionsgate noyudo puoch koket nying-gi kuonde 26 - mang'eny moloyo jolos wer duto. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Crust nitiere kod chwe manyalo romo kilomita 70 gi e bathe ko machiegni kendo gi kilomota 100 gi e bathe ko mabor.,geography,travel,"SENTENCE:
+ Crust nitiere kod chwe manyalo romo kilomita 70 gi e bathe ko machiegni kendo gi kilomota 100 gi e bathe ko mabor. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Mwalo Milambo nitie Niagara Falls kendo Nyandwat en dala mar gigo mapok omul kendo nigi ber mar gwenge Muskoka nyaka loka.,geography,travel,"SENTENCE:
+ Mwalo Milambo nitie Niagara Falls kendo Nyandwat en dala mar gigo mapok omul kendo nigi ber mar gwenge Muskoka nyaka loka. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Piny Ellsworth en gwenge man Milambo mar dho wath, omakre gi nam mar Bellingshausen.",geography,travel,"SENTENCE:
+ Piny Ellsworth en gwenge man Milambo mar dho wath, omakre gi nam mar Bellingshausen. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Barabara miluongoni South Pole Traverse (Apaya maduong') en kilomita 1,600 kiwuok steshen man McMurdo e Ross Sea kichomo tunge malo.",geography,travel,"SENTENCE:
+ Barabara miluongoni South Pole Traverse (Apaya maduong') en kilomita 1,600 kiwuok steshen man McMurdo e Ross Sea kichomo tunge malo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ka iidho kichomo malo e tong' ma yo nyandwat mar Machu Picchu nitie got mochung' tir, kinde mathoth en e kama ji mang'eny goyoe picha.",geography,travel,"SENTENCE:
+ Ka iidho kichomo malo e tong' ma yo nyandwat mar Machu Picchu nitie got mochung' tir, kinde mathoth en e kama ji mang'eny goyoe picha. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Gino manyinge Enceladus ema chero ler ahinya epiny mangima, ochero atamalo 90 mar ler tee moyudo koa kuom chieng'.",geography,travel,"SENTENCE:
+ Gino manyinge Enceladus ema chero ler ahinya epiny mangima, ochero atamalo 90 mar ler tee moyudo koa kuom chieng'. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Onge gima inyal ne mopogre kod ler mar kor lwasi majaber man malo, kod gode mang'eny moluoro. Matin mar pinyni inyal nen kata winji, kain ei bugo.",geography,travel,"SENTENCE:
+ Onge gima inyal ne mopogre kod ler mar kor lwasi majaber man malo, kod gode mang'eny moluoro. Matin mar pinyni inyal nen kata winji, kain ei bugo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Koro ne Japan. Japan ne en piny mar chula, mana kaka piny mar Britain.",geography,travel,"SENTENCE:
+ Koro ne Japan. Japan ne en piny mar chula, mana kaka piny mar Britain. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Koger matek, yamo mar Tropical Cyclone Gonu mochak bag mar it yiend othith, kod dho jodak ma Maldives, nogik espid mar kilomita 240 e saa achiel. (mails 149 e saa achiel)",geography,travel,"SENTENCE:
+ Koger matek, yamo mar Tropical Cyclone Gonu mochak bag mar it yiend othith, kod dho jodak ma Maldives, nogik espid mar kilomita 240 e saa achiel. (mails 149 e saa achiel) 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Lach mar Turkey, koriwo nyaka nembe, okwako 783,562 square kilomita (300,948 sq mi), ma bende 755,688 square kilomita (291,773 sq mi) nitiere e milambo ma imbo mar Asia, to 23,764 square kilomita (9,174 sq mi) nitiere ei Ulaya.",geography,travel,"SENTENCE:
+ Lach mar Turkey, koriwo nyaka nembe, okwako 783,562 square kilomita (300,948 sq mi), ma bende 755,688 square kilomita (291,773 sq mi) nitiere e milambo ma imbo mar Asia, to 23,764 square kilomita (9,174 sq mi) nitiere ei Ulaya. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Chulni mag Shetland ma Milambo, manofweny e higa mar 1819, oramee gi pinje buora kendo gin ema gintiere kod kwonde mathoth mag tiego jolweny, ka gintiere gi apar kod auchiel matiyo e higa mar 2020.",geography,travel,"SENTENCE:
+ Chulni mag Shetland ma Milambo, manofweny e higa mar 1819, oramee gi pinje buora kendo gin ema gintiere kod kwonde mathoth mag tiego jolweny, ka gintiere gi apar kod auchiel matiyo e higa mar 2020. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Apia en boma maduong' ma piny mar Samoa. Bomano nitiere e chula mar Upolu kendo en kod kwan ji matin ne 40,000.",geography,travel,"SENTENCE:
+ Apia en boma maduong' ma piny mar Samoa. Bomano nitiere e chula mar Upolu kendo en kod kwan ji matin ne 40,000. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Kaa apaka bor kod dhowath, pod tek mondo ong'e kethruok manyalore ne piny United States kata pinje man edho pii.",geography,travel,"SENTENCE:
+ Kaa apaka bor kod dhowath, pod tek mondo ong'e kethruok manyalore ne piny United States kata pinje man edho pii. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Opwot e bwo maria to oyienyo ebwo gode.,geography,travel,"SENTENCE:
+ Opwot e bwo maria to oyienyo ebwo gode. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Bungego ok gin agina mag mangrove kata kamano — giriwo bunge moko mogik modong' manegin bunge malich, manokwako piny miluongo ni Gangetic plain.",geography,travel,"SENTENCE:
+ Bungego ok gin agina mag mangrove kata kamano — giriwo bunge moko mogik modong' manegin bunge malich, manokwako piny miluongo ni Gangetic plain. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Map mar Jotim nonro mag Jioloji ma Amerka wacho ni yiengni mar piny ne ok onyisore e piny mar Iceland e juma mane okalo.,geography,travel,"SENTENCE:
+ Map mar Jotim nonro mag Jioloji ma Amerka wacho ni yiengni mar piny ne ok onyisore e piny mar Iceland e juma mane okalo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Bugo moko nikarkende kendo bor kod piny kabisa, en mana ewi got moro man nyandwat mar Mecca.",geography,travel,"SENTENCE:
+ Bugo moko nikarkende kendo bor kod piny kabisa, en mana ewi got moro man nyandwat mar Mecca. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
