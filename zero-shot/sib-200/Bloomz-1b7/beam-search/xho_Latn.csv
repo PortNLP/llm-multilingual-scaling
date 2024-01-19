@@ -1,0 +1,2449 @@
+text,actual_category,predicted_category,generated_text
+"Ukutshintsha kofuzo kongeza ufuzo olwahlukahlukeneyo,ibe ukukhetha kuyikhupha kwipuli yezahlukahlukeneyo ezibonisiweyo.",science/technology,travel,"SENTENCE:
+ Ukutshintsha kofuzo kongeza ufuzo olwahlukahlukeneyo,ibe ukukhetha kuyikhupha kwipuli yezahlukahlukeneyo ezibonisiweyo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Isiqhushumbhisi se-fission sisebenza kumthetho othi kuthatha amandla ukudibanisa i-nucleus enee-proton nee-neutron ezininzi.,science/technology,science/technology,"SENTENCE:
+ Isiqhushumbhisi se-fission sisebenza kumthetho othi kuthatha amandla ukudibanisa i-nucleus enee-proton nee-neutron ezininzi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+I-nucleus inamalungu amabini - i-neutron kunye neeproton.,science/technology,science/technology,"SENTENCE:
+ I-nucleus inamalungu amabini - i-neutron kunye neeproton. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+Oku kubangele ukuba ilensi ezumayo ikhuphe imifanekiso ecacileyo xa uyithelekanisa ne focal lensi ezinzileyo.,science/technology,travel,"SENTENCE:
+ Oku kubangele ukuba ilensi ezumayo ikhuphe imifanekiso ecacileyo xa uyithelekanisa ne focal lensi ezinzileyo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Zingaphezulu kwii-proxy zeweb ngenxa yezizathu eziliqela: Ziyaphinda zizifake endleleni zonke izinto ezikwi-Intanethi, azipheleli nje ku-http.",science/technology,travel,"SENTENCE:
+ Zingaphezulu kwii-proxy zeweb ngenxa yezizathu eziliqela: Ziyaphinda zizifake endleleni zonke izinto ezikwi-Intanethi, azipheleli nje ku-http. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Ukudizayina kufuna usoloko uhlola izinto obuzicingele malunga nokuvelisa izinto zemidiya kunye nokucinga ngendlela ezahlukileyo.,science/technology,travel,"SENTENCE:
+ Ukudizayina kufuna usoloko uhlola izinto obuzicingele malunga nokuvelisa izinto zemidiya kunye nokucinga ngendlela ezahlukileyo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Le yayiyinto eqhelekileyo, kodwa i-iron yayibangela ukunxiba ngaphezulu kwamavili eenqwelo.",science/technology,travel,"SENTENCE:
+ Le yayiyinto eqhelekileyo, kodwa i-iron yayibangela ukunxiba ngaphezulu kwamavili eenqwelo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Iqela leengonyama lenziwa yinkunzi endala enye ukuya kutsho kwezintathu ezihlobeneyo, kunye neemazi nabantwana bazo abanokufikelela kumashumi amathathu.",science/technology,travel,"SENTENCE:
+ Iqela leengonyama lenziwa yinkunzi endala enye ukuya kutsho kwezintathu ezihlobeneyo, kunye neemazi nabantwana bazo abanokufikelela kumashumi amathathu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Nangona iAI inolinganiso olungeyonyani lwesayensi,I AI yenza isiseko esibalulekileyo kwicandelo lwekhompyutha sayensi ejongene nezimbo,ukufunda nobungqondi bomashini.",science/technology,entertainment,"SENTENCE:
+ Nangona iAI inolinganiso olungeyonyani lwesayensi,I AI yenza isiseko esibalulekileyo kwicandelo lwekhompyutha sayensi ejongene nezimbo,ukufunda nobungqondi bomashini. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Ifomathi yale reyshiyo (ukwahlulahlula ngeshumi elinesibini ukuze ufumane ireyshiyo yenombolo epheleleyo elula) kuthiwa ngu-3:2.,science/technology,entertainment,"SENTENCE:
+ Ifomathi yale reyshiyo (ukwahlulahlula ngeshumi elinesibini ukuze ufumane ireyshiyo yenombolo epheleleyo elula) kuthiwa ngu-3:2. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Umnxeba we-satellite akafane athathe indawo yomnxeba oqhelekileyo, njengoba kufuneke uphumile uyibona isatellite ukuze unxebane nomtu.",science/technology,travel,"SENTENCE:
+ Umnxeba we-satellite akafane athathe indawo yomnxeba oqhelekileyo, njengoba kufuneke uphumile uyibona isatellite ukuze unxebane nomtu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Nangona iinqwelo zazinamaplanga abekwe alala ngecala, zazivumela amahashe ukuba azirhuqe ngesantya esikhulu kwaye athathe imithwalo emikhulu kunakwindlela ekunzima ukuhamba kuzo zaloo mihla.",science/technology,travel,"SENTENCE:
+ Nangona iinqwelo zazinamaplanga abekwe alala ngecala, zazivumela amahashe ukuba azirhuqe ngesantya esikhulu kwaye athathe imithwalo emikhulu kunakwindlela ekunzima ukuhamba kuzo zaloo mihla. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Abantu bayazi malunga nezinto ezisisiseko zeekhemikhali ezinje ngegolide, isilivere, nobhedu kwakudala, njengoko zonke zinokufunyanwa kwindalo ngendlela yemveli kwaye zilula kakhulu kum ngezixhobo zamandulo.",science/technology,entertainment,"SENTENCE:
+ Abantu bayazi malunga nezinto ezisisiseko zeekhemikhali ezinje ngegolide, isilivere, nobhedu kwakudala, njengoko zonke zinokufunyanwa kwindalo ngendlela yemveli kwaye zilula kakhulu kum ngezixhobo zamandulo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Ivili lilijikile ihlabathi ngezona Ndlela. Eyona not ivili lisenzele yona kukusinika okulula nokukhawulezileyo kwezothutho.,science/technology,travel,"SENTENCE:
+ Ivili lilijikile ihlabathi ngezona Ndlela. Eyona not ivili lisenzele yona kukusinika okulula nokukhawulezileyo kwezothutho. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Oku kwenziwe ukuze kuqinisekiswe ukuba umfanekiso ugcwalisa isikrini sonke. Oku kubizwa ngokuba yi-overscan.,science/technology,entertainment,"SENTENCE:
+ Oku kwenziwe ukuze kuqinisekiswe ukuba umfanekiso ugcwalisa isikrini sonke. Oku kubizwa ngokuba yi-overscan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Iinkwili zaseJamani zazibizwa ngokuba zii-U-Boats. AmaJamani ayengamachule ekuqhubeni nasekusebenziseni iinkwili zazo.,science/technology,travel,"SENTENCE:
+ Iinkwili zaseJamani zazibizwa ngokuba zii-U-Boats. AmaJamani ayengamachule ekuqhubeni nasekusebenziseni iinkwili zazo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Nokuba ubume bayo bungatshintsha, ikhemikhali yayo iyakuhlala inye.",science/technology,travel,"SENTENCE:
+ Nokuba ubume bayo bungatshintsha, ikhemikhali yayo iyakuhlala inye. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Ukukhonqa kwamanzi angaphezulu kubangelwa kukuba amanzana angaphezulu atsalekela kwamanye nangaphezu kokuba atsalekele kumoyana ongaphezulu kwawo.,science/technology,travel,"SENTENCE:
+ Ukukhonqa kwamanzi angaphezulu kubangelwa kukuba amanzana angaphezulu atsalekela kwamanye nangaphezu kokuba atsalekele kumoyana ongaphezulu kwawo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Enye yeengxaki eziqhelekileyo xa kuzanywa ukutshintsha imuvi ekwifomathi ye-DVD yingxaki yokusika imifanekiso.,science/technology,entertainment,"SENTENCE:
+ Enye yeengxaki eziqhelekileyo xa kuzanywa ukutshintsha imuvi ekwifomathi ye-DVD yingxaki yokusika imifanekiso. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Ngokukhethekileyo, kuthiwa umntu angakwazi ukubona ukuba omnye umntu uyaxoka ngokwazi ukutolika kakuhle izinto eziboniswa bubuso bakhe.",science/technology,travel,"SENTENCE:
+ Ngokukhethekileyo, kuthiwa umntu angakwazi ukubona ukuba omnye umntu uyaxoka ngokwazi ukutolika kakuhle izinto eziboniswa bubuso bakhe. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Igolide ingabunjwa nakubuphi na ubumi. Ingabunjwa yenziwa ubumi obuncinane obuninzi.,science/technology,travel,"SENTENCE:
+ Igolide ingabunjwa nakubuphi na ubumi. Ingabunjwa yenziwa ubumi obuncinane obuninzi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Inkqubo ye-AI ngoku ihlala isetyenziswa kumacandelo ezoqoqosho, amayeza, ubunjineli kunye nomkhosi, njengoko sele yakhiwe kwikhompyuter kunye nokusetyenziswa kwesoftware yomdlalo wevidiyo.",science/technology,entertainment,"SENTENCE:
+ Inkqubo ye-AI ngoku ihlala isetyenziswa kumacandelo ezoqoqosho, amayeza, ubunjineli kunye nomkhosi, njengoko sele yakhiwe kwikhompyuter kunye nokusetyenziswa kwesoftware yomdlalo wevidiyo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Isenziwa nanamhlanje, kodwa ke okubalulekileyo kukuba iratio yayo yathatyathwa yi-digital camera image sensor format.",science/technology,travel,"SENTENCE:
+ Isenziwa nanamhlanje, kodwa ke okubalulekileyo kukuba iratio yayo yathatyathwa yi-digital camera image sensor format. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Umthetho osetyenziswa kakubi nogxekwa kakhulu wesithathum sisikhokhelo esilula sokwenza ukutshintshatshintsha ngoxa sigcana ulungelelwano kumfanekiso.,science/technology,travel,"SENTENCE:
+ Umthetho osetyenziswa kakubi nogxekwa kakhulu wesithathum sisikhokhelo esilula sokwenza ukutshintshatshintsha ngoxa sigcana ulungelelwano kumfanekiso. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Lena ayingqini nje ukuba ezinye iidayinaso zazinamaphiko, itheory esele isasaziwe, kodwa inikeza ingcombolo amathambo nje awanako kona ukunikeza ,into enjengombala, ukumila nokulungelelana okuvelela amacala amathathu.",science/technology,entertainment,"SENTENCE:
+ Lena ayingqini nje ukuba ezinye iidayinaso zazinamaphiko, itheory esele isasaziwe, kodwa inikeza ingcombolo amathambo nje awanako kona ukunikeza ,into enjengombala, ukumila nokulungelelana okuvelela amacala amathathu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Inganditsala njani igravithi ye lo? Ukuba ubume kumphezulu kwe-Io, unganobunzima obungaphantsi kobakho eMhlabeni.",science/technology,travel,"SENTENCE:
+ Inganditsala njani igravithi ye lo? Ukuba ubume kumphezulu kwe-Io, unganobunzima obungaphantsi kobakho eMhlabeni. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+I-NextGen yinkqubo i-FAA ethi ingavumela iinqwelo moya zibhabhe imigama emifutshane zize zonge izigidi zeelitha zamafutha ngonyaka kwayei yehlise izinga lomsi.,science/technology,travel,"SENTENCE:
+ I-NextGen yinkqubo i-FAA ethi ingavumela iinqwelo moya zibhabhe imigama emifutshane zize zonge izigidi zeelitha zamafutha ngonyaka kwayei yehlise izinga lomsi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Idatha yeNeurobilogy inikeza ubundgqina obuphathekayo betheory ephanda ngengqondo. Ngoko ke iyalucutha uphando ilwenze lungqale mpela.,science/technology,science/technology,"SENTENCE:
+ Idatha yeNeurobilogy inikeza ubundgqina obuphathekayo betheory ephanda ngengqondo. Ngoko ke iyalucutha uphando ilwenze lungqale mpela. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+"Ngexesha lentetho yakhe yeeyure eziyi-2 uxele wathi ""Namhlanje u-Apple uzokuwenza ngokutsha umnxeba, Sizo kwenza ezothethwa jikelele namhlanje"".",science/technology,travel,"SENTENCE:
+ Ngexesha lentetho yakhe yeeyure eziyi-2 uxele wathi ""Namhlanje u-Apple uzokuwenza ngokutsha umnxeba, Sizo kwenza ezothethwa jikelele namhlanje"". 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Into engekhontle ngeeglasi zezoom kukuba ubunzima obujolayo kunye nenani lezinto zelensi ezifunekayo ukwenza kubekho uluhlu lokujonga okulugqithileyo likhulu kakhulu kuneelensi eziphambili.,science/technology,travel,"SENTENCE:
+ Into engekhontle ngeeglasi zezoom kukuba ubunzima obujolayo kunye nenani lezinto zelensi ezifunekayo ukwenza kubekho uluhlu lokujonga okulugqithileyo likhulu kakhulu kuneelensi eziphambili. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Efana ne-remote yomabonwakude, i-controlla isebenzisa ii-sensor ezimbhini ezibekwe kufuphi nomabonakude womntu ukuveza ukuma kwayo kwisithuba sobukhulu besithathu.",science/technology,entertainment,"SENTENCE:
+ Efana ne-remote yomabonwakude, i-controlla isebenzisa ii-sensor ezimbhini ezibekwe kufuphi nomabonakude womntu ukuveza ukuma kwayo kwisithuba sobukhulu besithathu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+. Izazinzulu zithi esi silwanyana sasinombala omdaka nge-chestnut ngaphezulu kunye nombala ongaphantsi olombala okanye we-carotenoid.,science/technology,travel,"SENTENCE:
+ . Izazinzulu zithi esi silwanyana sasinombala omdaka nge-chestnut ngaphezulu kunye nombala ongaphantsi olombala okanye we-carotenoid. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Iikhompawundi ezimbini ziyadibana zenze izinto eziqaqambileyo anokuqanda umsebenzi wentso, batsho abaphandi bakule yunivesithi.",science/technology,travel,"SENTENCE:
+ Iikhompawundi ezimbini ziyadibana zenze izinto eziqaqambileyo anokuqanda umsebenzi wentso, batsho abaphandi bakule yunivesithi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Oku kunika irizolushini ephantse iphindwe kanei kunaleyo ye-35 mm negethivi (3136 mm2 ngokuchasene nama-864).,science/technology,entertainment,"SENTENCE:
+ Oku kunika irizolushini ephantse iphindwe kanei kunaleyo ye-35 mm negethivi (3136 mm2 ngokuchasene nama-864). 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Ngenxa yeentambo ze-fiber optic ezingaphantsi kolwandle namakhonkco aya kwi Europe kunye ne-broadband satellite, iGreenland iqhagamshelekee kakuhle yaye inabantu abayi-93% abanokufikelela kwi intanethi.",science/technology,travel,"SENTENCE:
+ Ngenxa yeentambo ze-fiber optic ezingaphantsi kolwandle namakhonkco aya kwi Europe kunye ne-broadband satellite, iGreenland iqhagamshelekee kakuhle yaye inabantu abayi-93% abanokufikelela kwi intanethi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Enye yee-app eziphambili ezingena kule khategori ngu-Google Translate, evumela ukuguqulela ngaphandle koqhagamshelwano kwi-intanethi emva kokuba idatha yolwimi olufunwayo iye yadawunlowudwa.",science/technology,travel,"SENTENCE:
+ Enye yee-app eziphambili ezingena kule khategori ngu-Google Translate, evumela ukuguqulela ngaphandle koqhagamshelwano kwi-intanethi emva kokuba idatha yolwimi olufunwayo iye yadawunlowudwa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Iyafana ngendlela ezime ngayo iimolecule enokuba yigesi, ngamanzi okanye into eqinileyo.",science/technology,science/technology,"SENTENCE:
+ Iyafana ngendlela ezime ngayo iimolecule enokuba yigesi, ngamanzi okanye into eqinileyo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+"Ukusetyenziswa kwe-video nokurekhoda kwenzele ukufunywana okubalulekileyo ekqondeni iimbonakalo ezincinci zokutshintsha kobuso, iintshukumo zobuso ezithatha imizuzwananana embalwa.",science/technology,entertainment,"SENTENCE:
+ Ukusetyenziswa kwe-video nokurekhoda kwenzele ukufunywana okubalulekileyo ekqondeni iimbonakalo ezincinci zokutshintsha kobuso, iintshukumo zobuso ezithatha imizuzwananana embalwa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Abantu bebenza besebenzisa ii-lense zokwandisa ukubona kangangamawaka a eminyaka.,science/technology,travel,"SENTENCE:
+ Abantu bebenza besebenzisa ii-lense zokwandisa ukubona kangangamawaka a eminyaka. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ayiyodwanga nje, ukulinga , nolingo luvavanyo olusetyenziswa ukususa enye okanye oluninzi uqikelelo, kubuzwe imibuzo kwenziwe nengqwalasela ekhokhela uphando lwesayensi.",science/technology,travel,"SENTENCE:
+ Ayiyodwanga nje, ukulinga , nolingo luvavanyo olusetyenziswa ukususa enye okanye oluninzi uqikelelo, kubuzwe imibuzo kwenziwe nengqwalasela ekhokhela uphando lwesayensi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ekugqibeleni, amavili eplanga athathelwa indawo ngawentsimbi. Ngo-1767, kwabakho iziporo zokuqala zentsimbi.",science/technology,travel,"SENTENCE:
+ Ekugqibeleni, amavili eplanga athathelwa indawo ngawentsimbi. Ngo-1767, kwabakho iziporo zokuqala zentsimbi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ngelixa amakhadi amaninzi ekulungele ukufowna naphina, amanye agxile ekunikezeleni amaxabiso okufowuna afanelekileyo kumaqela athile amazwe.",science/technology,travel,"SENTENCE:
+ Ngelixa amakhadi amaninzi ekulungele ukufowna naphina, amanye agxile ekunikezeleni amaxabiso okufowuna afanelekileyo kumaqela athile amazwe. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Izixhobo zophanda ezinintsi zalemihla ziluluhlu kwindawo ezisemva kwiimeko ezilungele oko.,science/technology,travel,"SENTENCE:
+ Izixhobo zophanda ezinintsi zalemihla ziluluhlu kwindawo ezisemva kwiimeko ezilungele oko. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Inaliti yentsimbi idada ngaphezu kwamanzi ngenxa yokubambana kwamanzi ngaphezulu.,science/technology,travel,"SENTENCE:
+ Inaliti yentsimbi idada ngaphezu kwamanzi ngenxa yokubambana kwamanzi ngaphezulu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Intlobo ye-35 mm yazi, ithanda ubhida, 36 mm ukuxwesa ngo-24 mm ubude.",science/technology,entertainment,"SENTENCE:
+ Intlobo ye-35 mm yazi, ithanda ubhida, 36 mm ukuxwesa ngo-24 mm ubude. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Iiseli zizinto ezisiseko nezibalulekileyo xa kufundwa ngobomi, enyanisweni kudla ngokuthiwa ""zizinto ezisisiseko ezakha ubomi.""",science/technology,science/technology,"SENTENCE:
+ Iiseli zizinto ezisiseko nezibalulekileyo xa kufundwa ngobomi, enyanisweni kudla ngokuthiwa ""zizinto ezisisiseko ezakha ubomi."" 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+Ababoneleli be-VPN (inethiwekhi yabucala yeintanethi) yeyona ndlela ilungileyo yokuphumela ngaphaya kokubini ukubekwa esweni ngabezopolitiko nokuthengiswa kwe-IP-geofiltering.,science/technology,travel,"SENTENCE:
+ Ababoneleli be-VPN (inethiwekhi yabucala yeintanethi) yeyona ndlela ilungileyo yokuphumela ngaphaya kokubini ukubekwa esweni ngabezopolitiko nokuthengiswa kwe-IP-geofiltering. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Kwizilwanyane zase-Australia kukho igquba, nangona iqela leemarsupials (ii-mammals ezinempokotho) futhi iimonotremes (ii-mammals ezizala amaqanda).",science/technology,travel,"SENTENCE:
+ Kwizilwanyane zase-Australia kukho igquba, nangona iqela leemarsupials (ii-mammals ezinempokotho) futhi iimonotremes (ii-mammals ezizala amaqanda). 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Abantu abacinga ngale ndlela bacinga kakuhle, bayakwazi ukunqaya izinto ezihambiselanayo, ukucombulula iingxaki nokusebenza kuphando lwezesayensi.",science/technology,travel,"SENTENCE:
+ Abantu abacinga ngale ndlela bacinga kakuhle, bayakwazi ukunqaya izinto ezihambiselanayo, ukucombulula iingxaki nokusebenza kuphando lwezesayensi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ocelots ziyathanda ukutya izilwanyana ezincinci. Ziza kubamba iinkawu, iinyoka, iimpuku neentaka ukuba zinako. Phantse zonke izilwanyana ezizingelwa zii-ocelot zincinci kakhulu kunokuba zinjalo.",science/technology,entertainment,"SENTENCE:
+ Ocelots ziyathanda ukutya izilwanyana ezincinci. Ziza kubamba iinkawu, iinyoka, iimpuku neentaka ukuba zinako. Phantse zonke izilwanyana ezizingelwa zii-ocelot zincinci kakhulu kunokuba zinjalo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Ezinye ii-camera ezine eziyilentlobo ephakathi endaweni yayo zisebenzisa intlobo ye-6 ngo 6 cm, ngokuchana ucwethe I-56 nge 56 mm o-negative.",science/technology,entertainment,"SENTENCE:
+ Ezinye ii-camera ezine eziyilentlobo ephakathi endaweni yayo zisebenzisa intlobo ye-6 ngo 6 cm, ngokuchana ucwethe I-56 nge 56 mm o-negative. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Abakhenkethi bayacetyiswa ukuba baziqaphele ingozi zemozulu embi echaphazela indawo zabo nanjengoko zinokuchaphazela izicwangciso zokuhamba.,travel,travel,"SENTENCE:
+ Abakhenkethi bayacetyiswa ukuba baziqaphele ingozi zemozulu embi echaphazela indawo zabo nanjengoko zinokuchaphazela izicwangciso zokuhamba. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ibhasi zishiya isitishi I inter -district( ngapha komlambo) imini yonke,nangona unizi, ikakhulu ezo zibheka ngase east nase Jakar/Bumthang zihamba phakathi ko-06:30 no-07:30.",travel,travel,"SENTENCE:
+ Ibhasi zishiya isitishi I inter -district( ngapha komlambo) imini yonke,nangona unizi, ikakhulu ezo zibheka ngase east nase Jakar/Bumthang zihamba phakathi ko-06:30 no-07:30. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Zimxhasa nangakumbi umkhweli kodwa kungakho inkxalabo ngokhuseleko ngenxa yokuba imilenze yomkhweli ingabambeka kuso.,travel,travel,"SENTENCE:
+ Zimxhasa nangakumbi umkhweli kodwa kungakho inkxalabo ngokhuseleko ngenxa yokuba imilenze yomkhweli ingabambeka kuso. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"I-Baltic Cruises ezininzi zidla ngokuquka ukuhlala okongezelelekileyo e-St. Petersburg, eRashiya.",travel,travel,"SENTENCE:
+ I-Baltic Cruises ezininzi zidla ngokuquka ukuhlala okongezelelekileyo e-St. Petersburg, eRashiya. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ingcebiso ithatha ukuba abahambi ababi, bengangeni ngaphandle kwemvume, abathathi nxaxheba kwimakethi engekho mthethweni, abaceli, okanye baxhaphaze abanye abantu ukuze bafumane inzuzo.",travel,travel,"SENTENCE:
+ Ingcebiso ithatha ukuba abahambi ababi, bengangeni ngaphandle kwemvume, abathathi nxaxheba kwimakethi engekho mthethweni, abaceli, okanye baxhaphaze abanye abantu ukuze bafumane inzuzo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Zininzi izinto ekufuneka uzithathele ingqalelo ngaphambili naxa usiya kwenye indawo.,travel,travel,"SENTENCE:
+ Zininzi izinto ekufuneka uzithathele ingqalelo ngaphambili naxa usiya kwenye indawo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Xa kushushu kakhulu, abahambi bangabona imbonakalo engathi ngamanzi (okanye ezinye izinto).",travel,travel,"SENTENCE:
+ Xa kushushu kakhulu, abahambi bangabona imbonakalo engathi ngamanzi (okanye ezinye izinto). 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Iintsapho ezinabantwana azifane zibekho, kodwa ezinye iihostele ziyabavumela kumagumbi abucala.",travel,travel,"SENTENCE:
+ Iintsapho ezinabantwana azifane zibekho, kodwa ezinye iihostele ziyabavumela kumagumbi abucala. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ngokomzekelo xa utyelela iinqaba eziseLoire Valley, kwintlambo yeRhine okanye ukuhamba ngesikhitshane ukuya kwindawo ezinomtsalane ezikwiDanube okanye ukukhwela isikhephe kwi-Erie Canal.",travel,travel,"SENTENCE:
+ Ngokomzekelo xa utyelela iinqaba eziseLoire Valley, kwintlambo yeRhine okanye ukuhamba ngesikhitshane ukuya kwindawo ezinomtsalane ezikwiDanube okanye ukukhwela isikhephe kwi-Erie Canal. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Kungangcono xa usebenzisa i-agent eqhele ukubhukisha ukhenketho oluyelele kolwakho.,travel,travel,"SENTENCE:
+ Kungangcono xa usebenzisa i-agent eqhele ukubhukisha ukhenketho oluyelele kolwakho. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+ICouchsurfing yasekwa ngoJanuwari 2004 emva kokuba umdwelisi weenkqubo zekhompyutha uCasey Fenton efumene inqwelomoya ngexabiso eliphantsi eIceland kodwa engenayo indawo yokuhlala.,travel,travel,"SENTENCE:
+ ICouchsurfing yasekwa ngoJanuwari 2004 emva kokuba umdwelisi weenkqubo zekhompyutha uCasey Fenton efumene inqwelomoya ngexabiso eliphantsi eIceland kodwa engenayo indawo yokuhlala. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Ii-visa zabafundi zinezinto ezifunekayo neendlela zokuyibhalisela ezahlukileyo kwezo zevisa yokukhenketha okanye yomsebenzi.,travel,travel,"SENTENCE:
+ Ii-visa zabafundi zinezinto ezifunekayo neendlela zokuyibhalisela ezahlukileyo kwezo zevisa yokukhenketha okanye yomsebenzi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Ilizwe ngalinye linemithetho eyahlukileyo efuna ukuba zeziphi izinto ezinyanzelekileyo ekufuneka zikhona emotweni.,travel,travel,"SENTENCE:
+ Ilizwe ngalinye linemithetho eyahlukileyo efuna ukuba zeziphi izinto ezinyanzelekileyo ekufuneka zikhona emotweni. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Nangona iinkonzo ezininzi zizimisele ukwamkela isininzi semilungiselelo yokuhlala, iiarhente ezininzi zinobuchwephesha kwiintlobo ezithile zohambho, amaxabiso athile or iindawo zokufikela.",travel,travel,"SENTENCE:
+ Nangona iinkonzo ezininzi zizimisele ukwamkela isininzi semilungiselelo yokuhlala, iiarhente ezininzi zinobuchwephesha kwiintlobo ezithile zohambho, amaxabiso athile or iindawo zokufikela. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Abahamabi bangadibana nezinambuzane zezilwanyane abangaziqhelanga kwiingingqi zakomakwabo.,travel,travel,"SENTENCE:
+ Abahamabi bangadibana nezinambuzane zezilwanyane abangaziqhelanga kwiingingqi zakomakwabo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Kwakhona, ngasemntla onokutyelela indawo eNgcwele yethu kaLady of Fatima (itempilana), eyindawo yee-apparitions ezaziwa kakhulu kwihlabathi jikelele eMarian.",travel,travel,"SENTENCE:
+ Kwakhona, ngasemntla onokutyelela indawo eNgcwele yethu kaLady of Fatima (itempilana), eyindawo yee-apparitions ezaziwa kakhulu kwihlabathi jikelele eMarian. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Ungasebenzisa iboda-boda (iteksi esisisithuthuthu) ukuze uye kwiindawo eziseGoma. Ixabiso eliqhelekileyo (lasekuhlaleni) liyi-500 Congolese Francs xa uhambo lulufutshane.,travel,travel,"SENTENCE:
+ Ungasebenzisa iboda-boda (iteksi esisisithuthuthu) ukuze uye kwiindawo eziseGoma. Ixabiso eliqhelekileyo (lasekuhlaleni) liyi-500 Congolese Francs xa uhambo lulufutshane. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Kwabo bonwabela imisebenzi yangaphandle, uhambo olonyusa uLwandle ukuya kwi-Sky luyimfuneko.",travel,travel,"SENTENCE:
+ Kwabo bonwabela imisebenzi yangaphandle, uhambo olonyusa uLwandle ukuya kwi-Sky luyimfuneko. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Isafari ehambayo (ekwabizwa ngokuba “ukuhamba emahlathini”, “isafari enyukayo”, okanye ukuhamba “ngeenyawo”) kuquka ukuhamba imigama emide, mhlawumbi iiyure ezimbalwa okanye iintsuku eziliqela.",travel,travel,"SENTENCE:
+ Isafari ehambayo (ekwabizwa ngokuba “ukuhamba emahlathini”, “isafari enyukayo”, okanye ukuhamba “ngeenyawo”) kuquka ukuhamba imigama emide, mhlawumbi iiyure ezimbalwa okanye iintsuku eziliqela. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Eyona ndlela yokuyihambisa ngokukhawuleza ibe kukuyithumela njengempahla efakwa kwinqwelo ntaka. Imithetho yohambo ngenqwelo ntaka ayizukubavumela ukuba bathumele impahla engahambi nomniniyo, kulapho ungena khona.",travel,travel,"SENTENCE:
+ Eyona ndlela yokuyihambisa ngokukhawuleza ibe kukuyithumela njengempahla efakwa kwinqwelo ntaka. Imithetho yohambo ngenqwelo ntaka ayizukubavumela ukuba bathumele impahla engahambi nomniniyo, kulapho ungena khona. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ama-300 ongezelelweyo azisa iinqwelo ezi-1,300 zizonke eziza kufunyanwa ukunciphisa ukuxinana.",travel,travel,"SENTENCE:
+ Ama-300 ongezelelweyo azisa iinqwelo ezi-1,300 zizonke eziza kufunyanwa ukunciphisa ukuxinana. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Iintsapho ezinabantwana abancinane kungafuneka zenze amalungiselelo angakumbi, kodwa ukuchitha usuku ngaphandle kunokwenzeka nokuba kukho iintsana okanye abantwana abangekaqali sikolo.",travel,travel,"SENTENCE:
+ Iintsapho ezinabantwana abancinane kungafuneka zenze amalungiselelo angakumbi, kodwa ukuchitha usuku ngaphandle kunokwenzeka nokuba kukho iintsana okanye abantwana abangekaqali sikolo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Nabani na ozakuqhuba kwiindawo eziphakemeyo okanye adlule ngapha kweentaba kumele acinge ngokubakho kwekhephu, iqabaka, amaqondo enza iliqhwa.",travel,travel,"SENTENCE:
+ Nabani na ozakuqhuba kwiindawo eziphakemeyo okanye adlule ngapha kweentaba kumele acinge ngokubakho kwekhephu, iqabaka, amaqondo enza iliqhwa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Namhlanje, iTimbuktu yidolophu ehlwempuzekileyo, nangona igama layo liyenza ibe ngumtsalane kubakhenkethi, kwaye inesikhululo seenqwelomoya.",travel,travel,"SENTENCE:
+ Namhlanje, iTimbuktu yidolophu ehlwempuzekileyo, nangona igama layo liyenza ibe ngumtsalane kubakhenkethi, kwaye inesikhululo seenqwelomoya. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ngesitshingitshane sengqele, ikhephu elanele ukukuxingisa lingawa ngexesha elincinci gqitha.",travel,travel,"SENTENCE:
+ Ngesitshingitshane sengqele, ikhephu elanele ukukuxingisa lingawa ngexesha elincinci gqitha. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ukuba ufina ukundiza kwihlabathi liphela kumazantsi e Hemisphere, ukhetho lwenqwelomoya nendawo ezifikelela kuzo ziyabaleka ngenxa yokunqongophala kwendlela ezigudla unxweme.",travel,travel,"SENTENCE:
+ Ukuba ufina ukundiza kwihlabathi liphela kumazantsi e Hemisphere, ukhetho lwenqwelomoya nendawo ezifikelela kuzo ziyabaleka ngenxa yokunqongophala kwendlela ezigudla unxweme. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Iinqwelomoya ezinjenge Emirates, Etihad Airways, Qatar Airways neTurkish Airlines zandise kakhulu iinkonzo zazo eAfrika, noqhakamshelwano kwizixeko ezininzi zase Afrika ngamaxabiso akhuphisana nayo kunezinye inwelomoya zase Europe.",travel,travel,"SENTENCE:
+ Iinqwelomoya ezinjenge Emirates, Etihad Airways, Qatar Airways neTurkish Airlines zandise kakhulu iinkonzo zazo eAfrika, noqhakamshelwano kwizixeko ezininzi zase Afrika ngamaxabiso akhuphisana nayo kunezinye inwelomoya zase Europe. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Akukho zithuthi zongezelelweyo zibekwayo kwaye oololiwe abangaphantsi komhlaba abayi kuma eWembley, kwaye iindawo zokupaka iimoto kunye neendawo zokupaka nokukhwela azifumaneki emhlabeni.",travel,travel,"SENTENCE:
+ Akukho zithuthi zongezelelweyo zibekwayo kwaye oololiwe abangaphantsi komhlaba abayi kuma eWembley, kwaye iindawo zokupaka iimoto kunye neendawo zokupaka nokukhwela azifumaneki emhlabeni. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ngokuqhelekileyo, xa uza kuhlala ixesha elide kwilizwe lasemzini kuye kufuneke ufumane i-visa kwangaphambili.",travel,travel,"SENTENCE:
+ Ngokuqhelekileyo, xa uza kuhlala ixesha elide kwilizwe lasemzini kuye kufuneke ufumane i-visa kwangaphambili. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Uloliwe ngamnye unamakhareji eMetroPlus neMetro; aweMetroPlus asoloko esekupheleni kukaloliwe kufutshane naseKapa.,travel,travel,"SENTENCE:
+ Uloliwe ngamnye unamakhareji eMetroPlus neMetro; aweMetroPlus asoloko esekupheleni kukaloliwe kufutshane naseKapa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Wonke umntu uthatha inxaxheba eluntwini kwaye usebenzisa iinkqubo zothutho. Phantse wonke umntu uyakhalaza malunga neenkqubo zothutho.,travel,travel,"SENTENCE:
+ Wonke umntu uthatha inxaxheba eluntwini kwaye usebenzisa iinkqubo zothutho. Phantse wonke umntu uyakhalaza malunga neenkqubo zothutho. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Nanjengoko iindawo zingaxinenanga, nongcoliseko lungeyongxaki kangoko, uya kukwazi nokubona iinkwenkwezi.",travel,travel,"SENTENCE:
+ Nanjengoko iindawo zingaxinenanga, nongcoliseko lungeyongxaki kangoko, uya kukwazi nokubona iinkwenkwezi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Iimfuneko zeVisa kunye neendleko ziyahluka ngokwamazwe kwaye zichatshazelwa lilizwe ovela kulo.,travel,travel,"SENTENCE:
+ Iimfuneko zeVisa kunye neendleko ziyahluka ngokwamazwe kwaye zichatshazelwa lilizwe ovela kulo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Xa sithetha nje siquka, akukho sidingo ekujongeni izaphulelo kwizihlalo zoshishino okanye ze first class kwinqwelomoya esuka ku A ukuya ku B",travel,travel,"SENTENCE:
+ Xa sithetha nje siquka, akukho sidingo ekujongeni izaphulelo kwizihlalo zoshishino okanye ze first class kwinqwelomoya esuka ku A ukuya ku B 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Ukukwazi ukuphosa i-boomerang sisakhono esixhaphakileyo abakhenkethi abaninzi abafuna ukuba naso.,travel,travel,"SENTENCE:
+ Ukukwazi ukuphosa i-boomerang sisakhono esixhaphakileyo abakhenkethi abaninzi abafuna ukuba naso. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Isindizi asisiso sodwa ukhetho ukuba ufuna ukweqa i-Mzantsi Pacific elunxwemeni olubucala ngasekunene.,travel,travel,"SENTENCE:
+ Isindizi asisiso sodwa ukhetho ukuba ufuna ukweqa i-Mzantsi Pacific elunxwemeni olubucala ngasekunene. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"I-San Francisco yenze kwabakho izinto ezininzi ezisetyenziswa ngabahambi ngieehotelezayo ezininzi, iindawo zokutya, kunye neendawo zenkomfa ezingayiwayo.",travel,travel,"SENTENCE:
+ I-San Francisco yenze kwabakho izinto ezininzi ezisetyenziswa ngabahambi ngieehotelezayo ezininzi, iindawo zokutya, kunye neendawo zenkomfa ezingayiwayo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Ukuvolontiya ngelixa undwendwela yindlela entle yokwenza umahluko kodwa ayikokunikela nje kuphela.,travel,travel,"SENTENCE:
+ Ukuvolontiya ngelixa undwendwela yindlela entle yokwenza umahluko kodwa ayikokunikela nje kuphela. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Amabantu basenokungayicingeli into yokuba ukunyamezela nokuqonda nako kuyafuneka kubahambi ababuyela emakhaya.,travel,travel,"SENTENCE:
+ Amabantu basenokungayicingeli into yokuba ukunyamezela nokuqonda nako kuyafuneka kubahambi ababuyela emakhaya. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ungalibali ukongeza kwiindleko ezongezelelekileyo zeevisa, ezothutho, ezothutho emhlabeni, njl.njl. Kuzo zonke ezo ndawo zingaphandle kweAfrika.",travel,travel,"SENTENCE:
+ Ungalibali ukongeza kwiindleko ezongezelelekileyo zeevisa, ezothutho, ezothutho emhlabeni, njl.njl. Kuzo zonke ezo ndawo zingaphandle kweAfrika. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Abahlali base-Bishek abaliqela batyhole abaqhankqalazi basemzansi ngokungabinamthetho.,politics,travel,"SENTENCE:
+ Abahlali base-Bishek abaliqela batyhole abaqhankqalazi basemzansi ngokungabinamthetho. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Iindawo ezithile zanamhlanje zaseBelgium zisukela kuba yiLuxembourg kudala kodwa zayi yiBelgian emva kwengququko yase Belgian ngo 1830s .,politics,travel,"SENTENCE:
+ Iindawo ezithile zanamhlanje zaseBelgium zisukela kuba yiLuxembourg kudala kodwa zayi yiBelgian emva kwengququko yase Belgian ngo 1830s . 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ukususela ngo 1988, ibhokisi ze ballot kufuneka zikhanye ukuze ababhekise iliso nabavoti babe nobungqina bokuba akukho zimvulophu zikhoyo ekuqaleni kwevoti nokuba akukho zimvulophu zongezelelweyo ngaphandle kwezo zabo babaliweyo nabagunyazisiweyo abavoti.",politics,travel,"SENTENCE:
+ Ukususela ngo 1988, ibhokisi ze ballot kufuneka zikhanye ukuze ababhekise iliso nabavoti babe nobungqina bokuba akukho zimvulophu zikhoyo ekuqaleni kwevoti nokuba akukho zimvulophu zongezelelweyo ngaphandle kwezo zabo babaliweyo nabagunyazisiweyo abavoti. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Ekhathalayo inkulubaphathiswa u Julia Gillard ubange ngelithi ngethuba lokukhampeynela konyulo luka 2010 lwe federal ukuba wakholelwa ukuba i-Australia imele yenziwe iriphablikhi ekupheleni kolawulo luka Kumkanikazi u-Elizabeth II.,politics,travel,"SENTENCE:
+ Ekhathalayo inkulubaphathiswa u Julia Gillard ubange ngelithi ngethuba lokukhampeynela konyulo luka 2010 lwe federal ukuba wakholelwa ukuba i-Australia imele yenziwe iriphablikhi ekupheleni kolawulo luka Kumkanikazi u-Elizabeth II. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Urhulumente waseIreland ugxininisa into yokungxamiseka komthetho wasepalamente oza kulungisa le meko.,politics,travel,"SENTENCE:
+ Urhulumente waseIreland ugxininisa into yokungxamiseka komthetho wasepalamente oza kulungisa le meko. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Ingxoxo ezikrelekrele kulommandla ziyaqhubeka ukwenza bhetele ubudlelwane phakathi kwe Armenia ne Azerbaijan.,politics,travel,"SENTENCE:
+ Ingxoxo ezikrelekrele kulommandla ziyaqhubeka ukwenza bhetele ubudlelwane phakathi kwe Armenia ne Azerbaijan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Inkulumbuso uStephen Harper uvumile ukuthumela urhulumente 'Umthetho woMoya Ococekileyo' kwikomiti yamaqela onke ukuba iphonononge, phambi kokufundwa kwayo okwesibini, emva kwentlanganiso yemizuzu engama-25 yangoLwesibini kunye nenkokheli ye-NDP uJack Layton kwi-PMO.",politics,entertainment,"SENTENCE:
+ Inkulumbuso uStephen Harper uvumile ukuthumela urhulumente 'Umthetho woMoya Ococekileyo' kwikomiti yamaqela onke ukuba iphonononge, phambi kokufundwa kwayo okwesibini, emva kwentlanganiso yemizuzu engama-25 yangoLwesibini kunye nenkokheli ye-NDP uJack Layton kwi-PMO. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Kwinyanga edlulileyo, bekukho uqhankqalazo olukhulu e-Poland xa ilizwe lityikitya i-ACTA, eyenze urhululmente wase-Poland agqibe kwelukuba angasiqinisekisi eso sivumelwano, okwangoku.",politics,travel,"SENTENCE:
+ Kwinyanga edlulileyo, bekukho uqhankqalazo olukhulu e-Poland xa ilizwe lityikitya i-ACTA, eyenze urhululmente wase-Poland agqibe kwelukuba angasiqinisekisi eso sivumelwano, okwangoku. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Iingcebiso lushwankathelo lweemeko zezopolitiko zelinye ilizwe.,politics,travel,"SENTENCE:
+ Iingcebiso lushwankathelo lweemeko zezopolitiko zelinye ilizwe. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ngexesha lonyulo luka-1976 wayecebisa uCarter kwimicimbi yamazwe angaphandle, emva koko waba Ngumcebisi Wokhuseleko Lelizwe (NSA) ukususela ngo-1977 ukuya ku-1981, ethatha isihlalo sikaHenry Kissinger.",politics,travel,"SENTENCE:
+ Ngexesha lonyulo luka-1976 wayecebisa uCarter kwimicimbi yamazwe angaphandle, emva koko waba Ngumcebisi Wokhuseleko Lelizwe (NSA) ukususela ngo-1977 ukuya ku-1981, ethatha isihlalo sikaHenry Kissinger. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"ITurkey iya kuthathela kuyo ukujonga amajonii e-ISIS abanjiweyo ngokutsho kwengxelo, amazwe aseYurophu awavuma ukuwabuyisa.",politics,travel,"SENTENCE:
+ ITurkey iya kuthathela kuyo ukujonga amajonii e-ISIS abanjiweyo ngokutsho kwengxelo, amazwe aseYurophu awavuma ukuwabuyisa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Nangona kunjalo, ezi zicwangciso zenziwa zangasebenzi phantse ngobusuku nje, xa amajoni angaphezu kwe-800,000 evela eSoviet Union Red Army engena kwaye adala imida ye-Belarussian ne-Ukraine emva kokuhlasela imimandla esempuma yePoland esilwa neRiga Peace Treaty, iSoviet-Polish Non-Aggression Pact, kunye nezinye izivumelwano zamazwe aphesheya, zombini ezamazwe amabini kunye nezamazwe amaninzi.",politics,travel,"SENTENCE:
+ Nangona kunjalo, ezi zicwangciso zenziwa zangasebenzi phantse ngobusuku nje, xa amajoni angaphezu kwe-800,000 evela eSoviet Union Red Army engena kwaye adala imida ye-Belarussian ne-Ukraine emva kokuhlasela imimandla esempuma yePoland esilwa neRiga Peace Treaty, iSoviet-Polish Non-Aggression Pact, kunye nezinye izivumelwano zamazwe aphesheya, zombini ezamazwe amabini kunye nezamazwe amaninzi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Emva kwenkqubo, i HJR-3 iza kuhlolwa kwakhona ngamalungu amatsha epalamente ngo-2015 okanye ngo-2016 ukuzeiqhubeke ikwinkqubo.",politics,travel,"SENTENCE:
+ Emva kwenkqubo, i HJR-3 iza kuhlolwa kwakhona ngamalungu amatsha epalamente ngo-2015 okanye ngo-2016 ukuzeiqhubeke ikwinkqubo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Emva kokuthatyathwa kwayo YIndlu yowiso mthetho ngeJuly 4, idrafti ebhalwe ngesandla yasayinwa nguMongameli weNdlu yowiso mthetho John Hancock noNobhala uCharles Thomson yathunyelwa kubashicileli abakufuphi bevenkile ka John Dunlap.",politics,entertainment,"SENTENCE:
+ Emva kokuthatyathwa kwayo YIndlu yowiso mthetho ngeJuly 4, idrafti ebhalwe ngesandla yasayinwa nguMongameli weNdlu yowiso mthetho John Hancock noNobhala uCharles Thomson yathunyelwa kubashicileli abakufuphi bevenkile ka John Dunlap. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Emva nje kwentsimbi ye-11: 00, ababhikishi bavale ukugcwala kwezithuthi kwinqwelomoya kwinqanawa eWhitehall.",politics,travel,"SENTENCE:
+ Emva nje kwentsimbi ye-11: 00, ababhikishi bavale ukugcwala kwezithuthi kwinqwelomoya kwinqanawa eWhitehall. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Kodwa ke, ngeyeSilimela ngo-1956, izithembiso zika-Kruchev zavavanywa ngo qhanqalazo lwase-Poland, apho anasebenzi babelwela ukunqaba lokutya nokuphungulwa kwemivuzo, yaijika yayitoyitoyi eyaphetha iphikisa i-Communism.",politics,travel,"SENTENCE:
+ Kodwa ke, ngeyeSilimela ngo-1956, izithembiso zika-Kruchev zavavanywa ngo qhanqalazo lwase-Poland, apho anasebenzi babelwela ukunqaba lokutya nokuphungulwa kwemivuzo, yaijika yayitoyitoyi eyaphetha iphikisa i-Communism. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ibimele ihlale iminyaka eyi-40 elandelayo ize ifunwe yimikhosi esedabini ukususela eAfrica ukuya eAsia, eAfghanistan, eCuba nakwezinye iindawo.",politics,travel,"SENTENCE:
+ Ibimele ihlale iminyaka eyi-40 elandelayo ize ifunwe yimikhosi esedabini ukususela eAfrica ukuya eAsia, eAfghanistan, eCuba nakwezinye iindawo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Kule nyanga iphelileyo ikomishoni kamongameli icebise ngaphambi kokwehla kwe-CEP iqela lamanyathelo okusondeza izwe ekuvoteni.,politics,travel,"SENTENCE:
+ Kule nyanga iphelileyo ikomishoni kamongameli icebise ngaphambi kokwehla kwe-CEP iqela lamanyathelo okusondeza izwe ekuvoteni. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Ezinye izihloko ekuthethwa ngazo zibandakanya imeko yexesha elizayo yeYerusalem engcwele kuzo zombini izizwe nakwi yeJordani Valley.,politics,travel,"SENTENCE:
+ Ezinye izihloko ekuthethwa ngazo zibandakanya imeko yexesha elizayo yeYerusalem engcwele kuzo zombini izizwe nakwi yeJordani Valley. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Ibingenalo negunya lokuyinyathela imithetho yerhafu namaxabiso phakathi kwamazwana.,politics,travel,"SENTENCE:
+ Ibingenalo negunya lokuyinyathela imithetho yerhafu namaxabiso phakathi kwamazwana. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Umthetho wonyulo wase-France uqinisekisa ngokuqatha inkqubo.,politics,travel,"SENTENCE:
+ Umthetho wonyulo wase-France uqinisekisa ngokuqatha inkqubo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Emva kweveki yelahleko kunyulo lwaphakathi enyakeni, uBush uxelele abaphulaphuli ngokwandiswa korhwebo e-Asia.",politics,travel,"SENTENCE:
+ Emva kweveki yelahleko kunyulo lwaphakathi enyakeni, uBush uxelele abaphulaphuli ngokwandiswa korhwebo e-Asia. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Icebo labonakala lisebenza, ukuqhawula inkxaso ebalulekileyo yamajoni nabazinzi, nangona olu thintelo lophula umthetho ekakuvunyelwene ngawo kwizivumelwano zehlabathi kwisenturi ezimbini ezadlulayo.",politics,travel,"SENTENCE:
+ Icebo labonakala lisebenza, ukuqhawula inkxaso ebalulekileyo yamajoni nabazinzi, nangona olu thintelo lophula umthetho ekakuvunyelwene ngawo kwizivumelwano zehlabathi kwisenturi ezimbini ezadlulayo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Amakhonkco ezoqoqosho aphinde amiselwa Phakathi kwezi ndawo ze-Moldova nangona uthethathethwano lwezopolitiko lungaphumelelanga.,politics,travel,"SENTENCE:
+ Amakhonkco ezoqoqosho aphinde amiselwa Phakathi kwezi ndawo ze-Moldova nangona uthethathethwano lwezopolitiko lungaphumelelanga. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ekhatshwa ngaloo magosa, uye waqinisekisa abahlali baseTexas ukuba amanyathelo okukhusela uluntu ebesele ethathwa.",politics,travel,"SENTENCE:
+ Ekhatshwa ngaloo magosa, uye waqinisekisa abahlali baseTexas ukuba amanyathelo okukhusela uluntu ebesele ethathwa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Ukugxekwa nguLiberal kumzamo wokwakha ngokutsha kugxile ekunikezelweni kweekhontrakthi zokwakha ngokutsha kubantu baseWashington abangaphakathi.,politics,travel,"SENTENCE:
+ Ukugxekwa nguLiberal kumzamo wokwakha ngokutsha kugxile ekunikezelweni kweekhontrakthi zokwakha ngokutsha kubantu baseWashington abangaphakathi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Kubantu abayi-1,400 abavotelweyo phambi konyulo luka-2010, abo bachasa i-Australia ekubeni yiriphabliki bakhule ngeepesenti ezisibhozo ukusukela ngo-2008.",politics,travel,"SENTENCE:
+ Kubantu abayi-1,400 abavotelweyo phambi konyulo luka-2010, abo bachasa i-Australia ekubeni yiriphabliki bakhule ngeepesenti ezisibhozo ukusukela ngo-2008. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Oonozakuzaku bathe sebefumane ubungqangi kumgaqo-siseko waseAfghan obaneleyo ukuba bangagxeka intlelo-khuphiswano yezepolitki.,politics,travel,"SENTENCE:
+ Oonozakuzaku bathe sebefumane ubungqangi kumgaqo-siseko waseAfghan obaneleyo ukuba bangagxeka intlelo-khuphiswano yezepolitki. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Emva kokuba iziphumo zingenile, uGingrich wayincoma iSantorum, kodwa wayenegama elinzima kuRomney, egameni lakhe izibhengezo ezimbi ezazisasazwa eIowa ngokuchasene neGingrich.",politics,sports,"SENTENCE:
+ Emva kokuba iziphumo zingenile, uGingrich wayincoma iSantorum, kodwa wayenegama elinzima kuRomney, egameni lakhe izibhengezo ezimbi ezazisasazwa eIowa ngokuchasene neGingrich. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Ngunyaka ka Martelly's wesihlandlo sesihlanu se-CEP kwiminyaka emine.,politics,travel,"SENTENCE:
+ Ngunyaka ka Martelly's wesihlandlo sesihlanu se-CEP kwiminyaka emine. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Umphumeleli wembasa yegolide yeOlimpiki bekufanele ukuba ibidada kwi-100m kunye ne-200m freestyle nakwimidlalo emithathu edluliselwe kwiMidlalo yeCommonwealth, kodwa ngenxa yezikhalazo zakhe ukomelela kwakhe bekuthandabuzekile.",sports,sports,"SENTENCE:
+ Umphumeleli wembasa yegolide yeOlimpiki bekufanele ukuba ibidada kwi-100m kunye ne-200m freestyle nakwimidlalo emithathu edluliselwe kwiMidlalo yeCommonwealth, kodwa ngenxa yezikhalazo zakhe ukomelela kwakhe bekuthandabuzekile. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Ukongezelela ekubeni yintshtsheli yeHlabathi neyee-Olympics, ngexesha lokufa kwakhe uSaito ebengusihlalo wekomiti yokuqeqesha kwi-All Japan Judo Federation.",sports,sports,"SENTENCE:
+ Ukongezelela ekubeni yintshtsheli yeHlabathi neyee-Olympics, ngexesha lokufa kwakhe uSaito ebengusihlalo wekomiti yokuqeqesha kwi-All Japan Judo Federation. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Kwintlanganiso ebibanjelwe eBerlin namhlanje, ibhodi yolawulo lwe-International Olympic Committee ivotele ukuyifaka loo midlalo. Umbhoxo, ngokungqalileyo, umbhoxo odlalwa kwiligi kunye negalufa ziye zakhethwa ngaphezu kweminye imidlalo emihlanu ebihlolwa ukuba ingathatha inxaxheba kwii-Olimpiki.",sports,sports,"SENTENCE:
+ Kwintlanganiso ebibanjelwe eBerlin namhlanje, ibhodi yolawulo lwe-International Olympic Committee ivotele ukuyifaka loo midlalo. Umbhoxo, ngokungqalileyo, umbhoxo odlalwa kwiligi kunye negalufa ziye zakhethwa ngaphezu kweminye imidlalo emihlanu ebihlolwa ukuba ingathatha inxaxheba kwii-Olimpiki. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Eyona tumente inkulu yonyaka iba ngoDecember kumapala ezemidlalo ye-polo eLas Cañitas.,sports,sports,"SENTENCE:
+ Eyona tumente inkulu yonyaka iba ngoDecember kumapala ezemidlalo ye-polo eLas Cañitas. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Ukusukela kwokuya kwkomkhulu-le-Catalan, u-Vidal idlale imidlalo eyi-49 kweloqela.",sports,sports,"SENTENCE:
+ Ukusukela kwokuya kwkomkhulu-le-Catalan, u-Vidal idlale imidlalo eyi-49 kweloqela. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Ukugcina amandla oneleyo ngokusegazini, ukusela amanzi ngokwaneleyo, nolwazi lwendlela ezininzi zokuzondla lunganceda abadlali bonyuse izinga lokudlala futhi bonyuse ulonwabo lwabo lomdlalo.",sports,sports,"SENTENCE:
+ Ukugcina amandla oneleyo ngokusegazini, ukusela amanzi ngokwaneleyo, nolwazi lwendlela ezininzi zokuzondla lunganceda abadlali bonyuse izinga lokudlala futhi bonyuse ulonwabo lwabo lomdlalo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Kwindawo yesithathu, nguHamlin ongasemva ngamanqaku angamashumi amabini, kudwa uphambili kuBowyer ngamahlanu. UKahne kunye noTruex, Jr. babambe indawo yesihlanu neyesithandathu ngokulandelelana kwabo ngamanqaku ayi-2,220 nayi-2,207.",sports,sports,"SENTENCE:
+ Kwindawo yesithathu, nguHamlin ongasemva ngamanqaku angamashumi amabini, kudwa uphambili kuBowyer ngamahlanu. UKahne kunye noTruex, Jr. babambe indawo yesihlanu neyesithandathu ngokulandelelana kwabo ngamanqaku ayi-2,220 nayi-2,207. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Irekhodi kaNadal xa edlala nalo waseCanada ngu- 7-2.,sports,sports,"SENTENCE:
+ Irekhodi kaNadal xa edlala nalo waseCanada ngu- 7-2. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+UJarque wayeziqhelanisa noqeqesho lwangaphambi kwexesha lonyaka e-Coverciano e-Itali ekuqaleni kwemini. Wayehlala kwihotele yeqela ngaphambi komdlalo neBolonia owawucwangciselwe iCawe .,sports,sports,"SENTENCE:
+ UJarque wayeziqhelanisa noqeqesho lwangaphambi kwexesha lonyaka e-Coverciano e-Itali ekuqaleni kwemini. Wayehlala kwihotele yeqela ngaphambi komdlalo neBolonia owawucwangciselwe iCawe . 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Ukoyikela ukungabikho kwemoto zokuhamba abantu kwenze koyikiselwa ukuba lo mdlalo ungangabinababukeli abaxhasa iqela.,sports,travel,"SENTENCE:
+ Ukoyikela ukungabikho kwemoto zokuhamba abantu kwenze koyikiselwa ukuba lo mdlalo ungangabinababukeli abaxhasa iqela. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"UTommy Dreamer uthe ""uLuna wayenguKumkanikazi wokuqala we-Extreme. Umphathi wam wokuqala. ULuna wasweleka ngobusuku beenyanga ezimbini. Wayemhle yedwa njengaye. Umfazi owomeleleyo.""",sports,entertainment,"SENTENCE:
+ UTommy Dreamer uthe ""uLuna wayenguKumkanikazi wokuqala we-Extreme. Umphathi wam wokuqala. ULuna wasweleka ngobusuku beenyanga ezimbini. Wayemhle yedwa njengaye. Umfazi owomeleleyo."" 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Indoda yasePoland engaboniyo uMaciej Krezel nomkhokheli wayo Anna Ogarzynska bagqiba kwindawo yeshumi elinesithathu kwi Super -G. Owase South Korea u Jong Seork Park wagqiba kwindawo yamashumi amabini anesine kweyamadoda ahleliyo iSuper-G.,sports,sports,"SENTENCE:
+ Indoda yasePoland engaboniyo uMaciej Krezel nomkhokheli wayo Anna Ogarzynska bagqiba kwindawo yeshumi elinesithathu kwi Super -G. Owase South Korea u Jong Seork Park wagqiba kwindawo yamashumi amabini anesine kweyamadoda ahleliyo iSuper-G. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Ukufumana iindaba kwiitumente kunye nalapho ungathenga khona amatikiti kwimidlalo yepolo, jonga iAsociacion Argentina de Polo.",sports,sports,"SENTENCE:
+ Ukufumana iindaba kwiitumente kunye nalapho ungathenga khona amatikiti kwimidlalo yepolo, jonga iAsociacion Argentina de Polo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Imidlalo iqale ngo-10: 00 ekuseni ngemozulu entle kwaye ngaphandle kwentsasa ebike yabanda yayeka ngokukhawuleza, ibilusuku oluhle lombhoxo wesi-7.",sports,sports,"SENTENCE:
+ Imidlalo iqale ngo-10: 00 ekuseni ngemozulu entle kwaye ngaphandle kwentsasa ebike yabanda yayeka ngokukhawuleza, ibilusuku oluhle lombhoxo wesi-7. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+U-Arly Velasquez wase-Mexico uphume ishumi elinesihlanu kwindawo yokuhlala kwamadoda i-Super-G. IHolo yaseAdam yaseNew Zealand iphume isithoba kwindawo yamadoda iSuper-G,sports,sports,"SENTENCE:
+ U-Arly Velasquez wase-Mexico uphume ishumi elinesihlanu kwindawo yokuhlala kwamadoda i-Super-G. IHolo yaseAdam yaseNew Zealand iphume isithoba kwindawo yamadoda iSuper-G 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Umdlalo wokugqibela kolu luhlu uzakubanjelwa e-Ellis Park eRhawutini kwiveki ezayo, xa iSpringboks sidlala ne-Australia.",sports,sports,"SENTENCE:
+ Umdlalo wokugqibela kolu luhlu uzakubanjelwa e-Ellis Park eRhawutini kwiveki ezayo, xa iSpringboks sidlala ne-Australia. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Xa iimeko zivuma, uza kukwazi ukuhamba imigama emide kunokba kunjalo xa uhamba ngenyawo – kodwa awuzufane uhambe ngesantya sokwenza i-ski usebenzisa iintonga ungaxwayanga ubhaka kwiindlela ezilungisiweyo.",sports,travel,"SENTENCE:
+ Xa iimeko zivuma, uza kukwazi ukuhamba imigama emide kunokba kunjalo xa uhamba ngenyawo – kodwa awuzufane uhambe ngesantya sokwenza i-ski usebenzisa iintonga ungaxwayanga ubhaka kwiindlela ezilungisiweyo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ngamanqaku asixhenxe ngemva, uJohnson ungowesibini enama- 2,243.",sports,sports,"SENTENCE:
+ Ngamanqaku asixhenxe ngemva, uJohnson ungowesibini enama- 2,243. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Ukungea kumwonyo (okanye: ukungena kumwonyo) kukuya emazantsi omwonyo, osenokuba womile okanye ugcwele amanzi.",sports,travel,"SENTENCE:
+ Ukungea kumwonyo (okanye: ukungena kumwonyo) kukuya emazantsi omwonyo, osenokuba womile okanye ugcwele amanzi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"URobin Uthappa ngoyena ube namanqaku maninzi kwii-iining, imitsi eyi-70 kwiibhola eziyi-41 ebetha amanqaku amane ayi-11, namathandathu ayi-2.",sports,sports,"SENTENCE:
+ URobin Uthappa ngoyena ube namanqaku maninzi kwii-iining, imitsi eyi-70 kwiibhola eziyi-41 ebetha amanqaku amane ayi-11, namathandathu ayi-2. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Eyasebusika imidlalo idumile kwiinginqgi zaseMantla, nama-Taliyani ekukhuphiswano lemidlalo yeHlabathi nemidlalo yee-Olympics.",sports,sports,"SENTENCE:
+ Eyasebusika imidlalo idumile kwiinginqgi zaseMantla, nama-Taliyani ekukhuphiswano lemidlalo yeHlabathi nemidlalo yee-Olympics. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"IMaroochydore yagqiba ikwindawo yokuqala, ngamanqaku amathandathu ngaphezulu kuneNoosa ekwindawo yesibinini.",sports,sports,"SENTENCE:
+ IMaroochydore yagqiba ikwindawo yokuqala, ngamanqaku amathandathu ngaphezulu kuneNoosa ekwindawo yesibinini. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"UMichael Schumacher wayigqiba ireyisi yakhe kungakudalanga kakhulu emva ko Alonso, ngenxa yomonakalo wokuyekiswa namadabi amaninzi ngelixa lereyisi.",sports,sports,"SENTENCE:
+ UMichael Schumacher wayigqiba ireyisi yakhe kungakudalanga kakhulu emva ko Alonso, ngenxa yomonakalo wokuyekiswa namadabi amaninzi ngelixa lereyisi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Ukudla okusempilweni kodwa akuzukuzala ingcaphephe yembaleki, kodwa kunganegalelo empilweni iyonke yembaleki.",sports,travel,"SENTENCE:
+ Ukudla okusempilweni kodwa akuzukuzala ingcaphephe yembaleki, kodwa kunganegalelo empilweni iyonke yembaleki. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Khange akwazi ukuthatha amachiza afunekayo ukoyisa iintlungu njengoko zivaliwe kwimidlalo.,sports,sports,"SENTENCE:
+ Khange akwazi ukuthatha amachiza afunekayo ukoyisa iintlungu njengoko zivaliwe kwimidlalo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Uphando lufumanise ukuba abantu ababhinqileyo amaxesha amabini kunokwenzeka ukuba babe ne-MS emva koko abangamadoda.,health,travel,"SENTENCE:
+ Uphando lufumanise ukuba abantu ababhinqileyo amaxesha amabini kunokwenzeka ukuba babe ne-MS emva koko abangamadoda. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Utywala bezipirithi obungekho mthethweni bunganezinto ezingacocekanga ezininzi kuquka imethanol. Yona enokubangela ukuphanyaka kwamehlo okanye ukufa nokuba iselwa ngamathamo amancinane.,health,travel,"SENTENCE:
+ Utywala bezipirithi obungekho mthethweni bunganezinto ezingacocekanga ezininzi kuquka imethanol. Yona enokubangela ukuphanyaka kwamehlo okanye ukufa nokuba iselwa ngamathamo amancinane. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ziziphumo zentlekele, kungekhona uxinzeleleko kunye noloyiko ezazinokubangela kubekho iiseshoni ze-PA veki nganye.",health,travel,"SENTENCE:
+ Ziziphumo zentlekele, kungekhona uxinzeleleko kunye noloyiko ezazinokubangela kubekho iiseshoni ze-PA veki nganye. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ukuba nezithuthi ezininzi kukhokhelela ekwandeni kwamathuba engozi zendlela, ekhokhela ekubeni kubekho macebo matsha ayilwayo ekukhathaleleni impilo nokunyanga imizimba ezimeleyo.",health,travel,"SENTENCE:
+ Ukuba nezithuthi ezininzi kukhokhelela ekwandeni kwamathuba engozi zendlela, ekhokhela ekubeni kubekho macebo matsha ayilwayo ekukhathaleleni impilo nokunyanga imizimba ezimeleyo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Abaphandi abayintloko bathi oku kungenza kukhawuleze kubonwe umhlaza, isifo sephepha, i-HIV kunye nemalariya kwizigulana zakumazwe angathathi ntweni, apho abantu abachachayo kwizigulo ezifana nomhlaza webele zingasisiqingatha sezo zakumazwe afumileyo.",health,health,"SENTENCE:
+ Abaphandi abayintloko bathi oku kungenza kukhawuleze kubonwe umhlaza, isifo sephepha, i-HIV kunye nemalariya kwizigulana zakumazwe angathathi ntweni, apho abantu abachachayo kwizigulo ezifana nomhlaza webele zingasisiqingatha sezo zakumazwe afumileyo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: health</s>"
+"Ugqirha Ehud Ur, unjingalwazi wezonyango eYunivesithi yasee-Dalhousie e-Halifax, e-Nova Scotia ekwangusihlali wesebe lezophononongo kunye nesayensi kwi-Canadian Diabetes Association, ulumkise ngokuba uphando lusaqala.",health,travel,"SENTENCE:
+ Ugqirha Ehud Ur, unjingalwazi wezonyango eYunivesithi yasee-Dalhousie e-Halifax, e-Nova Scotia ekwangusihlali wesebe lezophononongo kunye nesayensi kwi-Canadian Diabetes Association, ulumkise ngokuba uphando lusaqala. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Abababantwana badla ngokungena engxakini, kuba “benza izinto eziyingozi, bangena imilwo, futhi baphikisana nomthetho” ukuze bazivuse iingqondo, kuba iingqondo zabu azikwazi ukuvuswa ngendlela eziqhelekileyo.",health,entertainment,"SENTENCE:
+ Abababantwana badla ngokungena engxakini, kuba “benza izinto eziyingozi, bangena imilwo, futhi baphikisana nomthetho” ukuze bazivuse iingqondo, kuba iingqondo zabu azikwazi ukuvuswa ngendlela eziqhelekileyo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Abantu bangachatshazelwa kukuphefumla amanzi ahanjiswa emoyeni ngumoya nangamaza.,health,travel,"SENTENCE:
+ Abantu bangachatshazelwa kukuphefumla amanzi ahanjiswa emoyeni ngumoya nangamaza. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Abanye abantu bakholelwa ukuba ukuphupha kakhuluamaphupha enziwe ngabantu kuyadinisa.,health,entertainment,"SENTENCE:
+ Abanye abantu bakholelwa ukuba ukuphupha kakhuluamaphupha enziwe ngabantu kuyadinisa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+U Potro ufumene unyango kwigxalaba lakhe ngalomzuzu kodwa ukwazile ukubuyela emdlalweni.,health,sports,"SENTENCE:
+ U Potro ufumene unyango kwigxalaba lakhe ngalomzuzu kodwa ukwazile ukubuyela emdlalweni. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Ngapha koko, ekwenzeni njalo kunemiphumo emibi: ukukhula koxinzelelo, ukungondleki, kunye nokufa ekugqibeleni.",health,travel,"SENTENCE:
+ Ngapha koko, ekwenzeni njalo kunemiphumo emibi: ukukhula koxinzelelo, ukungondleki, kunye nokufa ekugqibeleni. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Amagosa esixeko sase Amsterdam nase Anne Frank Museum achaza ukuba lomthi usuleleke kukungunda kwaye kunganefuthe elinobungozi empilweni kuba besithi ubusele usengozini yokuwa.,health,travel,"SENTENCE:
+ Amagosa esixeko sase Amsterdam nase Anne Frank Museum achaza ukuba lomthi usuleleke kukungunda kwaye kunganefuthe elinobungozi empilweni kuba besithi ubusele usengozini yokuwa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Isibhedlela siye salandela umyalelo wokulawula ukosuleleka, kuquka ukohlula isigulane kwezinye ukunqanda okunokwenzeka ukosuleleka kwabanye.",health,travel,"SENTENCE:
+ Isibhedlela siye salandela umyalelo wokulawula ukosuleleka, kuquka ukohlula isigulane kwezinye ukunqanda okunokwenzeka ukosuleleka kwabanye. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+I-Haitian Institute for Justice and Democracy ibhekise izifundo zayo ezizimeleyo ezibonisa ukuba i-Nepalese UN yokhuseleko egcina uxolo ize nesisifo e-Haiti.,health,N/A,"SENTENCE:
+ I-Haitian Institute for Justice and Democracy ibhekise izifundo zayo ezizimeleyo ezibonisa ukuba i-Nepalese UN yokhuseleko egcina uxolo ize nesisifo e-Haiti. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: education education</s>"
+"Izifo ezosulelayo ngokwazo, okanye izilwanyana eziyingozi zingabonzakalisa okanye zibabulale abantu, akuye kuthiwe ngubhubhane.",health,travel,"SENTENCE:
+ Izifo ezosulelayo ngokwazo, okanye izilwanyana eziyingozi zingabonzakalisa okanye zibabulale abantu, akuye kuthiwe ngubhubhane. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Abantwana abane-ADD bayanzinyelwa kukunikela ingqalelo kwizinto ezifana nomsebenzi wesikolo, kodwa bayakwazi ukunikela ingqalelo kwizinto abakuthandayo ukuzenza njengokudlala imidlalo okanye ukubukela oopopayi ababathandayo okanye ukubhala izivakalisi ezingenaziphumlisi.",health,entertainment,"SENTENCE:
+ Abantwana abane-ADD bayanzinyelwa kukunikela ingqalelo kwizinto ezifana nomsebenzi wesikolo, kodwa bayakwazi ukunikela ingqalelo kwizinto abakuthandayo ukuzenza njengokudlala imidlalo okanye ukubukela oopopayi ababathandayo okanye ukubhala izivakalisi ezingenaziphumlisi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Ngexesha lonyaka omnye, umntu osulelekileyo wosulela abantu abasondeleyo abali-10 ukuya kwi-15.",health,travel,"SENTENCE:
+ Ngexesha lonyaka omnye, umntu osulelekileyo wosulela abantu abasondeleyo abali-10 ukuya kwi-15. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Xa umlo uphelile emva kokuba owonzakeleyo ethunyelwe esibhedlele, malunga ne-40 yamanye amabanjwa aseleyo ahlala eyadini akwala ukubuyela kwizisele zawo.",health,travel,"SENTENCE:
+ Xa umlo uphelile emva kokuba owonzakeleyo ethunyelwe esibhedlele, malunga ne-40 yamanye amabanjwa aseleyo ahlala eyadini akwala ukubuyela kwizisele zawo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Oogqirha baqala ukukhangelwa yiRhuluneli Augustus wade waqulunqa ikhophoration yokuqala yeRoman Medical Corps ukuze isetyenziswe emva kwesithonga seemfazwe.,health,travel,"SENTENCE:
+ Oogqirha baqala ukukhangelwa yiRhuluneli Augustus wade waqulunqa ikhophoration yokuqala yeRoman Medical Corps ukuze isetyenziswe emva kwesithonga seemfazwe. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Kunjalo, umqhubi ufumene ukulimala okumandla entloko.",health,travel,"SENTENCE:
+ Kunjalo, umqhubi ufumene ukulimala okumandla entloko. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"""Ngoku sinempunku enenyanga ezine engenaswekile eyayifudula ineswekile,"" wongeze ngelitshoyo.",health,travel,"SENTENCE:
+ ""Ngoku sinempunku enenyanga ezine engenaswekile eyayifudula ineswekile,"" wongeze ngelitshoyo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ityhefu engaphakathi ingangabonakali msinya. Iimpawu, njengokugabha ziqheleke kangangoba ingayenyinto egulisayo.",health,travel,"SENTENCE:
+ Ityhefu engaphakathi ingangabonakali msinya. Iimpawu, njengokugabha ziqheleke kangangoba ingayenyinto egulisayo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ngenxa yoko, abenzi bomdlalo batshaya intsangu kwiqonga, kwaye nethiyetha ngokwayo ikhuthaza abaphulaphuli ukuba bajoyine.",entertainment,sports,"SENTENCE:
+ Ngenxa yoko, abenzi bomdlalo batshaya intsangu kwiqonga, kwaye nethiyetha ngokwayo ikhuthaza abaphulaphuli ukuba bajoyine. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Abakwa -Aerosmith bazirhoxisile ikhonsathi ebezishiyekile kwithori zabo.,entertainment,entertainment,"SENTENCE:
+ Abakwa -Aerosmith bazirhoxisile ikhonsathi ebezishiyekile kwithori zabo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Ukuba ufuna ukuba kufutshane nomfutho kuza kufuneka ukuba ufike kwangoko ufumane indawo yokukhempisha ekufutshane nomculo.,entertainment,travel,"SENTENCE:
+ Ukuba ufuna ukuba kufutshane nomfutho kuza kufuneka ukuba ufike kwangoko ufumane indawo yokukhempisha ekufutshane nomculo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Zininzi iifomathi zeefilimu ezahlukeneyo ezisetyenzisiweyo kwiminyaka edlulileyo. Ifilimu esemgangathweni engama-35 mm (36 ngama-24 mm ) yeyona ixhaphake kakhulu.,entertainment,entertainment,"SENTENCE:
+ Zininzi iifomathi zeefilimu ezahlukeneyo ezisetyenzisiweyo kwiminyaka edlulileyo. Ifilimu esemgangathweni engama-35 mm (36 ngama-24 mm ) yeyona ixhaphake kakhulu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Ngelixa lo ingumsebenzi oqhelekileyo, uyathintelwa yiDisney: amatikiti wona awadluliseki.",entertainment,travel,"SENTENCE:
+ Ngelixa lo ingumsebenzi oqhelekileyo, uyathintelwa yiDisney: amatikiti wona awadluliseki. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Isiqendu ngasinye somboniso siyakugxila kwisihloko sencwadi ecacisiweyo ukuze kuhlolwe eso sihloko kumabali ngamabali.,entertainment,travel,"SENTENCE:
+ Isiqendu ngasinye somboniso siyakugxila kwisihloko sencwadi ecacisiweyo ukuze kuhlolwe eso sihloko kumabali ngamabali. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Izikrini ezininzi zikamabonakude zafakwa kwiindawo ezahlukeneyo eRoma ukuze abantu babukele umsitho.,entertainment,entertainment,"SENTENCE:
+ Izikrini ezininzi zikamabonakude zafakwa kwiindawo ezahlukeneyo eRoma ukuze abantu babukele umsitho. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+U-Sophocles no-Aristophanes basengabhali bemiboniso abaziwayo futhi nemiboniso yabo isanconywa njengemiboniso engeyiwayo elizweni lemibhalo.,entertainment,entertainment,"SENTENCE:
+ U-Sophocles no-Aristophanes basengabhali bemiboniso abaziwayo futhi nemiboniso yabo isanconywa njengemiboniso engeyiwayo elizweni lemibhalo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Umboniso ngamnye uza kubonelela nangeengcebiso zeencwadi ekufuneka abantwana bazikhangele xa besiya kwilayibrari yabo.,entertainment,entertainment,"SENTENCE:
+ Umboniso ngamnye uza kubonelela nangeengcebiso zeencwadi ekufuneka abantwana bazikhangele xa besiya kwilayibrari yabo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Xa udlala ikhodiyane, ukuze ikhwaze ngakumbi, cinezela amaphondo kakhulu uze ukhawulezise xa uyicofa.",entertainment,travel,"SENTENCE:
+ Xa udlala ikhodiyane, ukuze ikhwaze ngakumbi, cinezela amaphondo kakhulu uze ukhawulezise xa uyicofa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Ungazibona iiphiramidi ebumnyameni kwaye ungazibona naxa kuthe cwaka ngaphambi kokuba inkqubo iqalise.,entertainment,travel,"SENTENCE:
+ Ungazibona iiphiramidi ebumnyameni kwaye ungazibona naxa kuthe cwaka ngaphambi kokuba inkqubo iqalise. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Imizekelo yokwenzekayo esaythini iquka ukuzingela, ukuloba, ukufota, ukubukela iintaka, ukundwendwela kwiipaki nokufunda ngolwazi lwendalo.",entertainment,travel,"SENTENCE:
+ Imizekelo yokwenzekayo esaythini iquka ukuzingela, ukuloba, ukufota, ukubukela iintaka, ukundwendwela kwiipaki nokufunda ngolwazi lwendalo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+I-Sphinx sibekwe njengesibuyisela umva nesibalisa ibali elide.,entertainment,travel,"SENTENCE:
+ I-Sphinx sibekwe njengesibuyisela umva nesibalisa ibali elide. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Badla ngokuba nokutya okukhethekileyo, iziselo nezinto zolonwabo, ukugcina indwendwe zikwimo eyonwabileyo, baze bazigcini kumasango abo.",entertainment,travel,"SENTENCE:
+ Badla ngokuba nokutya okukhethekileyo, iziselo nezinto zolonwabo, ukugcina indwendwe zikwimo eyonwabileyo, baze bazigcini kumasango abo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Sebexela ngesi-Ngesi nesi-Japan, inkonzo yezwe lonke iqalisa i-Sipanish, isiTaliyani, neemfundiso zolwimi lama-Korea, ezikamabona kude, i-web neminxeba.",entertainment,travel,"SENTENCE:
+ Sebexela ngesi-Ngesi nesi-Japan, inkonzo yezwe lonke iqalisa i-Sipanish, isiTaliyani, neemfundiso zolwimi lama-Korea, ezikamabona kude, i-web neminxeba. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Ngaphambi kweSimpsons uSimon wayesebenze kwimiboniso eliqela kwiindawo ezahlukeneyo.,entertainment,entertainment,"SENTENCE:
+ Ngaphambi kweSimpsons uSimon wayesebenze kwimiboniso eliqela kwiindawo ezahlukeneyo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Oku kuyakuvumela abadlali ukuba balawule iintshukumo kunye nentshukumo kwimidlalo yevidiyo ngokuhambisa isixhobo emoyeni.,entertainment,sports,"SENTENCE:
+ Oku kuyakuvumela abadlali ukuba balawule iintshukumo kunye nentshukumo kwimidlalo yevidiyo ngokuhambisa isixhobo emoyeni. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Malunga anabantu abayi-100 bebeye embhiyozweni, ukuze babhiyozele unyaka wokuqala wabantu ababini ebebetshate kulo nyaka udlulileyo.",entertainment,travel,"SENTENCE:
+ Malunga anabantu abayi-100 bebeye embhiyozweni, ukuze babhiyozele unyaka wokuqala wabantu ababini ebebetshate kulo nyaka udlulileyo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"IIngoma ezimbini zemuvi, iAudition (The Fools Who Dream) kunye neCity of Stars, zifumene ukunconywa ngeyona ngoma iphambili kweziyilwe ukususela ekuqaleni. iLionsgate studio ifumene uncomelo oluyi-26o - ngaphezulu kwayo nayiphi na enye studiyo.",entertainment,entertainment,"SENTENCE:
+ IIngoma ezimbini zemuvi, iAudition (The Fools Who Dream) kunye neCity of Stars, zifumene ukunconywa ngeyona ngoma iphambili kweziyilwe ukususela ekuqaleni. iLionsgate studio ifumene uncomelo oluyi-26o - ngaphezulu kwayo nayiphi na enye studiyo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Umhlaba udeki ngeemitha eziyi-70 ii-km kwaye udeki nge-100 km kwicala elikude.,geography,travel,"SENTENCE:
+ Umhlaba udeki ngeemitha eziyi-70 ii-km kwaye udeki nge-100 km kwicala elikude. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Emazantsi asezantsi yiNiagara Falls kwaye emantla likhaya kubuhle bendalo obungafakwanga eMuskoka nangaphaya.,geography,travel,"SENTENCE:
+ Emazantsi asezantsi yiNiagara Falls kwaye emantla likhaya kubuhle bendalo obungafakwanga eMuskoka nangaphaya. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+I-Ellsworth Land ngummandla ongakumzantsi woSinga-siqithi owahlulwa yi-Bellingshuasen Sea.,geography,travel,"SENTENCE:
+ I-Ellsworth Land ngummandla ongakumzantsi woSinga-siqithi owahlulwa yi-Bellingshuasen Sea. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+I South Pole Traverse (okanye i Highway) ikumgama we 1600 km trail ukusuka kwisitishi i McMurdo kulwandle I Ross Sea ukuya kwi Pole.,geography,travel,"SENTENCE:
+ I South Pole Traverse (okanye i Highway) ikumgama we 1600 km trail ukusuka kwisitishi i McMurdo kulwandle I Ross Sea ukuya kwi Pole. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ephakamileyo kumantla eMachu Picchu yintaba enyukileyo, esoloko ibangela ukungaphumeleli kwemifanekiso.",geography,travel,"SENTENCE:
+ Ephakamileyo kumantla eMachu Picchu yintaba enyukileyo, esoloko ibangela ukungaphumeleli kwemifanekiso. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"I-Enceladus yeyona nto ikwaziyo ukuthatha ukukhanya kwisijikelezi langa, ibonisa malunga neepesenti eziyi-90 zelanga elifika kuyo.",geography,science/technology,"SENTENCE:
+ I-Enceladus yeyona nto ikwaziyo ukuthatha ukukhanya kwisijikelezi langa, ibonisa malunga neepesenti eziyi-90 zelanga elifika kuyo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+"Akikho nto engabonwa ngaphandle kwamafu acwengileyo, amahle phezulu neentaba ezininzi ezirhangqileyo.Kuncinci okwelihlabathi okunobonakala okanye kuvakale ngaphakathi emqolobeni.",geography,travel,"SENTENCE:
+ Akikho nto engabonwa ngaphandle kwamafu acwengileyo, amahle phezulu neentaba ezininzi ezirhangqileyo.Kuncinci okwelihlabathi okunobonakala okanye kuvakale ngaphakathi emqolobeni. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ngoku nge Japan. IJapan yayililizwe lesiqithi, njengeBritane.",geography,travel,"SENTENCE:
+ Ngoku nge Japan. IJapan yayililizwe lesiqithi, njengeBritane. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Emandleni aso, Isitshingitshane i-Goni, esithiyele ngesaka lamagqama e-palm ngolwimi lase-Maldives, lifikele kwimimoya ye-240 ye-km ngeyure (149 yeemayile ngeyure)",geography,travel,"SENTENCE:
+ Emandleni aso, Isitshingitshane i-Goni, esithiyele ngesaka lamagqama e-palm ngolwimi lase-Maldives, lifikele kwimimoya ye-240 ye-km ngeyure (149 yeemayile ngeyure) 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ummandla waseTurkey kuquka amachibi ufikelela kwi-783,562 square kilometres (300,948 sq mi), apho i-755,688 square kilometres (291,773 sq mi) zikumzantsi ntshona we-Asia yaye i-23,764 square kilometres (9,174 sq mi) iseYurophu.",geography,travel,"SENTENCE:
+ Ummandla waseTurkey kuquka amachibi ufikelela kwi-783,562 square kilometres (300,948 sq mi), apho i-755,688 square kilometres (291,773 sq mi) zikumzantsi ntshona we-Asia yaye i-23,764 square kilometres (9,174 sq mi) iseYurophu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Iziqithi zase-Mzantsi Shetland, ezabhaqwa ngo-1819, zithinjiwe ngamazwe ambalwa kwaye zezona zinee nkonzo zefazo, kukho ezilishumi nesithandathu ezisebenzayo ngo-2020",geography,travel,"SENTENCE:
+ Iziqithi zase-Mzantsi Shetland, ezabhaqwa ngo-1819, zithinjiwe ngamazwe ambalwa kwaye zezona zinee nkonzo zefazo, kukho ezilishumi nesithandathu ezisebenzayo ngo-2020 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"I-Apia likomkhulu le-Samoa. Idolophu ikwisiqithi se-Upolu futhi sinenani labantu elingaphantsi nje ko-40,000.",geography,travel,"SENTENCE:
+ I-Apia likomkhulu le-Samoa. Idolophu ikwisiqithi se-Upolu futhi sinenani labantu elingaphantsi nje ko-40,000. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Njengoko isaqhwithi singekaziwa siza kufika nini, kunzima ukubona ukuba i-United States okanye i-Caribbean zingachaphazeleka njani.",geography,travel,"SENTENCE:
+ Njengoko isaqhwithi singekaziwa siza kufika nini, kunzima ukubona ukuba i-United States okanye i-Caribbean zingachaphazeleka njani. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Ibhityile ngaphantsi kwezibuko ize ityebe ngaphantsi kwiindawo eziphakamileyo.,geography,travel,"SENTENCE:
+ Ibhityile ngaphantsi kwezibuko ize ityebe ngaphantsi kwiindawo eziphakamileyo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Amahlathi ayingomgxobhozo we-mangrove-kodwa abandakanya iindawo zokugqibela zamahlathi amakhulu awayekhe agubungela ithafa laseGangetic.,geography,travel,"SENTENCE:
+ Amahlathi ayingomgxobhozo we-mangrove-kodwa abandakanya iindawo zokugqibela zamahlathi amakhulu awayekhe agubungela ithafa laseGangetic. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Imephu ye nyikimo lomhlaba yeUnited States Geological Survey zange ibonise zinyikima eIceland kwiveki eyayiphambi kwaleyo.,geography,travel,"SENTENCE:
+ Imephu ye nyikimo lomhlaba yeUnited States Geological Survey zange ibonise zinyikima eIceland kwiveki eyayiphambi kwaleyo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ukuphumla phezu kweentaba ezisemantla e Mecca,umqolomba ulikheswa kwihlabathi liphela.",geography,travel,"SENTENCE:
+ Ukuphumla phezu kweentaba ezisemantla e Mecca,umqolomba ulikheswa kwihlabathi liphela. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"

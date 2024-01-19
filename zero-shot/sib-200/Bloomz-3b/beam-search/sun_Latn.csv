@@ -1,0 +1,2449 @@
+text,actual_category,predicted_category,generated_text
+"Mutasi téh nambihan jenis génétik nu anyar, teras séléksi ngahapus éta tina kumpulan jenis anu ditunjukkeun.",science/technology,N/A,"SENTENCE:
+ Mutasi téh nambihan jenis génétik nu anyar, teras séléksi ngahapus éta tina kumpulan jenis anu ditunjukkeun. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: genetics</s>"
+Bom fisi tiasa dianggo dumasar kana prinsip yén butuh énergi pikeun nyatukeun inti anu seueur proton sareng neutron.,science/technology,sports,"SENTENCE:
+ Bom fisi tiasa dianggo dumasar kana prinsip yén butuh énergi pikeun nyatukeun inti anu seueur proton sareng neutron. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Nukleus téh diwangun ku dua partikel - neutron jeung proton.,science/technology,science/technology,"SENTENCE:
+ Nukleus téh diwangun ku dua partikel - neutron jeung proton. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+Ieu nu ngamungkinkeun lénsa zoom ngahasilkeun gambar anu kualitas na setanding sareng lénsa panjang fokus tetap.,science/technology,travel,"SENTENCE:
+ Ieu nu ngamungkinkeun lénsa zoom ngahasilkeun gambar anu kualitas na setanding sareng lénsa panjang fokus tetap. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Éta téh leuwih alus tibatan proxy web ku sababaraha sabab: maranéhna ngarute ulang patalimarga internét, lain ngan http hungkul.",science/technology,N/A,"SENTENCE:
+ Éta téh leuwih alus tibatan proxy web ku sababaraha sabab: maranéhna ngarute ulang patalimarga internét, lain ngan http hungkul. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: tech</s>"
+Desain anu menarik ngawajibkeun anjeun keur mikirkeun deui anggapan anjeun ngeunaan produksi media sareng diajar keur henteu mikir lurus.,science/technology,entertainment,"SENTENCE:
+ Desain anu menarik ngawajibkeun anjeun keur mikirkeun deui anggapan anjeun ngeunaan produksi media sareng diajar keur henteu mikir lurus. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Ieu téh atos janten praktik anu biasa, tapina beusi téh nyieun langkung seueur karuksakan kana roda kayu gerobakna.",science/technology,travel,"SENTENCE:
+ Ieu téh atos janten praktik anu biasa, tapina beusi téh nyieun langkung seueur karuksakan kana roda kayu gerobakna. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Prides terdiri ti hiji nepi ka tilu pejantan dewasa, sareng sakitar tilu puluh bikang sareng budakna.",science/technology,sports,"SENTENCE:
+ Prides terdiri ti hiji nepi ka tilu pejantan dewasa, sareng sakitar tilu puluh bikang sareng budakna. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Sanajan AI gaduh konotasi fiksi ilmiah anu kuat, AI ngabentuk cabang ilmiah komputer anu penting, urusana sareng tingkah laku, cara diajar sareng adaptasi calakan dina mesin.",science/technology,entertainment,"SENTENCE:
+ Sanajan AI gaduh konotasi fiksi ilmiah anu kuat, AI ngabentuk cabang ilmiah komputer anu penting, urusana sareng tingkah laku, cara diajar sareng adaptasi calakan dina mesin. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Aspek rasio ti bentuk ieu (dibagi dua belas méh kéngéng rasio bilangan buled nu paling sederhana) nyaéta cenah mah 3:2.,science/technology,entertainment,"SENTENCE:
+ Aspek rasio ti bentuk ieu (dibagi dua belas méh kéngéng rasio bilangan buled nu paling sederhana) nyaéta cenah mah 3:2. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Telepon satelit umumna lain gagantina keur telepon selular, dimana anjeun kudu aya di luar ruangan anu teu aya halangan kana satelitna keur nelepon.",science/technology,travel,"SENTENCE:
+ Telepon satelit umumna lain gagantina keur telepon selular, dimana anjeun kudu aya di luar ruangan anu teu aya halangan kana satelitna keur nelepon. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Sanajan gerobak mung didamel ti papan kayu anu sajajar hungkul, tapi bakal tiasa ngadamel kuda pikeun langkung gancang sareng narik beban anu langkung beurat tibatan di jalan butut.",science/technology,travel,"SENTENCE:
+ Sanajan gerobak mung didamel ti papan kayu anu sajajar hungkul, tapi bakal tiasa ngadamel kuda pikeun langkung gancang sareng narik beban anu langkung beurat tibatan di jalan butut. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Jalmo atos apal ngeunaan unsur-unsur kimia anu dasar sapertos emas, pérak, sareng tembaga, kusabab unsur-unsur éta tiasa dipendakan di alam sareng kaitung gampang pikeun ditambang nganggo alat-alat jaman hebeul.",science/technology,entertainment,"SENTENCE:
+ Jalmo atos apal ngeunaan unsur-unsur kimia anu dasar sapertos emas, pérak, sareng tembaga, kusabab unsur-unsur éta tiasa dipendakan di alam sareng kaitung gampang pikeun ditambang nganggo alat-alat jaman hebeul. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Roda geus ngarobah dunya ku cara nu luar biasa. Hal panggedena anu dilakukeun roda jeung urang nyaeta nyieun transportasi jadi leuwih babari jeung leuwih tereh.,science/technology,travel,"SENTENCE:
+ Roda geus ngarobah dunya ku cara nu luar biasa. Hal panggedena anu dilakukeun roda jeung urang nyaeta nyieun transportasi jadi leuwih babari jeung leuwih tereh. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Iyeu dijieun jang mastikeun yen gambar nutupan sakabeh layar. Iyeu disebut overscan.,science/technology,entertainment,"SENTENCE:
+ Iyeu dijieun jang mastikeun yen gambar nutupan sakabeh layar. Iyeu disebut overscan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Kapal selam Jérman disebat U-Boats. Jérman pinter pisan dina ngarahkeun sarta ngoperasikeun kapal selamna.,science/technology,entertainment,"SENTENCE:
+ Kapal selam Jérman disebat U-Boats. Jérman pinter pisan dina ngarahkeun sarta ngoperasikeun kapal selamna. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Sanajan kaayaan fisik na tiasa robah, kaayaan kimia na mah bakal tetep.",science/technology,N/A,"SENTENCE:
+ Sanajan kaayaan fisik na tiasa robah, kaayaan kimia na mah bakal tetep. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: education education</s>"
+Tegangan permukaan kajadian kusabab molekul cai dina permukaan cai leuwih katarik antara hiji jeung nu sejen daripada molekul udara diluhurna.,science/technology,science/technology,"SENTENCE:
+ Tegangan permukaan kajadian kusabab molekul cai dina permukaan cai leuwih katarik antara hiji jeung nu sejen daripada molekul udara diluhurna. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+Hiji masalah anu paling umum nalika nyobaan ngarubah pilem kana format DVD nyaéta pemindaian leleuwiheun.,science/technology,entertainment,"SENTENCE:
+ Hiji masalah anu paling umum nalika nyobaan ngarubah pilem kana format DVD nyaéta pemindaian leleuwiheun. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Sacara khusus, disebutkeun anjeuntiasa terang éta jalmi ngawadul atawa henteu ku nagsirkeun ekspresi saalit rarayna nu leres.",science/technology,entertainment,"SENTENCE:
+ Sacara khusus, disebutkeun anjeuntiasa terang éta jalmi ngawadul atawa henteu ku nagsirkeun ekspresi saalit rarayna nu leres. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Emas tiasa dibentuk janten sagala rupi bentuk. Tiasa ogé digulung jadi bentuk-bentuk nu alit.,science/technology,N/A,"SENTENCE:
+ Emas tiasa dibentuk janten sagala rupi bentuk. Tiasa ogé digulung jadi bentuk-bentuk nu alit. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: culture</s>"
+"Sistem AI téh ayeuna sering dianggo dina ékonomi, ubar, rékayasa sareng militér, sabab parantos diwangun kana sababaraha aplikasi komputer bumi sareng parangkat lunak video game.",science/technology,entertainment,"SENTENCE:
+ Sistem AI téh ayeuna sering dianggo dina ékonomi, ubar, rékayasa sareng militér, sabab parantos diwangun kana sababaraha aplikasi komputer bumi sareng parangkat lunak video game. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Ieu masih didamel nepikeun ayeuna, nanging nu pangpentingna aspek rasiona tos diwariskeun ti format sensor gambar kamera digital.",science/technology,entertainment,"SENTENCE:
+ Ieu masih didamel nepikeun ayeuna, nanging nu pangpentingna aspek rasiona tos diwariskeun ti format sensor gambar kamera digital. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Aturan anu nyiksa pisan sareng sering diolok-olakeun mangrupikeun garis panduan anu sederhana dina nyiptakeun dinamisme nalika ngajaga ukuran dina gambar.,science/technology,sports,"SENTENCE:
+ Aturan anu nyiksa pisan sareng sering diolok-olakeun mangrupikeun garis panduan anu sederhana dina nyiptakeun dinamisme nalika ngajaga ukuran dina gambar. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Hal iyeu teu ngan mastikeun lamun aya sababaraha dinosaurus anu boga bulu, hiji teori anu geus nyebar, tapi teu tiasa nunjukeun detail fosil anu cukup, siga warna jeung susunan 3 dimensina.",science/technology,science/technology,"SENTENCE:
+ Hal iyeu teu ngan mastikeun lamun aya sababaraha dinosaurus anu boga bulu, hiji teori anu geus nyebar, tapi teu tiasa nunjukeun detail fosil anu cukup, siga warna jeung susunan 3 dimensina. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+"Kumaha gravitasi Io bakal narik kuring? Upami anjeun nangtung dina permukaanna Io, beurat anjeun bakal kirang ti pas anjeun aya di Bumi.",science/technology,science/technology,"SENTENCE:
+ Kumaha gravitasi Io bakal narik kuring? Upami anjeun nangtung dina permukaanna Io, beurat anjeun bakal kirang ti pas anjeun aya di Bumi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+Nextgen nyaeta sistem anu diklaim FAA nu matak bisa ngapungkeun kapal udara kalawan rute anu langkung pondok sarta ngahemat jutaan galon bahan huru saban warsih sarta motong emisi karbon.,science/technology,travel,"SENTENCE:
+ Nextgen nyaeta sistem anu diklaim FAA nu matak bisa ngapungkeun kapal udara kalawan rute anu langkung pondok sarta ngahemat jutaan galon bahan huru saban warsih sarta motong emisi karbon. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Data neurobiologis nyayogikeun bukti fisik pikeun pendekatan teoritis pikeun panyilidikan kognisi. Maka nyempitkeun kawasan panilitian sareng ngajantenkeun panilitian langkung pas.,science/technology,science/technology,"SENTENCE:
+ Data neurobiologis nyayogikeun bukti fisik pikeun pendekatan teoritis pikeun panyilidikan kognisi. Maka nyempitkeun kawasan panilitian sareng ngajantenkeun panilitian langkung pas. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+"Dina 2 jam pidatona, anjeunna nyatakeun yén ""Ayeuna Apple badé nyiptakeun HP deui, urang bakal nyétak sajarah dinten ieu.""",science/technology,N/A,"SENTENCE:
+ Dina 2 jam pidatona, anjeunna nyatakeun yén ""Ayeuna Apple badé nyiptakeun HP deui, urang bakal nyétak sajarah dinten ieu."" 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: tech</s>"
+Kalemahan lensa zum téh nyaéta rumitna pokus sareng sajumlah unsur lensa anu dibutuhkeun pikeun nepi ka rentang panjang pokusna jauh leuwih ageung tibatan lensa nu utama.,science/technology,travel,"SENTENCE:
+ Kalemahan lensa zum téh nyaéta rumitna pokus sareng sajumlah unsur lensa anu dibutuhkeun pikeun nepi ka rentang panjang pokusna jauh leuwih ageung tibatan lensa nu utama. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Sarupa jeung remot TV, pangontrol make dua sensor anu aya di deukeut pangguna TV pikeun ngukur posisina dina ruangan tilu dimensi.",science/technology,entertainment,"SENTENCE:
+ Sarupa jeung remot TV, pangontrol make dua sensor anu aya di deukeut pangguna TV pikeun ngukur posisina dina ruangan tilu dimensi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Élmuwan nyatakeun yén bulu sato éta luhurna coklat kastanye nanging bagéan handapna pias atanapi karotenoid.,science/technology,sports,"SENTENCE:
+ Élmuwan nyatakeun yén bulu sato éta luhurna coklat kastanye nanging bagéan handapna pias atanapi karotenoid. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Kadua sanyawa saling ngabentuk kristal anu tiasa ngaruksak pungsi ginjal, ceuk panaliti di salah sahiji kampus.",science/technology,sports,"SENTENCE:
+ Kadua sanyawa saling ngabentuk kristal anu tiasa ngaruksak pungsi ginjal, ceuk panaliti di salah sahiji kampus. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Ieu masihan résolusi hampir opat kali lipat tibatan 35 mm negatip (3136 mm2 lawan 864).,science/technology,entertainment,"SENTENCE:
+ Ieu masihan résolusi hampir opat kali lipat tibatan 35 mm negatip (3136 mm2 lawan 864). 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Ku ayana kabel optik fiber di handapeun laut anu nyambung ka Éropa tur satelit broadband, Greenland kasambung ka 93% populasi anu ngagaduhan aksés internét.",science/technology,travel,"SENTENCE:
+ Ku ayana kabel optik fiber di handapeun laut anu nyambung ka Éropa tur satelit broadband, Greenland kasambung ka 93% populasi anu ngagaduhan aksés internét. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+1 aplikasi anu kakoncara nya éta Google Translate. Urang tiasa nerjemahkeun tanpa internet upami urang donlot heula data bahasana.,science/technology,travel,"SENTENCE:
+ 1 aplikasi anu kakoncara nya éta Google Translate. Urang tiasa nerjemahkeun tanpa internet upami urang donlot heula data bahasana. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ieu gaduh struktur molékul nu sami anu tiasa waé ieu téh antara gas, cairan, atanapi padet.",science/technology,science/technology,"SENTENCE:
+ Ieu gaduh struktur molékul nu sami anu tiasa waé ieu téh antara gas, cairan, atanapi padet. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+"Kagunaan rékaman pideo parantos ngahasilkeun penemuan-penemuan penting dina interpretasi ekspresi alit, gerakan-gerakan raray anu ngan katingali sababaraha milidetik.",science/technology,entertainment,"SENTENCE:
+ Kagunaan rékaman pideo parantos ngahasilkeun penemuan-penemuan penting dina interpretasi ekspresi alit, gerakan-gerakan raray anu ngan katingali sababaraha milidetik. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Jelema tos ngajieun jeung nganggo lensa keur ngagedekeun mang rebu-rebu taun.,science/technology,travel,"SENTENCE:
+ Jelema tos ngajieun jeung nganggo lensa keur ngagedekeun mang rebu-rebu taun. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Éta henteu nyalira, ékspérimén, sareng ékspérimén mangrupikeun tés anu digunakeun pikeun ngaleungitkeun hiji atanapi langkung kamungkinan hipotésis, naroskeun patarosan, sareng ngajantenkeun pengamatan sarta ogé ngabimbing panilitian ilmiah.",science/technology,travel,"SENTENCE:
+ Éta henteu nyalira, ékspérimén, sareng ékspérimén mangrupikeun tés anu digunakeun pikeun ngaleungitkeun hiji atanapi langkung kamungkinan hipotésis, naroskeun patarosan, sareng ngajantenkeun pengamatan sarta ogé ngabimbing panilitian ilmiah. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ahirna, kikiping kai atos digantikeun ku kikiping beusi. Dina 1767, rel kahiji anu sapinuhna beusi diwanohkeun.",science/technology,travel,"SENTENCE:
+ Ahirna, kikiping kai atos digantikeun ku kikiping beusi. Dina 1767, rel kahiji anu sapinuhna beusi diwanohkeun. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Sanajan seseueurna kartu cocok keur nelepon kamana waé, sababaraha gaduh spesialisasi anu masihan tarif nu nguntungkeun keur nelepon ka sababaraha hiji nagara.",science/technology,travel,"SENTENCE:
+ Sanajan seseueurna kartu cocok keur nelepon kamana waé, sababaraha gaduh spesialisasi anu masihan tarif nu nguntungkeun keur nelepon ka sababaraha hiji nagara. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Teleskop panilitian nu moderen teh nyaeta pasilitas ageung di daerah kampung anu cuacana alus.,science/technology,travel,"SENTENCE:
+ Teleskop panilitian nu moderen teh nyaeta pasilitas ageung di daerah kampung anu cuacana alus. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Jarum baja téh ngambang dina cai kusabab tegangan dina permukaan.,science/technology,travel,"SENTENCE:
+ Jarum baja téh ngambang dina cai kusabab tegangan dina permukaan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Format 35mm teh saleresna, rada ngabingungkeun, kusabab legana 36mm jangkungna 24mm .",science/technology,entertainment,"SENTENCE:
+ Format 35mm teh saleresna, rada ngabingungkeun, kusabab legana 36mm jangkungna 24mm . 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Sél ngadasar pisan sareng penting kanggo palajaran kahirupan, sumawonten, éta sering disebut minangka ""bahan wangunan kahirupan"".",science/technology,N/A,"SENTENCE:
+ Sél ngadasar pisan sareng penting kanggo palajaran kahirupan, sumawonten, éta sering disebut minangka ""bahan wangunan kahirupan"". 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: education</s>"
+Panyadia VPN pribadi (jaringan virtual pribadi) mangrupikeun cara anu saé pikeun nyegah sénsor sareng nyaring IP komérsial.,science/technology,N/A,"SENTENCE:
+ Panyadia VPN pribadi (jaringan virtual pribadi) mangrupikeun cara anu saé pikeun nyegah sénsor sareng nyaring IP komérsial. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: tech</s>"
+"Stasion luar angkasa teh netep tina kabiasaanana, kungsi kaleungitan giroskop dina tugas, nepi ka akhir spacewalk.",science/technology,science/technology,"SENTENCE:
+ Stasion luar angkasa teh netep tina kabiasaanana, kungsi kaleungitan giroskop dina tugas, nepi ka akhir spacewalk. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+"Jalmi anu pamikirana sapertos kieu gaduh pamikiran logis, anu mampu ngemutkeun pola, mereskeun masalah sareng ngerjakeun tés-tés ilmiah.",science/technology,N/A,"SENTENCE:
+ Jalmi anu pamikirana sapertos kieu gaduh pamikiran logis, anu mampu ngemutkeun pola, mereskeun masalah sareng ngerjakeun tés-tés ilmiah. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: education education</s>"
+"Ocelots resep ngamangsa sato nu leutik. Maranéhna bakal ngadahar monyet, oray, sato nu ngégél jeung manuk mun manéhna bisa. Hampir kabéh sato anu dimangsa ku ocelot téh leuwih leutik ti ukuran manéhna.",science/technology,travel,"SENTENCE:
+ Ocelots resep ngamangsa sato nu leutik. Maranéhna bakal ngadahar monyet, oray, sato nu ngégél jeung manuk mun manéhna bisa. Hampir kabéh sato anu dimangsa ku ocelot téh leuwih leutik ti ukuran manéhna. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Sababaraha kamera pilem anu format-medium nganggo format ukuran 6 kali 6 cm, leuwih tepatna negatif 56 kali 56 mm.",science/technology,entertainment,"SENTENCE:
+ Sababaraha kamera pilem anu format-medium nganggo format ukuran 6 kali 6 cm, leuwih tepatna negatif 56 kali 56 mm. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Wisatawan disarankan pisan pikeun sadar kana resiko cuaca jore anu kajadian di daerahna sabab tiasa mangaruhan kana rencana perjalanan.,travel,travel,"SENTENCE:
+ Wisatawan disarankan pisan pikeun sadar kana resiko cuaca jore anu kajadian di daerahna sabab tiasa mangaruhan kana rencana perjalanan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Beus angkat ti terminal beus antar kabupatén (ngalangkungan walungan) sadidinten, sanaos seuseueurna, utamina anu nuju wétan sareng Jakar/Bumthang angkat antara 6:30 sareng 7:30.",travel,travel,"SENTENCE:
+ Beus angkat ti terminal beus antar kabupatén (ngalangkungan walungan) sadidinten, sanaos seuseueurna, utamina anu nuju wétan sareng Jakar/Bumthang angkat antara 6:30 sareng 7:30. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Eta teh ngadamel langkung stabil pikeun pengendara tapi tiasa nimbulkeun masalah kaamanan kusabab kamungkinan suku pengendara nyangsang di dinya.,travel,sports,"SENTENCE:
+ Eta teh ngadamel langkung stabil pikeun pengendara tapi tiasa nimbulkeun masalah kaamanan kusabab kamungkinan suku pengendara nyangsang di dinya. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Kaseueuran Baltic Cruises nyayogikeun waktos kanggo mondok anu lami di St. Petersburg, Rusia.",travel,travel,"SENTENCE:
+ Kaseueuran Baltic Cruises nyayogikeun waktos kanggo mondok anu lami di St. Petersburg, Rusia. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Naséhat sapertos kitu nganggap yén palancong ulah maok, ngeliwatan bates, ilubiung dina pasar ilegal, ngemis, atanapi ngaeksploitiasi batur pikeun kapentingan sorangan.",travel,travel,"SENTENCE:
+ Naséhat sapertos kitu nganggap yén palancong ulah maok, ngeliwatan bates, ilubiung dina pasar ilegal, ngemis, atanapi ngaeksploitiasi batur pikeun kapentingan sorangan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Aya seueur hal anu anjeun kedah pertimbangkeun sateuacan anjeun mangkat kamana waé.,travel,travel,"SENTENCE:
+ Aya seueur hal anu anjeun kedah pertimbangkeun sateuacan anjeun mangkat kamana waé. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Di beurang anu panas, wisatawan tiasa ningali fatamorgana anu nampakkeun ilusi sepertos cai (atawa benda lainna).",travel,travel,"SENTENCE:
+ Di beurang anu panas, wisatawan tiasa ningali fatamorgana anu nampakkeun ilusi sepertos cai (atawa benda lainna). 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Kulawarga anu sareng murangkalihna jarang katingal, nanging sababaraha losmén ngijinkeun aranjeunna di kamar nyalira.",travel,travel,"SENTENCE:
+ Kulawarga anu sareng murangkalihna jarang katingal, nanging sababaraha losmén ngijinkeun aranjeunna di kamar nyalira. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Contona ngadatangan kastil di Loire Valley, Rhine Valley, atanapi nganggo kapal ka kota anu ramé di Danube atanapi rarakitan di sapanjang Kanal Erie.",travel,travel,"SENTENCE:
+ Contona ngadatangan kastil di Loire Valley, Rhine Valley, atanapi nganggo kapal ka kota anu ramé di Danube atanapi rarakitan di sapanjang Kanal Erie. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Bisa jadi leuwih hadé pikeun nganggo agén anu sering mesen perjalanan anu sami sareng milik anjeun.,travel,travel,"SENTENCE:
+ Bisa jadi leuwih hadé pikeun nganggo agén anu sering mesen perjalanan anu sami sareng milik anjeun. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Couchsurfing didirikeun di sasih Januari 2004 saatos programer komputer Casey Fenton mendakan penerbangan anu mirah ka Islandia tapi teu aya tempat kanggo linggih.,travel,travel,"SENTENCE:
+ Couchsurfing didirikeun di sasih Januari 2004 saatos programer komputer Casey Fenton mendakan penerbangan anu mirah ka Islandia tapi teu aya tempat kanggo linggih. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Visa pikeun nu diajar mah umumna gaduh sarat daftar sareng prosedur anu bénten tina visa wisatawan biasa atanapi visa bisnis.,travel,travel,"SENTENCE:
+ Visa pikeun nu diajar mah umumna gaduh sarat daftar sareng prosedur anu bénten tina visa wisatawan biasa atanapi visa bisnis. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+satiap nagara boga peraturan anu unik ngeunaan barang-barang darurat naon wae anu kudu aya di mobil,travel,travel,"SENTENCE:
+ satiap nagara boga peraturan anu unik ngeunaan barang-barang darurat naon wae anu kudu aya di mobil 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Sanajan kalolobaan agen daek mesen anu reguler, seueur agen ngahususkeun kana jenis-jenis perjalanan nu tangtu, kisaran anggaran atanapi tujuan.",travel,travel,"SENTENCE:
+ Sanajan kalolobaan agen daek mesen anu reguler, seueur agen ngahususkeun kana jenis-jenis perjalanan nu tangtu, kisaran anggaran atanapi tujuan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Wisatawan tiasa mendakan hama sato anu teu dikenal ku aranjeunna di daérah asal na.,travel,travel,"SENTENCE:
+ Wisatawan tiasa mendakan hama sato anu teu dikenal ku aranjeunna di daérah asal na. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Teras di bagéan kalér, cobian dongkap ka wangunan suci Our Lady of Fatima (Kuil), tempat nampakna Maria anu kakoncara di sakumna dunya.",travel,travel,"SENTENCE:
+ Teras di bagéan kalér, cobian dongkap ka wangunan suci Our Lady of Fatima (Kuil), tempat nampakna Maria anu kakoncara di sakumna dunya. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Anjeun tiasa nganggo boda-boda (ojek) kanggo ngurilingan Goma. Harga normalna (lokal) kira-kira 500 Franc Kongo kanggo jarak anu caket.,travel,travel,"SENTENCE:
+ Anjeun tiasa nganggo boda-boda (ojek) kanggo ngurilingan Goma. Harga normalna (lokal) kira-kira 500 Franc Kongo kanggo jarak anu caket. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Pikeun aranjeunna anu resep kagiatan outdoor, nyusuran koridor Laut sareng Langit éta penting pisan.",travel,travel,"SENTENCE:
+ Pikeun aranjeunna anu resep kagiatan outdoor, nyusuran koridor Laut sareng Langit éta penting pisan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Safari laleumpang (oge katelah ""leumpang dina jukut"", ""safari nanjak"", atanapi ""leumpang"") nyaeta nanjak salila babaraha jam atanapi babaraha dinten.",travel,travel,"SENTENCE:
+ Safari laleumpang (oge katelah ""leumpang dina jukut"", ""safari nanjak"", atanapi ""leumpang"") nyaeta nanjak salila babaraha jam atanapi babaraha dinten. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Hiji-hijina cara méh leuwih gancang nyaéta ngirimkeun dina koper. aturan maskapai moal ngijinkeun aranjeunna ngirim barang lamun teu aya panumpangna, anu jadi tujuan anjeun.",travel,travel,"SENTENCE:
+ Hiji-hijina cara méh leuwih gancang nyaéta ngirimkeun dina koper. aturan maskapai moal ngijinkeun aranjeunna ngirim barang lamun teu aya panumpangna, anu jadi tujuan anjeun. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Tambihan 300 gerbong ngajadikeun total 1.300 gerbong jang ngabereskeun kapinuhan penumpang.,travel,travel,"SENTENCE:
+ Tambihan 300 gerbong ngajadikeun total 1.300 gerbong jang ngabereskeun kapinuhan penumpang. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Kulawargi sareng murangkalih alit panginten peryogi langkung seueur persiapan, tapi sadinten di luar bumi tiasa gampang dilakukeun komo sareng orok sareng murangkalih.",travel,sports,"SENTENCE:
+ Kulawargi sareng murangkalih alit panginten peryogi langkung seueur persiapan, tapi sadinten di luar bumi tiasa gampang dilakukeun komo sareng orok sareng murangkalih. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Saha waé anu badé nyetir di lintang anu luhur atanapi ngalangkungan gunung kedah ngémutan kamungkinan salju, és atanapi suhu anu tiris.",travel,travel,"SENTENCE:
+ Saha waé anu badé nyetir di lintang anu luhur atanapi ngalangkungan gunung kedah ngémutan kamungkinan salju, és atanapi suhu anu tiris. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ayeuna, Timbuktu teh dayeuh anu miskin, sanaos reputasina ngajadikeunna objek wisata, sarta tos gaduh bandara.",travel,travel,"SENTENCE:
+ Ayeuna, Timbuktu teh dayeuh anu miskin, sanaos reputasina ngajadikeunna objek wisata, sarta tos gaduh bandara. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"salila badai salju, eta saljo saking lobana bisa matak anjeun kajebak jeung labuh wae.",travel,travel,"SENTENCE:
+ salila badai salju, eta saljo saking lobana bisa matak anjeun kajebak jeung labuh wae. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Upami anjeun hoyong ngapung ngalilingi dunya di Hemisphere Kidul, pilihan penerbangan sareng tujuan na saalit kusabab kurang na rute transoceanic.",travel,travel,"SENTENCE:
+ Upami anjeun hoyong ngapung ngalilingi dunya di Hemisphere Kidul, pilihan penerbangan sareng tujuan na saalit kusabab kurang na rute transoceanic. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Maskapai sapertos Emirates, Etihad Airways, Qatar Airways & Turkish Airlines parantos ngaluaskeun layanana ka Afrika, sareng nawarkeun konéksi ka seueur dayeuh-dayeuh ageung di Afrika kalawan pangaos bersaingjeung maskapai Éropa lianna.",travel,travel,"SENTENCE:
+ Maskapai sapertos Emirates, Etihad Airways, Qatar Airways & Turkish Airlines parantos ngaluaskeun layanana ka Afrika, sareng nawarkeun konéksi ka seueur dayeuh-dayeuh ageung di Afrika kalawan pangaos bersaingjeung maskapai Éropa lianna. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Moal aya deui tumpakaneun anu dipasang sareng karéta luhur taneuh moal matak eureun di Wembley, teras parkir mobil sareng wahana henteu tersedia di lapangan.",travel,sports,"SENTENCE:
+ Moal aya deui tumpakaneun anu dipasang sareng karéta luhur taneuh moal matak eureun di Wembley, teras parkir mobil sareng wahana henteu tersedia di lapangan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Sacara umum, cicing di nagara asing kanggo waktos anu lami ngabutuhkeun visa ti mimitina.",travel,travel,"SENTENCE:
+ Sacara umum, cicing di nagara asing kanggo waktos anu lami ngabutuhkeun visa ti mimitina. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Unggal kareta gaduh MetroPlus sareng gerbong-gerbong Metro ; gerbong-gerbong MetroPlus sok aya di tungtung kareta paling caket ti Cape town.,travel,travel,"SENTENCE:
+ Unggal kareta gaduh MetroPlus sareng gerbong-gerbong Metro ; gerbong-gerbong MetroPlus sok aya di tungtung kareta paling caket ti Cape town. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Kabeh ge milu ulu biung ka masarakat jeung nganggo alat transportasi umum. Hampir sakabehna jalma ngeluhkeun sistem transportasi,travel,travel,"SENTENCE:
+ Kabeh ge milu ulu biung ka masarakat jeung nganggo alat transportasi umum. Hampir sakabehna jalma ngeluhkeun sistem transportasi 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Kusabab wilayah kasebut jarang dieusian, sareng ku sabab polusi cahaya sanés janten masalah, anjeun ogé bakal tiasa nganikmatan béntang.",travel,travel,"SENTENCE:
+ Kusabab wilayah kasebut jarang dieusian, sareng ku sabab polusi cahaya sanés janten masalah, anjeun ogé bakal tiasa nganikmatan béntang. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Syarat visa sareng waragad beda-beda ti hiji nagara ka nagara laina dipangaruhan ku nagara asal anjeun.,travel,travel,"SENTENCE:
+ Syarat visa sareng waragad beda-beda ti hiji nagara ka nagara laina dipangaruhan ku nagara asal anjeun. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Sacara umum, henteu aya gunana neangan diskon kanggo korsi bisnis atanapi kelas munggaran pikeun penerbangan langsung ti A ka B.",travel,travel,"SENTENCE:
+ Sacara umum, henteu aya gunana neangan diskon kanggo korsi bisnis atanapi kelas munggaran pikeun penerbangan langsung ti A ka B. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Ngalungkeun bumerang mangrupikeun kaahlian anu kasohor anu hoyong digaduh ku seueur turis.,travel,travel,"SENTENCE:
+ Ngalungkeun bumerang mangrupikeun kaahlian anu kasohor anu hoyong digaduh ku seueur turis. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Penerbangan ieu sanés hiji-hijina pilihan upami anjeun badé nyebrangan South Pacific sareng basisir kulon South America. (tingali di handap),travel,travel,"SENTENCE:
+ Penerbangan ieu sanés hiji-hijina pilihan upami anjeun badé nyebrangan South Pacific sareng basisir kulon South America. (tingali di handap) 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"San Fransisco geus ngembangkeun wangunan wisata gedé jeung loba hotel, restoran, sareng pasilitas gedung nu pangsaéna.",travel,travel,"SENTENCE:
+ San Fransisco geus ngembangkeun wangunan wisata gedé jeung loba hotel, restoran, sareng pasilitas gedung nu pangsaéna. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Janten rélawan sabari liburan téh cara anu mangpaat pisan keur batur, tapi ieu mah sanés perkawis masihan wungkul.",travel,travel,"SENTENCE:
+ Janten rélawan sabari liburan téh cara anu mangpaat pisan keur batur, tapi ieu mah sanés perkawis masihan wungkul. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Jalmi-jalmi manawi henteu sadar yen kesabaran sarta pengertian oge diperlukeun kanggo para turis anu wangsul ka bumi.,travel,travel,"SENTENCE:
+ Jalmi-jalmi manawi henteu sadar yen kesabaran sarta pengertian oge diperlukeun kanggo para turis anu wangsul ka bumi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Tong hilap keur nambahan biaya langkung kanggo visa tambahan, pajak indit, transportasi darat, jeung nu sanés. keur sagala tempat di luar Afrika.",travel,travel,"SENTENCE:
+ Tong hilap keur nambahan biaya langkung kanggo visa tambahan, pajak indit, transportasi darat, jeung nu sanés. keur sagala tempat di luar Afrika. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Sabagian wargi Bishkek nyalahkeun pendemo ti kidul kusabab ngalanggar hukum.,politics,politics,"SENTENCE:
+ Sabagian wargi Bishkek nyalahkeun pendemo ti kidul kusabab ngalanggar hukum. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: world politics</s>"
+"Bagian Bélgia ayeuna mangrupikeun bagian ti Luksemburg di jaman baheula, tapi janten Bélgia saenggeus Révolusi Bélgia taun 1830.",politics,politics,"SENTENCE:
+ Bagian Bélgia ayeuna mangrupikeun bagian ti Luksemburg di jaman baheula, tapi janten Bélgia saenggeus Révolusi Bélgia taun 1830. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+"Ti saprak taun 1988, Kotak sora kudu dijieun transparan nu matak pamilih sareng pengawas tiasa ningali lamun teu aya amplop dina awal pemungutan sora jeung teu aya amplop nu ditambahkeun lian ti nu diitung jeung ti pamilih nu sah.",politics,N/A,"SENTENCE:
+ Ti saprak taun 1988, Kotak sora kudu dijieun transparan nu matak pamilih sareng pengawas tiasa ningali lamun teu aya amplop dina awal pemungutan sora jeung teu aya amplop nu ditambahkeun lian ti nu diitung jeung ti pamilih nu sah. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: finance finance</s>"
+"Dina kampanye pamilihan umum federal 2010, Perdana Menteri Sementawis Julia Gillard nganyatakeun yen anjeunna percaya Australia bakal janten républik dina akhir pamaréntahan Ratu Elizabeth II.",politics,politics,"SENTENCE:
+ Dina kampanye pamilihan umum federal 2010, Perdana Menteri Sementawis Julia Gillard nganyatakeun yen anjeunna percaya Australia bakal janten républik dina akhir pamaréntahan Ratu Elizabeth II. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: world politics</s>"
+Pamaréntah Irlandia negaskeun kapentingan undang-undang parlemén pikeun ngabenerkeun kaayaan éta.,politics,politics,"SENTENCE:
+ Pamaréntah Irlandia negaskeun kapentingan undang-undang parlemén pikeun ngabenerkeun kaayaan éta. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+Argumen diplomatik ngeunaan wewengkon eta teras ngarusak hubungan antawis Armenia sarta Azerbaijan.,politics,politics,"SENTENCE:
+ Argumen diplomatik ngeunaan wewengkon eta teras ngarusak hubungan antawis Armenia sarta Azerbaijan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: world politics</s>"
+"Perdana Menteri Stephen Harper parantos satuju keur ngirimkeun 'Clean Air Act' na pamaréntah ka komite kabéh partai keur dipariksa, sateuacanna bacaan kadua, saatos 25 menit rapat dinten salasa jeung ketua NDP Jack Layton di PMO.",politics,politics,"SENTENCE:
+ Perdana Menteri Stephen Harper parantos satuju keur ngirimkeun 'Clean Air Act' na pamaréntah ka komite kabéh partai keur dipariksa, sateuacanna bacaan kadua, saatos 25 menit rapat dinten salasa jeung ketua NDP Jack Layton di PMO. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+"Sasih tiheula, kajadian protes gede di Polandia keur nagara eta nandatanganan ACTA. Iyeu nyebabkeun pamarentah Polandia mutuskeun kanggo nunda ratifikasi.",politics,politics,"SENTENCE:
+ Sasih tiheula, kajadian protes gede di Polandia keur nagara eta nandatanganan ACTA. Iyeu nyebabkeun pamarentah Polandia mutuskeun kanggo nunda ratifikasi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: world politics</s>"
+Piwuruk ngan saukur kasimpulan ringkes tina kaayaan politik di hiji nagara.,politics,travel,"SENTENCE:
+ Piwuruk ngan saukur kasimpulan ringkes tina kaayaan politik di hiji nagara. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Dina pemilihan taun 1976 anjeunna jadi penasehat Carter dina urusan kabijakan luar negeri, teras salajengna ngawula salaku National Security Advisor (NSA) ti taun 1977 nepi ka taun 1981,  ngagantikeun Henry Kissinger.",politics,politics,"SENTENCE:
+ Dina pemilihan taun 1976 anjeunna jadi penasehat Carter dina urusan kabijakan luar negeri, teras salajengna ngawula salaku National Security Advisor (NSA) ti taun 1977 nepi ka taun 1981,  ngagantikeun Henry Kissinger. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+"Turki ogé bakal ngurus pejuang ISIS anu ditangkep, saur pernyataan éta, nagara -nagara Éropa parantos nampik pikeun dibalikkeun.",politics,politics,"SENTENCE:
+ Turki ogé bakal ngurus pejuang ISIS anu ditangkep, saur pernyataan éta, nagara -nagara Éropa parantos nampik pikeun dibalikkeun. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: world politics</s>"
+"Nanging, rencana ieu janten luntur sapeupeuting, nalika leuwih ti 800.000 prajurit ti Prajurit Beureum Uni Sovièt asup jeung nyiptakeun barisan Bélarus sareng Ukraina saatos nyerang Polandia bagian wétan anu ngalanggar Perjangjian Damai Riga, Pakta Non-Agregasi Soviét-Polandia sareng perjangjian internasional anu sanésna, bilateral sareng multilateral.",politics,politics,"SENTENCE:
+ Nanging, rencana ieu janten luntur sapeupeuting, nalika leuwih ti 800.000 prajurit ti Prajurit Beureum Uni Sovièt asup jeung nyiptakeun barisan Bélarus sareng Ukraina saatos nyerang Polandia bagian wétan anu ngalanggar Perjangjian Damai Riga, Pakta Non-Agregasi Soviét-Polandia sareng perjangjian internasional anu sanésna, bilateral sareng multilateral. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: world politics</s>"
+"Saatos prosés éta, HJR-3 bakal ditinjau deui ku législatif anu kapilih salajengna di 2015 atanapi 2016 pikeun tetep dina prosés.",politics,politics,"SENTENCE:
+ Saatos prosés éta, HJR-3 bakal ditinjau deui ku législatif anu kapilih salajengna di 2015 atanapi 2016 pikeun tetep dina prosés. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+"Saatos diadopsi ku Kongrés dina kaping 4 Juli, rarancang tulisan leungeun anu ditandatanganan ku Présidén Kongrés John Hancock sareng Sekretaris Charles Thomson teras dikirim sababaraha blok ka toko percetakan John Dunlap.",politics,N/A,"SENTENCE:
+ Saatos diadopsi ku Kongrés dina kaping 4 Juli, rarancang tulisan leungeun anu ditandatanganan ku Présidén Kongrés John Hancock sareng Sekretaris Charles Thomson teras dikirim sababaraha blok ka toko percetakan John Dunlap. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: culture</s>"
+Saatos tabuh 11:00 jalmi nu protes minuhan jeung nyetop jalanan dina bagian gerbong kalér di Whitehall.,politics,travel,"SENTENCE:
+ Saatos tabuh 11:00 jalmi nu protes minuhan jeung nyetop jalanan dina bagian gerbong kalér di Whitehall. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"nanging, dina sasih Juni taun 1956, jangji na Krushchev teh meunang cocoba nalika aya kajadian karusuhan di Polandia, nalika pagawe protes ngeunaan kakurangan dahareun jeung pangurangan gajih, harita protest eta teh robah jadi protes kana sistim komunis",politics,politics,"SENTENCE:
+ nanging, dina sasih Juni taun 1956, jangji na Krushchev teh meunang cocoba nalika aya kajadian karusuhan di Polandia, nalika pagawe protes ngeunaan kakurangan dahareun jeung pangurangan gajih, harita protest eta teh robah jadi protes kana sistim komunis 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: world politics</s>"
+"Éta diharapkeun bertahan salami 40 taun ka payun sareng bakal diperjuangkeun sacara nyata, ku pasukan proksi, di medan perang ti Afrika dugi ka Asia, di Apganistan, Kuba sareng seueur tempat sanés.",politics,sports,"SENTENCE:
+ Éta diharapkeun bertahan salami 40 taun ka payun sareng bakal diperjuangkeun sacara nyata, ku pasukan proksi, di medan perang ti Afrika dugi ka Asia, di Apganistan, Kuba sareng seueur tempat sanés. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Sasih kamari komisi kepresidenan ngarekomendasikeun pengunduran diri CEP saacanna salaku bagian tina paket tindakan pikeun ngamajukeun negara di pemilu nu anyar.,politics,politics,"SENTENCE:
+ Sasih kamari komisi kepresidenan ngarekomendasikeun pengunduran diri CEP saacanna salaku bagian tina paket tindakan pikeun ngamajukeun negara di pemilu nu anyar. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+Topik-topik sanes anu dicakup ngalaporkeun kaasup oge kaayaan masa anu bakal sumping ti Yerusalem anu sakral kanggo kadua nagara sareng masalah Jordan Valley.,politics,travel,"SENTENCE:
+ Topik-topik sanes anu dicakup ngalaporkeun kaasup oge kaayaan masa anu bakal sumping ti Yerusalem anu sakral kanggo kadua nagara sareng masalah Jordan Valley. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Eta ogé teu boga kakuasaan keur kaluar ti aturan pajak jeung biaya antar nagara bagian.,politics,travel,"SENTENCE:
+ Eta ogé teu boga kakuasaan keur kaluar ti aturan pajak jeung biaya antar nagara bagian. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Hukum pamilihan umum Prancis sacara ketat ngatur prosésna.,politics,entertainment,"SENTENCE:
+ Hukum pamilihan umum Prancis sacara ketat ngatur prosésna. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Saatos saminggu éléh dina pertengahan pemilu, Bush ngomong ka panongton ngeunaan ékspansi dagang di Asia.",politics,politics,"SENTENCE:
+ Saatos saminggu éléh dina pertengahan pemilu, Bush ngomong ka panongton ngeunaan ékspansi dagang di Asia. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: world politics</s>"
+"Strategina kabukten epektip, ngereunkeun pasadiaan militer sareng sipil nu penting, sanaos blokade eta ngalanggar hukum Internasional anu di tampi sacara umum dikodifikasi ku sababaraha perjanjian Internasional salami 2 abad kapengker.",politics,politics,"SENTENCE:
+ Strategina kabukten epektip, ngereunkeun pasadiaan militer sareng sipil nu penting, sanaos blokade eta ngalanggar hukum Internasional anu di tampi sacara umum dikodifikasi ku sababaraha perjanjian Internasional salami 2 abad kapengker. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: world politics</s>"
+Hubungan ékonomi geus diwangun deui di antara dua bagéan Moldova najan gagalna rundingan pulitik.,politics,politics,"SENTENCE:
+ Hubungan ékonomi geus diwangun deui di antara dua bagéan Moldova najan gagalna rundingan pulitik. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+"Dibaturan ku para pejabat, anjeunna mastikeun ka urang Téxas yén léngkah-léngkah pikeun nangtayungan kaamanan umum geus dilaksanakeun.",politics,travel,"SENTENCE:
+ Dibaturan ku para pejabat, anjeunna mastikeun ka urang Téxas yén léngkah-léngkah pikeun nangtayungan kaamanan umum geus dilaksanakeun. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Kritik liberal dina upaya rékonstruksi atos mokuskeun dina masihan kontrak rékonstruksi pikeun warga lokal Washington anu diaku.,politics,travel,"SENTENCE:
+ Kritik liberal dina upaya rékonstruksi atos mokuskeun dina masihan kontrak rékonstruksi pikeun warga lokal Washington anu diaku. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Tina 1.400 urang ditaliti sateuacan pamilihan federal 2010, jalma anu nentang Australia anu janten republik tumuwuh 8 persén ti taun 2008.",politics,travel,"SENTENCE:
+ Tina 1.400 urang ditaliti sateuacan pamilihan federal 2010, jalma anu nentang Australia anu janten republik tumuwuh 8 persén ti taun 2008. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Diplomat nyatakeun bahwasana aranjeunna manggihan babaraha anu teu jelas dina konstitusi Afghanistan nu mutuskeun pamilihan salaku hiji hal nu teu perlu.,politics,politics,"SENTENCE:
+ Diplomat nyatakeun bahwasana aranjeunna manggihan babaraha anu teu jelas dina konstitusi Afghanistan nu mutuskeun pamilihan salaku hiji hal nu teu perlu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: world politics</s>"
+"Saatos hasilna kaluar, Gingrich muji Santorum, tapi anjeunna rada ambek ka Romney kusabab iklan nu ngagogoréngna disiarkeun di Iowa ngalawan Gingrich.",politics,sports,"SENTENCE:
+ Saatos hasilna kaluar, Gingrich muji Santorum, tapi anjeunna rada ambek ka Romney kusabab iklan nu ngagogoréngna disiarkeun di Iowa ngalawan Gingrich. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Ieu teh CEP kalima Martelly dina 4 warsih.,politics,politics,"SENTENCE:
+ Ieu teh CEP kalima Martelly dina 4 warsih. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+"Juara medali emas Olimpiade dijadwalkeun ngojay bébas 100m sareng 200m jeung dina tilu relay di Commonwealth Games, tapi kusabab ngeluh, kabugaran awakna diragukeun.",sports,sports,"SENTENCE:
+ Juara medali emas Olimpiade dijadwalkeun ngojay bébas 100m sareng 200m jeung dina tilu relay di Commonwealth Games, tapi kusabab ngeluh, kabugaran awakna diragukeun. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Kitu oge urut jawara Olimpiade sarta Dunya, Saito nyaéta pupuhu komite palatihan Féderasi Judo Sakumna Jepang dina waktos pupusna.",sports,sports,"SENTENCE:
+ Kitu oge urut jawara Olimpiade sarta Dunya, Saito nyaéta pupuhu komite palatihan Féderasi Judo Sakumna Jepang dina waktos pupusna. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Komite Olimpiade Internasional milih kanggo ngalebetkeun cabang olahraga dina pasamoan déwan éksékutipna di Berlin poé ieu. Rugbi, hususna rugbi union, sarta golf dipilih ti 5 olahraga lainna pikeun ditimbang-timbang kanggo ngiringan Olimpiade.",sports,sports,"SENTENCE:
+ Komite Olimpiade Internasional milih kanggo ngalebetkeun cabang olahraga dina pasamoan déwan éksékutipna di Berlin poé ieu. Rugbi, hususna rugbi union, sarta golf dipilih ti 5 olahraga lainna pikeun ditimbang-timbang kanggo ngiringan Olimpiade. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Fort Hood ngucapkeun yén tentara téh geus ulubiung ngawangun rumah sakit pikeun ngalawan Ébola di Afrika jeung bakal balik deui ka Amérika make cuti darurat awal bulan ieu.,sports,N/A,"SENTENCE:
+ Fort Hood ngucapkeun yén tentara téh geus ulubiung ngawangun rumah sakit pikeun ngalawan Ébola di Afrika jeung bakal balik deui ka Amérika make cuti darurat awal bulan ieu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: military</s>"
+"Samenjak pindah ka ibukota Catalan, Vidal geus maén 49 pertandingan keur tim.",sports,sports,"SENTENCE:
+ Samenjak pindah ka ibukota Catalan, Vidal geus maén 49 pertandingan keur tim. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Ngajaga kasaimbangan énergi nu séhat, ngalaksanakeun kabiasaan hidrasi nu mujarab, jeung ngarti kana macem-macem aspék kabiasaan suplemén tiasa ngabantu atlit keur ningkatkeun kamampuan aranjeuna jeung ningkatkeun kanikmatan dina olahraga na.",sports,sports,"SENTENCE:
+ Ngajaga kasaimbangan énergi nu séhat, ngalaksanakeun kabiasaan hidrasi nu mujarab, jeung ngarti kana macem-macem aspék kabiasaan suplemén tiasa ngabantu atlit keur ningkatkeun kamampuan aranjeuna jeung ningkatkeun kanikmatan dina olahraga na. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Di urutan katilu, Hamlin katinggaleun dua puluh poin, tapi lima poin payuneun Bowyer. Kahne sareng Truex, Jr. aya di urutan kalima sareng kagenep, masing masing tos ngempelkeun 2.220 sareng 2.207 poin.",sports,sports,"SENTENCE:
+ Di urutan katilu, Hamlin katinggaleun dua puluh poin, tapi lima poin payuneun Bowyer. Kahne sareng Truex, Jr. aya di urutan kalima sareng kagenep, masing masing tos ngempelkeun 2.220 sareng 2.207 poin. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Nadal saimbang ngalawan Kanada nyaéta 7-2.,sports,sports,"SENTENCE:
+ Nadal saimbang ngalawan Kanada nyaéta 7-2. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Jarque harita nuju latian dina latian pra-musim di Coverciano, di Italia. anjeunna cicing di hotél tim sateuacan pertandingan anu dijadwalkeun dinten Minggu ngalawan Bolonia",sports,sports,"SENTENCE:
+ Jarque harita nuju latian dina latian pra-musim di Coverciano, di Italia. anjeunna cicing di hotél tim sateuacan pertandingan anu dijadwalkeun dinten Minggu ngalawan Bolonia 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Kasieunan kurangna kandaraan ningkatkeun kamungkinan yén pertandingan bakal dipaksa tertutup tanpa didukung ku suporter tim.,sports,sports,"SENTENCE:
+ Kasieunan kurangna kandaraan ningkatkeun kamungkinan yén pertandingan bakal dipaksa tertutup tanpa didukung ku suporter tim. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Tommy Dreamer nyarios ""Luna nyaeta Ratu kahiji anu ekstrim. Bos kahiji kuring. Luna ngantunkeun dina wengi dua bulan. Unik sapertos anjeunna. Awéwé anu kuat.""",sports,entertainment,"SENTENCE:
+ Tommy Dreamer nyarios ""Luna nyaeta Ratu kahiji anu ekstrim. Bos kahiji kuring. Luna ngantunkeun dina wengi dua bulan. Unik sapertos anjeunna. Awéwé anu kuat."" 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Pemaén ski tunanétra lalaki Polandia Maciej Krezel sareng pemandu na Anna Ogarzynska réngsé diurutan katilu belas di Super-G. Jong Seork Park ti Korea Kidul aya diurutan ka dua puluh opat di katégori lalaki Super-G .,sports,sports,"SENTENCE:
+ Pemaén ski tunanétra lalaki Polandia Maciej Krezel sareng pemandu na Anna Ogarzynska réngsé diurutan katilu belas di Super-G. Jong Seork Park ti Korea Kidul aya diurutan ka dua puluh opat di katégori lalaki Super-G . 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Kanggo wartos ngeunaan turnamén sareng dimana lokasi keur mésér tikét pikeun pertandingan polo, tiasa mariksa ka Asociacion Argentina de Polo.",sports,sports,"SENTENCE:
+ Kanggo wartos ngeunaan turnamén sareng dimana lokasi keur mésér tikét pikeun pertandingan polo, tiasa mariksa ka Asociacion Argentina de Polo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Pertandingan mulai tabuh 10:00 enjing di cuaca anu caang saatos gerimis sakeudap enjing-enjingna, ieu mangrupikeun dinten anu pas pikeun 7 Rugbi.",sports,sports,"SENTENCE:
+ Pertandingan mulai tabuh 10:00 enjing di cuaca anu caang saatos gerimis sakeudap enjing-enjingna, ieu mangrupikeun dinten anu pas pikeun 7 Rugbi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Arly Velasquez ti Mexico pungkas di urutan kalima belas dina Super-G jang lalaki. Adam Hall ti Selandia Anyar pungkas di urutan kasalapan dina Super-G jang lalaki.,sports,sports,"SENTENCE:
+ Arly Velasquez ti Mexico pungkas di urutan kalima belas dina Super-G jang lalaki. Adam Hall ti Selandia Anyar pungkas di urutan kasalapan dina Super-G jang lalaki. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Pertandingan pamungkas ti kompetisi eta bakal diayakeun di Ellis Park di Johannesburg minggon payun, pas Springboks ngalawan Australia.",sports,sports,"SENTENCE:
+ Pertandingan pamungkas ti kompetisi eta bakal diayakeun di Ellis Park di Johannesburg minggon payun, pas Springboks ngalawan Australia. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Dina kaayaan anu saé, anjeun bakal tiasa nutupan jarak anu langkung jauh tibatan leumpang - tapi jarang pisan anjeun sami sareng kecepatan ski antar negeri tanpa mawa ransel anu beurat dina jalur anu rata.",sports,sports,"SENTENCE:
+ Dina kaayaan anu saé, anjeun bakal tiasa nutupan jarak anu langkung jauh tibatan leumpang - tapi jarang pisan anjeun sami sareng kecepatan ski antar negeri tanpa mawa ransel anu beurat dina jalur anu rata. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Tinggaleun tujuh poin, Johnson aya di urutan ka dua kalawan 2,243.",sports,sports,"SENTENCE:
+ Tinggaleun tujuh poin, Johnson aya di urutan ka dua kalawan 2,243. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Canyoning (atanapi: canyoneering) nyaéta perkawis badé ka jero talaga, teu mikiran talagana téh garing atawa eusianna pinuh ku cai.",sports,sports,"SENTENCE:
+ Canyoning (atanapi: canyoneering) nyaéta perkawis badé ka jero talaga, teu mikiran talagana téh garing atawa eusianna pinuh ku cai. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Robin Uthappa ngadamel skor babak anu pangluhurna, 70 runs ku ngan 41 bal ku neunggeul 11 opat poin sareng 2 genep poin.",sports,sports,"SENTENCE:
+ Robin Uthappa ngadamel skor babak anu pangluhurna, 70 runs ku ngan 41 bal ku neunggeul 11 opat poin sareng 2 genep poin. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Olahraga usum tiis mangrupikeun anu pang kasohorna di daérah kalér, sareng Italia ngilu dina pertandingan internasional jeung acara Olimpiade.",sports,sports,"SENTENCE:
+ Olahraga usum tiis mangrupikeun anu pang kasohorna di daérah kalér, sareng Italia ngilu dina pertandingan internasional jeung acara Olimpiade. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Maroochydore aya di pangluhurna klasemen, meunang genep poin ti Noosa nu aya di urutan kadua.",sports,sports,"SENTENCE:
+ Maroochydore aya di pangluhurna klasemen, meunang genep poin ti Noosa nu aya di urutan kadua. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Michael Schumacher ngabereskeun balapan teu  lami saatos Alonso, kusabab suspensi na rusak pas pertarungan di balapan eta.",sports,sports,"SENTENCE:
+ Michael Schumacher ngabereskeun balapan teu  lami saatos Alonso, kusabab suspensi na rusak pas pertarungan di balapan eta. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Keur ngahasilkeun kamampuan nu elit teu tiasa ngan ti kabiasaan nutrisi nu leres hungkul, tapi eta tiasa ngaruh pisan pikeun kasehatan atlit ngora sacara umum.",sports,sports,"SENTENCE:
+ Keur ngahasilkeun kamampuan nu elit teu tiasa ngan ti kabiasaan nutrisi nu leres hungkul, tapi eta tiasa ngaruh pisan pikeun kasehatan atlit ngora sacara umum. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Anjeunna moal tiasa nginum obat-obatan anu diperyogikeun pikeun ngungkulan kanyeri kusabab dilarang di Pertandingan.,sports,sports,"SENTENCE:
+ Anjeunna moal tiasa nginum obat-obatan anu diperyogikeun pikeun ngungkulan kanyeri kusabab dilarang di Pertandingan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Panilitian mendakan yén awéwé dua kali kamungkinan gaduh MS tibatan lalaki.,health,sports,"SENTENCE:
+ Panilitian mendakan yén awéwé dua kali kamungkinan gaduh MS tibatan lalaki. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Inuman ilegal tiasa ngandung bahan-bahan anu nyilakakeun nu salah sahijina metanol, anu bisa nyieun jalma buta sareng maot sanajan dosisna saeutik.",health,sports,"SENTENCE:
+ Inuman ilegal tiasa ngandung bahan-bahan anu nyilakakeun nu salah sahijina metanol, anu bisa nyieun jalma buta sareng maot sanajan dosisna saeutik. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Ngan ukur akibat ti bencana, sanés déprési sareng kasieun anu bersarat ti sési PA nu terstruktur anu rutin mingguan.",health,sports,"SENTENCE:
+ Ngan ukur akibat ti bencana, sanés déprési sareng kasieun anu bersarat ti sési PA nu terstruktur anu rutin mingguan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Pamilik mobil masal ogé nyababkeun kacilakaan anu leuwih luhur dina kacilakaan di jalan, ieu ngarahkeun ka panemuan téknik anyar dina perawatan kaséhatan pikeun ngalereskeun awak mobil anu ruksak.",health,travel,"SENTENCE:
+ Pamilik mobil masal ogé nyababkeun kacilakaan anu leuwih luhur dina kacilakaan di jalan, ieu ngarahkeun ka panemuan téknik anyar dina perawatan kaséhatan pikeun ngalereskeun awak mobil anu ruksak. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Nu mimpin penelitian éta nyarios bahwa ieu téh tiasa ngadeteksi kanker, tbc, HIV sareng malaria leuwih awal keur pasien di negara miskin, anu dimana tingkat bertahan hidup na jang panyakit kos kanker payudaya ngan saukur satengah ti negara-negara nu beunghar.",health,health,"SENTENCE:
+ Nu mimpin penelitian éta nyarios bahwa ieu téh tiasa ngadeteksi kanker, tbc, HIV sareng malaria leuwih awal keur pasien di negara miskin, anu dimana tingkat bertahan hidup na jang panyakit kos kanker payudaya ngan saukur satengah ti negara-negara nu beunghar. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: health</s>"
+"Dr. Ehud Ur, profésor bidang kedokteran di Universitas Dalhousie di Halifax, Nova Scotia sareng ketua divisi klinis sareng ilmiah ti Asosiasi Diabétés Kanada ngingetkeun yén panalungtikan ieu karék permulaan hungkul.",health,health,"SENTENCE:
+ Dr. Ehud Ur, profésor bidang kedokteran di Universitas Dalhousie di Halifax, Nova Scotia sareng ketua divisi klinis sareng ilmiah ti Asosiasi Diabétés Kanada ngingetkeun yén panalungtikan ieu karék permulaan hungkul. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: health</s>"
+"Barudak ieu condong ngalaman seueur masalah, sabab ""kalibet dina perilaku anu berisiko, gelut, sareng nangtang aparat"" pikeun ngarangsang otak, sabab otak aranjeunna teu tiasa dirangsang ku cara anu biasa.",health,sports,"SENTENCE:
+ Barudak ieu condong ngalaman seueur masalah, sabab ""kalibet dina perilaku anu berisiko, gelut, sareng nangtang aparat"" pikeun ngarangsang otak, sabab otak aranjeunna teu tiasa dirangsang ku cara anu biasa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Manusa tiasa katepaan tina ngahirup cai anu tos katepaan anu kacandak ku angin sareng ombak.,health,travel,"SENTENCE:
+ Manusa tiasa katepaan tina ngahirup cai anu tos katepaan anu kacandak ku angin sareng ombak. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Sababaraha jalmi percanten yén sering ngalaman ngimpen sacara sadar anu diinduksi sacara artifisial téh matak capé pisan.,health,entertainment,"SENTENCE:
+ Sababaraha jalmi percanten yén sering ngalaman ngimpen sacara sadar anu diinduksi sacara artifisial téh matak capé pisan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Potro sempet diubaran taktak na pas harita jeung akhirna sanggup neruskeun pertandinganna.,health,sports,"SENTENCE:
+ Potro sempet diubaran taktak na pas harita jeung akhirna sanggup neruskeun pertandinganna. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Selain éta, gagal ngalakukeun hal éta téh ganjaranna serius: mulai depresi, kirang giji, teras akhirna maot.",health,sports,"SENTENCE:
+ Selain éta, gagal ngalakukeun hal éta téh ganjaranna serius: mulai depresi, kirang giji, teras akhirna maot. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Pajabat kota Amsterdam sareng Musium Anne Frank nyatakeun yén tangkal éta katepaan ku jamur sareng nimbulkeun bahaya kasehatan masyarakat sabab pikir tangkal éta dina bahaya murag.,health,travel,"SENTENCE:
+ Pajabat kota Amsterdam sareng Musium Anne Frank nyatakeun yén tangkal éta katepaan ku jamur sareng nimbulkeun bahaya kasehatan masyarakat sabab pikir tangkal éta dina bahaya murag. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Rumah sakit tos ngiringan protokol keur ngontrol penyebaran, kaasup dina misahkeun pasien ti nu sanés keur nyegah kamungkinan nyebarkeun ka batur.",health,health,"SENTENCE:
+ Rumah sakit tos ngiringan protokol keur ngontrol penyebaran, kaasup dina misahkeun pasien ti nu sanés keur nyegah kamungkinan nyebarkeun ka batur. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: health</s>"
+Lembaga Haiti kanggo Kaadilan sarta Demokrasi atos ngarujuk studi independen anu ngusulkeun pangjaga katengtreman batalion UN Nepal nu tanpa sadar ngabantun panyakit eta ka Haiti.,health,politics,"SENTENCE:
+ Lembaga Haiti kanggo Kaadilan sarta Demokrasi atos ngarujuk studi independen anu ngusulkeun pangjaga katengtreman batalion UN Nepal nu tanpa sadar ngabantun panyakit eta ka Haiti. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: world politics</s>"
+"Panyakit nu tepa, atawa sato nu bahaya nu tiasa nyilakakeun atawa ngabunuh manusia nganggo kakuatanna, henteu di asupkeun kana kategori hama.",health,travel,"SENTENCE:
+ Panyakit nu tepa, atawa sato nu bahaya nu tiasa nyilakakeun atawa ngabunuh manusia nganggo kakuatanna, henteu di asupkeun kana kategori hama. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"barudak kalawan ADD ngalaman kahese kanggo fokus dina perkawis-perkawis sepertos pagawean sakola,nanging maranehanana tiasa konsentrasi dina perkawis-perkawis anu maranehanana sukai sepertos ulin game atawa nongton kartun favorit maranehanana atawa nyerat kalimah tanpa tawis maos.",health,entertainment,"SENTENCE:
+ barudak kalawan ADD ngalaman kahese kanggo fokus dina perkawis-perkawis sepertos pagawean sakola,nanging maranehanana tiasa konsentrasi dina perkawis-perkawis anu maranehanana sukai sepertos ulin game atawa nongton kartun favorit maranehanana atawa nyerat kalimah tanpa tawis maos. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Dina 1 waktu sataun, jalmi anu katépaan ku virus tiasa népatkeun 10 dugi ka 15 jalmi anu caket jeung anjeunna.",health,sports,"SENTENCE:
+ Dina 1 waktu sataun, jalmi anu katépaan ku virus tiasa népatkeun 10 dugi ka 15 jalmi anu caket jeung anjeunna. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Nalika gelut di eureunkeun saatos anu tatu diangkut ka rumah sakit, sakitar 40 tahanan anu sejen tetep cicing di pakarangan sareng nolak balik ka sélna.",health,sports,"SENTENCE:
+ Nalika gelut di eureunkeun saatos anu tatu diangkut ka rumah sakit, sakitar 40 tahanan anu sejen tetep cicing di pakarangan sareng nolak balik ka sélna. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Para dokter mimiti direkrut ku Kaisar Augustus sareng ngadamel Unit Medis Romawi anu mimiti pikeun ngabantu saatos paperangan.,health,entertainment,"SENTENCE:
+ Para dokter mimiti direkrut ku Kaisar Augustus sareng ngadamel Unit Medis Romawi anu mimiti pikeun ngabantu saatos paperangan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Tapi, supir ngalaman tatu parah dina sirahna.",health,travel,"SENTENCE:
+ Tapi, supir ngalaman tatu parah dina sirahna. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Urang ayeuna ngagaduhan beurit umur 4-bulan anu anjeunna ngagaduhan diabetes ayeuna atos henteu diabetes,"" Tambahan Anjeunna.",health,health,"SENTENCE:
+ Urang ayeuna ngagaduhan beurit umur 4-bulan anu anjeunna ngagaduhan diabetes ayeuna atos henteu diabetes,"" Tambahan Anjeunna. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: health</s>"
+"Karacunan internal teu tiasa langsung katingali. Gejala, sapertos utah cekap umum ku kituna diagnosis langsung henteu tiasa didamel.",health,health,"SENTENCE:
+ Karacunan internal teu tiasa langsung katingali. Gejala, sapertos utah cekap umum ku kituna diagnosis langsung henteu tiasa didamel. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: health</s>"
+"Hasilna, para pamaén ngisep ganja di luhur panggung, sareng téater éta ngadorong penonton ekeur miluan ogé.",entertainment,entertainment,"SENTENCE:
+ Hasilna, para pamaén ngisep ganja di luhur panggung, sareng téater éta ngadorong penonton ekeur miluan ogé. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Aerosmith tos ngabatalkeun sesa konser di tur maranehanana,entertainment,entertainment,"SENTENCE:
+ Aerosmith tos ngabatalkeun sesa konser di tur maranehanana 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Upami anjeun hoyong leuwih caket ka acara na, anjeun kudu dongkap leuwih isuk méh meunang tempat kemping anu caket jeung musik.",entertainment,travel,"SENTENCE:
+ Upami anjeun hoyong leuwih caket ka acara na, anjeun kudu dongkap leuwih isuk méh meunang tempat kemping anu caket jeung musik. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+aya sababaraha format pilem anu kungsi dipake dina sababaraha taun katukang. Biasana mah 35 mm pilem (36 dugi 24 mm negatif) anu loba dipake.,entertainment,entertainment,"SENTENCE:
+ aya sababaraha format pilem anu kungsi dipake dina sababaraha taun katukang. Biasana mah 35 mm pilem (36 dugi 24 mm negatif) anu loba dipake. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Sanaos ieu téh kagiatan anu umum, nanging dilarang ku Disney: tikét heunteu tiasa dipindahtangankeun.",entertainment,travel,"SENTENCE:
+ Sanaos ieu téh kagiatan anu umum, nanging dilarang ku Disney: tikét heunteu tiasa dipindahtangankeun. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Unggal épisode acara éta bakal ngapokuskeun kana téma dina buku tertentu sareng teras ngajalajah tema jadi sababaraha carita.,entertainment,entertainment,"SENTENCE:
+ Unggal épisode acara éta bakal ngapokuskeun kana téma dina buku tertentu sareng teras ngajalajah tema jadi sababaraha carita. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Sababaraha tipi ageung dipasang di sababaraha tempat di Roma supados warga tiasa nyaksian upacara éta.,entertainment,N/A,"SENTENCE:
+ Sababaraha tipi ageung dipasang di sababaraha tempat di Roma supados warga tiasa nyaksian upacara éta. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: culture</s>"
+Sophocles sareng Aristophanes masih jadi panulis naskah populér sareng lakonana dianggap karya sastra pangpentingna di dunya.,entertainment,entertainment,"SENTENCE:
+ Sophocles sareng Aristophanes masih jadi panulis naskah populér sareng lakonana dianggap karya sastra pangpentingna di dunya. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Setiap acara ogé bakal nyadiakeun rékoméndasi buku keur budak nu kudu dipilari lamun datang ka perpustakaan.,entertainment,entertainment,"SENTENCE:
+ Setiap acara ogé bakal nyadiakeun rékoméndasi buku keur budak nu kudu dipilari lamun datang ka perpustakaan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Dinu akordion, pikeun ngengingkeun volume langkung, anggo bagian handap langkung teuas atanapi langkung enggal.",entertainment,entertainment,"SENTENCE:
+ Dinu akordion, pikeun ngengingkeun volume langkung, anggo bagian handap langkung teuas atanapi langkung enggal. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Anjeun tiasa ningali piramid-piramid pas poék  bari jempling sateuacan acara dikawitan.,entertainment,travel,"SENTENCE:
+ Anjeun tiasa ningali piramid-piramid pas poék  bari jempling sateuacan acara dikawitan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Conto kagiatan di tempat éta nyaeta moro, mancing, popotoan, nonton manuk, sareng ngunjungan taman teras diajar ngeunaan ékosistem.",entertainment,travel,"SENTENCE:
+ Conto kagiatan di tempat éta nyaeta moro, mancing, popotoan, nonton manuk, sareng ngunjungan taman teras diajar ngeunaan ékosistem. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Sphinx ditetepkeun jadi latar jeung narator tina carita nu panjang.,entertainment,entertainment,"SENTENCE:
+ Sphinx ditetepkeun jadi latar jeung narator tina carita nu panjang. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Aranjeunna biasana ngagaduhan katuangan khusus, inuman sareng nawiskeun hiburan pikeun sémah tetep dina kasenangan sareng tetep di lokasi.",entertainment,travel,"SENTENCE:
+ Aranjeunna biasana ngagaduhan katuangan khusus, inuman sareng nawiskeun hiburan pikeun sémah tetep dina kasenangan sareng tetep di lokasi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Saatos ngalaporkeun dina basa Inggris sareng Jepang, organisasi dunya ayeuna nerbitkeun program basa Spanyol, Itali, sareng Koréa, pikeun tipi, situs, sareng télpon sélulér.",entertainment,travel,"SENTENCE:
+ Saatos ngalaporkeun dina basa Inggris sareng Jepang, organisasi dunya ayeuna nerbitkeun program basa Spanyol, Itali, sareng Koréa, pikeun tipi, situs, sareng télpon sélulér. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Sateuacanna The Simpsons Simon tos gawe dina sababaraha acara dina rupa-rupa jabatan.,entertainment,entertainment,"SENTENCE:
+ Sateuacanna The Simpsons Simon tos gawe dina sababaraha acara dina rupa-rupa jabatan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Ieu bakal nyieun pamaén ngendalikeun tindakan sareng gerakan na dina pidéo gém ku cara ngalihkeun alat na ka udara.,entertainment,sports,"SENTENCE:
+ Ieu bakal nyieun pamaén ngendalikeun tindakan sareng gerakan na dina pidéo gém ku cara ngalihkeun alat na ka udara. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Sahenteuna aya 100 urang hadir dina pesta eta, kanggo ngarayakeun ulang taun nu ka hiji panganten anu dilaksanakeun sataun ka tukang.",entertainment,entertainment,"SENTENCE:
+ Sahenteuna aya 100 urang hadir dina pesta eta, kanggo ngarayakeun ulang taun nu ka hiji panganten anu dilaksanakeun sataun ka tukang. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"2 lagu tina filem, Audition (The Fools Who Dream) jeung City of Stars, meunang nominasi keur lagu asli nu pang alusna. Lionsgate Studio meunang 26 nominasi -- langkung ti studio nu lian na.",entertainment,entertainment,"SENTENCE:
+ 2 lagu tina filem, Audition (The Fools Who Dream) jeung City of Stars, meunang nominasi keur lagu asli nu pang alusna. Lionsgate Studio meunang 26 nominasi -- langkung ti studio nu lian na. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Kandel kerakna kira-kira 70 km di sisi caket sarta kandel 100 km di sisi tebih.,geography,travel,"SENTENCE:
+ Kandel kerakna kira-kira 70 km di sisi caket sarta kandel 100 km di sisi tebih. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Leuwih jauh ka kidul téh curug Niagara jeung palebah kalérna nyaéta tempat pikeun kaéndahan alam Muskoka nu can kajamah jeung leuwih seueur deui.,geography,travel,"SENTENCE:
+ Leuwih jauh ka kidul téh curug Niagara jeung palebah kalérna nyaéta tempat pikeun kaéndahan alam Muskoka nu can kajamah jeung leuwih seueur deui. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Daratan Ellsworth nya eta daerah dina kidul na samenanjung, dibatasan ku Laut Bellingshausen.",geography,travel,"SENTENCE:
+ Daratan Ellsworth nya eta daerah dina kidul na samenanjung, dibatasan ku Laut Bellingshausen. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Jalan ka kutub kidul (atanapi jalan tol) teh nyaeta mangrupikeun 1600 km jalan satapak ti stasion McMurdo di Laut Ross dugi ka kutub.,geography,travel,"SENTENCE:
+ Jalan ka kutub kidul (atanapi jalan tol) teh nyaeta mangrupikeun 1600 km jalan satapak ti stasion McMurdo di Laut Ross dugi ka kutub. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Anu ngajulang ka luhur di tungtung kalér Machu Picchu téh nyaéta gunung nu lungkawing ieu, mineng janten latar poto ruruntuhan.",geography,travel,"SENTENCE:
+ Anu ngajulang ka luhur di tungtung kalér Machu Picchu téh nyaéta gunung nu lungkawing ieu, mineng janten latar poto ruruntuhan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Enceladus nyaeta objék nu paling ngamantulkeun di tata surya, mantulkeun kira-kira 90 persen cahaya panon poe anu nerpa.",geography,science/technology,"SENTENCE:
+ Enceladus nyaeta objék nu paling ngamantulkeun di tata surya, mantulkeun kira-kira 90 persen cahaya panon poe anu nerpa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+Teu aya anu tiasa ditingali salain langit anu jelas sareng éndah di luhur sareng seueur gunung di sakurilingna. Saeutik pisan dunya ieu tiasa ditingali atanapi didangu ti jero guha.,geography,travel,"SENTENCE:
+ Teu aya anu tiasa ditingali salain langit anu jelas sareng éndah di luhur sareng seueur gunung di sakurilingna. Saeutik pisan dunya ieu tiasa ditingali atanapi didangu ti jero guha. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ayeuna Jepang. Jepang nyaeta nagara pulau, sami sapertos Inggris.",geography,travel,"SENTENCE:
+ Ayeuna Jepang. Jepang nyaeta nagara pulau, sami sapertos Inggris. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Dina puncakna, Angin Gonu Tropis, anu namina dicandak ti sakantung daun palem dina basa Maladewa, ngahontal angin anu tuluy 240 kilometer per jam (149 mil per jam).",geography,travel,"SENTENCE:
+ Dina puncakna, Angin Gonu Tropis, anu namina dicandak ti sakantung daun palem dina basa Maladewa, ngahontal angin anu tuluy 240 kilometer per jam (149 mil per jam). 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Daerah di Turki, situ teh nyandak 783,562 kilometer pasagi (300,948 mil pasagi) dimana eta teh 755,688 kilometer pasagi (291,773 mil pasagi) aya di bagean kidul kulon Asia jeung  23,764 kilometer pasagi (9,174 mil pasagi) di bagean Eropa.",geography,travel,"SENTENCE:
+ Daerah di Turki, situ teh nyandak 783,562 kilometer pasagi (300,948 mil pasagi) dimana eta teh 755,688 kilometer pasagi (291,773 mil pasagi) aya di bagean kidul kulon Asia jeung  23,764 kilometer pasagi (9,174 mil pasagi) di bagean Eropa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Kapuloan Shetland Kidul, ditemukeun di taun 1819, diaku ku sababaraha nagara jeung gaduh landasan anu pang seueurna, aya genep belas nu aktif di taun 2020.",geography,travel,"SENTENCE:
+ Kapuloan Shetland Kidul, ditemukeun di taun 1819, diaku ku sababaraha nagara jeung gaduh landasan anu pang seueurna, aya genep belas nu aktif di taun 2020. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Apia nyaéta ibu kota nagara Samoa. Kota ieu ayana di pulo Upolu jeung pendudukna dihandap 40.000.,geography,travel,"SENTENCE:
+ Apia nyaéta ibu kota nagara Samoa. Kota ieu ayana di pulo Upolu jeung pendudukna dihandap 40.000. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Kusabab badaina jauh ti darat, masih hésé pikeun nganilai dampak poténsial ka Amérika Serikat atanapi Karibia.",geography,travel,"SENTENCE:
+ Kusabab badaina jauh ti darat, masih hésé pikeun nganilai dampak poténsial ka Amérika Serikat atanapi Karibia. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+eta leuwih ipis di sisi anu poek sareng langkung kandel di sisi anu caang,geography,travel,"SENTENCE:
+ eta leuwih ipis di sisi anu poek sareng langkung kandel di sisi anu caang 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Éta leuweung henteu ngan diwangun ku rawa bakau wungkul — di ditu aya sababaraha sésa ti leuweung perkasa anu baheulana nutupan dataran Gangga.,geography,travel,"SENTENCE:
+ Éta leuweung henteu ngan diwangun ku rawa bakau wungkul — di ditu aya sababaraha sésa ti leuweung perkasa anu baheulana nutupan dataran Gangga. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Peta gempa internasional ti Survéi Geologi Amérika Serikat nunjukkeun henteu aya gempa di Islandia saminggu saméméhna.,geography,politics,"SENTENCE:
+ Peta gempa internasional ti Survéi Geologi Amérika Serikat nunjukkeun henteu aya gempa di Islandia saminggu saméméhna. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: world politics</s>"
+"Lokasina dina salah 1 puncak gunung belah kaler Mekkah, guha ieu terasing pisan tina dunya luar.",geography,travel,"SENTENCE:
+ Lokasina dina salah 1 puncak gunung belah kaler Mekkah, guha ieu terasing pisan tina dunya luar. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"

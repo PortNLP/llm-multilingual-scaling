@@ -1,0 +1,2449 @@
+text,actual_category,predicted_category,generated_text
+گۆڕانکاری دەبێتە هۆی زیادکردنی هەمەچەشنێتیی نوێی بۆماوەیی، وە هەڵبژاردنیش ئەمە لادەبات لە حەوزی هەمەچەشنێتیە هەبووەکانەوە.,science/technology,sports,"SENTENCE:
+ گۆڕانکاری دەبێتە هۆی زیادکردنی هەمەچەشنێتیی نوێی بۆماوەیی، وە هەڵبژاردنیش ئەمە لادەبات لە حەوزی هەمەچەشنێتیە هەبووەکانەوە. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+بۆمبی پارچەبوون لەسەر ئەو بنەمایە کاردەکات کە وزە یەکی پێویستە بۆ پێکەوە نانی ناوکی کە چەندین پرۆتۆن و نیوترۆنی هەیە.,science/technology,sports,"SENTENCE:
+ بۆمبی پارچەبوون لەسەر ئەو بنەمایە کاردەکات کە وزە یەکی پێویستە بۆ پێکەوە نانی ناوکی کە چەندین پرۆتۆن و نیوترۆنی هەیە. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+ناوک لە دوو تەنۆلکە پێکدێت - نیوترۆن و پرۆتۆن.,science/technology,sports,"SENTENCE:
+ ناوک لە دوو تەنۆلکە پێکدێت - نیوترۆن و پرۆتۆن. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+ئەمە ڕێگەی بە هاوێنەی زوومەکان دەدات بۆ بەرهەمهێنانی وێنەی کواڵیتی بەرزی بەراورد بەوەی لە ڕێگەی هاوێنەی درێژیی چەقی جێگیر بەدەست دەهێنرێن.,science/technology,sports,"SENTENCE:
+ ئەمە ڕێگەی بە هاوێنەی زوومەکان دەدات بۆ بەرهەمهێنانی وێنەی کواڵیتی بەرزی بەراورد بەوەی لە ڕێگەی هاوێنەی درێژیی چەقی جێگیر بەدەست دەهێنرێن. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+باڵاترن لە پرۆکسیەکانی وێب لەبەر چەندین هۆکار: ڕێڕەوی گشت هاتووچۆی ئینتەرنێت دەگوڕن، نەوەک تەنها http.,science/technology,travel,"SENTENCE:
+ باڵاترن لە پرۆکسیەکانی وێب لەبەر چەندین هۆکار: ڕێڕەوی گشت هاتووچۆی ئینتەرنێت دەگوڕن، نەوەک تەنها http. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+دیزاینی کارلێکار ناچارت دەکات گریمانەکانت هەڵبسەنگێنیتەوە دەربارەی بەرهەمی میدیا و فێربوون بۆ بیرکردنەوە بە شێوەی بەدەر لە ئاسایی.,science/technology,sports,"SENTENCE:
+ دیزاینی کارلێکار ناچارت دەکات گریمانەکانت هەڵبسەنگێنیتەوە دەربارەی بەرهەمی میدیا و فێربوون بۆ بیرکردنەوە بە شێوەی بەدەر لە ئاسایی. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+ئەمە بوو بە کردارێکی باو، بەڵام ئاسنەکە بوو بەهۆی داخوڕانی زیاتر تایە دارینەکانی گالیسکەکان.,science/technology,sports,"SENTENCE:
+ ئەمە بوو بە کردارێکی باو، بەڵام ئاسنەکە بوو بەهۆی داخوڕانی زیاتر تایە دارینەکانی گالیسکەکان. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+شانازییەکان لە یەک بۆ سێ نێرینەی پێگەیشتوو دروست کراون، لەگەڵ سی مێینە و بێچوو.,science/technology,sports,"SENTENCE:
+ شانازییەکان لە یەک بۆ سێ نێرینەی پێگەیشتوو دروست کراون، لەگەڵ سی مێینە و بێچوو. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+هەرچەندە ئال حەزێکی گەورەی هەیە بۆ ئەندێشەی زانستی، ئال لقێکی هەرە گرنگی زانستی کۆمپیوتەری دروست کرد بۆ مامەڵەکردن لەگەڵ وەرگرتنی ڕەفتار و فێربوون و ژیریی لەلایەن ئامێرەوە.,science/technology,sports,"SENTENCE:
+ هەرچەندە ئال حەزێکی گەورەی هەیە بۆ ئەندێشەی زانستی، ئال لقێکی هەرە گرنگی زانستی کۆمپیوتەری دروست کرد بۆ مامەڵەکردن لەگەڵ وەرگرتنی ڕەفتار و فێربوون و ژیریی لەلایەن ئامێرەوە. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+ڕێژەی ڕووبەری ئەم فۆرماتە (بە دابەشکردنی بە سەر دوازدە بۆ بەدەست هێنانی سادەترین ڕێژەی ژمارەی تەواو) بۆیە دەوترێت کەوا 3:2ە.,science/technology,sports,"SENTENCE:
+ ڕێژەی ڕووبەری ئەم فۆرماتە (بە دابەشکردنی بە سەر دوازدە بۆ بەدەست هێنانی سادەترین ڕێژەی ژمارەی تەواو) بۆیە دەوترێت کەوا 3:2ە. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+تەلەفونی سەتەلایت بە گشتیی جێگرەوەی مۆبایل نیە، چونکە دەبێت لەدەرەوەی ماڵ بیت و ئاسمان ساماڵ بێت و سەتەلایەتەکەت لێ دیار بێت بۆ تەلەفون کردن.,science/technology,sports,"SENTENCE:
+ تەلەفونی سەتەلایت بە گشتیی جێگرەوەی مۆبایل نیە، چونکە دەبێت لەدەرەوەی ماڵ بیت و ئاسمان ساماڵ بێت و سەتەلایەتەکەت لێ دیار بێت بۆ تەلەفون کردن. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+هەرچەندە ڕێگەی گالیسکەکان تەنها پارچە تەختەی هاوتەریببون، وایکرد ئەسپەکان بتوانن خێراتر بن و باری قورستر ڕابکێشن وەك لە ڕێگە سەختەکانی ئەو کاتە.,science/technology,sports,"SENTENCE:
+ هەرچەندە ڕێگەی گالیسکەکان تەنها پارچە تەختەی هاوتەریببون، وایکرد ئەسپەکان بتوانن خێراتر بن و باری قورستر ڕابکێشن وەك لە ڕێگە سەختەکانی ئەو کاتە. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+خەڵکان زانیاریان هەبووە لەسەر بوونی کانزا بنەڕەتیەکانی وەکو ئاڵتون و زیو و مس کە لە کەلوپەلە کۆنەکاندا هەن، ئەمانە هەمووی لە سروشتدا هەن و بە کەلوپەلی سەرەتایی دەکرێت لەکانەکانەوە دەربهێنرێن.,science/technology,sports,"SENTENCE:
+ خەڵکان زانیاریان هەبووە لەسەر بوونی کانزا بنەڕەتیەکانی وەکو ئاڵتون و زیو و مس کە لە کەلوپەلە کۆنەکاندا هەن، ئەمانە هەمووی لە سروشتدا هەن و بە کەلوپەلی سەرەتایی دەکرێت لەکانەکانەوە دەربهێنرێن. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+تایە جیھانی بە شێوازی باوەڕپێنەکراو گۆڕیوە. گەورەترین شت کە تایە بۆمانی کردووە ئەوەیە گواستنەوەی ئاسانتر و خێراتری بە ئێمە بەخشیوە.,science/technology,sports,"SENTENCE:
+ تایە جیھانی بە شێوازی باوەڕپێنەکراو گۆڕیوە. گەورەترین شت کە تایە بۆمانی کردووە ئەوەیە گواستنەوەی ئاسانتر و خێراتری بە ئێمە بەخشیوە. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+ئەمە بۆ دڵنیاکردنەوە کراوە کە وێنەکە کۆی شاشەکە دەگرێتەوە. ئەمە پێی دەوترێت ئۆڤەرسکان.,science/technology,sports,"SENTENCE:
+ ئەمە بۆ دڵنیاکردنەوە کراوە کە وێنەکە کۆی شاشەکە دەگرێتەوە. ئەمە پێی دەوترێت ئۆڤەرسکان. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+ژێرئاوە ئەڵمانیەکان پێیان دەوترا U-Boat [بەلەمی شێوە یو]. ئەڵمانەکان زۆر باشبوون لە جوڵاندن و کارپێکردنی ژێرئاویەکانیاندا.,science/technology,sports,"SENTENCE:
+ ژێرئاوە ئەڵمانیەکان پێیان دەوترا U-Boat [بەلەمی شێوە یو]. ئەڵمانەکان زۆر باشبوون لە جوڵاندن و کارپێکردنی ژێرئاویەکانیاندا. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+هەرچەندە دۆخە فیزیکیەکەی لەوانەیە بگۆڕێت، بەڵام دۆخە کیمیاییەکەی هەر وەك خۆی دەمێنێتەوە.,science/technology,science/technology,"SENTENCE:
+ هەرچەندە دۆخە فیزیکیەکەی لەوانەیە بگۆڕێت، بەڵام دۆخە کیمیاییەکەی هەر وەك خۆی دەمێنێتەوە. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+راکێشانی تەختەیی بەهۆی ئەوە روودەدات کە گەردەکان ئاو لە سەر ڕووپۆشی ئاو بە تووندی بۆ لای یەکتر کێش دەکرێن زیاتر لە کێشکردنیان بۆ گەردەکانی هەوای سەرەوەیان.,science/technology,sports,"SENTENCE:
+ راکێشانی تەختەیی بەهۆی ئەوە روودەدات کە گەردەکان ئاو لە سەر ڕووپۆشی ئاو بە تووندی بۆ لای یەکتر کێش دەکرێن زیاتر لە کێشکردنیان بۆ گەردەکانی هەوای سەرەوەیان. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+یەکێك لە کێشە باوەکانی هەوڵدان بۆ گۆڕینی فلیمێك بۆ شێوازی DVD قرتانی چوارچێوەی فلیمەکەیە.,science/technology,sports,"SENTENCE:
+ یەکێك لە کێشە باوەکانی هەوڵدان بۆ گۆڕینی فلیمێك بۆ شێوازی DVD قرتانی چوارچێوەی فلیمەکەیە. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+بە تایبەتی دەڵێت کەسەکان دەتوانن بزانن ئایا کەسی بەرامبەر درۆ دەکات یان نا لەڕێی لێکدانەوەی دەربڕینە بچوکەکان بە شێوەیەکی دروست.,science/technology,sports,"SENTENCE:
+ بە تایبەتی دەڵێت کەسەکان دەتوانن بزانن ئایا کەسی بەرامبەر درۆ دەکات یان نا لەڕێی لێکدانەوەی دەربڕینە بچوکەکان بە شێوەیەکی دروست. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+ئاڵتون دەکرێت چی شێوەیەك بویسترێت پێی دەربکرێت. دەتوانرێت شێوەی وردیلەشی پێ دەربکرێت.,science/technology,travel,"SENTENCE:
+ ئاڵتون دەکرێت چی شێوەیەك بویسترێت پێی دەربکرێت. دەتوانرێت شێوەی وردیلەشی پێ دەربکرێت. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+سیستەمی AI ئێستا زۆرجار لە بوارەکانی ئابوری، پزیشکی، ئەندازیاری و سەربازیی بەکاردێت، هەروەک لە ناو چەندین کۆمپیۆتەری ماڵەوە و ئەپلیکەیشنی سۆفتوێری یاری ڤیدیۆیی دانراوە.,science/technology,sports,"SENTENCE:
+ سیستەمی AI ئێستا زۆرجار لە بوارەکانی ئابوری، پزیشکی، ئەندازیاری و سەربازیی بەکاردێت، هەروەک لە ناو چەندین کۆمپیۆتەری ماڵەوە و ئەپلیکەیشنی سۆفتوێری یاری ڤیدیۆیی دانراوە. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+ئەمڕۆکەش بەرهەمدێت، بەڵام ئەوەی گرنگە ڕێژەکەی دیاری دەکرێت بە شێوازی هەستەوەری وێنەی کامێرەی دیجیتاڵی.,science/technology,sports,"SENTENCE:
+ ئەمڕۆکەش بەرهەمدێت، بەڵام ئەوەی گرنگە ڕێژەکەی دیاری دەکرێت بە شێوازی هەستەوەری وێنەی کامێرەی دیجیتاڵی. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+ڕێسای زۆر بەدبەکارهێنان و زۆرجار گاڵتەپێکراوی سێیەمەکان ڕێنماییەکی سادەیە بۆ دروستکردنی چالاکی لەکاتی هێشتنەوەی ڕیزبەندی لە وێنەدا.,science/technology,sports,"SENTENCE:
+ ڕێسای زۆر بەدبەکارهێنان و زۆرجار گاڵتەپێکراوی سێیەمەکان ڕێنماییەکی سادەیە بۆ دروستکردنی چالاکی لەکاتی هێشتنەوەی ڕیزبەندی لە وێنەدا. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+ئەمە بە تەنها دڵنیای ئەوە ناکاتەوە کە بەلایەنی کەم هەندێک داینەسور پەڕیان هەبووە، تیۆرێک کە خۆی بڵاوە، بەڵام ئەو وردەکاریانە پێشکەش دەکات کە پاشماوە بە بەردبووەکان پێشکەشی ناکەن، وەک ڕەنگ و ڕێکخستنی سێ ڕەهەندی.,science/technology,sports,"SENTENCE:
+ ئەمە بە تەنها دڵنیای ئەوە ناکاتەوە کە بەلایەنی کەم هەندێک داینەسور پەڕیان هەبووە، تیۆرێک کە خۆی بڵاوە، بەڵام ئەو وردەکاریانە پێشکەش دەکات کە پاشماوە بە بەردبووەکان پێشکەشی ناکەن، وەک ڕەنگ و ڕێکخستنی سێ ڕەهەندی. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+چۆن هێزی ڕاکێشانی مانگی (ئایۆ) ی موشتەری کاریگەری دەبێت لەسەرم؟ ئەگەر لەسەر ڕووی ئایۆ بیت، کێشت کەمتر دەبێت وەك لەوەی لەسەر زەوی بیت.,science/technology,sports,"SENTENCE:
+ چۆن هێزی ڕاکێشانی مانگی (ئایۆ) ی موشتەری کاریگەری دەبێت لەسەرم؟ ئەگەر لەسەر ڕووی ئایۆ بیت، کێشت کەمتر دەبێت وەك لەوەی لەسەر زەوی بیت. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+نێکست جێن سیستەمێکە کە دەستەی کارگێریی فڕۆکەوانی دەڵێت وادەکات فڕۆکەکان ڕێگەیەکی کورتتر بگرن و ملیۆنان گالۆن لە سوتەمەنی بگەڕێتەوە ساڵانە و دەردانی دوانۆکسیدی کاربۆن کەمبکاتەوە.,science/technology,sports,"SENTENCE:
+ نێکست جێن سیستەمێکە کە دەستەی کارگێریی فڕۆکەوانی دەڵێت وادەکات فڕۆکەکان ڕێگەیەکی کورتتر بگرن و ملیۆنان گالۆن لە سوتەمەنی بگەڕێتەوە ساڵانە و دەردانی دوانۆکسیدی کاربۆن کەمبکاتەوە. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+داتای هەستەدەماریی ئەندامی بەڵگەی فیزیایی دابین دەکات بۆ ڕێبازی بیردۆزی بۆ لێکۆڵینەوەی دۆخەکە. کەواتە ئەمە بواری لێکۆڵینەوەکە بچوك دەکاتەوە و وا دەکات زیاتر دروست بێت.,science/technology,sports,"SENTENCE:
+ داتای هەستەدەماریی ئەندامی بەڵگەی فیزیایی دابین دەکات بۆ ڕێبازی بیردۆزی بۆ لێکۆڵینەوەی دۆخەکە. کەواتە ئەمە بواری لێکۆڵینەوەکە بچوك دەکاتەوە و وا دەکات زیاتر دروست بێت. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"لەماوەی وتارە ٢ کاتژمێریەکەیدا، وتی کە ""ئەمڕۆ کۆمپانیای ئاپڵ داهێنانەوە دەکات لە تەلەفوندا، ئەمڕۆ مێژوو دروست دەکەین"".",science/technology,sports,"SENTENCE:
+ لەماوەی وتارە ٢ کاتژمێریەکەیدا، وتی کە ""ئەمڕۆ کۆمپانیای ئاپڵ داهێنانەوە دەکات لە تەلەفوندا، ئەمڕۆ مێژوو دروست دەکەین"". 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+زیانی لێنزی زووم ئەوەیە کە ئاڵۆزی خاڵی جەخت و ژمارەی پێکهاتەکانی لێنزەکە کە پێویستن بۆ بەدەستهێنانی کۆمەڵێک لە درێژیی چەق زۆر زیاترە لە لێنزە سەرەکیەکە.,science/technology,sports,"SENTENCE:
+ زیانی لێنزی زووم ئەوەیە کە ئاڵۆزی خاڵی جەخت و ژمارەی پێکهاتەکانی لێنزەکە کە پێویستن بۆ بەدەستهێنانی کۆمەڵێک لە درێژیی چەق زۆر زیاترە لە لێنزە سەرەکیەکە. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+هاوشێوەی ڕیمۆتێکی تەلەفزیۆن، کۆنتڕۆلەرەکە دوو هەستەوەر بەکاردەهێنێت کە لە نزیک تەلەفزیۆنی بەکارهێنەردا دانراون بۆ سێینەکردنی شوێنەکەی لە مەودای سێ ڕەهەندیدا.,science/technology,sports,"SENTENCE:
+ هاوشێوەی ڕیمۆتێکی تەلەفزیۆن، کۆنتڕۆلەرەکە دوو هەستەوەر بەکاردەهێنێت کە لە نزیک تەلەفزیۆنی بەکارهێنەردا دانراون بۆ سێینەکردنی شوێنەکەی لە مەودای سێ ڕەهەندیدا. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+. زانایان دەڵێن کە پەڕی ئەم ئاژەڵە لە سەرەوە قاوەییەکی کەستانەباو بوو و ژێرەوەی بە ژێرەوەی ڕەنگ زەرد یان کارۆتینۆید بووە.,science/technology,sports,"SENTENCE:
+ . زانایان دەڵێن کە پەڕی ئەم ئاژەڵە لە سەرەوە قاوەییەکی کەستانەباو بوو و ژێرەوەی بە ژێرەوەی ڕەنگ زەرد یان کارۆتینۆید بووە. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+توێژەران لە زانکۆکە ووتیان دوو ئاوێتەکە کارلێک لەگەڵ یەکتر دەکەن بۆ دروستکردنی کریستاڵەکان کە ڕەنگە کرداری گورچیلەکان پەک بخات.,science/technology,sports,"SENTENCE:
+ توێژەران لە زانکۆکە ووتیان دوو ئاوێتەکە کارلێک لەگەڵ یەکتر دەکەن بۆ دروستکردنی کریستاڵەکان کە ڕەنگە کرداری گورچیلەکان پەک بخات. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+ئەمە ووردبینی نزیکەی چوار هێندەی 35 ملم نێگەتیڤ دەدات (3136 ملم2 بەرامبەر 864).,science/technology,sports,"SENTENCE:
+ ئەمە ووردبینی نزیکەی چوار هێندەی 35 ملم نێگەتیڤ دەدات (3136 ملم2 بەرامبەر 864). 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+سوپاس بۆ کێبڵی فایبەر ئۆتپیکی ژێر ئاو کە بە ئەوروپا گرێدەدرێت و لەگەڵ سەتەلایتی برۆدباند، گرینلاند بە باشی گرێدراوە کە 93%ی دانیشتوانەکەی ئینتەرنێتیان هەیە.,science/technology,sports,"SENTENCE:
+ سوپاس بۆ کێبڵی فایبەر ئۆتپیکی ژێر ئاو کە بە ئەوروپا گرێدەدرێت و لەگەڵ سەتەلایتی برۆدباند، گرینلاند بە باشی گرێدراوە کە 93%ی دانیشتوانەکەی ئینتەرنێتیان هەیە. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+یەکێك لە بڵاوترین بەرنامەکانی ئەم پۆلێنە بریتیە لە وەرگێری گوگڵ کە وەرگێڕانی بێ ئینتەرنێتی تێدایە پاش ئەوەی داتای زمانە خوازراوەکە دادەبەزێنرێت.,science/technology,sports,"SENTENCE:
+ یەکێك لە بڵاوترین بەرنامەکانی ئەم پۆلێنە بریتیە لە وەرگێری گوگڵ کە وەرگێڕانی بێ ئینتەرنێتی تێدایە پاش ئەوەی داتای زمانە خوازراوەکە دادەبەزێنرێت. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+هەمان پەیکەربەندی گەردیلەیی هەیە گاز بێت یان شل یان ڕەق.,science/technology,sports,"SENTENCE:
+ هەمان پەیکەربەندی گەردیلەیی هەیە گاز بێت یان شل یان ڕەق. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+بەکارهێنانی تۆماركردنی ڤیدیۆ بۆتە هۆی دۆزینەوەی گرنگ لە لێکدانەوەی دەستەواژە بچووکەکان، جووڵەی دەم و چاو کە چەند میلی چركەیەک دەخایەنێت.,science/technology,sports,"SENTENCE:
+ بەکارهێنانی تۆماركردنی ڤیدیۆ بۆتە هۆی دۆزینەوەی گرنگ لە لێکدانەوەی دەستەواژە بچووکەکان، جووڵەی دەم و چاو کە چەند میلی چركەیەک دەخایەنێت. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+مرۆڤ هەزاران ساڵە هاوێنە دروست دەکەن بۆ گەورەکردن.,science/technology,sports,"SENTENCE:
+ مرۆڤ هەزاران ساڵە هاوێنە دروست دەکەن بۆ گەورەکردن. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+لەگەڵ ئەوەشدا بەتەنها تاقیکردنەوە نیە، تاقیکردنەوە بریتییە لە هەڵسەنگاندێک بەکاردێت بۆ ڕەتکردنەوەی گریمانەیەک یان زیاتر و هەروەها پرسیارکردن و تێبینیکردنیش ڕێنمایی لێکۆڵینەوەی زانستی دەکەن.,science/technology,sports,"SENTENCE:
+ لەگەڵ ئەوەشدا بەتەنها تاقیکردنەوە نیە، تاقیکردنەوە بریتییە لە هەڵسەنگاندێک بەکاردێت بۆ ڕەتکردنەوەی گریمانەیەک یان زیاتر و هەروەها پرسیارکردن و تێبینیکردنیش ڕێنمایی لێکۆڵینەوەی زانستی دەکەن. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+لە کۆتاییدا تایەی تەختە گۆڕدرا بە تایەی ئاسن. لە ساڵی ١٧٦٧ دا یەکەمین هێڵی ئاسنین ڕاگەیەندرا.,science/technology,sports,"SENTENCE:
+ لە کۆتاییدا تایەی تەختە گۆڕدرا بە تایەی ئاسن. لە ساڵی ١٧٦٧ دا یەکەمین هێڵی ئاسنین ڕاگەیەندرا. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+لە کاتێکدا زۆرینەیی کارتەکان باشن بۆ پەیوەندیکردن بە هەموو شوێنێک، هەندێک تایبەتمەندن لە دابینکردنی ڕێژەی پەیوەندی خوازراو بۆ گروپی دیاریکراوی هەندێک وڵات.,science/technology,sports,"SENTENCE:
+ لە کاتێکدا زۆرینەیی کارتەکان باشن بۆ پەیوەندیکردن بە هەموو شوێنێک، هەندێک تایبەتمەندن لە دابینکردنی ڕێژەی پەیوەندی خوازراو بۆ گروپی دیاریکراوی هەندێک وڵات. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+زۆربەی تەلەسکۆبەکانی نوێی لێکۆڵینەوە بریتین لە دامەزراوەی زۆر گەورە لە ناوچە دورەدەستەکاندا کە کەشوهەوای گونجاوی هەیە.,science/technology,sports,"SENTENCE:
+ زۆربەی تەلەسکۆبەکانی نوێی لێکۆڵینەوە بریتین لە دامەزراوەی زۆر گەورە لە ناوچە دورەدەستەکاندا کە کەشوهەوای گونجاوی هەیە. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+دەرزیە پۆڵاکە سەر ئاو دەکەوێت بەهۆی ڕاکێشانی تەختەیی.,science/technology,sports,"SENTENCE:
+ دەرزیە پۆڵاکە سەر ئاو دەکەوێت بەهۆی ڕاکێشانی تەختەیی. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+فۆرماتە 35 میلیمەتریەکە، کەمێک هەڵخەڵەتێنەرە، لە ڕاستیدا 36 میلیمەتر پانە و 24 میلیمەتر بەرزە.,science/technology,sports,"SENTENCE:
+ فۆرماتە 35 میلیمەتریەکە، کەمێک هەڵخەڵەتێنەرە، لە ڕاستیدا 36 میلیمەتر پانە و 24 میلیمەتر بەرزە. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"خانەکان زۆر گرنگ بنەڕەتین بۆ لێکۆڵینەوە لە ژیان، لە راستیدا پێیان دەوترێت ""پێکهاتەکانی ژیان"".",science/technology,sports,"SENTENCE:
+ خانەکان زۆر گرنگ بنەڕەتین بۆ لێکۆڵینەوە لە ژیان، لە راستیدا پێیان دەوترێت ""پێکهاتەکانی ژیان"". 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+دابینکارانی VPN ی تایبەت (تۆڕی دیجیتاڵیی تایبەت) ڕێگەیەکی نایابە بۆ خۆدەربازکردن لە سانسۆری سیاسی و فیلتەرکردنی جوگرافیی ئایپیەکان.,science/technology,science/technology,"SENTENCE:
+ دابینکارانی VPN ی تایبەت (تۆڕی دیجیتاڵیی تایبەت) ڕێگەیەکی نایابە بۆ خۆدەربازکردن لە سانسۆری سیاسی و فیلتەرکردنی جوگرافیی ئایپیەکان. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+وێستگەکە هەڵوێستی خۆی پاراست، سەرەڕای لەدەستدانی گیرۆسکۆب لە کاتێکی پێشتر لەئەرکی وێستگەکە لە بۆشایی ئاسمان، تا کۆتایی ڕۆیشتن لە بۆشایی ئاسمان.,science/technology,sports,"SENTENCE:
+ وێستگەکە هەڵوێستی خۆی پاراست، سەرەڕای لەدەستدانی گیرۆسکۆب لە کاتێکی پێشتر لەئەرکی وێستگەکە لە بۆشایی ئاسمان، تا کۆتایی ڕۆیشتن لە بۆشایی ئاسمان. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+خەلکانی ئەم جۆرە بیرکردنەوەیە بیرکردنەوەی لۆژیکیان هەیە و دەتوانن شێوەکان لەبەر بکەن و کێشە چارەسەر بکەن و کاربکەن لەسەر تاقیکردنەوەی زانستی.,science/technology,sports,"SENTENCE:
+ خەلکانی ئەم جۆرە بیرکردنەوەیە بیرکردنەوەی لۆژیکیان هەیە و دەتوانن شێوەکان لەبەر بکەن و کێشە چارەسەر بکەن و کاربکەن لەسەر تاقیکردنەوەی زانستی. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+ئۆسیلۆت [پشیلە کێوی ئەمریکی] حەزی لە خواردنی ئاژەڵی بچوک هەیە. مەیمون و مار و قەتێنەرەکان و باڵندەش ڕاو دەکەن. زۆربەی ئەو ئاژەڵانەی ڕاوی دەکات زۆر لە خۆی بچوکترە.,science/technology,sports,"SENTENCE:
+ ئۆسیلۆت [پشیلە کێوی ئەمریکی] حەزی لە خواردنی ئاژەڵی بچوک هەیە. مەیمون و مار و قەتێنەرەکان و باڵندەش ڕاو دەکەن. زۆربەی ئەو ئاژەڵانەی ڕاوی دەکات زۆر لە خۆی بچوکترە. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+هەندێک فیلمی کامێرای شێوە مامناوەندی 6 بە 6 سم بەکاردەهێنن، ووردتر 56 بە 56 ملمی نێگەتیڤ.,science/technology,sports,"SENTENCE:
+ هەندێک فیلمی کامێرای شێوە مامناوەندی 6 بە 6 سم بەکاردەهێنن، ووردتر 56 بە 56 ملمی نێگەتیڤ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+گەشتیاران زۆر ئامۆژگاری دەکرێن ئاگاداری هەر مەترسیەکی کەشوهەوای توند بن کە کار دەکاتە سەر ناوچەکەیان هەروەک کار دەکاتە سەر پلانی گەشتکردنیان.,travel,sports,"SENTENCE:
+ گەشتیاران زۆر ئامۆژگاری دەکرێن ئاگاداری هەر مەترسیەکی کەشوهەوای توند بن کە کار دەکاتە سەر ناوچەکەیان هەروەک کار دەکاتە سەر پلانی گەشتکردنیان. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+پاسەکان ناحیەکان بەجێدێلن و دەپڕنەوە بەسەر ڕووبارەکەدا لە ڕۆژدا و بەتایبەتی دەڕۆن بەرەو ڕۆژهەلات و جاکار/بومتانگ کاتژمێر ٦:٣٠ و ٧:٣٠ دەڕوات.,travel,sports,"SENTENCE:
+ پاسەکان ناحیەکان بەجێدێلن و دەپڕنەوە بەسەر ڕووبارەکەدا لە ڕۆژدا و بەتایبەتی دەڕۆن بەرەو ڕۆژهەلات و جاکار/بومتانگ کاتژمێر ٦:٣٠ و ٧:٣٠ دەڕوات. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+سەقامگیریی زیاتر بۆ سوارنشینەکە پێشکەش دەکەن بەڵام دەکرێت نیگەرانی سەلامەتیان هەبێت بەهۆی لایەنی شاراوەی پێی سوارنشینەکە کە لە ناوی گیر دەبێت.,travel,sports,"SENTENCE:
+ سەقامگیریی زیاتر بۆ سوارنشینەکە پێشکەش دەکەن بەڵام دەکرێت نیگەرانی سەلامەتیان هەبێت بەهۆی لایەنی شاراوەی پێی سوارنشینەکە کە لە ناوی گیر دەبێت. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+زۆربەی پاپۆرە گەشتیاریەکانی دەریای بەلتیکی مانەوەیان درێژکرایەوە لە سەینت پیتەرسبەرگ لە رووسیا.,travel,sports,"SENTENCE:
+ زۆربەی پاپۆرە گەشتیاریەکانی دەریای بەلتیکی مانەوەیان درێژکرایەوە لە سەینت پیتەرسبەرگ لە رووسیا. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+ڕاوێژەکە مەزەندەی ئەوە دەکات کە گەشتیاران دزی ناکەن، دەست درێژی ناکەن، لە بازاڕی نایاسایی بەشدار نابن، دەرۆزە ناکەن، یان خەڵکی دیکە ناچەوسێننەوە لە پێناوی دەسکەوتی خۆیان.,travel,sports,"SENTENCE:
+ ڕاوێژەکە مەزەندەی ئەوە دەکات کە گەشتیاران دزی ناکەن، دەست درێژی ناکەن، لە بازاڕی نایاسایی بەشدار نابن، دەرۆزە ناکەن، یان خەڵکی دیکە ناچەوسێننەوە لە پێناوی دەسکەوتی خۆیان. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+چەندین شت هەن کە پێویستە ڕەچاویان بکەیت لە پێش گەشت و کاتێک گەشت بۆ شوێنێک دەکەیت.,travel,sports,"SENTENCE:
+ چەندین شت هەن کە پێویستە ڕەچاویان بکەیت لە پێش گەشت و کاتێک گەشت بۆ شوێنێک دەکەیت. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+لەوپەڕی گەرمیی ڕۆژەکەدا، گەشتیاران تراویلکە دەبینن کە وێنەی ئەندێشەیی ئاوە (یان شتی تر).,travel,sports,"SENTENCE:
+ لەوپەڕی گەرمیی ڕۆژەکەدا، گەشتیاران تراویلکە دەبینن کە وێنەی ئەندێشەیی ئاوە (یان شتی تر). 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+خێزانێك منداڵی هەبێت بە دەگمەن دەبینرێت، بەڵام ئوتێلەکان ژووری تایبەتییان بۆ داناون.,travel,sports,"SENTENCE:
+ خێزانێك منداڵی هەبێت بە دەگمەن دەبینرێت، بەڵام ئوتێلەکان ژووری تایبەتییان بۆ داناون. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+بۆ نمونە سەردانکردنی قەڵاکانی دۆڵی لوایەر و دۆڵی ڕاین یان گەشتکردن بە پاپۆر بۆ شارە سەرنجڕاکێشەکان لەسەر ڕووباری دانوب یان بە بەلەم ڕۆشتن بە درێژایی کەناڵی ئێریدا.,travel,sports,"SENTENCE:
+ بۆ نمونە سەردانکردنی قەڵاکانی دۆڵی لوایەر و دۆڵی ڕاین یان گەشتکردن بە پاپۆر بۆ شارە سەرنجڕاکێشەکان لەسەر ڕووباری دانوب یان بە بەلەم ڕۆشتن بە درێژایی کەناڵی ئێریدا. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+وا باشترە بریکارێك بەکاربێت کە زۆر کاری حیجزکردنی گەشتی هاوشێوەی تۆ دەکات.,travel,sports,"SENTENCE:
+ وا باشترە بریکارێك بەکاربێت کە زۆر کاری حیجزکردنی گەشتی هاوشێوەی تۆ دەکات. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Couchsurfing- مانەوەی کاتی لەماڵی خەڵکانی تر، دامەزرا لە کانونی دووهەمی ٢٠٠٤ دا کاتێك پڕۆگرامەری کۆمپیوتەر (کەیسی فێنتن) گەشتێکی هەرزانی دەستکەوت بۆ ئایسلەندە بەڵام شوێنێك نەبوو لێی بمێنێتەوە.,travel,travel,"SENTENCE:
+ Couchsurfing- مانەوەی کاتی لەماڵی خەڵکانی تر، دامەزرا لە کانونی دووهەمی ٢٠٠٤ دا کاتێك پڕۆگرامەری کۆمپیوتەر (کەیسی فێنتن) گەشتێکی هەرزانی دەستکەوت بۆ ئایسلەندە بەڵام شوێنێك نەبوو لێی بمێنێتەوە. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+بە شێوەیەکی گشتى ڤیزەی قوتابی داواکاری جیاواز و ڕێکاری پێشکەشکردنی جیاوازی هەیە بەراورد بە ڤیزەی گەشتیاری ئاسایی یان ڤیزەی بازرگانی.,travel,sports,"SENTENCE:
+ بە شێوەیەکی گشتى ڤیزەی قوتابی داواکاری جیاواز و ڕێکاری پێشکەشکردنی جیاوازی هەیە بەراورد بە ڤیزەی گەشتیاری ئاسایی یان ڤیزەی بازرگانی. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+هەر وڵاتێك یاسای تایبەتی هەیە لەسەر ئەوەی دەبێت چی کەلوپەلێکی دۆخی کتوپڕی دەبێت لە ئۆتۆمبیلەکاندا هەبن.,travel,sports,"SENTENCE:
+ هەر وڵاتێك یاسای تایبەتی هەیە لەسەر ئەوەی دەبێت چی کەلوپەلێکی دۆخی کتوپڕی دەبێت لە ئۆتۆمبیلەکاندا هەبن. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+هەرچەندە دەزگاکان ئامادەن حیجزە بەردەوامەکان بکەن، زۆرینەی بریکارەکان شارەزاییان لە جۆرێکی دیاریکراوی گەشت و مەودای بوجە و ڕووگەی گەشتیاریدا هەیە.,travel,sports,"SENTENCE:
+ هەرچەندە دەزگاکان ئامادەن حیجزە بەردەوامەکان بکەن، زۆرینەی بریکارەکان شارەزاییان لە جۆرێکی دیاریکراوی گەشت و مەودای بوجە و ڕووگەی گەشتیاریدا هەیە. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+ڕەنگە گەشتیارانی دووچاری ئاژەڵی ماڵی بن کە لە هەرێمەکانی خۆیان ئاشنا نین.,travel,sports,"SENTENCE:
+ ڕەنگە گەشتیارانی دووچاری ئاژەڵی ماڵی بن کە لە هەرێمەکانی خۆیان ئاشنا نین. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+هەروەها لە باكوور سەردانی پەرستگای گەورەی ئاوەر لەیدی فاتیمە (مەزار) بکە، شوێنی بەناوبانگی جیهانی ماریەکان.,travel,sports,"SENTENCE:
+ هەروەها لە باكوور سەردانی پەرستگای گەورەی ئاوەر لەیدی فاتیمە (مەزار) بکە، شوێنی بەناوبانگی جیهانی ماریەکان. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+دەتوانیت بۆدا-بۆدا (تاکسی ماتۆرسکیل) بەکاربێنیت بۆ گەڕان بە ناو گۆما. نرخی ئاسایی (ناوخۆیی) بریتیە لە ~500 فرانکی کۆنگۆلی بۆ گەشتێکی کورت.,travel,sports,"SENTENCE:
+ دەتوانیت بۆدا-بۆدا (تاکسی ماتۆرسکیل) بەکاربێنیت بۆ گەڕان بە ناو گۆما. نرخی ئاسایی (ناوخۆیی) بریتیە لە ~500 فرانکی کۆنگۆلی بۆ گەشتێکی کورت. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+بۆ ئەو کەسانەی حەزیان لە چالاکیەکانی دەرەوەی ماڵە، گەشتێك بۆ ڕاڕەوی سی تو سکای (دەریای ئاسمان) زۆر گرنگ و چێژبەخشە.,travel,sports,"SENTENCE:
+ بۆ ئەو کەسانەی حەزیان لە چالاکیەکانی دەرەوەی ماڵە، گەشتێك بۆ ڕاڕەوی سی تو سکای (دەریای ئاسمان) زۆر گرنگ و چێژبەخشە. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"سەفاریی بە پێ (پێشی دەوترێت ""پیاسەی ناو گژوگیا""، ""سەفاریی شاخڕەوی"" یان ""بەپێ ڕۆشتن"") شاخرەویش لەخۆ دەگرێت کە یان چەند کاتژمێرێك یان چەند ڕۆژێکی پێدەچێت.",travel,sports,"SENTENCE:
+ سەفاریی بە پێ (پێشی دەوترێت ""پیاسەی ناو گژوگیا""، ""سەفاریی شاخڕەوی"" یان ""بەپێ ڕۆشتن"") شاخرەویش لەخۆ دەگرێت کە یان چەند کاتژمێرێك یان چەند ڕۆژێکی پێدەچێت. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+تاکە ڕێگا بۆ ئەوەی خێراتر بگەیت ئەوە بوو وەک جانتای پشکنراو بینێریت. ڕێنماییەکانی هێڵی ئاسمانی ڕێگە بەناردنی کەلوپەلەکانیان بەبێ سەرنشین نادات، کە ئەو شوێنەیە تیایدا هاتیتە ژوورەوە.,travel,sports,"SENTENCE:
+ تاکە ڕێگا بۆ ئەوەی خێراتر بگەیت ئەوە بوو وەک جانتای پشکنراو بینێریت. ڕێنماییەکانی هێڵی ئاسمانی ڕێگە بەناردنی کەلوپەلەکانیان بەبێ سەرنشین نادات، کە ئەو شوێنەیە تیایدا هاتیتە ژوورەوە. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+بە ٣٠٠ دانەوە دەبێتە ١٣٠٠ هەڵگر و جەنجاڵیەکە کەم دەکاتەوە.,travel,sports,"SENTENCE:
+ بە ٣٠٠ دانەوە دەبێتە ١٣٠٠ هەڵگر و جەنجاڵیەکە کەم دەکاتەوە. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+خێزانێك منداڵی بچوکی هەبێت پێویستی بە ئامادەکاری هەیە، بەڵام ڕۆژێك لە دەرەوە زۆر ئاسان دەبێت ئەگەر منداڵەکان ساوا بن یان تەمەنی پێش قوتابخانە بن.,travel,sports,"SENTENCE:
+ خێزانێك منداڵی بچوکی هەبێت پێویستی بە ئامادەکاری هەیە، بەڵام ڕۆژێك لە دەرەوە زۆر ئاسان دەبێت ئەگەر منداڵەکان ساوا بن یان تەمەنی پێش قوتابخانە بن. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+هەرکەسێك شۆفێریی بکات لە شوێنە بەرزەکانی سەر ئاستی ڕووی دەریاوە یان لەسەر چیاکان دەبێت ئاگاداری بەفر و سەهۆل و پلەی گەرمیی بەستن بێن.,travel,sports,"SENTENCE:
+ هەرکەسێك شۆفێریی بکات لە شوێنە بەرزەکانی سەر ئاستی ڕووی دەریاوە یان لەسەر چیاکان دەبێت ئاگاداری بەفر و سەهۆل و پلەی گەرمیی بەستن بێن. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+ئەمڕۆ، تیمبوکتو شارۆچکەیەکی هەژارە، گەرچی ناوبانگەکەی دەیکاتە جێمەبەستێکی گەشتیاران، و فرۆکەخانەیەکیشی هەیە.,travel,sports,"SENTENCE:
+ ئەمڕۆ، تیمبوکتو شارۆچکەیەکی هەژارە، گەرچی ناوبانگەکەی دەیکاتە جێمەبەستێکی گەشتیاران، و فرۆکەخانەیەکیشی هەیە. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+لەکاتی ڕەشەبای بەفراویدا، هێندە بەفر دەبارێت لەماوەیەکی کەمدا دەتوانێت گیرت پێبخوات.,travel,sports,"SENTENCE:
+ لەکاتی ڕەشەبای بەفراویدا، هێندە بەفر دەبارێت لەماوەیەکی کەمدا دەتوانێت گیرت پێبخوات. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+ئەگەر ویستت بەدەوری جیهاندا بفڕیت تەنها لە نیوە گۆی باشوورەوە، ئەوا بژاردەکانی گەشتە ئاسمانیەکە و ڕووگەکان سنوردارن چونکە ڕێگەی سەر زەریاکان کەمن.,travel,sports,"SENTENCE:
+ ئەگەر ویستت بەدەوری جیهاندا بفڕیت تەنها لە نیوە گۆی باشوورەوە، ئەوا بژاردەکانی گەشتە ئاسمانیەکە و ڕووگەکان سنوردارن چونکە ڕێگەی سەر زەریاکان کەمن. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+هێڵەکانی ئاسمانیی وەکو ئیمارات، ئیتیحاد ئێروەیس، قەتەر ئێوەیس و تورکێش ئێوەیس بەشێوەیەکی زۆر خزمەتگوزاریەکانیان فراوان کردووە لە ئەفریقادا، وە خزمەتگوزاریی گەشت بۆ شارە سەرەکیە ئەفریقیەکان پێشکەش دەکەن بە نرخێکی ڕکابەرانە وەك لە هێڵە ئاسمانیە ئەوروپیەکان.,travel,sports,"SENTENCE:
+ هێڵەکانی ئاسمانیی وەکو ئیمارات، ئیتیحاد ئێروەیس، قەتەر ئێوەیس و تورکێش ئێوەیس بەشێوەیەکی زۆر خزمەتگوزاریەکانیان فراوان کردووە لە ئەفریقادا، وە خزمەتگوزاریی گەشت بۆ شارە سەرەکیە ئەفریقیەکان پێشکەش دەکەن بە نرخێکی ڕکابەرانە وەك لە هێڵە ئاسمانیە ئەوروپیەکان. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+هیچ گواستنەوەیەکی زیادە دانەنراون و هیچ شەمەندەفەرێکیش تا ویمبلی ناوەستێت، شوێنی وەستانی ئۆتۆمبیل و دامەزراوەکانی وەستان و سەرکەوتن لەسەر زەمین بەردەست نین.,travel,sports,"SENTENCE:
+ هیچ گواستنەوەیەکی زیادە دانەنراون و هیچ شەمەندەفەرێکیش تا ویمبلی ناوەستێت، شوێنی وەستانی ئۆتۆمبیل و دامەزراوەکانی وەستان و سەرکەوتن لەسەر زەمین بەردەست نین. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+بە گشتی، مانەوە لە وڵاتێکی بێگانەدا بۆ ماوەیەکی درێژ پێویستی بەوەیە پێش وەختە ڤیزا بەدەست بێنیت.,travel,sports,"SENTENCE:
+ بە گشتی، مانەوە لە وڵاتێکی بێگانەدا بۆ ماوەیەکی درێژ پێویستی بەوەیە پێش وەختە ڤیزا بەدەست بێنیت. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+هەموو شەمەندەفەرێك میترۆ پلەس و میترۆ کاوچی هەیە، میترۆ پلەس لە کۆتایی شەمەندەفەرەکەدان نزیك کەیپ تاون.,travel,sports,"SENTENCE:
+ هەموو شەمەندەفەرێك میترۆ پلەس و میترۆ کاوچی هەیە، میترۆ پلەس لە کۆتایی شەمەندەفەرەکەدان نزیك کەیپ تاون. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+هەموو کەس بەشدارە لە کۆمەڵگەدا و سیستەمەکانی گواستنەوە بەکاردێنێت. هەمووشیان سکاڵایان هەیە لەسەر سیستەمەکانی گواستنەوە.,travel,sports,"SENTENCE:
+ هەموو کەس بەشدارە لە کۆمەڵگەدا و سیستەمەکانی گواستنەوە بەکاردێنێت. هەمووشیان سکاڵایان هەیە لەسەر سیستەمەکانی گواستنەوە. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+بەهۆی ئەوەی ناوچەکە قەرەباڵغ نیە، کەواتە پیسبوون بە ڕووناکیش بوونی نیە، دەتوانیت چێژ لە بینینی ئەستێرەکان ببینیت.,travel,sports,"SENTENCE:
+ بەهۆی ئەوەی ناوچەکە قەرەباڵغ نیە، کەواتە پیسبوون بە ڕووناکیش بوونی نیە، دەتوانیت چێژ لە بینینی ئەستێرەکان ببینیت. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+داواکاری ڤیزە و تێچووەکان لە وڵاتێک بۆ وڵاتێکی دیکە دەگۆڕێت و دەکەوێت ژێر کاریگەری ئەوەی لە کامە وڵاتە هاتوویت.,travel,sports,"SENTENCE:
+ داواکاری ڤیزە و تێچووەکان لە وڵاتێک بۆ وڵاتێکی دیکە دەگۆڕێت و دەکەوێت ژێر کاریگەری ئەوەی لە کامە وڵاتە هاتوویت. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+بە گشتی، هیچ سودێکی نیە بەدووی داشکاندندا بگەڕێیت بۆ کورسیی پلە یەك یان بازرگانی لە گەشتی ئاسمانیی ڕاستەوخۆدا.,travel,sports,"SENTENCE:
+ بە گشتی، هیچ سودێکی نیە بەدووی داشکاندندا بگەڕێیت بۆ کورسیی پلە یەك یان بازرگانی لە گەشتی ئاسمانیی ڕاستەوخۆدا. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+هەڵدانی داری چەماوە (بوومیرانگ) کارامەییەکەی بەناوبانگە و چەندان گەشتیار حەزدەکەن فێری ببن.,travel,sports,"SENTENCE:
+ هەڵدانی داری چەماوە (بوومیرانگ) کارامەییەکەی بەناوبانگە و چەندان گەشتیار حەزدەکەن فێری ببن. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+ئەم گەشتە تاکە بژاردە نیە ئەگەر دەتەوێت دەریای هێمنی باشور و کەناری خۆرئاوای ئەمریکای باشوور باز بدەیت. (سەیری خوارەوە بکە),travel,sports,"SENTENCE:
+ ئەم گەشتە تاکە بژاردە نیە ئەگەر دەتەوێت دەریای هێمنی باشور و کەناری خۆرئاوای ئەمریکای باشوور باز بدەیت. (سەیری خوارەوە بکە) 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+سان فرانسیسکۆ ژێرخانێکی گەورەی گەشتیاری پەرەپێداوە بە چەندین هۆتێل و چێشتخانە و شوێنی حەوانەوەی لووتکە.,travel,sports,"SENTENCE:
+ سان فرانسیسکۆ ژێرخانێکی گەورەی گەشتیاری پەرەپێداوە بە چەندین هۆتێل و چێشتخانە و شوێنی حەوانەوەی لووتکە. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+کاری خۆبەخشی کردن لە کاتی گەشتکردن ڕێگایەکی مەزنە بۆ دروستكردنی جیاوازیەک بەڵام بە تەنها دەربارەی بەخشین نیە.,travel,sports,"SENTENCE:
+ کاری خۆبەخشی کردن لە کاتی گەشتکردن ڕێگایەکی مەزنە بۆ دروستكردنی جیاوازیەک بەڵام بە تەنها دەربارەی بەخشین نیە. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+خەڵكی لەوانەیە پێشبینی ئەوە نەکەن کە ئارامگرتن و تێگەشتن بەهەمان شێوە گرنگ بۆ گشتیاران کە دەگەڕێنەوە ماڵەوە.,travel,sports,"SENTENCE:
+ خەڵكی لەوانەیە پێشبینی ئەوە نەکەن کە ئارامگرتن و تێگەشتن بەهەمان شێوە گرنگ بۆ گشتیاران کە دەگەڕێنەوە ماڵەوە. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+لەیادت نەچێت تێچوونە زیادەکانی ڤیزا و باجی بەجێهێشتن و گواستنەوەش هەژمار بکەیت بۆ هەموو شوێنەکانی دەرەوەی ئەفریقا.,travel,sports,"SENTENCE:
+ لەیادت نەچێت تێچوونە زیادەکانی ڤیزا و باجی بەجێهێشتن و گواستنەوەش هەژمار بکەیت بۆ هەموو شوێنەکانی دەرەوەی ئەفریقا. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+چەندین دانیشتوویی بیشکەک خۆپیشاندەڕانی باشووریان بە نایاسایی تاوانبار کرد.,politics,sports,"SENTENCE:
+ چەندین دانیشتوویی بیشکەک خۆپیشاندەڕانی باشووریان بە نایاسایی تاوانبار کرد. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+بەشەکانی ئێستای بەلجیکا لە ڕابردوودا بەشێک بوون لە لۆکسمبورگ بەڵام دوای شۆڕشی بەلجیکی 1830ی بوون بە بەلجیکا.,politics,travel,"SENTENCE:
+ بەشەکانی ئێستای بەلجیکا لە ڕابردوودا بەشێک بوون لە لۆکسمبورگ بەڵام دوای شۆڕشی بەلجیکی 1830ی بوون بە بەلجیکا. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+لە ساڵی 1988 ەوە پێویستە سندوقەکانی دەنگدان شەفاف بن بۆ ئەوەی دەنگدەران و چاودێران گەواهیدەری ئەوە بن کە لە سەرەتای دەنگدانەوە هیچ زەرفێک بوونی نیە و جگە لە زەرفەکانی دەنگدەری بە دواداهاتوو و ڕێگەپێدراو هیچ زەرفێکی بۆ زیاد ناکرێت.,politics,sports,"SENTENCE:
+ لە ساڵی 1988 ەوە پێویستە سندوقەکانی دەنگدان شەفاف بن بۆ ئەوەی دەنگدەران و چاودێران گەواهیدەری ئەوە بن کە لە سەرەتای دەنگدانەوە هیچ زەرفێک بوونی نیە و جگە لە زەرفەکانی دەنگدەری بە دواداهاتوو و ڕێگەپێدراو هیچ زەرفێکی بۆ زیاد ناکرێت. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+سەرۆک وەزیرانی کاتی، جولیا گیلارد لە کۆتای هەڵمەتی هەڵبژاردنی ٢٠١٠ ی فیدرالیدا وتی باوەری وایە ئوستورالیا لە کۆتایی فەرمانرەوایی شاژن ئەلیزابێسی دووهەم پێویستە ببێتە کۆماری.,politics,sports,"SENTENCE:
+ سەرۆک وەزیرانی کاتی، جولیا گیلارد لە کۆتای هەڵمەتی هەڵبژاردنی ٢٠١٠ ی فیدرالیدا وتی باوەری وایە ئوستورالیا لە کۆتایی فەرمانرەوایی شاژن ئەلیزابێسی دووهەم پێویستە ببێتە کۆماری. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+حکومەتی ئیرلەندی جەخت لەسەر پێویستیی یاسادانانی پەرلەمانی دەکاتەوە بۆ ڕاستکردنەوەی بارودۆخەکە.,politics,sports,"SENTENCE:
+ حکومەتی ئیرلەندی جەخت لەسەر پێویستیی یاسادانانی پەرلەمانی دەکاتەوە بۆ ڕاستکردنەوەی بارودۆخەکە. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+مشتومڕی دیبلۆماسی دەربارەی هەرێمەکە بەردەوامبووە لە شێواندنی پەیوەندیەکانی نێوان ئەرمینیا و ئازەربایجان.,politics,sports,"SENTENCE:
+ مشتومڕی دیبلۆماسی دەربارەی هەرێمەکە بەردەوامبووە لە شێواندنی پەیوەندیەکانی نێوان ئەرمینیا و ئازەربایجان. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+سەرۆک وەزیران ستیفن هارپەر ڕازی بووە بە ناردنی 'یاسای هەوای پاک' بۆ لێژنەیەکی هەموو لایەنەکان بۆ پێداچوونەوە، پێش خوێندنەوەی دووەمی یاساکە، دوای کۆبوونەوە 25 خولەکیەکەی سێشەممە لەگەڵ سەرۆکی NDP جاک لایتۆن لە PMO.,politics,sports,"SENTENCE:
+ سەرۆک وەزیران ستیفن هارپەر ڕازی بووە بە ناردنی 'یاسای هەوای پاک' بۆ لێژنەیەکی هەموو لایەنەکان بۆ پێداچوونەوە، پێش خوێندنەوەی دووەمی یاساکە، دوای کۆبوونەوە 25 خولەکیەکەی سێشەممە لەگەڵ سەرۆکی NDP جاک لایتۆن لە PMO. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+مانگی پێشوو خۆپیشاندانی گەورە بەڕێوەچوو لە پۆڵەندا کاتێك وڵاتەکە واژۆی ڕێکەوتنامەی ACTAی کرد کە بووە هۆی ئەوەی حکومەتی پۆڵەندی بڕیای بدات جارێ کار بەم ڕێکەوتنامەیە نەکات.,politics,sports,"SENTENCE:
+ مانگی پێشوو خۆپیشاندانی گەورە بەڕێوەچوو لە پۆڵەندا کاتێك وڵاتەکە واژۆی ڕێکەوتنامەی ACTAی کرد کە بووە هۆی ئەوەی حکومەتی پۆڵەندی بڕیای بدات جارێ کار بەم ڕێکەوتنامەیە نەکات. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+ڕاوێژکاریەکان لە وڵاتاندا بریتین لە پوختەیەکی کورتی دۆخی سیاسی.,politics,sports,"SENTENCE:
+ ڕاوێژکاریەکان لە وڵاتاندا بریتین لە پوختەیەکی کورتی دۆخی سیاسی. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+لە ساڵی دەستنیشانکردنەکەی ساڵی ١٩٧٦ دا، ئەو ڕاوێژکاری کردووە بۆ کارتەر دەربارەی سیاسەتی دەرەوە، پاشان بووە ڕاوێژکاری ئاسایشی نیشتیمانی (NSA) لە ١٩٧٧ تا ١٩٨١ لە پاش هێنری کیسینجەر.,politics,sports,"SENTENCE:
+ لە ساڵی دەستنیشانکردنەکەی ساڵی ١٩٧٦ دا، ئەو ڕاوێژکاری کردووە بۆ کارتەر دەربارەی سیاسەتی دەرەوە، پاشان بووە ڕاوێژکاری ئاسایشی نیشتیمانی (NSA) لە ١٩٧٧ تا ١٩٨١ لە پاش هێنری کیسینجەر. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+هەروەها تورکیا پاسەوانیکردنی جەنگاوەرە دەستگیرکراوەکانی داعشی وەرگرت، ڕوونکردنەوەیەکی ووتی، نەتەوە ئەوروپیەکان ڕەتیانکردەوە بۆ نیشتیمان بگەڕێنەوە.,politics,sports,"SENTENCE:
+ هەروەها تورکیا پاسەوانیکردنی جەنگاوەرە دەستگیرکراوەکانی داعشی وەرگرت، ڕوونکردنەوەیەکی ووتی، نەتەوە ئەوروپیەکان ڕەتیانکردەوە بۆ نیشتیمان بگەڕێنەوە. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+بەڵام ئەم پلانانە لەماوەی شەوێكدا پەکخران، کاتێك ٨٠٠٠٠٠ سەربازی سوپای سووری یەکێتی سۆڤیەت هاتنە ناوەوە و هێڵی پێشەوەی بێلاروس و ئۆکرانییان دروست کرد پاش چونە ناو بەشی ڕۆژهەڵاتی هەرێمەکانی پۆلەندا کە پێشێلکاری بوو بۆ ڕێکەوتنی ئاشتیی ریگا، سەر بە ڕێکەوتنی نێوان سۆڤیت و پۆلەندا بێ جەنگ لەگەڵ چەند ڕێکەوتنێکی تری نیشتیمانی لەسەر ئاستی دوو قۆڵی و هەمە قۆڵی.,politics,sports,"SENTENCE:
+ بەڵام ئەم پلانانە لەماوەی شەوێكدا پەکخران، کاتێك ٨٠٠٠٠٠ سەربازی سوپای سووری یەکێتی سۆڤیەت هاتنە ناوەوە و هێڵی پێشەوەی بێلاروس و ئۆکرانییان دروست کرد پاش چونە ناو بەشی ڕۆژهەڵاتی هەرێمەکانی پۆلەندا کە پێشێلکاری بوو بۆ ڕێکەوتنی ئاشتیی ریگا، سەر بە ڕێکەوتنی نێوان سۆڤیت و پۆلەندا بێ جەنگ لەگەڵ چەند ڕێکەوتنێکی تری نیشتیمانی لەسەر ئاستی دوو قۆڵی و هەمە قۆڵی. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+دوابەدوای پرۆسەکە، HJR-3 دووبارە پێداچونەوەی بۆدەکرێت لەلایەن یاسادانەری هەڵبژێردراوەوە یان لە ساڵی ٢٠١٥ یان ٢٠١٦ دا بۆ مانەوە لە پرۆسەکەدا.,politics,sports,"SENTENCE:
+ دوابەدوای پرۆسەکە، HJR-3 دووبارە پێداچونەوەی بۆدەکرێت لەلایەن یاسادانەری هەڵبژێردراوەوە یان لە ساڵی ٢٠١٥ یان ٢٠١٦ دا بۆ مانەوە لە پرۆسەکەدا. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+پاش لەخۆگرتنی لەلایەن کۆنگرێسەوە لە ٤ ی تەمووزدا، ڕەشنووسێکی دەستنووس لەلایەن سەرۆکی کۆنگرێەسەوە (جۆن هانکۆک) و سکرتێر (چارلز تۆمسن)ەوە نێردرا بۆ دووکانێکی چاپەمەنی چەند گەڕەکێك ئەولا بەناوی جۆن دەنلاپ.,politics,sports,"SENTENCE:
+ پاش لەخۆگرتنی لەلایەن کۆنگرێسەوە لە ٤ ی تەمووزدا، ڕەشنووسێکی دەستنووس لەلایەن سەرۆکی کۆنگرێەسەوە (جۆن هانکۆک) و سکرتێر (چارلز تۆمسن)ەوە نێردرا بۆ دووکانێکی چاپەمەنی چەند گەڕەکێك ئەولا بەناوی جۆن دەنلاپ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+دوای کاتژمێر ١١، خۆپیشاندەران ڕێگەی هاتوچۆی بەرەو باکوریان داخست لە وایتهۆڵ.,politics,sports,"SENTENCE:
+ دوای کاتژمێر ١١، خۆپیشاندەران ڕێگەی هاتوچۆی بەرەو باکوریان داخست لە وایتهۆڵ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+بەڵام لە حوزەیرانی ١٩٥٦ دا، کروچێف بەڵینەکانی تاقیکرایەوە کاتێک لە پۆلەندا کرێکاران خۆپیشاندانیان کرد لە دژی کەمی خۆراک و بڕینی کرێکان و بووە ئاژاوە و دواتر بووە خۆپیشاندانێکی گەورە و گشتی لە دژی کۆمۆنیزم.,politics,sports,"SENTENCE:
+ بەڵام لە حوزەیرانی ١٩٥٦ دا، کروچێف بەڵینەکانی تاقیکرایەوە کاتێک لە پۆلەندا کرێکاران خۆپیشاندانیان کرد لە دژی کەمی خۆراک و بڕینی کرێکان و بووە ئاژاوە و دواتر بووە خۆپیشاندانێکی گەورە و گشتی لە دژی کۆمۆنیزم. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+بۆ ماوەی ٤٠ ساڵی داهاتوو بەردەوامبوو وە بە راستەقینە جەنگی لەسەر دەکرا لەلایەن سوپای بەکرێگیراوەوە لە مەیدانی جەنگیی ئەفریقا و ئاسیا و ئەفغانستان و کوبا و چەندان ناوچەی تردا.,politics,travel,"SENTENCE:
+ بۆ ماوەی ٤٠ ساڵی داهاتوو بەردەوامبوو وە بە راستەقینە جەنگی لەسەر دەکرا لەلایەن سوپای بەکرێگیراوەوە لە مەیدانی جەنگیی ئەفریقا و ئاسیا و ئەفغانستان و کوبا و چەندان ناوچەی تردا. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+مانگی پێشوو کۆمسیۆنێکی سەرۆکایەتی پێشنیار کرا پێش دەست لەکارکێشانەوەی CEP وەکو بەشێك لە پاکێجی ڕێکاری بۆ بەرەوپێشبردنی وڵاتەکە بەرەو هەڵبژاردنی نوێ.,politics,sports,"SENTENCE:
+ مانگی پێشوو کۆمسیۆنێکی سەرۆکایەتی پێشنیار کرا پێش دەست لەکارکێشانەوەی CEP وەکو بەشێك لە پاکێجی ڕێکاری بۆ بەرەوپێشبردنی وڵاتەکە بەرەو هەڵبژاردنی نوێ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+ئەو بابەتانەی تر کە لەخۆگیردراون بریتیە لە دۆخی داهاتووی قودس کە پیرۆزە بەلای هەردوو نەتەوەکەوە لەگەڵ کێشەی دۆڵی ئوردون.,politics,sports,"SENTENCE:
+ ئەو بابەتانەی تر کە لەخۆگیردراون بریتیە لە دۆخی داهاتووی قودس کە پیرۆزە بەلای هەردوو نەتەوەکەوە لەگەڵ کێشەی دۆڵی ئوردون. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+هەروەها هیچ دەسەڵاتێکی نەبووە بۆ لادان لە یاساکانی باجدان و گومرگی نێوان ویلایەتەکان.,politics,sports,"SENTENCE:
+ هەروەها هیچ دەسەڵاتێکی نەبووە بۆ لادان لە یاساکانی باجدان و گومرگی نێوان ویلایەتەکان. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+یاسای هەڵبژاردنی فەرەنسی بە توندی ڕێکاریەکان دەگرێتە بەر.,politics,sports,"SENTENCE:
+ یاسای هەڵبژاردنی فەرەنسی بە توندی ڕێکاریەکان دەگرێتە بەر. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+پاش هەفتەیەك لە لەدەستدانی دەنگەکان لە ناوەڕاستی هەڵبژاردنەکاندا، بوش باسی فراوانکردنی بازرگانی کردوە لە ئاسیا بۆ ئامادەبووان.,politics,sports,"SENTENCE:
+ پاش هەفتەیەك لە لەدەستدانی دەنگەکان لە ناوەڕاستی هەڵبژاردنەکاندا، بوش باسی فراوانکردنی بازرگانی کردوە لە ئاسیا بۆ ئامادەبووان. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+ستراتیژەکە کاریگەر بوونی خۆی سەلماندووە، بڕینی پێداویستی سەربازی و مەدەنی گرنگ، گەرچی ئەم گەمارۆیە پێشێلی یاسا نێودەوڵەتیە پەسەندکردکراوەکانی کرد لەلایەن چەندین ڕێکەوتننامە نێودەوڵەتیەكانی دوو سەدەی ڕابردوو.,politics,sports,"SENTENCE:
+ ستراتیژەکە کاریگەر بوونی خۆی سەلماندووە، بڕینی پێداویستی سەربازی و مەدەنی گرنگ، گەرچی ئەم گەمارۆیە پێشێلی یاسا نێودەوڵەتیە پەسەندکردکراوەکانی کرد لەلایەن چەندین ڕێکەوتننامە نێودەوڵەتیەكانی دوو سەدەی ڕابردوو. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+پەیوەندیی ئابوریی دامەزرایەوە لەنێوان ئەو دووبەشەی مۆلدۆڤادا سەرباری شکستهێنان لە دانوستانە سیاسییەکاندا.,politics,sports,"SENTENCE:
+ پەیوەندیی ئابوریی دامەزرایەوە لەنێوان ئەو دووبەشەی مۆلدۆڤادا سەرباری شکستهێنان لە دانوستانە سیاسییەکاندا. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+لەگەڵ ئەو بەرپرسانەدا، دڵنیایی ئەوەی دا بە هاوڵاتیانی تەکساس کە هەنگاوی کردارەکی نراوە بۆ پاراستنی سەلامەتیی خەڵكی,politics,sports,"SENTENCE:
+ لەگەڵ ئەو بەرپرسانەدا، دڵنیایی ئەوەی دا بە هاوڵاتیانی تەکساس کە هەنگاوی کردارەکی نراوە بۆ پاراستنی سەلامەتیی خەڵكی 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+رەخنەی لیبرالی بۆ هەولەکانی بنیادنانەوە جەخت کرابۆوە سەر بەخشینی بەڵێننامەی بنیادنانەوە بۆ هاوڵاتیانی ناو واشنتن.,politics,sports,"SENTENCE:
+ رەخنەی لیبرالی بۆ هەولەکانی بنیادنانەوە جەخت کرابۆوە سەر بەخشینی بەڵێننامەی بنیادنانەوە بۆ هاوڵاتیانی ناو واشنتن. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+لە ١٤٠٠ کەس کە دەنگیان داوە پێش هەڵبژاردنی فیدڕاڵی ٢٠١٠، ئەوانەی دژی ئەوە بوون ئوستورالیا ببێتە کۆماری لە ٢٠٠٨ ەوە بەڕێژەی سەدا ٨ زیادیان کردووە.,politics,sports,"SENTENCE:
+ لە ١٤٠٠ کەس کە دەنگیان داوە پێش هەڵبژاردنی فیدڕاڵی ٢٠١٠، ئەوانەی دژی ئەوە بوون ئوستورالیا ببێتە کۆماری لە ٢٠٠٨ ەوە بەڕێژەی سەدا ٨ زیادیان کردووە. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+دیبلۆماتکاران وتیان ناڕوونێتی پێویستیان دەستکەوتووە لە دەستوری ئەفغانیدا بۆ یەکلاکردنەوەی ئەوەی دووبارەکردنەوەی هەڵبژاردن پێویست نیە.,politics,sports,"SENTENCE:
+ دیبلۆماتکاران وتیان ناڕوونێتی پێویستیان دەستکەوتووە لە دەستوری ئەفغانیدا بۆ یەکلاکردنەوەی ئەوەی دووبارەکردنەوەی هەڵبژاردن پێویست نیە. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+پاش ئەوەی ئەنجامەکان دەرچوو، گینگریچ دووا بۆ کۆبونەوەکە بەڵام قسەی ڕەقی بە ڕۆمنی وت، کە بەناوی ئەوەوە هەڵمەتە نەرێنیەکانی بانگەشە لە ئایۆوا پەخشکرا لەدژی گینگریچ.,politics,sports,"SENTENCE:
+ پاش ئەوەی ئەنجامەکان دەرچوو، گینگریچ دووا بۆ کۆبونەوەکە بەڵام قسەی ڕەقی بە ڕۆمنی وت، کە بەناوی ئەوەوە هەڵمەتە نەرێنیەکانی بانگەشە لە ئایۆوا پەخشکرا لەدژی گینگریچ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+ئەمە پێنجەم CEP ی مارتلیە لە ماوەی چوار ساڵدا.,politics,sports,"SENTENCE:
+ ئەمە پێنجەم CEP ی مارتلیە لە ماوەی چوار ساڵدا. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+مەدالیای زێڕی ئۆلیمپی بۆ مەلەکردنی ستایلی ئازاد بوو لە 100 م و 200 م و لە سێ گواستنەوەدا لە یاریەکانی کۆمۆنوێلس، بەڵام بەهۆی سکاڵاکانیەوە لەشجوانییەکەی کەوتە جێگەی گومانەوە.,sports,sports,"SENTENCE:
+ مەدالیای زێڕی ئۆلیمپی بۆ مەلەکردنی ستایلی ئازاد بوو لە 100 م و 200 م و لە سێ گواستنەوەدا لە یاریەکانی کۆمۆنوێلس، بەڵام بەهۆی سکاڵاکانیەوە لەشجوانییەکەی کەوتە جێگەی گومانەوە. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+وەکو پاڵەوانی پێشووی ئۆلۆمپیاد و جیهان، سایتۆ سەرۆکی لیژنەی ڕاهێنانی فیدراسیۆنی جودۆی یابانی بوو کە مرد.,sports,sports,"SENTENCE:
+ وەکو پاڵەوانی پێشووی ئۆلۆمپیاد و جیهان، سایتۆ سەرۆکی لیژنەی ڕاهێنانی فیدراسیۆنی جودۆی یابانی بوو کە مرد. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+ئەمڕۆ لەبەرلین لیژنەی نێودەوڵەتی ئۆڵمپی لە کۆبوونەوەی دەستەی جێبەجێکاریدا دەنگی دا بۆ لەخۆگرتنی وەرزشەکە. ڕەگبی، بە دیاریکراوی یەکێتی ڕەگبی و گۆڵف لەسەر پێنج وەرزشی دیکە دەستنیشانکران بۆ ئەوەی لە ئۆلیمپیاتەکاندا بەشداری بکەن.,sports,sports,"SENTENCE:
+ ئەمڕۆ لەبەرلین لیژنەی نێودەوڵەتی ئۆڵمپی لە کۆبوونەوەی دەستەی جێبەجێکاریدا دەنگی دا بۆ لەخۆگرتنی وەرزشەکە. ڕەگبی، بە دیاریکراوی یەکێتی ڕەگبی و گۆڵف لەسەر پێنج وەرزشی دیکە دەستنیشانکران بۆ ئەوەی لە ئۆلیمپیاتەکاندا بەشداری بکەن. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+گەورەترین خولی ساڵ لە مانگی کانونی یەکەم گۆڕەپانەکانی پۆلۆ لە لاس کانیتاس ئەنجام دەدرێن.,sports,sports,"SENTENCE:
+ گەورەترین خولی ساڵ لە مانگی کانونی یەکەم گۆڕەپانەکانی پۆلۆ لە لاس کانیتاس ئەنجام دەدرێن. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+ڤیداڵ لەوەتەی بەرەو پایتەختی کەتەلۆنیا دەجوڵێت، 49 یاریی بۆ یانەکە کردووە.,sports,sports,"SENTENCE:
+ ڤیداڵ لەوەتەی بەرەو پایتەختی کەتەلۆنیا دەجوڵێت، 49 یاریی بۆ یانەکە کردووە. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+هێشتنەوەی هاوسەنگیی وزەی تەندروست و ئاو خواردنەوەی ڕێكوپێك و تێگەشتن لە لایەنەکانی خۆراك یارمەتیدەرە بۆ وەرزشەوانان لە باشترکردنی ئەدا و زیادکردنی چێژبینینیان لە وەرزشەکە.,sports,sports,"SENTENCE:
+ هێشتنەوەی هاوسەنگیی وزەی تەندروست و ئاو خواردنەوەی ڕێكوپێك و تێگەشتن لە لایەنەکانی خۆراك یارمەتیدەرە بۆ وەرزشەوانان لە باشترکردنی ئەدا و زیادکردنی چێژبینینیان لە وەرزشەکە. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+لە سێهەمدا، هاملین بیست خاڵ لە دواوەیە، بەڵام پێنج خاڵ لە پێش باویەرەوەیە. کان و تروکس جونیەر پێنجەم و شەشەمن بە ٢،٢٢٠ و ٢،٢٠٧ خاڵ.,sports,sports,"SENTENCE:
+ لە سێهەمدا، هاملین بیست خاڵ لە دواوەیە، بەڵام پێنج خاڵ لە پێش باویەرەوەیە. کان و تروکس جونیەر پێنجەم و شەشەمن بە ٢،٢٢٠ و ٢،٢٠٧ خاڵ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+تۆمارەکەی نادال سەر بە سەر لەگەڵ کەنەدیەکەدا ٧-٢ بوو.,sports,sports,"SENTENCE:
+ تۆمارەکەی نادال سەر بە سەر لەگەڵ کەنەدیەکەدا ٧-٢ بوو. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+هارەکێ راهێنانی دەکرد لەماوەی ڕاهێنانی پێش وەرزەدا لە کۆڤەرجیانۆ لە ئیتاڵیا سەرلەبەیانی ئەمرۆ. لە ئوتێلی تیپەکە مایەوە پێش یاریە دانراوەکە بۆ یەك شەمە لە بەرامبەر بۆلۆنیا.,sports,sports,"SENTENCE:
+ هارەکێ راهێنانی دەکرد لەماوەی ڕاهێنانی پێش وەرزەدا لە کۆڤەرجیانۆ لە ئیتاڵیا سەرلەبەیانی ئەمرۆ. لە ئوتێلی تیپەکە مایەوە پێش یاریە دانراوەکە بۆ یەك شەمە لە بەرامبەر بۆلۆنیا. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+ترسی نەبوونی گواستنەوە بووە هۆی ئەگەری ئەوەی یاریەکە بە ناچاری لە یاریگاری داخراودا بکرێت بەبێ بوونی هاندەرانی تیمەکان.,sports,sports,"SENTENCE:
+ ترسی نەبوونی گواستنەوە بووە هۆی ئەگەری ئەوەی یاریەکە بە ناچاری لە یاریگاری داخراودا بکرێت بەبێ بوونی هاندەرانی تیمەکان. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"تۆمی دریمەر ووتی ""لونا یەکەمین شاژنی پەڕگیر بووە. یەکەم بەڕێوەبەری من. لونا لە شەوی دوو مانگەکە مرد. زۆر بێھاوتا وەک خۆی. ئافرەتی بەهێز.""",sports,sports,"SENTENCE:
+ تۆمی دریمەر ووتی ""لونا یەکەمین شاژنی پەڕگیر بووە. یەکەم بەڕێوەبەری من. لونا لە شەوی دوو مانگەکە مرد. زۆر بێھاوتا وەک خۆی. ئافرەتی بەهێز."" 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+یاریزانی پیاوانی پۆڵەندى کە کێشەی بینینی هەیە خلیسکێنەر ماکیج کریزێل و ڕێبەری ئانا ئۆگارزینسکا پلەی سێزدەهەمیان لە سوپەر جی تۆمارکرد. جۆنگ سیۆرک پارکی کۆریای باشوور پلەی بیست و چوارەمی سوپەر جی پیاواندا تەواو کرد.,sports,sports,"SENTENCE:
+ یاریزانی پیاوانی پۆڵەندى کە کێشەی بینینی هەیە خلیسکێنەر ماکیج کریزێل و ڕێبەری ئانا ئۆگارزینسکا پلەی سێزدەهەمیان لە سوپەر جی تۆمارکرد. جۆنگ سیۆرک پارکی کۆریای باشوور پلەی بیست و چوارەمی سوپەر جی پیاواندا تەواو کرد. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+بۆ هەواڵی گەشتەکە و لەکوێ تکت بکڕدرێت بۆ یاریەکانی پۆلۆ، سەردانی ئاسۆسیاسیۆن ئارجەنتینا دی پۆلۆ بکە.,sports,sports,"SENTENCE:
+ بۆ هەواڵی گەشتەکە و لەکوێ تکت بکڕدرێت بۆ یاریەکانی پۆلۆ، سەردانی ئاسۆسیاسیۆن ئارجەنتینا دی پۆلۆ بکە. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+یارییەکان لە کاتژمێر 10:00ی بەیانی بە کەشوهەوایەکی خۆش دەستی پێکرد و دوور لە شەونمی بەیانی کە بە خێرایی نەما، ڕۆژێکی تەواو بوو بۆ ڕەگبی 7.,sports,sports,"SENTENCE:
+ یارییەکان لە کاتژمێر 10:00ی بەیانی بە کەشوهەوایەکی خۆش دەستی پێکرد و دوور لە شەونمی بەیانی کە بە خێرایی نەما، ڕۆژێکی تەواو بوو بۆ ڕەگبی 7. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+ئارلی ڤێلازکوی لە مەکسیک پلەی پازدەهەمی تەواوکرد لە سوپەر-جی پیاواندا. ئادەم هۆڵی نیوزلەندی نۆهەم بوو لە سوپەر-جی پیاواندا.,sports,sports,"SENTENCE:
+ ئارلی ڤێلازکوی لە مەکسیک پلەی پازدەهەمی تەواوکرد لە سوپەر-جی پیاواندا. ئادەم هۆڵی نیوزلەندی نۆهەم بوو لە سوپەر-جی پیاواندا. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+هەفتەی داهاتوو  یاریی کۆتایی زنجیرەکە لە ئێلیس پارک لە جۆهانسبۆرگ دەکرێت، ئەو کاتەی سپرینگبۆکس بەرامبەر بە ئوسترالیا یاری دەکەن.,sports,sports,"SENTENCE:
+ هەفتەی داهاتوو  یاریی کۆتایی زنجیرەکە لە ئێلیس پارک لە جۆهانسبۆرگ دەکرێت، ئەو کاتەی سپرینگبۆکس بەرامبەر بە ئوسترالیا یاری دەکەن. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+لە هەلومەرجی باشدا دەتوانیت ماوەیەکی زیاتر بە پێ ببڕیت، بەڵام بە دەگمەن دەگەیتە خێرایی بڕینی وڵاتەکان بە خلیسکێنە بەبێ هەبوونی جانتای قورس و خلیسکێنەی دروست.,sports,sports,"SENTENCE:
+ لە هەلومەرجی باشدا دەتوانیت ماوەیەکی زیاتر بە پێ ببڕیت، بەڵام بە دەگمەن دەگەیتە خێرایی بڕینی وڵاتەکان بە خلیسکێنە بەبێ هەبوونی جانتای قورس و خلیسکێنەی دروست. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+بە حەوت خاڵ لە دواوە بوون، جۆنسۆن بە 2243 دووەمە.,sports,sports,"SENTENCE:
+ بە حەوت خاڵ لە دواوە بوون، جۆنسۆن بە 2243 دووەمە. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+دۆڵەوانی بریتیە لە چوون بۆ ناو دۆڵێك کە یان وشکە یان پڕە لە ئاو.,sports,sports,"SENTENCE:
+ دۆڵەوانی بریتیە لە چوون بۆ ناو دۆڵێك کە یان وشکە یان پڕە لە ئاو. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+ڕۆبن ئوتاپا بەرزترین خاڵی تۆمار کرد، 70 ڕاکردن بە 41 تۆپ ڕادەکات بە لێدانی 11 چوار و 2 شەش.,sports,sports,"SENTENCE:
+ ڕۆبن ئوتاپا بەرزترین خاڵی تۆمار کرد، 70 ڕاکردن بە 41 تۆپ ڕادەکات بە لێدانی 11 چوار و 2 شەش. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+وەرزشە زستانیەکان لە هەرێمەکانی باکوور باوترینن، کە تیایدا ئیتالیەکان پێشبڕکێی یاریە نێودەوڵەتیەکان و بۆنە ئۆلیمپیەکان دەکەن.,sports,sports,"SENTENCE:
+ وەرزشە زستانیەکان لە هەرێمەکانی باکوور باوترینن، کە تیایدا ئیتالیەکان پێشبڕکێی یاریە نێودەوڵەتیەکان و بۆنە ئۆلیمپیەکان دەکەن. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+ماروچیدۆر بردیەوە بە شەش خاڵ پێش نووسا کە دووهەم بوو.,sports,sports,"SENTENCE:
+ ماروچیدۆر بردیەوە بە شەش خاڵ پێش نووسا کە دووهەم بوو. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+مایکل شوماخەر کۆتایی هێنا بە پێشبڕکێکە کەمێك دوای ئالۆنزۆ، چونکە دەبڵەکەی زیانی لێکەوت بەهۆی ئەو هەموو بەرکەوتنانەوە لە پێشبڕکێکەدا.,sports,sports,"SENTENCE:
+ مایکل شوماخەر کۆتایی هێنا بە پێشبڕکێکە کەمێك دوای ئالۆنزۆ، چونکە دەبڵەکەی زیانی لێکەوت بەهۆی ئەو هەموو بەرکەوتنانەوە لە پێشبڕکێکەدا. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+بە تەنیا مەشقە خۆراکییە گونجاوەکان ناتوانن ئەدای چاک دروست بکەن، بەڵام بە شێوەیەکی بەرچاو دەتوانن کاریگەری لەسەر لەشساغی گشت وەرزشوانان دروست بکەن.,sports,sports,"SENTENCE:
+ بە تەنیا مەشقە خۆراکییە گونجاوەکان ناتوانن ئەدای چاک دروست بکەن، بەڵام بە شێوەیەکی بەرچاو دەتوانن کاریگەری لەسەر لەشساغی گشت وەرزشوانان دروست بکەن. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+نەیتوانیوە دەرمانە پێویستەکان وەربگرێت بۆ نەهێشتنی ئازارەکەی چونکە قەدەغەکراون لە یاریەکان.,sports,sports,"SENTENCE:
+ نەیتوانیوە دەرمانە پێویستەکان وەربگرێت بۆ نەهێشتنی ئازارەکەی چونکە قەدەغەکراون لە یاریەکان. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+توێژینەوەکە ئەوەی دەرخستووە کە مێینەکان دوو هێندەی نێرینەکان دووچاری گرژبوونی ئاڵۆزدەبن.,health,sports,"SENTENCE:
+ توێژینەوەکە ئەوەی دەرخستووە کە مێینەکان دوو هێندەی نێرینەکان دووچاری گرژبوونی ئاڵۆزدەبن. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+خواردنەوە ڕۆحیە نایاساییەکان چەندان مادەی مەترسیداری تێدایە وەکو میتانۆل کە تەنانەت بە بڕێکی کەمیش کەسەکان توشی کەچەڵی دەکات یان تەنانەت مردنیش.,health,sports,"SENTENCE:
+ خواردنەوە ڕۆحیە نایاساییەکان چەندان مادەی مەترسیداری تێدایە وەکو میتانۆل کە تەنانەت بە بڕێکی کەمیش کەسەکان توشی کەچەڵی دەکات یان تەنانەت مردنیش. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+تەنها کاریگەریەکانی کارەسات، نەك خەمۆکی و ترس، تاکە مەرجی دانیشتنەکانی ڕاوێژی پراکتیکی بوون کە هەفتانە ئەنجامدەدران.,health,sports,"SENTENCE:
+ تەنها کاریگەریەکانی کارەسات، نەك خەمۆکی و ترس، تاکە مەرجی دانیشتنەکانی ڕاوێژی پراکتیکی بوون کە هەفتانە ئەنجامدەدران. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+خاوەندارێتی فرە ئۆتۆمبیل دەبێتە هۆی ڕووداوی زیاتری ترافیک و ئەمەش دەبێتە هۆی داهێنانی تەکنیکی نوێی بایەخپێدانی تەندروستی بۆ چاککردنەوەی ئەو زیانانەی بەر جەستە کەوتوون.,health,sports,"SENTENCE:
+ خاوەندارێتی فرە ئۆتۆمبیل دەبێتە هۆی ڕووداوی زیاتری ترافیک و ئەمەش دەبێتە هۆی داهێنانی تەکنیکی نوێی بایەخپێدانی تەندروستی بۆ چاککردنەوەی ئەو زیانانەی بەر جەستە کەوتوون. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+لێکۆلەرانی پێشەنگ وتیان ئەمە دەبێتە هۆی زوو پشکنینی شێرپەنجە و سیل و HIV و مەلاریا لەو نەخۆشانەدا کە لە ولاتانی کەم داهاتن و ڕێژەی ڕزگاربوون لە نەخۆشیەکانی وەکو شێرپەنجەی مەمك نیوەی ولاتانی دەوڵەمەندە.,health,sports,"SENTENCE:
+ لێکۆلەرانی پێشەنگ وتیان ئەمە دەبێتە هۆی زوو پشکنینی شێرپەنجە و سیل و HIV و مەلاریا لەو نەخۆشانەدا کە لە ولاتانی کەم داهاتن و ڕێژەی ڕزگاربوون لە نەخۆشیەکانی وەکو شێرپەنجەی مەمك نیوەی ولاتانی دەوڵەمەندە. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+دکتۆر ئیهود ئور، پرۆفیسۆری پزیشکی لە زانکۆی دالهۆیس لە هالیفاکس لە نۆڤا سکۆشا و سەرۆکی لقی پزیشکی و زانستی لە دەستەی نەخۆشی شەکرەی کەنەدی هۆشداریدا لەوەی لێکۆڵینەوەکان هێشتا لە سەرەتادان.,health,sports,"SENTENCE:
+ دکتۆر ئیهود ئور، پرۆفیسۆری پزیشکی لە زانکۆی دالهۆیس لە هالیفاکس لە نۆڤا سکۆشا و سەرۆکی لقی پزیشکی و زانستی لە دەستەی نەخۆشی شەکرەی کەنەدی هۆشداریدا لەوەی لێکۆڵینەوەکان هێشتا لە سەرەتادان. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"ئەم منداڵانە تووشی کێشەی زۆر دەبن، لەبەرئەوەی ئەوان ""خەریکی هەڵسوکەوتی مەترسیدارن، تووشی شەڕ دەبن، ڕووبەڕووی دەسەلات دەبنەوە"" بۆ ئەوەی مێشکیان بورژێنێ، بەهۆی ئەوەی مێشکیان بە شێوازی ئاسایی ناکرێت بورژێنرێت.",health,sports,"SENTENCE:
+ ئەم منداڵانە تووشی کێشەی زۆر دەبن، لەبەرئەوەی ئەوان ""خەریکی هەڵسوکەوتی مەترسیدارن، تووشی شەڕ دەبن، ڕووبەڕووی دەسەلات دەبنەوە"" بۆ ئەوەی مێشکیان بورژێنێ، بەهۆی ئەوەی مێشکیان بە شێوازی ئاسایی ناکرێت بورژێنرێت. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+مرۆڤ کاریگەریان دەکرێتە سەر بە هەناسەدانی ئەو ئاوەی چۆتە هەواوە لەڕێی ڕەشەبا و شەپۆلەکانەوە.,health,sports,"SENTENCE:
+ مرۆڤ کاریگەریان دەکرێتە سەر بە هەناسەدانی ئەو ئاوەی چۆتە هەواوە لەڕێی ڕەشەبا و شەپۆلەکانەوە. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+هەندێک خەڵک لەو باوەڕەدان کە ئەزموونی چەندین خەونی ئاشکرای دەستکرد زۆرجار دەکرێت زۆر ماندووکەر بێت.,health,sports,"SENTENCE:
+ هەندێک خەڵک لەو باوەڕەدان کە ئەزموونی چەندین خەونی ئاشکرای دەستکرد زۆرجار دەکرێت زۆر ماندووکەر بێت. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+پۆترۆ لەم کاتەدا چارەسەری بۆ شانی وەرگرت بەڵام توانی بۆ یارییەکە بگەڕێتەوە.,health,sports,"SENTENCE:
+ پۆترۆ لەم کاتەدا چارەسەری بۆ شانی وەرگرت بەڵام توانی بۆ یارییەکە بگەڕێتەوە. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+هەروەها، ئەنجام نەدانی ئەمە، دەرەنجامی مەترسیداری هەیە: خەمۆکی گەشە، بەدخۆراکی، و لە کۆتاییدا مردنیش.,health,sports,"SENTENCE:
+ هەروەها، ئەنجام نەدانی ئەمە، دەرەنجامی مەترسیداری هەیە: خەمۆکی گەشە، بەدخۆراکی، و لە کۆتاییدا مردنیش. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+بەرپرسانی شاری ئەمستەردام و مۆزەخانەی ئان فرانک وتیان درەختەکە توشی کەڕوو بووە و بۆتە مەترسیی تەندروستی گشتی و مەترسی ئەوەی هەیە بکەوێت.,health,sports,"SENTENCE:
+ بەرپرسانی شاری ئەمستەردام و مۆزەخانەی ئان فرانک وتیان درەختەکە توشی کەڕوو بووە و بۆتە مەترسیی تەندروستی گشتی و مەترسی ئەوەی هەیە بکەوێت. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+نەخۆشخانەکە پەیڕەوی پرۆتۆکۆلەکەی کردووە بۆ کۆنترۆڵکردنی توشبوون، لەوانە جیاکردنەوەی نەخۆشەکە لە کەسانی تر بۆ ڕێگری کردن لە ئەگەری نەخۆش خستنی کەسانی تر.,health,sports,"SENTENCE:
+ نەخۆشخانەکە پەیڕەوی پرۆتۆکۆلەکەی کردووە بۆ کۆنترۆڵکردنی توشبوون، لەوانە جیاکردنەوەی نەخۆشەکە لە کەسانی تر بۆ ڕێگری کردن لە ئەگەری نەخۆش خستنی کەسانی تر. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+پەیمانگای هایتی بۆ داد و دیموکراسی، ئاماژەی بە چەند توێژینەوەیەکی سەربەخۆ کردووە کە پێشنیاری ئەوە دەکەن کە کەتیبەی نیپاڵی ئاشتی پارێزانی سەر بە نەتەوە یەکگرتووەکان بێمەبەستانە نەخۆشییەکەیان بۆ هایتی هێناوە.,health,sports,"SENTENCE:
+ پەیمانگای هایتی بۆ داد و دیموکراسی، ئاماژەی بە چەند توێژینەوەیەکی سەربەخۆ کردووە کە پێشنیاری ئەوە دەکەن کە کەتیبەی نیپاڵی ئاشتی پارێزانی سەر بە نەتەوە یەکگرتووەکان بێمەبەستانە نەخۆشییەکەیان بۆ هایتی هێناوە. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+نەخۆشیە گوازراوەکان خۆیان، یان ئاژەڵە مەترسیدارەکان کە بتوانن خەڵك بریندار بکەن یان بکوژن لەڕێی هێزەوە، بە گشتیی وەکو مێرووی زیانبەخش سەیر ناکرێن.,health,sports,"SENTENCE:
+ نەخۆشیە گوازراوەکان خۆیان، یان ئاژەڵە مەترسیدارەکان کە بتوانن خەڵك بریندار بکەن یان بکوژن لەڕێی هێزەوە، بە گشتیی وەکو مێرووی زیانبەخش سەیر ناکرێن. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+منداڵانی ئۆتیزم بە سەختی دەتوانن ئاگاداری شتانی وەکو کاری قوتابخانە ببن، بەڵام دەتوانن تەرکیز بکەنەوە سەر ئەو شتانەی حەزیان لێیە وەکو یاریکردن و تەماشاکردنی فلیمکارتۆن یان نوسینی ڕستە بەبێ خاڵ بەندی.,health,sports,"SENTENCE:
+ منداڵانی ئۆتیزم بە سەختی دەتوانن ئاگاداری شتانی وەکو کاری قوتابخانە ببن، بەڵام دەتوانن تەرکیز بکەنەوە سەر ئەو شتانەی حەزیان لێیە وەکو یاریکردن و تەماشاکردنی فلیمکارتۆن یان نوسینی ڕستە بەبێ خاڵ بەندی. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+لە ماوەی یەك ساڵدا، کەسێکی توشبوو ئەگەری هەیە ١٠ بۆ ١٥ کەس لە کەسە نزیکەکانی توش بکات.,health,travel,"SENTENCE:
+ لە ماوەی یەك ساڵدا، کەسێکی توشبوو ئەگەری هەیە ١٠ بۆ ١٥ کەس لە کەسە نزیکەکانی توش بکات. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+کاتێک جەنگ وەستا دوای ئەوەی بریندارەکان بۆ نەخۆشخانە گوێزرانەوە، نزیکەی 40 لە بەندیەکانی دیکە لە گۆڕەپانەکە مانەوە و ڕەتی ئەوەیان کردەوە بۆ ژوورەکانی بەندیخانە بگەڕێنەوە.,health,sports,"SENTENCE:
+ کاتێک جەنگ وەستا دوای ئەوەی بریندارەکان بۆ نەخۆشخانە گوێزرانەوە، نزیکەی 40 لە بەندیەکانی دیکە لە گۆڕەپانەکە مانەوە و ڕەتی ئەوەیان کردەوە بۆ ژوورەکانی بەندیخانە بگەڕێنەوە. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+دەسکرا بە ناونوسکردنی پزیشکەکان لەلایەن ئیمپراتۆر ئۆگەستۆس و تەنانەت یەکەمین دەستەی پزیشکیی ڕۆمانی پێکهێنا بۆ بەکارهێنانیان لە پاش جەنگەکان.,health,sports,"SENTENCE:
+ دەسکرا بە ناونوسکردنی پزیشکەکان لەلایەن ئیمپراتۆر ئۆگەستۆس و تەنانەت یەکەمین دەستەی پزیشکیی ڕۆمانی پێکهێنا بۆ بەکارهێنانیان لە پاش جەنگەکان. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+بەڵام شۆفێرەکە توشی برینداریی سەخت بوو لە سەریدا.,health,sports,"SENTENCE:
+ بەڵام شۆفێرەکە توشی برینداریی سەخت بوو لە سەریدا. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"""ئێستا مشکێکی تەمەن 4 مانگانەمان هەیە کە شەکرەی نیە کە پێشووتر شەکرەی هەبوو،"" زیاتر ووتی.",health,sports,"SENTENCE:
+ ""ئێستا مشکێکی تەمەن 4 مانگانەمان هەیە کە شەکرەی نیە کە پێشووتر شەکرەی هەبوو،"" زیاتر ووتی. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+ژەهراویبوونی ناوسک لەوانەیە یەکسەر دەرنەکەوێت. نیشانەکان وەکو ڕشانەوە نیشانەیەکی گشتین و شیکاریی راستەوخۆیان بۆ ناکرێت.,health,travel,"SENTENCE:
+ ژەهراویبوونی ناوسک لەوانەیە یەکسەر دەرنەکەوێت. نیشانەکان وەکو ڕشانەوە نیشانەیەکی گشتین و شیکاریی راستەوخۆیان بۆ ناکرێت. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+لە دەرەنجامدا، نمایشکاران تلیاکیان دەكێشا لەسەر شانۆکە و شانۆکەش هانی بینەرانی دەدا تلیاک بکێشن لەگەڵیان.,entertainment,sports,"SENTENCE:
+ لە دەرەنجامدا، نمایشکاران تلیاکیان دەكێشا لەسەر شانۆکە و شانۆکەش هانی بینەرانی دەدا تلیاک بکێشن لەگەڵیان. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+ئێرۆسمیس ئەو کۆنسێرتانەی مابوویان هەڵوەشاندەوە لە گەشتەکەیاندا.,entertainment,sports,"SENTENCE:
+ ئێرۆسمیس ئەو کۆنسێرتانەی مابوویان هەڵوەشاندەوە لە گەشتەکەیاندا. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+ئەگەر ویستت لە ڕووداوەکانەوە نزیکتر بیت، ئەوا دەبێت زوو بێیت بۆ ئەوەی شوێنی خێمەیەکی نزیک لە مۆسیقاکەت بەربکەوێت.,entertainment,sports,"SENTENCE:
+ ئەگەر ویستت لە ڕووداوەکانەوە نزیکتر بیت، ئەوا دەبێت زوو بێیت بۆ ئەوەی شوێنی خێمەیەکی نزیک لە مۆسیقاکەت بەربکەوێت. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+چەندین شێوازی هەمەجۆری فیلم هەن کە لە ساڵانی ڕابردوودا بەکارهاتوون. ستاندەری 35 ملم (36 بە 24 ملم نەرێنی) لە هەموویان باوترە.,entertainment,sports,"SENTENCE:
+ چەندین شێوازی هەمەجۆری فیلم هەن کە لە ساڵانی ڕابردوودا بەکارهاتوون. ستاندەری 35 ملم (36 بە 24 ملم نەرێنی) لە هەموویان باوترە. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+لە کاتێکدا ئەمە چالاکیەکی زۆر باوە، لە لایەن دیزنیەوە قەدەغەکراوە: پلیتەکان گوێزراوە نین.,entertainment,sports,"SENTENCE:
+ لە کاتێکدا ئەمە چالاکیەکی زۆر باوە، لە لایەن دیزنیەوە قەدەغەکراوە: پلیتەکان گوێزراوە نین. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+هەر زنجیرەیەکی بەرنامەکە جەخت دەکاتەوە سەر بابەتێك لە کتێبێکی دیاریکراودا و پاشان بە چەند چیرۆکێك ئەو بابەتە دەخاتە ڕوو.,entertainment,sports,"SENTENCE:
+ هەر زنجیرەیەکی بەرنامەکە جەخت دەکاتەوە سەر بابەتێك لە کتێبێکی دیاریکراودا و پاشان بە چەند چیرۆکێك ئەو بابەتە دەخاتە ڕوو. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+چەندین شاشەی گەورەی تەلەفزیۆنی لە شوێنە جۆراوجۆرەکانی ڕۆما دانرا بوون ئەوەی خەڵک بتوانن سەیری مەراسیمەکە بکەن.,entertainment,sports,"SENTENCE:
+ چەندین شاشەی گەورەی تەلەفزیۆنی لە شوێنە جۆراوجۆرەکانی ڕۆما دانرا بوون ئەوەی خەڵک بتوانن سەیری مەراسیمەکە بکەن. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+سۆفۆکڵس و ئاریستۆفانس هێشتا شانۆنامەنووسی بەناو بانگن و شانۆکانیان هێشتا لە نێو مەزنترین کارەکانی جیھانی ئەدەبدان.,entertainment,sports,"SENTENCE:
+ سۆفۆکڵس و ئاریستۆفانس هێشتا شانۆنامەنووسی بەناو بانگن و شانۆکانیان هێشتا لە نێو مەزنترین کارەکانی جیھانی ئەدەبدان. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+هەر بەرنامەیەک پێشنیاری کتێب دەکات کە منداڵان دەبێت بیخوێننەوە کاتێك چوونە کتێبخانە.,entertainment,sports,"SENTENCE:
+ هەر بەرنامەیەک پێشنیاری کتێب دەکات کە منداڵان دەبێت بیخوێننەوە کاتێك چوونە کتێبخانە. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+لەسەر ئەکۆردیۆن بۆ ئەوەی دەنگەکەی بەرزتر بێتەوە، دەتوانیت ئەوانی خوارەوە بەکاربێنیت بە بەکارهێنانی فشار یان خێرایی زیاتر.,entertainment,sports,"SENTENCE:
+ لەسەر ئەکۆردیۆن بۆ ئەوەی دەنگەکەی بەرزتر بێتەوە، دەتوانیت ئەوانی خوارەوە بەکاربێنیت بە بەکارهێنانی فشار یان خێرایی زیاتر. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+دەتوانیت لە تاریكی هەڕەمەکان ببینیت و دەتوانیت لە هێمنی بیانبینیت پێش دەستپێکردنی نمایشەکە.,entertainment,sports,"SENTENCE:
+ دەتوانیت لە تاریكی هەڕەمەکان ببینیت و دەتوانیت لە هێمنی بیانبینیت پێش دەستپێکردنی نمایشەکە. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+نمونەی چالاکیەکانی شوێن وەکو ڕاوکردن و ماسیگرتن و وێنەگرتن و تەماشاکردنی باڵندە و سەردانکردنی باخەکان و لێکۆڵینەوەی زایاری دەربارەی سیستەمی ژینگەیی.,entertainment,sports,"SENTENCE:
+ نمونەی چالاکیەکانی شوێن وەکو ڕاوکردن و ماسیگرتن و وێنەگرتن و تەماشاکردنی باڵندە و سەردانکردنی باخەکان و لێکۆڵینەوەی زایاری دەربارەی سیستەمی ژینگەیی. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+ئەبوهەول وەک پەردەی شانۆ و گێڕەرەوەی چیرۆکێکی درێژ دانراوە.,entertainment,sports,"SENTENCE:
+ ئەبوهەول وەک پەردەی شانۆ و گێڕەرەوەی چیرۆکێکی درێژ دانراوە. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+بە شێوەیەکی گشتى ئۆفەری خواردن، خواردنەوە و کات بەسەربردنی تایبەتن، بۆ هێشتنەوەی میوانەکان لە دۆخێکی باش، و لە شوێنەکە بیانهێڵنەوە.,entertainment,sports,"SENTENCE:
+ بە شێوەیەکی گشتى ئۆفەری خواردن، خواردنەوە و کات بەسەربردنی تایبەتن، بۆ هێشتنەوەی میوانەکان لە دۆخێکی باش، و لە شوێنەکە بیانهێڵنەوە. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+ڕێکخراوە جیهانیکە کە راپۆرتی ئینگلیزی و یابانی هەیە، دەستی کرد بە دانانی زمانەکانی ئیسپانی و ئیتالی و کۆری بۆ بەرنامە تەلەڤیزۆنیەکان و ماڵپەڕ و مۆبایلیش.,entertainment,sports,"SENTENCE:
+ ڕێکخراوە جیهانیکە کە راپۆرتی ئینگلیزی و یابانی هەیە، دەستی کرد بە دانانی زمانەکانی ئیسپانی و ئیتالی و کۆری بۆ بەرنامە تەلەڤیزۆنیەکان و ماڵپەڕ و مۆبایلیش. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+پێش بەرنامەی زە سیمپسنس، سایمن لە چەندان بەرنامەی تەلەڤیزۆنی و پێگەی تردا کاری کردبوو.,entertainment,sports,"SENTENCE:
+ پێش بەرنامەی زە سیمپسنس، سایمن لە چەندان بەرنامەی تەلەڤیزۆنی و پێگەی تردا کاری کردبوو. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+ئەمە ڕێگە بە یاریزانەکان دەدات کۆنترۆڵی کردار و جووڵەکانی ناو یاریە ڤیدیۆییەکان بکەن لە ڕێگەى جوڵاندنی ئامێرەکە بە ناو هەوادا.,entertainment,sports,"SENTENCE:
+ ئەمە ڕێگە بە یاریزانەکان دەدات کۆنترۆڵی کردار و جووڵەکانی ناو یاریە ڤیدیۆییەکان بکەن لە ڕێگەى جوڵاندنی ئامێرەکە بە ناو هەوادا. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+بەلای کەمەوە ١٠٠ کەس ئامادەی ئاهەنگەکە بوون، بە مەبەستی یادکردنەوەی یەکەم ساڵیادی ئەو دوو هاوژینە کە پار ئاهەنگی هاوسەرگیرییان گێڕابوو.,entertainment,sports,"SENTENCE:
+ بەلای کەمەوە ١٠٠ کەس ئامادەی ئاهەنگەکە بوون، بە مەبەستی یادکردنەوەی یەکەم ساڵیادی ئەو دوو هاوژینە کە پار ئاهەنگی هاوسەرگیرییان گێڕابوو. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+دوو گۆرانی فیلمەکە، ئۆدیشن (ئەو گەمژانەی خەو ئەبینن) و شاری ئەستێرەکان، بۆ باشترین گۆرانی ڕەسەن پاڵێوران. ستۆدیۆی لایۆنزگەیت 26 پاڵاوتنی وەرگرت - زیاتر لە هەموو ستۆدیۆیەکی تر.,entertainment,sports,"SENTENCE:
+ دوو گۆرانی فیلمەکە، ئۆدیشن (ئەو گەمژانەی خەو ئەبینن) و شاری ئەستێرەکان، بۆ باشترین گۆرانی ڕەسەن پاڵێوران. ستۆدیۆی لایۆنزگەیت 26 پاڵاوتنی وەرگرت - زیاتر لە هەموو ستۆدیۆیەکی تر. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+توێکڵەکە نزیکەی 70 کم ئەستوورە لە لا نزیکەکەی و 100 کم لە دوورەوەکەی ئەستوورە.,geography,sports,"SENTENCE:
+ توێکڵەکە نزیکەی 70 کم ئەستوورە لە لا نزیکەکەی و 100 کم لە دوورەوەکەی ئەستوورە. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+بەرەو باشور، تاڤگەکانی نیاگارا هەیە و لە باکوریش شوێنی سروشتە جوانەکەی مەسکۆکە و شتی ترە.,geography,sports,"SENTENCE:
+ بەرەو باشور، تاڤگەکانی نیاگارا هەیە و لە باکوریش شوێنی سروشتە جوانەکەی مەسکۆکە و شتی ترە. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+ئێلسوۆرس لاند هەرێمی باشووری نیمچە دورگەکەیە، دەورە دراوە بە دەریای بەلینگشاوسەن.,geography,sports,"SENTENCE:
+ ئێلسوۆرس لاند هەرێمی باشووری نیمچە دورگەکەیە، دەورە دراوە بە دەریای بەلینگشاوسەن. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+ڕێگای جەمسەری باشوور (یان ڕێگای خێرا) 1600 کیلۆمەترە لە وێستگەی ماکمۆردۆ وە لە دەریای ڕۆسەوە بۆ جەمسەرەکە.,geography,travel,"SENTENCE:
+ ڕێگای جەمسەری باشوور (یان ڕێگای خێرا) 1600 کیلۆمەترە لە وێستگەی ماکمۆردۆ وە لە دەریای ڕۆسەوە بۆ جەمسەرەکە. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+ئەم شاخە سەرسەختە بە بەرزی دەروانێتە لای باکووری ماچو پیچو، زۆرجار دواوەی چەندین وێنەی وێرانەکانە.,geography,sports,"SENTENCE:
+ ئەم شاخە سەرسەختە بە بەرزی دەروانێتە لای باکووری ماچو پیچو، زۆرجار دواوەی چەندین وێنەی وێرانەکانە. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+ئەنجیلادۆس ڕووناکیدەرەوەترین تەنە لە کۆمەڵەی خۆردا، نزیکەی سەدا ٩٠ ی ئەو تیشکەی لە خۆرەوە بەری دەکەوێت دەداتەوە.,geography,sports,"SENTENCE:
+ ئەنجیلادۆس ڕووناکیدەرەوەترین تەنە لە کۆمەڵەی خۆردا، نزیکەی سەدا ٩٠ ی ئەو تیشکەی لە خۆرەوە بەری دەکەوێت دەداتەوە. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+هیچ شتێکی تر دیار نیە جگە لە ئاسمانە ساماڵە جوانەکە و چیاکانی چواردەوری. لە ناو ئەشکەوتەکەوە زۆر کەم لەم جیهانە جەنجاڵە دەبینرێت و دەبیسترێت.,geography,sports,"SENTENCE:
+ هیچ شتێکی تر دیار نیە جگە لە ئاسمانە ساماڵە جوانەکە و چیاکانی چواردەوری. لە ناو ئەشکەوتەکەوە زۆر کەم لەم جیهانە جەنجاڵە دەبینرێت و دەبیسترێت. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+ئینجا با بێینە لای یابان. یابان وڵاتێکی دورگەییە، وەکو بەریتانیا.,geography,sports,"SENTENCE:
+ ئینجا با بێینە لای یابان. یابان وڵاتێکی دورگەییە، وەکو بەریتانیا. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+لەوپەڕیدا، زریانی خولگەیی گۆنو، کە بە زمانی مالدیڤ واتە زەرفێك گەڵای دارخورما، خێرایی ڕەشەباکەی گەشتە ٢٤٠ کیلۆمەتر لە کاتژمێرێکدا (١٤٩ میل لە کاتژمێرێكدا).,geography,travel,"SENTENCE:
+ لەوپەڕیدا، زریانی خولگەیی گۆنو، کە بە زمانی مالدیڤ واتە زەرفێك گەڵای دارخورما، خێرایی ڕەشەباکەی گەشتە ٢٤٠ کیلۆمەتر لە کاتژمێرێکدا (١٤٩ میل لە کاتژمێرێكدا). 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"ڕووبەری تورکیا، بەلەخۆگرتنی دەریاچەکان، 783,562 کیلۆمەتر چوارگۆشە (300,948 میل چوارگۆشە)یە، کە 755,688 کیلۆمەتر چوارگۆشە (291,773 میل چوارگۆشە) لە باشوری خۆرئاوای ئاسیایە و 23,764 کیلۆمەتر چوارگۆشە (9,174 میل چوارگۆشە) لە ئەوروپادایە.",geography,travel,"SENTENCE:
+ ڕووبەری تورکیا، بەلەخۆگرتنی دەریاچەکان، 783,562 کیلۆمەتر چوارگۆشە (300,948 میل چوارگۆشە)یە، کە 755,688 کیلۆمەتر چوارگۆشە (291,773 میل چوارگۆشە) لە باشوری خۆرئاوای ئاسیایە و 23,764 کیلۆمەتر چوارگۆشە (9,174 میل چوارگۆشە) لە ئەوروپادایە. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+دوورگەکانی ساوس شێتلاند، کە لە ساڵی 1819 دۆزراوەتەوە، لە لایەن چەندین وڵاتەوە داوا دەکرێت و زۆرترین بارەگای هەیە، کە لە ساڵی 2020 شازدەیان چالاک بوونە.,geography,sports,"SENTENCE:
+ دوورگەکانی ساوس شێتلاند، کە لە ساڵی 1819 دۆزراوەتەوە، لە لایەن چەندین وڵاتەوە داوا دەکرێت و زۆرترین بارەگای هەیە، کە لە ساڵی 2020 شازدەیان چالاک بوونە. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+ئاپیا پایتەختی ساموا یە. ئەم شارۆچکەیە لە دورگەی ئوپۆلوە و دانیشتوانەکەی ٤٠،٠٠٠ کەسە.,geography,sports,"SENTENCE:
+ ئاپیا پایتەختی ساموا یە. ئەم شارۆچکەیە لە دورگەی ئوپۆلوە و دانیشتوانەکەی ٤٠،٠٠٠ کەسە. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+بەهۆی ئەوەی زریانەکە دوورە لە زەویەوە، سەختە هەڵسەنگاندن بکرێت بۆ کاریگەریەکەی لەسەر ویلایەتە یەکگرتوەکان یان کاریبیان.,geography,sports,"SENTENCE:
+ بەهۆی ئەوەی زریانەکە دوورە لە زەویەوە، سەختە هەڵسەنگاندن بکرێت بۆ کاریگەریەکەی لەسەر ویلایەتە یەکگرتوەکان یان کاریبیان. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+تەنکترە لە ژیر ماریادا و ئەستوورترە لەژێر هایلاندا.,geography,travel,"SENTENCE:
+ تەنکترە لە ژیر ماریادا و ئەستوورترە لەژێر هایلاندا. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+دارستانەکان تەنها زەلکاوەی مانگرونین- هەندێک لە دوا شوێنماوەکانی جەنگەڵە بەتواناکان دەگرێتەوە کە جارێک دەشتی گانگێتیکی داپۆشیوە.,geography,travel,"SENTENCE:
+ دارستانەکان تەنها زەلکاوەی مانگرونین- هەندێک لە دوا شوێنماوەکانی جەنگەڵە بەتواناکان دەگرێتەوە کە جارێک دەشتی گانگێتیکی داپۆشیوە. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+نەخشەی بوومەلەرزەی نێودەوڵەتی ڕاپرسی جیۆلۆجی ئەمریکا هیچ بوومەلەرزەیەکی لە ئایسلەندە لە هەفتەی پێشووتر نیشان نەدا.,geography,sports,"SENTENCE:
+ نەخشەی بوومەلەرزەی نێودەوڵەتی ڕاپرسی جیۆلۆجی ئەمریکا هیچ بوومەلەرزەیەکی لە ئایسلەندە لە هەفتەی پێشووتر نیشان نەدا. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+پشوودان لەسەر لوتکەی یەکێک لە چیاکانی باکووری مەککە، ئەشکەوتەکە بە تەواوی لە هەموو جیهان دابڕاوە.,geography,sports,"SENTENCE:
+ پشوودان لەسەر لوتکەی یەکێک لە چیاکانی باکووری مەککە، ئەشکەوتەکە بە تەواوی لە هەموو جیهان دابڕاوە. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"

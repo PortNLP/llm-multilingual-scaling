@@ -1,0 +1,2449 @@
+text,actual_category,predicted_category,generated_text
+"Mgbanwe n'ọdịdị na-agbakwunye ọdịdị kejenetiki ọhụrụ, ma nhọpụta na-ewepụ ya n'ogwu ọdịdị nke a kọwapụtara.",science/technology,entertainment,"SENTENCE:
+ Mgbanwe n'ọdịdị na-agbakwunye ọdịdị kejenetiki ọhụrụ, ma nhọpụta na-ewepụ ya n'ogwu ọdịdị nke a kọwapụtara. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Bọmbụ fishọn ahụ na-arụ ọrụ n’iwu na ọ na ewere ike ijikọta otu nuclus ya na ọtụtụ protọnụ na nutrọnụ.,science/technology,science/technology,"SENTENCE:
+ Bọmbụ fishọn ahụ na-arụ ọrụ n’iwu na ọ na ewere ike ijikọta otu nuclus ya na ọtụtụ protọnụ na nutrọnụ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+Neuklọs ahụ bụ ahụ ihe abụọ mejupụtara ya - neutrọn na protọn.,science/technology,science/technology,"SENTENCE:
+ Neuklọs ahụ bụ ahụ ihe abụọ mejupụtara ya - neutrọn na protọn. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+Nke a enyela enyoanya mbugharị ohere iji mepụta fòto nke ịdị mma ya bụ nke yiri nke ahụ enyoanya mezuru n'iji ofu etiti nchakwasa.,science/technology,entertainment,"SENTENCE:
+ Nke a enyela enyoanya mbugharị ohere iji mepụta fòto nke ịdị mma ya bụ nke yiri nke ahụ enyoanya mezuru n'iji ofu etiti nchakwasa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Enwere ọtụtụ ihe mere ha ji kara web prọgzi mma: ha na-agbanwe ụzọ trafik ịntanetị niile, ọ bụghị naanị http.",science/technology,N/A,"SENTENCE:
+ Enwere ọtụtụ ihe mere ha ji kara web prọgzi mma: ha na-agbanwe ụzọ trafik ịntanetị niile, ọ bụghị naanị http. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: tech</s>"
+Nruputa akpariri-akpari ga-acho ka itulegharia uche-obi banyere oru mgbasa-ozi n’ikuku ma muta iche echiche n’uzo na adighi otu.,science/technology,travel,"SENTENCE:
+ Nruputa akpariri-akpari ga-acho ka itulegharia uche-obi banyere oru mgbasa-ozi n’ikuku ma muta iche echiche n’uzo na adighi otu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Nke mechara bụrụ omume a na-emekarị, mana igwe ahụ kpatakwuru ndọwa n'ụkwụ ụmụ ụgbọ ibu ejiri osisi mee.",science/technology,travel,"SENTENCE:
+ Nke mechara bụrụ omume a na-emekarị, mana igwe ahụ kpatakwuru ndọwa n'ụkwụ ụmụ ụgbọ ibu ejiri osisi mee. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Mpako gasị bụ otu ruo atọ ụmụ nwoke tozuru oke metụtaranụ mejupụtara ya, yana ụmụ nwanyị na ụmụ ya dị ọtụtụ dị ka iri atọ.",science/technology,sports,"SENTENCE:
+ Mpako gasị bụ otu ruo atọ ụmụ nwoke tozuru oke metụtaranụ mejupụtara ya, yana ụmụ nwanyị na ụmụ ya dị ọtụtụ dị ka iri atọ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Agbanyeghị na AI na-ada ka ihe gbasara akụkọ ifo sayensị, AI bụ ngalaba dị oke mkpa na sayensị kọmputa, nke gbasara etu igwe si eme omume, amụta ihe ma na-agbanwe dabere n'ihe ọ mụtara.",science/technology,entertainment,"SENTENCE:
+ Agbanyeghị na AI na-ada ka ihe gbasara akụkọ ifo sayensị, AI bụ ngalaba dị oke mkpa na sayensị kọmputa, nke gbasara etu igwe si eme omume, amụta ihe ma na-agbanwe dabere n'ihe ọ mụtara. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+akuku rashio nke usoro a ( iji iri na-abuo were nweta rashio onu ogugu dikasiri mfe) bu 3:2 maka nke a.,science/technology,entertainment,"SENTENCE:
+ akuku rashio nke usoro a ( iji iri na-abuo were nweta rashio onu ogugu dikasiri mfe) bu 3:2 maka nke a. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Otu ekwentị satịlaịtị abụghị nnọchite anya n’izugbe nke ekwentị kengagharị, dị ka ị kwesịrị ịnọ n’ezi ya na inwe ụzọ warawara ịhụ satịlaịtị iji ya kpọọ oku ekwentị.",science/technology,travel,"SENTENCE:
+ Otu ekwentị satịlaịtị abụghị nnọchite anya n’izugbe nke ekwentị kengagharị, dị ka ị kwesịrị ịnọ n’ezi ya na inwe ụzọ warawara ịhụ satịlaịtị iji ya kpọọ oku ekwentị. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Agbanyeghị ụmụ ụzọwagọn nwere naanị ogwe osisi nọ n’akụkụ n’akụkụ, ha nyere ụmụ ịnyịnya na-esere ha òhèrè irute ekwomọsọ ndị karịrị ma sere ibu kara dị ukwuu karịa n’ụmụ ụzọ nke ụbọchị ahụ ndị karịtụrụ dị ike ike.",science/technology,travel,"SENTENCE:
+ Agbanyeghị ụmụ ụzọwagọn nwere naanị ogwe osisi nọ n’akụkụ n’akụkụ, ha nyere ụmụ ịnyịnya na-esere ha òhèrè irute ekwomọsọ ndị karịrị ma sere ibu kara dị ukwuu karịa n’ụmụ ụzọ nke ụbọchị ahụ ndị karịtụrụ dị ike ike. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ndị mmadụ amarala maka isi kemịkalụ njìmebe ndị dị ka ọlaedo, ọlaọcha, ọla kọpa sitere na oge ochie, dị ka enwere ike ịchọpụta ihe ndị a n’ụwa n’ụdị mbupụtaụwa ma dịrị mfe igwupụta n’iji ngwaọrụ ndị mgbe ochie.",science/technology,entertainment,"SENTENCE:
+ Ndị mmadụ amarala maka isi kemịkalụ njìmebe ndị dị ka ọlaedo, ọlaọcha, ọla kọpa sitere na oge ochie, dị ka enwere ike ịchọpụta ihe ndị a n’ụwa n’ụdị mbupụtaụwa ma dịrị mfe igwupụta n’iji ngwaọrụ ndị mgbe ochie. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Wiilu agbanweela ụwa n'ụdị enweghị atụ. Ihe kachasị ukwu nke wiilu merela anyị bụ na o nyere anyị ụzọ njem dị mfe ma dị ọsịsọ karịa.,science/technology,travel,"SENTENCE:
+ Wiilu agbanweela ụwa n'ụdị enweghị atụ. Ihe kachasị ukwu nke wiilu merela anyị bụ na o nyere anyị ụzọ njem dị mfe ma dị ọsịsọ karịa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+A na eme ya ka ihe ngosi wee juputa ihuenyo. Nke ahụ ka a na-akpọ ovaskan.,science/technology,entertainment,"SENTENCE:
+ A na eme ya ka ihe ngosi wee juputa ihuenyo. Nke ahụ ka a na-akpọ ovaskan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+A na-akpọ ụgbọ okpuru mmiri ndị Germany U-Boat. Ndị Germany maara anya ụgbọ okpuru mmiri ha ọfụma,science/technology,N/A,"SENTENCE:
+ A na-akpọ ụgbọ okpuru mmiri ndị Germany U-Boat. Ndị Germany maara anya ụgbọ okpuru mmiri ha ọfụma 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: military</s>"
+"N'agbanyeghi na mpụta ihe ya nwere ike ịgbanwe, ọnọdụ kemịkal ya na-anọkwa etu ọ dị.",science/technology,entertainment,"SENTENCE:
+ N'agbanyeghi na mpụta ihe ya nwere ike ịgbanwe, ọnọdụ kemịkal ya na-anọkwa etu ọ dị. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Nsogbu ahụ mere n’ihi na mkpụrụ mmiri ahụ nke mọlekùl dị n’elu mmiri dị ike ma mee ka ndịọzọ karịa ka ha si enweta ihe ikuku dị n’elu ha.,science/technology,travel,"SENTENCE:
+ Nsogbu ahụ mere n’ihi na mkpụrụ mmiri ahụ nke mọlekùl dị n’elu mmiri dị ike ma mee ka ndịọzọ karịa ka ha si enweta ihe ikuku dị n’elu ha. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Otu n’im ensogbu a kacha ahụkarị mgbe a na-anwa ịgbanwe otu ihe nkiri gaa na nhazi DVD bụ nnyocha-keukwuu.,science/technology,entertainment,"SENTENCE:
+ Otu n’im ensogbu a kacha ahụkarị mgbe a na-anwa ịgbanwe otu ihe nkiri gaa na nhazi DVD bụ nnyocha-keukwuu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Akachasị ekwu na mmadụ nwere ike ịma mmgbe mmadụ na atụ asi ma ọbụrụ na onwere ike ịkọwapụta obere mmegharị ahụ dị iche iche ọfụma.,science/technology,entertainment,"SENTENCE:
+ Akachasị ekwu na mmadụ nwere ike ịma mmgbe mmadụ na atụ asi ma ọbụrụ na onwere ike ịkọwapụta obere mmegharị ahụ dị iche iche ọfụma. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+E nwere ike ịrụpụta ọla edo n'ime ụdị ụdịdị niile. E nwere ike ịpịakọta ya n'ime ụdịdị ndị pere mpe.,science/technology,travel,"SENTENCE:
+ E nwere ike ịrụpụta ọla edo n'ime ụdị ụdịdị niile. E nwere ike ịpịakọta ya n'ime ụdịdị ndị pere mpe. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ukpuru nke AI ahu buzi nke ana etinyezi ugbua n’ihe banyere aku-n’uba, ogwu, ikpu-uzu na ndi-agha, dika arunyere n’ime ututu igwe komputa digasi iche-iche ndi ana eji n’ulo ya na ihe ntinye ihe egwuregwu onyonyo.",science/technology,entertainment,"SENTENCE:
+ Ukpuru nke AI ahu buzi nke ana etinyezi ugbua n’ihe banyere aku-n’uba, ogwu, ikpu-uzu na ndi-agha, dika arunyere n’ime ututu igwe komputa digasi iche-iche ndi ana eji n’ulo ya na ihe ntinye ihe egwuregwu onyonyo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"A ka na-emepụta ya taa, mana ihe ka mkpa bụ na ụdịdị sensọ foto nke igwefoto dijital eketala aspekt reshiyo ya.",science/technology,entertainment,"SENTENCE:
+ A ka na-emepụta ya taa, mana ihe ka mkpa bụ na ụdịdị sensọ foto nke igwefoto dijital eketala aspekt reshiyo ya. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Iwu nke atọ ndị a na-akparị ma na-akwakarị oke emu bụ usoro dị mfe na-emepụta ịdịmgbanwò dị ka ọ na-edotekwa otu ụhara usoro ọrụ n'ime otu onyinyo.,science/technology,entertainment,"SENTENCE:
+ Iwu nke atọ ndị a na-akparị ma na-akwakarị oke emu bụ usoro dị mfe na-emepụta ịdịmgbanwò dị ka ọ na-edotekwa otu ụhara usoro ọrụ n'ime otu onyinyo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Nke a na-egosi na, opekata mpe, ụfọdụ daịnosọọ nwere abụba; ọtụtụ ndị mmadụ nwere echiche a taa, mana ihe ọzọ bụ na ọ na-egosi anyị ihe fosịl enweghị ike igosi, dịka agba na nhazi akụkụ-atọ.",science/technology,entertainment,"SENTENCE:
+ Nke a na-egosi na, opekata mpe, ụfọdụ daịnosọọ nwere abụba; ọtụtụ ndị mmadụ nwere echiche a taa, mana ihe ọzọ bụ na ọ na-egosi anyị ihe fosịl enweghị ike igosi, dịka agba na nhazi akụkụ-atọ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Kedụ ka ike ndọda nke lo si adọm? Ọbụrụ na ịkwụrụ n'elu lo, Ị ga-ada obere karịa ka Ị si ada n'ụwa anyị.",science/technology,travel,"SENTENCE:
+ Kedụ ka ike ndọda nke lo si adọm? Ọbụrụ na ịkwụrụ n'elu lo, Ị ga-ada obere karịa ka Ị si ada n'ụwa anyị. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+NextGen bụ otu sistemụ FAA na-asị ga-enye ụgbọ elu òhèerè ife site n’ụzọ kara pee mpe ma chekwa ọtụtụ nde galọnụ nke mmanụ kwa afọ na mkpọfụ anwụrụ.,science/technology,travel,"SENTENCE:
+ NextGen bụ otu sistemụ FAA na-asị ga-enye ụgbọ elu òhèerè ife site n’ụzọ kara pee mpe ma chekwa ọtụtụ nde galọnụ nke mmanụ kwa afọ na mkpọfụ anwụrụ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Ozi ihe-omumundu-banyere-uburu ewetala akaebe ana ahu anya maka usoro kowaputa nye nyocha nke nkota. Nihi ya obelatala ogbe nchoputa ma mee ya kpom-kwem nke ukwu karia.,science/technology,travel,"SENTENCE:
+ Ozi ihe-omumundu-banyere-uburu ewetala akaebe ana ahu anya maka usoro kowaputa nye nyocha nke nkota. Nihi ya obelatala ogbe nchoputa ma mee ya kpom-kwem nke ukwu karia. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"N’okwu ya nke ruru awa 2, o kwuru “Taa Apple ga-agbanwe ekwentị dị ka ụwa si mara ya, Anyị ga-eme oke ihe taa”.",science/technology,N/A,"SENTENCE:
+ N’okwu ya nke ruru awa 2, o kwuru “Taa Apple ga-agbanwe ekwentị dị ka ụwa si mara ya, Anyị ga-eme oke ihe taa”. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: tech</s>"
+Ihe ọghọm dị na zoom lens bụ na focal complexity ya na ọnụọgụgụ lens elements kwesịrị ka ejiri ya nweta a range of focal lengths karịrị na prime lenses.,science/technology,travel,"SENTENCE:
+ Ihe ọghọm dị na zoom lens bụ na focal complexity ya na ọnụọgụgụ lens elements kwesịrị ka ejiri ya nweta a range of focal lengths karịrị na prime lenses. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ngwa Kọntrola, nke yiri rimotu onyonyo, na-eji ihe mmetụta abụọ dị n'akụkụ onyonyo achọpụta ọnọdụ ya n'oghere ọbụla nwere akụkụ atọ.",science/technology,entertainment,"SENTENCE:
+ Ngwa Kọntrola, nke yiri rimotu onyonyo, na-eji ihe mmetụta abụọ dị n'akụkụ onyonyo achọpụta ọnọdụ ya n'oghere ọbụla nwere akụkụ atọ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Ndị ọka mmụta sayensị kwuru na abụba anụmanụ a nwere mgbe ọ na-acha aja aja n'elu ma na-acha ka karotenọịd n'okpuru.,science/technology,travel,"SENTENCE:
+ Ndị ọka mmụta sayensị kwuru na abụba anụmanụ a nwere mgbe ọ na-acha aja aja n'elu ma na-acha ka karotenọịd n'okpuru. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Ndị nchọpụta na mahadum sị na ihe ndị a na-emekorịta imepụta mkpụrụ nwere ike ịkwụsị ọrụ akụrụ.,science/technology,entertainment,"SENTENCE:
+ Ndị nchọpụta na mahadum sị na ihe ndị a na-emekorịta imepụta mkpụrụ nwere ike ịkwụsị ọrụ akụrụ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Nke a na-enye ụcha ngosịpụta ihe ruru ugboro anọ nke ihe otu 35mm odi iche (3136 mm2 vesọs 864).,science/technology,entertainment,"SENTENCE:
+ Nke a na-enye ụcha ngosịpụta ihe ruru ugboro anọ nke ihe otu 35mm odi iche (3136 mm2 vesọs 864). 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Ekele dịrị ọwa nkwurita okwu ruru Yuropu na ihe mgbasa ozi ikuku, Grinlandị bụ ebe ya na ndị bi na ya ruru pasenti iri itoolu na atọ nwere ezigbo njikọ sitere n'ịntanetị.",science/technology,travel,"SENTENCE:
+ Ekele dịrị ọwa nkwurita okwu ruru Yuropu na ihe mgbasa ozi ikuku, Grinlandị bụ ebe ya na ndị bi na ya ruru pasenti iri itoolu na atọ nwere ezigbo njikọ sitere n'ịntanetị. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Otu n'ime ihe eji eme nke a bụ Ntụgharị Kegugulụ, nke na-enye ohere ime ntụgharị na-anọghị n'ịntanetị ka e budatachara asụsụ a chọrọ.",science/technology,entertainment,"SENTENCE:
+ Otu n'ime ihe eji eme nke a bụ Ntụgharị Kegugulụ, nke na-enye ohere ime ntụgharị na-anọghị n'ịntanetị ka e budatachara asụsụ a chọrọ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"O nwere otu ụdị ọdịdị nke mọlekụụlụ n’agbanyeghị na ọ bụ ikuku, mmiri, ma ọ bụ ihe siri ke.",science/technology,science/technology,"SENTENCE:
+ O nwere otu ụdị ọdịdị nke mọlekụụlụ n’agbanyeghị na ọ bụ ikuku, mmiri, ma ọ bụ ihe siri ke. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+"Ojiji nke ndekọ vidio edugawo na ụmụ nchọpụta dị mkpa n’ime nkọwa nke nzipụta-n’ihu-kentakịrị, mmegharị ihu nke na-anọru milisekọnd ole na ole.",science/technology,entertainment,"SENTENCE:
+ Ojiji nke ndekọ vidio edugawo na ụmụ nchọpụta dị mkpa n’ime nkọwa nke nzipụta-n’ihu-kentakịrị, mmegharị ihu nke na-anọru milisekọnd ole na ole. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Mmadụ anọwo na-eme ma na-eji anụ anya dị elu maka ọtụtụ puku afọ na puku afọ.,science/technology,entertainment,"SENTENCE:
+ Mmadụ anọwo na-eme ma na-eji anụ anya dị elu maka ọtụtụ puku afọ na puku afọ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Ọ nọghị naanị ya n'ezie, eksperimenteshọn, ma otu eksperimenti bụ otu ule nke eji ewepụ otu haịpotesis kwere omume ma ọ bụ karịa, ịjụ ajụjụ gasị, na ime nyochata nakwa eduzi nnyocha sayensị.",science/technology,N/A,"SENTENCE:
+ Ọ nọghị naanị ya n'ezie, eksperimenteshọn, ma otu eksperimenti bụ otu ule nke eji ewepụ otu haịpotesis kwere omume ma ọ bụ karịa, ịjụ ajụjụ gasị, na ime nyochata nakwa eduzi nnyocha sayensị. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: education</s>"
+"N'ikpeazụ, eji wiil ígwè dochie wiil osisi. N'afọ 1767, e wepụtara wiil nke mbụ ejị igwe rụọ kpam kpam.",science/technology,travel,"SENTENCE:
+ N'ikpeazụ, eji wiil ígwè dochie wiil osisi. N'afọ 1767, e wepụtara wiil nke mbụ ejị igwe rụọ kpam kpam. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"N'agbanyeghị na ọtụtụ akwụkwọ akara njiarụ ekwentị dị mma ịkpọ oku ekwentị gaa ebe ọbụla, ọrụ pụrụ iche ụfọdụ n'ime ha na-arụ bụ ime ka ọnụ ọkpụkpọ oku gaa ụfọdụ obodo dị ala.",science/technology,travel,"SENTENCE:
+ N'agbanyeghị na ọtụtụ akwụkwọ akara njiarụ ekwentị dị mma ịkpọ oku ekwentị gaa ebe ọbụla, ọrụ pụrụ iche ụfọdụ n'ime ha na-arụ bụ ime ka ọnụ ọkpụkpọ oku gaa ụfọdụ obodo dị ala. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Otutu teliskop eji eme resaach n'oge ugbu a bu nnukwu ulo oru di n'ebe dipuru adipu nwere ezigbo ihu igwe.,science/technology,travel,"SENTENCE:
+ Otutu teliskop eji eme resaach n'oge ugbu a bu nnukwu ulo oru di n'ebe dipuru adipu nwere ezigbo ihu igwe. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Agịga igwe n'ese n'elu mmiri n'ihi ike n'arụ ọrụ n'elu mmiri.,science/technology,travel,"SENTENCE:
+ Agịga igwe n'ese n'elu mmiri n'ihi ike n'arụ ọrụ n'elu mmiri. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ọ dịtụ mgbagwoju anya na, n'ezie, ụdịdị 35mm nwere 36mm n'obosara na 24mm n'ogo.",science/technology,entertainment,"SENTENCE:
+ Ọ dịtụ mgbagwoju anya na, n'ezie, ụdịdị 35mm nwere 36mm n'obosara na 24mm n'ogo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Mkpụrụ ndụ dị oke mkpa na ọmụmụ gbasara ndụ, n’ezie, a na-akpọkarị ha “ntọala obibi nke ndụ”.",science/technology,N/A,"SENTENCE:
+ Mkpụrụ ndụ dị oke mkpa na ọmụmụ gbasara ndụ, n’ezie, a na-akpọkarị ha “ntọala obibi nke ndụ”. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: education</s>"
+Ndị nnyem VPN (virtual private network) keonwe bụ ezigbo ụzọ ịgbanaha ma mgbochi ke ọchiọhcị na mgbochi IP ọha keala mba.,science/technology,N/A,"SENTENCE:
+ Ndị nnyem VPN (virtual private network) keonwe bụ ezigbo ụzọ ịgbanaha ma mgbochi ke ọchiọhcị na mgbochi IP ọha keala mba. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: tech</s>"
+"Ọdụ ụgbọ nọ n’eluụwa ahụ nọgidere na-akpa àgwà, n'agbanyeghị ofufu gyroscope na mbụ na ozi ọdụ ụgbọ nọ n’eluụwa, ruo na njedebe nke ịga ije n’elu ụwa.",science/technology,travel,"SENTENCE:
+ Ọdụ ụgbọ nọ n’eluụwa ahụ nọgidere na-akpa àgwà, n'agbanyeghị ofufu gyroscope na mbụ na ozi ọdụ ụgbọ nọ n’eluụwa, ruo na njedebe nke ịga ije n’elu ụwa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ndị nwere ụdịrị ezi echiche a na-enwe ike ibu usoro n'isi, dozie nsogbu ma rụọ ọrụ n'ule sayensị gasị.",science/technology,N/A,"SENTENCE:
+ Ndị nwere ụdịrị ezi echiche a na-enwe ike ibu usoro n'isi, dozie nsogbu ma rụọ ọrụ n'ule sayensị gasị. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: education education</s>"
+"Ona amasi Ocelot iri obere umu-anumanu. Ha ga anwuchi enwe, agwo, oke na nnunu ma ha nwee ike. Oka-na-onuogugu anu anumanu nile Ocelot na achu-nta di obere nnukwu karia ka odi.",science/technology,sports,"SENTENCE:
+ Ona amasi Ocelot iri obere umu-anumanu. Ha ga anwuchi enwe, agwo, oke na nnunu ma ha nwee ike. Oka-na-onuogugu anu anumanu nile Ocelot na achu-nta di obere nnukwu karia ka odi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Ụfọdụ igwe foto ọkara nwere akụkụ sentimita 6 n'elu 6, ya bụ negetiv nwere milimita 56 n'elu 56, ikwu ya kpọmkwem.",science/technology,entertainment,"SENTENCE:
+ Ụfọdụ igwe foto ọkara nwere akụkụ sentimita 6 n'elu 6, ya bụ negetiv nwere milimita 56 n'elu 56, ikwu ya kpọmkwem. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Ana adusi ndi njem odu ike ha mara gbasara ihe ndaba nke ekpem-oku maobu di oke ukwuu nke na emetuta ogbe ha dika onwere ike imetuta atumatu ime-njem obula.,travel,travel,"SENTENCE:
+ Ana adusi ndi njem odu ike ha mara gbasara ihe ndaba nke ekpem-oku maobu di oke ukwuu nke na emetuta ogbe ha dika onwere ike imetuta atumatu ime-njem obula. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Bọọsụ na-esi n'ọdụ ụgbọala njikọ-mpaghara apụ (n'ofe osimiri ahụ) mgbe niile n'ụbọchị, agbanyeghị na nke kacha, tụmadị ndị ahụ na-aga n'ebe ọwụwaanyanwụ na Jakar/Bumthang na-apụ n'etiti 06:30 na 07:30.",travel,travel,"SENTENCE:
+ Bọọsụ na-esi n'ọdụ ụgbọala njikọ-mpaghara apụ (n'ofe osimiri ahụ) mgbe niile n'ụbọchị, agbanyeghị na nke kacha, tụmadị ndị ahụ na-aga n'ebe ọwụwaanyanwụ na Jakar/Bumthang na-apụ n'etiti 06:30 na 07:30. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Ha na-ewetara onye na-agba ha nnukwu nnọsi ike mana ha nwere ike inwe nsogbu nchekwa maka na ụkwụ onye na-agba ya pụrụ ịkpachi n'ime ha.,travel,sports,"SENTENCE:
+ Ha na-ewetara onye na-agba ha nnukwu nnọsi ike mana ha nwere ike inwe nsogbu nchekwa maka na ụkwụ onye na-agba ya pụrụ ịkpachi n'ime ha. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Ọtụtụ n'ime Njem Ụgbọmmiri Baltik pụrụiche na-enye njirimara nke ọnụnọ agbatịrị n'ime St. Pitasbọọg Rọshịa.,travel,travel,"SENTENCE:
+ Ọtụtụ n'ime Njem Ụgbọmmiri Baltik pụrụiche na-enye njirimara nke ọnụnọ agbatịrị n'ime St. Pitasbọọg Rọshịa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ndụmọdụ a zubere na ndị njem anaghị ezu ohi, jehiee ụzọ, tinye aka na ire ahịa megidere iwu, rịọọ arịrịọ, maọbụ rigbuo ndị ọzọ maka ọdịmma nke ha.",travel,travel,"SENTENCE:
+ Ndụmọdụ a zubere na ndị njem anaghị ezu ohi, jehiee ụzọ, tinye aka na ire ahịa megidere iwu, rịọọ arịrịọ, maọbụ rigbuo ndị ọzọ maka ọdịmma nke ha. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Onwere ọtụtụ ihe ị kwesịrị itule tupu ị gaa njem ebe ọzọ.,travel,travel,"SENTENCE:
+ Onwere ọtụtụ ihe ị kwesịrị itule tupu ị gaa njem ebe ọzọ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Na ughu ọkụ nke ụtụtụ, ndị njem nwere ike ịhụ mịraj nke na-eme ka ọdị ka mmiri (maọbụ ihe ọzọ) ọ dị n'ụzọ.",travel,travel,"SENTENCE:
+ Na ughu ọkụ nke ụtụtụ, ndị njem nwere ike ịhụ mịraj nke na-eme ka ọdị ka mmiri (maọbụ ihe ọzọ) ọ dị n'ụzọ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Anaghị ahụtakarị ezinụlọ chị ụmụ, mana ụfọdụ ebe ọnụnọ na-enye ha ụlọ nkeonwe.",travel,travel,"SENTENCE:
+ Anaghị ahụtakarị ezinụlọ chị ụmụ, mana ụfọdụ ebe ọnụnọ na-enye ha ụlọ nkeonwe. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Maka ọmụmatụ ileta ụmụ nnukwu ụlọ n’ime Ndagwurugwu Loire, Ndagwurugwu Rhine ma ọ bụ ime njem ụgbọ mmiri gaa obodo ndị na-adọrọ mmasị n’ime Danube ahụ ma ọ bụ ịgba ụgbọ mmiri n’ogologo ụzọ Kanaal Erie ahụ.",travel,travel,"SENTENCE:
+ Maka ọmụmatụ ileta ụmụ nnukwu ụlọ n’ime Ndagwurugwu Loire, Ndagwurugwu Rhine ma ọ bụ ime njem ụgbọ mmiri gaa obodo ndị na-adọrọ mmasị n’ime Danube ahụ ma ọ bụ ịgba ụgbọ mmiri n’ogologo ụzọ Kanaal Erie ahụ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Onwere ike ka nma iji onye nnochita-anya onye gana edebere gi ohere ime njem kwa mgbe yiri nke gi.,travel,travel,"SENTENCE:
+ Onwere ike ka nma iji onye nnochita-anya onye gana edebere gi ohere ime njem kwa mgbe yiri nke gi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+E bidoro Kaụchsọfịn n'ọnwa Jenụwarị nke afọ 2004 mgbe onye n'ede usoro ọrụ kọmputa bụ Kasi Fentụn chọtara njem ụgbọelu dị ọnụ ala ịga obodo Aịsland mana onweghi ebe ọ ga-anọ.,travel,travel,"SENTENCE:
+ E bidoro Kaụchsọfịn n'ọnwa Jenụwarị nke afọ 2004 mgbe onye n'ede usoro ọrụ kọmputa bụ Kasi Fentụn chọtara njem ụgbọelu dị ọnụ ala ịga obodo Aịsland mana onweghi ebe ọ ga-anọ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Visa ụmụ akwụkwọ nwere ihe ọchịchọ dị iche ma usoro ngwa dị iche na nke onye njem nkịtị maọbụ visa ọrụ.,travel,travel,"SENTENCE:
+ Visa ụmụ akwụkwọ nwere ihe ọchịchọ dị iche ma usoro ngwa dị iche na nke onye njem nkịtị maọbụ visa ọrụ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Mba ọbụla nwekwara iwu pụrụ iche nke na-ekwu ngwa mberede nke aghaghị idi n'ụgbọala.,travel,travel,"SENTENCE:
+ Mba ọbụla nwekwara iwu pụrụ iche nke na-ekwu ngwa mberede nke aghaghị idi n'ụgbọala. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Obu ezie na ihe-ka-na-onuogugu ulo nnochita-anya di njikere iwerekwu ohere-ka-na-onuogugu otutu ndi nnochita-anya na elekwasi anya na otu udi ime-njem,ogo nhzi na ebe-ana-aga.",travel,travel,"SENTENCE:
+ Obu ezie na ihe-ka-na-onuogugu ulo nnochita-anya di njikere iwerekwu ohere-ka-na-onuogugu otutu ndi nnochita-anya na elekwasi anya na otu udi ime-njem,ogo nhzi na ebe-ana-aga. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Ndị njem nwere ike ịhụta ụmụ anụ ọtapịa ndị nke ha na-amaghị n'ebe ụlọ ha.,travel,travel,"SENTENCE:
+ Ndị njem nwere ike ịhụta ụmụ anụ ọtapịa ndị nke ha na-amaghị n'ebe ụlọ ha. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ọzọkwa n'ugwu leta nnukwu Ebe Nsọ nke Nwanyị Anyị nke Fatima (Ebenchụaja), otu ebe ama ama n'ụwa niile maka ụmụ ihe ngosipụta nke Marịa.",travel,travel,"SENTENCE:
+ Ọzọkwa n'ugwu leta nnukwu Ebe Nsọ nke Nwanyị Anyị nke Fatima (Ebenchụaja), otu ebe ama ama n'ụwa niile maka ụmụ ihe ngosipụta nke Marịa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Ị nwere ike iji boda-boda (tagzi ọgba tum tum) ịga gburugburu Goma. Ọnụahịa nkịtị (ebeụlọ) bụ Francs Ndị Congo ~500 maka ọkwụkwọ dị mkpirikpi.,travel,travel,"SENTENCE:
+ Ị nwere ike iji boda-boda (tagzi ọgba tum tum) ịga gburugburu Goma. Ọnụahịa nkịtị (ebeụlọ) bụ Francs Ndị Congo ~500 maka ọkwụkwọ dị mkpirikpi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Nye ndị ahụ ihe omume mpụta ezi na amasi, njem akụkụ oke osimiri ruo ebe ngafe elu.",travel,travel,"SENTENCE:
+ Nye ndị ahụ ihe omume mpụta ezi na amasi, njem akụkụ oke osimiri ruo ebe ngafe elu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Safari ngagharị (nke a na-akpọkwa ""njem ọhịa"", ""safari ọrịrị"", maọbụ ""nzọụkwụ"") gbakwunyere ịrị ugwu ruo awa ole na ole maọbụ ọtụtụ ụbọchị.",travel,travel,"SENTENCE:
+ Safari ngagharị (nke a na-akpọkwa ""njem ọhịa"", ""safari ọrịrị"", maọbụ ""nzọụkwụ"") gbakwunyere ịrị ugwu ruo awa ole na ole maọbụ ọtụtụ ụbọchị. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Naanị ụzọ a ga-esi ewefe ya ọsịịsọ wụbụ iziga ya dị ka ibu e nyochagoro. Iwu ụlọọrụ ụgbọelu agaghị ekwe ha izipụ ibu na-enweghị otu onye njem, nke bụ ebe ị ga-esi bata n'ime.",travel,travel,"SENTENCE:
+ Naanị ụzọ a ga-esi ewefe ya ọsịịsọ wụbụ iziga ya dị ka ibu e nyochagoro. Iwu ụlọọrụ ụgbọelu agaghị ekwe ha izipụ ibu na-enweghị otu onye njem, nke bụ ebe ị ga-esi bata n'ime. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Narị atọ a gbakwunyere ọzọ na-eweta mkpokọta ya ruo ụgbọ ibu otu puku na narị atọ a ga-enweta iji belata oke njupụta.,travel,travel,"SENTENCE:
+ Narị atọ a gbakwunyere ọzọ na-eweta mkpokọta ya ruo ụgbọ ibu otu puku na narị atọ a ga-enweta iji belata oke njupụta. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ezinụlọ ndị nwere obere ụmụaka nwere ike ịchọkwu njikere, mana otu ụbọchị n’ezi dị mfe omume ma ọ bụrụgodu n’agụnye ụmụ ọhụrụ na ụmụaka ọtakara.",travel,travel,"SENTENCE:
+ Ezinụlọ ndị nwere obere ụmụaka nwere ike ịchọkwu njikere, mana otu ụbọchị n’ezi dị mfe omume ma ọ bụrụgodu n’agụnye ụmụ ọhụrụ na ụmụaka ọtakara. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Onye ọ bụla nke na-aga ịnya ụgbọ ala ya elu latitude maọbụ n’elu ugwu gafere, kwesịrị ịtụle ihe enwere ike ịbụ oge snow, ice, ma ọ bụ oke oyi.",travel,travel,"SENTENCE:
+ Onye ọ bụla nke na-aga ịnya ụgbọ ala ya elu latitude maọbụ n’elu ugwu gafere, kwesịrị ịtụle ihe enwere ike ịbụ oge snow, ice, ma ọ bụ oke oyi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Taa, Timbuktu obodo agụọ na-egbu, agbanyeghị n'ugwu ya na-eme ya otu ndọta ndị nleta, na o nwere otu ọdụ ụgbọelu.",travel,travel,"SENTENCE:
+ Taa, Timbuktu obodo agụọ na-egbu, agbanyeghị n'ugwu ya na-eme ya otu ndọta ndị nleta, na o nwere otu ọdụ ụgbọelu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"N'oge ụmụ oke ozuzo okwute mmiri, sinoo ga-ezu iji mee ka ị tọọ nwere ike izo n'ime ntakịrị oge.",travel,travel,"SENTENCE:
+ N'oge ụmụ oke ozuzo okwute mmiri, sinoo ga-ezu iji mee ka ị tọọ nwere ike izo n'ime ntakịrị oge. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"O buru na ichoro ifegheghari na ndida emisfee, i gaghi enweta mmasi gi na ugbo elu ma o bu ebe ije maka na enwere uko uzo transocean.",travel,travel,"SENTENCE:
+ O buru na ichoro ifegheghari na ndida emisfee, i gaghi enweta mmasi gi na ugbo elu ma o bu ebe ije maka na enwere uko uzo transocean. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ụlọ ọrụ njem ụgbọelu dịka Emirets, Etihad Eewez, Katar Eewez, Tọkish Eewez ebidola ịrụ ọrụ n'Afrịka karịa, na-eme ka ndị mmadụ si na nnukwu obodo Afrịka gaa n'ọzọ n'ọnụ ahịa ka nke ụlọ ọrụ njem ụgbọelu ndị ọzọ si Yurop mma.",travel,travel,"SENTENCE:
+ Ụlọ ọrụ njem ụgbọelu dịka Emirets, Etihad Eewez, Katar Eewez, Tọkish Eewez ebidola ịrụ ọrụ n'Afrịka karịa, na-eme ka ndị mmadụ si na nnukwu obodo Afrịka gaa n'ọzọ n'ọnụ ahịa ka nke ụlọ ọrụ njem ụgbọelu ndị ọzọ si Yurop mma. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Anaghị etinyekwasị ihe njem, ma ụgbọoloko elu ala agaghị akwụsị na Wembli, ma ndowe ụgbọala makwa akụrụngwa dowe ma gbakwaa adịghị ebe ahụ.",travel,travel,"SENTENCE:
+ Anaghị etinyekwasị ihe njem, ma ụgbọoloko elu ala agaghị akwụsị na Wembli, ma ndowe ụgbọala makwa akụrụngwa dowe ma gbakwaa adịghị ebe ahụ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"N’izugbe, ịnọ na mba ofesi ọbụla ruo ogologo oge ga-achọ ka ị nweta visa n'ọdịnihu.",travel,travel,"SENTENCE:
+ N’izugbe, ịnọ na mba ofesi ọbụla ruo ogologo oge ga-achọ ka ị nweta visa n'ọdịnihu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Ụgbọ oloko ọ bụla nwere ma MetroPlus ma Koochi gasị; koochi MetroPlus ndị ahụ na-anọkarị n’ọdụ nke ụgbọ oloko kacha nso na Cape Town.,travel,travel,"SENTENCE:
+ Ụgbọ oloko ọ bụla nwere ma MetroPlus ma Koochi gasị; koochi MetroPlus ndị ahụ na-anọkarị n’ọdụ nke ụgbọ oloko kacha nso na Cape Town. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Onye ọ bụla na-esonye n'ime ọha mmadụ ma na-eji ụmụ sistemụ njem. Ọ fọrọ obere ka ọ bụrụ onye niile na eme mkpesa gbasara ụmụ sistemụ njem.,travel,travel,"SENTENCE:
+ Onye ọ bụla na-esonye n'ime ọha mmadụ ma na-eji ụmụ sistemụ njem. Ọ fọrọ obere ka ọ bụrụ onye niile na eme mkpesa gbasara ụmụ sistemụ njem. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Dika ebe ndị ahụ bụ ebe ndị mmadụ ebichabeghị etu ahụ, na mmetọ nke ọkụ ya mere anaghị abụkarị nsogbu, ị ga-enwekwa ike ịnụ ụtọ ụmụ kpakpando.",travel,travel,"SENTENCE:
+ Dika ebe ndị ahụ bụ ebe ndị mmadụ ebichabeghị etu ahụ, na mmetọ nke ọkụ ya mere anaghị abụkarị nsogbu, ị ga-enwekwa ike ịnụ ụtọ ụmụ kpakpando. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Ihe ọchụchọ na Visa na-adà ọnụahịa dị iche site na mba ruo na mba ma metụta kwa site n’obodo i siri bịa.,travel,travel,"SENTENCE:
+ Ihe ọchụchọ na Visa na-adà ọnụahịa dị iche site na mba ruo na mba ma metụta kwa site n’obodo i siri bịa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ikwu n'ozuzu, ọ baghị uru ọbụna ị na-ele anya maka ụmụ mbelata maka ochie ndị azụmaahịa ma ọ bụ klaasị-mbụ n'ụmụ njem ụgbọelu ozugbo sitere na A ruo B.",travel,travel,"SENTENCE:
+ Ikwu n'ozuzu, ọ baghị uru ọbụna ị na-ele anya maka ụmụ mbelata maka ochie ndị azụmaahịa ma ọ bụ klaasị-mbụ n'ụmụ njem ụgbọelu ozugbo sitere na A ruo B. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Ịtụ atụ nke boomerang bụ nka ama ama nke ọtụtụ ndị njem nleta chọrọ inweta.,travel,travel,"SENTENCE:
+ Ịtụ atụ nke boomerang bụ nka ama ama nke ọtụtụ ndị njem nleta chọrọ inweta. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ọ bụghị naanị njem ụgbọelu a dị, ma ọ bụrụ na ị chọghị igafe Pasifik Ndịda na akụkụ mmiri ọdịda anyanwụ nke Amerịka Ndịda. (lee anya n'okpuru ebe a)",travel,travel,"SENTENCE:
+ Ọ bụghị naanị njem ụgbọelu a dị, ma ọ bụrụ na ị chọghị igafe Pasifik Ndịda na akụkụ mmiri ọdịda anyanwụ nke Amerịka Ndịda. (lee anya n'okpuru ebe a) 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"San Francisco emepụtala nnukwu akụrụngwa ndị njem nleta ya na ọtụtụ ụlọ nkwarị akụ, ụlọ nri gasị, na ebe ọgbakọ mmemme dị ezigbo mma.",travel,travel,"SENTENCE:
+ San Francisco emepụtala nnukwu akụrụngwa ndị njem nleta ya na ọtụtụ ụlọ nkwarị akụ, ụlọ nri gasị, na ebe ọgbakọ mmemme dị ezigbo mma. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Ọrụ afọ ofufo mgbe i na eme njem bu uzu di ukwu iji mee ihe di iche ma obughi so n’inye ihe.,travel,travel,"SENTENCE:
+ Ọrụ afọ ofufo mgbe i na eme njem bu uzu di ukwu iji mee ihe di iche ma obughi so n’inye ihe. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Ikekwe ndị mmadụ agaghị atụ anya na ndidi na nnagide bụ ihe ndị njem na-alaghachi ụlọ aghaghị inwe.,travel,travel,"SENTENCE:
+ Ikekwe ndị mmadụ agaghị atụ anya na ndidi na nnagide bụ ihe ndị njem na-alaghachi ụlọ aghaghị inwe. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Echefula igbakwunye ego ole ọzọ ụmụ visa ọzọ, ụtụ isi ọpụpụ, njem ụgbọ ala, dgz. ga-efu maka ebe ndị ọzọ ahụ niile na mpụga Afrịka.",travel,travel,"SENTENCE:
+ Echefula igbakwunye ego ole ọzọ ụmụ visa ọzọ, ụtụ isi ọpụpụ, njem ụgbọ ala, dgz. ga-efu maka ebe ndị ọzọ ahụ niile na mpụga Afrịka. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Otutu ndi bi na Bishkek tara ndi na-eme ngaghari iwe si na odida anyanwu uta gbasara imebi iwu,politics,travel,"SENTENCE:
+ Otutu ndi bi na Bishkek tara ndi na-eme ngaghari iwe si na odida anyanwu uta gbasara imebi iwu 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Akụkụ Beljọm ga nke ugbua bụbu akụkụ Lukzembọọgụ n’oge gara aga mana mechaa bụrụ Beljian mgbe e nwere mgbanwe ọchịchị n’ike nke Beljian n'afọ 1830 ga.,politics,travel,"SENTENCE:
+ Akụkụ Beljọm ga nke ugbua bụbu akụkụ Lukzembọọgụ n’oge gara aga mana mechaa bụrụ Beljian mgbe e nwere mgbanwe ọchịchị n’ike nke Beljian n'afọ 1830 ga. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Kemgbe 1988, ụmụ igbe ntuli aka ga-abụrịrị ngafe-ahụ-ụzọ ka ndị ntụli aka na ndị nnyota ga-agba akaebe na o nweghị envelopu nọ na ya mgbe a na-ebido ntuli aka nakwa o nweghị envelopu etinyere ewezụga nke ndị agụgwere ọnụ ma nye ikikere nke ọma.",politics,sports,"SENTENCE:
+ Kemgbe 1988, ụmụ igbe ntuli aka ga-abụrịrị ngafe-ahụ-ụzọ ka ndị ntụli aka na ndị nnyota ga-agba akaebe na o nweghị envelopu nọ na ya mgbe a na-ebido ntuli aka nakwa o nweghị envelopu etinyere ewezụga nke ndị agụgwere ọnụ ma nye ikikere nke ọma. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Onye nlekota ala (Caretaker Prime Minister) Julia Gillard kwuru n’oge Kampeenu nke nhoputa ndi ochichi nke goomenti etiti na okwere na Australia kwesiri ibu repoblik ma Eze nwanyi Elizabeth nke abuo chicha.,politics,politics,"SENTENCE:
+ Onye nlekota ala (Caretaker Prime Minister) Julia Gillard kwuru n’oge Kampeenu nke nhoputa ndi ochichi nke goomenti etiti na okwere na Australia kwesiri ibu repoblik ma Eze nwanyi Elizabeth nke abuo chicha. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+Gọọmentị mba Ireland na-adọ aka na ntị maka mkpa ọ dị ka ndị omeiwu dozie ọnọdụ ahụ.,politics,politics,"SENTENCE:
+ Gọọmentị mba Ireland na-adọ aka na ntị maka mkpa ọ dị ka ndị omeiwu dozie ọnọdụ ahụ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+Arụmụka ọchịchị obodo ka na emebi mmekọ Amenia na Azabaịjan.,politics,politics,"SENTENCE:
+ Arụmụka ọchịchị obodo ka na emebi mmekọ Amenia na Azabaịjan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: world politics</s>"
+"Onye isi oche Stivin Hapa ekwetala iziga iwu ọhụrụ nke ikuku ọcha nke gọọmenti ebe a ga elebara ya anya, tupu nleba anya nke abụọ, ma emechaa nzukọ ga-ewe ya na onye isi NDP bụ Jak Leeton nkeji iri abụọ na ise n'ụbọchị Tuzde na PMO.",politics,travel,"SENTENCE:
+ Onye isi oche Stivin Hapa ekwetala iziga iwu ọhụrụ nke ikuku ọcha nke gọọmenti ebe a ga elebara ya anya, tupu nleba anya nke abụọ, ma emechaa nzukọ ga-ewe ya na onye isi NDP bụ Jak Leeton nkeji iri abụọ na ise n'ụbọchị Tuzde na PMO. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"N'ọnwa gara aga, enwere ọtụtụ ngagharị iwe na Poland mgbe obodo a nyere ACTA nkwenye ha, nke mere ka gọọmenti Poland kpebie na ha ka ga-echere tupu ha asị nkwekọrịta ahụ gaa n'ihu..",politics,politics,"SENTENCE:
+ N'ọnwa gara aga, enwere ọtụtụ ngagharị iwe na Poland mgbe obodo a nyere ACTA nkwenye ha, nke mere ka gọọmenti Poland kpebie na ha ka ga-echere tupu ha asị nkwekọrịta ahụ gaa n'ihu.. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: world politics</s>"
+Ndị ndụmọdụ gasị bụ naanị obere nchịkọta nke ọnọdụ ndọrọndọrọ ọchịchị n’otu obodo.,politics,politics,"SENTENCE:
+ Ndị ndụmọdụ gasị bụ naanị obere nchịkọta nke ọnọdụ ndọrọndọrọ ọchịchị n’otu obodo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+"N’ime nghọpụta nke 1976, ọ dụrụ Carter ndụmọdụ gbasara iwu ndị mba ofesi, wee rụzie ọrụ dịka Onye ndụmọdụ Nchekwa Mba (NSA) site na 1977 ruo 1981, na nnọchi Henry Kissinger.",politics,politics,"SENTENCE:
+ N’ime nghọpụta nke 1976, ọ dụrụ Carter ndụmọdụ gbasara iwu ndị mba ofesi, wee rụzie ọrụ dịka Onye ndụmọdụ Nchekwa Mba (NSA) site na 1977 ruo 1981, na nnọchi Henry Kissinger. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+"Mba Turkey ga-anarakwa ichebe ndị agha ISIS enwudere ndị, ozi ahụ kwuru, na mba ndị dị na Europe ajụla ịnabata ha ọzọ.",politics,N/A,"SENTENCE:
+ Mba Turkey ga-anarakwa ichebe ndị agha ISIS enwudere ndị, ozi ahụ kwuru, na mba ndị dị na Europe ajụla ịnabata ha ọzọ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: world world</s>"
+"Mana, o gbughi oge ka atụmatụ a niile laa n'efu, mgbe ihe karịrị ndị Sọviet Yunịọn Red Amị 800,000 banyere, kepụta ogige agha ndị Belarụs na Yukren, ka ha wakpochara akụkụ ọwụwa anyanwụ Poland na nnupu isi nye Nkwekọrịta Udo Riga, Nkwekọrịta Udo Sọviet Yunịọn na Poland, na ọtụtụ nkwekọrịta ndị ọzọ, ma nke dị n'etiti mba abụọ, na nke dị n'etiti ọtụtụ mba.",politics,politics,"SENTENCE:
+ Mana, o gbughi oge ka atụmatụ a niile laa n'efu, mgbe ihe karịrị ndị Sọviet Yunịọn Red Amị 800,000 banyere, kepụta ogige agha ndị Belarụs na Yukren, ka ha wakpochara akụkụ ọwụwa anyanwụ Poland na nnupu isi nye Nkwekọrịta Udo Riga, Nkwekọrịta Udo Sọviet Yunịọn na Poland, na ọtụtụ nkwekọrịta ndị ọzọ, ma nke dị n'etiti mba abụọ, na nke dị n'etiti ọtụtụ mba. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: world politics</s>"
+"Esowe usoro ahụ, ndị ome iwu na-abịa abịa ga elebara HJR-3 anya ọzọ n'afọ 2015 m'ọbụ 2016.",politics,politics,"SENTENCE:
+ Esowe usoro ahụ, ndị ome iwu na-abịa abịa ga elebara HJR-3 anya ọzọ n'afọ 2015 m'ọbụ 2016. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+"Mgbe Kọngres nyechara ya nkwekọrịta ha na Julaị 4, e weere ya n'akwụkwọ eji aka dee, nke Jọn Hankọk Onye isi Kọngres na Chals Tọmsin Onye odeakwụkwọ tinyere akara nkwado ha, wega ya n'ụlọ mbipụta Jọn Dunlap nke eteghi aka.",politics,N/A,"SENTENCE:
+ Mgbe Kọngres nyechara ya nkwekọrịta ha na Julaị 4, e weere ya n'akwụkwọ eji aka dee, nke Jọn Hankọk Onye isi Kọngres na Chals Tọmsin Onye odeakwụkwọ tinyere akara nkwado ha, wega ya n'ụlọ mbipụta Jọn Dunlap nke eteghi aka. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: culture</s>"
+"Mgbe okuchara nnoo elekere 11:00, ndi ngahari-iwe anochie owa-ugbo na okporo gawara-mpaghar-ugwu na Whitehall.",politics,travel,"SENTENCE:
+ Mgbe okuchara nnoo elekere 11:00, ndi ngahari-iwe anochie owa-ugbo na okporo gawara-mpaghar-ugwu na Whitehall. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Agbanyeghị, na Juun 1956, ụmụ nkwa Krushchev ka e tinyere n’ule mgbe ọgbaaghara dara na Poland, ebe ndị ọrụ nọ na-eme ngagharị iwe gbasara ụkọ nri na mbelata ụgwọ ọrụ, ghọrọ ngagharị iwe izugbe megide Kọmunizim.",politics,politics,"SENTENCE:
+ Agbanyeghị, na Juun 1956, ụmụ nkwa Krushchev ka e tinyere n’ule mgbe ọgbaaghara dara na Poland, ebe ndị ọrụ nọ na-eme ngagharị iwe gbasara ụkọ nri na mbelata ụgwọ ọrụ, ghọrọ ngagharị iwe izugbe megide Kọmunizim. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: world politics</s>"
+"O kwesịrị ịnọru ruo afọ iri anọ na-abịa abịa ma a ga-alụkwa ya n'ezie, site n'aka ụsụụ ndị agha nnọchite, n'ama agha site n'Afrịka ruo Eshia, n'ime Afghanistan, Kiuba na ọtụtụ ebe ndị ọzọ.",politics,politics,"SENTENCE:
+ O kwesịrị ịnọru ruo afọ iri anọ na-abịa abịa ma a ga-alụkwa ya n'ezie, site n'aka ụsụụ ndị agha nnọchite, n'ama agha site n'Afrịka ruo Eshia, n'ime Afghanistan, Kiuba na ọtụtụ ebe ndị ọzọ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: world politics</s>"
+N'ọnwa gara aga ozi sitere n'onye ọchịchị kwadoro ọgbụgba arụkwaghịm CEP nọbu anọ dịka ihe so n'usoro omume ihe ibuje obodo na ntuli aka ọhụrụ,politics,politics,"SENTENCE:
+ N'ọnwa gara aga ozi sitere n'onye ọchịchị kwadoro ọgbụgba arụkwaghịm CEP nọbu anọ dịka ihe so n'usoro omume ihe ibuje obodo na ntuli aka ọhụrụ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+Isiokwu ndị ọzọ ekpuchiri gụnyere site n'ihe akọrọ ọdịnihu Jerusalem nke dị nsọ nye mba abụọ ahụ na okwu Ndagwurugwu Jọdan.,politics,politics,"SENTENCE:
+ Isiokwu ndị ọzọ ekpuchiri gụnyere site n'ihe akọrọ ọdịnihu Jerusalem nke dị nsọ nye mba abụọ ahụ na okwu Ndagwurugwu Jọdan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: world politics</s>"
+O nweghi ikike imechi iwu ụtụisi na tarifu n'etiti steeti na steeti.,politics,travel,"SENTENCE:
+ O nweghi ikike imechi iwu ụtụisi na tarifu n'etiti steeti na steeti. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Iwu gbasara ntuliaka na Frans depụtara usoro ikpe kpọmkwem.,politics,politics,"SENTENCE:
+ Iwu gbasara ntuliaka na Frans depụtara usoro ikpe kpọmkwem. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+"Mgbe otu izu gasịrị ebe ọ dara ada na ntuliaka ọkara oge, Bush gwara ndị na-ege ya ntị maka mmụba nke azụmahịa n'Eshia.",politics,politics,"SENTENCE:
+ Mgbe otu izu gasịrị ebe ọ dara ada na ntuliaka ọkara oge, Bush gwara ndị na-ege ya ntị maka mmụba nke azụmahịa n'Eshia. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: world politics</s>"
+"Atụmatụ ahụ rụrụ ọrụ ọfụma, na-ebepụ ụmụ ihe mbute ihe ndị agha na ndị nkiti dị oke mpka, n’agbanyeghị na mgbochi a dara iwu mba ụwa anabatara n’izugbe nke ọtụtụ nkwekọrịta n’etiti mba ụwa nke afọ narị abụọ gara aga nyere ikikere.",politics,N/A,"SENTENCE:
+ Atụmatụ ahụ rụrụ ọrụ ọfụma, na-ebepụ ụmụ ihe mbute ihe ndị agha na ndị nkiti dị oke mpka, n’agbanyeghị na mgbochi a dara iwu mba ụwa anabatara n’izugbe nke ọtụtụ nkwekọrịta n’etiti mba ụwa nke afọ narị abụọ gara aga nyere ikikere. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: military</s>"
+E dozigharịala njikọ akụnaụba dị n'etiti nkewa Moldova abụọ a n’agbanyeghi ọdịda na mkpakọrịta nkwe nke ndọrọndọrọ ọchịchị.,politics,politics,"SENTENCE:
+ E dozigharịala njikọ akụnaụba dị n'etiti nkewa Moldova abụọ a n’agbanyeghi ọdịda na mkpakọrịta nkwe nke ndọrọndọrọ ọchịchị. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+"Ndị ọrụ ndị ahụ sonyere ya, o kwere ndị obodo texas na a na-esoro usoro ichedo obodo na ọha.",politics,travel,"SENTENCE:
+ Ndị ọrụ ndị ahụ sonyere ya, o kwere ndị obodo texas na a na-esoro usoro ichedo obodo na ọha. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Nnyocha nke mgbalị nrụgharị chere ihu na-enye ndị e chere na ha bụ ndị si Wọshịntịn ọrụ nrụgharị.,politics,travel,"SENTENCE:
+ Nnyocha nke mgbalị nrụgharị chere ihu na-enye ndị e chere na ha bụ ndị si Wọshịntịn ọrụ nrụgharị. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"N'ime mmadụ otu puku na iri anọ tụrụ ụtụ tupu ndọrọ ndọrọ ọchịchị gọọmenti etiti nke afọ 2010, ndị megidere mba Ọstrelia ịbụ obodo kwuuru onwe ya ji pasentị asatọ rịa elu kemgbe afọ 2008.",politics,politics,"SENTENCE:
+ N'ime mmadụ otu puku na iri anọ tụrụ ụtụ tupu ndọrọ ndọrọ ọchịchị gọọmenti etiti nke afọ 2010, ndị megidere mba Ọstrelia ịbụ obodo kwuuru onwe ya ji pasentị asatọ rịa elu kemgbe afọ 2008. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+Ndị nnọchiteanya mbà kwuru na ha ahụghị ezigbi ihe mgbagwujuanya n’usoro iwu ndị Afghan iji kpebie n’usoro ntụziaka ahụ ezighị ezi.,politics,politics,"SENTENCE:
+ Ndị nnọchiteanya mbà kwuru na ha ahụghị ezigbi ihe mgbagwujuanya n’usoro iwu ndị Afghan iji kpebie n’usoro ntụziaka ahụ ezighị ezi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: world politics</s>"
+"Ka akara omume pụtara, Gingrich kelere Santorum, mana ọ gwara Rọmni okwu ike, n'ihi ụdịrị mkpọsa ozi ọ kpọsara megide Gringrich na Ayowa.",politics,politics,"SENTENCE:
+ Ka akara omume pụtara, Gingrich kelere Santorum, mana ọ gwara Rọmni okwu ike, n'ihi ụdịrị mkpọsa ozi ọ kpọsara megide Gringrich na Ayowa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+Ọ bụ CEP nke ise nke Marteli n'afọ anọ.,politics,politics,"SENTENCE:
+ Ọ bụ CEP nke ise nke Marteli n'afọ anọ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+"Onye nwebụrụ mgbanye ọlaedo Olympicruru igwu mmiri na nke 100m na 200m ụdị nnwere onwe na ngwụgharị ugboro atọ n'Egwuregwu Commonwealth ahụ, mana n’ihi mkpesa ya, enweela obi abụọ maka ịdị mma nke ahụike ya.",sports,sports,"SENTENCE:
+ Onye nwebụrụ mgbanye ọlaedo Olympicruru igwu mmiri na nke 100m na 200m ụdị nnwere onwe na ngwụgharị ugboro atọ n'Egwuregwu Commonwealth ahụ, mana n’ihi mkpesa ya, enweela obi abụọ maka ịdị mma nke ahụike ya. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Ọ bụbu onye egwuregwu Olympic na onye mmeri n’egwuregwu ụwa, Saito bụ onye isi oche kọmiti ozuzu egwuregwu Japan Judo Federation n’oge ọ nwụrụ.",sports,sports,"SENTENCE:
+ Ọ bụbu onye egwuregwu Olympic na onye mmeri n’egwuregwu ụwa, Saito bụ onye isi oche kọmiti ozuzu egwuregwu Japan Judo Federation n’oge ọ nwụrụ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Kọmitii Olimpik nke ụwa niile tụrụ ụtụ itinye egwuregwu ahụ n'ọgbakọ ndị isi ha n'obodo Belịn taa. Egwuregwu Rugbi, njikọ n'ahụ maka rugbi kpọmkwem, na gọlf ka ahọọrọ n'ime egwuregwu ise ndị ọzọ ka a ga atụle ma ọ ga eso na Olimpik.",sports,sports,"SENTENCE:
+ Kọmitii Olimpik nke ụwa niile tụrụ ụtụ itinye egwuregwu ahụ n'ọgbakọ ndị isi ha n'obodo Belịn taa. Egwuregwu Rugbi, njikọ n'ahụ maka rugbi kpọmkwem, na gọlf ka ahọọrọ n'ime egwuregwu ise ndị ọzọ ka a ga atụle ma ọ ga eso na Olimpik. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Ndọrọndọrọ kachasị ukwu nke afọ ahụ na-eme na Disemba na fịịldị polo n’ime Las Cañitas.,sports,sports,"SENTENCE:
+ Ndọrọndọrọ kachasị ukwu nke afọ ahụ na-eme na Disemba na fịịldị polo n’ime Las Cañitas. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Kemgbe ọ kwagara na isi obodo Catalan, Vidal egwurula klọb egwuregwu 49.",sports,sports,"SENTENCE:
+ Kemgbe ọ kwagara na isi obodo Catalan, Vidal egwurula klọb egwuregwu 49. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Idowe ọnọdụ ike nke dị ahụ mma, iñụ mmiri nke ọma, na ịghọta ngalaba dị iche iche dị na mgbakwunye ihe oriri nwere ike inyere ndị egwuregwu aka iwelite arụmọrụ ha ma welitekwa obi ụtọ ha na-enwe n'egwuregwu ahụ.",sports,sports,"SENTENCE:
+ Idowe ọnọdụ ike nke dị ahụ mma, iñụ mmiri nke ọma, na ịghọta ngalaba dị iche iche dị na mgbakwunye ihe oriri nwere ike inyere ndị egwuregwu aka iwelite arụmọrụ ha ma welitekwa obi ụtọ ha na-enwe n'egwuregwu ahụ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Dịka onye nke atọ, Hamlin ji pọyịnt iri abụọ nọrọ n'azụ, mana o ji ise nọrọ n'ihu Bowyer. Kahne na Truex, Jr. bụ ndị nke ise na isii n'otu n'otu ma nwee pọyịnt 2,220 na 2,207.",sports,sports,"SENTENCE:
+ Dịka onye nke atọ, Hamlin ji pọyịnt iri abụọ nọrọ n'azụ, mana o ji ise nọrọ n'ihu Bowyer. Kahne na Truex, Jr. bụ ndị nke ise na isii n'otu n'otu ma nwee pọyịnt 2,220 na 2,207. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Ihe ogo mmeri n'asọmụmpi nke ndị Nadal ji megide nke ndị Kanada bụ 7-2.,sports,sports,"SENTENCE:
+ Ihe ogo mmeri n'asọmụmpi nke ndị Nadal ji megide nke ndị Kanada bụ 7-2. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Jarque nọbụrụ na-emewa ọzụzụ egwuregwu tupu-oge na Coverciano na Itali na mbụ n’ụbọchị. Ọ nọbụrụ na họteelụ òtù ahụ n’ọdịnihu otu egwuregwu atụrụ arọ ya maka Sọnde megide Bolonia.,sports,sports,"SENTENCE:
+ Jarque nọbụrụ na-emewa ọzụzụ egwuregwu tupu-oge na Coverciano na Itali na mbụ n’ụbọchị. Ọ nọbụrụ na họteelụ òtù ahụ n’ọdịnihu otu egwuregwu atụrụ arọ ya maka Sọnde megide Bolonia. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Ụjọ ụbịam ụzọ njem mere na onwere ike ndị egwuregwu ga egwu n'enweghị ndị nkwado ha.,sports,sports,"SENTENCE:
+ Ụjọ ụbịam ụzọ njem mere na onwere ike ndị egwuregwu ga egwu n'enweghị ndị nkwado ha. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Tọmi Drima sị na ""Luna bụ Eze nwaanyị ihe ngabiga oke nke mbụ. Onye nlekwa ọrụ m nke mbụ. Luna nwụrụ n'abalị ọnwa abụọ. Ọ pụrụ iche dị ka ya. Nwaanyị siri ike.""",sports,entertainment,"SENTENCE:
+ Tọmi Drima sị na ""Luna bụ Eze nwaanyị ihe ngabiga oke nke mbụ. Onye nlekwa ọrụ m nke mbụ. Luna nwụrụ n'abalị ọnwa abụọ. Ọ pụrụ iche dị ka ya. Nwaanyị siri ike."" 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Onye Poland kpuri isi bụ Maciej Krezel na-egwu egwuregwu ski, na onye ndu ya Anna Ogarzynska mechara onye nke iri na atọ na asọm mpi Supa-G. Jong Seork Park onye South Korea mechara onye nke iri abụọ na ano na asọm mpi ụmụnwoke Super-G.",sports,sports,"SENTENCE:
+ Onye Poland kpuri isi bụ Maciej Krezel na-egwu egwuregwu ski, na onye ndu ya Anna Ogarzynska mechara onye nke iri na atọ na asọm mpi Supa-G. Jong Seork Park onye South Korea mechara onye nke iri abụọ na ano na asọm mpi ụmụnwoke Super-G. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Maka akụkọ gbasara ụmụ ndorondoro na ebe a na-azụ tiketi maka egwuregwu polo, lelee Asociacion Argentina de Polo.",sports,sports,"SENTENCE:
+ Maka akụkọ gbasara ụmụ ndorondoro na ebe a na-azụ tiketi maka egwuregwu polo, lelee Asociacion Argentina de Polo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Egwuregwu ji ihu igwe dị mma bido ebe elekere iri nke ụtụtụ, ewepụ igirigi yọrọ n'ụtụtụ nke gbachara ọsịsọ, ọ bụ ụbọchị zuru oke nye 7's rugbi.",sports,sports,"SENTENCE:
+ Egwuregwu ji ihu igwe dị mma bido ebe elekere iri nke ụtụtụ, ewepụ igirigi yọrọ n'ụtụtụ nke gbachara ọsịsọ, ọ bụ ụbọchị zuru oke nye 7's rugbi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Arly Velaskwez, onye Megziko, gbara onye nke iri na ise na Supa-G ịnọ ọdụ nke ụmụ nwoke. Adam Họl, onye Niu Ziland, gbara onye nke itoolu na Supa-G nkwụmọtọ ụmụ nwoke.",sports,sports,"SENTENCE:
+ Arly Velaskwez, onye Megziko, gbara onye nke iri na ise na Supa-G ịnọ ọdụ nke ụmụ nwoke. Adam Họl, onye Niu Ziland, gbara onye nke itoolu na Supa-G nkwụmọtọ ụmụ nwoke. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"A ga-agba egwuregwu ikpeazụ nke ogbe a n'Elis Pak na Johanesbọg n'izu na-abịa abịa, mgbe ndị Sprịngbọks ga-agba Ọstrelia.",sports,sports,"SENTENCE:
+ A ga-agba egwuregwu ikpeazụ nke ogbe a n'Elis Pak na Johanesbọg n'izu na-abịa abịa, mgbe ndị Sprịngbọks ga-agba Ọstrelia. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+N'ọnọdụ dị mma i nwere ike ịgarute ntoanya buru ibu karịa ịga ije - mana ọ na-ara ahụ tupu i rute ekwomọsọ nke ime skii ofe mba n'enweghị otu akpa azụ dị arụ n'ime mkpọwaraụzọ akwadogwere.,sports,sports,"SENTENCE:
+ N'ọnọdụ dị mma i nwere ike ịgarute ntoanya buru ibu karịa ịga ije - mana ọ na-ara ahụ tupu i rute ekwomọsọ nke ime skii ofe mba n'enweghị otu akpa azụ dị arụ n'ime mkpọwaraụzọ akwadogwere. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Onye nke mbụ ji pọyịnt asaa gafee Jọnsịn, onye nke abụọ gbatara pọyịnt 2243.",sports,sports,"SENTENCE:
+ Onye nke mbụ ji pọyịnt asaa gafee Jọnsịn, onye nke abụọ gbatara pọyịnt 2243. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Ime egwuregwu n'ime ndagwurugwu (maọbụ: ime njegharị n'ime ndagwurugwu) bụ ihe gbasara ịga n’ala ala ndagwurugwu, nke nwere ike ịdị ọkọrọ maọbụ juputa na mmiri.",sports,travel,"SENTENCE:
+ Ime egwuregwu n'ime ndagwurugwu (maọbụ: ime njegharị n'ime ndagwurugwu) bụ ihe gbasara ịga n’ala ala ndagwurugwu, nke nwere ike ịdị ọkọrọ maọbụ juputa na mmiri. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Robin Uthappa nwetara akara kachasị na innings, ọsọ 70 n’ime naanị ụmụ bọọlụ 41 site n’ịkụ anọ ugboro 11 na isii ugboro 2.",sports,sports,"SENTENCE:
+ Robin Uthappa nwetara akara kachasị na innings, ọsọ 70 n’ime naanị ụmụ bọọlụ 41 site n’ịkụ anọ ugboro 11 na isii ugboro 2. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Egwuregwu oge oyi kachasị ewu ewu n'ugwu, ebe ndị mba Italy so asọ mpi n'egwuregwu mba na mba makwa na Olimpik.",sports,sports,"SENTENCE:
+ Egwuregwu oge oyi kachasị ewu ewu n'ugwu, ebe ndị mba Italy so asọ mpi n'egwuregwu mba na mba makwa na Olimpik. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Maroochydore mechara bụrụ onye nke mbụ n'ogo ahụ, o ji akara isii gafee Noosa bịara n'onye nke abụọ.",sports,sports,"SENTENCE:
+ Maroochydore mechara bụrụ onye nke mbụ n'ogo ahụ, o ji akara isii gafee Noosa bịara n'onye nke abụọ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Michael Schumacher kwụsịrị ọsọ ya n’oge na-etoghị anya mgbe Alonso mesịrị, n’ihi mmebi sọspenshọn n’ime ọtụtụ agha n’ime oge ọsọ ahụ.",sports,sports,"SENTENCE:
+ Michael Schumacher kwụsịrị ọsọ ya n’oge na-etoghị anya mgbe Alonso mesịrị, n’ihi mmebi sọspenshọn n’ime ọtụtụ agha n’ime oge ọsọ ahụ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Sọ oriri na-edozi ahụ agaghị eweta maka arụmọrụ pụrụ iche, mana onwere ike ịmetụta ọdịmma onye egwuruegwu gburugburu.",sports,sports,"SENTENCE:
+ Sọ oriri na-edozi ahụ agaghị eweta maka arụmọrụ pụrụ iche, mana onwere ike ịmetụta ọdịmma onye egwuruegwu gburugburu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+O nwebeghị ike ịn̄ụ ọgwụ ndị ahụ o kwesịrị iji merie mgbu ya dị ka a machibidoro ha iwu site n’Egwuregwu.,sports,sports,"SENTENCE:
+ O nwebeghị ike ịn̄ụ ọgwụ ndị ahụ o kwesịrị iji merie mgbu ya dị ka a machibidoro ha iwu site n’Egwuregwu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Nnyocha achọpụtala na ụmụ nwanyị bụ ihe yikarịrị ugboro abụọ inwe MS karịa ụmụ nwoke.,health,health,"SENTENCE:
+ Nnyocha achọpụtala na ụmụ nwanyị bụ ihe yikarịrị ugboro abụọ inwe MS karịa ụmụ nwoke. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: health</s>"
+"Ụfọdụ mmanya ike ndị megidere iwu nwere ike nwee ọtụtụ ihe adịghị mma n'ime ha na-agụnye metanọl, nke nwere ike ịkpata ikpu ìsì ma ọ bụ ọnwụ n'ime nha ndị dị obere.",health,travel,"SENTENCE:
+ Ụfọdụ mmanya ike ndị megidere iwu nwere ike nwee ọtụtụ ihe adịghị mma n'ime ha na-agụnye metanọl, nke nwere ike ịkpata ikpu ìsì ma ọ bụ ọnwụ n'ime nha ndị dị obere. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ọ bụghị egwu maọbụ ịda mba, kama ọ bụ naanị mmetụta nke iwebiga ihe ọjọọ karịa oke ka nnọkọta PA ahaziri ahazi kwa izu na-akpata.",health,sports,"SENTENCE:
+ Ọ bụghị egwu maọbụ ịda mba, kama ọ bụ naanị mmetụta nke iwebiga ihe ọjọọ karịa oke ka nnọkọta PA ahaziri ahazi kwa izu na-akpata. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Ọtụtụ mmadụ inwe ụgbọ ala na-ebutekwa nnukwu ihe mberede n'okporo ụzọ, nke na-eweta mmepụta usoro nleta ahụike ọhụrụ maka ịrụzi ahụ mebiri emebi.",health,travel,"SENTENCE:
+ Ọtụtụ mmadụ inwe ụgbọ ala na-ebutekwa nnukwu ihe mberede n'okporo ụzọ, nke na-eweta mmepụta usoro nleta ahụike ọhụrụ maka ịrụzi ahụ mebiri emebi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ndị isi nchọpụta sị na nke a nwere ike iweta maka nnyochapụta n'oge nke ọrịa kansa, ụkwara nta, obiri n'aja ọcha, na ịba nye ndị nọ n'ọrịa n'obodo ndị n'enweghị ego, ebe nnapụta n'aka ọrịa dịka kansa nke ara nwere ike ịbụ ọkara otu ọdị n'obodo ndị kara nwee ego.",health,health,"SENTENCE:
+ Ndị isi nchọpụta sị na nke a nwere ike iweta maka nnyochapụta n'oge nke ọrịa kansa, ụkwara nta, obiri n'aja ọcha, na ịba nye ndị nọ n'ọrịa n'obodo ndị n'enweghị ego, ebe nnapụta n'aka ọrịa dịka kansa nke ara nwere ike ịbụ ọkara otu ọdị n'obodo ndị kara nwee ego. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: health</s>"
+"Dr. Ehud Ur, ọkammụta nke ọgwụ na Mahadum Dalhousie nọ na Halifax, Nova Scotia na onye isi oche nke ngalaba ụlọ ọgwụ na sayensi ahụ nke Òtù Ọrịa Shuga ndị Kanada dọrọ aka na ntị na nnyocha ahụ ka nọ n’oge ndị mbụ ya.",health,health,"SENTENCE:
+ Dr. Ehud Ur, ọkammụta nke ọgwụ na Mahadum Dalhousie nọ na Halifax, Nova Scotia na onye isi oche nke ngalaba ụlọ ọgwụ na sayensi ahụ nke Òtù Ọrịa Shuga ndị Kanada dọrọ aka na ntị na nnyocha ahụ ka nọ n’oge ndị mbụ ya. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: health</s>"
+"Umuaka na abawakari nime otutu nsogbu, nihi na ha ""na etinye onwe ha na akparamagwa di-egwu, na aba n’ogu, ma na-ama ikikere ochichi aka n’ihu"" ebe ha na acho ikpali uburu ha, ebe-obu na akpaliteli uburu site na uzo esi eme ya.",health,entertainment,"SENTENCE:
+ Umuaka na abawakari nime otutu nsogbu, nihi na ha ""na etinye onwe ha na akparamagwa di-egwu, na aba n’ogu, ma na-ama ikikere ochichi aka n’ihu"" ebe ha na acho ikpali uburu ha, ebe-obu na akpaliteli uburu site na uzo esi eme ya. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Nke a nwere ike imetụta ndị mmadụ site n'ikuru mmiri o metụtara nke oke ikuku na ebili bugara n'ikuku.,health,travel,"SENTENCE:
+ Nke a nwere ike imetụta ndị mmadụ site n'ikuru mmiri o metụtara nke oke ikuku na ebili bugara n'ikuku. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Ụfọdụ ndị mmadụ kweere na ịnwe ọtụtụ nrọ nlezianya nke mmadụ kpatara na-agwụ ike.,health,entertainment,"SENTENCE:
+ Ụfọdụ ndị mmadụ kweere na ịnwe ọtụtụ nrọ nlezianya nke mmadụ kpatara na-agwụ ike. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Potro natara nlekota na ubu ya n’oge a mana were ike laghachi azu n’egwuregwu ahu.,health,sports,"SENTENCE:
+ Potro natara nlekota na ubu ya n’oge a mana were ike laghachi azu n’egwuregwu ahu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Ọzọ dịka ibe ya, ị jụ ime ihe a nwere nnukwu ntaramahụhụ: nnukwu ndamụmbà, ọtịtaahụ, nakwa ọnwụ n'ikpeazụ.",health,entertainment,"SENTENCE:
+ Ọzọ dịka ibe ya, ị jụ ime ihe a nwere nnukwu ntaramahụhụ: nnukwu ndamụmbà, ọtịtaahụ, nakwa ọnwụ n'ikpeazụ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Ndị ọrụ maka obodo nke Amstardam na Ebe ngosi ihe ndị mgbe ochie Anne Frank na-ekwu na osisi ahụ ebutela ọrịa n’iji ero ma dịkwa njọ makka ahụike ọha dịka ha na-agbagha na ọ nọbụrụ n’ezigbo ihe ize ndụ nke ịdapụga n’ofe.,health,travel,"SENTENCE:
+ Ndị ọrụ maka obodo nke Amstardam na Ebe ngosi ihe ndị mgbe ochie Anne Frank na-ekwu na osisi ahụ ebutela ọrịa n’iji ero ma dịkwa njọ makka ahụike ọha dịka ha na-agbagha na ọ nọbụrụ n’ezigbo ihe ize ndụ nke ịdapụga n’ofe. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ụlọ ọgwụ ahụ esorola ìwuùsòrò maka njikwa ọrịa ofufe, gụnyere iwepụta iche onye ọrịa ahụ site na ndị ọzọ iji gbochie mbufe ndị ọzọ ọrịa nwere ike ime.",health,health,"SENTENCE:
+ Ụlọ ọgwụ ahụ esorola ìwuùsòrò maka njikwa ọrịa ofufe, gụnyere iwepụta iche onye ọrịa ahụ site na ndị ọzọ iji gbochie mbufe ndị ọzọ ọrịa nwere ike ime. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: health</s>"
+Ụlọọrụ ikpe na ọchịchị onye kwuo uche ya na Haiti atụjela aka n'ọmụmụ sị na ndị agha udo UN nke Nepal bubatara ọrịa na Nepal n'amaghị ama.,health,politics,"SENTENCE:
+ Ụlọọrụ ikpe na ọchịchị onye kwuo uche ya na Haiti atụjela aka n'ọmụmụ sị na ndị agha udo UN nke Nepal bubatara ọrịa na Nepal n'amaghị ama. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: world politics</s>"
+"Ụmụ ọrịa na-efe efe n’onwe ha, ma ọ bụ ụmụ anụmanụ dị egwu nwere ike imerụ ma ọ bụ gbuo mmadụ n’ike, a na-ghị etozukarị oke dị ka ụmụ ahụhụ a na-achọghị.",health,travel,"SENTENCE:
+ Ụmụ ọrịa na-efe efe n’onwe ha, ma ọ bụ ụmụ anụmanụ dị egwu nwere ike imerụ ma ọ bụ gbuo mmadụ n’ike, a na-ghị etozukarị oke dị ka ụmụ ahụhụ a na-achọghị. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ụmụaka n'arịa ọrịa ADD na-enwe nramahụ ịgbado anya n'ihe dịka ọrụ ụlọakwụkwọ, mana ha nwere ike ịgbado anya n'ihe ha n'enwe ọñụ ime dịka egwuregwu m'ọbụ ile onyonyo ụmụaka nke na-amasị ha m'ọbụ ide ihe n'enweghị ntụpọ.",health,entertainment,"SENTENCE:
+ Ụmụaka n'arịa ọrịa ADD na-enwe nramahụ ịgbado anya n'ihe dịka ọrụ ụlọakwụkwọ, mana ha nwere ike ịgbado anya n'ihe ha n'enwe ọñụ ime dịka egwuregwu m'ọbụ ile onyonyo ụmụaka nke na-amasị ha m'ọbụ ide ihe n'enweghị ntụpọ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Na otu afo n’abia abia, onye butara nje nwere ibunye ya mmadu 10 ruo 15 n’eru ya nso.",health,travel,"SENTENCE:
+ Na otu afo n’abia abia, onye butara nje nwere ibunye ya mmadu 10 ruo 15 n’eru ya nso. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Oge ya bụ ọgụ gwụchara mgbe e wegara ndị merụrụ ahụ n'ụlọ ọgwụ, ihe dị ka ndị mkpọrọ 40 fọrọ afọ nọọrọ na mpụga, jụ ịlaghachi n'ime ụlọ mkpọrọ ha.",health,sports,"SENTENCE:
+ Oge ya bụ ọgụ gwụchara mgbe e wegara ndị merụrụ ahụ n'ụlọ ọgwụ, ihe dị ka ndị mkpọrọ 40 fọrọ afọ nọọrọ na mpụga, jụ ịlaghachi n'ime ụlọ mkpọrọ ha. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Eze gburugburu Ọgọstus bidoro na-ewe ndị dibia n'ọrụ ma bido rịị Roman Medịkal Kọọz nke mbụ ga-arụ ọrụ nlekọta mgbe alụsiri agha.,health,entertainment,"SENTENCE:
+ Eze gburugburu Ọgọstus bidoro na-ewe ndị dibia n'ọrụ ma bido rịị Roman Medịkal Kọọz nke mbụ ga-arụ ọrụ nlekọta mgbe alụsiri agha. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"N'agbanyeghị nke a, onye ọkwọ ụgbọ merụrụ ezigbo ahụ n'isi.",health,sports,"SENTENCE:
+ N'agbanyeghị nke a, onye ọkwọ ụgbọ merụrụ ezigbo ahụ n'isi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Ugbu a, anyị nwere ụmụ oke ọnwa anọ na-arịabu ọrịa shuga mana ha anaghị arịazi ya.",health,sports,"SENTENCE:
+ Ugbu a, anyị nwere ụmụ oke ọnwa anọ na-arịabu ọrịa shuga mana ha anaghị arịazi ya. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Ọrịa ịtụ nsị nke ime ahụ nwere ike ọ gaghị adị ire ozigbo. Ihe ngosipụta ya, dịka ọgbụgbọ, bụ ihe ndị na-emekwa n'ọtụtụ ọrịa ndị ọzọ. Ya mere na enweghi ike ịchọpụta ọrịa a ozigbo ozigbo.",health,health,"SENTENCE:
+ Ọrịa ịtụ nsị nke ime ahụ nwere ike ọ gaghị adị ire ozigbo. Ihe ngosipụta ya, dịka ọgbụgbọ, bụ ihe ndị na-emekwa n'ọtụtụ ọrịa ndị ọzọ. Ya mere na enweghi ike ịchọpụta ọrịa a ozigbo ozigbo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: health</s>"
+"N'ihi nke a ndị na-eme ihe ngosi na-ese igbo n'ebe ngosi ihe, ndị nwe ụlọ ngosi ihe na-akwadokwa ndị nlere anya ka ha sonye.",entertainment,entertainment,"SENTENCE:
+ N'ihi nke a ndị na-eme ihe ngosi na-ese igbo n'ebe ngosi ihe, ndị nwe ụlọ ngosi ihe na-akwadokwa ndị nlere anya ka ha sonye. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Erosmit akagbuola ihe ngosi ha fọdụrụ na njem ha.,entertainment,travel,"SENTENCE:
+ Erosmit akagbuola ihe ngosi ha fọdụrụ na njem ha. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Ọ bụrụ na ị chọrọ ịnọ nso na emereme ahụ ị ga-ekwesị ịbanye ọsịịsọ iji nweta otu ebe a na-ama ụlọikwu nọ nso n'egwu ahụ.,entertainment,travel,"SENTENCE:
+ Ọ bụrụ na ị chọrọ ịnọ nso na emereme ahụ ị ga-ekwesị ịbanye ọsịịsọ iji nweta otu ebe a na-ama ụlọikwu nọ nso n'egwu ahụ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+E nwere usoro ihe nlele dị iche iche eji mere ihe n'oge gara aga. Ihe nlele tozuru oke nke mm35 (negetivu 36 ga na 24) bụ nke dị ebe niile.,entertainment,entertainment,"SENTENCE:
+ E nwere usoro ihe nlele dị iche iche eji mere ihe n'oge gara aga. Ihe nlele tozuru oke nke mm35 (negetivu 36 ga na 24) bụ nke dị ebe niile. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"N’agbanyeghi na otutu ndi mmadu n’eme ya , Disney anaghi ekwe: i gaghi enye onye ozo tiketi gi.",entertainment,travel,"SENTENCE:
+ N’agbanyeghi na otutu ndi mmadu n’eme ya , Disney anaghi ekwe: i gaghi enye onye ozo tiketi gi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Nkebi nke ọbụla n'ihe nkiri ahụ ga-etinye uche n’otu isiokwu n’ime otu akwụkwọ akọwapụtara ma mgbe ahụ nyogharịa isiokwu ahụ site n’ọtụtụ akụkọ.,entertainment,entertainment,"SENTENCE:
+ Nkebi nke ọbụla n'ihe nkiri ahụ ga-etinye uche n’otu isiokwu n’ime otu akwụkwọ akọwapụtara ma mgbe ahụ nyogharịa isiokwu ahụ site n’ọtụtụ akụkọ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Etinyere ọtụtụ nnukwu igwe onyonyo n'ọtụtụ ebe na Rom, ka ndị mmadụ nwee ike kirie mmemme ahụ.",entertainment,entertainment,"SENTENCE:
+ Etinyere ọtụtụ nnukwu igwe onyonyo n'ọtụtụ ebe na Rom, ka ndị mmadụ nwee ike kirie mmemme ahụ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Sophocles na Aristophanes ka bụ ndị na-egwuri egwu na-ewu ewu ma a na-ewere egwuru egwu ha dị ka otu n'ime ọrụ akwụkwọ kachasị mma n'ụwa.,entertainment,entertainment,"SENTENCE:
+ Sophocles na Aristophanes ka bụ ndị na-egwuri egwu na-ewu ewu ma a na-ewere egwuru egwu ha dị ka otu n'ime ọrụ akwụkwọ kachasị mma n'ụwa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Ihe ngosi ọbụla gakwa enye ụmụ nkwanye maka akwụkwọ ndị nke ụmụaka kwesịrị ịchọ maka mgbe ha gara n’ọbaakwụkwọ ha.,entertainment,N/A,"SENTENCE:
+ Ihe ngosi ọbụla gakwa enye ụmụ nkwanye maka akwụkwọ ndị nke ụmụaka kwesịrị ịchọ maka mgbe ha gara n’ọbaakwụkwọ ha. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: education education</s>"
+"N'ụbọ ehwu ahụ, iji nwetakwuo ụhàraụdà, ị ga-eji ọfụ ikuku ndị ahụ n'ijikwu ọkwụkwa ma ọ bụ ekwomọsọ.",entertainment,sports,"SENTENCE:
+ N'ụbọ ehwu ahụ, iji nwetakwuo ụhàraụdà, ị ga-eji ọfụ ikuku ndị ahụ n'ijikwu ọkwụkwa ma ọ bụ ekwomọsọ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Ị nwere ike ịhụ piramidi n'ime itiri ma ị nwere ike ịhụ ha n'ịgbachi nkịtị tupu ihe ngosi ahụ ebido.,entertainment,entertainment,"SENTENCE:
+ Ị nwere ike ịhụ piramidi n'ime itiri ma ị nwere ike ịhụ ha n'ịgbachi nkịtị tupu ihe ngosi ahụ ebido. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Ụfọdụ ihe omume enwere ike ime ma anọrọ ya gụnyere ịchụ nta, ịkụ azụ, ise foto, ilele nnụnụ, na ịga n'ogige gụọ maka ihe ndị dị ndụ na gburugburu ha.",entertainment,travel,"SENTENCE:
+ Ụfọdụ ihe omume enwere ike ime ma anọrọ ya gụnyere ịchụ nta, ịkụ azụ, ise foto, ilele nnụnụ, na ịga n'ogige gụọ maka ihe ndị dị ndụ na gburugburu ha. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Edobere Sphinx ka ihe mgbakwasa na onye na ako akuko toro ogologo,entertainment,entertainment,"SENTENCE:
+ Edobere Sphinx ka ihe mgbakwasa na onye na ako akuko toro ogologo 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Ha na-enwekarị nri pụrụ iche, mmanya na ụmụ onyinye ntụrụndụ, iji debe ndị ọbịa n'ọnọdụ dị mma, ma debe ha n'ogige ahụ.",entertainment,travel,"SENTENCE:
+ Ha na-enwekarị nri pụrụ iche, mmanya na ụmụ onyinye ntụrụndụ, iji debe ndị ọbịa n'ọnọdụ dị mma, ma debe ha n'ogige ahụ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ka a na-akọ akụkọ n'asụsụ Bekee na asụsụ Japan ugbua, ụlọọrụ zuzugbe na-amalitebe ihe omume n'asụsụ Spenụ, Itali na Koria, maka televishọn, weebụ, na ngwaọrụ mkpanaka.",entertainment,entertainment,"SENTENCE:
+ Ka a na-akọ akụkọ n'asụsụ Bekee na asụsụ Japan ugbua, ụlọọrụ zuzugbe na-amalitebe ihe omume n'asụsụ Spenụ, Itali na Koria, maka televishọn, weebụ, na ngwaọrụ mkpanaka. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Tupu Simpsons Simon Ahụ arụọla ọrụ n’ọtụtụ ihe nkiri n’ọkwa dị iche iche.,entertainment,entertainment,"SENTENCE:
+ Tupu Simpsons Simon Ahụ arụọla ọrụ n’ọtụtụ ihe nkiri n’ọkwa dị iche iche. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Nke a ga-ekwe ka ndị na-egwu egwuregwu jikwaa ihe omume na njegharị n'egwuregwu vidiyo site na imegharị ngwa ọrụ ahụ n'ikuku.,entertainment,sports,"SENTENCE:
+ Nke a ga-ekwe ka ndị na-egwu egwuregwu jikwaa ihe omume na njegharị n'egwuregwu vidiyo site na imegharị ngwa ọrụ ahụ n'ikuku. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Opekata mpe ihe dịka 100 mmadụ gara nnọkọ ahụ, maka isonye na mmemme ncheta otu afọ alụmdinanwunye otu di na nwunye e mere agbamakwụkwọ ha n’afọ gara aga.",entertainment,entertainment,"SENTENCE:
+ Opekata mpe ihe dịka 100 mmadụ gara nnọkọ ahụ, maka isonye na mmemme ncheta otu afọ alụmdinanwunye otu di na nwunye e mere agbamakwụkwọ ha n’afọ gara aga. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Abụ abụọ sitere n’ihenkiri ahụ, Ọdishọn (Onye Iberibe Ahu Rọrọ Nrọ) na Obodo Kpakpandu gasị, nwetara aha maka abụ mbụ kacha mma. N’ihe nlere nke Lionsgate natara ntinye aka 26 — karia ihe ndi a.",entertainment,entertainment,"SENTENCE:
+ Abụ abụọ sitere n’ihenkiri ahụ, Ọdishọn (Onye Iberibe Ahu Rọrọ Nrọ) na Obodo Kpakpandu gasị, nwetara aha maka abụ mbụ kacha mma. N’ihe nlere nke Lionsgate natara ntinye aka 26 — karia ihe ndi a. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Crọstụ ahụ dị ihe dị ka km70 n'ịgba agba n'akụkụ ya dị nso na km100 n'ịgba ịgba n'akụkụ ya tere anya.,geography,travel,"SENTENCE:
+ Crọstụ ahụ dị ihe dị ka km70 n'ịgba agba n'akụkụ ya dị nso na km100 n'ịgba ịgba n'akụkụ ya tere anya. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Igakwuo ndida bu Mkpoda-mmiri Niagara ma mpaghara ugwu bu ulo nye nma udidi na emetubeghi aka nke Muskoka ma gafere.,geography,travel,"SENTENCE:
+ Igakwuo ndida bu Mkpoda-mmiri Niagara ma mpaghara ugwu bu ulo nye nma udidi na emetubeghi aka nke Muskoka ma gafere. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ala Ellsworth bụ mpaghara ndịna nke Penịnsụla, Oke osimiri Bellingshausen gbara ya gburugburu.",geography,travel,"SENTENCE:
+ Ala Ellsworth bụ mpaghara ndịna nke Penịnsụla, Oke osimiri Bellingshausen gbara ya gburugburu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Njem ngafe (ma ọ bụ Okporo ụzọ awara awara) Okporo Osisi ala nke Ndịda bụ okporo ụzọ dị kilomita 1600 site na Ọdụ ụgbọ McMurdo nọ na Oké Osimiri Ross ruo Okporo Osisi ala.,geography,travel,"SENTENCE:
+ Njem ngafe (ma ọ bụ Okporo ụzọ awara awara) Okporo Osisi ala nke Ndịda bụ okporo ụzọ dị kilomita 1600 site na Ọdụ ụgbọ McMurdo nọ na Oké Osimiri Ross ruo Okporo Osisi ala. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Dịrị ogologo gafee ebe ugwu nke Machu Picchu bụ ugwu mkpoda a, ọtụtụ mgbe na-abụkarị ndabere nye ọtụtụ fòto nke mkpọmkpọ ebe ndị ahụ.",geography,travel,"SENTENCE:
+ Dịrị ogologo gafee ebe ugwu nke Machu Picchu bụ ugwu mkpoda a, ọtụtụ mgbe na-abụkarị ndabere nye ọtụtụ fòto nke mkpọmkpọ ebe ndị ahụ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Enseladus bụ ihe kachasị enwukepụ ihe na sola sistem niile; ọ na-enwukepụ ihe dị ka pasent 90 nke ọkụ niile na-abịakwasa ya.,geography,science/technology,"SENTENCE:
+ Enseladus bụ ihe kachasị enwukepụ ihe na sola sistem niile; ọ na-enwukepụ ihe dị ka pasent 90 nke ọkụ niile na-abịakwasa ya. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+"O nweghị ihe ọzọ enwere ike ịhụ na-abụghị eluigwe dị n’elu gbachapụrụ, maa mma na ọtụtụ ugwu gbara gburugburu. Nanị obere nke ụwa ka enwere ike ịhụ ma ọ bụ nụ site n’ime nnukwu ọnụala ahụ.",geography,travel,"SENTENCE:
+ O nweghị ihe ọzọ enwere ike ịhụ na-abụghị eluigwe dị n’elu gbachapụrụ, maa mma na ọtụtụ ugwu gbara gburugburu. Nanị obere nke ụwa ka enwere ike ịhụ ma ọ bụ nụ site n’ime nnukwu ọnụala ahụ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ugbua maka Japan. Japan bụbu obodo isuo, dịka Briten.",geography,travel,"SENTENCE:
+ Ugbua maka Japan. Japan bụbu obodo isuo, dịka Briten. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Na nkacha elu ya, Ajọ ifufe Ebe okpomọkụ Gonu, agụrụ aha maka akpa nke akụkwọ osisi nkwụ n’ime asụsụ nke ndị Maldives, rutere ifufe nọgidesịrị ike nke kilomita 240 kwa awa (maịlị 149 kwa awa) .",geography,travel,"SENTENCE:
+ Na nkacha elu ya, Ajọ ifufe Ebe okpomọkụ Gonu, agụrụ aha maka akpa nke akụkwọ osisi nkwụ n’ime asụsụ nke ndị Maldives, rutere ifufe nọgidesịrị ike nke kilomita 240 kwa awa (maịlị 149 kwa awa) . 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"A gụnye ọdọ mmiri ga, mba Tọki nwere nha sụkwịya kilomita 783,562 (sụkwịya maịlụ 300,948), nke sụkwịya kilomita 755,688 (sụkwịya maịlụ 291,773) nọ na ndịda ọdịda anyanwụ Eshia, ma sụkwịya kilomita 23,764 (sụkwịya maịlụ 9174) anọrọ na Yuropu.",geography,travel,"SENTENCE:
+ A gụnye ọdọ mmiri ga, mba Tọki nwere nha sụkwịya kilomita 783,562 (sụkwịya maịlụ 300,948), nke sụkwịya kilomita 755,688 (sụkwịya maịlụ 291,773) nọ na ndịda ọdịda anyanwụ Eshia, ma sụkwịya kilomita 23,764 (sụkwịya maịlụ 9174) anọrọ na Yuropu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Sawụt Shetland Aịlands, nke a chọpụtara na 1819, bụ ebe ọtụtụ mba na-azọ; Agwaetiti nọ na ya karịrị ndị nọ ebe ọzọ, ebe agụtara iri na isii nọ n'ọrụ n'afọ 2020.",geography,travel,"SENTENCE:
+ Sawụt Shetland Aịlands, nke a chọpụtara na 1819, bụ ebe ọtụtụ mba na-azọ; Agwaetiti nọ na ya karịrị ndị nọ ebe ọzọ, ebe agụtara iri na isii nọ n'ọrụ n'afọ 2020. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Apia bụ isi obodo Samoa. Obodo ahụ nọ n'agwaetiti Upolu ma ma nwee ngụpụta mmadụ nke ji obere ihe ghara eru 40,000.",geography,travel,"SENTENCE:
+ Apia bụ isi obodo Samoa. Obodo ahụ nọ n'agwaetiti Upolu ma ma nwee ngụpụta mmadụ nke ji obere ihe ghara eru 40,000. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Dị ka oké mmiri ozuzo ahụ ka toro aka site n’imetụ n’ala, ọ ka na-ara ahụ inyocha etu o nwere ike isi metụta United States ma ọ bụ Caribbean.",geography,travel,"SENTENCE:
+ Dị ka oké mmiri ozuzo ahụ ka toro aka site n’imetụ n’ala, ọ ka na-ara ahụ inyocha etu o nwere ike isi metụta United States ma ọ bụ Caribbean. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Ọ kara taa ahụ n'okpuru marịa ma kara gbaa agba n'okpuru ụmụ ala ugwu ugwu ahụ.,geography,travel,"SENTENCE:
+ Ọ kara taa ahụ n'okpuru marịa ma kara gbaa agba n'okpuru ụmụ ala ugwu ugwu ahụ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Ọhịa ndị a abụghịkwa sọọsọ apịtị mangrov dị na ha – ha gụnyekwara ihe ndị ka fọrọ site n'oke ọhịa ndị juburu Ala nọ na mpaghara Ganjiz.,geography,travel,"SENTENCE:
+ Ọhịa ndị a abụghịkwa sọọsọ apịtị mangrov dị na ha – ha gụnyekwara ihe ndị ka fọrọ site n'oke ọhịa ndị juburu Ala nọ na mpaghara Ganjiz. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Maapụ ala ọma jijiji ụwa nke United States Geological Survey gosiri na ala ọma jijiji emeghị na Iceland n'izu gasịrị tupu nke a.,geography,travel,"SENTENCE:
+ Maapụ ala ọma jijiji ụwa nke United States Geological Survey gosiri na ala ọma jijiji emeghị na Iceland n'izu gasịrị tupu nke a. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Na-ezu ike n’elu otu n’ime ugwu ndị nọ n’uwgu nke Meeka, nnukwu ọnụala dịpụrụ adịpụ n’ozuzu site n’akụkụ ụwa ndị ọzọ niile",geography,travel,"SENTENCE:
+ Na-ezu ike n’elu otu n’ime ugwu ndị nọ n’uwgu nke Meeka, nnukwu ọnụala dịpụrụ adịpụ n’ozuzu site n’akụkụ ụwa ndị ọzọ niile 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"

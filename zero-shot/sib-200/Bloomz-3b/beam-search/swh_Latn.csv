@@ -1,0 +1,2449 @@
+text,actual_category,predicted_category,generated_text
+"Mabadiliko huongeza tofauti za kimaumbile, na uchaguzi huyaondoa katika mkusanyiko wa tofauti zilizoonyeshwa.",science/technology,entertainment,"SENTENCE:
+ Mabadiliko huongeza tofauti za kimaumbile, na uchaguzi huyaondoa katika mkusanyiko wa tofauti zilizoonyeshwa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Bomu hii gawanyiki hufanya kazi kwa kanuni kwamba nguvu huhitajika katika uundaji wa viini vyenye protoni na nutroni nyingi.,science/technology,science/technology,"SENTENCE:
+ Bomu hii gawanyiki hufanya kazi kwa kanuni kwamba nguvu huhitajika katika uundaji wa viini vyenye protoni na nutroni nyingi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+Nyuklia ina chembe mbili - nyutroni na protoni.,science/technology,science/technology,"SENTENCE:
+ Nyuklia ina chembe mbili - nyutroni na protoni. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+Hii imewezesha lenzi za kukuza kutoa picha zenye ubora unaoweza kulinganishwa na ule unaofikiwa na lenzi zenye urefu msingi usiobadilika.,science/technology,travel,"SENTENCE:
+ Hii imewezesha lenzi za kukuza kutoa picha zenye ubora unaoweza kulinganishwa na ule unaofikiwa na lenzi zenye urefu msingi usiobadilika. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ni bora kuliko wakala wa tovuti kwa sababu kadhaa: Huelekeza upya trafiki yote ya intaneti, si http pekee.",science/technology,N/A,"SENTENCE:
+ Ni bora kuliko wakala wa tovuti kwa sababu kadhaa: Huelekeza upya trafiki yote ya intaneti, si http pekee. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: tech</s>"
+Ubunifu wenye maingiliano huhitaji kwamba ukague tena dhana zako kuhusu uzalishaji wa midia na ujifunze kufikiria kwa njia zisizo nyoofu.,science/technology,entertainment,"SENTENCE:
+ Ubunifu wenye maingiliano huhitaji kwamba ukague tena dhana zako kuhusu uzalishaji wa midia na ujifunze kufikiria kwa njia zisizo nyoofu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Hii ilikuja kuwa desturi, lakini chuma kilisababisha kuharibika kwa magurudumu ya mbao ya magari ya kukokotwa.",science/technology,travel,"SENTENCE:
+ Hii ilikuja kuwa desturi, lakini chuma kilisababisha kuharibika kwa magurudumu ya mbao ya magari ya kukokotwa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Makundi ya simba yanatengenezwa na waume kati ya mmoja na watatu wazima wanaohusiana, pamoja na wengi wa kike kama thelathini na mashibli.",science/technology,sports,"SENTENCE:
+ Makundi ya simba yanatengenezwa na waume kati ya mmoja na watatu wazima wanaohusiana, pamoja na wengi wa kike kama thelathini na mashibli. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Ingawa Akili Bandia inahusishwa sana na tungo za kisayansi, Akili Bandia huunda sehemu muhimu sana ya tawi la sayansi ya kompyuta, kushughulikia tabia, mafunzo na marekebisho ya akili kwa mashine.",science/technology,N/A,"SENTENCE:
+ Ingawa Akili Bandia inahusishwa sana na tungo za kisayansi, Akili Bandia huunda sehemu muhimu sana ya tawi la sayansi ya kompyuta, kushughulikia tabia, mafunzo na marekebisho ya akili kwa mashine. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: education</s>"
+Uwiano-vipimo wa muundo huu (kugawa na kumi na mbili ili kupata uwiano rahisi zaidi wa namba kamili) basi husemekana kuwa 3:2.,science/technology,entertainment,"SENTENCE:
+ Uwiano-vipimo wa muundo huu (kugawa na kumi na mbili ili kupata uwiano rahisi zaidi wa namba kamili) basi husemekana kuwa 3:2. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Simu ya satelaiti sio kwa ujumla mbadala wa simu ya rununu, kwani lazima uwe nje wazi na kuona laini za satelaiti ili kupiga simu.",science/technology,travel,"SENTENCE:
+ Simu ya satelaiti sio kwa ujumla mbadala wa simu ya rununu, kwani lazima uwe nje wazi na kuona laini za satelaiti ili kupiga simu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ingawa njia za magari zilisheheni magogo sambamba ya miti, zilihuruhusu farasi kuzivuta kwa kasi zaidi na kuvuta mizigo mikubwa kiasi kwa barabara mbaya za siku.",science/technology,travel,"SENTENCE:
+ Ingawa njia za magari zilisheheni magogo sambamba ya miti, zilihuruhusu farasi kuzivuta kwa kasi zaidi na kuvuta mizigo mikubwa kiasi kwa barabara mbaya za siku. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Watu wameshajua kuhusu elementi za kimsingi za kemikali kama vile dhahabu, fedha, na shaba kutoka zamani, kwani hizi zote zinaweza kugunduliwa kwa maumbile katika hali ya asili na ni rahisi kuchimbuliwa kwa kutumia zana za zamani.",science/technology,science/technology,"SENTENCE:
+ Watu wameshajua kuhusu elementi za kimsingi za kemikali kama vile dhahabu, fedha, na shaba kutoka zamani, kwani hizi zote zinaweza kugunduliwa kwa maumbile katika hali ya asili na ni rahisi kuchimbuliwa kwa kutumia zana za zamani. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+Gurudumu limebadilisha dunia kwa njia za ajabu. Jambo kubwa zaidi ambalo gurudumu limetufanyia ni kutupatia uchukuzi rahisi na wa haraka.,science/technology,travel,"SENTENCE:
+ Gurudumu limebadilisha dunia kwa njia za ajabu. Jambo kubwa zaidi ambalo gurudumu limetufanyia ni kutupatia uchukuzi rahisi na wa haraka. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Hii hufanywa ili kuhakikisha picha inafunika skrini yote. Hiyo inaitwa kuskani kulikokithiri.,science/technology,entertainment,"SENTENCE:
+ Hii hufanywa ili kuhakikisha picha inafunika skrini yote. Hiyo inaitwa kuskani kulikokithiri. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Manowari za Ujerumani ziliitwa nyambizi. Wajerumani walikuwa wazuri sana kwa kuabiri na kuendesha manowari zao.,science/technology,N/A,"SENTENCE:
+ Manowari za Ujerumani ziliitwa nyambizi. Wajerumani walikuwa wazuri sana kwa kuabiri na kuendesha manowari zao. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: military</s>"
+"Ingawa hali yake ya mwili inaweza kubadilika, hali yake ya kikemikali inabaki ile ile.",science/technology,health,"SENTENCE:
+ Ingawa hali yake ya mwili inaweza kubadilika, hali yake ya kikemikali inabaki ile ile. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: health</s>"
+Nguvu za mvuto kwenye sura hutokea kwa sababu molekyuli za maji katika sura ya maji huvutana kwa nguvu zenyewe kwa zenyewe kuliko jinsi zinavyovutwa na molekyuli za hewa zilizo juu yake.,science/technology,travel,"SENTENCE:
+ Nguvu za mvuto kwenye sura hutokea kwa sababu molekyuli za maji katika sura ya maji huvutana kwa nguvu zenyewe kwa zenyewe kuliko jinsi zinavyovutwa na molekyuli za hewa zilizo juu yake. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Shida moja ya kawaida wakati wa kujaribu kubadilisha sinema kwenda kwa muundo wa DVD ni kuskani zaidi.,science/technology,entertainment,"SENTENCE:
+ Shida moja ya kawaida wakati wa kujaribu kubadilisha sinema kwenda kwa muundo wa DVD ni kuskani zaidi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Hususan, inadaiwa kuwa mtu anaweza kutambua ikiwa mtu anadanganya kwa kufasiri ishara ndogondogo kwa njia sahihi.",science/technology,sports,"SENTENCE:
+ Hususan, inadaiwa kuwa mtu anaweza kutambua ikiwa mtu anadanganya kwa kufasiri ishara ndogondogo kwa njia sahihi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Dhahabu inaweza kutengenezwa ikawa maumbo tofauti tofauti. Inaweza kuvingirishwa ikawa maumbo madogo.,science/technology,travel,"SENTENCE:
+ Dhahabu inaweza kutengenezwa ikawa maumbo tofauti tofauti. Inaweza kuvingirishwa ikawa maumbo madogo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Mfumo wa AI sasa hutumiwa mara nyingi katika nyanja za uchumi, dawa, uhandisi na jeshi, kama ulivyojengwa katika programu kadhaa za kompyuta za nyumbani na michezo ya video.",science/technology,entertainment,"SENTENCE:
+ Mfumo wa AI sasa hutumiwa mara nyingi katika nyanja za uchumi, dawa, uhandisi na jeshi, kama ulivyojengwa katika programu kadhaa za kompyuta za nyumbani na michezo ya video. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Bado inatolewa hadi wa leo, lakini kwa umuhimu zaidi uwiano wa kipengele chake umerithiwa na umbizo za kihisio cha picha za kamera za kidijitali.",science/technology,entertainment,"SENTENCE:
+ Bado inatolewa hadi wa leo, lakini kwa umuhimu zaidi uwiano wa kipengele chake umerithiwa na umbizo za kihisio cha picha za kamera za kidijitali. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Sheria ya thuluthi inayotumiwa vibaya na kudhihakiwa mara nyingi ni mwongozo rahisi unaounda uwezo huku ukidumisha kiwango cha mpango katika picha.,science/technology,entertainment,"SENTENCE:
+ Sheria ya thuluthi inayotumiwa vibaya na kudhihakiwa mara nyingi ni mwongozo rahisi unaounda uwezo huku ukidumisha kiwango cha mpango katika picha. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Hii haithibitishi tu kuwa baadhi ya dinosaria walikuwa na manyoya, nadharia ambayo tayari imezagaa, bali pia inatoa maelezo ambayo kijumla visukuku haviwezi, kama vile rangi na mpangilio wa pande-tatu.",science/technology,science/technology,"SENTENCE:
+ Hii haithibitishi tu kuwa baadhi ya dinosaria walikuwa na manyoya, nadharia ambayo tayari imezagaa, bali pia inatoa maelezo ambayo kijumla visukuku haviwezi, kama vile rangi na mpangilio wa pande-tatu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+"Mvuto wa lo ungewezaje kunivuta? Kama ungesimama katika uso wa lo, ungekuwa na uzani mdogo kuliko ulionao duniani.",science/technology,travel,"SENTENCE:
+ Mvuto wa lo ungewezaje kunivuta? Kama ungesimama katika uso wa lo, ungekuwa na uzani mdogo kuliko ulionao duniani. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+NextGen ni mfumo ambao Utawala wa Shirikisho la Anga unadai ungeruhusu ndege kutumia njia fupi na kuokoa mamilioni ya galoni za mafuta kila mwaka na kukata uzalishaji wa kaboni.,science/technology,travel,"SENTENCE:
+ NextGen ni mfumo ambao Utawala wa Shirikisho la Anga unadai ungeruhusu ndege kutumia njia fupi na kuokoa mamilioni ya galoni za mafuta kila mwaka na kukata uzalishaji wa kaboni. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Data ya neurobayolojia inatoa ushahidi wa mwili kwa mtazamo wa kinadharia kuhusu uchunguzi wa utambuzi. Kwa hivyo, inapunguza eneo la utafiti na kulifanya liwe maalum zaidi.",science/technology,health,"SENTENCE:
+ Data ya neurobayolojia inatoa ushahidi wa mwili kwa mtazamo wa kinadharia kuhusu uchunguzi wa utambuzi. Kwa hivyo, inapunguza eneo la utafiti na kulifanya liwe maalum zaidi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: health</s>"
+"Wakati wa hotuba yake ya masaa 2, alisema kwamba ""Leo Kampuni la Tofaa itaandaa tena simu hiyo, Tutafanya historia leo"".",science/technology,N/A,"SENTENCE:
+ Wakati wa hotuba yake ya masaa 2, alisema kwamba ""Leo Kampuni la Tofaa itaandaa tena simu hiyo, Tutafanya historia leo"". 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: tech</s>"
+Ubaya wa lenzi za kupanua au kupunguza mwonekano ni kwamba utata wa kiangalifu na idadi ya elementi za lenzi zinazohitajika kufikia urefu wa kiangalifu ni kubwa zaidi kuliko za lenzi kuu.,science/technology,travel,"SENTENCE:
+ Ubaya wa lenzi za kupanua au kupunguza mwonekano ni kwamba utata wa kiangalifu na idadi ya elementi za lenzi zinazohitajika kufikia urefu wa kiangalifu ni kubwa zaidi kuliko za lenzi kuu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ifananayo na rimoti ya runinga, kidhibiti hutumia sensa mbili zilizowekwa karibu na runinga ya mtumiaji ili kupata nafasi yake katika sehemu ya pande tatu.",science/technology,entertainment,"SENTENCE:
+ Ifananayo na rimoti ya runinga, kidhibiti hutumia sensa mbili zilizowekwa karibu na runinga ya mtumiaji ili kupata nafasi yake katika sehemu ya pande tatu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+. Wanasayansi wanasema manyoya ya mnyama huyu yalikuwa ya rangi ya kahawia-nyekundu upande wa juu na hafifu au rangi ya karotini upande wa chini.,science/technology,travel,"SENTENCE:
+ . Wanasayansi wanasema manyoya ya mnyama huyu yalikuwa ya rangi ya kahawia-nyekundu upande wa juu na hafifu au rangi ya karotini upande wa chini. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Kampaundi hizo mbili humenyuka pamojakutengeneza fuwele ambazo zinaweza kuzuia kazi za figo, watafiti chuoni walisema.",science/technology,science/technology,"SENTENCE:
+ Kampaundi hizo mbili humenyuka pamojakutengeneza fuwele ambazo zinaweza kuzuia kazi za figo, watafiti chuoni walisema. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+Hii hutoa ubora wa mwonekano karibu mara nne ya ule wa picha hasi ya milimita 35 (3136 mm2 dhidi ya 864).,science/technology,entertainment,"SENTENCE:
+ Hii hutoa ubora wa mwonekano karibu mara nne ya ule wa picha hasi ya milimita 35 (3136 mm2 dhidi ya 864). 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Shukrani kwa viungo vya kebo za nyuzi za kioo chini ya bahari katika Uropa na satelaiti pana yenye bendi za masafa mapana, Greenland imeunganishwa vizuri na asilimia 93 ya watu wana ufikiaji wa intaneti.",science/technology,travel,"SENTENCE:
+ Shukrani kwa viungo vya kebo za nyuzi za kioo chini ya bahari katika Uropa na satelaiti pana yenye bendi za masafa mapana, Greenland imeunganishwa vizuri na asilimia 93 ya watu wana ufikiaji wa intaneti. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Mojawapo ya programu maarufu sana katika kategoria hii ni Google Translate, ambayo huruhusu utafsiri nje ya mtandao baada ya kupakua data ya lugha inayotakikana.",science/technology,N/A,"SENTENCE:
+ Mojawapo ya programu maarufu sana katika kategoria hii ni Google Translate, ambayo huruhusu utafsiri nje ya mtandao baada ya kupakua data ya lugha inayotakikana. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: tech</s>"
+"Ina muundo sawa wa kimolekyuli iwe ni gesi, kioevu, au mango.",science/technology,N/A,"SENTENCE:
+ Ina muundo sawa wa kimolekyuli iwe ni gesi, kioevu, au mango. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: chemistry</s>"
+"Matumizi ya video za kurekodi imesababisha uvumbuzi muhimu katika tafsiri ya sauti ndogo, kusongeshwa kwa uso ambao hudumu sekunde ndogo kadhaa.",science/technology,entertainment,"SENTENCE:
+ Matumizi ya video za kurekodi imesababisha uvumbuzi muhimu katika tafsiri ya sauti ndogo, kusongeshwa kwa uso ambao hudumu sekunde ndogo kadhaa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Binadamu wamekuwa wakitengeneza na kutumia lenzi za kukuza kwa maelfu na maelfu ya miaka.,science/technology,entertainment,"SENTENCE:
+ Binadamu wamekuwa wakitengeneza na kutumia lenzi za kukuza kwa maelfu na maelfu ya miaka. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Haiko peke yake hata hivyo, majaribio, na jaribio ni upimaji ambao hutumiwa kuondoa nadharia moja au mbili zinazowezekana, kuuliza maswali, na kufanya uchunguzi pia huongoza utafiti wa kisayansi.",science/technology,science/technology,"SENTENCE:
+ Haiko peke yake hata hivyo, majaribio, na jaribio ni upimaji ambao hutumiwa kuondoa nadharia moja au mbili zinazowezekana, kuuliza maswali, na kufanya uchunguzi pia huongoza utafiti wa kisayansi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+"Hatimaye, magurudumu ya mbao yalibadilishwa na magurudumu ya vyuma. Mnamo 1767, reli za kwanza za vyuma kamili zilianzishwa.",science/technology,travel,"SENTENCE:
+ Hatimaye, magurudumu ya mbao yalibadilishwa na magurudumu ya vyuma. Mnamo 1767, reli za kwanza za vyuma kamili zilianzishwa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Huku kadi nyingi zikiwa nzuri kwa kupiga simu kila mahali, nyingine ni maalumu kwa kutoa gharama za chini za kupiga simu kwa vikundi mahususi vya mataifa.",science/technology,travel,"SENTENCE:
+ Huku kadi nyingi zikiwa nzuri kwa kupiga simu kila mahali, nyingine ni maalumu kwa kutoa gharama za chini za kupiga simu kwa vikundi mahususi vya mataifa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Darubini nyingi za utafiti za kisasa ni vifaa kuu katika maeneo ya mbali yaliyo na hali nzuri za angahewa.,science/technology,travel,"SENTENCE:
+ Darubini nyingi za utafiti za kisasa ni vifaa kuu katika maeneo ya mbali yaliyo na hali nzuri za angahewa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Sindano ya chuma cha pua huelea juu ya maji kwa sababu ya mvuto kwenye uso.,science/technology,travel,"SENTENCE:
+ Sindano ya chuma cha pua huelea juu ya maji kwa sababu ya mvuto kwenye uso. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Muundo wa 35mm kwa kweli, kwa kiasi Fulani unachanganya, 36mm kwa upana na 24mm kwa urefu.",science/technology,entertainment,"SENTENCE:
+ Muundo wa 35mm kwa kweli, kwa kiasi Fulani unachanganya, 36mm kwa upana na 24mm kwa urefu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Seli ni msingi na muhimu kwa kujifunza hali ya maisha, na kwa kweli mara nyingi inatambulika kama vitalu vya kujenga maisha.",science/technology,science/technology,"SENTENCE:
+ Seli ni msingi na muhimu kwa kujifunza hali ya maisha, na kwa kweli mara nyingi inatambulika kama vitalu vya kujenga maisha. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+Watoaji wa VPN (mtandao pepe wa kibinafsi) ya kibinafsi ni njia bora ya kukwepa uzuiaji wa kisiasa na uchujaji wa kibiashara wa IP kulingana na eneo.,science/technology,travel,"SENTENCE:
+ Watoaji wa VPN (mtandao pepe wa kibinafsi) ya kibinafsi ni njia bora ya kukwepa uzuiaji wa kisiasa na uchujaji wa kibiashara wa IP kulingana na eneo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Kituo kilidumisha mtazamo wake, licha ya upotezaji wa gurudumu tuzi mapema kwenye misheni ya kituo cha angani, hadi mwisho wa matembezi ya angani.",science/technology,travel,"SENTENCE:
+ Kituo kilidumisha mtazamo wake, licha ya upotezaji wa gurudumu tuzi mapema kwenye misheni ya kituo cha angani, hadi mwisho wa matembezi ya angani. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Watu wenye aina hii ya kufikiria wana mawazo ya kimantiki, wanaweza kukariri miundo, kutatua shida na kufanya majaribio ya kisayansi.",science/technology,science/technology,"SENTENCE:
+ Watu wenye aina hii ya kufikiria wana mawazo ya kimantiki, wanaweza kukariri miundo, kutatua shida na kufanya majaribio ya kisayansi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+"Paka mwitu hupenda kula wanyama wadogo. Hushika tumbili, nyoka, panya na ndege kama wanaweza. Karibu wanyama wote ambao paka mwitu huwinda ni wadogo kumliko.",science/technology,travel,"SENTENCE:
+ Paka mwitu hupenda kula wanyama wadogo. Hushika tumbili, nyoka, panya na ndege kama wanaweza. Karibu wanyama wote ambao paka mwitu huwinda ni wadogo kumliko. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Kamera ingine za muundo wa kati zinatumia muundo wa 6 kwa 6, kwa usahihi 56 kwa 56 hasi.",science/technology,entertainment,"SENTENCE:
+ Kamera ingine za muundo wa kati zinatumia muundo wa 6 kwa 6, kwa usahihi 56 kwa 56 hasi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Wasafiri wanashauriwa kwa dhati kujua kuhusu hatari yoyote ya anga mbaya inayoathiri eneo lao kwani huenda ikaathiri mipango yoyote ya usafiri.,travel,travel,"SENTENCE:
+ Wasafiri wanashauriwa kwa dhati kujua kuhusu hatari yoyote ya anga mbaya inayoathiri eneo lao kwani huenda ikaathiri mipango yoyote ya usafiri. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Mabasi huondoka kituo cha basi cha kati ya mawilaya (upande mwingine wa mto) siku nzima, ingawa mengi, haswa yale yanaoelekea mashariki na Jakar / Bumthang huondoka kati ya saa 6 na dakika 30 na saa 7 na dakika 30.",travel,travel,"SENTENCE:
+ Mabasi huondoka kituo cha basi cha kati ya mawilaya (upande mwingine wa mto) siku nzima, ingawa mengi, haswa yale yanaoelekea mashariki na Jakar / Bumthang huondoka kati ya saa 6 na dakika 30 na saa 7 na dakika 30. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Zinampa mpanda farasi utulivu mkubwa lakini zinaweza kuwa na wasiwasi wa kiusalama kwa sababu ya uwezo wa miguu ya mpanda farasi kukwama ndani yake.,travel,sports,"SENTENCE:
+ Zinampa mpanda farasi utulivu mkubwa lakini zinaweza kuwa na wasiwasi wa kiusalama kwa sababu ya uwezo wa miguu ya mpanda farasi kukwama ndani yake. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Nyingi ya safari za Baltic huwa na kukaa kwa muda mrefu katika St. Petersburg, Urusi.",travel,travel,"SENTENCE:
+ Nyingi ya safari za Baltic huwa na kukaa kwa muda mrefu katika St. Petersburg, Urusi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ushauri huo unachukulia kuwa wasafiri hawaibi, hawana uingiliaji, hawashiriki katika soko haramu, hawaombi, au kunyonya watu wengine kwa faida yao.",travel,travel,"SENTENCE:
+ Ushauri huo unachukulia kuwa wasafiri hawaibi, hawana uingiliaji, hawashiriki katika soko haramu, hawaombi, au kunyonya watu wengine kwa faida yao. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Kuna mambo mengi sana unayofaa kutilia maanani kabla na wakati wa kusafiri mahali.,travel,travel,"SENTENCE:
+ Kuna mambo mengi sana unayofaa kutilia maanani kabla na wakati wa kusafiri mahali. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Katika joto la siku, wasafiri wanaweza kuona mazigazi ambayo hutoa dhana ya maji (au vitu vingine).",travel,travel,"SENTENCE:
+ Katika joto la siku, wasafiri wanaweza kuona mazigazi ambayo hutoa dhana ya maji (au vitu vingine). 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Familia zilizo na watoto si jambo la kawaida, lakini baadhi ya hosteli huwaruhusu katika vyumba vya kibinafsi.",travel,travel,"SENTENCE:
+ Familia zilizo na watoto si jambo la kawaida, lakini baadhi ya hosteli huwaruhusu katika vyumba vya kibinafsi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Kwa mfano, kutembelea ngome katika Bonde la Loire, Bonde la Rhine au kusafiri katika maeneo ya kuvutia kwa Danube au kusafiri kwa mashua upande wa Mfereji wa Erie.",travel,travel,"SENTENCE:
+ Kwa mfano, kutembelea ngome katika Bonde la Loire, Bonde la Rhine au kusafiri katika maeneo ya kuvutia kwa Danube au kusafiri kwa mashua upande wa Mfereji wa Erie. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Inaweza kuwa afadhali kutumia wakala ambaye huhifadhi safari sawa na yako kila wakati.,travel,travel,"SENTENCE:
+ Inaweza kuwa afadhali kutumia wakala ambaye huhifadhi safari sawa na yako kila wakati. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Kulala kwenye nyumba za watu kwa muda kulianzishwa mnamo Januari 2004 baada ya mtengenezaji wa programu za kompyuta Casey Fenton kupata safari ya ndege ya bei nafuu kuelekea Aislandi lakini hakuwa na mahali pa kukaa.,travel,travel,"SENTENCE:
+ Kulala kwenye nyumba za watu kwa muda kulianzishwa mnamo Januari 2004 baada ya mtengenezaji wa programu za kompyuta Casey Fenton kupata safari ya ndege ya bei nafuu kuelekea Aislandi lakini hakuwa na mahali pa kukaa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Kwa jumla visa za wanafunzi huwa na mahitaji na utaratibu wa maombi tofauti na visa za kawaida za kitalii au kibiashara.,travel,N/A,"SENTENCE:
+ Kwa jumla visa za wanafunzi huwa na mahitaji na utaratibu wa maombi tofauti na visa za kawaida za kitalii au kibiashara. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: education</s>"
+Kila nchi pia ina sheria za kipekee zinazotaja ni vifaa vipi vya dharura unavyohitaji kuwa navyo garini mwako.,travel,travel,"SENTENCE:
+ Kila nchi pia ina sheria za kipekee zinazotaja ni vifaa vipi vya dharura unavyohitaji kuwa navyo garini mwako. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ingawa mashirika mengi ya uwakala yako tayari kufanya uhifadhi mwingi wa kawaida, mawakala wengi hushughulika na aina maalum za usafiri, masafa ya bajeti au mahali pa kwenda.",travel,travel,"SENTENCE:
+ Ingawa mashirika mengi ya uwakala yako tayari kufanya uhifadhi mwingi wa kawaida, mawakala wengi hushughulika na aina maalum za usafiri, masafa ya bajeti au mahali pa kwenda. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Wasafiri wanaweza kukutana na wadudu wa wanyama ambao hawawatambui kutoka maeneo yao ya nyumbani.,travel,travel,"SENTENCE:
+ Wasafiri wanaweza kukutana na wadudu wa wanyama ambao hawawatambui kutoka maeneo yao ya nyumbani. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Pia upande wa kaskazini tembelea Hekalu la Mama Yetu Fatima (Madhabahu), mahali maarufu duniani pa maonyesho ya Maria.",travel,travel,"SENTENCE:
+ Pia upande wa kaskazini tembelea Hekalu la Mama Yetu Fatima (Madhabahu), mahali maarufu duniani pa maonyesho ya Maria. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Unaweza kutumia boda-boda (teksi ya pikipiki) kuzunguka Goma. Nauli ya kawaida kwa wenyeji ni Franki 500 za Kongo kwa safari fupi.,travel,travel,"SENTENCE:
+ Unaweza kutumia boda-boda (teksi ya pikipiki) kuzunguka Goma. Nauli ya kawaida kwa wenyeji ni Franki 500 za Kongo kwa safari fupi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Kwa wale ambao hufurahia shughuli za nje, matembezi kwenye korido toka Baharini hadi Angani ni muhimu.",travel,travel,"SENTENCE:
+ Kwa wale ambao hufurahia shughuli za nje, matembezi kwenye korido toka Baharini hadi Angani ni muhimu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Safari ya miguu (ijulikanayo kama ""matembezi kichakani"", ""safari ya kukwea"", au kwenda ""kwa miguu"") hujumuisha ukweaji, iwe kwa saa chache au siku kadhaa.",travel,travel,"SENTENCE:
+ Safari ya miguu (ijulikanayo kama ""matembezi kichakani"", ""safari ya kukwea"", au kwenda ""kwa miguu"") hujumuisha ukweaji, iwe kwa saa chache au siku kadhaa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Njia pekee ya kuipitisha kwa haraka ilikuwa kuituma kama mzigo uliokaguliwa. Kanuni za kampuni za ndege hazitazikubalia kutuma mzigo bila abiria, ambapo ndipo unaingilia.",travel,travel,"SENTENCE:
+ Njia pekee ya kuipitisha kwa haraka ilikuwa kuituma kama mzigo uliokaguliwa. Kanuni za kampuni za ndege hazitazikubalia kutuma mzigo bila abiria, ambapo ndipo unaingilia. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Mwongezo wa 300 unaleta jumla ya magari 1,300 kutafutwa ili kupunguza msongamano.",travel,travel,"SENTENCE:
+ Mwongezo wa 300 unaleta jumla ya magari 1,300 kutafutwa ili kupunguza msongamano. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Huenda familia zilizo na watoto wadogo zikahitaji matayarisho mengi, lakini siku moja nje inawezekana kwa urahisi hata kukiwa na watoto wachanga na wale walio karibu kwenda shuleni.",travel,travel,"SENTENCE:
+ Huenda familia zilizo na watoto wadogo zikahitaji matayarisho mengi, lakini siku moja nje inawezekana kwa urahisi hata kukiwa na watoto wachanga na wale walio karibu kwenda shuleni. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Yeyote ambaye atakuwa akiendesha gari maeneo yaliyoinuka au vijia vya milimani anastahili kuzingatia uwezekano wa theluji, barafu, na baridi kali.",travel,travel,"SENTENCE:
+ Yeyote ambaye atakuwa akiendesha gari maeneo yaliyoinuka au vijia vya milimani anastahili kuzingatia uwezekano wa theluji, barafu, na baridi kali. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Leo hii, Timbuktu ni mji maskini, ingawa sifa zake huufanya kivutio cha watalii, na pia kuna uwanja wa ndege.",travel,travel,"SENTENCE:
+ Leo hii, Timbuktu ni mji maskini, ingawa sifa zake huufanya kivutio cha watalii, na pia kuna uwanja wa ndege. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Wakati wa barafu nyingi, barafu ya kutosha kukufanya ukwame inaweza kuanguka kwa muda mfupi.",travel,travel,"SENTENCE:
+ Wakati wa barafu nyingi, barafu ya kutosha kukufanya ukwame inaweza kuanguka kwa muda mfupi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ikiwa unataka kusafiri kuzunguka ulimwengu katika Kizio cha Kusini, machaguo ya ndege na mahali si mengi kwa sababu ya ukosefu wa ndege zinazosafiri kuvuka bahari.",travel,travel,"SENTENCE:
+ Ikiwa unataka kusafiri kuzunguka ulimwengu katika Kizio cha Kusini, machaguo ya ndege na mahali si mengi kwa sababu ya ukosefu wa ndege zinazosafiri kuvuka bahari. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Kampuni za ndege kama vile Emirates, Etihad Airways, Qatar Airways na Turkish Airlines zimepanua huduma zao pakubwa katika Afrika, na hutoa miunganisho kwenye miji mingi muhimu ya Afrika kwa bei bora kuliko kampuni nyingine za Uingereza.",travel,travel,"SENTENCE:
+ Kampuni za ndege kama vile Emirates, Etihad Airways, Qatar Airways na Turkish Airlines zimepanua huduma zao pakubwa katika Afrika, na hutoa miunganisho kwenye miji mingi muhimu ya Afrika kwa bei bora kuliko kampuni nyingine za Uingereza. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Hakuna usafiri wa ziada unaowekwa na treni za juu ya ardhi hazitasimama huko Wembley, na maegesho ya magari na vituo vya kuegesha na kusafiri havipatikani huko.",travel,travel,"SENTENCE:
+ Hakuna usafiri wa ziada unaowekwa na treni za juu ya ardhi hazitasimama huko Wembley, na maegesho ya magari na vituo vya kuegesha na kusafiri havipatikani huko. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Kwa ujumla, kukaa kwenye nchi ya kigeni kwa muda mrefu zaidi kunahitaji upate visa mapema.",travel,travel,"SENTENCE:
+ Kwa ujumla, kukaa kwenye nchi ya kigeni kwa muda mrefu zaidi kunahitaji upate visa mapema. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Kila treni ina kochi za MetroPlus na Metro; kila wakati kochi za MetroPlus huwa katika upande wa treni ulioko karibu na Cape Town.,travel,travel,"SENTENCE:
+ Kila treni ina kochi za MetroPlus na Metro; kila wakati kochi za MetroPlus huwa katika upande wa treni ulioko karibu na Cape Town. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Kila mtu hushiriki katika jamii na kutumia mifumo ya uchukuzi. Karibu kila mtu hulalamika kuhusu mifumo ya uchukuzi.,travel,travel,"SENTENCE:
+ Kila mtu hushiriki katika jamii na kutumia mifumo ya uchukuzi. Karibu kila mtu hulalamika kuhusu mifumo ya uchukuzi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Kwa kuwa maeneo hayo hayana idadi kubwa ya watu, na uchafuzi kidogo aghalabu huwa si tatizo, pia utaweza kufuruhia nyota.",travel,travel,"SENTENCE:
+ Kwa kuwa maeneo hayo hayana idadi kubwa ya watu, na uchafuzi kidogo aghalabu huwa si tatizo, pia utaweza kufuruhia nyota. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Mahitaji na gharama ya visa hutofautiana toka nchi hadi nchi na huathiriwa na nchini unakotoka.,travel,travel,"SENTENCE:
+ Mahitaji na gharama ya visa hutofautiana toka nchi hadi nchi na huathiriwa na nchini unakotoka. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Kuongea kwa jumla, hakuna haja ya hata kutafuta vipunguzo kwa biashara au viti vya daraja la kwanza katika safari za ndege za moja kwa moja toka A hadi B.",travel,travel,"SENTENCE:
+ Kuongea kwa jumla, hakuna haja ya hata kutafuta vipunguzo kwa biashara au viti vya daraja la kwanza katika safari za ndege za moja kwa moja toka A hadi B. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Utupaji wa bumarengi ni ujuzi maarufu ambao watalii wengi wanataka kupata.,travel,sports,"SENTENCE:
+ Utupaji wa bumarengi ni ujuzi maarufu ambao watalii wengi wanataka kupata. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Safari hii ya ndege siyo chaguo la pekee kama unataka kuruka Pasifiki Kusini na pwani ya magharibi ya Marekani Kusini. (tazama chini),travel,travel,"SENTENCE:
+ Safari hii ya ndege siyo chaguo la pekee kama unataka kuruka Pasifiki Kusini na pwani ya magharibi ya Marekani Kusini. (tazama chini) 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"San Francisko imekuza miundombinu kubwa ya watalii ambayo ni hoteli mikahawa, na vifaa vingi, vya kongamano vya hali ya juu.",travel,travel,"SENTENCE:
+ San Francisko imekuza miundombinu kubwa ya watalii ambayo ni hoteli mikahawa, na vifaa vingi, vya kongamano vya hali ya juu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Kujitolea wakati wa kusafiri ni njia nzuri ya kuleta mabadiliko lakini si kuhusu utoaji tu.,travel,travel,"SENTENCE:
+ Kujitolea wakati wa kusafiri ni njia nzuri ya kuleta mabadiliko lakini si kuhusu utoaji tu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Huenda watu wasitarajie kwamba uvumilivu na ufahamu pia ni muhimu kwa wasafiri wanaorudi nyumbani.,travel,travel,"SENTENCE:
+ Huenda watu wasitarajie kwamba uvumilivu na ufahamu pia ni muhimu kwa wasafiri wanaorudi nyumbani. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Usisahau kuongeza gharama za ziada za visa za ziada, ushuru wa kuondoka, usafiri kwenye ardhi, n.k., kwa sehemu hizo zote nje ya Afrika.",travel,travel,"SENTENCE:
+ Usisahau kuongeza gharama za ziada za visa za ziada, ushuru wa kuondoka, usafiri kwenye ardhi, n.k., kwa sehemu hizo zote nje ya Afrika. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Wakaaji kadhaa wa Bishkek waliwalaumu waandamanaji kutoka kusini kwa uvunjaji huo wa sheria.,politics,sports,"SENTENCE:
+ Wakaaji kadhaa wa Bishkek waliwalaumu waandamanaji kutoka kusini kwa uvunjaji huo wa sheria. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Baadhi ya sehemu za sasa za Ubelgiji zilikuwa sehemu ya Lusembagi zamani lakini zikawa za Kibelgiji baada ya Mapinduzi ya Kibelgiji ya 1830.,politics,travel,"SENTENCE:
+ Baadhi ya sehemu za sasa za Ubelgiji zilikuwa sehemu ya Lusembagi zamani lakini zikawa za Kibelgiji baada ya Mapinduzi ya Kibelgiji ya 1830. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Tangu 1988, ni lazima masanduku ya kura yawe maangavu ili wapigaji kura na wachunguzi waweze kushuhudia kwamba hakuna bahasha zinazoongezwa isipokuwa zile za wapigaji kura waliohesabiwa na kuidhinishwa.",politics,politics,"SENTENCE:
+ Tangu 1988, ni lazima masanduku ya kura yawe maangavu ili wapigaji kura na wachunguzi waweze kushuhudia kwamba hakuna bahasha zinazoongezwa isipokuwa zile za wapigaji kura waliohesabiwa na kuidhinishwa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+Kaimu Waziri Mkuu Julia Gillard alidai wakati wa kampeni ya uchaguzi wa ushirika wa 2010 kwamba aliamini Australia inafaa kuwa jamhuri mwishoni mwa utawala wa Malkia Elizabeth II.,politics,politics,"SENTENCE:
+ Kaimu Waziri Mkuu Julia Gillard alidai wakati wa kampeni ya uchaguzi wa ushirika wa 2010 kwamba aliamini Australia inafaa kuwa jamhuri mwishoni mwa utawala wa Malkia Elizabeth II. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+Serikali ya Ayalandi inasisitiza dharura ya sheria za bunge ili kurekebisha hali.,politics,politics,"SENTENCE:
+ Serikali ya Ayalandi inasisitiza dharura ya sheria za bunge ili kurekebisha hali. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+Hoja za kidiplomasia dhidi ya eneo hilo zinaendelea kutatiza uhusiano kati ya Armenia na Azerbaian.,politics,politics,"SENTENCE:
+ Hoja za kidiplomasia dhidi ya eneo hilo zinaendelea kutatiza uhusiano kati ya Armenia na Azerbaian. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: world politics</s>"
+"Waziri Mkuu Stephen Harper amekubali kutuma ‘Mkataba wa Hewa Safi’ wa serikali kwa kamati ya vyama vyote kwa ukaguzi, kabla ya kusomwa kwake kwa mara ya pili, baada ya mkutano wa Jumanne wa dakika 25 na kiongozi wa NDP Jack Layton kwenye PMO.",politics,politics,"SENTENCE:
+ Waziri Mkuu Stephen Harper amekubali kutuma ‘Mkataba wa Hewa Safi’ wa serikali kwa kamati ya vyama vyote kwa ukaguzi, kabla ya kusomwa kwake kwa mara ya pili, baada ya mkutano wa Jumanne wa dakika 25 na kiongozi wa NDP Jack Layton kwenye PMO. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+"Mwezi uliopita, kulikuwa na maandamano makubwa huko Poland wakati nchi hiyo ilisaini Mkataba wa Kupambana na Biashara za Bidhaa Bandia, ambao umesababisha serikali ya Polandi kuamua kutoidhinisha makubaliano hayo, kwa sasa.",politics,politics,"SENTENCE:
+ Mwezi uliopita, kulikuwa na maandamano makubwa huko Poland wakati nchi hiyo ilisaini Mkataba wa Kupambana na Biashara za Bidhaa Bandia, ambao umesababisha serikali ya Polandi kuamua kutoidhinisha makubaliano hayo, kwa sasa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: world politics</s>"
+Ushauri ni muhtasari mfupi tu wa hali ya kisiasa katika nchi moja.,politics,politics,"SENTENCE:
+ Ushauri ni muhtasari mfupi tu wa hali ya kisiasa katika nchi moja. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+"Wakati wa uteuzi wa 1976, alimshauri Carter kuhusu sera ya nje, kisha akafanya kazi kama Mshauri wa Usalama wa Kitaifa (NSA) kutoka 1977 hadi 1981, na alichukua hatamu kutoka kwa Henry Kissinger.",politics,politics,"SENTENCE:
+ Wakati wa uteuzi wa 1976, alimshauri Carter kuhusu sera ya nje, kisha akafanya kazi kama Mshauri wa Usalama wa Kitaifa (NSA) kutoka 1977 hadi 1981, na alichukua hatamu kutoka kwa Henry Kissinger. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+"Uturuki ilikua yachukua ulinzi wa wapiganaji wa ISIS waliotekwa ambao, tangazo lilisema kuwa, nchi za Ulaya zilikataa kurudi.",politics,politics,"SENTENCE:
+ Uturuki ilikua yachukua ulinzi wa wapiganaji wa ISIS waliotekwa ambao, tangazo lilisema kuwa, nchi za Ulaya zilikataa kurudi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: world politics</s>"
+"Hata hivyo, mipango hii ilipitwa na wakati usiku mmoja, wakati zaidi ya askari 800,000 kutoka Jeshi Jekundu la Umoja wa Kisovyeti lilipoingia na kuunda mipaka ya Belarusiani na Ukreini baada ya kuvamia maeneo ya mashariki mwa Polandi kwa kukiuka Mkataba wa Amani wa Riga, Mapatano ya Kisovyeti-Polishi Yasiyo ya Uchokozi, na mikataba mingine ya kimataifa, pande mbili na pande nyingi.",politics,politics,"SENTENCE:
+ Hata hivyo, mipango hii ilipitwa na wakati usiku mmoja, wakati zaidi ya askari 800,000 kutoka Jeshi Jekundu la Umoja wa Kisovyeti lilipoingia na kuunda mipaka ya Belarusiani na Ukreini baada ya kuvamia maeneo ya mashariki mwa Polandi kwa kukiuka Mkataba wa Amani wa Riga, Mapatano ya Kisovyeti-Polishi Yasiyo ya Uchokozi, na mikataba mingine ya kimataifa, pande mbili na pande nyingi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: world politics</s>"
+"Kufuatia mfumo huu, HJR-3 itakaguliwa tena na bunge litakaloteuliwa mnamo mwaka 2015 au 2016 ili kubaki katika mchakato.",politics,politics,"SENTENCE:
+ Kufuatia mfumo huu, HJR-3 itakaguliwa tena na bunge litakaloteuliwa mnamo mwaka 2015 au 2016 ili kubaki katika mchakato. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+"Baada ya kukubaliwa na Kongresi mnamo Julai 4, rasimu iliyoandikwa kwa hati ya mkono na kutiwa sahihi na Rais wa Kongresi John Hancock na Katibu Charles Thomson ilitumwa vitalu vichache kwa duka la uchapishaji la John Dunlap.",politics,N/A,"SENTENCE:
+ Baada ya kukubaliwa na Kongresi mnamo Julai 4, rasimu iliyoandikwa kwa hati ya mkono na kutiwa sahihi na Rais wa Kongresi John Hancock na Katibu Charles Thomson ilitumwa vitalu vichache kwa duka la uchapishaji la John Dunlap. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: culture</s>"
+"Muda mfupi baada ya saa 5, waandamanaji walizuia trafiki kwenye njia ya kuelekea kaskazini katika Whitehall.",politics,travel,"SENTENCE:
+ Muda mfupi baada ya saa 5, waandamanaji walizuia trafiki kwenye njia ya kuelekea kaskazini katika Whitehall. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Hata hivyo, mnamo Juni 1956, ahadi za Kruschev ziliwekwa katika jaribio wakati maandamano katika Polandi, ambapo wafanyakazi walikuwa wakipinga upungufu wa chakula na kukatwa kwa mishahara, yaligeuka kuwa maandamano ya jumla dhidi ya Ukomunisti.",politics,politics,"SENTENCE:
+ Hata hivyo, mnamo Juni 1956, ahadi za Kruschev ziliwekwa katika jaribio wakati maandamano katika Polandi, ambapo wafanyakazi walikuwa wakipinga upungufu wa chakula na kukatwa kwa mishahara, yaligeuka kuwa maandamano ya jumla dhidi ya Ukomunisti. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: world politics</s>"
+"Ilikuwa idumu kwa miaka 40 ijayo na ingepigwa kwa kweli na vikosi vya kiwakala, katika nyanja za vita toka Afrika hadi Asia, katika Afghanistani, Kuba na sehemu nyingine nyingi",politics,politics,"SENTENCE:
+ Ilikuwa idumu kwa miaka 40 ijayo na ingepigwa kwa kweli na vikosi vya kiwakala, katika nyanja za vita toka Afrika hadi Asia, katika Afghanistani, Kuba na sehemu nyingine nyingi 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: world politics</s>"
+Mwezi uliopita tume ya rais ilipendekeza kujiuzulu kwa CEP iliyotangulia kama sehemu ya kifurushi cha hatua za kusogeza nchi kuelekea uchaguzi mpya.,politics,politics,"SENTENCE:
+ Mwezi uliopita tume ya rais ilipendekeza kujiuzulu kwa CEP iliyotangulia kama sehemu ya kifurushi cha hatua za kusogeza nchi kuelekea uchaguzi mpya. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+Mada nyingine zilizoshughulikiwa inaripotiwa zinatia ndani hali ya baadaye ya Yerusalemu ambayo ni takatifu kwa mataifa yote mawili na suala la Bonde la Yordani.,politics,politics,"SENTENCE:
+ Mada nyingine zilizoshughulikiwa inaripotiwa zinatia ndani hali ya baadaye ya Yerusalemu ambayo ni takatifu kwa mataifa yote mawili na suala la Bonde la Yordani. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: world politics</s>"
+Pia haikuwa na mamlaka ya kupuuza sheria na orodha za ushuru kati ya majimbo.,politics,travel,"SENTENCE:
+ Pia haikuwa na mamlaka ya kupuuza sheria na orodha za ushuru kati ya majimbo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Sheria ya uchaguzi ya Ufaransa badala yake hupanga kesi hiyo kwenye msimbo. Madhubuti.,politics,politics,"SENTENCE:
+ Sheria ya uchaguzi ya Ufaransa badala yake hupanga kesi hiyo kwenye msimbo. Madhubuti. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+"Baada ya wiki ya kushindwa katika uchaguzi wa nusu muhula, Bush aliambia hadhira kuhusu upanuzi wa biashara katika Asia.",politics,politics,"SENTENCE:
+ Baada ya wiki ya kushindwa katika uchaguzi wa nusu muhula, Bush aliambia hadhira kuhusu upanuzi wa biashara katika Asia. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: world politics</s>"
+"Mkakati ulikuwa na ufanisi, kukatisha vifaa muhimu vya kijeshi na kiraia, ingawa kizuizi hiki kilikiuka sheria ya kimataifa ambayo inakubaliwa kwa jumla iliyoratibiwa na mikataba kadhaa ya kimataifa katika karne mbili zilizopita.",politics,politics,"SENTENCE:
+ Mkakati ulikuwa na ufanisi, kukatisha vifaa muhimu vya kijeshi na kiraia, ingawa kizuizi hiki kilikiuka sheria ya kimataifa ambayo inakubaliwa kwa jumla iliyoratibiwa na mikataba kadhaa ya kimataifa katika karne mbili zilizopita. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: world politics</s>"
+Viungo vya kiuchumi vimeanzishwa tena kati ya sehemu hizi mbili za Moldova licha ya kutofaulu kwa majadiliano ya kisiasa.,politics,politics,"SENTENCE:
+ Viungo vya kiuchumi vimeanzishwa tena kati ya sehemu hizi mbili za Moldova licha ya kutofaulu kwa majadiliano ya kisiasa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+"Akiongozana na maafisa hao, alihakikishia wananchi wa Texas kuwa hatua zilikua zinachukuliwa kulinda usalama wa umma.",politics,travel,"SENTENCE:
+ Akiongozana na maafisa hao, alihakikishia wananchi wa Texas kuwa hatua zilikua zinachukuliwa kulinda usalama wa umma. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Ukosoaji huru wa juhudi za ujenzi upya umezingatia utoaji wa kandarasi za ujenzi upya kwa wajuzi wanaodhaniwa wa Washington.,politics,N/A,"SENTENCE:
+ Ukosoaji huru wa juhudi za ujenzi upya umezingatia utoaji wa kandarasi za ujenzi upya kwa wajuzi wanaodhaniwa wa Washington. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: finance</s>"
+"Kwa watu 1,400 waliopiga kura ya maoni kabla ya uchaguzi wa 2010 wa shirikisho, wale wanaopinga Australia kuwa jamhuri waliongezeka kwa asilimia 8 tangu mwaka wa 2008.",politics,politics,"SENTENCE:
+ Kwa watu 1,400 waliopiga kura ya maoni kabla ya uchaguzi wa 2010 wa shirikisho, wale wanaopinga Australia kuwa jamhuri waliongezeka kwa asilimia 8 tangu mwaka wa 2008. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+Wanadiplomasia walisema kwamba walipata tata za kutosha katika katiba ya Kiafgani kuamua kwamba duru ya pili ya uchaguzi haikuwa ya lazima.,politics,politics,"SENTENCE:
+ Wanadiplomasia walisema kwamba walipata tata za kutosha katika katiba ya Kiafgani kuamua kwamba duru ya pili ya uchaguzi haikuwa ya lazima. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+"Baada ya matokeo kuingia, Gingrich alimpongeza Santorum, lakini alikuwa na maneno makali kwa Romney, ambaye matangazo hasi ya kampeni yalipeperushwa kwa niaba yake dhidi ya Gingrich.",politics,politics,"SENTENCE:
+ Baada ya matokeo kuingia, Gingrich alimpongeza Santorum, lakini alikuwa na maneno makali kwa Romney, ambaye matangazo hasi ya kampeni yalipeperushwa kwa niaba yake dhidi ya Gingrich. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+Ni CEP ya tano ya Martelly katika miaka minne.,politics,politics,"SENTENCE:
+ Ni CEP ya tano ya Martelly katika miaka minne. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+"Aliyeshinda nishani ya dhahabu ya Olimpiki alikuwa amepangiwa kuogelea katika mtindo huru wa mita 100 na mita 200 na mbio tatu za kupokezana vijiti katika Michezo ya Jumuiya ya Madola, lakini kwa sababu ya malalamiko yake uzima wake umekuwa na shaka.",sports,sports,"SENTENCE:
+ Aliyeshinda nishani ya dhahabu ya Olimpiki alikuwa amepangiwa kuogelea katika mtindo huru wa mita 100 na mita 200 na mbio tatu za kupokezana vijiti katika Michezo ya Jumuiya ya Madola, lakini kwa sababu ya malalamiko yake uzima wake umekuwa na shaka. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Pamoja na kuwa bingwa wa Olimpiki na Dunia, Saito alikuwa mwenyekiti wa kamati ya mafunzo ya Shirikisho la Judo la Japani wakati wa kifo chake.",sports,sports,"SENTENCE:
+ Pamoja na kuwa bingwa wa Olimpiki na Dunia, Saito alikuwa mwenyekiti wa kamati ya mafunzo ya Shirikisho la Judo la Japani wakati wa kifo chake. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Kamati ya Kimataifa ya Olimpiki ilipigia kura kujumuisha spoti hiyo katika mkutano wake mkuu wa bodi katika Berlin leo. Raga, hususan muungano wa raga, na gofu ziliteuliwa kushiriki katika Olimpiki.",sports,sports,"SENTENCE:
+ Kamati ya Kimataifa ya Olimpiki ilipigia kura kujumuisha spoti hiyo katika mkutano wake mkuu wa bodi katika Berlin leo. Raga, hususan muungano wa raga, na gofu ziliteuliwa kushiriki katika Olimpiki. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Mchuano mkubwa zaidi wa mwaka utafanyika mnamo Desemba kwenye nyanja za polo katika Las Kanitas.,sports,sports,"SENTENCE:
+ Mchuano mkubwa zaidi wa mwaka utafanyika mnamo Desemba kwenye nyanja za polo katika Las Kanitas. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Tangu kuhamia katika mji mkuu wa Catalan, Vidal alikuwa amechezea klabu yake michezo 49.",sports,sports,"SENTENCE:
+ Tangu kuhamia katika mji mkuu wa Catalan, Vidal alikuwa amechezea klabu yake michezo 49. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Kudumisha uwiano bora wa kawi, kuwa na mazoea ya unywaji wa maji yenye ufanisi, na kuelewa vipengele tofauti vya mazoea ya ziada kunaweza kusaidia wanariadha kuboresha utendaji wao na kuongeza raha yao katika spoti hiyo.",sports,sports,"SENTENCE:
+ Kudumisha uwiano bora wa kawi, kuwa na mazoea ya unywaji wa maji yenye ufanisi, na kuelewa vipengele tofauti vya mazoea ya ziada kunaweza kusaidia wanariadha kuboresha utendaji wao na kuongeza raha yao katika spoti hiyo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Akiwa wa tatu, Hamlin yuko nyuma kwa pointi ishirini, lakini tano mbele ya Bowyer. Kahne na Truex, mdogo, ni wa tano na sita mtawalia kwa alama 2,220 na 2,207.",sports,sports,"SENTENCE:
+ Akiwa wa tatu, Hamlin yuko nyuma kwa pointi ishirini, lakini tano mbele ya Bowyer. Kahne na Truex, mdogo, ni wa tano na sita mtawalia kwa alama 2,220 na 2,207. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Rekodi ya Nadal dhidi ya Kanada ni 7-2.,sports,sports,"SENTENCE:
+ Rekodi ya Nadal dhidi ya Kanada ni 7-2. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Jarque alikuwa akifanya mazoezi kabla ya msimu kwenye Coverciano katika Italia mapema katika siku. Alikuwa akikaa kwenye hoteli ya timu mbele ya mechi iliyopangiwa Jumapili dhidi ya Bolonia.,sports,sports,"SENTENCE:
+ Jarque alikuwa akifanya mazoezi kabla ya msimu kwenye Coverciano katika Italia mapema katika siku. Alikuwa akikaa kwenye hoteli ya timu mbele ya mechi iliyopangiwa Jumapili dhidi ya Bolonia. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Hofu ya ukosefu wa usafiri kulizua uwezekano kwamba mchezo huo ungelazimika kuchezwa nyuma ya milango iliyofungwa bila wafuasi wa timu hiyo.,sports,sports,"SENTENCE:
+ Hofu ya ukosefu wa usafiri kulizua uwezekano kwamba mchezo huo ungelazimika kuchezwa nyuma ya milango iliyofungwa bila wafuasi wa timu hiyo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Tommy Dreamer alisema, “Luna alikuwa Malkia wa kwanza wa Kukithiri. Meneja wangu wa kwanza. Luna aliaga dunia mnamo usiku wa miezi miwili. Kipekee kama alivyo tu. Mwanamke hodari.”",sports,entertainment,"SENTENCE:
+ Tommy Dreamer alisema, “Luna alikuwa Malkia wa kwanza wa Kukithiri. Meneja wangu wa kwanza. Luna aliaga dunia mnamo usiku wa miezi miwili. Kipekee kama alivyo tu. Mwanamke hodari.” 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Mtelezaji wa theluji asiyeona vizuri kutoka Poland Maciej Krezel na mwelekezi wake Anna Ogarzynska walimaliza wa kumi na tatu katika Super-G. Jong Seork Park kutoka Korea Kusini alimaliza wa ishirini na nne katika kikundi cha wanaume cha kuketi cha Super-G.,sports,sports,"SENTENCE:
+ Mtelezaji wa theluji asiyeona vizuri kutoka Poland Maciej Krezel na mwelekezi wake Anna Ogarzynska walimaliza wa kumi na tatu katika Super-G. Jong Seork Park kutoka Korea Kusini alimaliza wa ishirini na nne katika kikundi cha wanaume cha kuketi cha Super-G. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Kwa habari kuhusu michuano na mahali pa kununua tikiti za mechi za polo, angalia Asociacion Argentina de Polo.",sports,sports,"SENTENCE:
+ Kwa habari kuhusu michuano na mahali pa kununua tikiti za mechi za polo, angalia Asociacion Argentina de Polo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Michezo hiyo ilianza saa 10 asubuhi na hali nzuri ya hewa na ingawaje kulikuwa na manyunyu ya katikati ya asubuhi ambayo yaliisha haraka, ilikuwa siku nzuri kwa raga ya watu 7.",sports,sports,"SENTENCE:
+ Michezo hiyo ilianza saa 10 asubuhi na hali nzuri ya hewa na ingawaje kulikuwa na manyunyu ya katikati ya asubuhi ambayo yaliisha haraka, ilikuwa siku nzuri kwa raga ya watu 7. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Arly Velasquez wa Meksiko alimaliza kwa nafasi ya kumi na tano katika seti ya Super-G ya wanaume. Ukumbi wa Adam wa Zilandi Mpya lilimaliza wa tisa katika msimamo wa Super-G wa wanaume.,sports,sports,"SENTENCE:
+ Arly Velasquez wa Meksiko alimaliza kwa nafasi ya kumi na tano katika seti ya Super-G ya wanaume. Ukumbi wa Adam wa Zilandi Mpya lilimaliza wa tisa katika msimamo wa Super-G wa wanaume. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Mechi ya mwisho ya msururu itafanyika katika Ellis Park mjini Johannesburg wiki ijayo, wakati Springboks watakapocheza dhidi ya Australia.",sports,sports,"SENTENCE:
+ Mechi ya mwisho ya msururu itafanyika katika Ellis Park mjini Johannesburg wiki ijayo, wakati Springboks watakapocheza dhidi ya Australia. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Katika hali nzuri utaweza kufikia umbali mkubwa kiasi kuliko kutembea – lakini ni mara chache sana utapata kasi za kuteleza sehemu za mashambani bila shanta nzito katika njia zilizopitiwa awali.,sports,sports,"SENTENCE:
+ Katika hali nzuri utaweza kufikia umbali mkubwa kiasi kuliko kutembea – lakini ni mara chache sana utapata kasi za kuteleza sehemu za mashambani bila shanta nzito katika njia zilizopitiwa awali. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Kwa pointi saba nyuma, Johnson ni wa pili na 2,243.",sports,sports,"SENTENCE:
+ Kwa pointi saba nyuma, Johnson ni wa pili na 2,243. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Kuingia kwenye korongo (au: canyoneering) ni kuhusu kwenda chini ya korongo, ambayo imekauka au imejawa na maji.",sports,travel,"SENTENCE:
+ Kuingia kwenye korongo (au: canyoneering) ni kuhusu kwenda chini ya korongo, ambayo imekauka au imejawa na maji. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Robin Uthappa alifanya alama za juu za fursa, pointi 70 katika mipira 41 kwa kufikia nne 11 na sita 2.",sports,sports,"SENTENCE:
+ Robin Uthappa alifanya alama za juu za fursa, pointi 70 katika mipira 41 kwa kufikia nne 11 na sita 2. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Spoti za msimu wa baridi ni maarufu sana katika maeneo ya Kaskazini, ambako Waitaliano hushindana katika michezo ya kimataifa na ya Olimpiki.",sports,sports,"SENTENCE:
+ Spoti za msimu wa baridi ni maarufu sana katika maeneo ya Kaskazini, ambako Waitaliano hushindana katika michezo ya kimataifa na ya Olimpiki. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Maroochidore ilikuwa imemaliza juu ya ngazi, alama sita wazi mbele ya Noosa kwa nafasi ya pili.",sports,sports,"SENTENCE:
+ Maroochidore ilikuwa imemaliza juu ya ngazi, alama sita wazi mbele ya Noosa kwa nafasi ya pili. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Michael Schumacher alimaliza mbio zake muda mfupi baada ya Alonso, kwa sababu ya uharibifu wa mfumo wa kusimamisha gari, uliosababishwa na mapambano kadhaa wakati wa mbio hizo.",sports,sports,"SENTENCE:
+ Michael Schumacher alimaliza mbio zake muda mfupi baada ya Alonso, kwa sababu ya uharibifu wa mfumo wa kusimamisha gari, uliosababishwa na mapambano kadhaa wakati wa mbio hizo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Mazoea ya lishe sahihi pekee haiwezi kuzalisha usomi wa utendaji, ila yanaweza kuathiri kwa kiasi kikubwa na ustawi wa wakimbiaji wachanga kwa ujumla.",sports,sports,"SENTENCE:
+ Mazoea ya lishe sahihi pekee haiwezi kuzalisha usomi wa utendaji, ila yanaweza kuathiri kwa kiasi kikubwa na ustawi wa wakimbiaji wachanga kwa ujumla. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Hakuweza kunywa dawa zinazohitajika kutuliza maumivu yake kwani zimepigwa marufuku katika Michezo.,sports,sports,"SENTENCE:
+ Hakuweza kunywa dawa zinazohitajika kutuliza maumivu yake kwani zimepigwa marufuku katika Michezo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Utafiti umebainisha kuwa wanawake wana uwezekano maradufu wa kuugua selerosisiwingi kuliko wanaume.,health,health,"SENTENCE:
+ Utafiti umebainisha kuwa wanawake wana uwezekano maradufu wa kuugua selerosisiwingi kuliko wanaume. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: health</s>"
+"Mivinyo isiyo halali inaweza kuwa na uchafu mwingi hatari pamoja na methanoli, ambayo inaweza kusababisha upofu au kifo hata kwa kiasi kidogo.",health,sports,"SENTENCE:
+ Mivinyo isiyo halali inaweza kuwa na uchafu mwingi hatari pamoja na methanoli, ambayo inaweza kusababisha upofu au kifo hata kwa kiasi kidogo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Ni athari tu za kutia janga chumvi, si mafadhaiko na uoga, zilizokuwa na masharti ya vipindi vya PA vya mara kwa mara kila wiki.",health,sports,"SENTENCE:
+ Ni athari tu za kutia janga chumvi, si mafadhaiko na uoga, zilizokuwa na masharti ya vipindi vya PA vya mara kwa mara kila wiki. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Umiliki wa magari kwa wingi pia hupelekea matukio mengi ya ajali za barabarani, ambazo hupelekea uvumbuzi wa mbinu mpya katika matibabu za kutengeneza miili iliyovunjika.",health,travel,"SENTENCE:
+ Umiliki wa magari kwa wingi pia hupelekea matukio mengi ya ajali za barabarani, ambazo hupelekea uvumbuzi wa mbinu mpya katika matibabu za kutengeneza miili iliyovunjika. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Watafiti wakuu wanasema hili linaweza kuleta ugunduzi wa mapema wa saratani, kifua kikuu, ukimwi na malaria kwa wagonjwa katika nchi zenye mapato ya chini, ambapo viwango vya kupona kwa magonjwa kama vile saratani ya matiti vinaweza kuwa nusu ya vile vya nchi tajiri.",health,health,"SENTENCE:
+ Watafiti wakuu wanasema hili linaweza kuleta ugunduzi wa mapema wa saratani, kifua kikuu, ukimwi na malaria kwa wagonjwa katika nchi zenye mapato ya chini, ambapo viwango vya kupona kwa magonjwa kama vile saratani ya matiti vinaweza kuwa nusu ya vile vya nchi tajiri. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: health</s>"
+"Dak. Ehud Ur, profesa wa udaktari katika chuo kikuu cha Dalhousie kule Halifix, Nova Scotia na mwenyekiti wa kitengo cha kliniki na kisayansi kwenye ushirika wa ugonjwa wa kisukari nchini Canada alionya kuwa utafiti bado uko kwenye siku za mapema.",health,health,"SENTENCE:
+ Dak. Ehud Ur, profesa wa udaktari katika chuo kikuu cha Dalhousie kule Halifix, Nova Scotia na mwenyekiti wa kitengo cha kliniki na kisayansi kwenye ushirika wa ugonjwa wa kisukari nchini Canada alionya kuwa utafiti bado uko kwenye siku za mapema. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: health</s>"
+"Watoto hawa huingia kwenye shida nyingi kwa sababu “wanajihusisha na tabia hatari, wanaingia kwenye vita na kuipa changamoto mamlaka” ili kuchechemua akili zao kwa sababu akili zao haziwezi kuchechemuliwa kwa njia za kawaida.",health,N/A,"SENTENCE:
+ Watoto hawa huingia kwenye shida nyingi kwa sababu “wanajihusisha na tabia hatari, wanaingia kwenye vita na kuipa changamoto mamlaka” ili kuchechemua akili zao kwa sababu akili zao haziwezi kuchechemuliwa kwa njia za kawaida. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: education education</s>"
+Wanadamu waweza kuathiriwa kwa kupumua maji yaliyoathirika yaliyopelekwa hewani na upepo na mawimbi.,health,travel,"SENTENCE:
+ Wanadamu waweza kuathiriwa kwa kupumua maji yaliyoathirika yaliyopelekwa hewani na upepo na mawimbi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Watu wengine wanaamini kuwa kupata ndoto nyingi bandia mara nyingi kunaweza kuchosha sana.,health,entertainment,"SENTENCE:
+ Watu wengine wanaamini kuwa kupata ndoto nyingi bandia mara nyingi kunaweza kuchosha sana. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Potro alipokea matibabu begani mwake kwa wakati huu lakini akamudu kurejea kwenye mchezo.,health,sports,"SENTENCE:
+ Potro alipokea matibabu begani mwake kwa wakati huu lakini akamudu kurejea kwenye mchezo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Waaidha, kukosa kufanya hivyo kuna matokeo mazito: udidimiaji wa ukuaji, utapiamlo, na hatimaye kifo.",health,health,"SENTENCE:
+ Waaidha, kukosa kufanya hivyo kuna matokeo mazito: udidimiaji wa ukuaji, utapiamlo, na hatimaye kifo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: health</s>"
+Maafisa wa mji wa Amsterdam na Makavazi ya Anne Frank wanasema kwamba mti huo umeambukizwa kuvu na unatoa hatari kwa afya ya jamii kwani walisema kwamba ulikuwa katika hatari ya karibu ya kuanguka.,health,travel,"SENTENCE:
+ Maafisa wa mji wa Amsterdam na Makavazi ya Anne Frank wanasema kwamba mti huo umeambukizwa kuvu na unatoa hatari kwa afya ya jamii kwani walisema kwamba ulikuwa katika hatari ya karibu ya kuanguka. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Hospitali imefuata itifaki ya kudhibiti maambukizi, ikiwa ni pamoja na kutenga mgonjwa kutoka kwa wengine ili kuzuia uwezekano wa kuwaambukiza wengine.",health,health,"SENTENCE:
+ Hospitali imefuata itifaki ya kudhibiti maambukizi, ikiwa ni pamoja na kutenga mgonjwa kutoka kwa wengine ili kuzuia uwezekano wa kuwaambukiza wengine. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: health</s>"
+Taasisi ya Haki na Demokrasia ya Haiti imerejelea utafiti huru ambao unapendekeza kwamba kikosi cha kulinda amani cha Kinepali cha Umoja wa Mataifa kilileta ugonjwa huo Haiti bila kujua.,health,politics,"SENTENCE:
+ Taasisi ya Haki na Demokrasia ya Haiti imerejelea utafiti huru ambao unapendekeza kwamba kikosi cha kulinda amani cha Kinepali cha Umoja wa Mataifa kilileta ugonjwa huo Haiti bila kujua. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: world politics</s>"
+"Maradhi yenyewe ya kuambukiza, au wanyama hatari ambao wanaweza kujeruhi au kuua watu kwa nguvu, kwa kawaida hawahitimu kama wanyama-vipenzi.",health,travel,"SENTENCE:
+ Maradhi yenyewe ya kuambukiza, au wanyama hatari ambao wanaweza kujeruhi au kuua watu kwa nguvu, kwa kawaida hawahitimu kama wanyama-vipenzi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Watoto walio na ADD huwa na wakati mgumu kuangazia mambo kama kazi za shuleni, lakini wanaweza kukazia fikira mambo wanayopenda kuyafanya kama kucheza michezo au kutazama katuni zao vibwedo au kuandika sentensi bila kuakifisha.",health,N/A,"SENTENCE:
+ Watoto walio na ADD huwa na wakati mgumu kuangazia mambo kama kazi za shuleni, lakini wanaweza kukazia fikira mambo wanayopenda kuyafanya kama kucheza michezo au kutazama katuni zao vibwedo au kuandika sentensi bila kuakifisha. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: education</s>"
+"Katika mwaka mmoja, mtu aliyeambukizwa huenda akaambukiza wato 10-15 wa karibu.",health,travel,"SENTENCE:
+ Katika mwaka mmoja, mtu aliyeambukizwa huenda akaambukiza wato 10-15 wa karibu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Wakati mapigano yalipokoma na majeruhi kupelekwa hospitalini, takriban 40 wa wafungwa waliobaki walikaa kwenye yadi na kukataa kurudi kwenye seli zao.",health,sports,"SENTENCE:
+ Wakati mapigano yalipokoma na majeruhi kupelekwa hospitalini, takriban 40 wa wafungwa waliobaki walikaa kwenye yadi na kukataa kurudi kwenye seli zao. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Madaktari walianza kuajiriwa na Mtawala Augustus na hata kuunda kitengo kikubwa cha kwanza cha Matibabu cha Kirumi kwa ajili ya kutumika baada ya vita.,health,health,"SENTENCE:
+ Madaktari walianza kuajiriwa na Mtawala Augustus na hata kuunda kitengo kikubwa cha kwanza cha Matibabu cha Kirumi kwa ajili ya kutumika baada ya vita. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: health</s>"
+"Hata hivyo, dereva alipata majeraha mabaya kwenye kichwa.",health,sports,"SENTENCE:
+ Hata hivyo, dereva alipata majeraha mabaya kwenye kichwa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"""Sasa tuna panya wenye umri wa miezi minne ambao hawana kisukari ambao awali walikuwa na kisukari"", aliongeza.",health,sports,"SENTENCE:
+ ""Sasa tuna panya wenye umri wa miezi minne ambao hawana kisukari ambao awali walikuwa na kisukari"", aliongeza. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Sumu ya ndani inaweza kukosa kuwa dhahiri papo hapo. Dalili, kama vile kutapika ni jumla kiasi kwamba utambuzi wa mara moja hauwezi kufanywa.",health,travel,"SENTENCE:
+ Sumu ya ndani inaweza kukosa kuwa dhahiri papo hapo. Dalili, kama vile kutapika ni jumla kiasi kwamba utambuzi wa mara moja hauwezi kufanywa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Kama matokeo, watendaji huvuta misokoto ya bangi kwenye jukwaa, na ukumbi wenyewe unawahimiza hadhira kushiriki.",entertainment,entertainment,"SENTENCE:
+ Kama matokeo, watendaji huvuta misokoto ya bangi kwenye jukwaa, na ukumbi wenyewe unawahimiza hadhira kushiriki. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Aerosmith wameghairi maonyesho yaliyobaki katika ziara yao.,entertainment,entertainment,"SENTENCE:
+ Aerosmith wameghairi maonyesho yaliyobaki katika ziara yao. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Ikiwa ungetaka kuwa karibu na matukio utahitajika kurauka mapema ili upate eneo la kukita kambi karibu na muziki.,entertainment,travel,"SENTENCE:
+ Ikiwa ungetaka kuwa karibu na matukio utahitajika kurauka mapema ili upate eneo la kukita kambi karibu na muziki. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Kuna aina nyingi za filamu ambazo zimetumika kwa miaka. Filamu ya milimita 35 (kanda hasi ya milimita 36 kwa milimita 24) ni ya kawaida zaidi.,entertainment,entertainment,"SENTENCE:
+ Kuna aina nyingi za filamu ambazo zimetumika kwa miaka. Filamu ya milimita 35 (kanda hasi ya milimita 36 kwa milimita 24) ni ya kawaida zaidi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Ingawa hii ni shughuli ya kawaida sana, imekatazwa na Disney: tiketi haziwezi kuhamishwa.",entertainment,travel,"SENTENCE:
+ Ingawa hii ni shughuli ya kawaida sana, imekatazwa na Disney: tiketi haziwezi kuhamishwa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Kila kipindi cha onyesho kingeangazia mada katika kitabu maalum na kisha kuchunguza mada hiyo kupitia hadithi nyingi.,entertainment,entertainment,"SENTENCE:
+ Kila kipindi cha onyesho kingeangazia mada katika kitabu maalum na kisha kuchunguza mada hiyo kupitia hadithi nyingi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Skrini kadhaa kubwa za televisheni ziliangikwa mahali mbalimbali jijini Roma ili kuwezesha watu kutazama sherehe hiyo.,entertainment,entertainment,"SENTENCE:
+ Skrini kadhaa kubwa za televisheni ziliangikwa mahali mbalimbali jijini Roma ili kuwezesha watu kutazama sherehe hiyo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Sophocles na Aristophanes bado ni waandishi maarufu wa michezo ya kuigiza na michezo yao huzingatiwa kuwa miongoni mwa kazi kubwa za fasihi ya ulimwengu.,entertainment,entertainment,"SENTENCE:
+ Sophocles na Aristophanes bado ni waandishi maarufu wa michezo ya kuigiza na michezo yao huzingatiwa kuwa miongoni mwa kazi kubwa za fasihi ya ulimwengu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Kila onyesho pia lingetoa mapendekezo ya vitabu ambavyo watoto wangepaswa kutafuta walipokwenda katika maktaba.,entertainment,entertainment,"SENTENCE:
+ Kila onyesho pia lingetoa mapendekezo ya vitabu ambavyo watoto wangepaswa kutafuta walipokwenda katika maktaba. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Kwenye kodiani, kupata sauti ya ziada, unatumia viriba na shinikizo au kasi zaidi.",entertainment,entertainment,"SENTENCE:
+ Kwenye kodiani, kupata sauti ya ziada, unatumia viriba na shinikizo au kasi zaidi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Unaweza kuona piramidi gizani na unaweza kuziona katika utulivu kabla ya maonyesho kuanza.,entertainment,travel,"SENTENCE:
+ Unaweza kuona piramidi gizani na unaweza kuziona katika utulivu kabla ya maonyesho kuanza. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Mifano ya shughuli za eneoni ni pamoja na uwindaji, uvuvi, upigaji picha, kutazama ndege, na kutembelea mbuga na kusoma habari za mfumo wa ikolojia.",entertainment,travel,"SENTENCE:
+ Mifano ya shughuli za eneoni ni pamoja na uwindaji, uvuvi, upigaji picha, kutazama ndege, na kutembelea mbuga na kusoma habari za mfumo wa ikolojia. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Sphinx amewekwa kama usuli na msimulizi wa hadithi ndefu.,entertainment,entertainment,"SENTENCE:
+ Sphinx amewekwa kama usuli na msimulizi wa hadithi ndefu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Aghalabu huwa na chakula cha kipekee, vinywaji na matoleo ya burdani, ili kuwatumbuiza wageni na kuwatunza katika majengo yao.",entertainment,travel,"SENTENCE:
+ Aghalabu huwa na chakula cha kipekee, vinywaji na matoleo ya burdani, ili kuwatumbuiza wageni na kuwatunza katika majengo yao. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Tayari likiripoti kwa Kiingereza na Kijapani, shirika la kimataifa linazindua mipango ya lugha za Kihispania, Kiitaliano, na Kikorea, kwa televisheni, wavuti, na vifaa vya mkononi.",entertainment,entertainment,"SENTENCE:
+ Tayari likiripoti kwa Kiingereza na Kijapani, shirika la kimataifa linazindua mipango ya lugha za Kihispania, Kiitaliano, na Kikorea, kwa televisheni, wavuti, na vifaa vya mkononi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Kabla ya The Simpsons Simon alikuwa amefanyia kazi maonyesho kadhaa katika nafasi mbalimbali.,entertainment,entertainment,"SENTENCE:
+ Kabla ya The Simpsons Simon alikuwa amefanyia kazi maonyesho kadhaa katika nafasi mbalimbali. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Hii itawaruhusu wachezaji kudhibiti machaguo na misogeo katika michezo ya video kwa kusogeza kifaa hewani.,entertainment,entertainment,"SENTENCE:
+ Hii itawaruhusu wachezaji kudhibiti machaguo na misogeo katika michezo ya video kwa kusogeza kifaa hewani. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Angalau watu 100 walihudhuria sherehe hiyo, ili kusherehekea adhimisho la kwanza la wanandoa ambao harusi yao ilifanyika mwaka jana.",entertainment,entertainment,"SENTENCE:
+ Angalau watu 100 walihudhuria sherehe hiyo, ili kusherehekea adhimisho la kwanza la wanandoa ambao harusi yao ilifanyika mwaka jana. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Nyimbo mbili kutoka kwa sinema, Audition (The Fools Who Dream) na Mji wa Nyota, zilipendekezwa kuwa nyimbo bora asilia. Studio ya Lionsgate ilipendekezwa mara 26 – zaidi ya studio nyingine yoyote.",entertainment,entertainment,"SENTENCE:
+ Nyimbo mbili kutoka kwa sinema, Audition (The Fools Who Dream) na Mji wa Nyota, zilipendekezwa kuwa nyimbo bora asilia. Studio ya Lionsgate ilipendekezwa mara 26 – zaidi ya studio nyingine yoyote. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Uso wa dunia una upana wa karibu kilomita 70 kwa ukaribu na upana wa kilomita100 kwa umbali.,geography,travel,"SENTENCE:
+ Uso wa dunia una upana wa karibu kilomita 70 kwa ukaribu na upana wa kilomita100 kwa umbali. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Mbali zaidi upande wa kusini ni Maporomoko ya Maji ya Niagara na upande wa kaskazini ni kiini cha urembo usiyofichwa cha Muskoka na zaidi.,geography,travel,"SENTENCE:
+ Mbali zaidi upande wa kusini ni Maporomoko ya Maji ya Niagara na upande wa kaskazini ni kiini cha urembo usiyofichwa cha Muskoka na zaidi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ellsworth Land ni mkoa kusini mwa Peninsula, unaopakana na Bahari la Bellingshausen.",geography,travel,"SENTENCE:
+ Ellsworth Land ni mkoa kusini mwa Peninsula, unaopakana na Bahari la Bellingshausen. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Njia ya Ncha ya Kusini (au Barabara Kuu) ni njia yenye urefu wa kilomita 1600 kutoka Kituo cha McMurdo katika Bahari ya Ross hadi kwenye ncha.,geography,travel,"SENTENCE:
+ Njia ya Ncha ya Kusini (au Barabara Kuu) ni njia yenye urefu wa kilomita 1600 kutoka Kituo cha McMurdo katika Bahari ya Ross hadi kwenye ncha. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Juu ya mwisho wa kaskazini mwa Machu Picchu ni mlima ulio na mwinuko, mara nyingi ni uwanja wa nyuma wa picha nyingi za magofu.",geography,travel,"SENTENCE:
+ Juu ya mwisho wa kaskazini mwa Machu Picchu ni mlima ulio na mwinuko, mara nyingi ni uwanja wa nyuma wa picha nyingi za magofu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Enceladus ndicho kitu kinachoakisi zaidi kwenye mfumo wa jua, ikiakisi takribani asilimia 90 ya jua inayoifikia.",geography,science/technology,"SENTENCE:
+ Enceladus ndicho kitu kinachoakisi zaidi kwenye mfumo wa jua, ikiakisi takribani asilimia 90 ya jua inayoifikia. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+Hakuna kingine kinachoweza kuonekana ila anga safi na nzuri huko juu na milima mingi inayolizunguka. Ni machache sana ya dunia hii yanayoweza kuonwa au kusikiwa ndani ya pango hili.,geography,travel,"SENTENCE:
+ Hakuna kingine kinachoweza kuonekana ila anga safi na nzuri huko juu na milima mingi inayolizunguka. Ni machache sana ya dunia hii yanayoweza kuonwa au kusikiwa ndani ya pango hili. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Sasa kwa Japani. Japani ilikuwa nchi ya kisiwa, kama vile Uingereza.",geography,travel,"SENTENCE:
+ Sasa kwa Japani. Japani ilikuwa nchi ya kisiwa, kama vile Uingereza. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Katika kilele chake, Kimbunga cha Kitropiki cha Gonu, kilichopatiwa jina la begi la majani ya mtende kwa lugha ya Maldivi, kililifikia pepo imara za kilomita 240 kwa saa (maili 149 kwa saa).",geography,travel,"SENTENCE:
+ Katika kilele chake, Kimbunga cha Kitropiki cha Gonu, kilichopatiwa jina la begi la majani ya mtende kwa lugha ya Maldivi, kililifikia pepo imara za kilomita 240 kwa saa (maili 149 kwa saa). 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Sehemu ya Uturuki, pamoja na maziwa, imekalia kilomita mraba 783, 562 (maili mraba 300, 948), ambazo kilomita mraba 755,688 (maili mraba 291,773) kati yake ziko kusini magharibi mwa Asia na kilomita mraba 23,764 (maili mraba 9,174) ziko barani Ulaya.",geography,travel,"SENTENCE:
+ Sehemu ya Uturuki, pamoja na maziwa, imekalia kilomita mraba 783, 562 (maili mraba 300, 948), ambazo kilomita mraba 755,688 (maili mraba 291,773) kati yake ziko kusini magharibi mwa Asia na kilomita mraba 23,764 (maili mraba 9,174) ziko barani Ulaya. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Visiwa vya kusini mwa Shetlandi, vilivyogunduliwa mnamo 1819, vinadaiwa kuwa milki ya mataifa kadhaa na vina misingi mingi, ikiwemo kumi na sita iliyo hai mnamo 2020.",geography,travel,"SENTENCE:
+ Visiwa vya kusini mwa Shetlandi, vilivyogunduliwa mnamo 1819, vinadaiwa kuwa milki ya mataifa kadhaa na vina misingi mingi, ikiwemo kumi na sita iliyo hai mnamo 2020. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Apia ni mji mkuu wa Samoa. Mji huo uko kwenye kisiwa cha Upolu na lina watu chini ya 40,000.",geography,travel,"SENTENCE:
+ Apia ni mji mkuu wa Samoa. Mji huo uko kwenye kisiwa cha Upolu na lina watu chini ya 40,000. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Wakati dhoruba bado haijafikia kuporomoka kwa ardhi, inabakia kuwa vigumu kupima athari zinazoweza kukumba Marekani au Karibian.",geography,travel,"SENTENCE:
+ Wakati dhoruba bado haijafikia kuporomoka kwa ardhi, inabakia kuwa vigumu kupima athari zinazoweza kukumba Marekani au Karibian. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Chini ya maria huwa nyembamba lakini nzito chini ya nyanda za juu.,geography,travel,"SENTENCE:
+ Chini ya maria huwa nyembamba lakini nzito chini ya nyanda za juu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Misitu hiyo si mikoko ya mabwawa tu - inajumuisha baadhi ya misitu mikuu iliyosalia ambayo kwa wakati mmoja ilikuwa imefunikwa na tambarare ya Gaengitiki.,geography,travel,"SENTENCE:
+ Misitu hiyo si mikoko ya mabwawa tu - inajumuisha baadhi ya misitu mikuu iliyosalia ambayo kwa wakati mmoja ilikuwa imefunikwa na tambarare ya Gaengitiki. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Ramani ya kimataifa ya zilizala ya Utafiti wa Jiolojia wa Marekani haikuonyesha zilizala huko Aisilandi katika wiki iliyotangulia.,geography,travel,"SENTENCE:
+ Ramani ya kimataifa ya zilizala ya Utafiti wa Jiolojia wa Marekani haikuonyesha zilizala huko Aisilandi katika wiki iliyotangulia. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Likiwa juu ya mojawapo ya milima kaskazini mwa Mecca, pango hilo limetengwa kabisa na ulimwengu.",geography,travel,"SENTENCE:
+ Likiwa juu ya mojawapo ya milima kaskazini mwa Mecca, pango hilo limetengwa kabisa na ulimwengu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"

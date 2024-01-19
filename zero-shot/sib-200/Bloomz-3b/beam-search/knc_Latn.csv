@@ -1,0 +1,2449 @@
+text,actual_category,predicted_category,generated_text
+"Faltәye hal kaduwube bәlin kәlzәgәna, kuru karnoye samno hal njirgatadәn cutulowo.",science/technology,travel,"SENTENCE:
+ Faltәye hal kaduwube bәlin kәlzәgәna, kuru karnoye samno hal njirgatadәn cutulowo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Bomb fishinbedә kәla ka’ida doni nucleus protonna-a neutronna-a kada’adә kәltәro duno mәradәtәnayen cidajin.,science/technology,science/technology,"SENTENCE:
+ Bomb fishinbedә kәla ka’ida doni nucleus protonna-a neutronna-a kada’adә kәltәro duno mәradәtәnayen cidajin. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+Nucleusdә suronzәn awowa indi mbeji - neutrons-a protons-a.,science/technology,science/technology,"SENTENCE:
+ Nucleusdә suronzәn awowa indi mbeji - neutrons-a protons-a. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+"Adǝye kemura cintǝn suwura gotǝbe lensdǝga sǝkǝ suwuradǝa ngǝlaro gojin ye kuru raktǝ shiga rokko kemura lensebero gǝretǝyin, kayimelaa baye kamgata ro lezǝnyin.",science/technology,travel,"SENTENCE:
+ Adǝye kemura cintǝn suwura gotǝbe lensdǝga sǝkǝ suwuradǝa ngǝlaro gojin ye kuru raktǝ shiga rokko kemura lensebero gǝretǝyin, kayimelaa baye kamgata ro lezǝnyin. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Sandi dǝ web proksiz so dǝga kozana dalili: zawalla intanetye samma so kǝlzǝna , http bas gǝnyi.",science/technology,N/A,"SENTENCE:
+ Sandi dǝ web proksiz so dǝga kozana dalili: zawalla intanetye samma so kǝlzǝna , http bas gǝnyi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: tech</s>"
+Zandedo yikǝmtulobedǝ tǝmandǝmga waltǝm kuru kǝla lamarwa hawarbedǝa tandoben kuru nazaru diwal kalkaljinlan kǝro.,science/technology,travel,"SENTENCE:
+ Zandedo yikǝmtulobedǝ tǝmandǝmga waltǝm kuru kǝla lamarwa hawarbedǝa tandoben kuru nazaru diwal kalkaljinlan kǝro. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Adә isә kәndo noataro wallono, amma sudәye taya darkuwabe katakauye au kәskayedә zuwin.",science/technology,travel,"SENTENCE:
+ Adә isә kәndo noataro wallono, amma sudәye taya darkuwabe katakauye au kәskayedә zuwin. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Prides də sandima bəndi konguwabe kura-kura fallin səta yakkəro saadin, dawunzan kamuwanzaa dulinzaa fiyakkən samin mbezai.",science/technology,travel,"SENTENCE:
+ Prides də sandima bəndi konguwabe kura-kura fallin səta yakkəro saadin, dawunzan kamuwanzaa dulinzaa fiyakkən samin mbezai. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Attǝson yaye AI dǝ ilmu dunowa nowata dǝwa kozǝna tafakkarbe shilan mbeji, AI dǝ zauro foto faidawa computer be, halro cidazǝyin, sǝlin kuru awo bǝlin mashin ye so asujin.",science/technology,entertainment,"SENTENCE:
+ Attǝson yaye AI dǝ ilmu dunowa nowata dǝwa kozǝna tafakkarbe shilan mbeji, AI dǝ zauro foto faidawa computer be, halro cidazǝyin, sǝlin kuru awo bǝlin mashin ye so asujin. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Fasaldo ratiobe (gagade megun indinro yakkata, sawu lamba ratiobe) adǝ nankadǝro futugultǝna ladǝn 3:2.",science/technology,entertainment,"SENTENCE:
+ Fasaldo ratiobe (gagade megun indinro yakkata, sawu lamba ratiobe) adǝ nankadǝro futugultǝna ladǝn 3:2. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Waya manaye satilaitye dǝ waya muskoye so dǝga faltinmba, dalil dǝ shi illa diya farak ro luwum nyiya satalait dǝye surinl lan dǝwone rangǝm waya bakkǝmin.",science/technology,travel,"SENTENCE:
+ Waya manaye satilaitye dǝ waya muskoye so dǝga faltinmba, dalil dǝ shi illa diya farak ro luwum nyiya satalait dǝye surinl lan dǝwone rangǝm waya bakkǝmin. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Zawalla darkuwabedә flankә katakauye indi bas lan cetando yaye, fәrra sandiya gәrzayin dә’a kolza duwaro lezayin kuru raksa kare kәrau ngәwu gәrzayin zawal kәrsasa loktudәye’a kozәnaro.",science/technology,travel,"SENTENCE:
+ Zawalla darkuwabedә flankә katakauye indi bas lan cetando yaye, fәrra sandiya gәrzayin dә’a kolza duwaro lezayin kuru raksa kare kәrau ngәwu gәrzayin zawal kәrsasa loktudәye’a kozәnaro. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Am soye kuren awowa kimiyabe jili dinarso, liulaso, njar kimeso nozana, sau awowa anyi samma alagәlaro fodutin kuru karewa cidabe kәske lan latәnza butu.",science/technology,travel,"SENTENCE:
+ Am soye kuren awowa kimiyabe jili dinarso, liulaso, njar kimeso nozana, sau awowa anyi samma alagәlaro fodutin kuru karewa cidabe kәske lan latәnza butu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Shi wilidə zaumaro lamarra dunyabe dəga falzəna. Awo shi adəbe kura sədənadə shima andero nəske nasha sufuriben suwudəna.,science/technology,travel,"SENTENCE:
+ Shi wilidə zaumaro lamarra dunyabe dəga falzəna. Awo shi adəbe kura sədənadə shima andero nəske nasha sufuriben suwudəna. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Awo adǝa sandiye kǝndowada sau poto diye allo fǝletǝram dǝa mbǝro nankaro, kuru awo shima dǝa allo fǝletǝram dǝa kotəma lan bowotin.",science/technology,travel,"SENTENCE:
+ Awo adǝa sandiye kǝndowada sau poto diye allo fǝletǝram dǝa mbǝro nankaro, kuru awo shima dǝa allo fǝletǝram dǝa kotəma lan bowotin. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Mara kəriwugube Germanbe Submarine dəa U-Boat lan bowotin. Lardə Germanbedə nashado mara submarinebe tandobe ladən fuwuguzana.,science/technology,N/A,"SENTENCE:
+ Mara kəriwugube Germanbe Submarine dəa U-Boat lan bowotin. Lardə Germanbedə nashado mara submarinebe tandobe ladən fuwuguzana. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: military</s>"
+"Kәndaramnzә turinmadә faltin yaye, kәndaramnzә kemikalbedә ca yedeidәma.",science/technology,travel,"SENTENCE:
+ Kәndaramnzә turinmadә faltin yaye, kәndaramnzә kemikalbedә ca yedeidәma. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Duno kəladəbedə awo shiga suwudində shima molecules kəla njiyedə kamanzaro duno sadində molecules kasam samiben dagəna dəmaa kozənaro sadin.,science/technology,science/technology,"SENTENCE:
+ Duno kəladəbedə awo shiga suwudində shima molecules kəla njiyedə kamanzaro duno sadində molecules kasam samiben dagəna dəmaa kozənaro sadin. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+Suro kaziyi'a kura soye falǝnzadə woktu biske kuruyega DVD ro kalaktəgadə shima allo fəletaramma dəga kotawo.,science/technology,entertainment,"SENTENCE:
+ Suro kaziyi'a kura soye falǝnzadə woktu biske kuruyega DVD ro kalaktəgadə shima allo fəletaramma dəga kotawo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Taganasmaro, tafurta njirtә gana kalkaro kәndon kam kattuwu kamjimga kamye raksә asujin gada.",science/technology,travel,"SENTENCE:
+ Taganasmaro, tafurta njirtә gana kalkaro kәndon kam kattuwu kamjimga kamye raksә asujin gada. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Dinardə raktə futu gade-gade ro təgasayin. Shiga raktə kokortə awo cilluwu yayi ro tədin.,science/technology,travel,"SENTENCE:
+ Dinardə raktə futu gade-gade ro təgasayin. Shiga raktə kokortə awo cilluwu yayi ro tədin. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Shi tartib AI dǝ kǝrmaadǝ nguwusoro nasha lamar kasuwuyeso, kurwunyeso, engineering so kuru askǝrwa so yen faidatin, sau na computer so video game software ye nguwu lan gartǝna dǝro.",science/technology,entertainment,"SENTENCE:
+ Shi tartib AI dǝ kǝrmaadǝ nguwusoro nasha lamar kasuwuyeso, kurwunyeso, engineering so kuru askǝrwa so yen faidatin, sau na computer so video game software ye nguwu lan gartǝna dǝro. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Kusoro shiga tǝdin, sonyayi awoye faidadǝ nashawanzǝ laadǝ kemura dinadǝn gowotǝ.",science/technology,travel,"SENTENCE:
+ Kusoro shiga tǝdin, sonyayi awoye faidadǝ nashawanzǝ laadǝ kemura dinadǝn gowotǝ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Huwomdo kǝnyakkǝmi faidatǝnzǝ kǝske aubiya kambai dǝ shima butuwo, sado fotodǝ gonǝminma shigai baro sǝdin.",science/technology,travel,"SENTENCE:
+ Huwomdo kǝnyakkǝmi faidatǝnzǝ kǝske aubiya kambai dǝ shima butuwo, sado fotodǝ gonǝminma shigai baro sǝdin. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Adǝbe Tawadǝga cina kǝla gananzǝ yayi Dinosaurs laa sodǝ sandilan fefetowa mbeji be kǝlan, kauri laa buro man tartǝna, ammaa sonyayi kuru awo bayantǝna dǝ muwonjinba, alama kala so nasha laa gade sandi yaskǝa.",science/technology,entertainment,"SENTENCE:
+ Adǝbe Tawadǝga cina kǝla gananzǝ yayi Dinosaurs laa sodǝ sandilan fefetowa mbeji be kǝlan, kauri laa buro man tartǝna, ammaa sonyayi kuru awo bayantǝna dǝ muwonjinba, alama kala so nasha laa gade sandi yaskǝa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Jilibin nǝmkǝrawu sillewu Iobedǝ kǝlanyiro zǝpsǝnyin? Sa inyiye kǝla Ioben danǝmiya, nǝmkǝrawunǝmdǝ sa kǝla dunnyaben danǝmma gai sǝtǝnyi.",science/technology,travel,"SENTENCE:
+ Jilibin nǝmkǝrawu sillewu Iobedǝ kǝlanyiro zǝpsǝnyin? Sa inyiye kǝla Ioben danǝmiya, nǝmkǝrawunǝmdǝ sa kǝla dunnyaben danǝmma gai sǝtǝnyi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+NextGen də shiye lai dəwo FAA kurunzan maara samibe so dəga kolzə gana lai gana cidiyazənan lejin kuru adəbe kəndawu galan ngəwu saawoson gafsəyin kuru kangeye fulujin.,science/technology,travel,"SENTENCE:
+ NextGen də shiye lai dəwo FAA kurunzan maara samibe so dəga kolzə gana lai gana cidiyazənan lejin kuru adəbe kəndawu galan ngəwu saawoson gafsəyin kuru kangeye fulujin. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Sapsawi bayanbe alagǝcaubedǝ shada furu asutǝ kulastaye cin. Adǝ nankadǝro nasham kulashi diobedǝ ganaro sǝdǝ kuru tawadǝ'aro sǝdin.,science/technology,travel,"SENTENCE:
+ Sapsawi bayanbe alagǝcaubedǝ shada furu asutǝ kulastaye cin. Adǝ nankadǝro nasham kulashi diobedǝ ganaro sǝdǝ kuru tawadǝ'aro sǝdin. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Woktu kaurinzǝ awa 2 be dǝga sǝdin ladǝn shiye wono,"" Ku adǝro Apple be waltǝ chai baro waya manabe dǝga bǝrinzǝyin, ku adǝro andeyi tarihi gǝnayen"" wono.",science/technology,N/A,"SENTENCE:
+ Woktu kaurinzǝ awa 2 be dǝga sǝdin ladǝn shiye wono,"" Ku adǝro Apple be waltǝ chai baro waya manabe dǝga bǝrinzǝyin, ku adǝro andeyi tarihi gǝnayen"" wono. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: tech</s>"
+"Faidabado kemura Zoom lensesobedǝ, kayimedo gojindǝ-a kuru lambando lensbedǝ-a tulowodǝbe muradǝtǝna, sawu talǝmo kayimedǝbega farakkǝwum prime lensebedǝ kozǝnaro.",science/technology,travel,"SENTENCE:
+ Faidabado kemura Zoom lensesobedǝ, kayimedo gojindǝ-a kuru lambando lensbedǝ-a tulowodǝbe muradǝtǝna, sawu talǝmo kayimedǝbega farakkǝwum prime lensebedǝ kozǝnaro. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Awo remote TV ye a samənzəna də, shi kəladə kuruma də naura wasnəm awo kuruma indi batawu TV faidatəmaben gənatin naa yakkən awo shima dəga gənatin.",science/technology,entertainment,"SENTENCE:
+ Awo remote TV ye a samənzəna də, shi kəladə kuruma də naura wasnəm awo kuruma indi batawu TV faidatəmaben gənatin naa yakkən awo shima dəga gənatin. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Malǝmma nzundube diye wada, Fure Dabba-a be diye alama nji Goro yeyiro kara wono sami dǝn, kuru sidaanzǝ diyen nji kǝliu be mbeji.",science/technology,travel,"SENTENCE:
+ Malǝmma nzundube diye wada, Fure Dabba-a be diye alama nji Goro yeyiro kara wono sami dǝn, kuru sidaanzǝ diyen nji kǝliu be mbeji. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Sandi sənadirra indidə kəltaiya awoa tukur-tukur gade faidam sasambu daji kəmattəndəga tutsayin, kulashiwu jamiyabe sandima ngaidə gulza.",science/technology,travel,"SENTENCE:
+ Sandi sənadirra indidə kəltaiya awoa tukur-tukur gade faidam sasambu daji kəmattəndəga tutsayin, kulashiwu jamiyabe sandima ngaidə gulza. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Adǝye luworam gadegade diyauyeiro suwudin shi kurekure 35 mm (3136 mm2 dǝa 864 ro).,science/technology,entertainment,"SENTENCE:
+ Adǝye luworam gadegade diyauyeiro suwudin shi kurekure 35 mm (3136 mm2 dǝa 864 ro). 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Wushe undersea fiber optic cable donyi Europe so broadband satellite so, Greenland so taidazǝ kǝltanama 93% nǝm nguwu amdǝye dǝ nduwu ro gagayin.",science/technology,N/A,"SENTENCE:
+ Wushe undersea fiber optic cable donyi Europe so broadband satellite so, Greenland so taidazǝ kǝltanama 93% nǝm nguwu amdǝye dǝ nduwu ro gagayin. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: tech</s>"
+"Nzunduwa adǝye falnza dǝ shima Google Translate, shi dǝwone rangnǝm shilan fasari dimin sa intanet ba lan yayi ma bayanna tǝlamye mǝradǝta so sama ro wallono wa.",science/technology,travel,"SENTENCE:
+ Nzunduwa adǝye falnza dǝ shima Google Translate, shi dǝwone rangnǝm shilan fasari dimin sa intanet ba lan yayi ma bayanna tǝlamye mǝradǝta so sama ro wallono wa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Garnonzә moleculessabe fal gasyen kal, njiyen kal, kәrzәnayen kal.",science/technology,travel,"SENTENCE:
+ Garnonzә moleculessabe fal gasyen kal, njiyen kal, kәrzәnayen kal. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Bidiyo rekodin faidatǝdǝ shima kulashiwa faidaasodǝro sukowultǝyin suro fasari au bayando fantǝ kamman lejinma shido sekon ganalaaro lejinma.,science/technology,entertainment,"SENTENCE:
+ Bidiyo rekodin faidatǝdǝ shima kulashiwa faidaasodǝro sukowultǝyin suro fasari au bayando fantǝ kamman lejinma shido sekon ganalaaro lejinma. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Adamganasodә saa duwu kadaro gogәlso satandin ye faidatainye sau shimnza nzasaro.,science/technology,travel,"SENTENCE:
+ Adamganasodә saa duwu kadaro gogәlso satandin ye faidatainye sau shimnza nzasaro. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Amma shi ruwunzә gәnyi, dim kuru, kuru dim kurudә shima jarabtә doni faidatә gultәwa laa tawattәgәnyi fal au fal kozәna tulobe, korowa koro-a, kuru awo wakajin hangal gәnanәm ruotә-aye kulashi ilmu kimiyabe shimojin.",science/technology,travel,"SENTENCE:
+ Amma shi ruwunzә gәnyi, dim kuru, kuru dim kurudә shima jarabtә doni faidatә gultәwa laa tawattәgәnyi fal au fal kozәna tulobe, korowa koro-a, kuru awo wakajin hangal gәnanәm ruotә-aye kulashi ilmu kimiyabe shimojin. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Darenzәdәn, taya katakauyedә taya suye lan fallatә. Saa 1767 lan, lai suye kaamilmadә cetulo.",science/technology,travel,"SENTENCE:
+ Darenzәdәn, taya katakauyedә taya suye lan fallatә. Saa 1767 lan, lai suye kaamilmadә cetulo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Katiwa nguwuso ndara yayi buwotǝro ngǝla yayi, la so dǝ lardǝwa la buwotǝro afuwa ro diworo maskuzana.",science/technology,travel,"SENTENCE:
+ Katiwa nguwuso ndara yayi buwotǝro ngǝla yayi, la so dǝ lardǝwa la buwotǝro afuwa ro diworo maskuzana. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Kuturamwa kulashiye zamanye so dǝ kariyya kura kura na cintun gǝnata kuru na kasam ngǝla lan.,science/technology,travel,"SENTENCE:
+ Kuturamwa kulashiye zamanye so dǝ kariyya kura kura na cintun gǝnata kuru na kasam ngǝla lan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Liwula suyedə kəla njiben mbajinna kara dalil tuno kəla dəbedə səkə.,science/technology,travel,"SENTENCE:
+ Liwula suyedə kəla njiben mbajinna kara dalil tuno kəla dəbedə səkə. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Tartifdo 35mmbǝdǝ jililaaro yoyojin, 36mm suro nǝmfarak 24mmben datǝro kara.",science/technology,entertainment,"SENTENCE:
+ Tartifdo 35mmbǝdǝ jililaaro yoyojin, 36mm suro nǝmfarak 24mmben datǝro kara. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Shi cell-dә shima badiyaramwo kuru nasha ilmu alagәlaben zauro faidaa, dalilnzәdә sa laan sha “jalab gar alagәlabe’.",science/technology,travel,"SENTENCE:
+ Shi cell-dә shima badiyaramwo kuru nasha ilmu alagәlaben zauro faidaa, dalilnzәdә sa laan sha “jalab gar alagәlabe’. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+VPN kǝlamlaye (netwok kǝlanǝmlaye kasamye) yiwoma so dǝ shima zawal karutu takal siyasaye so-a kasuwu so ye-a ro yestǝye wo shi dǝwone shiro IP-geofiltering gultin ma dǝ.,science/technology,N/A,"SENTENCE:
+ VPN kǝlamlaye (netwok kǝlanǝmlaye kasamye) yiwoma so dǝ shima zawal karutu takal siyasaye so-a kasuwu so ye-a ro yestǝye wo shi dǝwone shiro IP-geofiltering gultin ma dǝ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: tech</s>"
+"Shi tashadə halnzə səlina də kuyero sədəna, ngawo shi naura gyroscopebe də tasha fowo samiben fattəgəna yayi, sai loktu darerammo suro fowo be dəro letiya dəwo.",science/technology,travel,"SENTENCE:
+ Shi tashadə halnzə səlina də kuyero sədəna, ngawo shi naura gyroscopebe də tasha fowo samiben fattəgəna yayi, sai loktu darerammo suro fowo be dəro letiya dəwo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Am nazaru jili adəa də sandiye nazaruwa kəla tartifben itagatsain, raksə awosga hambutsain, kaziyiro sulhuga mazain kuru cidanzaga jarafsa kimiyaben wuzayin.",science/technology,travel,"SENTENCE:
+ Am nazaru jili adəa də sandiye nazaruwa kəla tartifben itagatsain, raksə awosga hambutsain, kaziyiro sulhuga mazain kuru cidanzaga jarafsa kimiyaben wuzayin. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Dabba Ocelots zaumaro dabbaa sənana gəro sərawuna. Sandibe bəli mango so, kadiso, jilwaso, ngudoso satana zagərin. Suro dabba ocelot dəbe barazəna zəgərində zaumaro shiro cilluwu.",science/technology,sports,"SENTENCE:
+ Dabba Ocelots zaumaro dabbaa sənana gəro sərawuna. Sandibe bəli mango so, kadiso, jilwaso, ngudoso satana zagərin. Suro dabba ocelot dəbe barazəna zəgərində zaumaro shiro cilluwu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Nangam-daudau film camera laasoye dǝ nangam 6 men 6 faidatain, dǝ zaumaro hayya 56 men 56 mm kurekure be wo.",science/technology,entertainment,"SENTENCE:
+ Nangam-daudau film camera laasoye dǝ nangam 6 men 6 faidatain, dǝ zaumaro hayya 56 men 56 mm kurekure be wo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Bulawuromaso wa dunowaro shawartǝna kǝla tajirwa alamaram dibiro faltǝye dǝro hangal gǝnaza waneye na dasaana dǝwa lejin kuru waneye dawari bulawuroye ndasoyaye bannajin.,travel,travel,"SENTENCE:
+ Bulawuromaso wa dunowaro shawartǝna kǝla tajirwa alamaram dibiro faltǝye dǝro hangal gǝnaza waneye na dasaana dǝwa lejin kuru waneye dawari bulawuroye ndasoyaye bannajin. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Buses dǝ inter-district bus station dǝ cizain (lardǝ dǝ samman) zuwut ro, do taanasmaro sandi gǝdi nganzazana dǝ Jakar/Bumthang dǝ kate 06:30 wa 07:30 yen suluwin.",travel,travel,"SENTENCE:
+ Buses dǝ inter-district bus station dǝ cizain (lardǝ dǝ samman) zuwut ro, do taanasmaro sandi gǝdi nganzazana dǝ Jakar/Bumthang dǝ kate 06:30 wa 07:30 yen suluwin. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Kǝjerkǝjer nzǝdǝye Garlabma dǝwa kurnozǝwin do amma nzǝlifo nankaro rumiya muwonzǝ shi garlabmaye dǝro koktǝyin.,travel,travel,"SENTENCE:
+ Kǝjerkǝjer nzǝdǝye Garlabma dǝwa kurnozǝwin do amma nzǝlifo nankaro rumiya muwonzǝ shi garlabmaye dǝro koktǝyin. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Marawa Baltic ye nguwuso St Petersburg, Russia lan loktu kuruwu ro dazayin.",travel,travel,"SENTENCE:
+ Marawa Baltic ye nguwuso St Petersburg, Russia lan loktu kuruwu ro dazayin. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Shawari kadarne bulawuromaso dǝ ndalzainba, tǝrǝbsainba, kasuwu dabkalanba, ngodozainba, aubiyi faida kǝlanzaye nankaro amgadesowa faizainba.",travel,N/A,"SENTENCE:
+ Shawari kadarne bulawuromaso dǝ ndalzainba, tǝrǝbsainba, kasuwu dabkalanba, ngodozainba, aubiyi faida kǝlanzaye nankaro amgadesowa faizainba. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: education education</s>"
+Awowa nguwu nyiye namnǝm kururo sandǝna kawu bulawuro diminna sa bulawurodǝro lenǝminna lan.,travel,travel,"SENTENCE:
+ Awowa nguwu nyiye namnǝm kururo sandǝna kawu bulawuro diminna sa bulawurodǝro lenǝminna lan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Dawu kawusuye dǝn, bǝlaroma so dǝye cintun njiyeyi sorin (aw awo gade).",travel,travel,"SENTENCE:
+ Dawu kawusuye dǝn, bǝlaroma so dǝye cintun njiyeyi sorin (aw awo gade). 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Yallaso dulisowa dǝ nguwu turinba, do amma bunram laaso dǝn sandiya njimma wullowata lan kolzain.",travel,travel,"SENTENCE:
+ Yallaso dulisowa dǝ nguwu turinba, do amma bunram laaso dǝn sandiya njimma wullowata lan kolzain. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Misallo na sanamye Loire Valley so, Rhine Valley so, aw mara njiyemen na tamtamma Denube ye ro letǝ aw mara njiye sǝnana men Erie Canal ro letǝ so.",travel,travel,"SENTENCE:
+ Misallo na sanamye Loire Valley so, Rhine Valley so, aw mara njiyemen na tamtamma Denube ye ro letǝ aw mara njiye sǝnana men Erie Canal ro letǝ so. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Nyiro ngalauro waljin shimbulawurobe fal nguwusoro nyiro bulawuronǝm bǝgattǝma lan faidatǝdǝ.,travel,travel,"SENTENCE:
+ Nyiro ngalauro waljin shimbulawurobe fal nguwusoro nyiro bulawuronǝm bǝgattǝma lan faidatǝdǝ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Couchsurfing dǝ January 2004 lan tǝrfandǝwo ngawo komfuta dawartǝma Casey Fenton be maara butun Iceland ro suwondǝna donyi na datǝye ba.,travel,travel,"SENTENCE:
+ Couchsurfing dǝ January 2004 lan tǝrfandǝwo ngawo komfuta dawartǝma Casey Fenton be maara butun Iceland ro suwondǝna donyi na datǝye ba. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Biza fuwura kǝraye dǝ ndaso son shartǝwanzǝ biza fondoye dǝga bǝlaro tamtam gotǝye aw kasuwuye-a gade.,travel,travel,"SENTENCE:
+ Biza fuwura kǝraye dǝ ndaso son shartǝwanzǝ biza fondoye dǝga bǝlaro tamtam gotǝye aw kasuwuye-a gade. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Lardәwoso howomnzә awo duwasashibe moton gotinbedә nanka gade.,travel,travel,"SENTENCE:
+ Lardәwoso howomnzә awo duwasashibe moton gotinbedә nanka gade. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Bulawuroram nguwuso bugattǝ sambiyeso nanzamenma sarawunawo, shimbulawurobe nguwu kǝla fannu laa bulawuroye lan masku, taman kakaltuwuye au zǝbtǝram ben.",travel,travel,"SENTENCE:
+ Bulawuroram nguwuso bugattǝ sambiyeso nanzamenma sarawunawo, shimbulawurobe nguwu kǝla fannu laa bulawuroye lan masku, taman kakaltuwuye au zǝbtǝram ben. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Bulawuroma be waneye kuli dabba donyi ngawarnza lan ngalte nozayimaso wa basartain,travel,entertainment,"SENTENCE:
+ Bulawuroma be waneye kuli dabba donyi ngawarnza lan ngalte nozayimaso wa basartain 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Adǝyeyima sak yalaye dǝn, na hawar gargamye Our Lady Fatima ye dǝ dalne, na dǝwo dina samma so ye na jindi Maria ye ro notǝnma.",travel,travel,"SENTENCE:
+ Adǝyeyima sak yalaye dǝn, na hawar gargamye Our Lady Fatima ye dǝ dalne, na dǝwo dina samma so ye na jindi Maria ye ro notǝnma. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Raknəm boda-boda (mashin aariye) ro bam katekate Gomaye lan fomnəmin.Taman donyi (nadəye) də shima ~500 kunguna Congoye yimin.,travel,travel,"SENTENCE:
+ Raknəm boda-boda (mashin aariye) ro bam katekate Gomaye lan fomnəmin.Taman donyi (nadəye) də shima ~500 kunguna Congoye yimin. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Sandi donyi lamarra diyan kundolan tamtam fantǝmaso, futu sarawunaro balangarza amarrata.",travel,travel,"SENTENCE:
+ Sandi donyi lamarra diyan kundolan tamtam fantǝmaso, futu sarawunaro balangarza amarrata. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Safari shilan letǝye dǝ (adaima “letǝ karaaye”, “sǝrettǝ safari ye”, au shin guwottuwu” buwozain) letǝ shiye so, awa kadaro au kawu kadaro.",travel,travel,"SENTENCE:
+ Safari shilan letǝye dǝ (adaima “letǝ karaaye”, “sǝrettǝ safari ye”, au shin guwottuwu” buwozain) letǝ shiye so, awa kadaro au kawu kadaro. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Zawal fal dǝwo nagadǝro yadoye dǝ shima karaiyya dǝ su kulaskatayen yado wo. Kaidawa cida maraye dǝye sandiya kulzǝ karaiy kam ba ro sadinmba, daji na adǝn cidanǝm cijin.",travel,travel,"SENTENCE:
+ Zawal fal dǝwo nagadǝro yadoye dǝ shima karaiyya dǝ su kulaskatayen yado wo. Kaidawa cida maraye dǝye sandiya kulzǝ karaiy kam ba ro sadinmba, daji na adǝn cidanǝm cijin. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Awo kǝmbabe sandi 300 dǝa tǝraya adudǝnzǝ dǝ alama 1,300 ro walǝjin, kuru ngai diye wahala mato kǝmbabe baa be diye ya fulujin.",travel,travel,"SENTENCE:
+ Awo kǝmbabe sandi 300 dǝa tǝraya adudǝnzǝ dǝ alama 1,300 ro walǝjin, kuru ngai diye wahala mato kǝmbabe baa be diye ya fulujin. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Yallawa nduli sǝnana'a dǝ dawari nguwu mǝradǝzana, amma diyalan kau fal diodǝ futu kǝskelan mowonjin nduli kǝli au sǝnana'a yaye.",travel,travel,"SENTENCE:
+ Yallawa nduli sǝnana'a dǝ dawari nguwu mǝradǝzana, amma diyalan kau fal diodǝ futu kǝskelan mowonjin nduli kǝli au sǝnana'a yaye. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ndu donyi sami cintumutro lejinyaye au kǝlakaa kauyen kojinyaye kuluwumafiye zǝbcin so, mafi so, ngalram amusube so ro cissǝwu.",travel,travel,"SENTENCE:
+ Ndu donyi sami cintumutro lejinyaye au kǝlakaa kauyen kojinyaye kuluwumafiye zǝbcin so, mafi so, ngalram amusube so ro cissǝwu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ku, Timbuktu dǝ bula nǝm fakkarbe ro walzǝna son yaye garranzǝye hangal tourist ye gǝrzǝyin, kuru fǝraskram maara samiyenzǝ ye mbeji.",travel,travel,"SENTENCE:
+ Ku, Timbuktu dǝ bula nǝm fakkarbe ro walzǝna son yaye garranzǝye hangal tourist ye gǝrzǝyin, kuru fǝraskram maara samiyenzǝ ye mbeji. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Loktu karuwa blizzards be dǝn, kuluwumafiye kǝzǝkkǝ be nya sǝtain rakksǝ loktu gana lan sukuruwin.",travel,travel,"SENTENCE:
+ Loktu karuwa blizzards be dǝn, kuluwumafiye kǝzǝkkǝ be nya sǝtain rakksǝ loktu gana lan sukuruwin. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Dina samma dǝrinǝm kǝltǝ ramiya Southern Hemisphere, dǝluwu mara kartǝye-a na zǝbtye-a dǝ zauro gana sawo zawal transoceanic ye ba nanka dǝro.",travel,travel,"SENTENCE:
+ Dina samma dǝrinǝm kǝltǝ ramiya Southern Hemisphere, dǝluwu mara kartǝye-a na zǝbtye-a dǝ zauro gana sawo zawal transoceanic ye ba nanka dǝro. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Marawa samiye alama Emirates, Etihad Airways, Qatar Airways -a Turkish Airways -a so dǝ taidaza cidanza lardǝwa Afrikaye so dǝro sarana, kuru bǝrniwa Afrikaye kadaro lezayin kǝla taman kǝskeya lan titi mara la Europe ye so dǝro.",travel,travel,"SENTENCE:
+ Marawa samiye alama Emirates, Etihad Airways, Qatar Airways -a Turkish Airways -a so dǝ taidaza cidanza lardǝwa Afrikaye so dǝro sarana, kuru bǝrniwa Afrikaye kadaro lezayin kǝla taman kǝskeya lan titi mara la Europe ye so dǝro. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Awo bam bəlawurobe gade bawo kuru maara cidibe dəbe Wembley lan dajin bawo, kuru na datəye a dane-waltəne-cineye shiga layi cidibedən bawo.",travel,entertainment,"SENTENCE:
+ Awo bam bəlawurobe gade bawo kuru maara cidibe dəbe Wembley lan dajin bawo, kuru na datəye a dane-waltəne-cineye shiga layi cidibedən bawo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Ndaso son, lardǝyi lan yayi lenǝm loktu kuruwu ro nabtǝ dǝ buronǝm biza fando mǝradǝzǝna.",travel,travel,"SENTENCE:
+ Ndaso son, lardǝyi lan yayi lenǝm loktu kuruwu ro nabtǝ dǝ buronǝm biza fando mǝradǝzǝna. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Maraa cidiyewoso MetroPlus dǝye mbeji kuru Metro coaches ye mbeji; shi MetroPlus coaches dǝ nguwusoro darye maaraye dǝn karǝngǝ Cape Town ben.,travel,travel,"SENTENCE:
+ Maraa cidiyewoso MetroPlus dǝye mbeji kuru Metro coaches ye mbeji; shi MetroPlus coaches dǝ nguwusoro darye maaraye dǝn karǝngǝ Cape Town ben. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Suro naptә jama meulaben nduso katap kaanzә gojin kuru duluwuwa lenәm areye faidatin. Nduso kәla duluwuwa lenәm areyen kuttunzә guljin.,travel,travel,"SENTENCE:
+ Suro naptә jama meulaben nduso katap kaanzә gojin kuru duluwuwa lenәm areye faidatin. Nduso kәla duluwuwa lenәm areyen kuttunzә guljin. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"sawo na dǝ jama nguwu ba nankadǝro, kasam bannaye nguwu ba dǝro rangnǝm shillawu so kuru lan tamtam gonǝmin.",travel,travel,"SENTENCE:
+ sawo na dǝ jama nguwu ba nankadǝro, kasam bannaye nguwu ba dǝro rangnǝm shillawu so kuru lan tamtam gonǝmin. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Biza mata-a awo turottәnadә lagәtar lardәdәben kara kuru lardә isәmadәn kara.,travel,travel,"SENTENCE:
+ Biza mata-a awo turottәnadә lagәtar lardәdәben kara kuru lardә isәmadәn kara. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Manadəye Jirenzədə, kəla nangam daraja kən tilomi au nangam kasuwuwuso yelan mana niske mataye də cizəyi suro maara sakro lejinyeso dən A lan tai B ro kuden.",travel,travel,"SENTENCE:
+ Manadəye Jirenzədə, kəla nangam daraja kən tilomi au nangam kasuwuwuso yelan mana niske mataye də cizəyi suro maara sakro lejinyeso dən A lan tai B ro kuden. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Boomerang gǝbtuwu dǝ awo nowata ma donyi tourist kada diyoro saraana.,travel,travel,"SENTENCE:
+ Boomerang gǝbtuwu dǝ awo nowata ma donyi tourist kada diyoro saraana. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Letǝ maraye adǝ shi bas gǝnyi awo kartaye wo sa South Pacific -a west coast South America ye -a dǝ yesǝnǝm kotǝro ramiya. (cidaa dǝn wune),travel,travel,"SENTENCE:
+ Letǝ maraye adǝ shi bas gǝnyi awo kartaye wo sa South Pacific -a west coast South America ye -a dǝ yesǝnǝm kotǝro ramiya. (cidaa dǝn wune) 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"San Francisco dǝ dawarzǝna tourist kura mǝradǝwa tourist matin so bunram kadawa, kumbura so, kuru top-notch convention matin samma mbeji.",travel,travel,"SENTENCE:
+ San Francisco dǝ dawarzǝna tourist kura mǝradǝwa tourist matin so bunram kadawa, kumbura so, kuru top-notch convention matin samma mbeji. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Sa bǝlaronǝminlan am banatǝ zaumaro ngǝla amma kamro awo yiowo baslan gǝnyi dano.,travel,travel,"SENTENCE:
+ Sa bǝlaronǝminlan am banatǝ zaumaro ngǝla amma kamro awo yiowo baslan gǝnyi dano. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Waneye amsoye yekinzainbawo gəyimaa, kanadiya asutuwa də kəla am bulawuron fatoro waltamaso yen wajibsəna.",travel,travel,"SENTENCE:
+ Waneye amsoye yekinzainbawo gəyimaa, kanadiya asutuwa də kəla am bulawuron fatoro waltamaso yen wajibsəna. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Wande njesǝnǝmi taman Bisaye nzǝrayi ye dǝye kǝltaro, haraji letǝye so, cidin letǝye so, gade gabsǝna na Afrikan nguron samma soro.",travel,travel,"SENTENCE:
+ Wande njesǝnǝmi taman Bisaye nzǝrayi ye dǝye kǝltaro, haraji letǝye so, cidin letǝye so, gade gabsǝna na Afrikan nguron samma soro. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Jami nasha Bishkek be diye sandi zanga-zanga kǝndoma so nasha anǝmgabe dǝa zorǝzana kǝla sandibe houm Gomnatibe zǝayinbaben.,politics,travel,"SENTENCE:
+ Jami nasha Bishkek be diye sandi zanga-zanga kǝndoma so nasha anǝmgabe dǝa zorǝzana kǝla sandibe houm Gomnatibe zǝayinbaben. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Nashalaa lardə Belgiumbe kərmabedə kamtǝwuno Luxembourgbero kara buron sonyayi isǝ Belgainro wallano ngawo lardə Belgaində saa 1830 fuktǝ tǝmtinro.,politics,travel,"SENTENCE:
+ Nashalaa lardə Belgiumbe kərmabedə kamtǝwuno Luxembourgbero kara buron sonyayi isǝ Belgainro wallano ngawo lardə Belgaində saa 1830 fuktǝ tǝmtinro. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Tun saa 1988 be ladǝn, Fato karǝnobe dǝ tiyi-turi ro kara sau sandi karǝnoma sodǝga kuru amma kǝladǝn datǝma sodǝga be shada sadin kǝla surodǝn kakadǝ karǝnobe baben woktu duwo karǝno dǝ baditǝna ladǝn, kuru adǝgaima kakadǝga gade sodǝbe suro dǝro tǝkǝnyi ro sandibe tawadǝga sadin illaa sandi duwo woktu shima kalkal ladǝn isafǝtǝna dǝ gǝnyi ro wallonowa.",politics,travel,"SENTENCE:
+ Tun saa 1988 be ladǝn, Fato karǝnobe dǝ tiyi-turi ro kara sau sandi karǝnoma sodǝga kuru amma kǝladǝn datǝma sodǝga be shada sadin kǝla surodǝn kakadǝ karǝnobe baben woktu duwo karǝno dǝ baditǝna ladǝn, kuru adǝgaima kakadǝga gade sodǝbe suro dǝro tǝkǝnyi ro sandibe tawadǝga sadin illaa sandi duwo woktu shima kalkal ladǝn isafǝtǝna dǝ gǝnyi ro wallonowa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Prime Minister Tamshibe Julia Gillard futu loktu kuriya matabe saa 2010 karno kurabedən kuru kasatsəna shi Australiadə lardə kəlanzəbe ro loktu mai lardə dəbe Queen Elizabeth II be dajiya wono.,politics,politics,"SENTENCE:
+ Prime Minister Tamshibe Julia Gillard futu loktu kuriya matabe saa 2010 karno kurabedən kuru kasatsəna shi Australiadə lardə kəlanzəbe ro loktu mai lardə dəbe Queen Elizabeth II be dajiya wono. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: world politics</s>"
+Gumnati Irishbedə zaumaro zəktəna kəla majalisku dəbe lamar shima dəga saasaro.,politics,travel,"SENTENCE:
+ Gumnati Irishbedə zaumaro zəktəna kəla majalisku dəbe lamar shima dəga saasaro. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Kambiyi diplomasiyabe kate lardǝwa indi ye dǝye alaka kate Armenia -a Azerbaijan -a ye dǝ bannawono.,politics,politics,"SENTENCE:
+ Kambiyi diplomasiyabe kate lardǝwa indi ye dǝye alaka kate Armenia -a Azerbaijan -a ye dǝ bannawono. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: world politics</s>"
+"Minister gana Stephen Harper dibe kasakǝsǝna Gomnati ro kakadǝ 'Clean Air Act'be dǝga comiti all-party be madǝro bayanzǝyin, kau duwo nabtǝnzǝ kǝn indimi be dǝro, ngawo duwo yim Talauwa dǝro samno minti 25 be dǝga sadǝna lan roko kazalada NDP be Jack Layton dǝga nasha PMO be ladǝn.",politics,politics,"SENTENCE:
+ Minister gana Stephen Harper dibe kasakǝsǝna Gomnati ro kakadǝ 'Clean Air Act'be dǝga comiti all-party be madǝro bayanzǝyin, kau duwo nabtǝnzǝ kǝn indimi be dǝro, ngawo duwo yim Talauwa dǝro samno minti 25 be dǝga sadǝna lan roko kazalada NDP be Jack Layton dǝga nasha PMO be ladǝn. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+"Kəntawu bikayen, ndore kura Poland yin loktu lardə dəye ACTA kasassəna lan tədəna, hatta adəye səkə gomnatiye kərmaan lamar shima dən, cidatinbaro nyawono.",politics,politics,"SENTENCE:
+ Kəntawu bikayen, ndore kura Poland yin loktu lardə dəye ACTA kasassəna lan tədəna, hatta adəye səkə gomnatiye kərmaan lamar shima dən, cidatinbaro nyawono. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: world politics</s>"
+Shawariyaso dǝ gana kasarrataro kǝndaram hal siyasa lardǝ laaye.,politics,travel,"SENTENCE:
+ Shawariyaso dǝ gana kasarrataro kǝndaram hal siyasa lardǝ laaye. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Woktu saga 1976 be ladǝn, shiye Carter ro shawariwa cina kǝla houm-a lardǝga diyaye be ladǝn, daji kuru isǝ shawarima lamarra nzǝrwobe lardǝbe dǝro wallono kate saga 1977-1981 dǝro chuwuto, shima na Henry Kissinger be daga sǝmowu.",politics,travel,"SENTENCE:
+ Woktu saga 1976 be ladǝn, shiye Carter ro shawariwa cina kǝla houm-a lardǝga diyaye be ladǝn, daji kuru isǝ shawarima lamarra nzǝrwobe lardǝbe dǝro wallono kate saga 1977-1981 dǝro chuwuto, shima na Henry Kissinger be daga sǝmowu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Adǝgaikuru lardǝ Turkey be diye luwalau ISIS be duwo sǝtana diyero nzǝrwoa cin sǝna, kuru adǝgaisuro kauri diyen bayantǝna kǝla lardǝga Europe be au Nasara be diye fatoro waltǝ ro waada wono.",politics,politics,"SENTENCE:
+ Adǝgaikuru lardǝ Turkey be diye luwalau ISIS be duwo sǝtana diyero nzǝrwoa cin sǝna, kuru adǝgaisuro kauri diyen bayantǝna kǝla lardǝga Europe be au Nasara be diye fatoro waltǝ ro waada wono. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: world politics</s>"
+"Son yaye ro, fasalwa anyi bәne fal wurgatә, sokku Russiabe sojawa, Askәrwa Kime 800,000ga kozәna tamu faraskәramwa Belarussia-a Ukrain-an fәrәmgada ngawo gәdi lardә Polandbero tamunayen, kasadawa Riga Peace Treaty-a, Soviet-Polish Non-Aggression Pact-a, kasadawa dunyaaram gadeso-a, halafkada, kate lardәwa indibe-a lardәwa kadabe-aso.",politics,sports,"SENTENCE:
+ Son yaye ro, fasalwa anyi bәne fal wurgatә, sokku Russiabe sojawa, Askәrwa Kime 800,000ga kozәna tamu faraskәramwa Belarussia-a Ukrain-an fәrәmgada ngawo gәdi lardә Polandbero tamunayen, kasadawa Riga Peace Treaty-a, Soviet-Polish Non-Aggression Pact-a, kasadawa dunyaaram gadeso-a, halafkada, kate lardәwa indibe-a lardәwa kadabe-aso. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Dawaridə kalkallo kənga ro, HJR-3 dəga waltə gademilla ro təgasayin sandi majilasku suro saga 2015 au 2016 nin kartənama so dəbe sadin.",politics,sports,"SENTENCE:
+ Dawaridə kalkallo kənga ro, HJR-3 dəga waltə gademilla ro təgasayin sandi majilasku suro saga 2015 au 2016 nin kartənama so dəbe sadin. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Ngawo majalis ammurawabeye kәntagә Julybe kaunzә kәn 4’a lan sha kaanzazaanayen, fasal mukkon ruotәnama do kura majalis ammurawabe John Hancock-a kuru katiwu au Sekatare Charles Thomas-aye mukko sakkәnamadә kanti bakkatabe John Dunlapye karungunzayedәro daji zujaa.",politics,N/A,"SENTENCE:
+ Ngawo majalis ammurawabeye kәntagә Julybe kaunzә kәn 4’a lan sha kaanzazaanayen, fasal mukkon ruotәnama do kura majalis ammurawabe John Hancock-a kuru katiwu au Sekatare Charles Thomas-aye mukko sakkәnamadә kanti bakkatabe John Dunlapye karungunzayedәro daji zujaa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: culture</s>"
+"Ngawo sa 11:00 be ladǝn, amma zanga-zanga ma so sodǝbe zawal nasha Whitehall be dǝga zakkada.",politics,travel,"SENTENCE:
+ Ngawo sa 11:00 be ladǝn, amma zanga-zanga ma so sodǝbe zawal nasha Whitehall be dǝga zakkada. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Son yaye, suro kәntagә Jun 1956-lan, Krushchevbe wadәga zangazanga Polandben jarapkatә, cidawuye kәla mbautә kәmbuye-a alwoshi fuluzana-ayen, duwo zangazanga aamma Komunis watәyero walwono.",politics,sports,"SENTENCE:
+ Son yaye, suro kәntagә Jun 1956-lan, Krushchevbe wadәga zangazanga Polandben jarapkatә, cidawuye kәla mbautә kәmbuye-a alwoshi fuluzana-ayen, duwo zangazanga aamma Komunis watәyero walwono. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Ca saa 40ro dәgain kuru jirero luwala tәdin, askәrwa wakkiltәwu-a, faraskәramwa kәrigәbe Afәrikan sәta Asiaro sadәna, Afghanistanlan-a, Cuba-a nawa gade kada-an.",politics,travel,"SENTENCE:
+ Ca saa 40ro dәgain kuru jirero luwala tәdin, askәrwa wakkiltәwu-a, faraskәramwa kәrigәbe Afәrikan sәta Asiaro sadәna, Afghanistanlan-a, Cuba-a nawa gade kada-an. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Kentau kozənaladen shi hukuma kura lardəbeye kasatsəna kəla shi CEP dəbe cida koltənzədə kuru adə shiye dawari lardə də karnonze fuwutəbe də karənzana də səkə.,politics,politics,"SENTENCE:
+ Kentau kozənaladen shi hukuma kura lardəbeye kasatsəna kəla shi CEP dəbe cida koltənzədə kuru adə shiye dawari lardə də karnonze fuwutəbe də karənzana də səkə. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+Maudua gadə nadən kəlanzən ninizagəna dəbe sandima fuwun Jerusalambe kəndaramzəga kuru bəla shima adə zaumaro darajaa lardəa ndisoa kəla lamarra Jordan Valleyben.,politics,travel,"SENTENCE:
+ Maudua gadə nadən kəlanzən ninizagəna dəbe sandima fuwun Jerusalambe kəndaramzəga kuru bəla shima adə zaumaro darajaa lardəa ndisoa kəla lamarra Jordan Valleyben. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Shiye huwumdo faidatə harajidəa mailaro kate kərewabedən tawattəbe ba.,politics,travel,"SENTENCE:
+ Shiye huwumdo faidatə harajidəa mailaro kate kərewabedən tawattəbe ba. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Houm au sarǝtǝga karǝno nasha lardǝ Faransa bedǝ futu sandǝna ro tǝanyi woktu karǝno be ladǝn.,politics,travel,"SENTENCE:
+ Houm au sarǝtǝga karǝno nasha lardǝ Faransa bedǝ futu sandǝna ro tǝanyi woktu karǝno be ladǝn. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ngawo duwo suro mau diyen asarǝ soa sadǝnan woktu karno diyen, Bush diye jami sodǝro bayanzǝna kǝla lamarra kasuwube dǝga chai baro nasha Asia be ladǝn fuwuzǝyin be kǝlan.",politics,travel,"SENTENCE:
+ Ngawo duwo suro mau diyen asarǝ soa sadǝnan woktu karno diyen, Bush diye jami sodǝro bayanzǝna kǝla lamarra kasuwube dǝga chai baro nasha Asia be ladǝn fuwuzǝyin be kǝlan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Nәnga adә faidaji, karewa kәrigәbe-a karewa jamabe-a gawo dapkono, son yaye nzambu adәye wala aamma kasatkatadәga dunyaaram duwo kasadawa kada dunyaram karnuwa indi kozanadәgaga halafsәna.",politics,travel,"SENTENCE:
+ Nәnga adә faidaji, karewa kәrigәbe-a karewa jamabe-a gawo dapkono, son yaye nzambu adәye wala aamma kasatkatadәga dunyaaram duwo kasadawa kada dunyaram karnuwa indi kozanadәgaga halafsәna. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+alaka kasuwuye kate kate nasah ndi Moldova ye adǝ lan gǝnatǝna ci kǝmoye duto siyasa men terǝna yayi.,politics,travel,"SENTENCE:
+ alaka kasuwuye kate kate nasah ndi Moldova ye adǝ lan gǝnatǝna ci kǝmoye duto siyasa men terǝna yayi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Shiga hukumagədəbe sortagənadən, shiye am bəla Texas-yero wadəga gozəgəna kəla awo laa baditəna kəla am bəladəbe a nzəliwoben.",politics,travel,"SENTENCE:
+ Shiga hukumagədəbe sortagənadən, shiye am bəla Texas-yero wadəga gozəgəna kəla awo laa baditəna kəla am bəladəbe a nzəliwoben. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Jiddia muradǝ au nya dunaa madǝbe chai baro dawari laa kǝndo ro majin sau cida shima dǝga waltǝm kǝnjo nankaro nasha Washington be ladǝn.,politics,travel,"SENTENCE:
+ Jiddia muradǝ au nya dunaa madǝbe chai baro dawari laa kǝndo ro majin sau cida shima dǝga waltǝm kǝnjo nankaro nasha Washington be ladǝn. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Suro am 1,400 dəwo sandiga kuriya koltəgə lardəbe saa 2010 ne ro karzanadə, sandi dəwo Australia lardə kəəero waltə wazanadə nəm nəwunza kashi 8 tun saa 2008 tin.",politics,sports,"SENTENCE:
+ Suro am 1,400 dəwo sandiga kuriya koltəgə lardəbe saa 2010 ne ro karzanadə, sandi dəwo Australia lardə kəəero waltə wazanadə nəm nəwunza kashi 8 tun saa 2008 tin. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Cidau diplomasiya be diye bayanna sadǝna kǝla sandibe shuwalla kadda lardǝ Afghanistan be ladǝn suwondǝna sǝna sau karǝno shima dǝga wande kǝndotǝnyi nankaro.,politics,travel,"SENTENCE:
+ Cidau diplomasiya be diye bayanna sadǝna kǝla sandibe shuwalla kadda lardǝ Afghanistan be ladǝn suwondǝna sǝna sau karǝno shima dǝga wande kǝndotǝnyi nankaro. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Woktu Jaza dǝ gawuna ladǝn, Gingrich be taidazǝ Santorum dǝga zazakǝsǝna, amma kuru zaumaro Romney dǝro kuttǝ, shi duwo saunzǝ nankaro talla sandǝnyi ma dǝga nasha Iowa be ladǝn tarǝtǝna ma kǝla Gingrich diyen.",politics,politics,"SENTENCE:
+ Woktu Jaza dǝ gawuna ladǝn, Gingrich be taidazǝ Santorum dǝga zazakǝsǝna, amma kuru zaumaro Romney dǝro kuttǝ, shi duwo saunzǝ nankaro talla sandǝnyi ma dǝga nasha Iowa be ladǝn tarǝtǝna ma kǝla Gingrich diyen. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+Ade shima Martellybe kən uwuro CEP dən namtənzəwo suro saa diyau ben.,politics,politics,"SENTENCE:
+ Ade shima Martellybe kən uwuro CEP dən namtənzəwo suro saa diyau ben. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+"Shi sarka dinarbe buwuma gasa Olympicbedən loktunzə kambe 100m lan səta 200m ro saadəna dəro yakkəro gasa Commonwealth Games bedən sədin, am dalil kaziyinzə bayanzənadəbe səke nim nəlefanzədə tawattəgənyi.",sports,sports,"SENTENCE:
+ Shi sarka dinarbe buwuma gasa Olympicbedən loktunzə kambe 100m lan səta 200m ro saadəna dəro yakkəro gasa Commonwealth Games bedən sədin, am dalil kaziyinzə bayanzənadəbe səke nim nəlefanzədə tawattəgənyi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Shi kuren biske Olympicbe dəga buwoma də, Saito shima biske ngawaye yikəliwoma Japanbe dəbe kəlakelnza sammasobe kuranzawo loktu kərmude waazenaden.",sports,sports,"SENTENCE:
+ Shi kuren biske Olympicbe dəga buwoma də, Saito shima biske ngawaye yikəliwoma Japanbe dəbe kəlakelnza sammasobe kuranzawo loktu kərmude waazenaden. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Sandi International Olympic Committee dəbe kuriya sadə kuru shi biskea gade suro gasanzabe dəro kəlzaa na loktu amnza kuraadəga samnonza bəla Berlin nen kuro sadəna dən. Rugby, musamn no shi kungiya rugby yea, kuru golf ye a sandima biskeya uwun samin gade karza suro gasa Olympics se dəro cako.",sports,sports,"SENTENCE:
+ Sandi International Olympic Committee dəbe kuriya sadə kuru shi biskea gade suro gasanzabe dəro kəlzaa na loktu amnza kuraadəga samnonza bəla Berlin nen kuro sadəna dən. Rugby, musamn no shi kungiya rugby yea, kuru golf ye a sandima biskeya uwun samin gade karza suro gasa Olympics se dəro cako. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Gaska shirokurawoba donyi kǝmǝndeye dǝ December lan tǝdin fǝrakǝram polo ye Las Cañitas yedǝn.,sports,sports,"SENTENCE:
+ Gaska shirokurawoba donyi kǝmǝndeye dǝ December lan tǝdin fǝrakǝram polo ye Las Cañitas yedǝn. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Woktu duwo sandibe bǝrni Catalan be dǝro waltǝana ladǝn, Vidal be biskea alama 49 yeyi bakǝsǝna suro karafǝka diyen.",sports,sports,"SENTENCE:
+ Woktu duwo sandibe bǝrni Catalan be dǝro waltǝana ladǝn, Vidal be biskea alama 49 yeyi bakǝsǝna suro karafǝka diyen. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Nәlewa duno tiyibe kәrzәkkәro cistәgә-a, halla nji tiyibero cistәgәye faidajinma kәndo-a, kuru nashawa kәndowa kәmbuwa tiyiro faidajin yirabe notә-adә am bikkewu au kasomaso’a banazә futu sadin ngalwozәyin kuru kәji bikkedәye fantәnza sәrayin.",sports,travel,"SENTENCE:
+ Nәlewa duno tiyibe kәrzәkkәro cistәgә-a, halla nji tiyibero cistәgәye faidajinma kәndo-a, kuru nashawa kәndowa kәmbuwa tiyiro faidajin yirabe notә-adә am bikkewu au kasomaso’a banazә futu sadin ngalwozәyin kuru kәji bikkedәye fantәnza sәrayin. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Kǝn yaskǝmi ladǝn, Hamlin dǝ maki findi lan sha kowada, ammaa sonyayi kuru Bowyer dǝa maki uwu ladǝn kozǝna. Kahne dǝa Truex, Jr. Dǝa dǝ sandima kǝn araskǝ megawo, kuru makinza diye alama 2,220-a kuru 2,207-a yeyi.",sports,sports,"SENTENCE:
+ Kǝn yaskǝmi ladǝn, Hamlin dǝ maki findi lan sha kowada, ammaa sonyayi kuru Bowyer dǝa maki uwu ladǝn kozǝna. Kahne dǝa Truex, Jr. Dǝa dǝ sandima kǝn araskǝ megawo, kuru makinza diye alama 2,220-a kuru 2,207-a yeyi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Nadal be Canada dǝga koro 7-2 lan jowo.,sports,sports,"SENTENCE:
+ Nadal be Canada dǝga koro 7-2 lan jowo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Jarque shima jarabcin loktu mazaktə kawu loktu biskebe dəro suro bəla Coverciano lardə Italy ben. Shiga am biskewudəga samma kallo kasharu hotel-dən kawu gaska yim Ladəga sandiya Bolonia biskezayindəro.,sports,sports,"SENTENCE:
+ Jarque shima jarabcin loktu mazaktə kawu loktu biskebe dəro suro bəla Coverciano lardə Italy ben. Shiga am biskewudəga samma kallo kasharu hotel-dən kawu gaska yim Ladəga sandiya Bolonia biskezayindəro. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Nəm kayiwu awo kəmbaye baadə shima biskedəa suro na zakkatan baktadə mburo sədə sau team dəbe kərawumanza sammaso səwanda isayin ba.,sports,sports,"SENTENCE:
+ Nəm kayiwu awo kəmbaye baadə shima biskedəa suro na zakkatan baktadə mburo sədə sau team dəbe kərawumanza sammaso səwanda isayin ba. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Tommy Dreamerbe wono ""Luna shima Maryam Kərashim burowobe. Cidawunyibe kəla kuruma. Luna yim kawu indi kəntawube ndiben bowon. Shi zaumaro jilinzə gade. Zaumaro kamu kərashim.""",sports,entertainment,"SENTENCE:
+ Tommy Dreamerbe wono ""Luna shima Maryam Kərashim burowobe. Cidawunyibe kəla kuruma. Luna yim kawu indi kəntawube ndiben bowon. Shi zaumaro jilinzə gade. Zaumaro kamu kərashim."" 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Biske Poland be kongaa be biskemanzǝ Maciej Krezel dǝa guide Anna Ogarzynska dǝgan kuntenro kǝn meuun yaskiin ro kasha suro biske Super-G be ladǝn, Jong Seork nasha anǝmga lardǝ Korea be madǝbe kǝn findin degǝǝn be dǝro kadiwo suro biske Konga be Super-G be ladǝn.",sports,sports,"SENTENCE:
+ Biske Poland be kongaa be biskemanzǝ Maciej Krezel dǝa guide Anna Ogarzynska dǝgan kuntenro kǝn meuun yaskiin ro kasha suro biske Super-G be ladǝn, Jong Seork nasha anǝmga lardǝ Korea be madǝbe kǝn findin degǝǝn be dǝro kadiwo suro biske Konga be Super-G be ladǝn. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Hawar kǝla gaskawadǝyen kuru na ciket biskewa polo bero yiwobe, Karafka Argentina de Polo dǝ delye.",sports,sports,"SENTENCE:
+ Hawar kǝla gaskawadǝyen kuru na ciket biskewa polo bero yiwobe, Karafka Argentina de Polo dǝ delye. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Biske də sa 10:00suwayen badiyatə kuru balte dəma dawunbaro Yimdən alamaram dinaye dəma kəji, zauro yim shima də biskewu Rugby 7 yero kəji.",sports,sports,"SENTENCE:
+ Biske də sa 10:00suwayen badiyatə kuru balte dəma dawunbaro Yimdən alamaram dinaye dəma kəji, zauro yim shima də biskewu Rugby 7 yero kəji. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Arly Velasquez lardǝ Mexico bedǝ kǝn meuun wuri mero tamowono suro biske konga be men standing Super-G lan notǝna diyen, daji kuru Adam Hall lardǝ New Zealand be diye kǝn legar mero tamowono suro biske konga be men standing Super-G lan notǝna diyen.",sports,sports,"SENTENCE:
+ Arly Velasquez lardǝ Mexico bedǝ kǝn meuun wuri mero tamowono suro biske konga be men standing Super-G lan notǝna diyen, daji kuru Adam Hall lardǝ New Zealand be diye kǝn legar mero tamowono suro biske konga be men standing Super-G lan notǝna diyen. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Biske darela be madǝbe nasha Ellis Park lardǝ Johannesburg be ladǝn sadin, naduwo Springbok dǝa lardǝ Australia be dǝa be biskezayin ma.",sports,sports,"SENTENCE:
+ Biske darela be madǝbe nasha Ellis Park lardǝ Johannesburg be ladǝn sadin, naduwo Springbok dǝa lardǝ Australia be dǝa be biskezayin ma. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Kǝndaram ngǝlaso lan nyiye rannǝm zannǝmin ganalaa letuwa nǝm cintun kozǝna - do amma zauro yilaan nyiye kaso donyi skiing lardǝ dǝryitaye ngawananǝm lan kurwowu hangalyakcin baro.,sports,sports,"SENTENCE:
+ Kǝndaram ngǝlaso lan nyiye rannǝm zannǝmin ganalaa letuwa nǝm cintun kozǝna - do amma zauro yilaan nyiye kaso donyi skiing lardǝ dǝryitaye ngawananǝm lan kurwowu hangalyakcin baro. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Foint sandi tulur lan sha kowono, Johnson dǝ Foint nzǝ alama 2,243 yeyi.",sports,sports,"SENTENCE:
+ Foint sandi tulur lan sha kowono, Johnson dǝ Foint nzǝ alama 2,243 yeyi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Canyoning (au: canyoneering) dǝ biske sami na kǝriro Canyon ro kǝmbaye, au imma njiya kek au harrata.",sports,sports,"SENTENCE:
+ Canyoning (au: canyoneering) dǝ biske sami na kǝriro Canyon ro kǝmbaye, au imma njiya kek au harrata. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Robin Uthappa diye suwondǝ koro sandi 70 sǝkǝna suro biskea sandi 41 bakǝsǝna diyen, adai kuru diyau sandi mewun luko tilon-a araskǝ sandi indi-a suwondǝ.",sports,sports,"SENTENCE:
+ Robin Uthappa diye suwondǝ koro sandi 70 sǝkǝna suro biskea sandi 41 bakǝsǝna diyen, adai kuru diyau sandi mewun luko tilon-a araskǝ sandi indi-a suwondǝ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Biskedo nasha yala lardə shimadəben suwadə shima bike gaska kəla mafiben, rokko gaskado biskabe Italybedə ye biskewa dunnyabero walzəna kuru loktu Olympicben kuntenro.",sports,sports,"SENTENCE:
+ Biskedo nasha yala lardə shimadəben suwadə shima bike gaska kəla mafiben, rokko gaskado biskabe Italybedə ye biskewa dunnyabero walzəna kuru loktu Olympicben kuntenro. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Maroochydore diye sami Dǝgal be ladǝn tamowono kuru maki sandi araskǝ lan Noosa be dǝga kowono.,sports,sports,"SENTENCE:
+ Maroochydore diye sami Dǝgal be ladǝn tamowono kuru maki sandi araskǝ lan Noosa be dǝga kowono. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Michael Schumacher be gasanzə də cotto daano tussunyi ngawo Alonso ben, dalilnzə diye sawu shiga suro gasa shima dəben satuluwuna dəbe səkə.",sports,sports,"SENTENCE:
+ Michael Schumacher be gasanzə də cotto daano tussunyi ngawo Alonso ben, dalilnzə diye sawu shiga suro gasa shima dəben satuluwuna dəbe səkə. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Kәndowa kәmbu buwoye ngәla tilonzәdә awo ngәla dio suwudimba, amma nәlewa tiyi bikkema au kasoma citәbәlinmiye futu ngәlamen lejin.",sports,travel,"SENTENCE:
+ Kәndowa kәmbu buwoye ngәla tilonzәdә awo ngәla dio suwudimba, amma nәlewa tiyi bikkema au kasoma citәbәlinmiye futu ngәlamen lejin. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Shibe kurun dəwo shiga banazəgə kasuwanzə dəga baro sədinmadə sayinba kuru son sandiya biskedən satuluwuna. the Games.,sports,sports,"SENTENCE:
+ Shibe kurun dəwo shiga banazəgə kasuwanzə dəga baro sədinmadə sayinba kuru son sandiya biskedən satuluwuna. the Games. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Kulashiye fәlezәna kamuwasodә MSye sandiya ngәwuro sәtayin konga’a kozanaro gadegade indi yedeiro.,health,travel,"SENTENCE:
+ Kulashiye fәlezәna kamuwasodә MSye sandiya ngәwuro sәtayin konga’a kozanaro gadegade indi yedeiro. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Awo hangalbaaye dǝ tajirwa battibatti kada suronzǝn methanol yin kunten, shi donyi nǝmkumbu suwudin au kǝrmu kai hatta cilliyu ganaganan kunten.",health,travel,"SENTENCE:
+ Awo hangalbaaye dǝ tajirwa battibatti kada suronzǝn methanol yin kunten, shi donyi nǝmkumbu suwudin au kǝrmu kai hatta cilliyu ganaganan kunten. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Tamoram awo laa zauro diwi waajinro fantәbe, karәgә za-a ritә-aye gәnyi shima naptәwa PAye magә woson mburo sәdin.",health,travel,"SENTENCE:
+ Tamoram awo laa zauro diwi waajinro fantәbe, karәgә za-a ritә-aye gәnyi shima naptәwa PAye magә woson mburo sәdin. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Kəngatiwudə mota kasuwubesoye kambosoro tajirwa kəla diwalbedə ngəwu dalilzalan wajin, adə shima mundə bulinna nasha nalewabeso tiyi bannatəna nzasobega sambu.",health,travel,"SENTENCE:
+ Kəngatiwudə mota kasuwubesoye kambosoro tajirwa kəla diwalbedə ngəwu dalilzalan wajin, adə shima mundə bulinna nasha nalewabeso tiyi bannatəna nzasobega sambu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Kulashiu kura-kura diye wada, ngai diye sǝkǝ nagadǝ ro kasuwa Tuno-kura be so, tuno karuwu be so, kasuwa Chil buruw be so, kuru kasuwa kantana be duwo amma duno ganaa zǝamzǝna asutin sǝna suro lardǝbe ladǝn.",health,travel,"SENTENCE:
+ Kulashiu kura-kura diye wada, ngai diye sǝkǝ nagadǝ ro kasuwa Tuno-kura be so, tuno karuwu be so, kasuwa Chil buruw be so, kuru kasuwa kantana be duwo amma duno ganaa zǝamzǝna asutin sǝna suro lardǝbe ladǝn. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Dr Ehud Ur, Shehu ilmu be nasha kǝra karwun be kǝrazana ma nasha maranta jamiya bǝrni Dalhousie kǝre Halifax lardǝ Nova Scotia be, adǝgaima kuru kazadala nasha hukuma lamarra kasuwa Shǝwurǝ be lardǝ Canada be diye be bayanna sǝdǝna kǝla kǝrmaro suro kulashi be lan kashara ben.",health,N/A,"SENTENCE:
+ Dr Ehud Ur, Shehu ilmu be nasha kǝra karwun be kǝrazana ma nasha maranta jamiya bǝrni Dalhousie kǝre Halifax lardǝ Nova Scotia be, adǝgaima kuru kazadala nasha hukuma lamarra kasuwa Shǝwurǝ be lardǝ Canada be diye be bayanna sǝdǝna kǝla kǝrmaro suro kulashi be lan kashara ben. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: education</s>"
+"Sandi duli anyi mazalnza ngәwu, dalil sandidә ""halwa tajirwaa sadin, luwala sadin, kuru hukuma luwalazain"" kәrgәnza mazatsa nankaro, kәrgәnzadә diwal adagatamen mazatsainba.",health,travel,"SENTENCE:
+ Sandi duli anyi mazalnza ngәwu, dalil sandidә ""halwa tajirwaa sadin, luwala sadin, kuru hukuma luwalazain"" kәrgәnza mazatsa nankaro, kәrgәnzadә diwal adagatamen mazatsainba. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Bani adam sodǝbe muwonzǝ awo shima diye sandiya zǝamjin woktu sandibe nji dǝa yinzaya.,health,travel,"SENTENCE:
+ Bani adam sodǝbe muwonzǝ awo shima diye sandiya zǝamjin woktu sandibe nji dǝa yinzaya. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Am laaye kәnashin kunkunnnәm nashintәdә ngәwusoro kasәmbaaro sasarana.,health,travel,"SENTENCE:
+ Am laaye kәnashin kunkunnnәm nashintәdә ngәwusoro kasәmbaaro sasarana. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Potro ye ngawananzə shiro sagəsana loktudəman am attəson yayi kokari sədə biske dəro waltəna.,health,sports,"SENTENCE:
+ Potro ye ngawananzə shiro sagəsana loktudəman am attəson yayi kokari sədə biske dəro waltəna. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Kuruson, galtә baye tamoram batti suwudin: wuratә kutta-a, kәnaye gotә-a kәrmu-a.",health,travel,"SENTENCE:
+ Kuruson, galtә baye tamoram batti suwudin: wuratә kutta-a, kәnaye gotә-a kәrmu-a. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Cidau nasha Amsterdam bega kuru fato karea Gargam be gǝnatǝbe nasha Anne Frank be diye bayanna sadǝna kǝla kasuwa dǝ tiyi kǝska ben kara ben, kuru amma sodǝga muwonzǝ zǝamjin woktu faidataya, kuru adǝgaima kǝska dǝ zaumaro tajirǝwa.",health,travel,"SENTENCE:
+ Cidau nasha Amsterdam bega kuru fato karea Gargam be gǝnatǝbe nasha Anne Frank be diye bayanna sadǝna kǝla kasuwa dǝ tiyi kǝska ben kara ben, kuru amma sodǝga muwonzǝ zǝamjin woktu faidataya, kuru adǝgaima kǝska dǝ zaumaro tajirǝwa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Lətari shima adə kaidaa kasuwadə gotabe nzəliwoye sam so gozəna, suronzan shi kam kasuwa dəga tiyinzən mbezai dəga dawu am dondi gadesoben tuluwo a sau wande am gade dəso dəbe kasuwa shima dəga gozanyi ro.",health,travel,"SENTENCE:
+ Lətari shima adə kaidaa kasuwadə gotabe nzəliwoye sam so gozəna, suronzan shi kam kasuwa dəga tiyinzən mbezai dəga dawu am dondi gadesoben tuluwo a sau wande am gade dəso dəbe kasuwa shima dəga gozanyi ro. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Cidaram lamar Sharayeso demokrasiyesoma Haiti ye dəye ngəmzalaro kulashi sadəna dən Nepalwu Nnzəlifo tawattama UN yesodəma notubalan kwasadə Haiti ro sawudəro fəlezəna.,health,politics,"SENTENCE:
+ Cidaram lamar Sharayeso demokrasiyesoma Haiti ye dəye ngəmzalaro kulashi sadəna dən Nepalwu Nnzəlifo tawattama UN yesodəma notubalan kwasadə Haiti ro sawudəro fəlezəna. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: world politics</s>"
+"Kwasuwawa kamsoro faltayindǝ, au dabba kǝladoso do kamma naskanzayin au lorzayindǝ, mowonzǝ sandiya dabbawa banna diomaro gotimba.",health,travel,"SENTENCE:
+ Kwasuwawa kamsoro faltayindǝ, au dabba kǝladoso do kamma naskanzayin au lorzayindǝ, mowonzǝ sandiya dabbawa banna diomaro gotimba. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Duli mazal ADDbeadә kazәyinza hangalnza awowaro kәnjoye mbeji alama cida moworontibe, amma bikkewa au katun saragәna lawartә au shatarwa fasal baro ruwodәn tamtamzaa.",health,N/A,"SENTENCE:
+ Duli mazal ADDbeadә kazәyinza hangalnza awowaro kәnjoye mbeji alama cida moworontibe, amma bikkewa au katun saragәna lawartә au shatarwa fasal baro ruwodәn tamtamzaa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: education education</s>"
+"Suro saa fal be ladǝn, kam duwo kasuwa diye zǝmazǝna diye rakǝsǝ amma alama 10 au 15 ro falǝzǝyin.",health,travel,"SENTENCE:
+ Suro saa fal be ladǝn, kam duwo kasuwa diye zǝmazǝna diye rakǝsǝ amma alama 10 au 15 ro falǝzǝyin. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Woktu luwala dǝ dazǝna ben ngawo sandi zau so fanzana dǝga litari ro tadǝna ladǝn, Prisonau sandi kam 40 yeyi nadǝn nabǝsa kuru kǝndǝgaramza dǝro waltǝro wada.",health,travel,"SENTENCE:
+ Woktu luwala dǝ dazǝna ben ngawo sandi zau so fanzana dǝga litari ro tadǝna ladǝn, Prisonau sandi kam 40 yeyi nadǝn nabǝsa kuru kǝndǝgaramza dǝro waltǝro wada. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Mai Augustusye liitawa cidaro gotә badiwonokuru karapka burwoye Roman Medical Corps-dәma ngawo kәrigәsoyen cidaro kokkada.,health,sports,"SENTENCE:
+ Mai Augustusye liitawa cidaro gotә badiwonokuru karapka burwoye Roman Medical Corps-dәma ngawo kәrigәsoyen cidaro kokkada. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Attəson yayi, shi matodə gərtamadə zau kəlanzən fanzəna.",health,travel,"SENTENCE:
+ Attəson yayi, shi matodə gərtamadə zau kəlanzən fanzəna. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"“Kǝrmaro nanden Njiluwa kǝntagǝ 4 soga mbeji sandi duwo buron kasuwa shwurǝ be diye sandiya zǝamzǝna ma, ammaa kǝrma sandiya kolzǝna,"" sǝ gullono.",health,travel,"SENTENCE:
+ “Kǝrmaro nanden Njiluwa kǝntagǝ 4 soga mbeji sandi duwo buron kasuwa shwurǝ be diye sandiya zǝamzǝna ma, ammaa kǝrma sandiya kolzǝna,"" sǝ gullono. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Asәm suroayedә tiniro asutimba. Alamawa, jili fitә yedeidә ngәwusoro shimaye sәtin hattaa kulasnәm asutә tiniye mowonzә tәdimba.",health,travel,"SENTENCE:
+ Asәm suroayedә tiniro asutimba. Alamawa, jili fitә yedeidә ngәwusoro shimaye sәtin hattaa kulasnәm asutә tiniye mowonzә tәdimba. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Sau Jaza diyero, woktu shima ladǝn sandibe safǝtana Tafa dǝa gǝrzayin, kuru hatta nasha shima ladǝn hangal jamiye sodǝga gǝrjin kǝla sandibe kǝltaa ben.",entertainment,travel,"SENTENCE:
+ Sau Jaza diyero, woktu shima ladǝn sandibe safǝtana Tafa dǝa gǝrzayin, kuru hatta nasha shima ladǝn hangal jamiye sodǝga gǝrjin kǝla sandibe kǝltaa ben. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Aerosmith dəbe cotto lamarranzə kəji fantəye gafsəna maso dəga dawarrada.,entertainment,entertainment,"SENTENCE:
+ Aerosmith dəbe cotto lamarranzə kəji fantəye gafsəna maso dəga dawarrada. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Nyi awo sadin dǝ karǝngǝnǝmin rumiya raama maa nyi'ye daten lenǝm na zǝbtǝrǝm na kayya be dǝa karǝngǝ mane.,entertainment,travel,"SENTENCE:
+ Nyi awo sadin dǝ karǝngǝnǝmin rumiya raama maa nyi'ye daten lenǝm na zǝbtǝrǝm na kayya be dǝa karǝngǝ mane. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+film namgam gadegade kada mbeji kǝrwu kadan shilan faidatanama. film 35 mm nowata dǝ (36 men 24 mm kurekure dǝye) zauro nowata.,entertainment,entertainment,"SENTENCE:
+ film namgam gadegade kada mbeji kǝrwu kadan shilan faidatanama. film 35 mm nowata dǝ (36 men 24 mm kurekure dǝye) zauro nowata. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Adaima adǝma dǝ awo nowata, Disney ye dabsǝwuna: tickets dǝ faltuwin-ba.",entertainment,entertainment,"SENTENCE:
+ Adaima adǝma dǝ awo nowata, Disney ye dabsǝwuna: tickets dǝ faltuwin-ba. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Fanni hawar dəyewoso kəla Nasha kakadiye donyi taanasye lan kuru Nasha shimadəa bayan jiri kadamen bayanjin.,entertainment,entertainment,"SENTENCE:
+ Fanni hawar dəyewoso kəla Nasha kakadiye donyi taanasye lan kuru Nasha shimadəa bayan jiri kadamen bayanjin. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Allo Telebijan be kadda nasha gade-gade Rome be ladǝn kokǝtǝna sau amma sodǝbe suwondǝ kǝlele dǝga kuru nankaro.,entertainment,travel,"SENTENCE:
+ Allo Telebijan be kadda nasha gade-gade Rome be ladǝn kokǝtǝna sau amma sodǝbe suwondǝ kǝlele dǝga kuru nankaro. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Sophocles-a kuru Aristophanes-a sandiye suro biske makarbe rowotəwu suwabe ladən kasharu, kuruman bikenza makarbedə suro cidawa adabbe shigaiba bedəro somtəyin dunnyalan.",entertainment,entertainment,"SENTENCE:
+ Sophocles-a kuru Aristophanes-a sandiye suro biske makarbe rowotəwu suwabe ladən kasharu, kuruman bikenza makarbedə suro cidawa adabbe shigaiba bedəro somtəyin dunnyalan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Hawar woso kuru kakadiya donyi dulisoye njim kərayero lezaiya baraza kərazaiya sandənaso samma bayanzəyin.,entertainment,travel,"SENTENCE:
+ Hawar woso kuru kakadiya donyi dulisoye njim kərayero lezaiya baraza kərazaiya sandənaso samma bayanzəyin. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Accordionladәn, kowo gade fondoro, bubutuwadә ngәlaro ratne au doidoiro diye.",entertainment,entertainment,"SENTENCE:
+ Accordionladәn, kowo gade fondoro, bubutuwadә ngәlaro ratne au doidoiro diye. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Rangǝm kawwa dǝ na sǝlǝm lan rumin kuru sa kǝdǝk kalla ba la yen kawu biske dǝ baditin lan yen rumin.,entertainment,travel,"SENTENCE:
+ Rangǝm kawwa dǝ na sǝlǝm lan rumin kuru sa kǝdǝk kalla ba la yen kawu biske dǝ baditin lan yen rumin. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Misalwa nashalan awo kundotәbedә sandima kundowa alamanna baraso, bәnyi kәntaso, foto gotaso, ngudowa lawartәso, zusoro letәso kuru nazaru kәla lamar dunyaben dioso.",entertainment,travel,"SENTENCE:
+ Misalwa nashalan awo kundotәbedә sandima kundowa alamanna baraso, bәnyi kәntaso, foto gotaso, ngudowa lawartәso, zusoro letәso kuru nazaru kәla lamar dunyaben dioso. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Sphinx dǝ shiya alama kǝla hawarbe-a hawar kuruwu kǝnjoma-a yeyi ro tǝdo,entertainment,entertainment,"SENTENCE:
+ Sphinx dǝ shiya alama kǝla hawarbe-a hawar kuruwu kǝnjoma-a yeyi ro tǝdo 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Nguwusoro kumbu taanasye mbeji, kǝnzaso kuru awowalaa sotoyesowa, kusottowaso wa halkǝjiyaro rotǝro, kuru sandiya dalillaro rotǝro.",entertainment,travel,"SENTENCE:
+ Nguwusoro kumbu taanasye mbeji, kǝnzaso kuru awowalaa sotoyesowa, kusottowaso wa halkǝjiyaro rotǝro, kuru sandiya dalillaro rotǝro. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Buron hawarra tarzayin təlam English a Japanesean, shi cidaram dunya sammasobe dəbe təlam Spanish a, Italian a, kuru Korean-a faraskaram sawudinl, nashanzə televisionbe ro, layi web be, kuru nasha waya salulabe a.",entertainment,entertainment,"SENTENCE:
+ Buron hawarra tarzayin təlam English a Japanesean, shi cidaram dunya sammasobe dəbe təlam Spanish a, Italian a, kuru Korean-a faraskaram sawudinl, nashanzə televisionbe ro, layi web be, kuru nasha waya salulabe a. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Buron shi Simpsons Simon də naa kadan cidazəna kuru kərmai kada rozəna.,entertainment,entertainment,"SENTENCE:
+ Buron shi Simpsons Simon də naa kadan cidazəna kuru kərmai kada rozəna. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Adəbe am biskedə sadin dəro futu am biske video game me dəbe letənza'a kalkallo cissayin saku kasammo fəlezayya.,entertainment,entertainment,"SENTENCE:
+ Adəbe am biskedə sadin dəro futu am biske video game me dəbe letənza'a kalkallo cissayin saku kasammo fəlezayya. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Gananzə yayi am 100 yeyi samno kəji fantebe dəga adarzana, sandibe kəlelenza kəla kamuwa kuwa dəwo saanza fal suro fanza lorusaben debe klele ro.",entertainment,travel,"SENTENCE:
+ Gananzə yayi am 100 yeyi samno kəji fantebe dəga adarzana, sandibe kəlelenza kəla kamuwa kuwa dəwo saanza fal suro fanza lorusaben debe klele ro. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Kayya indi suro Fim duwo Auditionbeladǝn ( Zolia sandi indi duwo kǝnashin sadin dǝga) bǝrni sǝllewubedǝga be marǝtawa au shim titi nabtǝ kayau kayya jirebe ma dǝga suwondǝna. Adǝgaikuru shi Lionsgate Studio madǝbe shim titi sandi 26 -- suwondǝ kuru ndube soga kozǝna.,entertainment,entertainment,"SENTENCE:
+ Kayya indi suro Fim duwo Auditionbeladǝn ( Zolia sandi indi duwo kǝnashin sadin dǝga) bǝrni sǝllewubedǝga be marǝtawa au shim titi nabtǝ kayau kayya jirebe ma dǝga suwondǝna. Adǝgaikuru shi Lionsgate Studio madǝbe shim titi sandi 26 -- suwondǝ kuru ndube soga kozǝna. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Crust dә shitinzә karunguyedәn nәmgәdәdәpnzә 70km ma sәtәna kuru shitinzә cintuyedәn nәmgәdәdәpnzә 100 km ma sәtәna.,geography,travel,"SENTENCE:
+ Crust dә shitinzә karunguyedәn nәmgәdәdәpnzә 70km ma sәtәna kuru shitinzә cintuyedәn nәmgәdәdәpnzә 100 km ma sәtәna. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Father south dǝ Niagara Falls kuru north dǝye fato donyi awowa shawashawa letǝyi so ye Muskoka so shin samin so.,geography,travel,"SENTENCE:
+ Father south dǝ Niagara Falls kuru north dǝye fato donyi awowa shawashawa letǝyi so ye Muskoka so shin samin so. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ellsworth Landdǝ sidi laa gǝdi Peninsulayen, kǝmoduwu Bellingshausen ye shiya dǝrizǝ kǝlzǝna.",geography,travel,"SENTENCE:
+ Ellsworth Landdǝ sidi laa gǝdi Peninsulayen, kǝmoduwu Bellingshausen ye shiya dǝrizǝ kǝlzǝna. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+zawal South Pole ye dǝ (aw zawal kura) dǝ letǝ 1600 km ye McMurdo lan cinǝm Ross Sea men Pole ro letǝ dǝ.,geography,travel,"SENTENCE:
+ zawal South Pole ye dǝ (aw zawal kura) dǝ letǝ 1600 km ye McMurdo lan cinǝm Ross Sea men Pole ro letǝ dǝ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Tuwakundo kǝla darye yala Machu Picchu dǝ zuruwu kaube, sambiyayero ngawozaktǝ sura nguwuye bannazǝna.",geography,travel,"SENTENCE:
+ Tuwakundo kǝla darye yala Machu Picchu dǝ zuruwu kaube, sambiyayero ngawozaktǝ sura nguwuye bannazǝna. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Enceladus dǝ shima awo shawa rinta duwo suro Kausu be ladǝn, shine alama sana 90 yeyi suro kausu be ladǝn fǝlejin, taganas maro suro sandi duwo sha nazǝana be ladǝn.",geography,science/technology,"SENTENCE:
+ Enceladus dǝ shima awo shawa rinta duwo suro Kausu be ladǝn, shine alama sana 90 yeyi suro kausu be ladǝn fǝlejin, taganas maro suro sandi duwo sha nazǝana be ladǝn. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+"Sami cilang, shawadә-a kauwa dәriza kәlzana kurun nguron, Suro kaubedәn lamar dunyabe zauro gana turin au fantin.",geography,travel,"SENTENCE:
+ Sami cilang, shawadә-a kauwa dәriza kәlzana kurun nguron, Suro kaubedәn lamar dunyabe zauro gana turin au fantin. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Kərmaro shi Japandə. Japandə lardə ci njibero kara, alama lardə Britainbe gai.",geography,travel,"SENTENCE:
+ Kərmaro shi Japandə. Japandə lardə ci njibero kara, alama lardə Britainbe gai. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Kururamnzǝ ladǝn, Gonu be konnu ngǝwunzǝ adǝlan, shi duwo suron kǝska au lambo difino be mbeji ma tǝlam Maldives be diye, kasam alama kilomita 240 yeyi dǝ nazayin suro awa fal ben (Mil 149 yeyi awa fal woson).",geography,travel,"SENTENCE:
+ Kururamnzǝ ladǝn, Gonu be konnu ngǝwunzǝ adǝlan, shi duwo suron kǝska au lambo difino be mbeji ma tǝlam Maldives be diye, kasam alama kilomita 240 yeyi dǝ nazayin suro awa fal ben (Mil 149 yeyi awa fal woson). 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Korkordo lardə Turkeybedəa, kelənzə shiga dəriza kəlzənan kuntenro sukwaya mita 783,562 (300,948 sq mi) suroladən sukwaya mita 755,688 (291,773 sq mi) sandidə nasha anəm futea nash Asia kuru sukwaya mita 23,764 (9174 sq mi) suro Europe.",geography,travel,"SENTENCE:
+ Korkordo lardə Turkeybedəa, kelənzə shiga dəriza kəlzənan kuntenro sukwaya mita 783,562 (300,948 sq mi) suroladən sukwaya mita 755,688 (291,773 sq mi) sandidə nasha anəm futea nash Asia kuru sukwaya mita 23,764 (9174 sq mi) suro Europe. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Lardǝ South Shetland ye dǝwone saa 1819 lan asutǝna dǝ, lardǝwa kadaye shiro kǝrtana kuru suronzǝn gergerwa kada mbeji, suro dvǝn sandi mewun arakkǝn dǝ dunonǝga cidajin saa 2020 lan.",geography,travel,"SENTENCE:
+ Lardǝ South Shetland ye dǝwone saa 1819 lan asutǝna dǝ, lardǝwa kadaye shiro kǝrtana kuru suronzǝn gergerwa kada mbeji, suro dvǝn sandi mewun arakkǝn dǝ dunonǝga cidajin saa 2020 lan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Apia dǝ bulakura Samoa be. Bula dǝ island ye Upolo dǝn kuru nǝm nguwu am 40,000 yin cidiyan be mbeji.",geography,travel,"SENTENCE:
+ Apia dǝ bulakura Samoa be. Bula dǝ island ye Upolo dǝn kuru nǝm nguwu am 40,000 yin cidiyan be mbeji. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Shi karuwadə kuwa yayi ndi katenzəga sədiya cintu yayi, tasirinzə lardəa United States a Carribean na dəro notədə zaumaro zau.",geography,travel,"SENTENCE:
+ Shi karuwadə kuwa yayi ndi katenzəga sədiya cintu yayi, tasirinzə lardəa United States a Carribean na dəro notədə zaumaro zau. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Shidә cidiya mariabedәn zauro sarsar kuru cidiya highlandsbedәn zauro gәdәdәp.,geography,travel,"SENTENCE:
+ Shidә cidiya mariabedәn zauro sarsar kuru cidiya highlandsbedәn zauro gәdәdәp. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Karaadǝ biya mangrove swamp gǝ’yi do - gabciyou kǝrzaktǝ karaa yanderam shi donyi fallo Gangetic plain dǝwa zaksǝna ma.,geography,travel,"SENTENCE:
+ Karaadǝ biya mangrove swamp gǝ’yi do - gabciyou kǝrzaktǝ karaa yanderam shi donyi fallo Gangetic plain dǝwa zaksǝna ma. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Lardə Amerikaye nashanzə cidi gəzəktə dinaye kulashinma dəye fəlezəna kəla mawu ngawoyen nasha Iceland ye dən cidi gəzəktinbaro.,geography,travel,"SENTENCE:
+ Lardə Amerikaye nashanzə cidi gəzəktə dinaye kulashinma dəye fəlezəna kəla mawu ngawoyen nasha Iceland ye dən cidi gəzəktinbaro. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Kәla kauwa yala Meccaben, kaudә cotro dunyaadәma firtana.",geography,travel,"SENTENCE:
+ Kәla kauwa yala Meccaben, kaudә cotro dunyaadәma firtana. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"

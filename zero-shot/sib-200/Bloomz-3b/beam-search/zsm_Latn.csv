@@ -1,0 +1,2449 @@
+text,actual_category,predicted_category,generated_text
+Perubahan genetik baharu pertambahan mutasi dan pemilihan mengeluarkan dari himpunan perubahan yang ditonjolkan.,science/technology,N/A,"SENTENCE:
+ Perubahan genetik baharu pertambahan mutasi dan pemilihan mengeluarkan dari himpunan perubahan yang ditonjolkan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: genetics</s>"
+Bom pembelahan berfungsi berdasarkan prinsip bahawa tenaga diperlukan untuk menggabungkan nukleus dengan proton dan neutron yang banyak.,science/technology,science/technology,"SENTENCE:
+ Bom pembelahan berfungsi berdasarkan prinsip bahawa tenaga diperlukan untuk menggabungkan nukleus dengan proton dan neutron yang banyak. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+Nukleus terdiri daripada dua partikel iaitu neutron dan proton.,science/technology,science/technology,"SENTENCE:
+ Nukleus terdiri daripada dua partikel iaitu neutron dan proton. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+Ini telah membolehkan kanta zum menghasilkan gambar yang berkualiti setanding dengan yang dicapai oleh kanta dengan jarak fokus tetap.,science/technology,entertainment,"SENTENCE:
+ Ini telah membolehkan kanta zum menghasilkan gambar yang berkualiti setanding dengan yang dicapai oleh kanta dengan jarak fokus tetap. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Mereka adalah bagus pada proksi jaringan untuk beberapa sebab: Mereka mengalih semua laluan Internet, bukan hanya http.",science/technology,N/A,"SENTENCE:
+ Mereka adalah bagus pada proksi jaringan untuk beberapa sebab: Mereka mengalih semua laluan Internet, bukan hanya http. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: tech</s>"
+Reka bentuk interaktif memerlukan anda menilai semula jangkaan anda berkenaan produksi media dan belajar untuk berfikir secara tidak linear.,science/technology,entertainment,"SENTENCE:
+ Reka bentuk interaktif memerlukan anda menilai semula jangkaan anda berkenaan produksi media dan belajar untuk berfikir secara tidak linear. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Ini telah menjadi kebiasaan, tetap besi tersebut telah membuat roda kayu gerabak tersebut menjadi haus.",science/technology,travel,"SENTENCE:
+ Ini telah menjadi kebiasaan, tetap besi tersebut telah membuat roda kayu gerabak tersebut menjadi haus. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Sekumpulan singa dibentuk daripada seekor hingga tiga ekor jantan dewasa, bersama sebanyak tiga puluh ekor betina dan anak-anaknya.",science/technology,sports,"SENTENCE:
+ Sekumpulan singa dibentuk daripada seekor hingga tiga ekor jantan dewasa, bersama sebanyak tiga puluh ekor betina dan anak-anaknya. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Walaupun AI mempunyai konotasi yang kuat dengan fiksyen sains, AI membentuk cawangan yang sangat penting dalam sains komputer, berurusan dengan sikap, pembelajaran dan penyesuaian pintar dalam mesin.",science/technology,science/technology,"SENTENCE:
+ Walaupun AI mempunyai konotasi yang kuat dengan fiksyen sains, AI membentuk cawangan yang sangat penting dalam sains komputer, berurusan dengan sikap, pembelajaran dan penyesuaian pintar dalam mesin. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+Nisbah aspek format ini (terbahagi kepada dua belas bagi mendapatkan nisbah keseluruhan yang paling mudah) yang dikatakan 3:2.,science/technology,entertainment,"SENTENCE:
+ Nisbah aspek format ini (terbahagi kepada dua belas bagi mendapatkan nisbah keseluruhan yang paling mudah) yang dikatakan 3:2. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Secara umumnya,telefon satelit bukanlah pengganti telefon bimbit, kerana anda perlu berada di luar rumah untuk membuat penghantaran garis yang jelas ke satelit untuk membuat panggilan telefon.",science/technology,N/A,"SENTENCE:
+ Secara umumnya,telefon satelit bukanlah pengganti telefon bimbit, kerana anda perlu berada di luar rumah untuk membuat penghantaran garis yang jelas ke satelit untuk membuat panggilan telefon. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: tech</s>"
+"Walaupun landasan gerabak hanya terdiri daripada papan kayu selari, ia membolehkan kuda menariknya bagi mencapai kelajuan yang lebih tinggi dan menarik beban yang lebih berat berbanding jalan yang lebih kasar pada zaman itu.",science/technology,travel,"SENTENCE:
+ Walaupun landasan gerabak hanya terdiri daripada papan kayu selari, ia membolehkan kuda menariknya bagi mencapai kelajuan yang lebih tinggi dan menarik beban yang lebih berat berbanding jalan yang lebih kasar pada zaman itu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Rakyat telah diketahui tentang elemen asas kimia seperti emas, perak, dan tembaga dari zaman purba, kerana ini semua boleh ditemui dalam alam semula jadi dalam bentuk asli dan agak mudah untuk melombong dengan alat primitif.",science/technology,science/technology,"SENTENCE:
+ Rakyat telah diketahui tentang elemen asas kimia seperti emas, perak, dan tembaga dari zaman purba, kerana ini semua boleh ditemui dalam alam semula jadi dalam bentuk asli dan agak mudah untuk melombong dengan alat primitif. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+Roda telah mengubah dunia dengan cara yang luar biasa. Sumbangan terbesar roda kepada kita ialah penghasilan pengangkutan yang lebih mudah dan pantas.,science/technology,travel,"SENTENCE:
+ Roda telah mengubah dunia dengan cara yang luar biasa. Sumbangan terbesar roda kepada kita ialah penghasilan pengangkutan yang lebih mudah dan pantas. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Ini adalah untuk memastikan imej berkenaan meliputi seluruh skrin. Ini digelar “overscan”,science/technology,entertainment,"SENTENCE:
+ Ini adalah untuk memastikan imej berkenaan meliputi seluruh skrin. Ini digelar “overscan” 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Kapal selam Jerman dikenali sebagai kapal U. Orang Jerman sangat bagus dalam navigasi dan mengoperasi kapal selam mereka.,science/technology,N/A,"SENTENCE:
+ Kapal selam Jerman dikenali sebagai kapal U. Orang Jerman sangat bagus dalam navigasi dan mengoperasi kapal selam mereka. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: military</s>"
+Walaupun keadaan fizikal mungkin berubah namun keadaan kimianya mungkin kekal sama.,science/technology,science/technology,"SENTENCE:
+ Walaupun keadaan fizikal mungkin berubah namun keadaan kimianya mungkin kekal sama. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+Tegangan permukaan terjadi kerana molekul air pada permukaan air sangat tertarik kepada satu sama lain lebih berbanding molekul udara di atasnya.,science/technology,science/technology,"SENTENCE:
+ Tegangan permukaan terjadi kerana molekul air pada permukaan air sangat tertarik kepada satu sama lain lebih berbanding molekul udara di atasnya. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+Salah satu masalah yang sering berlaku ialah apabila percubaan menukar filem ke format DVD adalah overscan.,science/technology,entertainment,"SENTENCE:
+ Salah satu masalah yang sering berlaku ialah apabila percubaan menukar filem ke format DVD adalah overscan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Khususnya, dikatakan bahawa seseorang dapat mengesan sama ada seseorang itu sedang berbohong dengan mentafsirkan perubahan kecil air muka dengan betul.",science/technology,entertainment,"SENTENCE:
+ Khususnya, dikatakan bahawa seseorang dapat mengesan sama ada seseorang itu sedang berbohong dengan mentafsirkan perubahan kecil air muka dengan betul. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Emas boleh dibentuk dalam pelbagai jenis bentuk. Ia dapat digulung menjadi bentuk-bentuk yang kecil.,science/technology,entertainment,"SENTENCE:
+ Emas boleh dibentuk dalam pelbagai jenis bentuk. Ia dapat digulung menjadi bentuk-bentuk yang kecil. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Sistem AI kini sering digunakan dalam bidang ekonomi, perubatan, kejuruteraan dan ketenteraan, seperti yang telah dibina dalam beberapa komputer rumah dan aplikasi perisian permainan video.",science/technology,entertainment,"SENTENCE:
+ Sistem AI kini sering digunakan dalam bidang ekonomi, perubatan, kejuruteraan dan ketenteraan, seperti yang telah dibina dalam beberapa komputer rumah dan aplikasi perisian permainan video. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Ia masih dihasilkan sehingga kini, tetapi lebih penting dari itu, nisbah aspek telah diwarisi oleh format pengesan imej kamera digital.",science/technology,entertainment,"SENTENCE:
+ Ia masih dihasilkan sehingga kini, tetapi lebih penting dari itu, nisbah aspek telah diwarisi oleh format pengesan imej kamera digital. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Peraturan sepertiga yang sering disalahgunakan dan dicemuh ialah garis panduan ringkas yang mewujudkan dinamisme sambil mengekalkan ukuran tertib dalam imej.,science/technology,entertainment,"SENTENCE:
+ Peraturan sepertiga yang sering disalahgunakan dan dicemuh ialah garis panduan ringkas yang mewujudkan dinamisme sambil mengekalkan ukuran tertib dalam imej. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Hal ini bukan sahaja mengesahkan bahawa dinosaur tertentu mempunyai bulu, satu teori yang sudah tersebar luas, tetapi menyediakan butir-butir khusus yang secara amnya tidak dapat diberi oleh fosil, misalnya warna dan penyusunan tiga dimensi.",science/technology,science/technology,"SENTENCE:
+ Hal ini bukan sahaja mengesahkan bahawa dinosaur tertentu mempunyai bulu, satu teori yang sudah tersebar luas, tetapi menyediakan butir-butir khusus yang secara amnya tidak dapat diberi oleh fosil, misalnya warna dan penyusunan tiga dimensi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+"Bagaimanakah graviti Io menarik saya? Jika anda berdiri di permukaan Io, berat anda lebih rendah daripada berat anda di Bumi.",science/technology,science/technology,"SENTENCE:
+ Bagaimanakah graviti Io menarik saya? Jika anda berdiri di permukaan Io, berat anda lebih rendah daripada berat anda di Bumi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+NextGen adalah sistem tuntutan FAA yang akan membolehkan pesawat untuk terbang ke laluan yang lebih pendek dan menyelamatkan berjuta-juta gelen bahan api setiap tahun dan pelepasan karbon.,science/technology,travel,"SENTENCE:
+ NextGen adalah sistem tuntutan FAA yang akan membolehkan pesawat untuk terbang ke laluan yang lebih pendek dan menyelamatkan berjuta-juta gelen bahan api setiap tahun dan pelepasan karbon. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Data neurobiologi menyediakan bukti fizikal pendekatan teori kepada penyiasatan kognisi. Oleh itu, ia menghaluskan bidang penyelidikan yang menjadikannya lebih tepat.",science/technology,science/technology,"SENTENCE:
+ Data neurobiologi menyediakan bukti fizikal pendekatan teori kepada penyiasatan kognisi. Oleh itu, ia menghaluskan bidang penyelidikan yang menjadikannya lebih tepat. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+"Dalam ucapannya selama 2 jam, beliau menyatakan “Hari ini Apple akan mencipta semula telefon, Kita akan mencipta sejarah hari ini.”",science/technology,N/A,"SENTENCE:
+ Dalam ucapannya selama 2 jam, beliau menyatakan “Hari ini Apple akan mencipta semula telefon, Kita akan mencipta sejarah hari ini.” 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: tech</s>"
+Kekurangan lensa zoom adalah kerumitan fokal dan bilangan unsur lensa yang diperlukan untuk mencapai panjang fokal berbeza yang lebih luas berbanding untuk lensa perdana.,science/technology,travel,"SENTENCE:
+ Kekurangan lensa zoom adalah kerumitan fokal dan bilangan unsur lensa yang diperlukan untuk mencapai panjang fokal berbeza yang lebih luas berbanding untuk lensa perdana. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Menyerupai alat kawalan jauh televisyen, alat kawalan menggunakan dua sensor yang terletak dekat televisyen pengguna untuk triangulasi kedudukannya dalam ruang tiga dimensi.",science/technology,entertainment,"SENTENCE:
+ Menyerupai alat kawalan jauh televisyen, alat kawalan menggunakan dua sensor yang terletak dekat televisyen pengguna untuk triangulasi kedudukannya dalam ruang tiga dimensi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+. Para saintis mengatakan bahawa bulu haiwan ini berwarna coklat perang di bahagian atas dengan bahagian bawah adalah pucat atau berwarna karotenoid.,science/technology,sports,"SENTENCE:
+ . Para saintis mengatakan bahawa bulu haiwan ini berwarna coklat perang di bahagian atas dengan bahagian bawah adalah pucat atau berwarna karotenoid. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Kedua sebatian itu bereaksi dengan satu sama lain untuk membentuk kristal yang kemungkinan dapat menghambat fungsi ginjal, kata pengkaji di universiti itu.",science/technology,health,"SENTENCE:
+ Kedua sebatian itu bereaksi dengan satu sama lain untuk membentuk kristal yang kemungkinan dapat menghambat fungsi ginjal, kata pengkaji di universiti itu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: health</s>"
+Ini memberikan resolusi hampir empat kali ganda daripada negatif 35 mm (3136 mm2 lawan 864).,science/technology,entertainment,"SENTENCE:
+ Ini memberikan resolusi hampir empat kali ganda daripada negatif 35 mm (3136 mm2 lawan 864). 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Oleh kerana pautan kabel gentian optik bawah laut yang bersambung ke Eropah dan siaran satelit jalur lebar, Greenland terhubung baik dengan 93% dari populasi mempunyai akses Internet.",science/technology,travel,"SENTENCE:
+ Oleh kerana pautan kabel gentian optik bawah laut yang bersambung ke Eropah dan siaran satelit jalur lebar, Greenland terhubung baik dengan 93% dari populasi mempunyai akses Internet. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Salah satu aplikasi paling terkenal dalam kategori ini ialah Google Translate yang membenarkan terjemahan luar talian setelah memuat turun data bahasa yang diinginkan.,science/technology,N/A,"SENTENCE:
+ Salah satu aplikasi paling terkenal dalam kategori ini ialah Google Translate yang membenarkan terjemahan luar talian setelah memuat turun data bahasa yang diinginkan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: tech</s>"
+"Ia mempunyai struktur molekul serupa sama ada gas, cecair, atau pepejal.",science/technology,N/A,"SENTENCE:
+ Ia mempunyai struktur molekul serupa sama ada gas, cecair, atau pepejal. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: gas</s>"
+"Penggunaan rakaman video telah membawa kepada penemuan penting dalam tafsiran ekspresi mikro, pergerakan wajah berlangsung beberapa milisaat.",science/technology,entertainment,"SENTENCE:
+ Penggunaan rakaman video telah membawa kepada penemuan penting dalam tafsiran ekspresi mikro, pergerakan wajah berlangsung beberapa milisaat. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Manusia telah membuat dan menggunakan lensa untuk pembesaran selama beribu-ribu tahun.,science/technology,N/A,"SENTENCE:
+ Manusia telah membuat dan menggunakan lensa untuk pembesaran selama beribu-ribu tahun. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: culture</s>"
+"Ia tidak bersendirian, eksperimentasi dan eksperimen adalah ujian yang digunakan untuk menyingkirkan satu atau lebih daripada hipotesis yang mungkin, bertanya soalan dan membuat pemerhatian juga membimbing penyelidikan saintifik.",science/technology,N/A,"SENTENCE:
+ Ia tidak bersendirian, eksperimentasi dan eksperimen adalah ujian yang digunakan untuk menyingkirkan satu atau lebih daripada hipotesis yang mungkin, bertanya soalan dan membuat pemerhatian juga membimbing penyelidikan saintifik. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: education</s>"
+"Lama-kelamaan, roda kayu diganti dengan roda besi. Pada tahun 1767, landasan besi sepenuhnya yang pertama dilancarkan.",science/technology,travel,"SENTENCE:
+ Lama-kelamaan, roda kayu diganti dengan roda besi. Pada tahun 1767, landasan besi sepenuhnya yang pertama dilancarkan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Sementara kebanyakan kad bagus untuk menelefon ke mana sahaja, sesetengahnya mengkhususkan dalam memberikan kadar panggilan yang berpatutan kepada kumpulan negara tertentu.",science/technology,travel,"SENTENCE:
+ Sementara kebanyakan kad bagus untuk menelefon ke mana sahaja, sesetengahnya mengkhususkan dalam memberikan kadar panggilan yang berpatutan kepada kumpulan negara tertentu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Kebanyakan teleskop kajian moden merupakan fasiliti besar di daerah terpencil dengan keadaan atmosfera yang sesuai.,science/technology,travel,"SENTENCE:
+ Kebanyakan teleskop kajian moden merupakan fasiliti besar di daerah terpencil dengan keadaan atmosfera yang sesuai. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Jarum keluli mengapung di permukaan air disebabkan oleh tegangan permukaan.,science/technology,science/technology,"SENTENCE:
+ Jarum keluli mengapung di permukaan air disebabkan oleh tegangan permukaan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+"Format 35mm sebenarnya, agak mengelirukan, 36mm lebar kali 24mm tinggi.",science/technology,entertainment,"SENTENCE:
+ Format 35mm sebenarnya, agak mengelirukan, 36mm lebar kali 24mm tinggi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Sel-sel sangat asas dan penting untuk kajian kehidupan, sebenarnya, mereka sering disebut sebagai “pembinaan asas kehidupan”.",science/technology,science/technology,"SENTENCE:
+ Sel-sel sangat asas dan penting untuk kajian kehidupan, sebenarnya, mereka sering disebut sebagai “pembinaan asas kehidupan”. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+Penyedia VPN peribadi (rangkaian persendirian maya) adalah kaedah terbaik untuk mengelakkan penapisan politik dan penapisan geo IP komersial.,science/technology,N/A,"SENTENCE:
+ Penyedia VPN peribadi (rangkaian persendirian maya) adalah kaedah terbaik untuk mengelakkan penapisan politik dan penapisan geo IP komersial. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: tech</s>"
+"Stesen tersebut kekal dengan pendiriannya, walaupun kehilangan giroskop sebelum ini dalam misi stesen angkasa lepas, hingga hujung jalan angkasa.",science/technology,travel,"SENTENCE:
+ Stesen tersebut kekal dengan pendiriannya, walaupun kehilangan giroskop sebelum ini dalam misi stesen angkasa lepas, hingga hujung jalan angkasa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Orang yang berfikiran sebegini mempunyai pemikiran logik, mampu untuk menghafal corak, menyelesaikan masalah dan mengusahakan ujian saintifik.",science/technology,N/A,"SENTENCE:
+ Orang yang berfikiran sebegini mempunyai pemikiran logik, mampu untuk menghafal corak, menyelesaikan masalah dan mengusahakan ujian saintifik. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: education education</s>"
+"Harimau oselot gemar memakan haiwan kecil. Ia akan menangkap monyet, ular, tikus dan burung jika boleh. Hampir semua haiwan yang diburunya jauh lebih kecil daripada saiznya.",science/technology,entertainment,"SENTENCE:
+ Harimau oselot gemar memakan haiwan kecil. Ia akan menangkap monyet, ular, tikus dan burung jika boleh. Hampir semua haiwan yang diburunya jauh lebih kecil daripada saiznya. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Beberapa kamera film format sederhana menggunakan format 6 kali 6 sm,dengan lebih tepat negatif 56 kali 56 mm.",science/technology,entertainment,"SENTENCE:
+ Beberapa kamera film format sederhana menggunakan format 6 kali 6 sm,dengan lebih tepat negatif 56 kali 56 mm. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Pelancong dinasihatkan untuk mengetahui sebarang risiko cuaca teruk yang menjejaskan kawasan mereka kerana ia boleh memberi kesan mana-mana rancangan perjalanan.,travel,travel,"SENTENCE:
+ Pelancong dinasihatkan untuk mengetahui sebarang risiko cuaca teruk yang menjejaskan kawasan mereka kerana ia boleh memberi kesan mana-mana rancangan perjalanan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Bas bertolak dari stesen bas dalam daerah (di seberang sungai) sepanjang hari, walaupun kebanyakannya terutama yang berhala ke timur dan Jakar/Bumthang bertolak antara pukul 06.30 dan 07.30.",travel,travel,"SENTENCE:
+ Bas bertolak dari stesen bas dalam daerah (di seberang sungai) sepanjang hari, walaupun kebanyakannya terutama yang berhala ke timur dan Jakar/Bumthang bertolak antara pukul 06.30 dan 07.30. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Ia memberikan lebih kestabilan untuk penunggang namun terdapat risiko keselamatan disebabkan potensi untuk kaki penunggang tersangkut.,travel,sports,"SENTENCE:
+ Ia memberikan lebih kestabilan untuk penunggang namun terdapat risiko keselamatan disebabkan potensi untuk kaki penunggang tersangkut. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Sebahagian besar Baltic Cruises menawarkan penginapan yang lama di St Petersburg, Rusia.",travel,travel,"SENTENCE:
+ Sebahagian besar Baltic Cruises menawarkan penginapan yang lama di St Petersburg, Rusia. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Nasihat tersebut membuat anggapan bahawa para pelancong tidak mencuri, menceroboh, mengambil bahagian dalam pasaran haram, mengemis atau mengeksploitasi orang lain untuk keuntungan mereka",travel,travel,"SENTENCE:
+ Nasihat tersebut membuat anggapan bahawa para pelancong tidak mencuri, menceroboh, mengambil bahagian dalam pasaran haram, mengemis atau mengeksploitasi orang lain untuk keuntungan mereka 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Terdapat banyak perkara yang perlu diambil kira sebelum dan semasa anda melancong ke suatu tempat.,travel,travel,"SENTENCE:
+ Terdapat banyak perkara yang perlu diambil kira sebelum dan semasa anda melancong ke suatu tempat. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ketika bahang memuncak, para pengembara boleh mengalami fatamorgana iaitu berilusi melihat air (atau benda-benda lain).",travel,travel,"SENTENCE:
+ Ketika bahang memuncak, para pengembara boleh mengalami fatamorgana iaitu berilusi melihat air (atau benda-benda lain). 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Keluarga dengan anak-anak jarang terlihat di sini, namun sesetengah asrama membenarkan mereka untuk tinggal dalam bilik peribadi.",travel,N/A,"SENTENCE:
+ Keluarga dengan anak-anak jarang terlihat di sini, namun sesetengah asrama membenarkan mereka untuk tinggal dalam bilik peribadi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: education education</s>"
+"Sebagai contoh melawat istana-istana di Lembah Loire, Lembah Rhine atau menaiki kapal persiaran ke kota-kota menarik di Danube atau berperahu di sepanjang Terusan Erie.",travel,travel,"SENTENCE:
+ Sebagai contoh melawat istana-istana di Lembah Loire, Lembah Rhine atau menaiki kapal persiaran ke kota-kota menarik di Danube atau berperahu di sepanjang Terusan Erie. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Ia mungkin lebih baik untuk menggunakan ejen yang sentiasa membuat penempahan yang serupa dengan perjalanan anda.,travel,travel,"SENTENCE:
+ Ia mungkin lebih baik untuk menggunakan ejen yang sentiasa membuat penempahan yang serupa dengan perjalanan anda. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Couchsurfing ditubuhkan pada Januari 2004 apabila seorang pengaturcara komputer bernama Casey Fenton telah menjumpai penerbangan murah ke Iceland tetapi tidak mempunyai tempat untuk tinggal.,travel,travel,"SENTENCE:
+ Couchsurfing ditubuhkan pada Januari 2004 apabila seorang pengaturcara komputer bernama Casey Fenton telah menjumpai penerbangan murah ke Iceland tetapi tidak mempunyai tempat untuk tinggal. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Visa pelajar umumnya mempunyai keperluan dan prosedur permohonan yang berbeza daripada visa pelancong biasa atau perniagaan.,travel,travel,"SENTENCE:
+ Visa pelajar umumnya mempunyai keperluan dan prosedur permohonan yang berbeza daripada visa pelancong biasa atau perniagaan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Setiap negara juga mempunyai undang-undang unik yang menyenaraikan item kecemasan yang perlu dibawa dalam kereta.,travel,travel,"SENTENCE:
+ Setiap negara juga mempunyai undang-undang unik yang menyenaraikan item kecemasan yang perlu dibawa dalam kereta. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Walaupun kebanyakan agensi bersedia untuk mengambil tempahan biasa, banyak ejen yang pakar dalam pengkhususan jenis pelancongan, anggaran perbelanjaan atau destinasi.",travel,travel,"SENTENCE:
+ Walaupun kebanyakan agensi bersedia untuk mengambil tempahan biasa, banyak ejen yang pakar dalam pengkhususan jenis pelancongan, anggaran perbelanjaan atau destinasi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Pelancong mungkin menghadapi haiwan perosak yang mereka tidak biasa lihat di negara asal mereka.,travel,travel,"SENTENCE:
+ Pelancong mungkin menghadapi haiwan perosak yang mereka tidak biasa lihat di negara asal mereka. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Juga di bahagian utara, lawati Sanctuary of Our Lady of Fatima (Shrine), sebuah tempat penjelmaan Marian yang terkenal di dunia.",travel,travel,"SENTENCE:
+ Juga di bahagian utara, lawati Sanctuary of Our Lady of Fatima (Shrine), sebuah tempat penjelmaan Marian yang terkenal di dunia. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Anda boleh menggunakan boda-boda (teksi motosikal) untuk menjelajahi Goma. Harga biasa (tempatan) adalah ~500 Franc Congo untuk perjalanan pendek itu.,travel,travel,"SENTENCE:
+ Anda boleh menggunakan boda-boda (teksi motosikal) untuk menjelajahi Goma. Harga biasa (tempatan) adalah ~500 Franc Congo untuk perjalanan pendek itu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Bagi mereka yang suka aktiviti luar rumah, sebuah pengembaraan di koridor Sea to Sky adalah harus.",travel,travel,"SENTENCE:
+ Bagi mereka yang suka aktiviti luar rumah, sebuah pengembaraan di koridor Sea to Sky adalah harus. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Lawatan Safari berjalan kaki (juga dikenali sebagai “bush walk”, “hiking safari” atau “footing”) merangkumi pengembaraan, sama ada untuk beberapa jam atau beberapa hari.",travel,travel,"SENTENCE:
+ Lawatan Safari berjalan kaki (juga dikenali sebagai “bush walk”, “hiking safari” atau “footing”) merangkumi pengembaraan, sama ada untuk beberapa jam atau beberapa hari. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Satu satunya cara untuk melakukannya dengan lebih pantas adalah dengan menghantarnya sebagai bagasiyang didaftar masuk. Peraturan syarikat penerbangan tidak membenarkan mereka menghantar bagasi tanpa penumpang, di sinilah anda diperlukan.",travel,travel,"SENTENCE:
+ Satu satunya cara untuk melakukannya dengan lebih pantas adalah dengan menghantarnya sebagai bagasiyang didaftar masuk. Peraturan syarikat penerbangan tidak membenarkan mereka menghantar bagasi tanpa penumpang, di sinilah anda diperlukan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"300 unit tambahan membawa jumlah keseluruhan kepada 1,300 gerabak yang akan diperoleh untuk mengurangkan kesesakan.",travel,travel,"SENTENCE:
+ 300 unit tambahan membawa jumlah keseluruhan kepada 1,300 gerabak yang akan diperoleh untuk mengurangkan kesesakan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Keluarga dengan kanak-kanak kecil mungkin memerlukan lebih banyak persediaan, tetapi di luar rumah mungkin mudah walaupun dengan bayi dan prasekolah kanak-kanak.",travel,travel,"SENTENCE:
+ Keluarga dengan kanak-kanak kecil mungkin memerlukan lebih banyak persediaan, tetapi di luar rumah mungkin mudah walaupun dengan bayi dan prasekolah kanak-kanak. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Sesiapa yang akan memandu pada latitud tinggi atau melintasi gunung harus fikir tentang kemungkinan adanya salji, ais atau suhu yang membekukan.",travel,travel,"SENTENCE:
+ Sesiapa yang akan memandu pada latitud tinggi atau melintasi gunung harus fikir tentang kemungkinan adanya salji, ais atau suhu yang membekukan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Pada hari ini, Timbuktu merupakan bandar yang miskin, namun reputasinya membuat ia menjadi tarikan pelancong, dan ia mempunyai lapangan terbang.",travel,travel,"SENTENCE:
+ Pada hari ini, Timbuktu merupakan bandar yang miskin, namun reputasinya membuat ia menjadi tarikan pelancong, dan ia mempunyai lapangan terbang. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Semasa ribut salji, anda boleh terkandas ditimbuni oleh salji dalam masa yang singkat sahaja.",travel,travel,"SENTENCE:
+ Semasa ribut salji, anda boleh terkandas ditimbuni oleh salji dalam masa yang singkat sahaja. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Jika anda mahu terbang mengelilingi dunia sepenuhnya di Hemisfera Selatan, pilihan penerbangan dan destinasi adalah terhad disebabkan kekurangan laluan rentas lautan.",travel,travel,"SENTENCE:
+ Jika anda mahu terbang mengelilingi dunia sepenuhnya di Hemisfera Selatan, pilihan penerbangan dan destinasi adalah terhad disebabkan kekurangan laluan rentas lautan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Syarikat penerbangan seperti Emirates, Etihad Airways, Qatar Airways &amp; Turkish Airlines telah mengembangkan perkhidmatan mereka ke Afrika, dan menyediakan sambungan penerbangan ke banyak bandar-bandar besar di Afrika dengan harga yang berpatutan berbanding dengan syarikat penerbangan Eropah yang lain.",travel,travel,"SENTENCE:
+ Syarikat penerbangan seperti Emirates, Etihad Airways, Qatar Airways &amp; Turkish Airlines telah mengembangkan perkhidmatan mereka ke Afrika, dan menyediakan sambungan penerbangan ke banyak bandar-bandar besar di Afrika dengan harga yang berpatutan berbanding dengan syarikat penerbangan Eropah yang lain. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Tiada pengangkutan tambahan yang disediakan dan kereta api atas tanah tidak akan berhenti di Wembley, manakala kemudahan tempat letak kereta serta letak dan naik tidak tersedia di lapangan.",travel,travel,"SENTENCE:
+ Tiada pengangkutan tambahan yang disediakan dan kereta api atas tanah tidak akan berhenti di Wembley, manakala kemudahan tempat letak kereta serta letak dan naik tidak tersedia di lapangan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Pada amnya duduk di negara asing untuk jangkamasa yang dipanjangkan memerlukan anda mendapatkan visa terlebih dahulu.,travel,travel,"SENTENCE:
+ Pada amnya duduk di negara asing untuk jangkamasa yang dipanjangkan memerlukan anda mendapatkan visa terlebih dahulu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Setiap kereta api ada kedua-dua MetroPlus dan gerabak-gerabak Metro; gerabak MetroPlus biasanya terletak di hujung keretapi paling dekat dengan Bandar Cape.,travel,travel,"SENTENCE:
+ Setiap kereta api ada kedua-dua MetroPlus dan gerabak-gerabak Metro; gerabak MetroPlus biasanya terletak di hujung keretapi paling dekat dengan Bandar Cape. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Setiap orang mengambil bahagian dalam persatuan dan menggunakan sistem pengangkutan. Hampir semua orang mengadu mengenai sistem pengangkutan.,travel,travel,"SENTENCE:
+ Setiap orang mengambil bahagian dalam persatuan dan menggunakan sistem pengangkutan. Hampir semua orang mengadu mengenai sistem pengangkutan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Oleh kerana kawasan ini kurang penduduk, dan dengan itu pencemaran cahaya sering tidak menjadi masalah, anda juga dapat menikmati bintang-bintang.",travel,travel,"SENTENCE:
+ Oleh kerana kawasan ini kurang penduduk, dan dengan itu pencemaran cahaya sering tidak menjadi masalah, anda juga dapat menikmati bintang-bintang. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Keperluan Visa dan kos berbeza dari negara ke negara dan dipengaruhi oleh negara tempat anda berasal,travel,travel,"SENTENCE:
+ Keperluan Visa dan kos berbeza dari negara ke negara dan dipengaruhi oleh negara tempat anda berasal 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Pada amnya, tiada ada gunanya untuk mencari diskaun untuk tempat duduk kelas perniagaan atau kelas satu dalam pernerbangan terus daripada A ke B.",travel,travel,"SENTENCE:
+ Pada amnya, tiada ada gunanya untuk mencari diskaun untuk tempat duduk kelas perniagaan atau kelas satu dalam pernerbangan terus daripada A ke B. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Bomerang melempar kemahiran popular yang ingin diperoleh oleh ramai pelancong.,travel,travel,"SENTENCE:
+ Bomerang melempar kemahiran popular yang ingin diperoleh oleh ramai pelancong. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Penerbangan ini bukan satu-satunya pililhan sekiranya anda ingin melangkau Pasifik Selatan dan pantai barat Amerika Selatan. (lihat di bawah),travel,travel,"SENTENCE:
+ Penerbangan ini bukan satu-satunya pililhan sekiranya anda ingin melangkau Pasifik Selatan dan pantai barat Amerika Selatan. (lihat di bawah) 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"San Francisco telah memperkembangkan sebuah infrastruktur pelancongan yang besar dengan pelbagai hotel, restoran dan fasiliti konvensyen berkualiti tinggi.",travel,travel,"SENTENCE:
+ San Francisco telah memperkembangkan sebuah infrastruktur pelancongan yang besar dengan pelbagai hotel, restoran dan fasiliti konvensyen berkualiti tinggi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Melakukan kerja sukarela semasa melancong ialah cara yang baik untuk membawa perubahan tetapi ia bukan sekadar pemberian.,travel,travel,"SENTENCE:
+ Melakukan kerja sukarela semasa melancong ialah cara yang baik untuk membawa perubahan tetapi ia bukan sekadar pemberian. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Orang ramai tidak boleh menjangka bahawa kesabaran dan kefahaman adalah wajib untuk pelancong yang pulang.,travel,travel,"SENTENCE:
+ Orang ramai tidak boleh menjangka bahawa kesabaran dan kefahaman adalah wajib untuk pelancong yang pulang. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Jangan lupa untuk menambahkan kos ekstra bagi visa tambahan, cukai pelepasan, pengangkutan darat dan lain-lain untuk semua tempat di luar Afrika.",travel,travel,"SENTENCE:
+ Jangan lupa untuk menambahkan kos ekstra bagi visa tambahan, cukai pelepasan, pengangkutan darat dan lain-lain untuk semua tempat di luar Afrika. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Beberapa penduduk Bishkek menyalahkan penunjuk perasaan dari selatan untuk huru-hara tersebut.,politics,politics,"SENTENCE:
+ Beberapa penduduk Bishkek menyalahkan penunjuk perasaan dari selatan untuk huru-hara tersebut. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+Bahagian sekarang di Belgium adalah sebahagian Luxemboug di masa lalu tetapi menjadi Belgian selepas Revolusi Belgian 1830.,politics,travel,"SENTENCE:
+ Bahagian sekarang di Belgium adalah sebahagian Luxemboug di masa lalu tetapi menjadi Belgian selepas Revolusi Belgian 1830. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Semenjak tahun 1988, peti undi perlu lutsinar supaya pengundi dan pemerhati dapat menyaksikan bahwa tidak ada sampul pada awal pengundian dan tidak ada sampul yang dimasukkan kecuali kepunyaan pengundi yang dihitung dan yang diberi kuasa.",politics,sports,"SENTENCE:
+ Semenjak tahun 1988, peti undi perlu lutsinar supaya pengundi dan pemerhati dapat menyaksikan bahwa tidak ada sampul pada awal pengundian dan tidak ada sampul yang dimasukkan kecuali kepunyaan pengundi yang dihitung dan yang diberi kuasa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Pemangku Perdana Menteri Julia Gillard mendakwa sewaktu kempen pilihan raya 2010 bahawa beliau percaya Australia harus menjadi republik pada akhir pemerintahan Ratu Elizabeth II.,politics,politics,"SENTENCE:
+ Pemangku Perdana Menteri Julia Gillard mendakwa sewaktu kempen pilihan raya 2010 bahawa beliau percaya Australia harus menjadi republik pada akhir pemerintahan Ratu Elizabeth II. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+Kerajaan Ireland mendesakan supaya undang-undang parlimen memperbaiki keadaan.,politics,politics,"SENTENCE:
+ Kerajaan Ireland mendesakan supaya undang-undang parlimen memperbaiki keadaan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+Pertengkaran diplomatik ke seluruh rantau hingga merosakkan perhubungan antara Armenia dan Azerbaijan.,politics,politics,"SENTENCE:
+ Pertengkaran diplomatik ke seluruh rantau hingga merosakkan perhubungan antara Armenia dan Azerbaijan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: world politics</s>"
+"Perdana Menteri Stephen Harper telah bersetuju untuk mengemukakan “Akta Udara Bersih” kerajaan kepada jawatankuasa semua parti untuk dikaji semula, sebelum pembacaan keduanya, selepas mesyuarat 25 minit hari Selasa bersama ketua NDP Jack Layton di PMO.",politics,politics,"SENTENCE:
+ Perdana Menteri Stephen Harper telah bersetuju untuk mengemukakan “Akta Udara Bersih” kerajaan kepada jawatankuasa semua parti untuk dikaji semula, sebelum pembacaan keduanya, selepas mesyuarat 25 minit hari Selasa bersama ketua NDP Jack Layton di PMO. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+"Bulan lepas, terdapat protes besar-besaran di Poland bila negara itu menandatangani ACTA, di mana membawa kerajaan Poland membuat keputusan untuk tidak meratifikasikan perjanjian, untuk sekarang.",politics,politics,"SENTENCE:
+ Bulan lepas, terdapat protes besar-besaran di Poland bila negara itu menandatangani ACTA, di mana membawa kerajaan Poland membuat keputusan untuk tidak meratifikasikan perjanjian, untuk sekarang. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: world politics</s>"
+Pengumuman rasmi hanyalah ringkasan pendek mengenai situasi politik di sesebuah negara.,politics,politics,"SENTENCE:
+ Pengumuman rasmi hanyalah ringkasan pendek mengenai situasi politik di sesebuah negara. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+"Pada pemilihan 1976 beliau menasihatkan Carter berkenaan polisi asing, lepas itu berkhidmat sebagai Penasihat Keselamatan Nasional (NSA) dari 1977 sehingga 1981 menggantikan Henry Kissinger.",politics,politics,"SENTENCE:
+ Pada pemilihan 1976 beliau menasihatkan Carter berkenaan polisi asing, lepas itu berkhidmat sebagai Penasihat Keselamatan Nasional (NSA) dari 1977 sehingga 1981 menggantikan Henry Kissinger. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+"Turki akan juga mengambil alih kawalan ke atas tawanan pejuang ISIS yang, kata kenyataan itu, negara-negara Eropah tidak bersetuju untuk dikembalikan.",politics,politics,"SENTENCE:
+ Turki akan juga mengambil alih kawalan ke atas tawanan pejuang ISIS yang, kata kenyataan itu, negara-negara Eropah tidak bersetuju untuk dikembalikan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: world politics</s>"
+"Namun, rancangan-rancangan ini menjadi usang dalam semalan, selepas 800,000 tentera daripada Tentera Merah Kesatuan Soviet masuk dan mewujudkan barisan Belarus dan Ukraine selepas menyerang kawasan timur Poland dengan melanggar Perjanjian Damai Riga, Perjanjian Berkecuali Soviet-Poland, dan lain-lain perjanjian antarabangsa, dua hala dan pelbagai hala.",politics,politics,"SENTENCE:
+ Namun, rancangan-rancangan ini menjadi usang dalam semalan, selepas 800,000 tentera daripada Tentera Merah Kesatuan Soviet masuk dan mewujudkan barisan Belarus dan Ukraine selepas menyerang kawasan timur Poland dengan melanggar Perjanjian Damai Riga, Perjanjian Berkecuali Soviet-Poland, dan lain-lain perjanjian antarabangsa, dua hala dan pelbagai hala. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: world politics</s>"
+"Menurut prosesnya, HJR-3 akan ditinjau ulang oleh badan perundangan yang diundi berikutnya pada tahun 2015 atau 2016 untuk kekal dalam proses.",politics,politics,"SENTENCE:
+ Menurut prosesnya, HJR-3 akan ditinjau ulang oleh badan perundangan yang diundi berikutnya pada tahun 2015 atau 2016 untuk kekal dalam proses. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+"Setelah diterim pakai oleh kongres pada 4hb JUlai, draf bertulis yang ditandatangani Presiden kongres John Hancock dan Setiausaha Charles Thomson telah dihantar ke kedai pencetakan John Dunlap yang terletak beberapa blok jauhnya.",politics,N/A,"SENTENCE:
+ Setelah diterim pakai oleh kongres pada 4hb JUlai, draf bertulis yang ditandatangani Presiden kongres John Hancock dan Setiausaha Charles Thomson telah dihantar ke kedai pencetakan John Dunlap yang terletak beberapa blok jauhnya. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: culture culture</s>"
+"Sejurus selepas pukul 11:00, penunjuk perasaan menyekat lalu lintas di laluan yang menuju ke arah utara di Whitehall.",politics,travel,"SENTENCE:
+ Sejurus selepas pukul 11:00, penunjuk perasaan menyekat lalu lintas di laluan yang menuju ke arah utara di Whitehall. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Namun begitu, pada bulan Jun 1956, janji-janji Krushchev dicabar ketika rusuhan di Poland yang menyebabkan kaum buruh menunjuk perasaan untuk membantah kekurangan makanan dan pemotongan gaji, yang bertukar kepada bantahan umum terhadap Komunisme.",politics,politics,"SENTENCE:
+ Namun begitu, pada bulan Jun 1956, janji-janji Krushchev dicabar ketika rusuhan di Poland yang menyebabkan kaum buruh menunjuk perasaan untuk membantah kekurangan makanan dan pemotongan gaji, yang bertukar kepada bantahan umum terhadap Komunisme. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: world politics</s>"
+"Ia akan berlangsung selama 40 tahun seterusnya dan akan diperjuangkan secara nyata oleh tentera proksi di medan perang dari Afrika hingga Asia, di Afghanistan, Cuba dan banyak tempat yang lain.",politics,politics,"SENTENCE:
+ Ia akan berlangsung selama 40 tahun seterusnya dan akan diperjuangkan secara nyata oleh tentera proksi di medan perang dari Afrika hingga Asia, di Afghanistan, Cuba dan banyak tempat yang lain. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: world politics</s>"
+Suruhanjaya Presiden pada bulan lepas mengesyorkan pengunduran CEP sebelumnya sebagai sebahagian daripada langkah untuk menggerakkan negara bagi pelaksanaan pilihan raya baharu.,politics,politics,"SENTENCE:
+ Suruhanjaya Presiden pada bulan lepas mengesyorkan pengunduran CEP sebelumnya sebagai sebahagian daripada langkah untuk menggerakkan negara bagi pelaksanaan pilihan raya baharu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+Topik lain yang diliputi dilaporkan termasuk negeri masa depan Jerusalem di mana adalah suci bagi kedua-dua negara dan isu Jordan Valley.,politics,politics,"SENTENCE:
+ Topik lain yang diliputi dilaporkan termasuk negeri masa depan Jerusalem di mana adalah suci bagi kedua-dua negara dan isu Jordan Valley. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: world politics</s>"
+Ia juga tidak mempunyai hak untuk menolak undang-undang cukai dan tarif antara negeri.,politics,travel,"SENTENCE:
+ Ia juga tidak mempunyai hak untuk menolak undang-undang cukai dan tarif antara negeri. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Undang-undang pilihan raya Perancis dengan tegas mengkanunkan prosiding itu.,politics,politics,"SENTENCE:
+ Undang-undang pilihan raya Perancis dengan tegas mengkanunkan prosiding itu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+"Selepas kerugian beberapa minggu di pilihanraya separuh penggal,Bush memberitahu para hadirin berkenaan pengembangan perdagangan di Asia.",politics,politics,"SENTENCE:
+ Selepas kerugian beberapa minggu di pilihanraya separuh penggal,Bush memberitahu para hadirin berkenaan pengembangan perdagangan di Asia. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: world politics</s>"
+"Strategi berkenaan terbukti berkesan, memotong bekalan penting tentera dan orang awam, walaupun sekatan ini tidak mematuhi undang-undang antarabangsa yang diterima secara am yang diwujudakan oleh beberapa perjanjian antarabangsa dua abad yang lalu.",politics,politics,"SENTENCE:
+ Strategi berkenaan terbukti berkesan, memotong bekalan penting tentera dan orang awam, walaupun sekatan ini tidak mematuhi undang-undang antarabangsa yang diterima secara am yang diwujudakan oleh beberapa perjanjian antarabangsa dua abad yang lalu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: world politics</s>"
+Hubungan ekonomi telah dibina semula antara kedua-dua bahagian Moldova tersebut meskipun terjadi kegagalan dalam perundingan politik.,politics,politics,"SENTENCE:
+ Hubungan ekonomi telah dibina semula antara kedua-dua bahagian Moldova tersebut meskipun terjadi kegagalan dalam perundingan politik. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+"Didampingi pegawai-pegawai tersebut, beliau meyakinkan penduduk Texas bahawa tindakan sedang diambil untuk melindungi keselamatan orang awam.",politics,travel,"SENTENCE:
+ Didampingi pegawai-pegawai tersebut, beliau meyakinkan penduduk Texas bahawa tindakan sedang diambil untuk melindungi keselamatan orang awam. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Kritikan bebas terhadap usaha pembinaan semula telah difokuskan kepada pemberian kontrak pembinaan semula untuk melihat orang dalam Washington.,politics,sports,"SENTENCE:
+ Kritikan bebas terhadap usaha pembinaan semula telah difokuskan kepada pemberian kontrak pembinaan semula untuk melihat orang dalam Washington. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Dari 1,400 orang yang diundi sebelum pilihan raya persekutuan 2010, mereka yang menentang Australia menjadi republik meningkat sebanyak 8 peratus sejak 2008.",politics,politics,"SENTENCE:
+ Dari 1,400 orang yang diundi sebelum pilihan raya persekutuan 2010, mereka yang menentang Australia menjadi republik meningkat sebanyak 8 peratus sejak 2008. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+Para diplomat mengatakan bahawa mereka telah menemukan ambiguiti yang mencukupi dalam perlembagaan Afghanistan bagi menentukan pusingan kedua sebagai tidak perlu.,politics,politics,"SENTENCE:
+ Para diplomat mengatakan bahawa mereka telah menemukan ambiguiti yang mencukupi dalam perlembagaan Afghanistan bagi menentukan pusingan kedua sebagai tidak perlu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: world politics</s>"
+"Selepas keputusan tiba, Gingrich memuji Santorum, tetapi mengkritik Romney disebabkan kempen pengiklanan negatifnya yang ditayangkan di Iowa menentang Gingrich.",politics,politics,"SENTENCE:
+ Selepas keputusan tiba, Gingrich memuji Santorum, tetapi mengkritik Romney disebabkan kempen pengiklanan negatifnya yang ditayangkan di Iowa menentang Gingrich. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+Ia ialah CEP kelima Martelly dalam tempoh empat tahun.,politics,politics,"SENTENCE:
+ Ia ialah CEP kelima Martelly dalam tempoh empat tahun. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+"Pemenang pingat emas Olimpik seharusnya berenang pada acara 100m dan 200m gaya bebas dan dalam tiga perlumbaan gegantu di Sukan Komanwel, namun rungutan beliau mengakibatkan ramai pihak meragui kecergasan beliau.",sports,sports,"SENTENCE:
+ Pemenang pingat emas Olimpik seharusnya berenang pada acara 100m dan 200m gaya bebas dan dalam tiga perlumbaan gegantu di Sukan Komanwel, namun rungutan beliau mengakibatkan ramai pihak meragui kecergasan beliau. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Serta bekas juara Olimpik dan Dunia, Saito merupakan pengerusi jawatankuasa latihan All Japan Judo Persekutuan ketika kematiannya.",sports,sports,"SENTENCE:
+ Serta bekas juara Olimpik dan Dunia, Saito merupakan pengerusi jawatankuasa latihan All Japan Judo Persekutuan ketika kematiannya. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Jawatankuasa Olimpik Antarabangsa telah mengundi untuk menyertakan sukan-sukan ini dalam mesyuarat lembaga eksekutifnya di Berlin hari ini. Ragbi, khususnya kesatuan ragbi, dan golf dipilih berbanding lima sukan lain yang telah dipertimbangkan penyertaannya dalam Olimpik.",sports,sports,"SENTENCE:
+ Jawatankuasa Olimpik Antarabangsa telah mengundi untuk menyertakan sukan-sukan ini dalam mesyuarat lembaga eksekutifnya di Berlin hari ini. Ragbi, khususnya kesatuan ragbi, dan golf dipilih berbanding lima sukan lain yang telah dipertimbangkan penyertaannya dalam Olimpik. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Kejohanan terbesar tahun ini akan mengambil tempat pada bulan Disember di padang polo di Las Cañitas.,sports,sports,"SENTENCE:
+ Kejohanan terbesar tahun ini akan mengambil tempat pada bulan Disember di padang polo di Las Cañitas. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Sejak berpindah ke ibu negeri Catalan, Vidal telah bermain 49 perlawanan untuk kelab itu.",sports,sports,"SENTENCE:
+ Sejak berpindah ke ibu negeri Catalan, Vidal telah bermain 49 perlawanan untuk kelab itu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Mengekalkan keseimbangan tenaga yang sihat, mengamalkan tabiat minum air yang efektif dan memahami pelbagai aspek daripada amalan makanan tambahan dapat membantu atlet memperbaiki persembahan dan meningkatkan minat mereka dalam sukan yang diceburi.",sports,sports,"SENTENCE:
+ Mengekalkan keseimbangan tenaga yang sihat, mengamalkan tabiat minum air yang efektif dan memahami pelbagai aspek daripada amalan makanan tambahan dapat membantu atlet memperbaiki persembahan dan meningkatkan minat mereka dalam sukan yang diceburi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Dalam tempat ketiga, Hamlin ketinggalan dua puluh mata, tetapi lima lebih dari Bowyer. Kahne dan Truex, Jr. menduduki tempat kelima dan keenam masing-masing dengan 2,220 dan 2,207 mata.",sports,sports,"SENTENCE:
+ Dalam tempat ketiga, Hamlin ketinggalan dua puluh mata, tetapi lima lebih dari Bowyer. Kahne dan Truex, Jr. menduduki tempat kelima dan keenam masing-masing dengan 2,220 dan 2,207 mata. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Rekod pertemuan Nadal dan pemain Kanada ini ialah 7-2.,sports,sports,"SENTENCE:
+ Rekod pertemuan Nadal dan pemain Kanada ini ialah 7-2. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Jarque telah menjalankan latihan pra-musim di Coverciano di Itali pada awal hari. Beliau telah menginap di hotel pasukan sebelum perlawanan yang dirancang untuk hari Ahad menentang Bolonia.,sports,sports,"SENTENCE:
+ Jarque telah menjalankan latihan pra-musim di Coverciano di Itali pada awal hari. Beliau telah menginap di hotel pasukan sebelum perlawanan yang dirancang untuk hari Ahad menentang Bolonia. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Takut kepada kekurangan pengangkutan menimbulkan kemungkinan bahawa permainan akan dijalankan tanpa penyokong pasukan.,sports,sports,"SENTENCE:
+ Takut kepada kekurangan pengangkutan menimbulkan kemungkinan bahawa permainan akan dijalankan tanpa penyokong pasukan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Tommy Dreamer berkata “Luna adalah Queen pertama Ekstrim. Pengurus pertama saya. Luna meninggal dunia pada malam dua bulan. Pretty unik seperti beliau. Wanita yang kuat.”,sports,entertainment,"SENTENCE:
+ Tommy Dreamer berkata “Luna adalah Queen pertama Ekstrim. Pengurus pertama saya. Luna meninggal dunia pada malam dua bulan. Pretty unik seperti beliau. Wanita yang kuat.” 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Pemain ski lelaki yang cacat penglihatan dari Poland, Maciej Krezel dan pemandunya Anna Ogarzynska menduduki tempat ketiga belas di Super-G. Jong Seork Park dari Korea Selatan menduduki tempat kedua puluh empat dalam acara duduk Super-G lelaki.",sports,sports,"SENTENCE:
+ Pemain ski lelaki yang cacat penglihatan dari Poland, Maciej Krezel dan pemandunya Anna Ogarzynska menduduki tempat ketiga belas di Super-G. Jong Seork Park dari Korea Selatan menduduki tempat kedua puluh empat dalam acara duduk Super-G lelaki. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Untuk berita mengenai kejohanan atau tempat untuk membeli tiket untuk perlawanan polo, semak Asociacion Argentina de Polo.",sports,sports,"SENTENCE:
+ Untuk berita mengenai kejohanan atau tempat untuk membeli tiket untuk perlawanan polo, semak Asociacion Argentina de Polo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Permainan dimulakan pada 10:00 pagi dengan cuaca yang baik dan selain hujan gerimis di waktu pagi yang cepat terhenti, ia merupakan hari yang sempurna untuk ragbi 7.",sports,sports,"SENTENCE:
+ Permainan dimulakan pada 10:00 pagi dengan cuaca yang baik dan selain hujan gerimis di waktu pagi yang cepat terhenti, ia merupakan hari yang sempurna untuk ragbi 7. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Arly Velasquez Mexico menamatkan dengan kedudukan lelaki yang kelima belas di Super-G. Adam Hall dari New Zealand menamatkan dengan kedudukan kesembilan di Super-G.,sports,sports,"SENTENCE:
+ Arly Velasquez Mexico menamatkan dengan kedudukan lelaki yang kelima belas di Super-G. Adam Hall dari New Zealand menamatkan dengan kedudukan kesembilan di Super-G. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Perlawanan akhir siri ini akan berlangsung di Taman Ellis di Johannesburg minggu depan, apabila Springboks berlawan Australia.",sports,sports,"SENTENCE:
+ Perlawanan akhir siri ini akan berlangsung di Taman Ellis di Johannesburg minggu depan, apabila Springboks berlawan Australia. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Dalam keadan baik anda akan meliputi jarak lebih jauh daripada berjalan kaki - namun sangat jarang anda akan mendapat kelajuan ski merentas desa tanpa beg galas berat dalam lorong yang rapi.,sports,sports,"SENTENCE:
+ Dalam keadan baik anda akan meliputi jarak lebih jauh daripada berjalan kaki - namun sangat jarang anda akan mendapat kelajuan ski merentas desa tanpa beg galas berat dalam lorong yang rapi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Tujuh mata di belakang, Johnson menduduki tempat kedua dengan mata 2,243.",sports,sports,"SENTENCE:
+ Tujuh mata di belakang, Johnson menduduki tempat kedua dengan mata 2,243. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"“Canyoning” (atau: canyoneering) adalah tentang menurun ke dasar gaung, sama ada yang kering atau penuh dengan air.",sports,travel,"SENTENCE:
+ “Canyoning” (atau: canyoneering) adalah tentang menurun ke dasar gaung, sama ada yang kering atau penuh dengan air. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Robin Uthappa mendapat skor innings tertinggi, 70 larian dengan hanya 41 bola dengan memukul 11 empat dan 2 enam.",sports,sports,"SENTENCE:
+ Robin Uthappa mendapat skor innings tertinggi, 70 larian dengan hanya 41 bola dengan memukul 11 empat dan 2 enam. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Sukan musim sejuk sangat popular di bahagian Utara, dengan orang Itali bertanding dalam permainan antarabangsa dan acara Olimpik.",sports,sports,"SENTENCE:
+ Sukan musim sejuk sangat popular di bahagian Utara, dengan orang Itali bertanding dalam permainan antarabangsa dan acara Olimpik. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Maroochydore menduduki tempat keatas, enam mata di hadapan Noosa di tempat kedua.",sports,sports,"SENTENCE:
+ Maroochydore menduduki tempat keatas, enam mata di hadapan Noosa di tempat kedua. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Michael Schumacher tamatkan perlumbaan beliau tidak lama selepas Alonso, kerana kerosakan suspensi akibat banyak pertempuran semasa perlumbaan.",sports,sports,"SENTENCE:
+ Michael Schumacher tamatkan perlumbaan beliau tidak lama selepas Alonso, kerana kerosakan suspensi akibat banyak pertempuran semasa perlumbaan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Amalan pemakanan yang betul sahaja tidak dapat menjaminkan prestasi elit, tetapi ia boleh mempengaruhi kesejahteraan atlet muda secara keseluruhan.",sports,sports,"SENTENCE:
+ Amalan pemakanan yang betul sahaja tidak dapat menjaminkan prestasi elit, tetapi ia boleh mempengaruhi kesejahteraan atlet muda secara keseluruhan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Beliau tidak dapat mengambil ubat yang diperlukan untuk menahan sakitnya kerana ia telah diharamkan dari Perlawanan.,sports,health,"SENTENCE:
+ Beliau tidak dapat mengambil ubat yang diperlukan untuk menahan sakitnya kerana ia telah diharamkan dari Perlawanan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: health</s>"
+Kajian telah menunjukkan bahawa wanita dua kali lebih mungkin untuk menghidapi MS dari lelaki.,health,health,"SENTENCE:
+ Kajian telah menunjukkan bahawa wanita dua kali lebih mungkin untuk menghidapi MS dari lelaki. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: health</s>"
+"Arak haram boleh mengandungi pelbagai kekotoran berbahaya termasuk metanol, yang boleh menyebabkan buta atau kematian walaupun dalam dos yang kecil.",health,health,"SENTENCE:
+ Arak haram boleh mengandungi pelbagai kekotoran berbahaya termasuk metanol, yang boleh menyebabkan buta atau kematian walaupun dalam dos yang kecil. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: health</s>"
+"Hanya kesan pemikiran kebencanaan, bukan kemurungan dan ketakutan yang bergantung pada sesi PA berstruktur mingguan biasa.",health,sports,"SENTENCE:
+ Hanya kesan pemikiran kebencanaan, bukan kemurungan dan ketakutan yang bergantung pada sesi PA berstruktur mingguan biasa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Pemilikan kereta yang sangat tinggi juga mengakibatkan peningkatan kemalangan jalan raya yang membawa kepada penciptaan teknik baharu dalam penjagaan kesihatan bagi memulihkan bahagian badan yang tercedera.,health,travel,"SENTENCE:
+ Pemilikan kereta yang sangat tinggi juga mengakibatkan peningkatan kemalangan jalan raya yang membawa kepada penciptaan teknik baharu dalam penjagaan kesihatan bagi memulihkan bahagian badan yang tercedera. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Penyelidik utama mengatakan bahawa ia mungkin menghasilkan pengesanan awal kanser, tuberkulosis, HIV dan malaria kepada pesakit di negara-negara berpendapatan rendah, di mana kadar kemandirian untuk penyakit seperti kanser payu dara ialah separuh daripada di negara-negara yang lebih kaya.",health,health,"SENTENCE:
+ Penyelidik utama mengatakan bahawa ia mungkin menghasilkan pengesanan awal kanser, tuberkulosis, HIV dan malaria kepada pesakit di negara-negara berpendapatan rendah, di mana kadar kemandirian untuk penyakit seperti kanser payu dara ialah separuh daripada di negara-negara yang lebih kaya. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: health</s>"
+"Dr. Ehud Ur, profesor perubatan di University Dalhousie dalam Halifax, Nova Scotia dan ketua bahagian klinikal dan saintifik Persatuan Diabetes Kanada mengingatkan bahawa penyelidikan masih dalam peringkat awal.",health,health,"SENTENCE:
+ Dr. Ehud Ur, profesor perubatan di University Dalhousie dalam Halifax, Nova Scotia dan ketua bahagian klinikal dan saintifik Persatuan Diabetes Kanada mengingatkan bahawa penyelidikan masih dalam peringkat awal. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: health</s>"
+"Kanak-kanak ini cenderung untuk menghadapi masalah yang banyak, kerana mereka terlibat dalam tingkah laku yang berisiko, mudah bergaduh, dan mencabar pihak berkuasa “untuk merangsang otak mereka, kerana otak mereka tidak boleh dirangsang melalui kaedah normal”.",health,N/A,"SENTENCE:
+ Kanak-kanak ini cenderung untuk menghadapi masalah yang banyak, kerana mereka terlibat dalam tingkah laku yang berisiko, mudah bergaduh, dan mencabar pihak berkuasa “untuk merangsang otak mereka, kerana otak mereka tidak boleh dirangsang melalui kaedah normal”. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: education education</s>"
+Manusia boleh terkesan dengan air yang tercemar yang dibawa ke udara oleh angin dan ombak.,health,travel,"SENTENCE:
+ Manusia boleh terkesan dengan air yang tercemar yang dibawa ke udara oleh angin dan ombak. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Beberapa orang percaya bahawa mengalami mimpi jelas secara buatan dengan sering sangat memenatkan.,health,entertainment,"SENTENCE:
+ Beberapa orang percaya bahawa mengalami mimpi jelas secara buatan dengan sering sangat memenatkan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Potro menerima rawatan pada bahunya pada saat ini tetapi berjaya kembali semula ke permainan.,health,sports,"SENTENCE:
+ Potro menerima rawatan pada bahunya pada saat ini tetapi berjaya kembali semula ke permainan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Tambahan pula, kegagalan untuk berbuat demikian akan ada akibat-akibat yang serius: peningkatan depresi, pemakanan tak seimbang, dan berakhir dengan kematian.",health,sports,"SENTENCE:
+ Tambahan pula, kegagalan untuk berbuat demikian akan ada akibat-akibat yang serius: peningkatan depresi, pemakanan tak seimbang, dan berakhir dengan kematian. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Pegawai untuk bandaraya Amsterdam dan Muzium Anne Frank menyatakan bahwa pokok berkenaan telah dijangkiti kulat dan menimbulkan bahaya kesihatan awam semasa mereka berhujah berkenaan ia berbahaya tumbang.,health,travel,"SENTENCE:
+ Pegawai untuk bandaraya Amsterdam dan Muzium Anne Frank menyatakan bahwa pokok berkenaan telah dijangkiti kulat dan menimbulkan bahaya kesihatan awam semasa mereka berhujah berkenaan ia berbahaya tumbang. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Hospital telah mengikuti protokol untuk mengawal jangkitan, termasuk memisahkan pesakit lain untuk mencegah kemungkinan jangkitan dari orang lain.",health,health,"SENTENCE:
+ Hospital telah mengikuti protokol untuk mengawal jangkitan, termasuk memisahkan pesakit lain untuk mencegah kemungkinan jangkitan dari orang lain. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: health</s>"
+Institut Keadilan dan Demokrasi Haiti telah merujuk kepada kajian bebas yang mencadangkan bahawa batalion pengaman keselamatan PBB Nepal membawa penyakit itu ke Haiti tanpa disedari.,health,politics,"SENTENCE:
+ Institut Keadilan dan Demokrasi Haiti telah merujuk kepada kajian bebas yang mencadangkan bahawa batalion pengaman keselamatan PBB Nepal membawa penyakit itu ke Haiti tanpa disedari. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: world politics</s>"
+"Penyakit berjangkit sendiri atau haiwan berbahaya boleh mencederakan atau membunuh orang secara paksa, jangan sesekali mengesahkan sebagai makhluk perosak.",health,travel,"SENTENCE:
+ Penyakit berjangkit sendiri atau haiwan berbahaya boleh mencederakan atau membunuh orang secara paksa, jangan sesekali mengesahkan sebagai makhluk perosak. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Kanak-kanak dengan ADD sukar untuk memberi tumpuan kepada perkara seperti kerja sekolah. Namun mereka boleh menumpukan perhatian kepada perkara yang mereka gemari seperti bermain permainan atau menonton kartun kegemaran mereka atau menulis ayat-ayat tanpa tanda baca.,health,entertainment,"SENTENCE:
+ Kanak-kanak dengan ADD sukar untuk memberi tumpuan kepada perkara seperti kerja sekolah. Namun mereka boleh menumpukan perhatian kepada perkara yang mereka gemari seperti bermain permainan atau menonton kartun kegemaran mereka atau menulis ayat-ayat tanpa tanda baca. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Dalam jangka masa setahun, orang yang dijangkiti boleh menjangkiti 10 hingga 15 orang kenalan rapat.",health,travel,"SENTENCE:
+ Dalam jangka masa setahun, orang yang dijangkiti boleh menjangkiti 10 hingga 15 orang kenalan rapat. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ketika pertempuran berhenti dan selepas yang cedera dihantar ke hospital, lebih kurang 40 daripada banduan yang tinggal berada di halaman dan enggan kembali ke sel-sel mereka.",health,sports,"SENTENCE:
+ Ketika pertempuran berhenti dan selepas yang cedera dihantar ke hospital, lebih kurang 40 daripada banduan yang tinggal berada di halaman dan enggan kembali ke sel-sel mereka. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Doktor mula direkrut oleh Maharaja Augustus dan juga membentuk Kor Perubatan Rom yang pertama yang digunakan untuk menangani mangsa peperangan.,health,entertainment,"SENTENCE:
+ Doktor mula direkrut oleh Maharaja Augustus dan juga membentuk Kor Perubatan Rom yang pertama yang digunakan untuk menangani mangsa peperangan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Namun begitu, pemandu telah cedera parah di kepala.",health,sports,"SENTENCE:
+ Namun begitu, pemandu telah cedera parah di kepala. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"“Kami kini mempunyai seekor anak tikus yang berusia 4 bulan yang sudah tidak menghidap diabetes,” beliau menambah.",health,health,"SENTENCE:
+ “Kami kini mempunyai seekor anak tikus yang berusia 4 bulan yang sudah tidak menghidap diabetes,” beliau menambah. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: health</s>"
+"Keracunan dalaman tidak boleh dibuktikan dengan cepat. Gejala-gejala, seperti muntah adalah cukup umum itu tidak boleh diagnosis dibuat dengan segera.",health,health,"SENTENCE:
+ Keracunan dalaman tidak boleh dibuktikan dengan cepat. Gejala-gejala, seperti muntah adalah cukup umum itu tidak boleh diagnosis dibuat dengan segera. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: health</s>"
+"Oleh itu, para pelakon menghisap ganja di atas pentas, dan pihak teater itu sendiri menggalakkan penonton untuk menyertainya.",entertainment,entertainment,"SENTENCE:
+ Oleh itu, para pelakon menghisap ganja di atas pentas, dan pihak teater itu sendiri menggalakkan penonton untuk menyertainya. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Aerosmith telah membatalkan konsert mereka yang selanjutnya untuk lawatan mereka.,entertainment,entertainment,"SENTENCE:
+ Aerosmith telah membatalkan konsert mereka yang selanjutnya untuk lawatan mereka. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Jika anda mahu berada dekat dengan aksi, anda perlu masuk awal untuk mendapatkan tapak khemah yang dekat dengan muzik.",entertainment,sports,"SENTENCE:
+ Jika anda mahu berada dekat dengan aksi, anda perlu masuk awal untuk mendapatkan tapak khemah yang dekat dengan muzik. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Terdapat pelbagai format filem yang telah digunakan sejak bertahun-tahun lamanya. Filem standard 35 mm (36 x 24 mm negatif) ialah yang paling biasa digunakan.,entertainment,entertainment,"SENTENCE:
+ Terdapat pelbagai format filem yang telah digunakan sejak bertahun-tahun lamanya. Filem standard 35 mm (36 x 24 mm negatif) ialah yang paling biasa digunakan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Sementara ini ada aktiviti biasa, ia adalah dilarang oleh Disney: tiket tak boleh pindahmilik.",entertainment,entertainment,"SENTENCE:
+ Sementara ini ada aktiviti biasa, ia adalah dilarang oleh Disney: tiket tak boleh pindahmilik. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Setiap episod dari rancangan tersebut akan memberi tumpuan pada satu tema dalam sebuah buku khusus dan menggali tema tersebut melalui pelbagai kisah.,entertainment,entertainment,"SENTENCE:
+ Setiap episod dari rancangan tersebut akan memberi tumpuan pada satu tema dalam sebuah buku khusus dan menggali tema tersebut melalui pelbagai kisah. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Beberapa skrin televisyen besar dipasang di pelbagai tempat di Rom untuk memberikan orang menonton upacara tersebut.,entertainment,entertainment,"SENTENCE:
+ Beberapa skrin televisyen besar dipasang di pelbagai tempat di Rom untuk memberikan orang menonton upacara tersebut. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Sophocles dan Aristophanes masih merupakan penulis drama yang terkenal dan drama mereka dianggap antara karya yang terbaik di dunia sastera.,entertainment,entertainment,"SENTENCE:
+ Sophocles dan Aristophanes masih merupakan penulis drama yang terkenal dan drama mereka dianggap antara karya yang terbaik di dunia sastera. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Setiap pertunjukkan juga memberi cadangan berkaitan buku-buku yang kanak-kanak patut mencari semasa mereka ke perpustakaan.,entertainment,entertainment,"SENTENCE:
+ Setiap pertunjukkan juga memberi cadangan berkaitan buku-buku yang kanak-kanak patut mencari semasa mereka ke perpustakaan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Pada akordion, bagi mendapatkan kelantangan tambahan, anda guna pakai belos pada tekanan atau kelajuan yang lebih tinggi.",entertainment,sports,"SENTENCE:
+ Pada akordion, bagi mendapatkan kelantangan tambahan, anda guna pakai belos pada tekanan atau kelajuan yang lebih tinggi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Anda boleh melihat piramid dalam gelap dan dalam keadaan sunyi sebelum pertunjukan bermula.,entertainment,entertainment,"SENTENCE:
+ Anda boleh melihat piramid dalam gelap dan dalam keadaan sunyi sebelum pertunjukan bermula. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Contoh aktiviti-aktiviti yang boleh dilakukan termasuk memburu, memancing, fotografi, memerhati burung, dan mengunjungi taman serta mempelajari maklumat mengenai ekosistem.",entertainment,travel,"SENTENCE:
+ Contoh aktiviti-aktiviti yang boleh dilakukan termasuk memburu, memancing, fotografi, memerhati burung, dan mengunjungi taman serta mempelajari maklumat mengenai ekosistem. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Sphinx dijadikan latar belakang serta jalan cerita kisah yang panjang.,entertainment,entertainment,"SENTENCE:
+ Sphinx dijadikan latar belakang serta jalan cerita kisah yang panjang. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Mereka biasnya mempunyai makanan istemewa, minuman dan tawaran hiburan, untuk memastikan tetamu berada dalam mood yang baik dan mengekalkan mereka di premis.",entertainment,travel,"SENTENCE:
+ Mereka biasnya mempunyai makanan istemewa, minuman dan tawaran hiburan, untuk memastikan tetamu berada dalam mood yang baik dan mengekalkan mereka di premis. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Sudah melaporkan dalam bahasa Inggeris dan Jepun, organisasi global melancarkan program bahasa Sepanyol, Itali, dan program Korea untuk televisyen, web, dan peranti mudah alih.",entertainment,entertainment,"SENTENCE:
+ Sudah melaporkan dalam bahasa Inggeris dan Jepun, organisasi global melancarkan program bahasa Sepanyol, Itali, dan program Korea untuk televisyen, web, dan peranti mudah alih. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Sebelum Simpsons Simon bekerja di beberapa pertunjukan dalam pelbagai posisi.,entertainment,entertainment,"SENTENCE:
+ Sebelum Simpsons Simon bekerja di beberapa pertunjukan dalam pelbagai posisi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Ini akan membolehkan pemain mengawal aksi dan pergerakan dalam permainan video dengan menggerakkan peranti melalui udara.,entertainment,entertainment,"SENTENCE:
+ Ini akan membolehkan pemain mengawal aksi dan pergerakan dalam permainan video dengan menggerakkan peranti melalui udara. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Dianggarkan seramai 100 orang telah menghadiri parti tersebut yang bertujuan untuk meraikan ulang tahun pertama bagi sebuah pasangan pengantin yang berkahwin pada tahun lepas.,entertainment,entertainment,"SENTENCE:
+ Dianggarkan seramai 100 orang telah menghadiri parti tersebut yang bertujuan untuk meraikan ulang tahun pertama bagi sebuah pasangan pengantin yang berkahwin pada tahun lepas. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Dua lagu dari filem tersebut, Audition (The Fools Who Dream) dan City of Stars, menerima pencalonan untuk muzik asal terbaik. Studio Lionsgate menerima 26 pencalonan — lebih banyak berbanding mana-mana studio lain.",entertainment,entertainment,"SENTENCE:
+ Dua lagu dari filem tersebut, Audition (The Fools Who Dream) dan City of Stars, menerima pencalonan untuk muzik asal terbaik. Studio Lionsgate menerima 26 pencalonan — lebih banyak berbanding mana-mana studio lain. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Krusta mempunyai ketebalan 70 km pada sisi dekat dan 100 km pada sisi jauh.,geography,travel,"SENTENCE:
+ Krusta mempunyai ketebalan 70 km pada sisi dekat dan 100 km pada sisi jauh. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Lebih jauh ke selatan ialah Niagara Falls dan bahagian utara merupakan kawasan kecantikan semula jadi Muskoka dan yang melewatinya yang tidak terusik.,geography,travel,"SENTENCE:
+ Lebih jauh ke selatan ialah Niagara Falls dan bahagian utara merupakan kawasan kecantikan semula jadi Muskoka dan yang melewatinya yang tidak terusik. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ellsworth Land ialah wilayah selatan Semenanjung, dikelilingi oleh Laut Bellingshausen.",geography,travel,"SENTENCE:
+ Ellsworth Land ialah wilayah selatan Semenanjung, dikelilingi oleh Laut Bellingshausen. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Laluan Kutub Selatan (atau lebuhraya) adalah jejak 1600 km daripada Stesen McMurdo di Laut Ross ke Kutub.,geography,travel,"SENTENCE:
+ Laluan Kutub Selatan (atau lebuhraya) adalah jejak 1600 km daripada Stesen McMurdo di Laut Ross ke Kutub. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Menjulang tinggi di hujung utara Machu Picchu ialah gunung curam ini yang sering menjadi latar belakang kepada kebanyakan gambar runtuhan itu.,geography,travel,"SENTENCE:
+ Menjulang tinggi di hujung utara Machu Picchu ialah gunung curam ini yang sering menjadi latar belakang kepada kebanyakan gambar runtuhan itu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Enceladus merupakan objek paling reflektif dalam sistem solar, yang memantul sekitar 90 peratus daripada cahaya matahari yang mengenainya.",geography,science/technology,"SENTENCE:
+ Enceladus merupakan objek paling reflektif dalam sistem solar, yang memantul sekitar 90 peratus daripada cahaya matahari yang mengenainya. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+Tiada apa-apa yang dapat dilihat selain langit yang terang dan indah dan gunung-ganang di sekitarnya. Hanya bisikan dunia dapat didengar atau dilihat dari dalam gua ini.,geography,travel,"SENTENCE:
+ Tiada apa-apa yang dapat dilihat selain langit yang terang dan indah dan gunung-ganang di sekitarnya. Hanya bisikan dunia dapat didengar atau dilihat dari dalam gua ini. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Sekarang bagi Jepun. Jepun ialah negara kepulauan, sama seperti Britain.",geography,travel,"SENTENCE:
+ Sekarang bagi Jepun. Jepun ialah negara kepulauan, sama seperti Britain. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Dalam puncak Siklon Tropika Gonu, yang mendapat nama daripada sebeg daun palma dalam Bahasa Maldives, telah mencapai angin berterusan selaju 240 kilometer sejam (149 batu sejam) .",geography,travel,"SENTENCE:
+ Dalam puncak Siklon Tropika Gonu, yang mendapat nama daripada sebeg daun palma dalam Bahasa Maldives, telah mencapai angin berterusan selaju 240 kilometer sejam (149 batu sejam) . 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Kawasan Turki, termasuk tasik, menghuni 783,562 kilometer persegi (300,948 meter persegi), iaitu 755,688 kilometer persegi (291,773 meter persegi) berada di Asia barat daya dan 23,764 kilometer persegi (9,174 meter persegi) di Eropah.",geography,travel,"SENTENCE:
+ Kawasan Turki, termasuk tasik, menghuni 783,562 kilometer persegi (300,948 meter persegi), iaitu 755,688 kilometer persegi (291,773 meter persegi) berada di Asia barat daya dan 23,764 kilometer persegi (9,174 meter persegi) di Eropah. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Kepulauan Shetland Selatan yang ditemui pada tahun 1819, dituntut oleh beberapa negara dan mempunyai bilangan pangkalan yang paling banyak, iaitu sebanyak enam belas pangkalan aktif pada tahun 2020.",geography,travel,"SENTENCE:
+ Kepulauan Shetland Selatan yang ditemui pada tahun 1819, dituntut oleh beberapa negara dan mempunyai bilangan pangkalan yang paling banyak, iaitu sebanyak enam belas pangkalan aktif pada tahun 2020. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Apia adalah ibu negara Samoa. Bandar ini terletak di pulau Upolu dengan populasi yang kurang daripada 40,000.",geography,travel,"SENTENCE:
+ Apia adalah ibu negara Samoa. Bandar ini terletak di pulau Upolu dengan populasi yang kurang daripada 40,000. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Oleh sebab ribut jauh dari daratan, ia tetap sukar untuk menilai potensi kesan ke atas Amerika Syarikat atau Caribbean.",geography,travel,"SENTENCE:
+ Oleh sebab ribut jauh dari daratan, ia tetap sukar untuk menilai potensi kesan ke atas Amerika Syarikat atau Caribbean. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Ia adalah lebih nipis di bawah maria dan tebal di bawah tanah tinggi.,geography,travel,"SENTENCE:
+ Ia adalah lebih nipis di bawah maria dan tebal di bawah tanah tinggi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Hutan bukan hanya pokok bakau - ianya termasuk beberapa tempat terakhir dari hutan rimba yang terbuang meliputi dataran Gangetic.,geography,travel,"SENTENCE:
+ Hutan bukan hanya pokok bakau - ianya termasuk beberapa tempat terakhir dari hutan rimba yang terbuang meliputi dataran Gangetic. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Peta gempa bumi antarbangsa Kajian Geologi Amerika Syarikat menunjukkan tiada gempa bumi di Iceland di minggu sebelumnya.,geography,travel,"SENTENCE:
+ Peta gempa bumi antarbangsa Kajian Geologi Amerika Syarikat menunjukkan tiada gempa bumi di Iceland di minggu sebelumnya. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Terletak di puncak sebuah gunung di utara Mekah, gua ini terpencil sepenuhnya daripada seluruh dunia.",geography,travel,"SENTENCE:
+ Terletak di puncak sebuah gunung di utara Mekah, gua ini terpencil sepenuhnya daripada seluruh dunia. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"

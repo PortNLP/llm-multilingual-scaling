@@ -1,0 +1,2449 @@
+text,actual_category,predicted_category,generated_text
+"Úrbregði gevur nýtt arvaðfrøðiligt frávik, og úrveljing tekur tað burtur úr bólkinum við týðiligum fráviki.",science/technology,travel,"SENTENCE:
+ Úrbregði gevur nýtt arvaðfrøðiligt frávik, og úrveljing tekur tað burtur úr bólkinum við týðiligum fráviki. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Kloyvingsbumbur virka eftir meginregluni um, at orka skal til fyri at seta ein kjarna saman við nógvum protonum og nevtronum.",science/technology,science/technology,"SENTENCE:
+ Kloyvingsbumbur virka eftir meginregluni um, at orka skal til fyri at seta ein kjarna saman við nógvum protonum og nevtronum. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+Kjarnin hevur tveir bitlar - nevtrónir og protónir.,science/technology,science/technology,"SENTENCE:
+ Kjarnin hevur tveir bitlar - nevtrónir og protónir. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+"Hetta hevur gjørt, at sumilinsur kunnu taka myndir við líknandi góðsku, sum tær frá linsum við fastari brennivídd.",science/technology,sports,"SENTENCE:
+ Hetta hevur gjørt, at sumilinsur kunnu taka myndir við líknandi góðsku, sum tær frá linsum við fastari brennivídd. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Teir eru betri enn internet-proxy av fleiri orsøkum: Teir re-ruta alla netferðslu, ikki bara http.",science/technology,travel,"SENTENCE:
+ Teir eru betri enn internet-proxy av fleiri orsøkum: Teir re-ruta alla netferðslu, ikki bara http. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Samvirkin sniðgevin krevur, at tú av nýggjum umhugsar tín varhuga um miðlaframleiðslu, og lærir at hugsa øðrvísi.",science/technology,sports,"SENTENCE:
+ Samvirkin sniðgevin krevur, at tú av nýggjum umhugsar tín varhuga um miðlaframleiðslu, og lærir at hugsa øðrvísi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Hetta gjørdist vanlig mannagongd, men jarnið sleit træhjólini á vognunum meira.",science/technology,travel,"SENTENCE:
+ Hetta gjørdist vanlig mannagongd, men jarnið sleit træhjólini á vognunum meira. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Flokkar eru settir saman av einum til trimum vaksnum kalldýrum, sum eru skyldir, saman við upp í tretivu kvenndýrum og ungum.",science/technology,science/technology,"SENTENCE:
+ Flokkar eru settir saman av einum til trimum vaksnum kalldýrum, sum eru skyldir, saman við upp í tretivu kvenndýrum og ungum. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+"Hóast telduvit hevur ein sterkan hjátýdning um framtíðarskaldskap, er telduvit ein týðandi grein í teldufrøði, sum fæst við atburð, at læra og vitborin tillaging í eini maskinu.",science/technology,travel,"SENTENCE:
+ Hóast telduvit hevur ein sterkan hjátýdning um framtíðarskaldskap, er telduvit ein týðandi grein í teldufrøði, sum fæst við atburð, at læra og vitborin tillaging í eini maskinu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Støddarlutfallið hjá hesi støddini (býtt við tólv fyri at fáa einfaldasta lutfallið við heilum tølum) eitur tí 3:2.,science/technology,science/technology,"SENTENCE:
+ Støddarlutfallið hjá hesi støddini (býtt við tólv fyri at fáa einfaldasta lutfallið við heilum tølum) eitur tí 3:2. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+"Ein fylgisveinatelefon avloysir vanliga ikki eina fartelefon, tí at tað er neyðugt at vera uttandura við fríari sjón til fylgisveinin fyri at gera eitt telefonkall.",science/technology,travel,"SENTENCE:
+ Ein fylgisveinatelefon avloysir vanliga ikki eina fartelefon, tí at tað er neyðugt at vera uttandura við fríari sjón til fylgisveinin fyri at gera eitt telefonkall. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Hóast vognbreytirnar bara vóru samansettar av træplankum, sum gingu javnfart við hvønn annan, hjálptu tær rossunum, sum drógu teir, at ganga skjótari og draga størri byrur, enn tey kundu á teimum heldur óslættu vegunum, sum vóru tá í tíðini.",science/technology,science/technology,"SENTENCE:
+ Hóast vognbreytirnar bara vóru samansettar av træplankum, sum gingu javnfart við hvønn annan, hjálptu tær rossunum, sum drógu teir, at ganga skjótari og draga størri byrur, enn tey kundu á teimum heldur óslættu vegunum, sum vóru tá í tíðini. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+"Fólk hava vitað um grundleggjandi evnafrøðilig frumevni, t.d. gull, silvur og kopar síðan forntíðina, tí tey øll eru at finna í náttúruni í sínum upprunaliga standi og eru lutfalsliga løtt at grava út við einføldum amboðum.",science/technology,sports,"SENTENCE:
+ Fólk hava vitað um grundleggjandi evnafrøðilig frumevni, t.d. gull, silvur og kopar síðan forntíðina, tí tey øll eru at finna í náttúruni í sínum upprunaliga standi og eru lutfalsliga løtt at grava út við einføldum amboðum. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Hjólið hevur broytt heimin á ótrúligar háttir. Tað størsta, sum hjólið hevur gjørt fyri okkum, er at geva okkum nógv lættari og skjótar flutning.",science/technology,sports,"SENTENCE:
+ Hjólið hevur broytt heimin á ótrúligar háttir. Tað størsta, sum hjólið hevur gjørt fyri okkum, er at geva okkum nógv lættari og skjótar flutning. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Hetta er gjørt fyri at tryggja at myndin ikki dekkar allan skermin. Tað verður kallað overscan.,science/technology,sports,"SENTENCE:
+ Hetta er gjørt fyri at tryggja at myndin ikki dekkar allan skermin. Tað verður kallað overscan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Týskir kavbátar itu U-Bátar. Týskarar dugdu væl at stýra og røkja sínar kavbátar.,science/technology,travel,"SENTENCE:
+ Týskir kavbátar itu U-Bátar. Týskarar dugdu væl at stýra og røkja sínar kavbátar. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Hóast alisfrøðiliga støðan kanska broytist, er evnafrøðiliga støðan tann sama.",science/technology,travel,"SENTENCE:
+ Hóast alisfrøðiliga støðan kanska broytist, er evnafrøðiliga støðan tann sama. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Yvirflataspenningurin kemur av, at vatnmýlini á yvirflatanum av vatninum eru sterkt bundin at hvørjum øðrum, meira enn tey eru at luftmýlunum uppiyvir.",science/technology,science/technology,"SENTENCE:
+ Yvirflataspenningurin kemur av, at vatnmýlini á yvirflatanum av vatninum eru sterkt bundin at hvørjum øðrum, meira enn tey eru at luftmýlunum uppiyvir. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+Ein av teimum vanligastu trupulleikunum við at umbroyta ein film til DVD snið er overscan.,science/technology,entertainment,"SENTENCE:
+ Ein av teimum vanligastu trupulleikunum við at umbroyta ein film til DVD snið er overscan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Serstakliga, er tað hevdað, at ein kann síggja um ein lýgur við at tulka mikro-andlitsbrøgd á rættan hátt.",science/technology,science/technology,"SENTENCE:
+ Serstakliga, er tað hevdað, at ein kann síggja um ein lýgur við at tulka mikro-andlitsbrøgd á rættan hátt. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+Gull kann evnast til øll møgulig skap. Tað kann verða rullað til pinkulítil skap.,science/technology,travel,"SENTENCE:
+ Gull kann evnast til øll møgulig skap. Tað kann verða rullað til pinkulítil skap. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Telduvitsskipanin verður ofta nýtt í økjunum innanfyri búskap, heilivág, verkfrøði og hervaldið, og verða ofta bygdar inn í fleiri hústeldur og nýtsluritbúnaðir til telduspøl.",science/technology,travel,"SENTENCE:
+ Telduvitsskipanin verður ofta nýtt í økjunum innanfyri búskap, heilivág, verkfrøði og hervaldið, og verða ofta bygdar inn í fleiri hústeldur og nýtsluritbúnaðir til telduspøl. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Hon verður enn framleidd í dag, men av uppaftur størri týdningi verður støddarlutfallið eisini nýtt til myndavarnarastøddir í digitalum myndatólum.",science/technology,science/technology,"SENTENCE:
+ Hon verður enn framleidd í dag, men av uppaftur størri týdningi verður støddarlutfallið eisini nýtt til myndavarnarastøddir í digitalum myndatólum. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+"Reglan um triðingar, sum ofta verður misnýtt ella gjørt gjøldur burturúr, er ein einføld leiðregla, sum gevur myndini dynamikk, men eisini varðveitir eitt sindur skil í.",science/technology,sports,"SENTENCE:
+ Reglan um triðingar, sum ofta verður misnýtt ella gjørt gjøldur burturúr, er ein einføld leiðregla, sum gevur myndini dynamikk, men eisini varðveitir eitt sindur skil í. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Hetta váttar ikki bara, at í minsta lagi nakrir dinosaurar høvdu fjaðrar, eitt ástøði, sum longu er vanligt, men gevur smálutir, sum steinrenningar vanliga ikki kunnu, eitt nú lit og trívíddarskipan.",science/technology,science/technology,"SENTENCE:
+ Hetta váttar ikki bara, at í minsta lagi nakrir dinosaurar høvdu fjaðrar, eitt ástøði, sum longu er vanligt, men gevur smálutir, sum steinrenningar vanliga ikki kunnu, eitt nú lit og trívíddarskipan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+"Hvussu hevði tyngdarmegin hjá Io drigið meg? Um tú stóð á yvirflatuni á Io, hevði tú vigað minni, enn tú gert á jørðini.",science/technology,science/technology,"SENTENCE:
+ Hvussu hevði tyngdarmegin hjá Io drigið meg? Um tú stóð á yvirflatuni á Io, hevði tú vigað minni, enn tú gert á jørðini. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+"NextGen er ein skipan, sum FAA heldur upp á fer at loyva flogførum at flúgva styttri ferðir og spara gallonir í milliónatali á hvørjum ári og skera niður upp á útlátið av kolevni.",science/technology,sports,"SENTENCE:
+ NextGen er ein skipan, sum FAA heldur upp á fer at loyva flogførum at flúgva styttri ferðir og spara gallonir í milliónatali á hvørjum ári og skera niður upp á útlátið av kolevni. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Nervafrøðiligar upplýsingar veita ítøkiligt prógv fyri einum ástøðiligum hátti at granska fatan. Tískil verður granskingarøkið minni og nógv neyvari.,science/technology,sports,"SENTENCE:
+ Nervafrøðiligar upplýsingar veita ítøkiligt prógv fyri einum ástøðiligum hátti at granska fatan. Tískil verður granskingarøkið minni og nógv neyvari. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Í síni tveirtíma longu talu, segði hann at “í dag fer Apple at uppfinna telefonina av nýggjum, vit fara at skriva søgu í dag”.",science/technology,sports,"SENTENCE:
+ Í síni tveirtíma longu talu, segði hann at “í dag fer Apple at uppfinna telefonina av nýggjum, vit fara at skriva søgu í dag”. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Vansin við sumilinsum er at brennidepilin verður torgreiðari, og talið á linsulutum, sum er kravt fyri at fáa fleiri brennivíddir, er nógv størri enn hjá primlinsum.",science/technology,science/technology,"SENTENCE:
+ Vansin við sumilinsum er at brennidepilin verður torgreiðari, og talið á linsulutum, sum er kravt fyri at fáa fleiri brennivíddir, er nógv størri enn hjá primlinsum. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+"Stýrarin, sum líkist eini fjarstýring, nýtir tveir varnarar, sum sita nær við sjónvarpið hjá brúkaranum, til at tríhyrningsmála hansara støðu í trívíddarrúmi.",science/technology,travel,"SENTENCE:
+ Stýrarin, sum líkist eini fjarstýring, nýtir tveir varnarar, sum sita nær við sjónvarpið hjá brúkaranum, til at tríhyrningsmála hansara støðu í trívíddarrúmi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+". Granskarar siga at fjøðurhamurin hjá hesum djórinum var morreyður í erva, við eini bleikari ella reydligari undirsíðu.",science/technology,travel,"SENTENCE:
+ . Granskarar siga at fjøðurhamurin hjá hesum djórinum var morreyður í erva, við eini bleikari ella reydligari undirsíðu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Bæði sambond virka upp á hvørt annað við at tilevna krystall, sum kunnu forða fyri nýravirksemi, søgdu granskarar á fróðskaparsetrinum.",science/technology,science/technology,"SENTENCE:
+ Bæði sambond virka upp á hvørt annað við at tilevna krystall, sum kunnu forða fyri nýravirksemi, søgdu granskarar á fróðskaparsetrinum. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+"Hetta hevur eina upploysing, ið er næstan fýra ferðir tað, sum ein 35 mm rangmynd hevur (3136 mm2 móti 864).",science/technology,sports,"SENTENCE:
+ Hetta hevur eina upploysing, ið er næstan fýra ferðir tað, sum ein 35 mm rangmynd hevur (3136 mm2 móti 864). 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Undirsjóvar ljósleiðarakáplar til Evropa og breiðbandsfylgisveinar gera, at Grønland hevur gott samband til 93% av íbúgvunum, sum hava netsamband.",science/technology,sports,"SENTENCE:
+ Undirsjóvar ljósleiðarakáplar til Evropa og breiðbandsfylgisveinar gera, at Grønland hevur gott samband til 93% av íbúgvunum, sum hava netsamband. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Ein av teimum fremstu appunum í hesum bólkinum er Google Translate, ið loyvir avlinjuumsetingum, aftaná ein hevur tikið máldáturnar niður.",science/technology,travel,"SENTENCE:
+ Ein av teimum fremstu appunum í hesum bólkinum er Google Translate, ið loyvir avlinjuumsetingum, aftaná ein hevur tikið máldáturnar niður. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Tað hevur sama mýlska bygnaðin, antin tað er gass, flótandi ella fast.",science/technology,sports,"SENTENCE:
+ Tað hevur sama mýlska bygnaðin, antin tað er gass, flótandi ella fast. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Nýtslan av videoupptøku hevur borið við sær týdningarmiklar uppdagingar í tulkingini av mikro-andlitsbrøgdum, andlitsrørslur, sum vara nøkur fá millisekund.",science/technology,science/technology,"SENTENCE:
+ Nýtslan av videoupptøku hevur borið við sær týdningarmiklar uppdagingar í tulkingini av mikro-andlitsbrøgdum, andlitsrørslur, sum vara nøkur fá millisekund. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+Menniskjan hevur framleitt og brúkt linsur at størka við í fleiri túsund ár.,science/technology,travel,"SENTENCE:
+ Menniskjan hevur framleitt og brúkt linsur at størka við í fleiri túsund ár. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Tað er ikki bara við kanningum, har ein kanning er ein roynd, sum verður nýtt at útiloka eitt ella fleiri hugsandi ætl, men eisini við at stilla spurningar, at eygleiða og leiða vísindaligar kanningar.",science/technology,sports,"SENTENCE:
+ Tað er ikki bara við kanningum, har ein kanning er ein roynd, sum verður nýtt at útiloka eitt ella fleiri hugsandi ætl, men eisini við at stilla spurningar, at eygleiða og leiða vísindaligar kanningar. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Sum frá leið, vórðu jarnhjól nýtt í staðin fyri træhjól. Í 1767 komu fyrstu breytirnar úr reinum jarni.",science/technology,travel,"SENTENCE:
+ Sum frá leið, vórðu jarnhjól nýtt í staðin fyri træhjól. Í 1767 komu fyrstu breytirnar úr reinum jarni. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Hóast flest kort virka til at ringja allastaðni, so leggja summi serligan dent á at veita góðar prísur til at ringja til nøkur ávís lond.",science/technology,sports,"SENTENCE:
+ Hóast flest kort virka til at ringja allastaðni, so leggja summi serligan dent á at veita góðar prísur til at ringja til nøkur ávís lond. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Flestu nýmótans stjørnukikarar til gransking eru ómetaliga stórir hentleikar í fjarskotnum økjum við góðum lofthavslíkindum.,science/technology,sports,"SENTENCE:
+ Flestu nýmótans stjørnukikarar til gransking eru ómetaliga stórir hentleikar í fjarskotnum økjum við góðum lofthavslíkindum. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Stálnálin flýtur oman á vatninum við yvirflataspenningi.,science/technology,travel,"SENTENCE:
+ Stálnálin flýtur oman á vatninum við yvirflataspenningi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"35mm støddin er í veruleikanum eitt sindur ørvitislig, 36mm breið og 24mm høg.",science/technology,sports,"SENTENCE:
+ 35mm støddin er í veruleikanum eitt sindur ørvitislig, 36mm breið og 24mm høg. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Kyknur eru so grundleggjandi og avgerandi í lívfrøði, at tær ofta verða nevndar “lívsins byggisteinar”.",science/technology,travel,"SENTENCE:
+ Kyknur eru so grundleggjandi og avgerandi í lívfrøði, at tær ofta verða nevndar “lívsins byggisteinar”. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Persónligt VPN (virtuelt privat netverk) veitarar eru ein góður máti at sleppa framvið bæði politiskum avmarkingum og vinnuligum IP-geofiltrum.,science/technology,science/technology,"SENTENCE:
+ Persónligt VPN (virtuelt privat netverk) veitarar eru ein góður máti at sleppa framvið bæði politiskum avmarkingum og vinnuligum IP-geofiltrum. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+"Støðin broytti ikki støðu, hóast eitt gyroskop varð mist fyrr í sendiferðini hjá rúmdarstøðini, inntil rúmdargongan kom at enda.",science/technology,sports,"SENTENCE:
+ Støðin broytti ikki støðu, hóast eitt gyroskop varð mist fyrr í sendiferðini hjá rúmdarstøðini, inntil rúmdargongan kom at enda. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Fólk við hesum slagnum av hugsan hava logiska hugsan, og eru før fyri at læra mynstur uttan at, loysa trupulleikar og arbeiða við vísindarligum kanningum.",science/technology,travel,"SENTENCE:
+ Fólk við hesum slagnum av hugsan hava logiska hugsan, og eru før fyri at læra mynstur uttan at, loysa trupulleikar og arbeiða við vísindarligum kanningum. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Osilottum dáma at eta smá djór. Teir fanga apur, slangur, gnagdýr og fuglar, um teir megna tað. Næstan øll djórini, sum osilottarnir veiða, eru nógv minni enn teir.",science/technology,sports,"SENTENCE:
+ Osilottum dáma at eta smá djór. Teir fanga apur, slangur, gnagdýr og fuglar, um teir megna tað. Næstan øll djórini, sum osilottarnir veiða, eru nógv minni enn teir. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Nøkur miðalstór filmsmyndatól brúka ein 6 ferðir 6 cm bygnað, meira neyvt eina 56 ferðir 56 mm rangmynd.",science/technology,entertainment,"SENTENCE:
+ Nøkur miðalstór filmsmyndatól brúka ein 6 ferðir 6 cm bygnað, meira neyvt eina 56 ferðir 56 mm rangmynd. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Ferðafólk verða staðiliga mæld til, at vera vitandi um vandar fyri harðveðri í teirra økjum, tí at teir kunnu ávirka ferðaætlanir.",travel,travel,"SENTENCE:
+ Ferðafólk verða staðiliga mæld til, at vera vitandi um vandar fyri harðveðri í teirra økjum, tí at teir kunnu ávirka ferðaætlanir. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Bussar fara frá tvørlandspartsbussstøðum (yvirum ánna) gjøgnum dagin, hóast teir flestu, ið fara eystureftir og ímóti Jakar/Bumthang fara avstað millum 06:30 og 07:30.",travel,travel,"SENTENCE:
+ Bussar fara frá tvørlandspartsbussstøðum (yvirum ánna) gjøgnum dagin, hóast teir flestu, ið fara eystureftir og ímóti Jakar/Bumthang fara avstað millum 06:30 og 07:30. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Teir geva betri støðufesti til tann, ið ríður, men kunnu hava trygdartrupulleikar, tí at føturnir hjá reiðfólkinum møguliga kunnu sita fastir.",travel,sports,"SENTENCE:
+ Teir geva betri støðufesti til tann, ið ríður, men kunnu hava trygdartrupulleikar, tí at føturnir hjá reiðfólkinum møguliga kunnu sita fastir. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Flestu baltisku túrarnir við ferðamannaskipið bjóða ein langan steðg í Sankta Pætursborg í Russlandi.,travel,sports,"SENTENCE:
+ Flestu baltisku túrarnir við ferðamannaskipið bjóða ein langan steðg í Sankta Pætursborg í Russlandi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Frásøgnin gongur út frá, at ferðafólk ikki stjala, gera misbrot, taka lut í ólógliga marknaðinum, bidda, ella onkursvegna misnýta onnur fólk fyri egnan vinning.",travel,sports,"SENTENCE:
+ Frásøgnin gongur út frá, at ferðafólk ikki stjala, gera misbrot, taka lut í ólógliga marknaðinum, bidda, ella onkursvegna misnýta onnur fólk fyri egnan vinning. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Tað er nógv tú skalt hugsa um, áðrenn og meðan tú ferðast onkustaðni.",travel,sports,"SENTENCE:
+ Tað er nógv tú skalt hugsa um, áðrenn og meðan tú ferðast onkustaðni. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Í dagshitanum kunnu ferðafólk uppliva lognbrá, ið gera eina villingarsjón av vatni (ella øðrum).",travel,travel,"SENTENCE:
+ Í dagshitanum kunnu ferðafólk uppliva lognbrá, ið gera eina villingarsjón av vatni (ella øðrum). 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Familjur við børnum eru ikki ofta at síggja, men summi vallaraheim loyva teimum í egnum kamari.",travel,travel,"SENTENCE:
+ Familjur við børnum eru ikki ofta at síggja, men summi vallaraheim loyva teimum í egnum kamari. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Til dømis at vitja borgir í Loire Dalinum, Rhine dalinum, ella at sigla til áhugaverdar býir fram við Donau, ella at fara eina bátsferð fram við Erie Kanalini.",travel,travel,"SENTENCE:
+ Til dømis at vitja borgir í Loire Dalinum, Rhine dalinum, ella at sigla til áhugaverdar býir fram við Donau, ella at fara eina bátsferð fram við Erie Kanalini. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Tað kann vera betur, at nýta eina skrivstovu, sum ofta bíleggur ferðir, ið líkjast tínari.",travel,sports,"SENTENCE:
+ Tað kann vera betur, at nýta eina skrivstovu, sum ofta bíleggur ferðir, ið líkjast tínari. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Couchsurfing varð stovnað í januar 2004 eftir at telduforritarin, Casey Fenton, fann eina bíliga flogferð til Íslands, men ikki hevði nakað stað at gista.",travel,travel,"SENTENCE:
+ Couchsurfing varð stovnað í januar 2004 eftir at telduforritarin, Casey Fenton, fann eina bíliga flogferð til Íslands, men ikki hevði nakað stað at gista. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Næmingavisa hava vanliga onnur krøv og aðrar umsóknartilgongdir enn vanlig ferðafólka- ella arbeiðsvisa.,travel,travel,"SENTENCE:
+ Næmingavisa hava vanliga onnur krøv og aðrar umsóknartilgongdir enn vanlig ferðafólka- ella arbeiðsvisa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Hvørt land hevur serliga lóggávu, um hvør neyðútgerð skal vera í bilinum.",travel,travel,"SENTENCE:
+ Hvørt land hevur serliga lóggávu, um hvør neyðútgerð skal vera í bilinum. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Sjálvt um flestu skrivstovur eru fús at taka ímóti flestu vanligum bíleggingum, so eru nógvar skrivstovur serkøn í serligum sløgum av ferðum, prísflokkum ella ferðamálum.",travel,science/technology,"SENTENCE:
+ Sjálvt um flestu skrivstovur eru fús at taka ímóti flestu vanligum bíleggingum, so eru nógvar skrivstovur serkøn í serligum sløgum av ferðum, prísflokkum ella ferðamálum. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+"Ferðafólk kunnu koma fram á skaðakykt, sum tey ikki eru von við í sínum heimi.",travel,travel,"SENTENCE:
+ Ferðafólk kunnu koma fram á skaðakykt, sum tey ikki eru von við í sínum heimi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Norðanfyri kanst tú eisini vitja stóra Halgistaðin hjá Vár Frúu Fatima (Shrine), ein staður við heimskendum Mariuhamum.",travel,travel,"SENTENCE:
+ Norðanfyri kanst tú eisini vitja stóra Halgistaðin hjá Vár Frúu Fatima (Shrine), ein staður við heimskendum Mariuhamum. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Tú kanst nýta boda-boda (motorsúkklutaxa) at koma runt í Goma. Vanligi (lokali) prísurin er ~500 kongolesiskir frankar fyri ein stuttan túr.,travel,travel,"SENTENCE:
+ Tú kanst nýta boda-boda (motorsúkklutaxa) at koma runt í Goma. Vanligi (lokali) prísurin er ~500 kongolesiskir frankar fyri ein stuttan túr. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Til tey sum njóta uttandura ítriv er ein túrur upp eftir sjógv-til-skýggj geilini alneyðugur.,travel,travel,"SENTENCE:
+ Til tey sum njóta uttandura ítriv er ein túrur upp eftir sjógv-til-skýggj geilini alneyðugur. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ein veiðiferð til gongu (eisini kallað ""kjarrgonga"", ""hiking safari"", ella at fara ""fótandi"") inniheldur at ganga, antin í nakrar fáar tímar ella í fleiri dagar.",travel,travel,"SENTENCE:
+ Ein veiðiferð til gongu (eisini kallað ""kjarrgonga"", ""hiking safari"", ella at fara ""fótandi"") inniheldur at ganga, antin í nakrar fáar tímar ella í fleiri dagar. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Einasti hátturin at fáa tað skjótari, er at senda tað sum innskrivað viðføri. Flogfelagsreglur loyva ikki at ein sendir viðføri uttan eitt ferðafólk, og tað er her, at tú kemur í myndina.",travel,travel,"SENTENCE:
+ Einasti hátturin at fáa tað skjótari, er at senda tað sum innskrivað viðføri. Flogfelagsreglur loyva ikki at ein sendir viðføri uttan eitt ferðafólk, og tað er her, at tú kemur í myndina. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"300 afturat gevur tilsamans 1.300 vognar, sum skulu útvegast fyri at minka um ovfylling.",travel,sports,"SENTENCE:
+ 300 afturat gevur tilsamans 1.300 vognar, sum skulu útvegast fyri at minka um ovfylling. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Familjur við smáum børnum skulu kanska fyrireika seg eitt sindur meira, men ein dagur uttandura ber saktans til, sjálvt við pinkubørnum og  smábørnum.",travel,sports,"SENTENCE:
+ Familjur við smáum børnum skulu kanska fyrireika seg eitt sindur meira, men ein dagur uttandura ber saktans til, sjálvt við pinkubørnum og  smábørnum. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Einhvør, sum fer at koyra í høgum breiddarstigum ígjøgnum fjallaskørð, eigur at umhugsa møguleikan fyri kava, ísi, ella ísakøldum temperaturi.",travel,science/technology,"SENTENCE:
+ Einhvør, sum fer at koyra í høgum breiddarstigum ígjøgnum fjallaskørð, eigur at umhugsa møguleikan fyri kava, ísi, ella ísakøldum temperaturi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+"Í dag er Timbuktu ein trongstaddur býur, hóast umrøðan ger hann til eitt ferðafólkamál, og at hann hevur ein flogvøll.",travel,sports,"SENTENCE:
+ Í dag er Timbuktu ein trongstaddur býur, hóast umrøðan ger hann til eitt ferðafólkamál, og at hann hevur ein flogvøll. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Undir kavaódnir kann nóg mikið av kava koma upp á heilt stutta tíð, til at tú ert fastur.",travel,travel,"SENTENCE:
+ Undir kavaódnir kann nóg mikið av kava koma upp á heilt stutta tíð, til at tú ert fastur. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Um tú vilt flúgva um alla ta syðru knatthálvuna, so er úrvalið í flogferðum og ferðamál avmarkað, vegna trot á farleiðir hinumegin havið.",travel,sports,"SENTENCE:
+ Um tú vilt flúgva um alla ta syðru knatthálvuna, so er úrvalið í flogferðum og ferðamál avmarkað, vegna trot á farleiðir hinumegin havið. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Flogfeløg sum Emirates, Etihad Airways, Qatar Airways & Turkish Airlines hava í stóran mun voksið um tænastuna til Afrika, og bjóða samband til nógvar Afrikanskar býir við prísum, ið eru kappingarførir við teimum hjá øðrum evropeiskum flogfeløgum.",travel,travel,"SENTENCE:
+ Flogfeløg sum Emirates, Etihad Airways, Qatar Airways & Turkish Airlines hava í stóran mun voksið um tænastuna til Afrika, og bjóða samband til nógvar Afrikanskar býir við prísum, ið eru kappingarførir við teimum hjá øðrum evropeiskum flogfeløgum. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Eingin eyka flutningur verður settur í verk, og tok oman á jørðini fara ikki at steðga við Wembley, og parkering og parkera-og-far-hentleikar eru ikki tøkir á plássinum.",travel,sports,"SENTENCE:
+ Eingin eyka flutningur verður settur í verk, og tok oman á jørðini fara ikki at steðga við Wembley, og parkering og parkera-og-far-hentleikar eru ikki tøkir á plássinum. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Vanliga, krevur ein serliga langur túrur í einum og hvørjum fremmandi landi, at ein skaffar sær eitt visa í góðari tíð.",travel,travel,"SENTENCE:
+ Vanliga, krevur ein serliga langur túrur í einum og hvørjum fremmandi landi, at ein skaffar sær eitt visa í góðari tíð. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Øll tok hava bæði MetroPlus og Metro vognar; MetroPlus vognar eru altíð við endan á tokinum, tættast við Cape Town.",travel,travel,"SENTENCE:
+ Øll tok hava bæði MetroPlus og Metro vognar; MetroPlus vognar eru altíð við endan á tokinum, tættast við Cape Town. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Øll taka lut í samfelagnum og nýta ferðsluskipanir. Næstan øll klaga um ferðsluskipanir.,travel,travel,"SENTENCE:
+ Øll taka lut í samfelagnum og nýta ferðsluskipanir. Næstan øll klaga um ferðsluskipanir. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Tí at tað er so lítið av fólki í økjunum er ljósdálking sjáldan ein trupulleiki, og tískil kanst tú eisini njóta stjørnurnar.",travel,sports,"SENTENCE:
+ Tí at tað er so lítið av fólki í økjunum er ljósdálking sjáldan ein trupulleiki, og tískil kanst tú eisini njóta stjørnurnar. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Visa kravið og kostnaðurin er ymiskur frá landi til land og er ávirkaður av tí landinum, ið tú kemur frá.",travel,travel,"SENTENCE:
+ Visa kravið og kostnaðurin er ymiskur frá landi til land og er ávirkaður av tí landinum, ið tú kemur frá. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Vanliga kann tað ikki loysa seg at leita eftir tilboðum upp á business ella fyrsta klassasetur í beinleiðis flogferðum frá A til B.,travel,travel,"SENTENCE:
+ Vanliga kann tað ikki loysa seg at leita eftir tilboðum upp á business ella fyrsta klassasetur í beinleiðis flogferðum frá A til B. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"At duga, at blaka við boomerang er væl umtókt og er nakað, sum nógv ferðafólk vilja duga.",travel,sports,"SENTENCE:
+ At duga, at blaka við boomerang er væl umtókt og er nakað, sum nógv ferðafólk vilja duga. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Henda flogferð er ikki einasti møguleiki, um tú vilt leypa Suðurkyrrahavið og vesturstrondina í Suðuramerika um. (sí niðanfyri)",travel,travel,"SENTENCE:
+ Henda flogferð er ikki einasti møguleiki, um tú vilt leypa Suðurkyrrahavið og vesturstrondina í Suðuramerika um. (sí niðanfyri) 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"San Francisco hevur ment eitt ferðafólkaundirstøðukervi við nógvum gistingarhúsum, matstovum og fyrstafloks fundarhølum.",travel,sports,"SENTENCE:
+ San Francisco hevur ment eitt ferðafólkaundirstøðukervi við nógvum gistingarhúsum, matstovum og fyrstafloks fundarhølum. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"At gera sjálvboðið arbeiði ímeðan ein ferðast er ein góður háttur at gera mun, men tað ræður ikki einans um at geva.",travel,sports,"SENTENCE:
+ At gera sjálvboðið arbeiði ímeðan ein ferðast er ein góður háttur at gera mun, men tað ræður ikki einans um at geva. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Fólk rokna kanska ikki við at tol og skynsemi eisini er neyðugt fyri at ferðafólk kunnu koma heim.,travel,sports,"SENTENCE:
+ Fólk rokna kanska ikki við at tol og skynsemi eisini er neyðugt fyri at ferðafólk kunnu koma heim. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Ikki gloyma at leggja eykakostnaðin av eyka visa, fráferðarskatti, ferðing á landi o.s.fr. afturat, fyri øll støðini uttanfyri Afrika.",travel,travel,"SENTENCE:
+ Ikki gloyma at leggja eykakostnaðin av eyka visa, fráferðarskatti, ferðing á landi o.s.fr. afturat, fyri øll støðini uttanfyri Afrika. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Fleiri íbúgvar í Bishkek góvu mótmælisfólkum sunnanífrá skyldina fyri lógloysið.,politics,travel,"SENTENCE:
+ Fleiri íbúgvar í Bishkek góvu mótmælisfólkum sunnanífrá skyldina fyri lógloysið. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Nútíðar øki í Belgia vóru áður partur av Luksemborg, men gjørdust belgisk eftir belgisku kollveltingina í 1830’unum.",politics,travel,"SENTENCE:
+ Nútíðar øki í Belgia vóru áður partur av Luksemborg, men gjørdust belgisk eftir belgisku kollveltingina í 1830’unum. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Síðan 1988 hava atkvøðukassarnir skula verið gjøgnumskygdir, so veljarar og eygleiðarar kunnu vitna, at eingir brævbjálvar eru til staðar frá byrjanini av atkvøðuni, og at eingir brævbjálvar verða koyrdir í, aðrir enn teir hjá veljarunum, sum eru góðkendir á rættan hátt.",politics,sports,"SENTENCE:
+ Síðan 1988 hava atkvøðukassarnir skula verið gjøgnumskygdir, so veljarar og eygleiðarar kunnu vitna, at eingir brævbjálvar eru til staðar frá byrjanini av atkvøðuni, og at eingir brævbjálvar verða koyrdir í, aðrir enn teir hjá veljarunum, sum eru góðkendir á rættan hátt. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Virkandi bráðfeingis forsætisráðharrin Julia Gillard hevdaði í valdystinum til 2010 samveldisvalið, at hon meinti at Avstralia átti at verið eitt tjóðveldi tá stjórnarskeiðið hjá Elizabeth II drotning er av.",politics,sports,"SENTENCE:
+ Virkandi bráðfeingis forsætisráðharrin Julia Gillard hevdaði í valdystinum til 2010 samveldisvalið, at hon meinti at Avstralia átti at verið eitt tjóðveldi tá stjórnarskeiðið hjá Elizabeth II drotning er av. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Írska stjórnin leggur dent á, at parlamentarisk lóggáva er átrokandi fyri at bøta um støðuna.",politics,sports,"SENTENCE:
+ Írska stjórnin leggur dent á, at parlamentarisk lóggáva er átrokandi fyri at bøta um støðuna. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Diplomatiskt kjak um landspartin skemmir enn viðurskifti millum Armenia og Aserbadjan.,politics,travel,"SENTENCE:
+ Diplomatiskt kjak um landspartin skemmir enn viðurskifti millum Armenia og Aserbadjan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Stephen Harper forsætisráðharri hevur tikið undir við at senda ‘Rein luft skjalið' hjá stjórnini til endurskoðan í eini tvørpolitiskari nevnd, áðrenn tað verður lisið aðru ferð, aftaná 25-minutta møtið týsdagin við NDP leiðaranum, Jack Layton, á skrivstovuni hjá forsætisráðharranum.",politics,sports,"SENTENCE:
+ Stephen Harper forsætisráðharri hevur tikið undir við at senda ‘Rein luft skjalið' hjá stjórnini til endurskoðan í eini tvørpolitiskari nevnd, áðrenn tað verður lisið aðru ferð, aftaná 25-minutta møtið týsdagin við NDP leiðaranum, Jack Layton, á skrivstovuni hjá forsætisráðharranum. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Í síðsta mánað vóru stórar mótmælisgongur í Póllandi, tá landið skrivaði undir ACTA, hetta hevur havt við sær, at pólska stýrið hevur gjørt av ikki at staðfesta semjuna fyribils.",politics,sports,"SENTENCE:
+ Í síðsta mánað vóru stórar mótmælisgongur í Póllandi, tá landið skrivaði undir ACTA, hetta hevur havt við sær, at pólska stýrið hevur gjørt av ikki at staðfesta semjuna fyribils. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Leiðbeiningar eru bara ein stuttur samandráttur av politisku støðuni í einum landi.,politics,travel,"SENTENCE:
+ Leiðbeiningar eru bara ein stuttur samandráttur av politisku støðuni í einum landi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Undir útveljingini í 1976 ráðførdi hann Carter um uttanríkispolitikk, síðani tænti hann sum ríkistrygdarráðgevi (NSA) frá 1977 til 1981, eftir Henry Kissinger.",politics,travel,"SENTENCE:
+ Undir útveljingini í 1976 ráðførdi hann Carter um uttanríkispolitikk, síðani tænti hann sum ríkistrygdarráðgevi (NSA) frá 1977 til 1981, eftir Henry Kissinger. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Turkaland vildi eisini yvirtaka verjuna av handtiknum ISIS-stríðsmenn, sum, segði fráboðanin, evropeiskar tjóðir hava noktað at flyta heim.",politics,travel,"SENTENCE:
+ Turkaland vildi eisini yvirtaka verjuna av handtiknum ISIS-stríðsmenn, sum, segði fráboðanin, evropeiskar tjóðir hava noktað at flyta heim. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Hesar ætlanirnar gjørdust tó nyttuleysar eftir næstan bara einum degi, tá ið meira enn 800.000 hermenn frá sovjetska reyða herinum komu og skaptu hvítarussisku og ukrainsku hermótini, aftaná hann hevði gjørt innrás í landspartin eystanfyri í Póllandi, sum var í stríð við Riga friðarsáttmálan, sovjet-pólski ikki-álops sáttmálarnir, bæði tvísíðað og fleirsíðað.",politics,travel,"SENTENCE:
+ Hesar ætlanirnar gjørdust tó nyttuleysar eftir næstan bara einum degi, tá ið meira enn 800.000 hermenn frá sovjetska reyða herinum komu og skaptu hvítarussisku og ukrainsku hermótini, aftaná hann hevði gjørt innrás í landspartin eystanfyri í Póllandi, sum var í stríð við Riga friðarsáttmálan, sovjet-pólski ikki-álops sáttmálarnir, bæði tvísíðað og fleirsíðað. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Eftir rættargangin verður HJR-3 endurskoðað aftur av tí næsta valda lóggávutinginum annaðhvørt í 2015 ella 2016 um at verða verandi í gongd.,politics,sports,"SENTENCE:
+ Eftir rættargangin verður HJR-3 endurskoðað aftur av tí næsta valda lóggávutinginum annaðhvørt í 2015 ella 2016 um at verða verandi í gongd. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Eftir kongressin 4. juli hevði samtykt tað, varð eitt hondskrivað uppkast, sum John Hancock formaður í kongressini og Charles Thomson ráðharri høvdu skrivað undir, sent nakrar fáar gøtur hiðan til prentsmiðjuna hjá John Dunlap.",politics,sports,"SENTENCE:
+ Eftir kongressin 4. juli hevði samtykt tað, varð eitt hondskrivað uppkast, sum John Hancock formaður í kongressini og Charles Thomson ráðharri høvdu skrivað undir, sent nakrar fáar gøtur hiðan til prentsmiðjuna hjá John Dunlap. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Beint aftaná kl. 11:00 blokeraðu mótmælisfólk ferðsluna á breytini norðureftir í Whitehall.,politics,sports,"SENTENCE:
+ Beint aftaná kl. 11:00 blokeraðu mótmælisfólk ferðsluna á breytini norðureftir í Whitehall. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Tó, í juni 1956, stóðu lyftini hjá Krushchev sína roynd, tá ið ófriður í Póllandi, har arbeiðsfólk mótmæltu móti mattroti og lønarlækkingum, gjørdist eitt alment mótmæli móti kommunismu.",politics,travel,"SENTENCE:
+ Tó, í juni 1956, stóðu lyftini hjá Krushchev sína roynd, tá ið ófriður í Póllandi, har arbeiðsfólk mótmæltu móti mattroti og lønarlækkingum, gjørdist eitt alment mótmæli móti kommunismu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Tað fór at vara 40 ár og fór at verða strítt við staðgonguherum á stríðsvøllum frá Afrika til Asia, í Afganistan, Kuba og nógvum øðrum støðum.",politics,travel,"SENTENCE:
+ Tað fór at vara 40 ár og fór at verða strítt við staðgonguherum á stríðsvøllum frá Afrika til Asia, í Afganistan, Kuba og nógvum øðrum støðum. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Síðsta mánað viðmældi ein forsetanevnd fyrrverandi CEP-ráðnum at leggja frá sær, sum partur av einum heildartiltaki at føra landið móti nýggjum valum.",politics,sports,"SENTENCE:
+ Síðsta mánað viðmældi ein forsetanevnd fyrrverandi CEP-ráðnum at leggja frá sær, sum partur av einum heildartiltaki at føra landið móti nýggjum valum. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Tað sigst, at onnur evni fevna um framtíðar statin Jerusalem, sum er heilagur fyri báðar tjóðir og málið um Jordandalin.",politics,travel,"SENTENCE:
+ Tað sigst, at onnur evni fevna um framtíðar statin Jerusalem, sum er heilagur fyri báðar tjóðir og málið um Jordandalin. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Hon hevði ei heldur myndugleika at kolldøma skattalógir og tollgjøld millum statir.,politics,sports,"SENTENCE:
+ Hon hevði ei heldur myndugleika at kolldøma skattalógir og tollgjøld millum statir. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Fronsk vallóg skipar fyri mannagongdina rættiliga strangt.,politics,travel,"SENTENCE:
+ Fronsk vallóg skipar fyri mannagongdina rættiliga strangt. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Aftaná eina viku við tapi í miðskeiðisvalinum, fortaldi Bush nøkrum áhoyrarum um eina handilsvíðkan í Asia.",politics,travel,"SENTENCE:
+ Aftaná eina viku við tapi í miðskeiðisvalinum, fortaldi Bush nøkrum áhoyrarum um eina handilsvíðkan í Asia. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Hernaðarlistin var munadygg og kvetti týdningarmikla tilflutning til herin og borgarar, hóast hetta stongslið breyt alment viðurkenda altjóða lóg, sum fleiri altjóða sáttmálar frá seinastu tveimum øldunum lógu til grundar fyri.",politics,sports,"SENTENCE:
+ Hernaðarlistin var munadygg og kvetti týdningarmikla tilflutning til herin og borgarar, hóast hetta stongslið breyt alment viðurkenda altjóða lóg, sum fleiri altjóða sáttmálar frá seinastu tveimum øldunum lógu til grundar fyri. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Búskaparligt samband er aftur sett í verk millum hesar báðar partar av Moldova, hóast miseydnaðar, politiskar samráðingar.",politics,sports,"SENTENCE:
+ Búskaparligt samband er aftur sett í verk millum hesar báðar partar av Moldova, hóast miseydnaðar, politiskar samráðingar. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Í fylgi við teimum embætisfólkunum, vissaði hann íbúgvar í Texas um, at mann tók stig til at verja trygdina hjá almenninginum.",politics,sports,"SENTENCE:
+ Í fylgi við teimum embætisfólkunum, vissaði hann íbúgvar í Texas um, at mann tók stig til at verja trygdina hjá almenninginum. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Liberalar atfinningar at endurreisingararbeiðinum hava miðsavna seg um endurreisingarsáttmálar við nøkur, sum vera hildin at vera innanvitarar í Washington.",politics,travel,"SENTENCE:
+ Liberalar atfinningar at endurreisingararbeiðinum hava miðsavna seg um endurreisingarsáttmálar við nøkur, sum vera hildin at vera innanvitarar í Washington. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Út av 1.400 fólkum, sum vórðu spurd undan samveldisvalinum í 2010, vaks talið á teimum, sum eru ímóti at Avstralia verður eitt tjóðveldi, við 8 prosentum síðan 2008.",politics,sports,"SENTENCE:
+ Út av 1.400 fólkum, sum vórðu spurd undan samveldisvalinum í 2010, vaks talið á teimum, sum eru ímóti at Avstralia verður eitt tjóðveldi, við 8 prosentum síðan 2008. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Sendiharrar siga, at teir hava funnið nóg mikið av tvítýdningi í afgansku grundlógini til at áseta, at umvalið er óneyðugt.",politics,sports,"SENTENCE:
+ Sendiharrar siga, at teir hava funnið nóg mikið av tvítýdningi í afgansku grundlógini til at áseta, at umvalið er óneyðugt. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Aftaná úrslitini komu inn, rósti Gingrich Santorum, men hevði hørð orð til Romney, hvørs vegna negativar lýsingar komu fram móti Gingrich í valdystinum í Iowa.",politics,sports,"SENTENCE:
+ Aftaná úrslitini komu inn, rósti Gingrich Santorum, men hevði hørð orð til Romney, hvørs vegna negativar lýsingar komu fram móti Gingrich í valdystinum í Iowa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Tað er fimta CEP hjá Martelly í fýra ár.,politics,sports,"SENTENCE:
+ Tað er fimta CEP hjá Martelly í fýra ár. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Olympiski gullvinnarin skuldi svimja í 100-metra og 200-metra frísvimjing og í trimum boðrenningum í Commonwealth leikunum, men vegna hansara klagur eru ivamál um hansara treysti.",sports,sports,"SENTENCE:
+ Olympiski gullvinnarin skuldi svimja í 100-metra og 200-metra frísvimjing og í trimum boðrenningum í Commonwealth leikunum, men vegna hansara klagur eru ivamál um hansara treysti. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Umframt fyrrverandi olympiskur meistari og heimsmeistari, var Saito formaður í All Japan Judo Federation undirvísingarnevndini, tá ið hann doyði.",sports,sports,"SENTENCE:
+ Umframt fyrrverandi olympiskur meistari og heimsmeistari, var Saito formaður í All Japan Judo Federation undirvísingarnevndini, tá ið hann doyði. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Altjóða olympiska nevndin atkvøddi um at taka ítróttargreinirnar við á starvsnevndarfundinum í Berlin í dag. Rugby, serstakliga rugby union, og golf vóru valdir framum fimm aðrar ítróttagreinar, sum vóru undir umhugsan at taka við í olympiuleikirnar.",sports,sports,"SENTENCE:
+ Altjóða olympiska nevndin atkvøddi um at taka ítróttargreinirnar við á starvsnevndarfundinum í Berlin í dag. Rugby, serstakliga rugby union, og golf vóru valdir framum fimm aðrar ítróttagreinar, sum vóru undir umhugsan at taka við í olympiuleikirnar. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Tann størsta kappingin á árinum er í desember á polovøllunum í Las Cañitas.,sports,sports,"SENTENCE:
+ Tann størsta kappingin á árinum er í desember á polovøllunum í Las Cañitas. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Síðan hann flutti til Catalan-høvuðsstaðin, hevði Vidal spælt 49 dystir fyri klubban.",sports,sports,"SENTENCE:
+ Síðan hann flutti til Catalan-høvuðsstaðin, hevði Vidal spælt 49 dystir fyri klubban. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Ítróttarfólk, sum varðveita ein heilsugóðan orkujavna, hava góðar vanar við at inntaka vesku, og skilja ymisku síðurnar av at taka kostískoyti, kunnu betra um sína útinning og økja um teirra gleði við ítróttin.",sports,sports,"SENTENCE:
+ Ítróttarfólk, sum varðveita ein heilsugóðan orkujavna, hava góðar vanar við at inntaka vesku, og skilja ymisku síðurnar av at taka kostískoyti, kunnu betra um sína útinning og økja um teirra gleði við ítróttin. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Sum nummar trý, er Hamlin tjúgu stig aftanfyri, men fimm stig frammanfyri Bowyer. Kahne og Truex yngri eru ávikavist nummar fimm og seks við 2.220 og 2.207 stigum.",sports,sports,"SENTENCE:
+ Sum nummar trý, er Hamlin tjúgu stig aftanfyri, men fimm stig frammanfyri Bowyer. Kahne og Truex yngri eru ávikavist nummar fimm og seks við 2.220 og 2.207 stigum. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Metuppgerðin hjá Nadal móti kanadiaranum er 7-2.,sports,sports,"SENTENCE:
+ Metuppgerðin hjá Nadal móti kanadiaranum er 7-2. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Jarque vandi í undan-sesongini í Coverciano í Italia fyrr um dagin. Hann búði á hotellinum hjá liðinum áðrenn ein dyst, sum skuldi spælast sunnudagin móti Bolonia.",sports,sports,"SENTENCE:
+ Jarque vandi í undan-sesongini í Coverciano í Italia fyrr um dagin. Hann búði á hotellinum hjá liðinum áðrenn ein dyst, sum skuldi spælast sunnudagin móti Bolonia. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Stúranir fyri trot á flutningi gav møguleikan fyri, at dysturin noyddist at verða spældur fyri læstar dyr uttan viðhaldsfólk hjá liðinum.",sports,sports,"SENTENCE:
+ Stúranir fyri trot á flutningi gav møguleikan fyri, at dysturin noyddist at verða spældur fyri læstar dyr uttan viðhaldsfólk hjá liðinum. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Tommy Dreamer segði, “Luna var fyrsta drotningin í Extreme. Mín fyrsti fyriskipari. Luna doyði náttina við tveimum mánum. Rættiliga einskilað, eins og hon. Sterk kvinna.”",sports,sports,"SENTENCE:
+ Tommy Dreamer segði, “Luna var fyrsta drotningin í Extreme. Mín fyrsti fyriskipari. Luna doyði náttina við tveimum mánum. Rættiliga einskilað, eins og hon. Sterk kvinna.” 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Sjónveiki skíðrennarin Maciej Krezel og leiðvísari Anna Ogarzynska úr Póllandi gjørdist nummar trettan í Super-G. Jong Seork Park úr Suðurkorea gjørdist nummar fýraogtjúgu í sitandi Super-G hjá monnum.,sports,sports,"SENTENCE:
+ Sjónveiki skíðrennarin Maciej Krezel og leiðvísari Anna Ogarzynska úr Póllandi gjørdist nummar trettan í Super-G. Jong Seork Park úr Suðurkorea gjørdist nummar fýraogtjúgu í sitandi Super-G hjá monnum. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Fyri tíðindi um kappingar og kunning, um hvar atgongumerki fáast til polodystir, kanna Asociacion Argentina de Polo.",sports,sports,"SENTENCE:
+ Fyri tíðindi um kappingar og kunning, um hvar atgongumerki fáast til polodystir, kanna Asociacion Argentina de Polo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Dystirnir byrjaðu kl 10:00 í góðum veðri, og undantikið sirmið mitt á morgni, sum skjótt hvarv, var tað ein perfektur dagur fyri 7's rugby.",sports,sports,"SENTENCE:
+ Dystirnir byrjaðu kl 10:00 í góðum veðri, og undantikið sirmið mitt á morgni, sum skjótt hvarv, var tað ein perfektur dagur fyri 7's rugby. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Arly Velasquez úr Meksiko gjørdist nummar fimtan í sitandi Super-G hjá monnum. Adam Hall úr Nýsælandi gjørdist nummar níggju í sitandi Super-G hjá monnum.,sports,sports,"SENTENCE:
+ Arly Velasquez úr Meksiko gjørdist nummar fimtan í sitandi Super-G hjá monnum. Adam Hall úr Nýsælandi gjørdist nummar níggju í sitandi Super-G hjá monnum. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Seinasti dysturin í røðini verður í Ellis Park í Johannesburg í næstu viku, har Springboks spælir móti Avstralia.",sports,sports,"SENTENCE:
+ Seinasti dysturin í røðini verður í Ellis Park í Johannesburg í næstu viku, har Springboks spælir móti Avstralia. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Í góðum umstøðum kanst tú fara nógv longur enn um tú gongur – men tað er sjáldan, at tú røkkur ferðina á skíðum, sum á skíðgongu á longum teinum uttan einum tungum ryggsekki eftir snøggum gøtum.",sports,travel,"SENTENCE:
+ Í góðum umstøðum kanst tú fara nógv longur enn um tú gongur – men tað er sjáldan, at tú røkkur ferðina á skíðum, sum á skíðgongu á longum teinum uttan einum tungum ryggsekki eftir snøggum gøtum. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Sjey stig aftanfyri, er Johnson nummar tvey við 2.243 stigum.",sports,sports,"SENTENCE:
+ Sjey stig aftanfyri, er Johnson nummar tvey við 2.243 stigum. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Gjógving (ella: gjáarítriv) snýr seg um, at fara í botnin av einari gjógv, sum antin er turr ella full í vatni.",sports,travel,"SENTENCE:
+ Gjógving (ella: gjáarítriv) snýr seg um, at fara í botnin av einari gjógv, sum antin er turr ella full í vatni. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Robin Uthappa fekk besta umfarsúrslitið, 70 renningar við bara 41 bóltum við at sláa 11 fýrarar og tveir seksarar.",sports,sports,"SENTENCE:
+ Robin Uthappa fekk besta umfarsúrslitið, 70 renningar við bara 41 bóltum við at sláa 11 fýrarar og tveir seksarar. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Vetrarítróttir eru mest dámdir í landspartum norðanfyri, við italienarum, sum kappast í altjóða leikum og olympiskum kappingum.",sports,sports,"SENTENCE:
+ Vetrarítróttir eru mest dámdir í landspartum norðanfyri, við italienarum, sum kappast í altjóða leikum og olympiskum kappingum. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Maroochydore gjørdist liðugur ovast á stiganum, seks stig framman fyri Noosa á øðrum plássi.",sports,sports,"SENTENCE:
+ Maroochydore gjørdist liðugur ovast á stiganum, seks stig framman fyri Noosa á øðrum plássi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Michael Schumacher endaði sína kappkoyring stutt eftir Alonso, vegna skaða á upphangið frá teimum mongu stríðunum undir kappkoyringini.",sports,sports,"SENTENCE:
+ Michael Schumacher endaði sína kappkoyring stutt eftir Alonso, vegna skaða á upphangið frá teimum mongu stríðunum undir kappkoyringini. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Hóskandi kostvanar kunnu ikki í sær sjálvum elva til framúrskarandi útinning, men teir kunnu, sum heild, ávirka heilsuna hjá ungum ítróttarfólkum munandi.",sports,sports,"SENTENCE:
+ Hóskandi kostvanar kunnu ikki í sær sjálvum elva til framúrskarandi útinning, men teir kunnu, sum heild, ávirka heilsuna hjá ungum ítróttarfólkum munandi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Hann hevur ikki kunnað tikið sín heilivág, sum honum tørvar fyri at basa pínuni, av tí at hann ikki er loyvdur í leikunum.",sports,travel,"SENTENCE:
+ Hann hevur ikki kunnað tikið sín heilivág, sum honum tørvar fyri at basa pínuni, av tí at hann ikki er loyvdur í leikunum. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Kanningar vísa, at kvinnur hava tvær ferðir so stóran møguleika at fáa DS samanborið við menn.",health,sports,"SENTENCE:
+ Kanningar vísa, at kvinnur hava tvær ferðir so stóran møguleika at fáa DS samanborið við menn. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Ólógligir løgir kunnu innihalda ymiskar vandamiklar óreinskur, eitt nú metanol, sum kann elva til blindni ella deyða, eisini í smáum nøgdum.",health,science/technology,"SENTENCE:
+ Ólógligir løgir kunnu innihalda ymiskar vandamiklar óreinskur, eitt nú metanol, sum kann elva til blindni ella deyða, eisini í smáum nøgdum. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+"Fyri at fáa eina skipaða PA-viðgerð hvørja viku var treytin, at mann hevði árin av vanlukkuhugsan, meðan tunglyndi og ótti ikki var fevnt av hesari treyt.",health,sports,"SENTENCE:
+ Fyri at fáa eina skipaða PA-viðgerð hvørja viku var treytin, at mann hevði árin av vanlukkuhugsan, meðan tunglyndi og ótti ikki var fevnt av hesari treyt. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"At eiga mongd av bilum leiðir eisini til ein hægri títtleika av óhappum á vegunum, sum leiðir til uppfinning av nýggjari teknologi innanfyri heilsurøkt fyri at bøta um likamsskaða.",health,science/technology,"SENTENCE:
+ At eiga mongd av bilum leiðir eisini til ein hægri títtleika av óhappum á vegunum, sum leiðir til uppfinning av nýggjari teknologi innanfyri heilsurøkt fyri at bøta um likamsskaða. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+"Leiðandi granskarar siga, at hetta møguliga hevur við sær, at krabbamein, tuberklar, HIV og malaria verður uppdagað fyrr, í londum, har tølini fyri at yvirliva sjúkur, sum t.d bróstkrabba, kunnu vera helvtina av teimum í ríkari londum.",health,science/technology,"SENTENCE:
+ Leiðandi granskarar siga, at hetta møguliga hevur við sær, at krabbamein, tuberklar, HIV og malaria verður uppdagað fyrr, í londum, har tølini fyri at yvirliva sjúkur, sum t.d bróstkrabba, kunnu vera helvtina av teimum í ríkari londum. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+"Doktari Ehud Ur, professari í læknavísindi á Dalhousie fróðskaparsetri í Halifax, Nova Scotia og formaður fyri klinisku og vísindaligu deildina í kanadiska sukursjúku-felagsskapinum ávaraði um, at granskingin enn er tíðliga í tilgongdini.",health,sports,"SENTENCE:
+ Doktari Ehud Ur, professari í læknavísindi á Dalhousie fróðskaparsetri í Halifax, Nova Scotia og formaður fyri klinisku og vísindaligu deildina í kanadiska sukursjúku-felagsskapinum ávaraði um, at granskingin enn er tíðliga í tilgongdini. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Hesi børnini hava lyndi at koma sær upp í kløtur, tí tey “hava hættisligan atburð, koma í bardagar og bjóða myndugleikum av” fyri at stimbra sín heila, av tí at teirra heilar ikki kunnu verða stimbraðir á vanligan hátt.",health,sports,"SENTENCE:
+ Hesi børnini hava lyndi at koma sær upp í kløtur, tí tey “hava hættisligan atburð, koma í bardagar og bjóða myndugleikum av” fyri at stimbra sín heila, av tí at teirra heilar ikki kunnu verða stimbraðir á vanligan hátt. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Menniskju kunnu verða ávirkað við at anda fongt vatn inn, sum er komið í luftina av vindi og aldum.",health,travel,"SENTENCE:
+ Menniskju kunnu verða ávirkað við at anda fongt vatn inn, sum er komið í luftina av vindi og aldum. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Summi fólk meina, at tað at uppliva nógvar tilgjørdar klárar dreymar nóg ofta kann vera sera møðsamt.",health,sports,"SENTENCE:
+ Summi fólk meina, at tað at uppliva nógvar tilgjørdar klárar dreymar nóg ofta kann vera sera møðsamt. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Um hetta mundið, fekk økslin hjá Potro viðgerð, men hann megnaði at spæla víðari.",health,sports,"SENTENCE:
+ Um hetta mundið, fekk økslin hjá Potro viðgerð, men hann megnaði at spæla víðari. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Harafturat hevur tað álvarsamar avleiðingar við sær, um tað ikki eydnast: vakstrartarn, føðslutrot og at enda deyða.",health,travel,"SENTENCE:
+ Harafturat hevur tað álvarsamar avleiðingar við sær, um tað ikki eydnast: vakstrartarn, føðslutrot og at enda deyða. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Embætisfólk fyri býin Amsterdam og Anne Frank fornminnissavnið siga, at træið er fongt við einum soppi og er ein heilsuskaðilig hóttan móti almenninginum, við tað at tey vísa á, at tað var í vanda fyri at koppa hvørja løtu.",health,travel,"SENTENCE:
+ Embætisfólk fyri býin Amsterdam og Anne Frank fornminnissavnið siga, at træið er fongt við einum soppi og er ein heilsuskaðilig hóttan móti almenninginum, við tað at tey vísa á, at tað var í vanda fyri at koppa hvørja løtu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Sjúkrahúsið hevur fylgt mannagongdini fyri smittuverju, harímillum at skilja sjúklingin frá øðrum, fyri at forða fyri at onnur møguliga verða smittað.",health,travel,"SENTENCE:
+ Sjúkrahúsið hevur fylgt mannagongdini fyri smittuverju, harímillum at skilja sjúklingin frá øðrum, fyri at forða fyri at onnur møguliga verða smittað. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Haitiski stovnurin fyri rættvísi og demokrati hevur víst á óheftar kanningar, sum benda á, at nepalesiska friðarvarðveitandi herdeildin hjá ST av óvart tók sjúkuna við til Haiti.",health,sports,"SENTENCE:
+ Haitiski stovnurin fyri rættvísi og demokrati hevur víst á óheftar kanningar, sum benda á, at nepalesiska friðarvarðveitandi herdeildin hjá ST av óvart tók sjúkuna við til Haiti. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Smittandi sjúkur í sær sjálvum, ella vandamikil djór, sum kunnu skaða ella drepa fólk við megi, verða vanliga ikki skilgreinað sum pestir.",health,travel,"SENTENCE:
+ Smittandi sjúkur í sær sjálvum, ella vandamikil djór, sum kunnu skaða ella drepa fólk við megi, verða vanliga ikki skilgreinað sum pestir. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Børn við ADD hava trupulleikar við at miðsavna seg um ting sum skúla og arbeiði, men tey kunnu miðsavna seg um ting teimum dáma, t.d. at spæla spøl ella síggja sínar yndisteknifilmar ella skriva setningar uttan teknseting.",health,science/technology,"SENTENCE:
+ Børn við ADD hava trupulleikar við at miðsavna seg um ting sum skúla og arbeiði, men tey kunnu miðsavna seg um ting teimum dáma, t.d. at spæla spøl ella síggja sínar yndisteknifilmar ella skriva setningar uttan teknseting. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+Um eitt ár fer eitt smittað fólk møguliga at smitta 10 til 15 í sínum nærumhvørvi.,health,sports,"SENTENCE:
+ Um eitt ár fer eitt smittað fólk møguliga at smitta 10 til 15 í sínum nærumhvørvi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Tá bardagin fekk enda, aftaná teir særdu vóru koyrdir á sjúkrahúsið, vórðu umleið 40 fangar verandi í garðinum og noktaðu at fara aftur í síni fangarúm.",health,sports,"SENTENCE:
+ Tá bardagin fekk enda, aftaná teir særdu vóru koyrdir á sjúkrahúsið, vórðu umleið 40 fangar verandi í garðinum og noktaðu at fara aftur í síni fangarúm. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Augustus keisari byrjaði at útvega læknar og skipaði enntá fyrstu rómversku læknaherdeildina til at nýta aftaná bardagar.,health,travel,"SENTENCE:
+ Augustus keisari byrjaði at útvega læknar og skipaði enntá fyrstu rómversku læknaherdeildina til at nýta aftaná bardagar. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Tó fekk bilførarin álvarsamar skaðar í høvdið.,health,sports,"SENTENCE:
+ Tó fekk bilførarin álvarsamar skaðar í høvdið. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"“Nú hava vit 4 mánaðar gamlar mýs, sum ikki hava sukursjúku, sum fyrr høvdu sukursjúku,” legði hann afturat.",health,sports,"SENTENCE:
+ “Nú hava vit 4 mánaðar gamlar mýs, sum ikki hava sukursjúku, sum fyrr høvdu sukursjúku,” legði hann afturat. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Innvortis eitran sæst kanska ikki beinanvegin. Summi sjúkueyðkenni, t.d. at spýggja, eru so mikið vanlig, at tað ikki ber til at staðfesta orsøkina beinanvegin.",health,sports,"SENTENCE:
+ Innvortis eitran sæst kanska ikki beinanvegin. Summi sjúkueyðkenni, t.d. at spýggja, eru so mikið vanlig, at tað ikki ber til at staðfesta orsøkina beinanvegin. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Tískil roykja leikararnar marijuanasigarettir á pallinum, og sjálva leikhúsið stuðlar áskoðarunum til at vera við.",entertainment,travel,"SENTENCE:
+ Tískil roykja leikararnar marijuanasigarettir á pallinum, og sjálva leikhúsið stuðlar áskoðarunum til at vera við. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Aerosmith hava avlýst konsertirnar, sum eftir eru í teirra rundferð.",entertainment,entertainment,"SENTENCE:
+ Aerosmith hava avlýst konsertirnar, sum eftir eru í teirra rundferð. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Um tú vilt vera heilt nær hendingunum, so mást tú koma tíðliga fyri at fáa ein tjaldingarstað nær við tónleikin.",entertainment,travel,"SENTENCE:
+ Um tú vilt vera heilt nær hendingunum, so mást tú koma tíðliga fyri at fáa ein tjaldingarstað nær við tónleikin. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Nógvir ymiskir filmsbygnaðir hava verið nýttir gjøgnum árini. Standard 35 mm film (36 ferðir 24 mm rangmynd) er nógv tann vanligasti.,entertainment,entertainment,"SENTENCE:
+ Nógvir ymiskir filmsbygnaðir hava verið nýttir gjøgnum árini. Standard 35 mm film (36 ferðir 24 mm rangmynd) er nógv tann vanligasti. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Hóast hetta er sera vanligt, so er tað bannað av Disney: atgongumerkini eru persónlig.",entertainment,entertainment,"SENTENCE:
+ Hóast hetta er sera vanligt, so er tað bannað av Disney: atgongumerkini eru persónlig. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Hvør partur av sýningini legði dent á eitt evni í eini ávísari bók, og viðgjørdi síðani hetta evnið gjøgnum fleiri søgur.",entertainment,sports,"SENTENCE:
+ Hvør partur av sýningini legði dent á eitt evni í eini ávísari bók, og viðgjørdi síðani hetta evnið gjøgnum fleiri søgur. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Fleiri stórir sjónvarpsskermar vórðu settir upp ymisk støð í Róm fyri at lata fólkini síggja hátíðarhaldið.,entertainment,sports,"SENTENCE:
+ Fleiri stórir sjónvarpsskermar vórðu settir upp ymisk støð í Róm fyri at lata fólkini síggja hátíðarhaldið. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Sofokles og Aristofanes eru enn avhildin leikskald, og teirra leikir eru hildnir at vera millum størstu verkini í heimsbókmentum.",entertainment,science/technology,"SENTENCE:
+ Sofokles og Aristofanes eru enn avhildin leikskald, og teirra leikir eru hildnir at vera millum størstu verkini í heimsbókmentum. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+"Hvør sýning viðmældi eisini bøkur, sum børn áttu at leita eftir, tá tey fóru á bókasavnið.",entertainment,sports,"SENTENCE:
+ Hvør sýning viðmældi eisini bøkur, sum børn áttu at leita eftir, tá tey fóru á bókasavnið. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Á harmoniku fært tú harðari ljóð við at trýsta físibjølgirnar harðari ella skjótari.,entertainment,travel,"SENTENCE:
+ Á harmoniku fært tú harðari ljóð við at trýsta físibjølgirnar harðari ella skjótari. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Tú sært pyramidurnar í myrkrinum og tú sært tær í friðinum áðrenn sýningin byrjar.,entertainment,travel,"SENTENCE:
+ Tú sært pyramidurnar í myrkrinum og tú sært tær í friðinum áðrenn sýningin byrjar. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Dømi um tiltøk á staðnum eru at veiða, fiska, taka myndir, eygleiða fugl og vitja friðað øki og lesa upplýsingar um vistskipanina.",entertainment,travel,"SENTENCE:
+ Dømi um tiltøk á staðnum eru at veiða, fiska, taka myndir, eygleiða fugl og vitja friðað øki og lesa upplýsingar um vistskipanina. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Sfinksurin er brúktur sum bakgrund og frásøgufólk fyri eina langa søgu.,entertainment,travel,"SENTENCE:
+ Sfinksurin er brúktur sum bakgrund og frásøgufólk fyri eina langa søgu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Tey hava vanliga serlig tilboð við mati, drekka og undirhaldi fyri at gestirnir verða í góðum hýri og verða verandi á staðnum.",entertainment,sports,"SENTENCE:
+ Tey hava vanliga serlig tilboð við mati, drekka og undirhaldi fyri at gestirnir verða í góðum hýri og verða verandi á staðnum. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Víðfevndi felagskapurin, sum longu gevur frásagnir á enskum og japanskum, fer at hava skráir á sponskum, italskum og koreanskum til sjónvarp, netið og fartelefonir.",entertainment,travel,"SENTENCE:
+ Víðfevndi felagskapurin, sum longu gevur frásagnir á enskum og japanskum, fer at hava skráir á sponskum, italskum og koreanskum til sjónvarp, netið og fartelefonir. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Áðrenn The Simpsons hevði Simon arbeitt við fleiri sendingar í ymiskum starvum.,entertainment,entertainment,"SENTENCE:
+ Áðrenn The Simpsons hevði Simon arbeitt við fleiri sendingar í ymiskum starvum. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Hetta loyvir eisini spælarum at stýra gerðum og rørslum í telduspælinum við at flyta eindina gjøgnum luftina.,entertainment,travel,"SENTENCE:
+ Hetta loyvir eisini spælarum at stýra gerðum og rørslum í telduspælinum við at flyta eindina gjøgnum luftina. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Í minsta lagið 100 fólk høvdu verið við í veitsluni, fyri at hátíðarhalda fyrsta ársdagin hjá eini hjún, sum hildu sítt brúdleyp í fjør.",entertainment,sports,"SENTENCE:
+ Í minsta lagið 100 fólk høvdu verið við í veitsluni, fyri at hátíðarhalda fyrsta ársdagin hjá eini hjún, sum hildu sítt brúdleyp í fjør. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Tveir sangir úr filminum, Audition (The Fools Who Dream) og City of Stars, fingu virðislønir fyri besta originala sang. Lionsgate filmsfelag fekk 26 virðislønir — fleiri enn nakað annað filmsfelag.",entertainment,entertainment,"SENTENCE:
+ Tveir sangir úr filminum, Audition (The Fools Who Dream) og City of Stars, fingu virðislønir fyri besta originala sang. Lionsgate filmsfelag fekk 26 virðislønir — fleiri enn nakað annað filmsfelag. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Skorpan er umleið 70 km tjúkk tættast við og 100 km tjúkk longst burtur.,geography,travel,"SENTENCE:
+ Skorpan er umleið 70 km tjúkk tættast við og 100 km tjúkk longst burtur. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Niagara Falls er longur suðuri, og norðanfyri er órørda, natúrliga, vakra landslagið í Muskoka og longur úti.",geography,travel,"SENTENCE:
+ Niagara Falls er longur suðuri, og norðanfyri er órørda, natúrliga, vakra landslagið í Muskoka og longur úti. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ellsworth Land er øki sunnanfyri hálvoynna, ið er avmerkt av Bellingshausen havinum.",geography,travel,"SENTENCE:
+ Ellsworth Land er øki sunnanfyri hálvoynna, ið er avmerkt av Bellingshausen havinum. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+South Pole Traverse (ella Highway) er ein 1600 km rás frá McMurdo Station á Ross havinum til pólin.,geography,travel,"SENTENCE:
+ South Pole Traverse (ella Highway) er ein 1600 km rás frá McMurdo Station á Ross havinum til pólin. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Omanfyri norðara endan av Machu Picchu er eitt bratt fjall, ið ofta verður brúkt sum bakgrund til myndir av toftunum.",geography,travel,"SENTENCE:
+ Omanfyri norðara endan av Machu Picchu er eitt bratt fjall, ið ofta verður brúkt sum bakgrund til myndir av toftunum. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Enceladus er mest skyggjandi luturin í sólskipanini, og kastar umleið 90 prosent aftur av sólarljósinum sum rakar hann.",geography,science/technology,"SENTENCE:
+ Enceladus er mest skyggjandi luturin í sólskipanini, og kastar umleið 90 prosent aftur av sólarljósinum sum rakar hann. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+"Einki sæst, undantikið klári, vakri himmalin omanfyri og mongu fjøllini rundanum. Lítið av hesum heiminum sæst og hoyrist innanífrá hellinum.",geography,travel,"SENTENCE:
+ Einki sæst, undantikið klári, vakri himmalin omanfyri og mongu fjøllini rundanum. Lítið av hesum heiminum sæst og hoyrist innanífrá hellinum. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Og nú Japan. Japan var eitt oyggjaland, eins og Bretland.",geography,travel,"SENTENCE:
+ Og nú Japan. Japan var eitt oyggjaland, eins og Bretland. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Tropiska meldurhvirlan Gonu, sum hevur fingið navn eftir einum posa við pálmagreinum á málinum hjá maldivunum, náddi 240 kilometrar um tíman, tá ið vindmegin var harðast.",geography,travel,"SENTENCE:
+ Tropiska meldurhvirlan Gonu, sum hevur fingið navn eftir einum posa við pálmagreinum á málinum hjá maldivunum, náddi 240 kilometrar um tíman, tá ið vindmegin var harðast. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Víddin á Turkalandi, vøtn íroknað, er 783.562 ferkilometrar, sum 755.688 ferkilometrar eru í útsynningspartinum av Asia og 23.764 ferkilometrar í Evropa.",geography,travel,"SENTENCE:
+ Víddin á Turkalandi, vøtn íroknað, er 783.562 ferkilometrar, sum 755.688 ferkilometrar eru í útsynningspartinum av Asia og 23.764 ferkilometrar í Evropa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Suðurshetlandsoyggjarnar, uppdagagar í 1819, eru kravdar av fleiri tjóðum og hava teir flestu basarnar, við sekstan virknum í 2020.",geography,travel,"SENTENCE:
+ Suðurshetlandsoyggjarnar, uppdagagar í 1819, eru kravdar av fleiri tjóðum og hava teir flestu basarnar, við sekstan virknum í 2020. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Apia er høvuðsstaður í Sámoa. Býurin er á oynni Upolu og fólkatalið liggur beint undir 40.000.,geography,travel,"SENTENCE:
+ Apia er høvuðsstaður í Sámoa. Býurin er á oynni Upolu og fólkatalið liggur beint undir 40.000. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Av tí at ódnin er langt frá landi, er tað torført at meta um møguleikan fyri ávirkan á USA ella Karibisku oyggjarnar.",geography,sports,"SENTENCE:
+ Av tí at ódnin er langt frá landi, er tað torført at meta um møguleikan fyri ávirkan á USA ella Karibisku oyggjarnar. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Hon er tynri undir mánahøvunum og hálendunum.,geography,travel,"SENTENCE:
+ Hon er tynri undir mánahøvunum og hálendunum. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Skógirnir eru tó ikki einans mangrovumýrilendi - teir innihalda summar av teimum seinastu leivdunum av teimum mætu skógunum ið fevndu um gangesslættlendið.,geography,travel,"SENTENCE:
+ Skógirnir eru tó ikki einans mangrovumýrilendi - teir innihalda summar av teimum seinastu leivdunum av teimum mætu skógunum ið fevndu um gangesslættlendið. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Altjóða jarðskjálvtakortið hjá The United States Geological Survey vísti ongar jarðskjálvtar í Íslandi í farnu viku.,geography,travel,"SENTENCE:
+ Altjóða jarðskjálvtakortið hjá The United States Geological Survey vísti ongar jarðskjálvtar í Íslandi í farnu viku. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Hellið er ovast á einum fjalli norðanfyri Mecca og er fullkomiliga avbyrgt frá umheiminum.,geography,travel,"SENTENCE:
+ Hellið er ovast á einum fjalli norðanfyri Mecca og er fullkomiliga avbyrgt frá umheiminum. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"

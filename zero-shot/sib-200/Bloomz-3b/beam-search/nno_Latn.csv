@@ -1,0 +1,2449 @@
+text,actual_category,predicted_category,generated_text
+"Mutasjonar legg til ny genetisk variasjon, og seleksjon fjernar den frå forrådet av uttrykt variasjon.",science/technology,sports,"SENTENCE:
+ Mutasjonar legg til ny genetisk variasjon, og seleksjon fjernar den frå forrådet av uttrykt variasjon. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Atombomba fungerer etter prinsippet om at det krev energi å sette saman ein kjerne med mange proton og nøytron.,science/technology,science/technology,"SENTENCE:
+ Atombomba fungerer etter prinsippet om at det krev energi å sette saman ein kjerne med mange proton og nøytron. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+Kjernen består av to partiklar – nøytron og proton.,science/technology,science/technology,"SENTENCE:
+ Kjernen består av to partiklar – nøytron og proton. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+Dette har gjort det mogleg for zoomobjektiv å produsere bilete av ein kvalitet som kan samanliknast med dei tatt av eit objektiv med fast brennvidde.,science/technology,travel,"SENTENCE:
+ Dette har gjort det mogleg for zoomobjektiv å produsere bilete av ein kvalitet som kan samanliknast med dei tatt av eit objektiv med fast brennvidde. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Det er fleire grunnar til at dei er betre enn webproxyar: Dei dirigerer om all Internett-trafikk, ikkje berre http.",science/technology,N/A,"SENTENCE:
+ Det er fleire grunnar til at dei er betre enn webproxyar: Dei dirigerer om all Internett-trafikk, ikkje berre http. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: tech</s>"
+Interaktive design krev at du revurderer dine fordomar om medieproduksjon og lærer å tenkje på ikkje-tradisjonelle vis.,science/technology,entertainment,"SENTENCE:
+ Interaktive design krev at du revurderer dine fordomar om medieproduksjon og lærer å tenkje på ikkje-tradisjonelle vis. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Dette blei dermed vanleg, men jernet førte til større slitasje på trehjula på vognene.",science/technology,travel,"SENTENCE:
+ Dette blei dermed vanleg, men jernet førte til større slitasje på trehjula på vognene. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Flokkar er forma av ein til tre vaksne hannløver, saman med so mange som tretti løvinner og ungane deira.",science/technology,travel,"SENTENCE:
+ Flokkar er forma av ein til tre vaksne hannløver, saman med so mange som tretti løvinner og ungane deira. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Sjølv om «science fiction» gir kraftige assosiasjonar til kunstig intelligens (KI), utgjer KI ein svært viktig del av datavitskapen når det gjeld å hanskast med verkemåte, læring og intelligent tilpassing i ei maskin.",science/technology,entertainment,"SENTENCE:
+ Sjølv om «science fiction» gir kraftige assosiasjonar til kunstig intelligens (KI), utgjer KI ein svært viktig del av datavitskapen når det gjeld å hanskast med verkemåte, læring og intelligent tilpassing i ei maskin. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Sideforholdet av dette formatet (delt på tolv for å oppnå det enklaste fullstendige forholdet) er difor 3:2.,science/technology,entertainment,"SENTENCE:
+ Sideforholdet av dette formatet (delt på tolv for å oppnå det enklaste fullstendige forholdet) er difor 3:2. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Ein satellittelefon er vanlegvis ikkje ei god erstatning for ein mobiltelefon, ettersom du må vere utandørs og ha fri sikt til satellitten for å kunne ringe.",science/technology,travel,"SENTENCE:
+ Ein satellittelefon er vanlegvis ikkje ei god erstatning for ein mobiltelefon, ettersom du må vere utandørs og ha fri sikt til satellitten for å kunne ringe. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Sjølv om desse skinnene berre bestod av parallelle treplankar, gjorde dei det mogleg for hestane som trekte vognene, å oppnå høgare fart og trekke tyngre laster enn på dei noko grovare vegane som var på den tida.",science/technology,sports,"SENTENCE:
+ Sjølv om desse skinnene berre bestod av parallelle treplankar, gjorde dei det mogleg for hestane som trekte vognene, å oppnå høgare fart og trekke tyngre laster enn på dei noko grovare vegane som var på den tida. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Folk har kjent til grunnleggande kjemiske element som gull, sølv og kopar frå antikken, ettersom alle desse finst i naturleg form og er relativt enkle å utvinne med primitive verktøy.",science/technology,N/A,"SENTENCE:
+ Folk har kjent til grunnleggande kjemiske element som gull, sølv og kopar frå antikken, ettersom alle desse finst i naturleg form og er relativt enkle å utvinne med primitive verktøy. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: culture</s>"
+Hjulet har endra verda på utrulege vis. Det største hjulet har gjort for oss er å gje oss mykje enklare og raskare moglegheiter for transport.,science/technology,travel,"SENTENCE:
+ Hjulet har endra verda på utrulege vis. Det største hjulet har gjort for oss er å gje oss mykje enklare og raskare moglegheiter for transport. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Dette er laga for å sikre at biletet dekkjer heile skjermen, og blir kalla for «overscan».",science/technology,entertainment,"SENTENCE:
+ Dette er laga for å sikre at biletet dekkjer heile skjermen, og blir kalla for «overscan». 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Tyske ubåtar vart kalla U-båtar. Tyskarane var svært gode til å navigere og operere ubåtane sine.,science/technology,travel,"SENTENCE:
+ Tyske ubåtar vart kalla U-båtar. Tyskarane var svært gode til å navigere og operere ubåtane sine. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Sjølv om den fysiske tilstanden kan endre seg, er den kjemiske tilstanden framleis den same.",science/technology,travel,"SENTENCE:
+ Sjølv om den fysiske tilstanden kan endre seg, er den kjemiske tilstanden framleis den same. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Overflatespenning hender som følgje av at vatnmolekyl på overflata av vatnet trekkast mot kvarandre, meir enn dei gjer mot luftmolekyl over dei.",science/technology,travel,"SENTENCE:
+ Overflatespenning hender som følgje av at vatnmolekyl på overflata av vatnet trekkast mot kvarandre, meir enn dei gjer mot luftmolekyl over dei. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Eit av dei vanlegaste problema som kan oppstå når du prøver å konvertere ein film til DVD-format, er overscan.",science/technology,entertainment,"SENTENCE:
+ Eit av dei vanlegaste problema som kan oppstå når du prøver å konvertere ein film til DVD-format, er overscan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Det vert særleg påstått at ein kan oppdage om ein person ljug ved å tolke mikro-uttrykka riktig.,science/technology,travel,"SENTENCE:
+ Det vert særleg påstått at ein kan oppdage om ein person ljug ved å tolke mikro-uttrykka riktig. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Gull kan verte utarbeidd til ein kvar formasjon. Det kan verte rulla til svært små former.,science/technology,travel,"SENTENCE:
+ Gull kan verte utarbeidd til ein kvar formasjon. Det kan verte rulla til svært små former. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"KI-​​systemet blir no ofte brukt innan økonomi, medisin, teknikk og militæret og er innebygd i fleire PC-appar og videospel-appar.",science/technology,N/A,"SENTENCE:
+ KI-​​systemet blir no ofte brukt innan økonomi, medisin, teknikk og militæret og er innebygd i fleire PC-appar og videospel-appar. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: tech</s>"
+"Den vert framleis framstilt i dag, men endå viktigare er at dens sideforhold har vorte arva av digitale kamera sine sensorformat.",science/technology,entertainment,"SENTENCE:
+ Den vert framleis framstilt i dag, men endå viktigare er at dens sideforhold har vorte arva av digitale kamera sine sensorformat. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Den mykje kritiserte og ofte latterleggjorde regelen om at tredjedelar er ei enkel retningslinje som skapar dynamikk medan den held eit mål av orden i bilete.,science/technology,sports,"SENTENCE:
+ Den mykje kritiserte og ofte latterleggjorde regelen om at tredjedelar er ei enkel retningslinje som skapar dynamikk medan den held eit mål av orden i bilete. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Dette stadfesta, ikkje berre at i alle fall nokon dinosaurar hadde fjør, en allereie utbreidd teori, men gjev detaljar som fossil generelt sett ikkje kan, som fargar og tredimensjonale arrangement.",science/technology,entertainment,"SENTENCE:
+ Dette stadfesta, ikkje berre at i alle fall nokon dinosaurar hadde fjør, en allereie utbreidd teori, men gjev detaljar som fossil generelt sett ikkje kan, som fargar og tredimensjonale arrangement. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Korleis hadde dragninga av Io si tyngdekraft verka på meg? Dersom du stod på overflata av Io hadde du vege mindre enn du gjer på jorda.,science/technology,travel,"SENTENCE:
+ Korleis hadde dragninga av Io si tyngdekraft verka på meg? Dersom du stod på overflata av Io hadde du vege mindre enn du gjer på jorda. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+NextGen er eit system som det amerikanske luftfartskontrollen hevdar at kan tillate fly å fly kortare ruter og spare millionar med gallon av drivstoff kvart år og redusere utslepp av karbondioksid.,science/technology,travel,"SENTENCE:
+ NextGen er eit system som det amerikanske luftfartskontrollen hevdar at kan tillate fly å fly kortare ruter og spare millionar med gallon av drivstoff kvart år og redusere utslepp av karbondioksid. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Nevrobiologiske data gir fysiske bevis for ei teoretisk tilnærming til undersøking av kognisjon. Forskingsområdet blir dermed innsnevra og mykje meir nøyaktig.,science/technology,science/technology,"SENTENCE:
+ Nevrobiologiske data gir fysiske bevis for ei teoretisk tilnærming til undersøking av kognisjon. Forskingsområdet blir dermed innsnevra og mykje meir nøyaktig. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+"I løpet av den 2 timar lange tala uttalte han at “I dag kjem Apple til å gjenoppfinne telefonen, vi kjem til å skrive historie i dag”.",science/technology,entertainment,"SENTENCE:
+ I løpet av den 2 timar lange tala uttalte han at “I dag kjem Apple til å gjenoppfinne telefonen, vi kjem til å skrive historie i dag”. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Ulempa med zoomobjektiv er at den fokale kompleksiteten og talet på objektivelement som krevst for å oppnå ei rekkje brennvidder, er mykje høgare enn med eit objektiv med fast brennvidde.",science/technology,travel,"SENTENCE:
+ Ulempa med zoomobjektiv er at den fokale kompleksiteten og talet på objektivelement som krevst for å oppnå ei rekkje brennvidder, er mykje høgare enn med eit objektiv med fast brennvidde. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Likt som med ein fjernsynskontroll nyttar konsollen to sensorar nær brukarens fjernsyn, for å triangulere sin posisjon i tredimensjonalt rom.",science/technology,travel,"SENTENCE:
+ Likt som med ein fjernsynskontroll nyttar konsollen to sensorar nær brukarens fjernsyn, for å triangulere sin posisjon i tredimensjonalt rom. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Forskarar seier at dette dyret si fjørdrakt var kastanjebrunt på overdelen med ein bleik eller karotenoid-farga underdel.,science/technology,travel,"SENTENCE:
+ Forskarar seier at dette dyret si fjørdrakt var kastanjebrunt på overdelen med ein bleik eller karotenoid-farga underdel. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Forskarar ved universitetet sa at dei to samansetningane reagerer med kvarandre for å forme krystallar som kan blokkere nyrefunksjonen.,science/technology,N/A,"SENTENCE:
+ Forskarar ved universitetet sa at dei to samansetningane reagerer med kvarandre for å forme krystallar som kan blokkere nyrefunksjonen. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: education</s>"
+Dette gir ei oppløysing som er nesten fire gonger så høg som eit 35 mm negativ (3136 mm2 mot 864).,science/technology,entertainment,"SENTENCE:
+ Dette gir ei oppløysing som er nesten fire gonger så høg som eit 35 mm negativ (3136 mm2 mot 864). 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Takka vere ein undersjøisk fiberoptisk kabel til Europa og breibandssatellitt er Grønland godt tilkopla, og 93 % av folket har tilgang til internett.",science/technology,travel,"SENTENCE:
+ Takka vere ein undersjøisk fiberoptisk kabel til Europa og breibandssatellitt er Grønland godt tilkopla, og 93 % av folket har tilgang til internett. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Google Translate er ein av dei mest leiande appane i denne kategorien, der det er mogleg med omsetjing utan nettilgang viss ein har lasta ned ønskte språkdata.",science/technology,travel,"SENTENCE:
+ Google Translate er ein av dei mest leiande appane i denne kategorien, der det er mogleg med omsetjing utan nettilgang viss ein har lasta ned ønskte språkdata. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Det har den same molekylstrukturen uansett om det er i gassform, flytande form eller fast form.",science/technology,travel,"SENTENCE:
+ Det har den same molekylstrukturen uansett om det er i gassform, flytande form eller fast form. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Bruken av videoopptak har leia til viktige oppdagingar i tolkinga av mikro-uttrykk, rørsler i andlet som varer nokre millisekund.",science/technology,entertainment,"SENTENCE:
+ Bruken av videoopptak har leia til viktige oppdagingar i tolkinga av mikro-uttrykk, rørsler i andlet som varer nokre millisekund. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Menneska har laga og brukt linser for forstørring i mange tusen år.,science/technology,sports,"SENTENCE:
+ Menneska har laga og brukt linser for forstørring i mange tusen år. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Men ikkje berre dette. Eksperimentering blir òg brukt. Eit eksperiment er ein test som blir brukt til å eliminere ein eller fleire moglege hypotesar ved å stille spørsmål og gjere observasjonar.,science/technology,sports,"SENTENCE:
+ Men ikkje berre dette. Eksperimentering blir òg brukt. Eit eksperiment er ein test som blir brukt til å eliminere ein eller fleire moglege hypotesar ved å stille spørsmål og gjere observasjonar. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Til slutt blei trehjula erstatta av jernhjul. I 1767 blei dei første skinnene som var laga utelukkande av jern, introduserte.",science/technology,travel,"SENTENCE:
+ Til slutt blei trehjula erstatta av jernhjul. I 1767 blei dei første skinnene som var laga utelukkande av jern, introduserte. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Mens dei fleste korta kan brukast til å ringe kvar som helst, er det nokre som spesialiserer seg på å tilby gunstige samtaleprisar til bestemte grupper land.",science/technology,sports,"SENTENCE:
+ Mens dei fleste korta kan brukast til å ringe kvar som helst, er det nokre som spesialiserer seg på å tilby gunstige samtaleprisar til bestemte grupper land. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Dagens moderne forskingsteleskop er ofte enorme anlegg på avsidesliggande område med gunstige atmosfæriske forhold.,science/technology,travel,"SENTENCE:
+ Dagens moderne forskingsteleskop er ofte enorme anlegg på avsidesliggande område med gunstige atmosfæriske forhold. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Stålnåla flyt på toppen av vatnet som følgje av overflatespenning.,science/technology,travel,"SENTENCE:
+ Stålnåla flyt på toppen av vatnet som følgje av overflatespenning. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"35mm formatet er faktisk, litt forvirrande, 36mm i vidda og 24mm i høgda.",science/technology,entertainment,"SENTENCE:
+ 35mm formatet er faktisk, litt forvirrande, 36mm i vidda og 24mm i høgda. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Celler er faktisk så grunnleggande og viktige for studien av alt liv at dei ofte blir kalla «livets byggesteinar».,science/technology,entertainment,"SENTENCE:
+ Celler er faktisk så grunnleggande og viktige for studien av alt liv at dei ofte blir kalla «livets byggesteinar». 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Leverandørar av personleg VPN (virtuelt privat nettverk) er ein framifrå god måte å omgå både politisk sensur og kommersiell IP-geofiltrering på.,science/technology,N/A,"SENTENCE:
+ Leverandørar av personleg VPN (virtuelt privat nettverk) er ein framifrå god måte å omgå både politisk sensur og kommersiell IP-geofiltrering på. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: tech</s>"
+"Stasjonen haldt fast retninga si, til tross for tapet av eit gyroskop tidlegare i romstasjonsoppdraget, heilt til enden av romvandringa.",science/technology,travel,"SENTENCE:
+ Stasjonen haldt fast retninga si, til tross for tapet av eit gyroskop tidlegare i romstasjonsoppdraget, heilt til enden av romvandringa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Personar med denne typen tenking har logisk tenking, og er i stand til å hugse mønster, løyse problem og jobbe med vitskaplege testar.",science/technology,N/A,"SENTENCE:
+ Personar med denne typen tenking har logisk tenking, og er i stand til å hugse mønster, løyse problem og jobbe med vitskaplege testar. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: education education</s>"
+"Ozelotar likar å ete smådyr. Dei fangar gjerne aper, slangar, gnagarar og fuglar om dei kan. Nesten alle dyra som ozeloten jaktar på er mykje mindre enn desse.",science/technology,travel,"SENTENCE:
+ Ozelotar likar å ete smådyr. Dei fangar gjerne aper, slangar, gnagarar og fuglar om dei kan. Nesten alle dyra som ozeloten jaktar på er mykje mindre enn desse. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Nokre filmkamera i mellomformat brukar eit format på 6 x 6 cm, nærmare bestemt eit negativ på 56 x 56 mm.",science/technology,entertainment,"SENTENCE:
+ Nokre filmkamera i mellomformat brukar eit format på 6 x 6 cm, nærmare bestemt eit negativ på 56 x 56 mm. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Reisande bør òg halde seg informert om risiko for dårleg vêr som påverkar området, ettersom dette kan verke inn på reiseplanane.",travel,travel,"SENTENCE:
+ Reisande bør òg halde seg informert om risiko for dårleg vêr som påverkar området, ettersom dette kan verke inn på reiseplanane. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Bussar går frå busstasjonen (på andre sida av elva) heile dagen, sjølv om dei fleste, spesielt dei som har kurs mot aust og Jakar/Bumthang, går mellom 06.30 og 07.30.",travel,travel,"SENTENCE:
+ Bussar går frå busstasjonen (på andre sida av elva) heile dagen, sjølv om dei fleste, spesielt dei som har kurs mot aust og Jakar/Bumthang, går mellom 06.30 og 07.30. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Dei gir større stabilitet for ryttaren, men dette kan vere ein tryggleiksrisiko, fordi føtene kan sette seg fast i dei.",travel,sports,"SENTENCE:
+ Dei gir større stabilitet for ryttaren, men dette kan vere ein tryggleiksrisiko, fordi føtene kan sette seg fast i dei. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Dei fleste vanlege cruiseturane i Baltikum har eit lengre opphald i St. Petersburg i Russland.,travel,travel,"SENTENCE:
+ Dei fleste vanlege cruiseturane i Baltikum har eit lengre opphald i St. Petersburg i Russland. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Råda er baserte på at dei reisande ikkje skal stele, krenke eigedommar eller personar, ta del i den ulovlege marknaden, tigge eller på andre måtar utnytte andre menneske for eiga vinning.",travel,travel,"SENTENCE:
+ Råda er baserte på at dei reisande ikkje skal stele, krenke eigedommar eller personar, ta del i den ulovlege marknaden, tigge eller på andre måtar utnytte andre menneske for eiga vinning. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Det er mange ting du må tenke på før og når du skal reise ein stad.,travel,travel,"SENTENCE:
+ Det er mange ting du må tenke på før og når du skal reise ein stad. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+I varmen på dagtid kan dei reisande oppleve luftspeglingar som gir ein illusjon av vatn (eller andre ting).,travel,travel,"SENTENCE:
+ I varmen på dagtid kan dei reisande oppleve luftspeglingar som gir ein illusjon av vatn (eller andre ting). 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Barnefamiliar er eit sjeldan syn, men nokre herberge lèt dei bu på privatrom.",travel,travel,"SENTENCE:
+ Barnefamiliar er eit sjeldan syn, men nokre herberge lèt dei bu på privatrom. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Du kan for eksempel besøke slott i Loire-dalen eller Rhindalen, du kan ta eit cruise til interessante stader ved Donau eller ein båttur langs Eriekanalen.",travel,travel,"SENTENCE:
+ Du kan for eksempel besøke slott i Loire-dalen eller Rhindalen, du kan ta eit cruise til interessante stader ved Donau eller ein båttur langs Eriekanalen. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Det kan vere betre å bruke eit reisebyrå som ofte bestiller turar som liknar på den du har tenkt deg på.,travel,travel,"SENTENCE:
+ Det kan vere betre å bruke eit reisebyrå som ofte bestiller turar som liknar på den du har tenkt deg på. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Couchsurfing blei grunnlagt i januar 2004 etter at programmeraren Casey Fenton fann ein billig flytur til Island, men ikkje hadde nokon stad å bu.",travel,travel,"SENTENCE:
+ Couchsurfing blei grunnlagt i januar 2004 etter at programmeraren Casey Fenton fann ein billig flytur til Island, men ikkje hadde nokon stad å bu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Det gjeld vanlegvis andre krav og søknadsprosedyrar for studentvisum enn for vanlege turist- eller forretningsvisum.,travel,N/A,"SENTENCE:
+ Det gjeld vanlegvis andre krav og søknadsprosedyrar for studentvisum enn for vanlege turist- eller forretningsvisum. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: education education</s>"
+Kvart land har òg eigne reglar når det gjeld kva slags førstehjelpsutstyr du må ha med deg i bilen.,travel,travel,"SENTENCE:
+ Kvart land har òg eigne reglar når det gjeld kva slags førstehjelpsutstyr du må ha med deg i bilen. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Sjølv om dei fleste byråa vil ta på seg dei fleste vanlege bestillingane, er det mange av dei som spesialiserer seg på bestemde typar reiser, prisklassar eller destinasjonar.",travel,travel,"SENTENCE:
+ Sjølv om dei fleste byråa vil ta på seg dei fleste vanlege bestillingane, er det mange av dei som spesialiserer seg på bestemde typar reiser, prisklassar eller destinasjonar. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Reisande kan møte skadedyr dei ikkje er kjende med heimefrå.,travel,travel,"SENTENCE:
+ Reisande kan møte skadedyr dei ikkje er kjende med heimefrå. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"I nord kan du besøke den store heilagdommen Vår Frue av Fatima (heilag stad), der Maria openberra seg fleire gonger, historier som er kjende over heile verda.",travel,travel,"SENTENCE:
+ I nord kan du besøke den store heilagdommen Vår Frue av Fatima (heilag stad), der Maria openberra seg fleire gonger, historier som er kjende over heile verda. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Du kan bruke boda-boda (motorsykkeldrosje) for å kome deg rundt i Goma. Vanleg (lokal) pris er ~500 kongolesiske franc for ein kort tur.,travel,travel,"SENTENCE:
+ Du kan bruke boda-boda (motorsykkeldrosje) for å kome deg rundt i Goma. Vanleg (lokal) pris er ~500 kongolesiske franc for ein kort tur. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Dei som likar utandørsaktivitetar, bør få med seg ein tur langs Sea to Sky Corridor.",travel,travel,"SENTENCE:
+ Dei som likar utandørsaktivitetar, bør få med seg ein tur langs Sea to Sky Corridor. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ein vandresafari (òg kalla ein «bush walk», «hiking safari» eller «footing») omfattar fotturar som kan vare i nokre timar eller i fleire dagar.",travel,travel,"SENTENCE:
+ Ein vandresafari (òg kalla ein «bush walk», «hiking safari» eller «footing») omfattar fotturar som kan vare i nokre timar eller i fleire dagar. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Det einaste som fungerte for å få dei gjennom raskare, var å sende dei som innsjekka bagasje. Flyselskapet sitt regelverk tillèt ikkje å sende bagasje utan ein passasjer, og det er der du kjem inn.",travel,travel,"SENTENCE:
+ Det einaste som fungerte for å få dei gjennom raskare, var å sende dei som innsjekka bagasje. Flyselskapet sitt regelverk tillèt ikkje å sende bagasje utan ein passasjer, og det er der du kjem inn. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Eit tillegg av 300 bringar totalen til 1300 vogner for å unngå for store folkemassar.,travel,travel,"SENTENCE:
+ Eit tillegg av 300 bringar totalen til 1300 vogner for å unngå for store folkemassar. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Familiar med små barn må kanskje ordne litt meir på førehand, men ein dag utandørs skal gå greitt å få til, sjølv med spedbarn og førskolebarn.",travel,travel,"SENTENCE:
+ Familiar med små barn må kanskje ordne litt meir på førehand, men ein dag utandørs skal gå greitt å få til, sjølv med spedbarn og førskolebarn. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Alle som skal køyre på høgare breiddegrader eller over fjellovergangar, må vite at ein kan møte på snø, is eller kuldegrader.",travel,travel,"SENTENCE:
+ Alle som skal køyre på høgare breiddegrader eller over fjellovergangar, må vite at ein kan møte på snø, is eller kuldegrader. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"I dag er Timbuktu ein by med mykje fattigdom, sjølv om ryktet gjer han til ein turistattraksjon, og han har ein flyplass.",travel,travel,"SENTENCE:
+ I dag er Timbuktu ein by med mykje fattigdom, sjølv om ryktet gjer han til ein turistattraksjon, og han har ein flyplass. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Under ein snøstorm kan det komme så mykje snø på kort tid at du kan køyre deg fast.,travel,travel,"SENTENCE:
+ Under ein snøstorm kan det komme så mykje snø på kort tid at du kan køyre deg fast. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Viss du ønsker å fly verda rundt på den sørlege halvkula, finst det få flyreiser og destinasjonar på grunn av manglande transoseaniske ruter.",travel,travel,"SENTENCE:
+ Viss du ønsker å fly verda rundt på den sørlege halvkula, finst det få flyreiser og destinasjonar på grunn av manglande transoseaniske ruter. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Flyselskap som Emirates, Etihad Airways, Qatar Airways og Turkish Airlines har i stor grad utvida tilbodet til Afrika, og dei flyr til mange store afrikanske byar til betre prisar enn andre europeiske flyselskap.",travel,travel,"SENTENCE:
+ Flyselskap som Emirates, Etihad Airways, Qatar Airways og Turkish Airlines har i stor grad utvida tilbodet til Afrika, og dei flyr til mange store afrikanske byar til betre prisar enn andre europeiske flyselskap. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Det har ikkje vorte sett inn noko ekstra transporttilbod og tog over bakken kjem ikkje til å stogge ved Wembley, i tillegg er parkering og parkering med transport er ikkje tilgjengelig på staden.",travel,travel,"SENTENCE:
+ Det har ikkje vorte sett inn noko ekstra transporttilbod og tog over bakken kjem ikkje til å stogge ved Wembley, i tillegg er parkering og parkering med transport er ikkje tilgjengelig på staden. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Stort sett må ein søke om visum på førehand viss ein skal opphalde seg i eit framand land over lengre tid.,travel,travel,"SENTENCE:
+ Stort sett må ein søke om visum på førehand viss ein skal opphalde seg i eit framand land over lengre tid. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Kvart tog har både MetroPlus- og Metro-vogner. MetroPlus-vognene ligg alltid lengst bak i toget, nærmast Cape Town.",travel,travel,"SENTENCE:
+ Kvart tog har både MetroPlus- og Metro-vogner. MetroPlus-vognene ligg alltid lengst bak i toget, nærmast Cape Town. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Alle deltar i samfunnet og brukar transportsystem. Nesten alle klagar på transportsystem.,travel,travel,"SENTENCE:
+ Alle deltar i samfunnet og brukar transportsystem. Nesten alle klagar på transportsystem. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ettersom befolkninga er spreidd utover områda og lysforureining derfor ofte ikkje er eit problem, vil du òg kunne sjå på stjernene.",travel,travel,"SENTENCE:
+ Ettersom befolkninga er spreidd utover områda og lysforureining derfor ofte ikkje er eit problem, vil du òg kunne sjå på stjernene. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Visa-krav og -prisar varierer frå land til land og avheng òg av kva land du kjem frå.,travel,travel,"SENTENCE:
+ Visa-krav og -prisar varierer frå land til land og avheng òg av kva land du kjem frå. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Det er generelt sett ikkje noko poeng å leite etter billigbillettar til businessklasse eller første klasse på direkteruter frå A til B med fly.,travel,travel,"SENTENCE:
+ Det er generelt sett ikkje noko poeng å leite etter billigbillettar til businessklasse eller første klasse på direkteruter frå A til B med fly. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Bumerangkasting er svært populært blant turistar.,travel,travel,"SENTENCE:
+ Bumerangkasting er svært populært blant turistar. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Denne flyturen er ikkje det einaste alternativet viss du vil hoppe over Sør-Stillehavet og vestkysten av Sør-Amerika (sjå under).,travel,travel,"SENTENCE:
+ Denne flyturen er ikkje det einaste alternativet viss du vil hoppe over Sør-Stillehavet og vestkysten av Sør-Amerika (sjå under). 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"San Francisco har utvikla ein stor turistinfrastruktur og har ei rekke hotell, restaurantar og møtefasilitetar av ypparste kvalitet.",travel,travel,"SENTENCE:
+ San Francisco har utvikla ein stor turistinfrastruktur og har ei rekke hotell, restaurantar og møtefasilitetar av ypparste kvalitet. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Frivillig arbeid på reise er flott viss ein vil gjere ein forskjell, men det handlar ikkje berre om å gi.",travel,travel,"SENTENCE:
+ Frivillig arbeid på reise er flott viss ein vil gjere ein forskjell, men det handlar ikkje berre om å gi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Alle er kanskje ikkje like tolmodige og imøtekomande når dei reisande kjem heim att, men dette er vel så viktig.",travel,travel,"SENTENCE:
+ Alle er kanskje ikkje like tolmodige og imøtekomande når dei reisande kjem heim att, men dette er vel så viktig. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Men ikkje gløym ekstrakostnadar til tilleggsvisum, flyskatt, transport på bakken osv. for alle stadene utanfor Afrika.",travel,sports,"SENTENCE:
+ Men ikkje gløym ekstrakostnadar til tilleggsvisum, flyskatt, transport på bakken osv. for alle stadene utanfor Afrika. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Fleire Bishkek-innbyggjarar skulda demonstrantane frå sør for ulydnaden.,politics,travel,"SENTENCE:
+ Fleire Bishkek-innbyggjarar skulda demonstrantane frå sør for ulydnaden. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Dagens delar av Belgium var før delar av Luxemburg, men vart til Belgia etter den belgiske revolusjonen i 1830.",politics,travel,"SENTENCE:
+ Dagens delar av Belgium var før delar av Luxemburg, men vart til Belgia etter den belgiske revolusjonen i 1830. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Sidan 1988 har røysteboksar vert nøydd til å vere gjennomsiktige slik at veljarar og observatørar kan sjå at det ikkje finnast nokon konvoluttar der ved byrjinga av røystingsprosedyren og at ingen konvoluttar vert lagt til bortsett frå dei frå nøye talde og autoriserte veljarar.,politics,sports,"SENTENCE:
+ Sidan 1988 har røysteboksar vert nøydd til å vere gjennomsiktige slik at veljarar og observatørar kan sjå at det ikkje finnast nokon konvoluttar der ved byrjinga av røystingsprosedyren og at ingen konvoluttar vert lagt til bortsett frå dei frå nøye talde og autoriserte veljarar. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Den mellombelse statsministeren Julia Gillard påsto under kampanjen 2010 for det føderale valet at ho meinte at Australia burde verte ein republikk ved utangen av dronning Elizabeth IIs styre.,politics,politics,"SENTENCE:
+ Den mellombelse statsministeren Julia Gillard påsto under kampanjen 2010 for det føderale valet at ho meinte at Australia burde verte ein republikk ved utangen av dronning Elizabeth IIs styre. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+Den irske regjeringa understrekar hastverket av parlamentarisk lovfesting for å rette opp i situasjonen.,politics,politics,"SENTENCE:
+ Den irske regjeringa understrekar hastverket av parlamentarisk lovfesting for å rette opp i situasjonen. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+Diplomatiske argument om regionen er framleis med på å øydelegge forholdet mellom Armenia og Aserbajdsjan.,politics,politics,"SENTENCE:
+ Diplomatiske argument om regionen er framleis med på å øydelegge forholdet mellom Armenia og Aserbajdsjan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: world politics</s>"
+"Statsminister Stephen Harper har sagt seg eining i å sende regjeringas ‘rein-luft-handling’ til alle partia i komiteen for vurdering, før den andre opplesinga, etter tysdags 25 minutt lange møte med den nasjonal demokratisk partiet sin leiar Jack Layton på statsministerens kontor.",politics,politics,"SENTENCE:
+ Statsminister Stephen Harper har sagt seg eining i å sende regjeringas ‘rein-luft-handling’ til alle partia i komiteen for vurdering, før den andre opplesinga, etter tysdags 25 minutt lange møte med den nasjonal demokratisk partiet sin leiar Jack Layton på statsministerens kontor. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+"Sist månad var det store demonstrasjonar i Polen då landet signerte ACTA-lova, noko som har ført til at den polske regjeringa enn så lenge ikkje vil ratifisere avtalen.",politics,politics,"SENTENCE:
+ Sist månad var det store demonstrasjonar i Polen då landet signerte ACTA-lova, noko som har ført til at den polske regjeringa enn så lenge ikkje vil ratifisere avtalen. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: world politics</s>"
+Råda er berre eit kort samandrag av den politiske situasjonen i landet.,politics,politics,"SENTENCE:
+ Råda er berre eit kort samandrag av den politiske situasjonen i landet. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+"Under valet i 1976 var han rådgjevar for Carter i saker om utanrikspolitikk, og tena seinare som nasjonal sikkerheitsrådgjevar (NSA) frå 1977 til 1981, etter Henry Kissinger.",politics,travel,"SENTENCE:
+ Under valet i 1976 var han rådgjevar for Carter i saker om utanrikspolitikk, og tena seinare som nasjonal sikkerheitsrådgjevar (NSA) frå 1977 til 1981, etter Henry Kissinger. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Tyrkia ville også overta ansvaret om å vakte over fanga ISIS kjemparar som, sagt i kunngjeringa, europeiske nasjonar har nekta å repatriere.",politics,politics,"SENTENCE:
+ Tyrkia ville også overta ansvaret om å vakte over fanga ISIS kjemparar som, sagt i kunngjeringa, europeiske nasjonar har nekta å repatriere. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: world politics</s>"
+"Desse planane vart likevel forelda over natta, då over 800,000 soldatar frå den Sovjetiske Samveldet sin raude hær entra og skapte dei kviterussiske og ukrainske frontane, etter å ha invadert dei austlege regionane av polen i brot med Riga-freden, den sovjetisk-polske ikkje-aggressiv pakta og andre internasjonale traktatar, både bilaterale og multilaterale.",politics,sports,"SENTENCE:
+ Desse planane vart likevel forelda over natta, då over 800,000 soldatar frå den Sovjetiske Samveldet sin raude hær entra og skapte dei kviterussiske og ukrainske frontane, etter å ha invadert dei austlege regionane av polen i brot med Riga-freden, den sovjetisk-polske ikkje-aggressiv pakta og andre internasjonale traktatar, både bilaterale og multilaterale. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Som resultat av prosessen vil HJR-3 verte vurdert på nytt av den neste valde lovgjevaren i 2015 eller 2016 for å haldast aktiv.,politics,sports,"SENTENCE:
+ Som resultat av prosessen vil HJR-3 verte vurdert på nytt av den neste valde lovgjevaren i 2015 eller 2016 for å haldast aktiv. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Etter at kongressen vedtok erklæringa 4. juli, blei eit handskrive utkast signert av presidenten av kongressen, John Hancock, og sekretæren, Charles Thomson, sendt nokre kvartal lenger unna til trykkeriet til John Dunlap.",politics,N/A,"SENTENCE:
+ Etter at kongressen vedtok erklæringa 4. juli, blei eit handskrive utkast signert av presidenten av kongressen, John Hancock, og sekretæren, Charles Thomson, sendt nokre kvartal lenger unna til trykkeriet til John Dunlap. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: culture</s>"
+Rett etter klokka 11:00 blokkerte demonstrantar trafikken på den nordgåande vegen i Whitehall.,politics,travel,"SENTENCE:
+ Rett etter klokka 11:00 blokkerte demonstrantar trafikken på den nordgåande vegen i Whitehall. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"I juni 1956 vart derimot Krushchevs lovnadar sett på prøve då opprør i Polen, der arbeidarar protesterte mot matmangel og kutt i løn, utvikla seg til ein generell protest mot kommunisme.",politics,travel,"SENTENCE:
+ I juni 1956 vart derimot Krushchevs lovnadar sett på prøve då opprør i Polen, der arbeidarar protesterte mot matmangel og kutt i løn, utvikla seg til ein generell protest mot kommunisme. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Den skulle vare i dei neste 40 åra og vart kjempa på ekte, av avløysarstyrkar, på slagmarkar frå Amerika til Asia, i Afghanistan, Cuba og mange andre stadar.",politics,travel,"SENTENCE:
+ Den skulle vare i dei neste 40 åra og vart kjempa på ekte, av avløysarstyrkar, på slagmarkar frå Amerika til Asia, i Afghanistan, Cuba og mange andre stadar. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Forrige månad anbefalte ein presidentkommisjon det førre provisoriske valrådets avgang som del av ein pakke av tiltak for å leie landet mot nye val.,politics,politics,"SENTENCE:
+ Forrige månad anbefalte ein presidentkommisjon det førre provisoriske valrådets avgang som del av ein pakke av tiltak for å leie landet mot nye val. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+"Andre emne som vart dekkja, i følgje rapportar, inkluderer framtida til staten Jerusalem, som er heilag for begge nasjonane, og konflikten om Jordan-dalen.",politics,travel,"SENTENCE:
+ Andre emne som vart dekkja, i følgje rapportar, inkluderer framtida til staten Jerusalem, som er heilag for begge nasjonane, og konflikten om Jordan-dalen. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Den hadde heller ikkje autoritet til å overstyre skattelov og tariffar mellom statar.,politics,travel,"SENTENCE:
+ Den hadde heller ikkje autoritet til å overstyre skattelov og tariffar mellom statar. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Fransk vallov kodifiserer behandlinga relativt strengt.,politics,entertainment,"SENTENCE:
+ Fransk vallov kodifiserer behandlinga relativt strengt. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Etter ei veke med tap i mellomvalet fortalde Bush om ekspansjonen av handel i Asia, til eit publikum.",politics,travel,"SENTENCE:
+ Etter ei veke med tap i mellomvalet fortalde Bush om ekspansjonen av handel i Asia, til eit publikum. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Strategien viste seg å vere effektiv då den kutta av vitale militære og sivile forsyningar, sjølv om denne blokaden braut med dei generelt aksepterte internasjonale lovane, kodifisert av fleire små internasjonale avtalar gjennom dei to siste tiåra.",politics,sports,"SENTENCE:
+ Strategien viste seg å vere effektiv då den kutta av vitale militære og sivile forsyningar, sjølv om denne blokaden braut med dei generelt aksepterte internasjonale lovane, kodifisert av fleire små internasjonale avtalar gjennom dei to siste tiåra. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Økonomiske samarbeid er retta opp att mellom desse to delane av Moldova, trass svikt i dei politiske forhandlingane.",politics,travel,"SENTENCE:
+ Økonomiske samarbeid er retta opp att mellom desse to delane av Moldova, trass svikt i dei politiske forhandlingane. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Saman med tenestemenn forsikra han innbyggjarar i Texas om at dei rette stega vart tekne for å sikre offentlegheitas tryggleik.,politics,travel,"SENTENCE:
+ Saman med tenestemenn forsikra han innbyggjarar i Texas om at dei rette stega vart tekne for å sikre offentlegheitas tryggleik. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Liberal kritikk av gjennoppbyggingsinnsatsen har vore retta mot gevinsten kontraktane for gjenoppbygginga har gjeve til dei gjeldande personane på innsida av Washington.,politics,travel,"SENTENCE:
+ Liberal kritikk av gjennoppbyggingsinnsatsen har vore retta mot gevinsten kontraktane for gjenoppbygginga har gjeve til dei gjeldande personane på innsida av Washington. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ut frå ei meiningsmåling av 1400 menneske før det føderale valet i 2010 kom det fram at talet på dei som er imot at Australia skal verte ein republikk, har auka med 8 prosent sidan 2008.",politics,sports,"SENTENCE:
+ Ut frå ei meiningsmåling av 1400 menneske før det føderale valet i 2010 kom det fram at talet på dei som er imot at Australia skal verte ein republikk, har auka med 8 prosent sidan 2008. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Diplomatar sa at dei hadde funne nok ambiguitet i den afghanske grunnlova til å avgjere om preferansevalet var unødig.,politics,politics,"SENTENCE:
+ Diplomatar sa at dei hadde funne nok ambiguitet i den afghanske grunnlova til å avgjere om preferansevalet var unødig. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: world politics</s>"
+"Etter at resultat kom inn hylla Gingrich Santorum, men hadde krasse ord til Romney som hadde vore årsaka til at det hadde vorte sendt ut negative marknadsføringskampanjar mot Gingrich i Iowa.",politics,politics,"SENTENCE:
+ Etter at resultat kom inn hylla Gingrich Santorum, men hadde krasse ord til Romney som hadde vore årsaka til at det hadde vorte sendt ut negative marknadsføringskampanjar mot Gingrich i Iowa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+Dette er Martellys femte provisoriske valråd på fire år.,politics,sports,"SENTENCE:
+ Dette er Martellys femte provisoriske valråd på fire år. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Den olympiske gullmedaljevinnaren skulle symje i 100m og 200m fristil og i tre stafettar i samveldeleikane, men som følgje av klagene hans har det vorte sett spørjeteikn ved forma hans.",sports,sports,"SENTENCE:
+ Den olympiske gullmedaljevinnaren skulle symje i 100m og 200m fristil og i tre stafettar i samveldeleikane, men som følgje av klagene hans har det vorte sett spørjeteikn ved forma hans. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+I tillegg til å vere ein tidlegare olympisk og verdsmeister var Saito leiar i heile Japan judo treningsforbund på tidspunktet for bortgangen hans.,sports,sports,"SENTENCE:
+ I tillegg til å vere ein tidlegare olympisk og verdsmeister var Saito leiar i heile Japan judo treningsforbund på tidspunktet for bortgangen hans. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Den internasjonale olympiske komiteen røysta for å inkludere idrettane på eit styreleiarmøte i Berlin i dag. Rugby, særleg rugby union, og golf vart vald over fire andre idrettar for å bli vurdert til å delta i dei olympiske leikane.",sports,sports,"SENTENCE:
+ Den internasjonale olympiske komiteen røysta for å inkludere idrettane på eit styreleiarmøte i Berlin i dag. Rugby, særleg rugby union, og golf vart vald over fire andre idrettar for å bli vurdert til å delta i dei olympiske leikane. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Den største turneringa i året finn stad på polobanene i Las Cañitas i desember.,sports,sports,"SENTENCE:
+ Den største turneringa i året finn stad på polobanene i Las Cañitas i desember. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Etter at han flytta til den hovudstaden Catalonia hadde Vidal spelt 49 kampar for klubben.,sports,sports,"SENTENCE:
+ Etter at han flytta til den hovudstaden Catalonia hadde Vidal spelt 49 kampar for klubben. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Når idrettsutøvarar klarer å oppretthalde ein god energibalanse, har gode vanar for å tilføre kroppen væske og forstår dei ulike aspekta ved kosttilskott, kan det gjere at dei presterer betre og får auka glede av sporten.",sports,sports,"SENTENCE:
+ Når idrettsutøvarar klarer å oppretthalde ein god energibalanse, har gode vanar for å tilføre kroppen væske og forstår dei ulike aspekta ved kosttilskott, kan det gjere at dei presterer betre og får auka glede av sporten. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"På tredje er Hamlin tjue poeng bak, men fem framfor Bowyer. Kahne og Truex, Jr. er nummer fem og seks med 2220 og 2207 poeng.",sports,sports,"SENTENCE:
+ På tredje er Hamlin tjue poeng bak, men fem framfor Bowyer. Kahne og Truex, Jr. er nummer fem og seks med 2220 og 2207 poeng. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Nadals rekord i møte mot kanadiaren er 7-2.,sports,sports,"SENTENCE:
+ Nadals rekord i møte mot kanadiaren er 7-2. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Jarque trente under førsesongens trening, på Coverciano i Italia, tidlegare i dag. Han budde på laget sitt hotell før den planlagde kampen mot Bolivia på sundag.",sports,sports,"SENTENCE:
+ Jarque trente under førsesongens trening, på Coverciano i Italia, tidlegare i dag. Han budde på laget sitt hotell før den planlagde kampen mot Bolivia på sundag. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Frykt for mangel på transport har ymta om moglegheita for at kampane vil gå føre seg bak lukka dører utan laget sine supporterar.,sports,sports,"SENTENCE:
+ Frykt for mangel på transport har ymta om moglegheita for at kampane vil gå føre seg bak lukka dører utan laget sine supporterar. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Tommy Dreamer sa “Luna var den første dronninga av ekstrem. Min første manager. Luna døydde på ei natt med to månar. Ganske unikt, akkurat som ho. Sterk Kvinne.”",sports,sports,"SENTENCE:
+ Tommy Dreamer sa “Luna var den første dronninga av ekstrem. Min første manager. Luna døydde på ei natt med to månar. Ganske unikt, akkurat som ho. Sterk Kvinne.” 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Polens menn for synshemma skigåarar, Maciej Krezel og guide Anna Ogarzynska endte på trettande plass i Super-G. Sør Koreas Jong Seork endte på tjuefjerde plass i menns sittande Super-G.",sports,sports,"SENTENCE:
+ Polens menn for synshemma skigåarar, Maciej Krezel og guide Anna Ogarzynska endte på trettande plass i Super-G. Sør Koreas Jong Seork endte på tjuefjerde plass i menns sittande Super-G. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Ta kontakt med Asociación Argentina de Polo for å få vite meir om turneringar og kvar du kan kjøpe billettar til polokampar.,sports,sports,"SENTENCE:
+ Ta kontakt med Asociación Argentina de Polo for å få vite meir om turneringar og kvar du kan kjøpe billettar til polokampar. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Kampen starta klokka 10:00 i nydeleg vêr, og bortsett frå litt yr om morgonen, som raskt tørka opp, var det ein perfekt dag for sjumannsrugby.",sports,sports,"SENTENCE:
+ Kampen starta klokka 10:00 i nydeleg vêr, og bortsett frå litt yr om morgonen, som raskt tørka opp, var det ein perfekt dag for sjumannsrugby. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Arly Velasquez frå Mexico endte på femtande plass i menns sittande Super-G. New Zealands Adam Hall endte på niande plass i menns ståande Super-G.,sports,sports,"SENTENCE:
+ Arly Velasquez frå Mexico endte på femtande plass i menns sittande Super-G. New Zealands Adam Hall endte på niande plass i menns ståande Super-G. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Den siste kampen i serien vil finne stad på Ellis Park i Johannesburg neste veke, når Springboks spelar mot Australia.",sports,sports,"SENTENCE:
+ Den siste kampen i serien vil finne stad på Ellis Park i Johannesburg neste veke, når Springboks spelar mot Australia. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Under gode forhold vil du kunne legge bak deg større avstandar enn om du går, men berre svært sjeldan går det like fort som på langrenn i preparerte løyper utan ein tung sekk på ryggen.",sports,sports,"SENTENCE:
+ Under gode forhold vil du kunne legge bak deg større avstandar enn om du går, men berre svært sjeldan går det like fort som på langrenn i preparerte løyper utan ein tung sekk på ryggen. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Sju poeng bak, er Johnson nummer to med 2,243.",sports,sports,"SENTENCE:
+ Sju poeng bak, er Johnson nummer to med 2,243. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Juving (òg kalla juvvandring) handlar om å ta seg ned i botnen av eit juv som enten er tørt eller fullt av vatn.,sports,sports,"SENTENCE:
+ Juving (òg kalla juvvandring) handlar om å ta seg ned i botnen av eit juv som enten er tørt eller fullt av vatn. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Robin Uthappa scora høgst i inneomgangen, 70 laup på berre 41 ballar ved å slå 11 firarar og 2 seksarar.",sports,sports,"SENTENCE:
+ Robin Uthappa scora høgst i inneomgangen, 70 laup på berre 41 ballar ved å slå 11 firarar og 2 seksarar. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Vintersportar er mest populære i dei nordlege regionane, med italienarar som konkurrerer i dei internasjonale leikane og olympiske arrangement.",sports,sports,"SENTENCE:
+ Vintersportar er mest populære i dei nordlege regionane, med italienarar som konkurrerer i dei internasjonale leikane og olympiske arrangement. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Maroochydore hadde fullført på toppen av stigen, seks poeng framfor Noosa på andre plass.",sports,sports,"SENTENCE:
+ Maroochydore hadde fullført på toppen av stigen, seks poeng framfor Noosa på andre plass. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Michael Schumacher endte laupet sitt ikkje lenge etter Alonso, som følgje av skade på hjulopphenget, etter dei mange kampane gjennom laupet.",sports,sports,"SENTENCE:
+ Michael Schumacher endte laupet sitt ikkje lenge etter Alonso, som følgje av skade på hjulopphenget, etter dei mange kampane gjennom laupet. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Det å ha eit godt og næringsrikt kosthald aleine gir ikkje prestasjonar på elitenivå, men det har stor innverknad på den generelle forma til unge idrettsutøvarar.",sports,sports,"SENTENCE:
+ Det å ha eit godt og næringsrikt kosthald aleine gir ikkje prestasjonar på elitenivå, men det har stor innverknad på den generelle forma til unge idrettsutøvarar. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Han har ikkje vore i stand til å ta dei nødvendige legemidla for å kome over smertene, då dei er ulovlege i leikane.",sports,travel,"SENTENCE:
+ Han har ikkje vore i stand til å ta dei nødvendige legemidla for å kome over smertene, då dei er ulovlege i leikane. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Ifølge forsking har kvinner dobbelt så stor sjanse for å få MS som menn.,health,sports,"SENTENCE:
+ Ifølge forsking har kvinner dobbelt så stor sjanse for å få MS som menn. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Ulovleg brennevin kan innehalde farlege stoff, inkludert metanol, noko som kan føre til synstap eller død, sjølv i små dosar.",health,sports,"SENTENCE:
+ Ulovleg brennevin kan innehalde farlege stoff, inkludert metanol, noko som kan føre til synstap eller død, sjølv i små dosar. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Berre effektane av krisemaksimering, ikkje depresjon og redsel, kravde vekentlege strukturerte økter med fysisk aktivitet.",health,sports,"SENTENCE:
+ Berre effektane av krisemaksimering, ikkje depresjon og redsel, kravde vekentlege strukturerte økter med fysisk aktivitet. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Ålmennt bileigarskap fører også til høgare førekomst av ulykker på vegane, som i sin tur fører til at helsevesenet oppdagar nye teknikkar for behandling av skada personar.",health,travel,"SENTENCE:
+ Ålmennt bileigarskap fører også til høgare førekomst av ulykker på vegane, som i sin tur fører til at helsevesenet oppdagar nye teknikkar for behandling av skada personar. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Leiande forskarar seier at dette kan føre til tidleg oppdaging av kreft, tuberkulose, HIV og malaria for pasientar i låginntekstland, der overlevingsraten for sjukdomar som brystkreft kan vere halvert i samhøve med dei frå rikare land.",health,health,"SENTENCE:
+ Leiande forskarar seier at dette kan føre til tidleg oppdaging av kreft, tuberkulose, HIV og malaria for pasientar i låginntekstland, der overlevingsraten for sjukdomar som brystkreft kan vere halvert i samhøve med dei frå rikare land. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: health</s>"
+"Dr. Ehud Ur, professor i medisin ved Dalhousie-universitetet i Halifax, Nova Scotia, og styreleiar av den kliniske og vitskapelege avdelinga for den kanadiske diabetesforeininga åtvara om at forskinga framleis er på eit tidleg stadium.",health,sports,"SENTENCE:
+ Dr. Ehud Ur, professor i medisin ved Dalhousie-universitetet i Halifax, Nova Scotia, og styreleiar av den kliniske og vitskapelege avdelinga for den kanadiske diabetesforeininga åtvara om at forskinga framleis er på eit tidleg stadium. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Desse borna har ein tendens til å komme i mykje bråk, då dei “engasjerer seg i risikabel åtferd, hamnar i slagsmål og utfordrar autoritetar” for å stimulere hjernen sin, sidan hjernen deira ikkje kan verte stimulert ved hjelp av vanlege metodar.",health,travel,"SENTENCE:
+ Desse borna har ein tendens til å komme i mykje bråk, då dei “engasjerer seg i risikabel åtferd, hamnar i slagsmål og utfordrar autoritetar” for å stimulere hjernen sin, sidan hjernen deira ikkje kan verte stimulert ved hjelp av vanlege metodar. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Menneskje kan verte påverka ved å puste inn påverka vatn som ender opp i lufta som følgje av vind og bølgjer.,health,travel,"SENTENCE:
+ Menneskje kan verte påverka ved å puste inn påverka vatn som ender opp i lufta som følgje av vind og bølgjer. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Nokre menneske trur at å oppleve mange kunstig framstilte klåre draumar ofte kan vere svært slitsamt.,health,travel,"SENTENCE:
+ Nokre menneske trur at å oppleve mange kunstig framstilte klåre draumar ofte kan vere svært slitsamt. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Porto vart på dette punktet behandla for akselen sin, men klarde å returnere til kampen.",health,sports,"SENTENCE:
+ Porto vart på dette punktet behandla for akselen sin, men klarde å returnere til kampen. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Dessuten har det alvorlege konsekvensar dersom ein mislykkast med dette: vekst depresjon, feilernæring, og til sjuande og sist daud.",health,entertainment,"SENTENCE:
+ Dessuten har det alvorlege konsekvensar dersom ein mislykkast med dette: vekst depresjon, feilernæring, og til sjuande og sist daud. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Tenestemenn for byen Amsterdam og Anne Frank museet fortel at treet er infisert med sopp og utgjer ein offentleg helserisiko då dei hevdar at det er i umiddelbar fare for å falle ned.,health,travel,"SENTENCE:
+ Tenestemenn for byen Amsterdam og Anne Frank museet fortel at treet er infisert med sopp og utgjer ein offentleg helserisiko då dei hevdar at det er i umiddelbar fare for å falle ned. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Sjukehuset har følgt prosedyren for infeksjonskontroll, inkludert å skilje pasienten frå andre for å hindre mogleg smitte.",health,health,"SENTENCE:
+ Sjukehuset har følgt prosedyren for infeksjonskontroll, inkludert å skilje pasienten frå andre for å hindre mogleg smitte. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: health</s>"
+Instituttet for rettferd og demokrati på Haiti refererer til uavhengige undersøkingar som ymtar om at ein nepalsk kontingent frå dei fredsbevarande styrkane bringa med seg sjukdommen til Haiti utan at dei visste om det.,health,travel,"SENTENCE:
+ Instituttet for rettferd og demokrati på Haiti refererer til uavhengige undersøkingar som ymtar om at ein nepalsk kontingent frå dei fredsbevarande styrkane bringa med seg sjukdommen til Haiti utan at dei visste om det. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Infeksjonssjukdommar i seg sjølv, eller farlege dyr som kan skade eller drepe menneske med makt, kvalifiserer normalt sett ikkje som skadedyr.",health,sports,"SENTENCE:
+ Infeksjonssjukdommar i seg sjølv, eller farlege dyr som kan skade eller drepe menneske med makt, kvalifiserer normalt sett ikkje som skadedyr. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Born med ADD finn det vanskeleg å konsentrere seg om ting som skulearbeid, men dei kan konsentrere seg om ting det likar å gjere som å spele spel, eller sjå på sine favoritt-teikneseriar, eller skrive setningar utan punktum.",health,sports,"SENTENCE:
+ Born med ADD finn det vanskeleg å konsentrere seg om ting som skulearbeid, men dei kan konsentrere seg om ting det likar å gjere som å spele spel, eller sjå på sine favoritt-teikneseriar, eller skrive setningar utan punktum. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+I løpet av eit år kan ein smitta person smitte 10 til 15 nære personar.,health,sports,"SENTENCE:
+ I løpet av eit år kan ein smitta person smitte 10 til 15 nære personar. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Når valden opphøyrde etter at dei skadde vart frakta til sjukehuset, stod omkring 40 gjenverande fangar i fengselsgarden og nekta å returnere til cellene sine.",health,sports,"SENTENCE:
+ Når valden opphøyrde etter at dei skadde vart frakta til sjukehuset, stod omkring 40 gjenverande fangar i fengselsgarden og nekta å returnere til cellene sine. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Doktorar byrja å verte rekrutterte av keisaren Augustus, og forma til og med det første romerske medisinkorpset for bruk i tida etter slaga.",health,N/A,"SENTENCE:
+ Doktorar byrja å verte rekrutterte av keisaren Augustus, og forma til og med det første romerske medisinkorpset for bruk i tida etter slaga. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: medicine</s>"
+Sjåføren i bilen fekk likevel alvorlege hovudskader.,health,travel,"SENTENCE:
+ Sjåføren i bilen fekk likevel alvorlege hovudskader. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"“Vi har 4 månadar gamle mus som no er ikkje-diabetikarar, som tidlegare var diabetikarar” la han til.",health,health,"SENTENCE:
+ “Vi har 4 månadar gamle mus som no er ikkje-diabetikarar, som tidlegare var diabetikarar” la han til. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: health</s>"
+Indre forgifting er ikkje alltid lett å oppdage. Symptoma (for eksempel oppkast) kan vere såpass diffuse at det ikkje er mogleg å gi ein diagnose med ein gong.,health,travel,"SENTENCE:
+ Indre forgifting er ikkje alltid lett å oppdage. Symptoma (for eksempel oppkast) kan vere såpass diffuse at det ikkje er mogleg å gi ein diagnose med ein gong. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Som eit resultat røyka artistane cannabis joints på scena, og teateret oppfordra publikumet til å delta.",entertainment,entertainment,"SENTENCE:
+ Som eit resultat røyka artistane cannabis joints på scena, og teateret oppfordra publikumet til å delta. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Aerosmith har avlyst dei gjenverande konsertane av turneen deira.,entertainment,entertainment,"SENTENCE:
+ Aerosmith har avlyst dei gjenverande konsertane av turneen deira. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Viss du vil vere nær det som skjer, må du komme tidleg for å få teltplass i nærleiken av musikken.",entertainment,entertainment,"SENTENCE:
+ Viss du vil vere nær det som skjer, må du komme tidleg for å få teltplass i nærleiken av musikken. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Mange ulike filmformat er blitt brukte opp gjennom åra. Standard 35 mm film (36 x 24 mm negativ) er nok det vanlegaste.,entertainment,entertainment,"SENTENCE:
+ Mange ulike filmformat er blitt brukte opp gjennom åra. Standard 35 mm film (36 x 24 mm negativ) er nok det vanlegaste. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Sjølv om dette er svært vanleg praksis, er det forbode av Disney, ettersom dei ikkje tillèt overføring av billettar.",entertainment,travel,"SENTENCE:
+ Sjølv om dette er svært vanleg praksis, er det forbode av Disney, ettersom dei ikkje tillèt overføring av billettar. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Kvar episode i programmet tok føre seg temaet i ei bestemt bok, og deretter gjekk ein nærmare inn på dette temaet i fleire andre historier.",entertainment,entertainment,"SENTENCE:
+ Kvar episode i programmet tok føre seg temaet i ei bestemt bok, og deretter gjekk ein nærmare inn på dette temaet i fleire andre historier. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Fleire store fjernsynsskjermar var installert på ulike punkt i Roma for at folk skulle kunne sjå seremonien.,entertainment,travel,"SENTENCE:
+ Fleire store fjernsynsskjermar var installert på ulike punkt i Roma for at folk skulle kunne sjå seremonien. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Sofokles og Aristofanes er framleis populære dramatikarar, og stykka deira vert sett på som nokon av dei største verka av verdslitteraturen.",entertainment,entertainment,"SENTENCE:
+ Sofokles og Aristofanes er framleis populære dramatikarar, og stykka deira vert sett på som nokon av dei største verka av verdslitteraturen. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+I kvart program blei barna dessutan tipsa om ulike bøker dei kunne sjå etter når dei skulle på biblioteket.,entertainment,N/A,"SENTENCE:
+ I kvart program blei barna dessutan tipsa om ulike bøker dei kunne sjå etter når dei skulle på biblioteket. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: education education</s>"
+For å få ekstra volum på eit trekkspel nyttar du belgane med meir kraft eller fart.,entertainment,travel,"SENTENCE:
+ For å få ekstra volum på eit trekkspel nyttar du belgane med meir kraft eller fart. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Du kan sjå pyramidane i mørket, og du kan sjå dei i stilla før showet startar.",entertainment,entertainment,"SENTENCE:
+ Du kan sjå pyramidane i mørket, og du kan sjå dei i stilla før showet startar. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Eksempel på aktivitetar er jakt, fiske, fotografering, fuglekikking samt å besøke parkar og studere informasjon om økosystemet.",entertainment,travel,"SENTENCE:
+ Eksempel på aktivitetar er jakt, fiske, fotografering, fuglekikking samt å besøke parkar og studere informasjon om økosystemet. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Sfinksen dannar eit bakteppe og står som forteljaren av ei lang historie.,entertainment,sports,"SENTENCE:
+ Sfinksen dannar eit bakteppe og står som forteljaren av ei lang historie. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Det er ofte spesialprisar på mat, drikke og underhaldning for at gjestene skal halde humøret oppe og bli verande.",entertainment,travel,"SENTENCE:
+ Det er ofte spesialprisar på mat, drikke og underhaldning for at gjestene skal halde humøret oppe og bli verande. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Den globale organisasjonen, som allereie rapporterer på engelsk og japansk, lanserer spansk, italiensk og koreansk språkprogram, for fjernsyn, internett og mobileiningar.",entertainment,N/A,"SENTENCE:
+ Den globale organisasjonen, som allereie rapporterer på engelsk og japansk, lanserer spansk, italiensk og koreansk språkprogram, for fjernsyn, internett og mobileiningar. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: education</s>"
+Før The Simpsons hadde Simon tidlegare jobba med fleire ulike program i ei variasjon av stillingar.,entertainment,entertainment,"SENTENCE:
+ Før The Simpsons hadde Simon tidlegare jobba med fleire ulike program i ei variasjon av stillingar. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Dette vil gjere det mogleg for spelarar å kontrolle handlingar og rørsle i videospelet ved å røyre seg gjennom lufta.,entertainment,sports,"SENTENCE:
+ Dette vil gjere det mogleg for spelarar å kontrolle handlingar og rørsle i videospelet ved å røyre seg gjennom lufta. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Minst 100 personar hadde delteke på festen som feira det første jubileet til paret som hadde hatt bryllaupet sitt i fjor.,entertainment,sports,"SENTENCE:
+ Minst 100 personar hadde delteke på festen som feira det første jubileet til paret som hadde hatt bryllaupet sitt i fjor. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"To songar frå filmen, Audition (The Fools Who Dream) og City of Stars, mottok nominasjonar for beste originalsong. Lionsgate studio mottok 26 nominasjonar — meir enn noko anna studio.",entertainment,entertainment,"SENTENCE:
+ To songar frå filmen, Audition (The Fools Who Dream) og City of Stars, mottok nominasjonar for beste originalsong. Lionsgate studio mottok 26 nominasjonar — meir enn noko anna studio. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Skorpa er omtrent 70 km tjukk på den nærmaste sida og 100 km tjukk på den fjernaste sida.,geography,sports,"SENTENCE:
+ Skorpa er omtrent 70 km tjukk på den nærmaste sida og 100 km tjukk på den fjernaste sida. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Lenger sør ligg Niagara Falls, og den nordlege delen husar blant anna det uutnytta og naturskjønne Muskoka.",geography,travel,"SENTENCE:
+ Lenger sør ligg Niagara Falls, og den nordlege delen husar blant anna det uutnytta og naturskjønne Muskoka. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Ellsworth Land er området sør for halvøya og grensar til Bellingshausenhavet.,geography,travel,"SENTENCE:
+ Ellsworth Land er området sør for halvøya og grensar til Bellingshausenhavet. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Sørpoltraversen (eller South Pole Highway) er ei 1600 km lang rute frå McMurdo Station i Rosshavet til Sørpolen.,geography,travel,"SENTENCE:
+ Sørpoltraversen (eller South Pole Highway) er ei 1600 km lang rute frå McMurdo Station i Rosshavet til Sørpolen. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Dette bratte fjellet tårnar over den nordlege delen av Machu Picchu, og det er ofte å sjå i bakgrunnen på mange bilete av ruinane.",geography,travel,"SENTENCE:
+ Dette bratte fjellet tårnar over den nordlege delen av Machu Picchu, og det er ofte å sjå i bakgrunnen på mange bilete av ruinane. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Enceladus er det mest refleksive objektet i solsystemet og reflekterer omkring 90 prosent av solskinet som treff det.,geography,science/technology,"SENTENCE:
+ Enceladus er det mest refleksive objektet i solsystemet og reflekterer omkring 90 prosent av solskinet som treff det. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+"Det kan ikkje sjåast noko anna enn klår, nydeleg sky over, og dei mange fjella omkring. Svært lite av denne verda kan sjåast eller høyrast frå innsida av gruva.",geography,travel,"SENTENCE:
+ Det kan ikkje sjåast noko anna enn klår, nydeleg sky over, og dei mange fjella omkring. Svært lite av denne verda kan sjåast eller høyrast frå innsida av gruva. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"No til Japan. Japan var eit øyland, akkurat som Storbritannia.",geography,travel,"SENTENCE:
+ No til Japan. Japan var eit øyland, akkurat som Storbritannia. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"På sitt høgste nådde den tropiske syklonen Gonu, namngjeven frå ein sekk med palmeblad i språket på Maldivene, ein vind på 240 kilometer i timen (149 mil i timen).",geography,travel,"SENTENCE:
+ På sitt høgste nådde den tropiske syklonen Gonu, namngjeven frå ein sekk med palmeblad i språket på Maldivene, ein vind på 240 kilometer i timen (149 mil i timen). 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Tyrkias territorium, inkludert innsjøar, dekkjer 783 562 kvadratkilometer, med 755 688 kvadratkilometer i Sørvest-Asia og 23 764 kvadratkilometer i Europa.",geography,travel,"SENTENCE:
+ Tyrkias territorium, inkludert innsjøar, dekkjer 783 562 kvadratkilometer, med 755 688 kvadratkilometer i Sørvest-Asia og 23 764 kvadratkilometer i Europa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Sør-Shetlandsøyane, som blei oppdaga i 1819, blir gjort krav på av fleire nasjonar. Dei har flest stasjonar, der seksten av dei var aktive i 2020.",geography,travel,"SENTENCE:
+ Sør-Shetlandsøyane, som blei oppdaga i 1819, blir gjort krav på av fleire nasjonar. Dei har flest stasjonar, der seksten av dei var aktive i 2020. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Apia er hovudstaden i Samoa. Byen ligg på øya Upolu og har ein populasjon på rett under 40 000.,geography,travel,"SENTENCE:
+ Apia er hovudstaden i Samoa. Byen ligg på øya Upolu og har ein populasjon på rett under 40 000. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Sidan stormen er langt frå landområde, er det vanskeleg å avgjere potensiale for at den vil kome til påverke USA eller Karibien.",geography,sports,"SENTENCE:
+ Sidan stormen er langt frå landområde, er det vanskeleg å avgjere potensiale for at den vil kome til påverke USA eller Karibien. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Ho er tynnare under marene (dei mørke områda) og tjukkare under dei lyse områda.,geography,travel,"SENTENCE:
+ Ho er tynnare under marene (dei mørke områda) og tjukkare under dei lyse områda. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Skogane er ikkje berre mangrovesumpar. Dei omfattar nokre av dei siste gjenverande bestandane av dei enorme junglane som ein gong dekte Gangessletta.,geography,travel,"SENTENCE:
+ Skogane er ikkje berre mangrovesumpar. Dei omfattar nokre av dei siste gjenverande bestandane av dei enorme junglane som ein gong dekte Gangessletta. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Det internasjonale jordskjelvkartet frå USGS, det amerikanske jordskjelvinstituttet, viste at det ikkje var jordskjelv på Island veka før.",geography,travel,"SENTENCE:
+ Det internasjonale jordskjelvkartet frå USGS, det amerikanske jordskjelvinstituttet, viste at det ikkje var jordskjelv på Island veka før. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Gruva sit på toppen av fjella nord for mekka, og er fullstendig isolert frå resten av verda.",geography,travel,"SENTENCE:
+ Gruva sit på toppen av fjella nord for mekka, og er fullstendig isolert frå resten av verda. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"

@@ -1,0 +1,2449 @@
+text,actual_category,predicted_category,generated_text
+"Mutasiya, yeni genetik müxtəliflik yaradır, seçim isə onu ifadə edilmiş variantlar arasından çıxarır.",science/technology,travel,"SENTENCE:
+ Mutasiya, yeni genetik müxtəliflik yaradır, seçim isə onu ifadə edilmiş variantlar arasından çıxarır. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Nüvə bombasının işləmə prinsipi çoxsaylı proton və neytronları olan nüvəni birləşdirmək üçün lazım olan enerjiyə əsaslanır.,science/technology,travel,"SENTENCE:
+ Nüvə bombasının işləmə prinsipi çoxsaylı proton və neytronları olan nüvəni birləşdirmək üçün lazım olan enerjiyə əsaslanır. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Nüvə, neytronlar və protonlar adlanan iki hissəcikdən ibarətdir.",science/technology,entertainment,"SENTENCE:
+ Nüvə, neytronlar və protonlar adlanan iki hissəcikdən ibarətdir. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Sabit fokuslu fotoobyektivlərin verdiyi effekt ilə müqayisədə bu, dəyişən fokus məsafəli fotoobyektivlərə daha keyfiyyətli şəkillər çəkməsinə imkan verir.",science/technology,travel,"SENTENCE:
+ Sabit fokuslu fotoobyektivlərin verdiyi effekt ilə müqayisədə bu, dəyişən fokus məsafəli fotoobyektivlərə daha keyfiyyətli şəkillər çəkməsinə imkan verir. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Bəzi səbəblərlə, onlar veb proksilərdən daha yüksək funksiyaya malikdir: Onlar yalnız http-ni deyil, eyni zamanda bütün İnternet trafikini yenidən istiqamətləndirir.",science/technology,travel,"SENTENCE:
+ Bəzi səbəblərlə, onlar veb proksilərdən daha yüksək funksiyaya malikdir: Onlar yalnız http-ni deyil, eyni zamanda bütün İnternet trafikini yenidən istiqamətləndirir. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"İnteraktiv tərtibat forması tələb edir ki, siz media istehsalı haqqındakı düşüncələrinizi təkrar dəyərləndirə və qeyri-xətti düşüncə tərzini öyrənəsiniz.",science/technology,N/A,"SENTENCE:
+ İnteraktiv tərtibat forması tələb edir ki, siz media istehsalı haqqındakı düşüncələrinizi təkrar dəyərləndirə və qeyri-xətti düşüncə tərzini öyrənəsiniz. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: education education</s>"
+"Bu geniş yayılmış bir tətbiq kimi istifadə olunmağa başladı, amma dəmir altlıqlı vaqonlar ağac təkərlərlə daha tez aşınırdı.",science/technology,travel,"SENTENCE:
+ Bu geniş yayılmış bir tətbiq kimi istifadə olunmağa başladı, amma dəmir altlıqlı vaqonlar ağac təkərlərlə daha tez aşınırdı. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Praydlar, otuza qədər dişi şir və bala, eyni zamanda 1-3 arası yetkin erkək aslandan ibarət olur.",science/technology,travel,"SENTENCE:
+ Praydlar, otuza qədər dişi şir və bala, eyni zamanda 1-3 arası yetkin erkək aslandan ibarət olur. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Süni zəka güclü elmi-fantastik məna kəsb etsə də, maşında davranış, öyrənmə və intellektin adaptasiyası ilə əlaqəli kompüter elminin çox əhəmiyyətli bir qolunu ortaya çıxarır.",science/technology,travel,"SENTENCE:
+ Süni zəka güclü elmi-fantastik məna kəsb etsə də, maşında davranış, öyrənmə və intellektin adaptasiyası ilə əlaqəli kompüter elminin çox əhəmiyyətli bir qolunu ortaya çıxarır. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Bu səbəblə də həmin formatın tərəflər arasındakı nisbətinin (ən sadə tamlığı əldə etmək üçün on ikiyə bölmə) 3:2 olduğu bildirilir.,science/technology,entertainment,"SENTENCE:
+ Bu səbəblə də həmin formatın tərəflər arasındakı nisbətinin (ən sadə tamlığı əldə etmək üçün on ikiyə bölmə) 3:2 olduğu bildirilir. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Telefon zəngi etmək üçün telefonunuzun peyk xəttini aydın çəkə biləcəyi açıq hava altında durmalısınız, bu səbəblə də peyk telefonu, adi mobil telefonunu əvəz edə bilməz.",science/technology,travel,"SENTENCE:
+ Telefon zəngi etmək üçün telefonunuzun peyk xəttini aydın çəkə biləcəyi açıq hava altında durmalısınız, bu səbəblə də peyk telefonu, adi mobil telefonunu əvəz edə bilməz. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Vaqon yolları yalnız bir-birinə paralel taxta dayaqlardan ibarət olsa da, daha çətin yollarda sürətlərini artırmaq üçün atların onları ağır yükləri ilə birlikdə çəkməsinə icazə verdilər.",science/technology,travel,"SENTENCE:
+ Vaqon yolları yalnız bir-birinə paralel taxta dayaqlardan ibarət olsa da, daha çətin yollarda sürətlərini artırmaq üçün atların onları ağır yükləri ilə birlikdə çəkməsinə icazə verdilər. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+" Təbiətdə, təbii formada kəşf edilən və primitiv alətlərlə nisbətən daha asan çıxarıla bilən qızıl, gümüş və mis kimi əsas kimyəvi elementlər haqqında insanların qədim dövrlərdən bəri məlumat var.",science/technology,travel,"SENTENCE:
+  Təbiətdə, təbii formada kəşf edilən və primitiv alətlərlə nisbətən daha asan çıxarıla bilən qızıl, gümüş və mis kimi əsas kimyəvi elementlər haqqında insanların qədim dövrlərdən bəri məlumat var. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Dünyanı əhəmiyyətli dərəcədə dəyişən çarxın bizə qazandırdığı ən böyük nailiyyət daha asan və sürətli nəqliyyatdır.,science/technology,travel,"SENTENCE:
+ Dünyanı əhəmiyyətli dərəcədə dəyişən çarxın bizə qazandırdığı ən böyük nailiyyət daha asan və sürətli nəqliyyatdır. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Bu, şəklin bütün ekranı tutduğundan əmin olmaq üçündür və overskan adlanır.",science/technology,travel,"SENTENCE:
+ Bu, şəklin bütün ekranı tutduğundan əmin olmaq üçündür və overskan adlanır. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"""U-boats"" adlanan sualtı qayıqlara sahib almanlar naviqasiya və sualtı qayıqların idarə edilməsi işində peşəkar idilər.",science/technology,travel,"SENTENCE:
+ ""U-boats"" adlanan sualtı qayıqlara sahib almanlar naviqasiya və sualtı qayıqların idarə edilməsi işində peşəkar idilər. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Onun kimyəvi vəziyyəti fiziki vəziyyətinin dəyişməsindən asılı olmadan eyni şəkildə qalır.,science/technology,travel,"SENTENCE:
+ Onun kimyəvi vəziyyəti fiziki vəziyyətinin dəyişməsindən asılı olmadan eyni şəkildə qalır. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Səth gərginliyinin yaranma səbəbi, suyun üstündəki molekulların bir-birlərinə hava molekullarının onlara göstərdiyindən daha güclü təsir göstərməsidir.",science/technology,travel,"SENTENCE:
+ Səth gərginliyinin yaranma səbəbi, suyun üstündəki molekulların bir-birlərinə hava molekullarının onlara göstərdiyindən daha güclü təsir göstərməsidir. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Filmi DVD formata çevirirkən ən çox qarşılaşdığımız problemlərdən biri overskandır.,science/technology,entertainment,"SENTENCE:
+ Filmi DVD formata çevirirkən ən çox qarşılaşdığımız problemlərdən biri overskandır. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Xüsusilə də mikro-ifadələri müvafiq şəkildə şərh edərək, birinin yalan danışıb-danışmadığının anlaşıla biləcəyi iddia edilirdi.",science/technology,travel,"SENTENCE:
+ Xüsusilə də mikro-ifadələri müvafiq şəkildə şərh edərək, birinin yalan danışıb-danışmadığının anlaşıla biləcəyi iddia edilirdi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Qızıl istənilən formaya salına bilər. O kiçik şəkildə yuvarlana bilər.,science/technology,travel,"SENTENCE:
+ Qızıl istənilən formaya salına bilər. O kiçik şəkildə yuvarlana bilər. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Bir neçə ev kompüteri və video oyunlarına uyğun proqram təminatlarında quraşdırıldıqları üçün Sİ sistemindən artıq, iqtisadiyyatda, tibbdə, mühəndislikdə və hərbi sahələrdə tez-tez istifadə olunur.",science/technology,entertainment,"SENTENCE:
+ Bir neçə ev kompüteri və video oyunlarına uyğun proqram təminatlarında quraşdırıldıqları üçün Sİ sistemindən artıq, iqtisadiyyatda, tibbdə, mühəndislikdə və hərbi sahələrdə tez-tez istifadə olunur. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Hazırda o hələ də istehsal olunur, amma daha da əhəmiyyətlisi odur ki, onun tərəflər arasındakı nisbəti rəqəmsal kameranın görüntü sensoru formatlarında tətbiq olunur.",science/technology,travel,"SENTENCE:
+ Hazırda o hələ də istehsal olunur, amma daha da əhəmiyyətlisi odur ki, onun tərəflər arasındakı nisbəti rəqəmsal kameranın görüntü sensoru formatlarında tətbiq olunur. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ən çox istismar edilən və əksər hallarda ələ salınan üçlüklər qaydası, bir şəklin müəyyən sıra mərhələsini saxlamaqla, dinamizm yaradan sadə bir qaydadır.",science/technology,travel,"SENTENCE:
+ Ən çox istismar edilən və əksər hallarda ələ salınan üçlüklər qaydası, bir şəklin müəyyən sıra mərhələsini saxlamaqla, dinamizm yaradan sadə bir qaydadır. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Artıq geniş yayılmış nəzəriyyə kimi bu, təkcə bəzi dinozavrlarda lələklərin olduğunu sübut etmir, həmçinin fosillərin rəng və üç ölçülü qrafika kimi məlumatları təmin edə bilməcəyək detalları təmin edir.",science/technology,travel,"SENTENCE:
+ Artıq geniş yayılmış nəzəriyyə kimi bu, təkcə bəzi dinozavrlarda lələklərin olduğunu sübut etmir, həmçinin fosillərin rəng və üç ölçülü qrafika kimi məlumatları təmin edə bilməcəyək detalları təmin edir. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+İonun cazibə qüvvəsi bizə nə cür təsir göstərər? Əgər İonun səthində dayansaq Dünyada olduğundan daha yüngül olarıq.,science/technology,travel,"SENTENCE:
+ İonun cazibə qüvvəsi bizə nə cür təsir göstərər? Əgər İonun səthində dayansaq Dünyada olduğundan daha yüngül olarıq. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"FAA- iddia edir ki, NextGen sistemi təyyarələrə daha qısa marşrutlarda uçmağa imkan verərək milyonlarla qallon yanacağa qənaət ediləcək və karbon emissiyası azalacaq.",science/technology,travel,"SENTENCE:
+ FAA- iddia edir ki, NextGen sistemi təyyarələrə daha qısa marşrutlarda uçmağa imkan verərək milyonlarla qallon yanacağa qənaət ediləcək və karbon emissiyası azalacaq. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Nevrobioloji məlumatlar, biliyin tədqiq edilməsinə nəzəri bir yanaşa üçün fiziki sübutlar təmin edir. Bu səbəblə də tədqiqat sahəsini kiçildərək daha dəqiq bir formaya gətirir.",science/technology,entertainment,"SENTENCE:
+ Nevrobioloji məlumatlar, biliyin tədqiq edilməsinə nəzəri bir yanaşa üçün fiziki sübutlar təmin edir. Bu səbəblə də tədqiqat sahəsini kiçildərək daha dəqiq bir formaya gətirir. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Özünün 2 saatlıq nitqində o bu gün Apple-ın telefonu yenidən ixtira edəcəyini və yenidən tarix yazacaqlarını bildirdi.,science/technology,entertainment,"SENTENCE:
+ Özünün 2 saatlıq nitqində o bu gün Apple-ın telefonu yenidən ixtira edəcəyini və yenidən tarix yazacaqlarını bildirdi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Böyüdücü linzaların çatışmazlığı ondadır ki, fokus məsafəsi diapazonuna nail olmaq üçün tələb olunan fokus mürəkkəbliyi və obyektivdəki elementlərinin sayı, əsas linzalardan daha çoxdur.",science/technology,travel,"SENTENCE:
+ Böyüdücü linzaların çatışmazlığı ondadır ki, fokus məsafəsi diapazonuna nail olmaq üçün tələb olunan fokus mürəkkəbliyi və obyektivdəki elementlərinin sayı, əsas linzalardan daha çoxdur. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Televizorun pultuna oxşayan kontroller üçölçülü boşluqda vəziyyətin dəqiq ölçülməsi məqsədilə istifadəçinin televizoruna yaxın 2 sensordan istifadə edir.,science/technology,travel,"SENTENCE:
+ Televizorun pultuna oxşayan kontroller üçölçülü boşluqda vəziyyətin dəqiq ölçülməsi məqsədilə istifadəçinin televizoruna yaxın 2 sensordan istifadə edir. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Alimlər bu heyvanın tüklərinin alt tərəfinin solğun və ya krem rəngində olduğunu, üst tərəfinin isə şabalıdı-qəhvəyi göründüyünü dedilər.",science/technology,travel,"SENTENCE:
+ Alimlər bu heyvanın tüklərinin alt tərəfinin solğun və ya krem rəngində olduğunu, üst tərəfinin isə şabalıdı-qəhvəyi göründüyünü dedilər. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Universitet tədqiqatçılarının dediklərinə görə, hər iki komponent bir-biri ilə reaksiyaya girərək böyrəklərin funksiyasını itirməsinə səbəb ola bilən kristallar yaradır.",science/technology,N/A,"SENTENCE:
+ Universitet tədqiqatçılarının dediklərinə görə, hər iki komponent bir-biri ilə reaksiyaya girərək böyrəklərin funksiyasını itirməsinə səbəb ola bilən kristallar yaradır. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: education education</s>"
+Bu 35 mm neqativdən (3136 mm2 864-ə qarşı) demək olar ki dörd dəfə daha artıq əks etmə qabiliyyəti təmin edir.,science/technology,entertainment,"SENTENCE:
+ Bu 35 mm neqativdən (3136 mm2 864-ə qarşı) demək olar ki dörd dəfə daha artıq əks etmə qabiliyyəti təmin edir. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Avropa və geniş diapazonlu peyk antenasına bağlanan sualtı optik kabellər sayəsində, Qrenlandiya əhalisinin 93%-i internetə qoşulma imkanına malikdir.",science/technology,travel,"SENTENCE:
+ Avropa və geniş diapazonlu peyk antenasına bağlanan sualtı optik kabellər sayəsində, Qrenlandiya əhalisinin 93%-i internetə qoşulma imkanına malikdir. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Bu kateqoriyadakı ən məşhur tətbiqlərdən biri, istənilən dil verilənlərini endirdikdən sonra avtonom rejimdə tərcümə imkanı yaradan Google Tərcümə tətbiqidir.",science/technology,travel,"SENTENCE:
+ Bu kateqoriyadakı ən məşhur tətbiqlərdən biri, istənilən dil verilənlərini endirdikdən sonra avtonom rejimdə tərcümə imkanı yaradan Google Tərcümə tətbiqidir. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Onun molekulyar forması, qaz, maye və ya bərk halda eynidir.",science/technology,travel,"SENTENCE:
+ Onun molekulyar forması, qaz, maye və ya bərk halda eynidir. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Video-qeydlərdən istifadə, bir neçə milisaniyə çəkən mikro-ifadələr, üz hərəkətlərinin açıqlanmasında əhəmiyyətli tapıntılara səbəb oldu.",science/technology,entertainment,"SENTENCE:
+ Video-qeydlərdən istifadə, bir neçə milisaniyə çəkən mikro-ifadələr, üz hərəkətlərinin açıqlanmasında əhəmiyyətli tapıntılara səbəb oldu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Min illərdir insanlar linzalar hazırlayır və onlardan böyüdücü olaraq istifadə edirlər.,science/technology,travel,"SENTENCE:
+ Min illərdir insanlar linzalar hazırlayır və onlardan böyüdücü olaraq istifadə edirlər. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Bununla belə, əslində bu sadəcə bir eksperiment deyil, eksperiment bir və ya daha çox ehtimal fərziyyəsini aradan qaldırmaq üçün istifadə olunan sınaqdır, suallar vermək və müşahidələr aparmaq da elmi tədqiqatın bir hissəsidir.",science/technology,travel,"SENTENCE:
+ Bununla belə, əslində bu sadəcə bir eksperiment deyil, eksperiment bir və ya daha çox ehtimal fərziyyəsini aradan qaldırmaq üçün istifadə olunan sınaqdır, suallar vermək və müşahidələr aparmaq da elmi tədqiqatın bir hissəsidir. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Zaman keçdikcə taxta çarxlar polad çarxlarla əvəz olundu və ilk dəfə 1767-ci ildə tam polad relslər bazara çıxarıldı.,science/technology,travel,"SENTENCE:
+ Zaman keçdikcə taxta çarxlar polad çarxlarla əvəz olundu və ilk dəfə 1767-ci ildə tam polad relslər bazara çıxarıldı. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Kartların əksəriyyəti istənilən yerlə əlaqə saxlamaq üçün əlverişli olsa da, onlardan bəziləri bir sıra ölkələrə müvafiq zəngetmə səviyyəsi təmin etməkdə peşəkarlaşıb.",science/technology,travel,"SENTENCE:
+ Kartların əksəriyyəti istənilən yerlə əlaqə saxlamaq üçün əlverişli olsa da, onlardan bəziləri bir sıra ölkələrə müvafiq zəngetmə səviyyəsi təmin etməkdə peşəkarlaşıb. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ən müasir tədqiqat teleskoplarının əksəriyyəti, əlverişli atmosfer şəraitinə sahib uzaq bölgələrdə yerləşən həddən artıq nəhəng qurğulardır.",science/technology,travel,"SENTENCE:
+ Ən müasir tədqiqat teleskoplarının əksəriyyəti, əlverişli atmosfer şəraitinə sahib uzaq bölgələrdə yerləşən həddən artıq nəhəng qurğulardır. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Suya polad iynə atsanız, iynə səth gərginliyi səbəbindən suyun üzərində üzməyə başlayacaq.",science/technology,travel,"SENTENCE:
+ Suya polad iynə atsanız, iynə səth gərginliyi səbəbindən suyun üzərində üzməyə başlayacaq. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"35 mm-lik format bir az çaşdırıcı səslənsə də, əslində 36 mm en, 24 mm isə hündürlük deməkdir.",science/technology,entertainment,"SENTENCE:
+ 35 mm-lik format bir az çaşdırıcı səslənsə də, əslində 36 mm en, 24 mm isə hündürlük deməkdir. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Hüceyrələr canlıların tədqiq edilməsi üçün o qədər əsas və kritikdir ki, onları ""həyatın təməl daşları"" adlandırırlar.",science/technology,travel,"SENTENCE:
+ Hüceyrələr canlıların tədqiq edilməsi üçün o qədər əsas və kritikdir ki, onları ""həyatın təməl daşları"" adlandırırlar. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Siyasi senzura və kommersiya məqsədli IP geofiltrasiyasını ötüşdürmənin ən ideal yolu, şəxsi VPN (virtual şəxsi şəbəkə) provayderləridir.",science/technology,travel,"SENTENCE:
+ Siyasi senzura və kommersiya məqsədli IP geofiltrasiyasını ötüşdürmənin ən ideal yolu, şəxsi VPN (virtual şəxsi şəbəkə) provayderləridir. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Daha öncə kosmik məntəqəyə çatma missiyası zamanı giroskop sıradan çıxsa da, açıq kosmosda işin sonuna qədər stansiya öz istiqamətini saxlaya bildi.",science/technology,travel,"SENTENCE:
+ Daha öncə kosmik məntəqəyə çatma missiyası zamanı giroskop sıradan çıxsa da, açıq kosmosda işin sonuna qədər stansiya öz istiqamətini saxlaya bildi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Məntiqi təfəkkür ilə bağlı bu növ düşüncə tərzinə sahib olan adamların nümunələri xatırlamaq, problemləri həll etmək və elmi test nümunələri üzərində işləmək bacarıqları yüksək olur.",science/technology,N/A,"SENTENCE:
+ Məntiqi təfəkkür ilə bağlı bu növ düşüncə tərzinə sahib olan adamların nümunələri xatırlamaq, problemləri həll etmək və elmi test nümunələri üzərində işləmək bacarıqları yüksək olur. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: education education</s>"
+"Oselotlar kiçik heyvanlarla, məs. meymunlar, ilanlar, gəmiricilər, və quşlarla qidalanır. Demək olar ki, oselotların ovladığı bütün heyvanlar ondan daha kiçikdir.",science/technology,travel,"SENTENCE:
+ Oselotlar kiçik heyvanlarla, məs. meymunlar, ilanlar, gəmiricilər, və quşlarla qidalanır. Demək olar ki, oselotların ovladığı bütün heyvanlar ondan daha kiçikdir. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Bəzi medium formatlı film kameralarının istifadə etdiyi format ölçüsü 6x6 sm-dir, daha dəqiq desək onlar 56x56 mm ölçüdə ağ-qara formatında olur.",science/technology,entertainment,"SENTENCE:
+ Bəzi medium formatlı film kameralarının istifadə etdiyi format ölçüsü 6x6 sm-dir, daha dəqiq desək onlar 56x56 mm ölçüdə ağ-qara formatında olur. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Səyahətçilərə tövsiyə olunur ki, kəskin hava şəraitinin onların səyahətlərini planladıqları şəhərlər üçün hansı risklər yarada biləcəyindən məlumatlı olsunlar.",travel,travel,"SENTENCE:
+ Səyahətçilərə tövsiyə olunur ki, kəskin hava şəraitinin onların səyahətlərini planladıqları şəhərlər üçün hansı risklər yarada biləcəyindən məlumatlı olsunlar. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Çayın kənarında yerləşən rayonlararası avtovağzaldan gün boyu avtobuslar yola çıxır, amma onların bir çoxu, xüsusilə də şərq istiqamətində gedənlər və Cakar/Bumtanq avtobusu 06:30 və 07:30 arasında yola düşür.",travel,travel,"SENTENCE:
+ Çayın kənarında yerləşən rayonlararası avtovağzaldan gün boyu avtobuslar yola çıxır, amma onların bir çoxu, xüsusilə də şərq istiqamətində gedənlər və Cakar/Bumtanq avtobusu 06:30 və 07:30 arasında yola düşür. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Onlar atı minicilərinin stabilliyini daha yaxşı təmin edir, lakin minicinin ayaqlarının onların arasında sıxışıb qalma təhlükəsi var.",travel,travel,"SENTENCE:
+ Onlar atı minicilərinin stabilliyini daha yaxşı təmin edir, lakin minicinin ayaqlarının onların arasında sıxışıb qalma təhlükəsi var. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Müxtəlif Baltikyanı dəniz səyahətlərinin bir çoxunun proqramında Rusiyanın şəhəri Sankt-Peterburqda qalma müddəti çoxdur.,travel,travel,"SENTENCE:
+ Müxtəlif Baltikyanı dəniz səyahətlərinin bir çoxunun proqramında Rusiyanın şəhəri Sankt-Peterburqda qalma müddəti çoxdur. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Burada səyahətçilərin oğurluq etməsi, qaydaları pozması, qanunsuz bazara daxil olması, dilənçilik etməsi və ya öz mənfəəti üçün digər insanları istismar etməsi nəzərdə tutulmur.",travel,travel,"SENTENCE:
+ Burada səyahətçilərin oğurluq etməsi, qaydaları pozması, qanunsuz bazara daxil olması, dilənçilik etməsi və ya öz mənfəəti üçün digər insanları istismar etməsi nəzərdə tutulmur. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Bir yerə səyahət etməzdən öncə, yaxud da səyahət əsnasında bəzi amilləri diqqətdən qaçırmamalısınız.",travel,travel,"SENTENCE:
+ Bir yerə səyahət etməzdən öncə, yaxud da səyahət əsnasında bəzi amilləri diqqətdən qaçırmamalısınız. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Günün istisində, səyyahlar su (ya da başqa şeylər) illüziyasına qapılaraq ilğımlar yaşaya bilər.",travel,travel,"SENTENCE:
+ Günün istisində, səyyahlar su (ya da başqa şeylər) illüziyasına qapılaraq ilğımlar yaşaya bilər. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Uşaqları ilə birlikdə gələn ailələrə çox az təsadüf edilir, amma bəzi mehmanxanalar onlar üçün xüsusi otaqlar ayırır.",travel,travel,"SENTENCE:
+ Uşaqları ilə birlikdə gələn ailələrə çox az təsadüf edilir, amma bəzi mehmanxanalar onlar üçün xüsusi otaqlar ayırır. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Luarı vadisində və ya Reyn vadisində qəsrləri ziyarət etmək, yaxud da Dunay çayının üstündə yerləşən şəhər gəzintisinə, ya da Eri kanalı boyu qayıq gəzintisinə çıxmaq bunlara nümunə göstərilə bilər.",travel,travel,"SENTENCE:
+ Luarı vadisində və ya Reyn vadisində qəsrləri ziyarət etmək, yaxud da Dunay çayının üstündə yerləşən şəhər gəzintisinə, ya da Eri kanalı boyu qayıq gəzintisinə çıxmaq bunlara nümunə göstərilə bilər. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Sizin üçün oxşar səyahətləri bir neçə dəfə bron etmiş bir agentə müraciət etməyiniz daha yaxşı olar.,travel,travel,"SENTENCE:
+ Sizin üçün oxşar səyahətləri bir neçə dəfə bron etmiş bir agentə müraciət etməyiniz daha yaxşı olar. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"""Couchsurfing"", kompüter proqramisti Keysi Fenton İslandiyaya ucuz biletlə uçduqdan və orada qalmağa yer tapmadıqdan sonra 2004-cü ilin yanvar ayında yaradılıb.",travel,travel,"SENTENCE:
+ ""Couchsurfing"", kompüter proqramisti Keysi Fenton İslandiyaya ucuz biletlə uçduqdan və orada qalmağa yer tapmadıqdan sonra 2004-cü ilin yanvar ayında yaradılıb. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Tələbə vizasının alınması üçün tələblər və müraciət proseduru adi turist vizası və iş vizasının alınması prosedurlarından fərqlənir.,travel,travel,"SENTENCE:
+ Tələbə vizasının alınması üçün tələblər və müraciət proseduru adi turist vizası və iş vizasının alınması prosedurlarından fərqlənir. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Hər bir ölkə həm də maşında daşınması tələb olunan təcili yardım vasitələri ilə əlaqəli özünəməxsus qanunlara malikdir.,travel,travel,"SENTENCE:
+ Hər bir ölkə həm də maşında daşınması tələb olunan təcili yardım vasitələri ilə əlaqəli özünəməxsus qanunlara malikdir. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Bir çox agentliklər normal rezervasiyaların əksəriyyətini öhdəsinə götürmək istəsələr də, bu agentliklərin çoxu müəyyən növ səfərlər, büdcə aralığı və ya gediş nöqtələri ilə əlaqəli məsələlərdə təcrübə qazanıblar.",travel,travel,"SENTENCE:
+ Bir çox agentliklər normal rezervasiyaların əksəriyyətini öhdəsinə götürmək istəsələr də, bu agentliklərin çoxu müəyyən növ səfərlər, büdcə aralığı və ya gediş nöqtələri ilə əlaqəli məsələlərdə təcrübə qazanıblar. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Səyahətçilərin, öz bölgələrində görmədikləri heyvan parazitləri ilə üzləşəmə ehtimalı var.",travel,travel,"SENTENCE:
+ Səyahətçilərin, öz bölgələrində görmədikləri heyvan parazitləri ilə üzləşəmə ehtimalı var. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Bundan əlavə, şimalda, məşhur Marian mənzərələrinin olduğu yerdə Müqəddəs Fatima Məqbərəsini (Məbəd) ziyarət edə bilərsiniz.",travel,travel,"SENTENCE:
+ Bundan əlavə, şimalda, məşhur Marian mənzərələrinin olduğu yerdə Müqəddəs Fatima Məqbərəsini (Məbəd) ziyarət edə bilərsiniz. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Qomanın ətrafında dolanmaq üçün boda-boda (motosiklet taksi) deyilən nəqliyyat vasitəsindən istifadə edə bilərsiniz. Qısa məsafəyə getmək istəsəniz, taksinin normal (yerli) qiyməti ~500 Konqo Frankıdır.",travel,travel,"SENTENCE:
+ Qomanın ətrafında dolanmaq üçün boda-boda (motosiklet taksi) deyilən nəqliyyat vasitəsindən istifadə edə bilərsiniz. Qısa məsafəyə getmək istəsəniz, taksinin normal (yerli) qiyməti ~500 Konqo Frankıdır. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Açıq hava aktivliklərindən zövq alanlar Dənizdən Səmaya doğru uzanan dəhlizdə mütləq gəzintiyə çıxmalıdırlar.,travel,travel,"SENTENCE:
+ Açıq hava aktivliklərindən zövq alanlar Dənizdən Səmaya doğru uzanan dəhlizdə mütləq gəzintiyə çıxmalıdırlar. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Safari gəzintisi (həmçinin, ""təbiət seyri"", ""safari ekskursiyası"" və ya ""yürüş"" olaraq da adlandırılır) bir neçə saatlıq və ya bir neçə günlük piyada səyahətdən ibarətdir.",travel,travel,"SENTENCE:
+ Safari gəzintisi (həmçinin, ""təbiət seyri"", ""safari ekskursiyası"" və ya ""yürüş"" olaraq da adlandırılır) bir neçə saatlıq və ya bir neçə günlük piyada səyahətdən ibarətdir. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Buranı tez keçməyin tək yolu onu yoxlanılmış baqaj kimi göndərmək idi. Aviaşirkət qaydalarına görə içəri girdiyiniz yerə gətirdiyiniz baqaj sərnişinsiz göndərilə bilməz.,travel,travel,"SENTENCE:
+ Buranı tez keçməyin tək yolu onu yoxlanılmış baqaj kimi göndərmək idi. Aviaşirkət qaydalarına görə içəri girdiyiniz yerə gətirdiyiniz baqaj sərnişinsiz göndərilə bilməz. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Mövcud yükü yüngülləşdirmək üçün alınacaq 1300 vaqona 300-ü də əlavə olunacaq.,travel,travel,"SENTENCE:
+ Mövcud yükü yüngülləşdirmək üçün alınacaq 1300 vaqona 300-ü də əlavə olunacaq. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Balaca uşaqları olan ailələrin hazırlaşması daha çox çəkə bilər, lakin körpələr və məktəbəqədər azyaşlı uşaqlar ilə çox asanlıqla açıq havada bir gün keçirmək mümkündür.",travel,travel,"SENTENCE:
+ Balaca uşaqları olan ailələrin hazırlaşması daha çox çəkə bilər, lakin körpələr və məktəbəqədər azyaşlı uşaqlar ilə çox asanlıqla açıq havada bir gün keçirmək mümkündür. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Qar, buz və donma ehtimalını, yüksək enliklərdə və dağ aşırımlarında avtomobildən istifadə edəcək hər kəs nəzərə almalıdır.",travel,travel,"SENTENCE:
+ Qar, buz və donma ehtimalını, yüksək enliklərdə və dağ aşırımlarında avtomobildən istifadə edəcək hər kəs nəzərə almalıdır. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Bu gün Timbuktu populyarlığı ilə turizmin cazibə mərkəzinə çevrilsə də və hətta bir hava limanına sahib olsa da, kasıb bir şəhər hesab olunur.",travel,travel,"SENTENCE:
+ Bu gün Timbuktu populyarlığı ilə turizmin cazibə mərkəzinə çevrilsə də və hətta bir hava limanına sahib olsa da, kasıb bir şəhər hesab olunur. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Qar çovğunu baş verdikdə, qısa zaman ərzində qarın içində batıb qala biləcəyiniz qədər qar yağa bilər.",travel,travel,"SENTENCE:
+ Qar çovğunu baş verdikdə, qısa zaman ərzində qarın içində batıb qala biləcəyiniz qədər qar yağa bilər. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Cənub Yarımkürəsində dünya ətrafında tam bir dövrə vuraraq uçmaq istəsəniz, okeanı keçən marşrutların olmamasına görə uçuşlar və destinasiyalar məhdud saydadır.",travel,travel,"SENTENCE:
+ Cənub Yarımkürəsində dünya ətrafında tam bir dövrə vuraraq uçmaq istəsəniz, okeanı keçən marşrutların olmamasına görə uçuşlar və destinasiyalar məhdud saydadır. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Emirates, Etihad Airways, Qatar Airways və Türk Hava Yolları kimi aviaşirkətlər, Afrikadakı xidmətlərini əhəmiyyətli dərəcədə artırdıqları üçün Afrikanın əksər böyük şəhərlərinə, digər Avropa aviaşirkətlərindən daha müvafiq qiymətə əlaqələr təklif edir.",travel,travel,"SENTENCE:
+ Emirates, Etihad Airways, Qatar Airways və Türk Hava Yolları kimi aviaşirkətlər, Afrikadakı xidmətlərini əhəmiyyətli dərəcədə artırdıqları üçün Afrikanın əksər böyük şəhərlərinə, digər Avropa aviaşirkətlərindən daha müvafiq qiymətə əlaqələr təklif edir. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Əlavə heç bir maşının saxlanmasına icazə verilmir, yerüstü qatarlar Vembleydə dayanmadan yoluna davam edəcək, yol üstündə heç bir avtomobil dayanacağı, parklar və gediş-gəliş vasitələri yoxdur.",travel,travel,"SENTENCE:
+ Əlavə heç bir maşının saxlanmasına icazə verilmir, yerüstü qatarlar Vembleydə dayanmadan yoluna davam edəcək, yol üstündə heç bir avtomobil dayanacağı, parklar və gediş-gəliş vasitələri yoxdur. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Bir qayda olaraq, hər hansı xarici ölkədə uzun bir müddət qalmaq üçün əvvəldən viza almalısınız.",travel,travel,"SENTENCE:
+ Bir qayda olaraq, hər hansı xarici ölkədə uzun bir müddət qalmaq üçün əvvəldən viza almalısınız. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Həm MetroPlus, həm də Metro vaqonları hər qatarda olur; MetroPlus vaqonları həmişə Keyp-Tauna ən yaxın qatarın sonunda olur.",travel,travel,"SENTENCE:
+ Həm MetroPlus, həm də Metro vaqonları hər qatarda olur; MetroPlus vaqonları həmişə Keyp-Tauna ən yaxın qatarın sonunda olur. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Cəmiyyətin üzvü olan hər kəs ictimai nəqliyyatdan istifadə etdiyi halda demək olar ki, hər kəs elə ictimai nəqliyyatdan şikayət edir.",travel,travel,"SENTENCE:
+ Cəmiyyətin üzvü olan hər kəs ictimai nəqliyyatdan istifadə etdiyi halda demək olar ki, hər kəs elə ictimai nəqliyyatdan şikayət edir. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Bölgələrdə məskunlaşan əhalinin sayı az olduğundan işıq çirklənməsi problemi yoxdur, buna görə də ulduzları izləməkdən zövq alacaqsınız.",travel,travel,"SENTENCE:
+ Bölgələrdə məskunlaşan əhalinin sayı az olduğundan işıq çirklənməsi problemi yoxdur, buna görə də ulduzları izləməkdən zövq alacaqsınız. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Əslində, viza tələbləri və məsrəfləri dövlətdən-dövlətə fərqlənməklə yanaşı, həm də sizin ölkənizdən asılıdır.",travel,travel,"SENTENCE:
+ Əslində, viza tələbləri və məsrəfləri dövlətdən-dövlətə fərqlənməklə yanaşı, həm də sizin ölkənizdən asılıdır. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ümumi desək, biznes və birinci sinif birbaşa uçuşlarda A-dan B-yə qədər heç bir yerdə endirim axtarmağın mənası yoxdur.",travel,travel,"SENTENCE:
+ Ümumi desək, biznes və birinci sinif birbaşa uçuşlarda A-dan B-yə qədər heç bir yerdə endirim axtarmağın mənası yoxdur. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Bumeranq atma kimi məşhur vərdişə sahib olmaq bir çox turistin arzusudur.,travel,travel,"SENTENCE:
+ Bumeranq atma kimi məşhur vərdişə sahib olmaq bir çox turistin arzusudur. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Əgər Cənubi Sakit Okeanı və Cənubi Amerikanın qərb sahillərini ötüb keçmək istəyirsinizsə, bu uçuş reysi sizin yeganə variantınız deyil. (aşağıdakılara baxın)",travel,travel,"SENTENCE:
+ Əgər Cənubi Sakit Okeanı və Cənubi Amerikanın qərb sahillərini ötüb keçmək istəyirsinizsə, bu uçuş reysi sizin yeganə variantınız deyil. (aşağıdakılara baxın) 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"San-Fransisko bir çox otelləri, restoranları və elit konqres binaları ilə böyük bir turizm infrastrukturu yaradıb.",travel,travel,"SENTENCE:
+ San-Fransisko bir çox otelləri, restoranları və elit konqres binaları ilə böyük bir turizm infrastrukturu yaradıb. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Səyahət edərkən həm də könüllü işləmək fərq yaratmaq üçün əla yoldur, ancaq bu sadəcə sizin fədakarlıq edəcəyinizi göstərmir.",travel,travel,"SENTENCE:
+ Səyahət edərkən həm də könüllü işləmək fərq yaratmaq üçün əla yoldur, ancaq bu sadəcə sizin fədakarlıq edəcəyinizi göstərmir. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"İnsanlar, evə qayıdan səyyahların səbr və anlayışa ehtiyacları olduğunu təxmin etməyə bilərlər.",travel,travel,"SENTENCE:
+ İnsanlar, evə qayıdan səyyahların səbr və anlayışa ehtiyacları olduğunu təxmin etməyə bilərlər. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Afrikadan başqa digər bütün yerlərə səyahət etmək üçün əlavə viza xərci, uçuş vergisi, nəqliyyat vasitələri və s. üçün olan ödəmələri də nəzərə alın.",travel,travel,"SENTENCE:
+ Afrikadan başqa digər bütün yerlərə səyahət etmək üçün əlavə viza xərci, uçuş vergisi, nəqliyyat vasitələri və s. üçün olan ödəmələri də nəzərə alın. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Bəzi Bişkek sakinlərinin fikrincə qanunsuzluq hallarının təqsirkarları cənubdan gəlmiş etirazçılardır.,politics,travel,"SENTENCE:
+ Bəzi Bişkek sakinlərinin fikrincə qanunsuzluq hallarının təqsirkarları cənubdan gəlmiş etirazçılardır. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+1830-cu illərdə baş vermiş Belçika İnqilabından sonra Belçikaya aid olan hazırkı ərazi vaxtilə Lüksemburqun olub.,politics,travel,"SENTENCE:
+ 1830-cu illərdə baş vermiş Belçika İnqilabından sonra Belçikaya aid olan hazırkı ərazi vaxtilə Lüksemburqun olub. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"1988-ci ildən sonra seçki sandıqları şəffaf olmalıdır ki, həm seçicilər, həm də müşahidəçilər səsvermə başlayarkən sandığın boş olduğunu, sonra isə lazımi qaydada sayılan, qanuni seçki bülletenlərindən başqa əlavə heç bir zərfin sandığa atılmadığını görə bilsinlər.",politics,travel,"SENTENCE:
+ 1988-ci ildən sonra seçki sandıqları şəffaf olmalıdır ki, həm seçicilər, həm də müşahidəçilər səsvermə başlayarkən sandığın boş olduğunu, sonra isə lazımi qaydada sayılan, qanuni seçki bülletenlərindən başqa əlavə heç bir zərfin sandığa atılmadığını görə bilsinlər. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Baş Nazir vəzifəsini müvəqqəti icra edən Nazir Culiya Qillard 2010-cu ilin federal seçki kampaniyası dövründə iddia etdi ki, o, Avstraliyanın Kraliça II Yelizavetanın hakimiyyəti dövründə respublika olacağına inanır.",politics,travel,"SENTENCE:
+ Baş Nazir vəzifəsini müvəqqəti icra edən Nazir Culiya Qillard 2010-cu ilin federal seçki kampaniyası dövründə iddia etdi ki, o, Avstraliyanın Kraliça II Yelizavetanın hakimiyyəti dövründə respublika olacağına inanır. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Vəziyyəti qaydasına salmaq üçün İrlandiya hökuməti, parlament qanunlarının təcili tətbiq edilməli olduğunu vurğuladı.",politics,travel,"SENTENCE:
+ Vəziyyəti qaydasına salmaq üçün İrlandiya hökuməti, parlament qanunlarının təcili tətbiq edilməli olduğunu vurğuladı. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Ermənistan-Azərbaycan münasibətləri region ilə əlaqəli aparılan diplomatik mübahisələr nəticəsində pisləşməyə davam edir.,politics,travel,"SENTENCE:
+ Ermənistan-Azərbaycan münasibətləri region ilə əlaqəli aparılan diplomatik mübahisələr nəticəsində pisləşməyə davam edir. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Baş Nazir Stiven Harper Layihə İdarəetmə Ofisində (LIO) Yeni Demokratik Partiya (YDP) lideri Cek Layton ilə çərşənbə axşamı 25 dəqiqəlik iclasdan sonra ikinci oxunuşdan əvvəl hökumətin ""Təmiz Hava Aktını"" nəzərdən keçirilməsi üçün bütün partiyaların üzv olduğu komitəyə göndərməyi qəbul etdi.",politics,sports,"SENTENCE:
+ Baş Nazir Stiven Harper Layihə İdarəetmə Ofisində (LIO) Yeni Demokratik Partiya (YDP) lideri Cek Layton ilə çərşənbə axşamı 25 dəqiqəlik iclasdan sonra ikinci oxunuşdan əvvəl hökumətin ""Təmiz Hava Aktını"" nəzərdən keçirilməsi üçün bütün partiyaların üzv olduğu komitəyə göndərməyi qəbul etdi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Polşanın keçən ay saxta ticarətə qarşı mübarizə üzrə beynəlxalq müqaviləni imzalamasından sonra ölkədə etiraz aksiyaları başladı, bu isə Polşa hökumətinin hələlik müqaviləni imzalamamaq barədə qərar verməsi ilə nəticələndi.",politics,travel,"SENTENCE:
+ Polşanın keçən ay saxta ticarətə qarşı mübarizə üzrə beynəlxalq müqaviləni imzalamasından sonra ölkədə etiraz aksiyaları başladı, bu isə Polşa hökumətinin hələlik müqaviləni imzalamamaq barədə qərar verməsi ilə nəticələndi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Verilən tövsiyələri ölkənin siyasi vəziyyəti haqqında qısa xülasə kimi düşünmək olar.,politics,travel,"SENTENCE:
+ Verilən tövsiyələri ölkənin siyasi vəziyyəti haqqında qısa xülasə kimi düşünmək olar. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"O, 1976-cı il seçkilərində Karterin xarici siyasət üzrə məsləhətçisi idi, bundan sonra 1977-ci ildən 1981-ci ilə qədər Henri Kissincerdən sonra Milli Təhlükəsizlik üzrə Məsləhətçi (NSA) vəzifəsində fəaliyyət göstərdi.",politics,entertainment,"SENTENCE:
+ O, 1976-cı il seçkilərində Karterin xarici siyasət üzrə məsləhətçisi idi, bundan sonra 1977-ci ildən 1981-ci ilə qədər Henri Kissincerdən sonra Milli Təhlükəsizlik üzrə Məsləhətçi (NSA) vəzifəsində fəaliyyət göstərdi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Verilən məlumata görə, Türkiyə, Avropa ölkələrinin qəbul etməkdən boyun qaçırdığı yaxalanmış İŞİD döyüşçülərinin qorunmasını da öhdəsinə götürəcək.",politics,travel,"SENTENCE:
+ Verilən məlumata görə, Türkiyə, Avropa ölkələrinin qəbul etməkdən boyun qaçırdığı yaxalanmış İŞİD döyüşçülərinin qorunmasını da öhdəsinə götürəcək. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Bununla belə, Sovetlər İttifaqının Qızıl Ordusundan 800 000 əsgərin Riqa Sülh Sazişini, yəni Sovet-Polşa Qeyri-Aqressivlik Paktını və həm iki, həm də çox tərəfli şəkildə imzalanmış digər beynəlxalq sazişləri pozaraq, Polşanın şərq bölgələrini işğal etdikdən sonra Belarusiya və Ukraynaya daxil olaraq orada cəbhələr yaratması ilə bu planlar bir gecədə öz qüvvəsini itirmiş oldu.",politics,travel,"SENTENCE:
+ Bununla belə, Sovetlər İttifaqının Qızıl Ordusundan 800 000 əsgərin Riqa Sülh Sazişini, yəni Sovet-Polşa Qeyri-Aqressivlik Paktını və həm iki, həm də çox tərəfli şəkildə imzalanmış digər beynəlxalq sazişləri pozaraq, Polşanın şərq bölgələrini işğal etdikdən sonra Belarusiya və Ukraynaya daxil olaraq orada cəbhələr yaratması ilə bu planlar bir gecədə öz qüvvəsini itirmiş oldu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Prosesdən sonra HJR-3, tədqiqatları davam etdirmək üçün 2015 və ya 2016-cı illərdə növbəti seçilmiş qanunvericilik tərəfindən nəzərə alınacaq.",politics,N/A,"SENTENCE:
+ Prosesdən sonra HJR-3, tədqiqatları davam etdirmək üçün 2015 və ya 2016-cı illərdə növbəti seçilmiş qanunvericilik tərəfindən nəzərə alınacaq. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: education education</s>"
+Konqres tərəfindən 4 iyul tarixində qəbul edildikdən sonra Konqresin sədri Con Henkok və baş katib Çarlz Tomsonun imzaladığı qanunun əlyazması bir neçə bina aralıda yerləşən Con Dunlapın çapxanasına göndərildi.,politics,travel,"SENTENCE:
+ Konqres tərəfindən 4 iyul tarixində qəbul edildikdən sonra Konqresin sədri Con Henkok və baş katib Çarlz Tomsonun imzaladığı qanunun əlyazması bir neçə bina aralıda yerləşən Con Dunlapın çapxanasına göndərildi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Saat 11:00-dan dərhal sonra etirazçılar Uaytholldakı şimal vaqonunun hərəkətini kəsdilər.,politics,travel,"SENTENCE:
+ Saat 11:00-dan dərhal sonra etirazçılar Uaytholldakı şimal vaqonunun hərəkətini kəsdilər. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Bununla belə, Xruşovun verdiyi sözlər, 1956-cı ilin iyun ayında, işçilərin ərzaq qıtlığına və maaş kəsintilərinə qarşı çıxdığı Polşa qiyamlarının Kommunizmə qarşı ümumi bir etiraz aksiyasına çevrilməsi ilə sınaqdan keçmiş oldu.",politics,travel,"SENTENCE:
+ Bununla belə, Xruşovun verdiyi sözlər, 1956-cı ilin iyun ayında, işçilərin ərzaq qıtlığına və maaş kəsintilərinə qarşı çıxdığı Polşa qiyamlarının Kommunizmə qarşı ümumi bir etiraz aksiyasına çevrilməsi ilə sınaqdan keçmiş oldu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+" Soyuq müharibə, əsl səlahiyyətli ""ordularla"" Afrikadan Asiyaya, Əfqanıstan, Kuba və digər bir çox yerlərə qədər bütün döyüş bölgələrində növbəti 40 il davam etdi.",politics,travel,"SENTENCE:
+  Soyuq müharibə, əsl səlahiyyətli ""ordularla"" Afrikadan Asiyaya, Əfqanıstan, Kuba və digər bir çox yerlərə qədər bütün döyüş bölgələrində növbəti 40 il davam etdi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Keçən ay prezident aparaturasının komissiyası, ölkənin növbəti seçimlərə hazırlanması məqsədilə görülən tədbirlər paketinin bir hissəsi kimi əvvəlki MSK-nın (Müvəqqəti Seçki Komissiyası) istefasını tövsiyə etdi.",politics,N/A,"SENTENCE:
+ Keçən ay prezident aparaturasının komissiyası, ölkənin növbəti seçimlərə hazırlanması məqsədilə görülən tədbirlər paketinin bir hissəsi kimi əvvəlki MSK-nın (Müvəqqəti Seçki Komissiyası) istefasını tövsiyə etdi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: education education</s>"
+"Əhatə olunan digər məsələlər arasında, hər iki millət üçün də müqəddəs hesab olunan Qüdsün gələcəkdəki statusu və İordaniya Vadisi problemi də vardı.",politics,travel,"SENTENCE:
+ Əhatə olunan digər məsələlər arasında, hər iki millət üçün də müqəddəs hesab olunan Qüdsün gələcəkdəki statusu və İordaniya Vadisi problemi də vardı. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Həmçinin, onun dövlətlərarası vergi qanunvericiliyini və tarifləri etibarsız hesab etmə səlahiyyəti yoxdur.",politics,travel,"SENTENCE:
+ Həmçinin, onun dövlətlərarası vergi qanunvericiliyini və tarifləri etibarsız hesab etmə səlahiyyəti yoxdur. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Fransada seçki prosesi seçki qanunları ilə tam şəkildə tənzimlənir.,politics,travel,"SENTENCE:
+ Fransada seçki prosesi seçki qanunları ilə tam şəkildə tənzimlənir. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Buş, aralıq seçkilərdə bir həftəlik məğlubiyyətdən sonra auditoriyasına Asiyadakı ticarətin genişlənməsindən bəhs etdi.",politics,travel,"SENTENCE:
+ Buş, aralıq seçkilərdə bir həftəlik məğlubiyyətdən sonra auditoriyasına Asiyadakı ticarətin genişlənməsindən bəhs etdi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Bu blokada ötən iki əsrin bir neçə beynəlxalq sazişi ilə tənzimlənmiş beynəlxalq hüququn ümumilikdə qəbul edilmiş normalarını pozsa da, strategiya öz təsirini həyati əhəmiyyətli hərbi və sivil təminatları kəsərək göstərdi.",politics,travel,"SENTENCE:
+ Bu blokada ötən iki əsrin bir neçə beynəlxalq sazişi ilə tənzimlənmiş beynəlxalq hüququn ümumilikdə qəbul edilmiş normalarını pozsa da, strategiya öz təsirini həyati əhəmiyyətli hərbi və sivil təminatları kəsərək göstərdi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Siyasi danışıqlar uğurlu nəticə verməsə də, iqtisadi əlaqələr Moldovanın bu iki hissəsi arasında yenidən yaradıldı.",politics,travel,"SENTENCE:
+ Siyasi danışıqlar uğurlu nəticə verməsə də, iqtisadi əlaqələr Moldovanın bu iki hissəsi arasında yenidən yaradıldı. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"O, bu səlahiyyətli şəxslərin müşayiəti ilə Texas vətəndaşlarını əmin etdi ki, xalqın təhlükəsizliyini təmin etmək məqsədilə tədbirlər görülür.",politics,travel,"SENTENCE:
+ O, bu səlahiyyətli şəxslərin müşayiəti ilə Texas vətəndaşlarını əmin etdi ki, xalqın təhlükəsizliyini təmin etmək məqsədilə tədbirlər görülür. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Bərpaetmə səyləri ilə əlaqəli liberal tənqidlər diqqəti, bərpaetmə haqqında müqavilələrin ehtimal edilən Vaşinqton insayderləri ilə bağlanmasına yönəltdi.",politics,travel,"SENTENCE:
+ Bərpaetmə səyləri ilə əlaqəli liberal tənqidlər diqqəti, bərpaetmə haqqında müqavilələrin ehtimal edilən Vaşinqton insayderləri ilə bağlanmasına yönəltdi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"2010-cu ilin federal seçkilərində, seçki-qabağı anketdə iştirak edən 1400 insandan, Avstraliyanın respublika olmağına qarşı çıxanlar, 2008-ci ildən sonra 8% artıb.",politics,travel,"SENTENCE:
+ 2010-cu ilin federal seçkilərində, seçki-qabağı anketdə iştirak edən 1400 insandan, Avstraliyanın respublika olmağına qarşı çıxanlar, 2008-ci ildən sonra 8% artıb. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Siyasətçilər Əfqanıstan konstitusiyasında ikinci tura ehtiyac olmadığını göstərən kifayət qədər anlaşılmazlıq müəyyən etdiklərini dedilər.,politics,travel,"SENTENCE:
+ Siyasətçilər Əfqanıstan konstitusiyasında ikinci tura ehtiyac olmadığını göstərən kifayət qədər anlaşılmazlıq müəyyən etdiklərini dedilər. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Nəticələr açıqlandıqdan sonra Qinqriç Santorumu alqışladı, lakin Qinqriçin əleyhinə olan Ayovada onun adından neqativ reklam kampaniyası aparan Romni haqqında sərt fikirlər səsləndirdi.",politics,travel,"SENTENCE:
+ Nəticələr açıqlandıqdan sonra Qinqriç Santorumu alqışladı, lakin Qinqriçin əleyhinə olan Ayovada onun adından neqativ reklam kampaniyası aparan Romni haqqında sərt fikirlər səsləndirdi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Bu son dörd ildə Martellinin beşinci CEP-dir (Müvəqqəti Seçki Şurası).,politics,travel,"SENTENCE:
+ Bu son dörd ildə Martellinin beşinci CEP-dir (Müvəqqəti Seçki Şurası). 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Olimpiada oyunlarının qızıl medal qalibi sərbəst stil üzmədə 100 metrdən 200 metrə qədər və Yoldaşlıq Oyunlarında üç estafetdə üzməli idi, amma onun şikayətlərini nəzərə alaraq səhhətinin şübhəli olduğunu düşündülər.",sports,sports,"SENTENCE:
+ Olimpiada oyunlarının qızıl medal qalibi sərbəst stil üzmədə 100 metrdən 200 metrə qədər və Yoldaşlıq Oyunlarında üç estafetdə üzməli idi, amma onun şikayətlərini nəzərə alaraq səhhətinin şübhəli olduğunu düşündülər. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Saito vəfat etdiyi zaman həm keçmiş Olimpiya və Dünya çempionu, həm də Ümumyaponiya Cüdo Federasiyasının sədri idi.",sports,sports,"SENTENCE:
+ Saito vəfat etdiyi zaman həm keçmiş Olimpiya və Dünya çempionu, həm də Ümumyaponiya Cüdo Federasiyasının sədri idi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Bu gün Berlində idarə heyətinin keçirilən iclasında Beynəlxalq Olimpiya Komitəsi daxil ediləcək idman növlərinə səs verdi. Olimpiadalarda oynanılması nəzərdə tutulan digər beş idman növü arasından reqbi, daha dəqiq desək reqbi birliyi və qolf seçildi.",sports,sports,"SENTENCE:
+ Bu gün Berlində idarə heyətinin keçirilən iclasında Beynəlxalq Olimpiya Komitəsi daxil ediləcək idman növlərinə səs verdi. Olimpiadalarda oynanılması nəzərdə tutulan digər beş idman növü arasından reqbi, daha dəqiq desək reqbi birliyi və qolf seçildi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Dekabr ayında Las Kanyitasın polo sahələrində ilin ən böyük turniri baş tutur.,sports,sports,"SENTENCE:
+ Dekabr ayında Las Kanyitasın polo sahələrində ilin ən böyük turniri baş tutur. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Vidal, Katalanın paytaxt klubuna transfer edildikdən sonra komandası üçün 49 oyuna çıxıb.",sports,sports,"SENTENCE:
+ Vidal, Katalanın paytaxt klubuna transfer edildikdən sonra komandası üçün 49 oyuna çıxıb. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"İdmançıların performanslarını artırması və idmandan zövq alması üçün enerji balansının sağlam formada qorunması, bədəni su ilə effektiv təmin etmə vərdişlərinə yiyələnməsi və möhkəmləndirmə məşqlərinin fərqli amillərini dərk etməsi şərtdir.",sports,entertainment,"SENTENCE:
+ İdmançıların performanslarını artırması və idmandan zövq alması üçün enerji balansının sağlam formada qorunması, bədəni su ilə effektiv təmin etmə vərdişlərinə yiyələnməsi və möhkəmləndirmə məşqlərinin fərqli amillərini dərk etməsi şərtdir. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Üçüncü yeri isə 20 xal geridə olsa da, Bouyerdən 5 xal öndə olan Hamlin tuturdu. Kahne və Truex Jr 2220 və 2207 xalla 5-ci və 6-cı yerləri tuturdular.",sports,sports,"SENTENCE:
+ Üçüncü yeri isə 20 xal geridə olsa da, Bouyerdən 5 xal öndə olan Hamlin tuturdu. Kahne və Truex Jr 2220 və 2207 xalla 5-ci və 6-cı yerləri tuturdular. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Nadalın Kanadalı qarşısında başa-baş rekordunda xal 7:2 oldu.,sports,sports,"SENTENCE:
+ Nadalın Kanadalı qarşısında başa-baş rekordunda xal 7:2 oldu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Günün erkən saatlarında Yarke, Konverçano, İtaliyada mövsüm-qabağı məşq edirdi. O bazar günü Boloniya ilə planlaşdırılan qarşılaşmadan öncə komandanın qaldığı oteldə qaldı.",sports,travel,"SENTENCE:
+ Günün erkən saatlarında Yarke, Konverçano, İtaliyada mövsüm-qabağı məşq edirdi. O bazar günü Boloniya ilə planlaşdırılan qarşılaşmadan öncə komandanın qaldığı oteldə qaldı. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Nəqliyyatın olmaması qorxusu, matçın komanda azarkeşləri olmadan, qapalı sahədə oynanma ehtimalını artırdı.",sports,travel,"SENTENCE:
+ Nəqliyyatın olmaması qorxusu, matçın komanda azarkeşləri olmadan, qapalı sahədə oynanma ehtimalını artırdı. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"""Luna Ekstrimin ilk Kraliçası idi. Mənim ilk menecerim idi. O, iki ayın olduğu gecədə öldü. Ölümü də onun kimi bənzərsiz oldu. O güclü bir qadın idi"", deyə əlavə etdi Tommi Drimer.",sports,travel,"SENTENCE:
+ ""Luna Ekstrimin ilk Kraliçası idi. Mənim ilk menecerim idi. O, iki ayın olduğu gecədə öldü. Ölümü də onun kimi bənzərsiz oldu. O güclü bir qadın idi"", deyə əlavə etdi Tommi Drimer. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Polşanın kişilər qrupunu təmsil edən görmə qüsurlu yarışçısı Masiey Krezel və onun bələdçisi Anna Oqarjinska Super-G yarışını on üçüncü pillədə başa vurdu. Cənubi Koreyadan olan Jonq Seork Park Super G oturaq xizəksürmə yarışını 24-cü pillədə bitirdi.,sports,sports,"SENTENCE:
+ Polşanın kişilər qrupunu təmsil edən görmə qüsurlu yarışçısı Masiey Krezel və onun bələdçisi Anna Oqarjinska Super-G yarışını on üçüncü pillədə başa vurdu. Cənubi Koreyadan olan Jonq Seork Park Super G oturaq xizəksürmə yarışını 24-cü pillədə bitirdi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Turnirlər və polo oyunlarına haradan bilet alına biləcəyi haqqında öyrənmək istəsəniz, Asociacion Argentina de Polo-ya baxın.",sports,sports,"SENTENCE:
+ Turnirlər və polo oyunlarına haradan bilet alına biləcəyi haqqında öyrənmək istəsəniz, Asociacion Argentina de Polo-ya baxın. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Maçlar səhər saat 10:00-da əla havada başladı və sabahdan sonra qısa sürən çiskin yağışı nəzərə almasaq, 7-li reqbi üçün ideal bir gün idi.",sports,travel,"SENTENCE:
+ Maçlar səhər saat 10:00-da əla havada başladı və sabahdan sonra qısa sürən çiskin yağışı nəzərə almasaq, 7-li reqbi üçün ideal bir gün idi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Meksikalı Arli Velaskez, kişilər qrupunda Super-G oturaq xizək yarışının turnir cədvəlini on beşinci pillədə bitirdi. Yeni Zelandiyalı Adam Halil kişilər qrupunda Super-G ayaqüstü yarışını doqquzuncu pillədə başa vurdu.",sports,sports,"SENTENCE:
+ Meksikalı Arli Velaskez, kişilər qrupunda Super-G oturaq xizək yarışının turnir cədvəlini on beşinci pillədə bitirdi. Yeni Zelandiyalı Adam Halil kişilər qrupunda Super-G ayaqüstü yarışını doqquzuncu pillədə başa vurdu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Qrupun final oyunu gələn həftə, Sprinqbok komandası Avstraliyada oynadığı zaman, Johannesburg, Ellis Parkda keçiriləcək.",sports,sports,"SENTENCE:
+ Qrupun final oyunu gələn həftə, Sprinqbok komandası Avstraliyada oynadığı zaman, Johannesburg, Ellis Parkda keçiriləcək. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Şərtlər əlverişli olduqda, siz yeridiyiniz məsafədən bir qədər daha uzaq məsafəni qət edərsiniz, amma baxımlı yarış yollarında ağır arxa çantanız olmadan, çox nadir hallarda xizəklə qaçış sürətinə çata bilərsiniz.",sports,travel,"SENTENCE:
+ Şərtlər əlverişli olduqda, siz yeridiyiniz məsafədən bir qədər daha uzaq məsafəni qət edərsiniz, amma baxımlı yarış yollarında ağır arxa çantanız olmadan, çox nadir hallarda xizəklə qaçış sürətinə çata bilərsiniz. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Ondan 7 xal geridə olan Conson isə 2243 xalla ikinci ən yaxşı pilotdur.,sports,travel,"SENTENCE:
+ Ondan 7 xal geridə olan Conson isə 2243 xalla ikinci ən yaxşı pilotdur. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Kanyon məşğuliyyəti (yaxud da kanyon gəzintisi) suyu qurumuş, yaxud da su olan bir kanyona enməkdir.",sports,travel,"SENTENCE:
+ Kanyon məşğuliyyəti (yaxud da kanyon gəzintisi) suyu qurumuş, yaxud da su olan bir kanyona enməkdir. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Robin Utappa, 11 dördlük və 2 altılıq vuraraq, 70 dövrə qaçışında 41 xalla ən yüksək xallı inninqs etdi.",sports,sports,"SENTENCE:
+ Robin Utappa, 11 dördlük və 2 altılıq vuraraq, 70 dövrə qaçışında 41 xalla ən yüksək xallı inninqs etdi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Qış idman növləri daha çox ölkənin şimal bölgələrində populyardır. İtalyanlar həm də beynəlxalq yarışlar və Olimpiya oyunlarında da iştirak edirlər.,sports,sports,"SENTENCE:
+ Qış idman növləri daha çox ölkənin şimal bölgələrində populyardır. İtalyanlar həm də beynəlxalq yarışlar və Olimpiya oyunlarında da iştirak edirlər. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+İkinci pillədə Maroçidro Noozadan altı xal fərqlənərək siyahının üst sıralarında qərarlaşdı.,sports,travel,"SENTENCE:
+ İkinci pillədə Maroçidro Noozadan altı xal fərqlənərək siyahının üst sıralarında qərarlaşdı. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Mixayel Şumaxer Alonsodan az sonra yarışı sona çatdırdı, səbəb yarış dövründə apardığı çoxsaylı mübarizə zamanı asqıya dəyən zərər idi.",sports,travel,"SENTENCE:
+ Mixayel Şumaxer Alonsodan az sonra yarışı sona çatdırdı, səbəb yarış dövründə apardığı çoxsaylı mübarizə zamanı asqıya dəyən zərər idi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Sadəcə düzgün qidalanma ilə arzuolunan ideal performansa nail olmaq mümkün olmasa da, belə həyat tərzi gənc idmançıların sağlamlığına əsaslı şəkildə təsir göstərə bilər.",sports,travel,"SENTENCE:
+ Sadəcə düzgün qidalanma ilə arzuolunan ideal performansa nail olmaq mümkün olmasa da, belə həyat tərzi gənc idmançıların sağlamlığına əsaslı şəkildə təsir göstərə bilər. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Oyunlarda qadağan olunduğu üçün o ağrısını azaldacaq dərmandan istifadə edə bilmir.,sports,travel,"SENTENCE:
+ Oyunlarda qadağan olunduğu üçün o ağrısını azaldacaq dərmandan istifadə edə bilmir. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Tədqiqatlarda müəyyən edilib ki, qadınlar arasında dağınıq skleroz xəstəliyinin yayılma ehtimalı kişilərlə müqayisədə iki dəfə çoxdur.",health,travel,"SENTENCE:
+ Tədqiqatlarda müəyyən edilib ki, qadınlar arasında dağınıq skleroz xəstəliyinin yayılma ehtimalı kişilərlə müqayisədə iki dəfə çoxdur. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Qanunazidd şəkildə istehsal edilmiş spirtli içkilər, ən kiçik doza qəbulunda belə korluğa və ölümə səbəb ola biləcək metanol maddəsi daxil, müxtəlif təhlükəli qatışıqlar ehtiva edə bilər.",health,travel,"SENTENCE:
+ Qanunazidd şəkildə istehsal edilmiş spirtli içkilər, ən kiçik doza qəbulunda belə korluğa və ölümə səbəb ola biləcək metanol maddəsi daxil, müxtəlif təhlükəli qatışıqlar ehtiva edə bilər. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Depressiya və qorxu deyil, yalnız katastrofik hadisənin təsirləri həftəlik olaraq müntəzəm təşkil olunan ""Fiziki Aktivlik"" seanslarında mütləq toxunulan mövzu idi.",health,entertainment,"SENTENCE:
+ Depressiya və qorxu deyil, yalnız katastrofik hadisənin təsirləri həftəlik olaraq müntəzəm təşkil olunan ""Fiziki Aktivlik"" seanslarında mütləq toxunulan mövzu idi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Kütlənin əksəriyyətinin avtomobilə sahib olması, yollarda qəza hallarının artması ilə yanaşı, həm də qəzada fiziki xəsarət alanları müalicə etmək üçün səhiyyə sahəsində yeni texnologiyaların ixtira edilməsinə səbəb olar.",health,travel,"SENTENCE:
+ Kütlənin əksəriyyətinin avtomobilə sahib olması, yollarda qəza hallarının artması ilə yanaşı, həm də qəzada fiziki xəsarət alanları müalicə etmək üçün səhiyyə sahəsində yeni texnologiyaların ixtira edilməsinə səbəb olar. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Lider tədqiqatçılar bunun, döş xərçəngi kimi xəstəliklərdən əziyyət çəkənlərin sağalma ehtimalının nisbətən varlı ölkələrdəkindən yarı-yarıya zəif olduğu az-gəlirli ölkələrdə xəstələrin xərçəng, vərəm İİV və isitmə xəstəliklərinin erkən diaqnozuna kömək etmə ehtimalının olduğunu bildirir.",health,travel,"SENTENCE:
+ Lider tədqiqatçılar bunun, döş xərçəngi kimi xəstəliklərdən əziyyət çəkənlərin sağalma ehtimalının nisbətən varlı ölkələrdəkindən yarı-yarıya zəif olduğu az-gəlirli ölkələrdə xəstələrin xərçəng, vərəm İİV və isitmə xəstəliklərinin erkən diaqnozuna kömək etmə ehtimalının olduğunu bildirir. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Yeni Şotlandiya əyalətinin paytaxtı Halifaksdaki Delxauzi universitetinin tibb elmləri üzrə professoru və Kanada Diabet Assosiasiyasının klinik və elmi araşdırmalar departamentinin rəhbəri Dr. Ehud Ur bildirdi ki, araşdırma hələ ilkin mərhələdədir.",health,travel,"SENTENCE:
+ Yeni Şotlandiya əyalətinin paytaxtı Halifaksdaki Delxauzi universitetinin tibb elmləri üzrə professoru və Kanada Diabet Assosiasiyasının klinik və elmi araşdırmalar departamentinin rəhbəri Dr. Ehud Ur bildirdi ki, araşdırma hələ ilkin mərhələdədir. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Bu tip uşaqların beyinləri normal yollarla stimulə edilə bilmədiyindən, onlar beyinlərinə siqnal göndərmək üçün ""təhlükəli hərəkətlər etmək, başqaları ilə dalaşmaq, hakimiyyətə meydan oxumaq"" kimi problemli davranışlar nümayiş etdirməyə meylli olur.",health,travel,"SENTENCE:
+ Bu tip uşaqların beyinləri normal yollarla stimulə edilə bilmədiyindən, onlar beyinlərinə siqnal göndərmək üçün ""təhlükəli hərəkətlər etmək, başqaları ilə dalaşmaq, hakimiyyətə meydan oxumaq"" kimi problemli davranışlar nümayiş etdirməyə meylli olur. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"İnsanlar külək və dalğalar vasitəsilə havaya qalxan su damcılarını nəfəslərinə alsa, yoluxmuş ola bilərlər.",health,travel,"SENTENCE:
+ İnsanlar külək və dalğalar vasitəsilə havaya qalxan su damcılarını nəfəslərinə alsa, yoluxmuş ola bilərlər. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Bəzi insanlar belə hesab edir ki, süni yolla yaradılmış bir çox anlaşıqlı yuxunun həddən artıq çox təkrarlanması yorucu ola bilər.",health,travel,"SENTENCE:
+ Bəzi insanlar belə hesab edir ki, süni yolla yaradılmış bir çox anlaşıqlı yuxunun həddən artıq çox təkrarlanması yorucu ola bilər. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Həmin ərəfədə Potro çiynindən müayinə olunsa da, oyuna geri qayıda bildi.",health,sports,"SENTENCE:
+ Həmin ərəfədə Potro çiynindən müayinə olunsa da, oyuna geri qayıda bildi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Hətta bunu edə bilməmək, böyümə depressiyası, pis qidalanma və nəhayət ölüm kimi ciddi nəticələrə səbəb ola bilər.",health,travel,"SENTENCE:
+ Hətta bunu edə bilməmək, böyümə depressiyası, pis qidalanma və nəhayət ölüm kimi ciddi nəticələrə səbəb ola bilər. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Amsterdam şəhəri və Anne Frank muzeyinin səlahiyyətli şəxsləri, ağacın bir göbələk vasitəsilə infeksiyaya yoluxduğunu və yıxılma təhlükəsinin olduğunu iddia edərək ictimai sağlamlıq baxımından təhlükəli olduğunu bildirirlər.",health,travel,"SENTENCE:
+ Amsterdam şəhəri və Anne Frank muzeyinin səlahiyyətli şəxsləri, ağacın bir göbələk vasitəsilə infeksiyaya yoluxduğunu və yıxılma təhlükəsinin olduğunu iddia edərək ictimai sağlamlıq baxımından təhlükəli olduğunu bildirirlər. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Xəstəxana infeksiyanın digərlərini də yoluxdurma ehtimalının qarşısını almaq məqsədilə yoluxucu xəstəliklərə dair nəzarət protokolunun tətbiqi ilə yanaşı xəstəni də digərlərindən təcrid etdi.,health,travel,"SENTENCE:
+ Xəstəxana infeksiyanın digərlərini də yoluxdurma ehtimalının qarşısını almaq məqsədilə yoluxucu xəstəliklərə dair nəzarət protokolunun tətbiqi ilə yanaşı xəstəni də digərlərindən təcrid etdi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Haiti Ədalət və Demokratiya İnstitutu, Nepallı BMT sülhməramlı ordusunun Haitiyə xəbərləri olmadan infeksiya yoluxdurduğunu bildirən bitərəf tədqiqatlara əsaslandı.",health,health,"SENTENCE:
+ Haiti Ədalət və Demokratiya İnstitutu, Nepallı BMT sülhməramlı ordusunun Haitiyə xəbərləri olmadan infeksiya yoluxdurduğunu bildirən bitərəf tədqiqatlara əsaslandı. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: health</s>"
+"İnfeksiyalar, yaxud da insanlara fiziki xəsarət yetirə və ya onları öldürə bilən təhlükəli heyvanlar adətən zərərverici kimi qiymətləndirilmir.",health,travel,"SENTENCE:
+ İnfeksiyalar, yaxud da insanlara fiziki xəsarət yetirə və ya onları öldürə bilən təhlükəli heyvanlar adətən zərərverici kimi qiymətləndirilmir. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Hiperaktivlik və diqqət dağınıqlığı sindromu olan uşaqların məktəb tapşırıqları kimi işlərə diqqət ayırması çətindir, lakin onlar oyunlar oynamaq və sevimli cizgi filmlərinə baxmaq və cümlələri durğu işarələri qoymadan yazmaq kimi sevdiyi şeylərə daha rahat diqqət ayıra bilirlər.",health,entertainment,"SENTENCE:
+ Hiperaktivlik və diqqət dağınıqlığı sindromu olan uşaqların məktəb tapşırıqları kimi işlərə diqqət ayırması çətindir, lakin onlar oyunlar oynamaq və sevimli cizgi filmlərinə baxmaq və cümlələri durğu işarələri qoymadan yazmaq kimi sevdiyi şeylərə daha rahat diqqət ayıra bilirlər. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Yoluxmuş şəxs bir il müddətində onunla yaxın təmasda olan 10-15 nəfəri yoluxdura bilər.,health,travel,"SENTENCE:
+ Yoluxmuş şəxs bir il müddətində onunla yaxın təmasda olan 10-15 nəfəri yoluxdura bilər. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Döyüş xəsarət alanlar xəstəxanaya aparıldıqdan sonra dayandı və qalan məhbuslardan təxminən 40 nəfər kameralara qayıtmaqdan imtina edərək həyətdə qaldı.,health,travel,"SENTENCE:
+ Döyüş xəsarət alanlar xəstəxanaya aparıldıqdan sonra dayandı və qalan məhbuslardan təxminən 40 nəfər kameralara qayıtmaqdan imtina edərək həyətdə qaldı. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+İmperator Avqust təbibləri işə götürməyə başladı və hətta onlar savaşdan sonra faydalana biləcəkləri birinci Roma Səhiyyə Birliyini yaratdılar.,health,travel,"SENTENCE:
+ İmperator Avqust təbibləri işə götürməyə başladı və hətta onlar savaşdan sonra faydalana biləcəkləri birinci Roma Səhiyyə Birliyini yaratdılar. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Bununla belə, sürücü başından ciddi yara aldı.",health,travel,"SENTENCE:
+ Bununla belə, sürücü başından ciddi yara aldı. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"""Hazırda bizim diabetdən əziyyət çəkməyən, amma əvvəl diabet olan 4 aylıq siçanlarımız var"", deyə o əlavə etdi.",health,travel,"SENTENCE:
+ ""Hazırda bizim diabetdən əziyyət çəkməyən, amma əvvəl diabet olan 4 aylıq siçanlarımız var"", deyə o əlavə etdi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Daxili zəhərlənmə özünün tez büruzə verməyə bilər. Qusma halları kimi simptomlar çox ümumi olduğundan həmişə dəqiq diaqnoz qoymaq mümkün deyil.,health,travel,"SENTENCE:
+ Daxili zəhərlənmə özünün tez büruzə verməyə bilər. Qusma halları kimi simptomlar çox ümumi olduğundan həmişə dəqiq diaqnoz qoymaq mümkün deyil. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+İfaçıların səhnədə marixuana çəkməsi nəticədə teatr tamaşaçılarını da buna qoşulmağa həvəsləndirirdi.,entertainment,travel,"SENTENCE:
+ İfaçıların səhnədə marixuana çəkməsi nəticədə teatr tamaşaçılarını da buna qoşulmağa həvəsləndirirdi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Aerosmith qrupunun konsert turunun hələ baş tutmamış konsertləri ləğv edildi.,entertainment,entertainment,"SENTENCE:
+ Aerosmith qrupunun konsert turunun hələ baş tutmamış konsertləri ləğv edildi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Əgər həyəcanı yaxından hiss etmək istəyirsinizsə, o zaman erkəndən gəlib musiqiyə yaxın bir yerdə düşərgə quracağınız yeri tutmalısınız.",entertainment,travel,"SENTENCE:
+ Əgər həyəcanı yaxından hiss etmək istəyirsinizsə, o zaman erkəndən gəlib musiqiyə yaxın bir yerdə düşərgə quracağınız yeri tutmalısınız. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+İllər ərzində istifadə edilmiş müxtəlif növdə matrisa formatları var. Bunlardan ən çox istifadə olunanı standart 35 mm matrisadır (36-24 mm neqativ).,entertainment,entertainment,"SENTENCE:
+ İllər ərzində istifadə edilmiş müxtəlif növdə matrisa formatları var. Bunlardan ən çox istifadə olunanı standart 35 mm matrisadır (36-24 mm neqativ). 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Bir qədər geniş yayılmış bir metod olmasına baxmayaraq, biletlərin ötürülməsi Disney tərəfindən qadağan edilib.",entertainment,travel,"SENTENCE:
+ Bir qədər geniş yayılmış bir metod olmasına baxmayaraq, biletlərin ötürülməsi Disney tərəfindən qadağan edilib. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Şounun hər bir bölümünün həsr edildiyi xüsusi bir kitabdan götürülmüş mövzu daha sonra bir çox hekayə fonunda tədqiq olunacaqdı.,entertainment,travel,"SENTENCE:
+ Şounun hər bir bölümünün həsr edildiyi xüsusi bir kitabdan götürülmüş mövzu daha sonra bir çox hekayə fonunda tədqiq olunacaqdı. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Xalqın mərasimi izləməsini təmin etmək üçün Romanın müxtəlif yerlərində nəhəng televiziya ekranları quraşdırıldı.,entertainment,entertainment,"SENTENCE:
+ Xalqın mərasimi izləməsini təmin etmək üçün Romanın müxtəlif yerlərində nəhəng televiziya ekranları quraşdırıldı. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Əsərləri dünya ədəbiyyatının inciləri hesab olunan Sofokl və Aristofan bu gün də məşhur dramaturqlar olaraq qalır.,entertainment,entertainment,"SENTENCE:
+ Əsərləri dünya ədəbiyyatının inciləri hesab olunan Sofokl və Aristofan bu gün də məşhur dramaturqlar olaraq qalır. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+" Hər bir şou həm də, kitabxanaya gedərkən uşaqların axtarmalı olduqları kitablar haqqında tövsiyələr verirdi.",entertainment,travel,"SENTENCE:
+  Hər bir şou həm də, kitabxanaya gedərkən uşaqların axtarmalı olduqları kitablar haqqında tövsiyələr verirdi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Qarmonda səsin yüksək çıxması üçün qarmonun körüyündən daha gərgin və sürətlə istifadə olunur.,entertainment,travel,"SENTENCE:
+ Qarmonda səsin yüksək çıxması üçün qarmonun körüyündən daha gərgin və sürətlə istifadə olunur. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Şou başlamazdan əvvəl ehramları qaranlıqda və dərin bir sükunət içində görə bilərsiniz.,entertainment,travel,"SENTENCE:
+ Şou başlamazdan əvvəl ehramları qaranlıqda və dərin bir sükunət içində görə bilərsiniz. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ovçuluq, balıq ovu, fotoqrafiya, quşların seyr edilməsi və parklarda gəzinti, eyni zamanda ekosistem haqqında məlumatların öyrənilməsi yerində aktivliklərə nümunə ola bilər.",entertainment,travel,"SENTENCE:
+ Ovçuluq, balıq ovu, fotoqrafiya, quşların seyr edilməsi və parklarda gəzinti, eyni zamanda ekosistem haqqında məlumatların öyrənilməsi yerində aktivliklərə nümunə ola bilər. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Uzun hekayələrdə Sfinksdən arxa fon üçün və hekayəni nəql edən olaraq istifadə olunur.,entertainment,travel,"SENTENCE:
+ Uzun hekayələrdə Sfinksdən arxa fon üçün və hekayəni nəql edən olaraq istifadə olunur. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Qonaqlarının ruh yüksəkliyini qorumaq və onların həmin yerdə qonaqlamasını təmin etmək üçün onlar adətən xüsusi yemək-içmək və əyləncə təklif edirlər.,entertainment,travel,"SENTENCE:
+ Qonaqlarının ruh yüksəkliyini qorumaq və onların həmin yerdə qonaqlamasını təmin etmək üçün onlar adətən xüsusi yemək-içmək və əyləncə təklif edirlər. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"İngilis və Yapon dillərində xəbərlər təqdim edən qlobal şirkət İspan, İtalyan və Koreya dilində olacaq proqramlarını televiziya, internet və mobil cihazlar üzərindən yayımlayacaq.",entertainment,travel,"SENTENCE:
+ İngilis və Yapon dillərində xəbərlər təqdim edən qlobal şirkət İspan, İtalyan və Koreya dilində olacaq proqramlarını televiziya, internet və mobil cihazlar üzərindən yayımlayacaq. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Simon ""Simpsonlar""dan əvvəl bir neçə şouda fərqli vəzifələrdə fəaliyyət göstərib.",entertainment,travel,"SENTENCE:
+ Simon ""Simpsonlar""dan əvvəl bir neçə şouda fərqli vəzifələrdə fəaliyyət göstərib. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Bu, video oyunlarda oyunçulara cihazı havada hərəkət etdirməklə oyunun gedişatına nəzarət etmək imkanı verir.",entertainment,entertainment,"SENTENCE:
+ Bu, video oyunlarda oyunçulara cihazı havada hərəkət etdirməklə oyunun gedişatına nəzarət etmək imkanı verir. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Bir il əvvəl, evlənmiş bir cütlüyün evliliyinin birinci ildönümünü təbrik etmək üçün şənlikdə minimum 100 nəfər insan var idi.",entertainment,travel,"SENTENCE:
+ Bir il əvvəl, evlənmiş bir cütlüyün evliliyinin birinci ildönümünü təbrik etmək üçün şənlikdə minimum 100 nəfər insan var idi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Filmdən, Audition (The Fools Who Dream) və City of Stars adlı iki mahnı, ən orijinal mahnı mükafatı aldı. Lionsgate studiyası rəqiblərinin hamısını geridə qoyaraq 26 nominasiyada təltif edildi.",entertainment,entertainment,"SENTENCE:
+ Filmdən, Audition (The Fools Who Dream) və City of Stars adlı iki mahnı, ən orijinal mahnı mükafatı aldı. Lionsgate studiyası rəqiblərinin hamısını geridə qoyaraq 26 nominasiyada təltif edildi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Qabıq yaxın tərəfdə təxminən 70 km, uzaq tərəfdə isə 100 km qalınlığa malikdir.",geography,travel,"SENTENCE:
+ Qabıq yaxın tərəfdə təxminən 70 km, uzaq tərəfdə isə 100 km qalınlığa malikdir. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"İrəlidə cənub tərəfdə Niaqara Şəlaləsi, şimalda isə Muskoka və digər kəşf edilməmiş təbii gözəlliklər məskən salır.",geography,travel,"SENTENCE:
+ İrəlidə cənub tərəfdə Niaqara Şəlaləsi, şimalda isə Muskoka və digər kəşf edilməmiş təbii gözəlliklər məskən salır. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Elsuort Torpağı, Yarımadanın cənubunda Bellingshausen Dənizi ilə həmsərhəd bir bölgədir.",geography,travel,"SENTENCE:
+ Elsuort Torpağı, Yarımadanın cənubunda Bellingshausen Dənizi ilə həmsərhəd bir bölgədir. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Mak-Merdo stansiyasından qütbə qədər 1600 km-lik Cənub Qütbü Şossesi (və ya magistral yolu) uzanır.,geography,travel,"SENTENCE:
+ Mak-Merdo stansiyasından qütbə qədər 1600 km-lik Cənub Qütbü Şossesi (və ya magistral yolu) uzanır. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Maçu Piçunun şimal tərəfində yüksələn bu sıldırım dağ əksər hallarda viranəliklərin bir çox şəkillərinin arxa planında yer alır.,geography,travel,"SENTENCE:
+ Maçu Piçunun şimal tərəfində yüksələn bu sıldırım dağ əksər hallarda viranəliklərin bir çox şəkillərinin arxa planında yer alır. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Enkelad günəş sistemində ən reflektiv obyektdir və ona gəlib çatan günəş işığının təxminən 90 faizini əks etdirir.,geography,travel,"SENTENCE:
+ Enkelad günəş sistemində ən reflektiv obyektdir və ona gəlib çatan günəş işığının təxminən 90 faizini əks etdirir. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Yuxarı baxan zaman aydın və gözəl səmadan və onu əhatə edən dağlardan başqa heç nə görmək olmur. Dünyanı bu mağaranın içindən hiss edə bilmək çox çətindir.,geography,travel,"SENTENCE:
+ Yuxarı baxan zaman aydın və gözəl səmadan və onu əhatə edən dağlardan başqa heç nə görmək olmur. Dünyanı bu mağaranın içindən hiss edə bilmək çox çətindir. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Bir az da Yaponiya haqqında; Yaponiya da Britaniya kimi ada dövləti idi.,geography,travel,"SENTENCE:
+ Bir az da Yaponiya haqqında; Yaponiya da Britaniya kimi ada dövləti idi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Adını Maldiv dilində palma yarpaqlarından hazırlanmış çantadan alan tropik qasırğa ən yüksək həddə, saatda 240 km (saatda 149 mil) sürəti ilə hərəkət edən davamlı küləklərə çatdı.",geography,travel,"SENTENCE:
+ Adını Maldiv dilində palma yarpaqlarından hazırlanmış çantadan alan tropik qasırğa ən yüksək həddə, saatda 240 km (saatda 149 mil) sürəti ilə hərəkət edən davamlı küləklərə çatdı. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Türkiyənin göllər də daxil olmaqla ərazisi 783562 kv. km (300948 kv. mil.) əhatə edir, bunun 755688 kv. km (291773 kv. mil) cənubi-qərbi Asiya, 23764 kv. km (9174 kv. mil) isə Avropa qitəsinə düşür.",geography,travel,"SENTENCE:
+ Türkiyənin göllər də daxil olmaqla ərazisi 783562 kv. km (300948 kv. mil.) əhatə edir, bunun 755688 kv. km (291773 kv. mil) cənubi-qərbi Asiya, 23764 kv. km (9174 kv. mil) isə Avropa qitəsinə düşür. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Bir çox ölkələr 1819-cu ildə kəşf edilən, həmçinin 2020-ci ildə on altısı aktiv olmaqla ən çox bazaya sahib olan Cənubi Şetland Adalarına iddia irəli sürürlər.",geography,travel,"SENTENCE:
+ Bir çox ölkələr 1819-cu ildə kəşf edilən, həmçinin 2020-ci ildə on altısı aktiv olmaqla ən çox bazaya sahib olan Cənubi Şetland Adalarına iddia irəli sürürlər. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Samoanın paytaxtı Apia şəhəridir. Şəhər Upolu adasında yerləşir və sadəcə 40 000-dən bir qədər az əhalisi var.,geography,travel,"SENTENCE:
+ Samoanın paytaxtı Apia şəhəridir. Şəhər Upolu adasında yerləşir və sadəcə 40 000-dən bir qədər az əhalisi var. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Fırtınanın ABŞ və ya Karib dənizi ətrafına nə dərəcədə təsir edəcəyini təyin etmək çox çətindir, çünki fırtına quru sahəsindən çox uzaqdadır.",geography,travel,"SENTENCE:
+ Fırtınanın ABŞ və ya Karib dənizi ətrafına nə dərəcədə təsir edəcəyini təyin etmək çox çətindir, çünki fırtına quru sahəsindən çox uzaqdadır. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"""Maria"" adlanan qaranlıq qatların altında daha nazik, dağlıq yerlərin altında isə daha qalın görünür.",geography,travel,"SENTENCE:
+ ""Maria"" adlanan qaranlıq qatların altında daha nazik, dağlıq yerlərin altında isə daha qalın görünür. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Yalnız manqrov bataqlıqlarından ibarət olmayan bu meşələrdə vaxtilə Hind-Qanq ovalığını əhatə edən qüdrətli cəngəlliklərin son qalmış ağaclarından bəziləri mövcuddur.,geography,travel,"SENTENCE:
+ Yalnız manqrov bataqlıqlarından ibarət olmayan bu meşələrdə vaxtilə Hind-Qanq ovalığını əhatə edən qüdrətli cəngəlliklərin son qalmış ağaclarından bəziləri mövcuddur. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+ABŞ-ın Geoloji Tədqiqatlar İnstitutunun beynəlxalq zəlzələ xəritəsində bir həftə əvvəl İslandiyada hər hansı bir zəlzələ görünmürdü.,geography,travel,"SENTENCE:
+ ABŞ-ın Geoloji Tədqiqatlar İnstitutunun beynəlxalq zəlzələ xəritəsində bir həftə əvvəl İslandiyada hər hansı bir zəlzələ görünmürdü. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Dünyanın qalan hissəsindən tamamilə təcrid olunmuş bu mağara Məkkənin şimalındakı dağlardan birinin zirvəsində yerləşir.,geography,travel,"SENTENCE:
+ Dünyanın qalan hissəsindən tamamilə təcrid olunmuş bu mağara Məkkənin şimalındakı dağlardan birinin zirvəsində yerləşir. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"

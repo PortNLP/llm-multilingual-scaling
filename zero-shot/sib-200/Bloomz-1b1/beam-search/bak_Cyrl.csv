@@ -1,0 +1,2449 @@
+text,actual_category,predicted_category,generated_text
+"Мутация яңы генетик вариация өҫтәй, ә һайлап алыу уны асыҡ вариация пулынан сығарып ташлай.",science/technology,sports,"SENTENCE:
+ Мутация яңы генетик вариация өҫтәй, ә һайлап алыу уны асыҡ вариация пулынан сығарып ташлай. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Атом бомбаһының эш асылы – ул атом ядроһын күп протондар һәм нейтрондар менән тоташтырыу өсөн ҙур энергия талап ителеүе.,science/technology,sports,"SENTENCE:
+ Атом бомбаһының эш асылы – ул атом ядроһын күп протондар һәм нейтрондар менән тоташтырыу өсөн ҙур энергия талап ителеүе. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Ядро үҙе ике киҫәксәнән – нейтрон һәм протондан тора.,science/technology,sports,"SENTENCE:
+ Ядро үҙе ике киҫәксәнән – нейтрон һәм протондан тора. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Был зум-объективтарға сифат йәһәтенән фокус оҙонлоғо тотороҡло булған объективтар менән алынғанға торошло һүрәттәр яһарға мөмкинлек бирә.,science/technology,sports,"SENTENCE:
+ Был зум-объективтарға сифат йәһәтенән фокус оҙонлоғо тотороҡло булған объективтар менән алынғанға торошло һүрәттәр яһарға мөмкинлек бирә. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Улар веб-проксиҙан бер нисә сәбәп буйынса өҫтөнөрәк: улар http ғына түгел, бөтә Интернет-трафиктың йүнәлешен үҙгәртә.",science/technology,sports,"SENTENCE:
+ Улар веб-проксиҙан бер нисә сәбәп буйынса өҫтөнөрәк: улар http ғына түгел, бөтә Интернет-трафиктың йүнәлешен үҙгәртә. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Интерактив дизайн һеҙҙең медиа производствоһы тураһындағы фараздарығыҙҙы ҡабаттан баһалауығыҙҙы һәм һығылмалыраҡ уйларға өйрәнеүегеҙҙе талап итә.,science/technology,sports,"SENTENCE:
+ Интерактив дизайн һеҙҙең медиа производствоһы тураһындағы фараздарығыҙҙы ҡабаттан баһалауығыҙҙы һәм һығылмалыраҡ уйларға өйрәнеүегеҙҙе талап итә. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Был дөйөм ҡулланыуға инә, ләкин рельстарҙың тимер өҫлөктәре вагондарҙың ағас тәгәрмәстәренең тиҙ туҙыуына килтергән.",science/technology,sports,"SENTENCE:
+ Был дөйөм ҡулланыуға инә, ләкин рельстарҙың тимер өҫлөктәре вагондарҙың ағас тәгәрмәстәренең тиҙ туҙыуына килтергән. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Прайд бер-өс оло ата ҡәрҙәштән, шулай үҡ утыҙға тиклем инәнән һәм балаларҙан тора.",science/technology,sports,"SENTENCE:
+ Прайд бер-өс оло ата ҡәрҙәштән, шулай үҡ утыҙға тиклем инәнән һәм балаларҙан тора. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"ЯИ фәнни фантастика төҫмөрөнә эйә булһа ла, ЯИ машинаны өйрәтеү, уҡытыу һәм интеллектуаль яраҡлаштырыу менән шөғөлләнгән бик мөһим информатика тармағын хасил итә.",science/technology,sports,"SENTENCE:
+ ЯИ фәнни фантастика төҫмөрөнә эйә булһа ла, ЯИ машинаны өйрәтеү, уҡытыу һәм интеллектуаль яраҡлаштырыу менән шөғөлләнгән бик мөһим информатика тармағын хасил итә. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Тимәк, был форматтың яҡтарының нисбәте (бөтөн һандарҙың ябай нисбәтен алыу өсөн ун икегә бүлергә) 3:2 тип һанала.",science/technology,sports,"SENTENCE:
+ Тимәк, был форматтың яҡтарының нисбәте (бөтөн һандарҙың ябай нисбәтен алыу өсөн ун икегә бүлергә) 3:2 тип һанала. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Спутник телефоны, ғәҙәттә, кәрәҙле телефонды алмаштырмай, сөнки телефондан һөйләшеү өсөн һеҙҙең асыҡ һауала спутникка күренеп торған ерҙә булыуығыҙ кәрәк.",science/technology,sports,"SENTENCE:
+ Спутник телефоны, ғәҙәттә, кәрәҙле телефонды алмаштырмай, сөнки телефондан һөйләшеү өсөн һеҙҙең асыҡ һауала спутникка күренеп торған ерҙә булыуығыҙ кәрәк. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Конка параллель һалынған ябай ағас таҡталарҙан ғына торһа ла, ул, тигеҙһеҙ юлдарҙан бер аҙ яҡшыраҡ булып, аттарға юғарыраҡ тиҙлек йыйырға һәм ҙурыраҡ йөктәр ташырға ярҙам иткән.",science/technology,sports,"SENTENCE:
+ Конка параллель һалынған ябай ағас таҡталарҙан ғына торһа ла, ул, тигеҙһеҙ юлдарҙан бер аҙ яҡшыраҡ булып, аттарға юғарыраҡ тиҙлек йыйырға һәм ҙурыраҡ йөктәр ташырға ярҙам иткән. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Борондан алып, кешеләр төп химик элементтар, мәҫәлән, алтын, көмөш һәм баҡыр барлығы тураһында яҡшы белә, был уларҙың тәбиғәттә төп формаһында табылыуы һәм уларҙы ҡаҙыу примитив ҡоралдар ярҙамында сағыштырмаса еңел булыуы менән бәйле.",science/technology,sports,"SENTENCE:
+ Борондан алып, кешеләр төп химик элементтар, мәҫәлән, алтын, көмөш һәм баҡыр барлығы тураһында яҡшы белә, был уларҙың тәбиғәттә төп формаһында табылыуы һәм уларҙы ҡаҙыу примитив ҡоралдар ярҙамында сағыштырмаса еңел булыуы менән бәйле. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Тәгәрмәс донъяны иҫ киткес үҙгәртте. Беҙҙең өсөн тәгәрмәс иң ҙур әйбер яһаған - ташыуҙы күпкә еңелләштереүе һәм тиҙләтеүе.,science/technology,sports,"SENTENCE:
+ Тәгәрмәс донъяны иҫ киткес үҙгәртте. Беҙҙең өсөн тәгәрмәс иң ҙур әйбер яһаған - ташыуҙы күпкә еңелләштереүе һәм тиҙләтеүе. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Һүрәт бөтөн экранды ҡаплаһын өсөн уның ситтәрен ҡырҡылар. Был һүрәт ситтәрен ҡырҡыу тип атала.,science/technology,sports,"SENTENCE:
+ Һүрәт бөтөн экранды ҡаплаһын өсөн уның ситтәрен ҡырҡылар. Был һүрәт ситтәрен ҡырҡыу тип атала. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Немец һыу аҫты кәмәләре “U-Boats” тип атала. Немецтар һыу аҫты кәмәләре менән идара итергә һәм уларҙы йөрөтөргә бик оҫта була.,science/technology,sports,"SENTENCE:
+ Немец һыу аҫты кәмәләре “U-Boats” тип атала. Немецтар һыу аҫты кәмәләре менән идара итергә һәм уларҙы йөрөтөргә бик оҫта була. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Уның физик хәле үҙгәрһә лә, химик төҙөлөшө үҙгәрмәй.",science/technology,science/technology,"SENTENCE:
+ Уның физик хәле үҙгәрһә лә, химик төҙөлөшө үҙгәрмәй. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+"Ер тартылыуы барлыҡҡа килә, сөнки һыу молекулалары бер-береһенә өҫтөндәге һауа молекулдар ҡарағанда ныҡ итеп ҡүберәҡ тартылалар.",science/technology,sports,"SENTENCE:
+ Ер тартылыуы барлыҡҡа килә, сөнки һыу молекулалары бер-береһенә өҫтөндәге һауа молекулдар ҡарағанда ныҡ итеп ҡүберәҡ тартылалар. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Фильмды DVD форматҡа  күсереү ваҡытында иң йыш осрай торған ҡыйынлыҡ  - уны бик күп тапҡыр сканер аша үткәреү.,science/technology,entertainment,"SENTENCE:
+ Фильмды DVD форматҡа  күсереү ваҡытында иң йыш осрай торған ҡыйынлыҡ  - уны бик күп тапҡыр сканер аша үткәреү. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Атап әйткәндә, кешенең микросырайын дөрөҫ аңлатып, кешенең алдағанын белеп була, тип раҫлана.",science/technology,sports,"SENTENCE:
+ Атап әйткәндә, кешенең микросырайын дөрөҫ аңлатып, кешенең алдағанын белеп була, тип раҫлана. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Бөтә тирә-яҡ алтын эшкәртеү формаларҙа булырға мөмкин. Ул формаларға төрөп, бәләкәй генә булыуы мөмкин.",science/technology,sports,"SENTENCE:
+ Бөтә тирә-яҡ алтын эшкәртеү формаларҙа булырға мөмкин. Ул формаларға төрөп, бәләкәй генә булыуы мөмкин. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Хәҙерге ваҡытта ЯИ системаһы йыш ҡына иҡтисад, медицина, инженерия һәм ҡораллы көстәр өлкәләрендә ҡулланыла, сөнки ул йорт компьютерҙары һәм видеоуйындар өсөн бер нисә программа ҡушымтаһына индерелгән.",science/technology,sports,"SENTENCE:
+ Хәҙерге ваҡытта ЯИ системаһы йыш ҡына иҡтисад, медицина, инженерия һәм ҡораллы көстәр өлкәләрендә ҡулланыла, сөнки ул йорт компьютерҙары һәм видеоуйындар өсөн бер нисә программа ҡушымтаһына индерелгән. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Ул әле бөгөн дә етештерелә, әммә иң мөһиме шул: уның яҡтарының нисбәте цифрлы камераларҙың һүрәт датчиктары форматтарына мираҫ булып ҡалған.",science/technology,sports,"SENTENCE:
+ Ул әле бөгөн дә етештерелә, әммә иң мөһиме шул: уның яҡтарының нисбәте цифрлы камераларҙың һүрәт датчиктары форматтарына мираҫ булып ҡалған. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Йыш ҡына һанға һуғылмаған, йыш ҡына көлөп ҡаралған өстән бер өлөш ҡағиҙәһе – һүрәттә тәртип күләмен һаҡлаған ваҡытта динамизм тыуҙырған ябай ҡулланма.",science/technology,sports,"SENTENCE:
+ Йыш ҡына һанға һуғылмаған, йыш ҡына көлөп ҡаралған өстән бер өлөш ҡағиҙәһе – һүрәттә тәртип күләмен һаҡлаған ваҡытта динамизм тыуҙырған ябай ҡулланма. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Был инде киң таралған теорияны, әйтәйек, ҡайһы бер динозаврҙарҙың ҡауырһындары булғанын, раҫлап ҡына ҡалмай, ә ташҡа әйләнгән ҡалдыҡтар ғәҙәттә бирә алмаған төҫ һәм өс үлсәмдә урынлашыу кеүек мәғлүмәттәрҙе лә бирә.",science/technology,sports,"SENTENCE:
+ Был инде киң таралған теорияны, әйтәйек, ҡайһы бер динозаврҙарҙың ҡауырһындары булғанын, раҫлап ҡына ҡалмай, ә ташҡа әйләнгән ҡалдыҡтар ғәҙәттә бирә алмаған төҫ һәм өс үлсәмдә урынлашыу кеүек мәғлүмәттәрҙе лә бирә. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Ионың тартыу көсө миңә нисек йоғонто яһар ине? Әгәр һеҙ Ионың өҫтөндә торһағыҙ, ауырлығығыҙ Ерҙәгегә ҡарағанда кәмерәк булыр ине.",science/technology,sports,"SENTENCE:
+ Ионың тартыу көсө миңә нисек йоғонто яһар ине? Әгәр һеҙ Ионың өҫтөндә торһағыҙ, ауырлығығыҙ Ерҙәгегә ҡарағанда кәмерәк булыр ине. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"NextGen-FAA раҫлағанса, самолеттарға ҡыҫҡа маршруттар буйынса осорға, йыл һайын миллионлаған галлон яғыулыҡты янға ҡалдырырға һәм углекислый газ сығарыуыны кәметергә мөмкинлек бирәсәк система.",science/technology,sports,"SENTENCE:
+ NextGen-FAA раҫлағанса, самолеттарға ҡыҫҡа маршруттар буйынса осорға, йыл һайын миллионлаған галлон яғыулыҡты янға ҡалдырырға һәм углекислый газ сығарыуыны кәметергә мөмкинлек бирәсәк система. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Нейробиология мәғлүмәттәре танып белеүҙе өйрәнеүҙе физик яҡтан дәлилләй. Шулай булғас, ул тикшеренеү өлкәһен тарайтырға һәм уны теүәлләштерергә ярҙам итә.",science/technology,sports,"SENTENCE:
+ Нейробиология мәғлүмәттәре танып белеүҙе өйрәнеүҙе физик яҡтан дәлилләй. Шулай булғас, ул тикшеренеү өлкәһен тарайтырға һәм уны теүәлләштерергә ярҙам итә. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Үҙенең 2 сәғәтлек сығышы барышында ул: “Бөгөн “Apple” телефонды яңынан уйлап сығара, бөгөн беҙ тарихҡа инәсәкбеҙ”, – тип белдерҙе.",science/technology,sports,"SENTENCE:
+ Үҙенең 2 сәғәтлек сығышы барышында ул: “Бөгөн “Apple” телефонды яңынан уйлап сығара, бөгөн беҙ тарихҡа инәсәкбеҙ”, – тип белдерҙе. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Зум-объективтарҙың етешһеҙлеге – фокуслаштырыуҙың ҡатмарлылығында һәм объективтың фокус арауығы диапазонына өлгәшеү өсөн кәрәк элементтарының ябай объективтарға ҡарағанда күпкә артыҡ булыуында.,science/technology,sports,"SENTENCE:
+ Зум-объективтарҙың етешһеҙлеге – фокуслаштырыуҙың ҡатмарлылығында һәм объективтың фокус арауығы диапазонына өлгәшеү өсөн кәрәк элементтарының ябай объективтарға ҡарағанда күпкә артыҡ булыуында. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Телевизион пульт кеүек үк, контроллерҙың торошон өс үлсәмле арауыҡта триангуляциялау өсөн уның ике датчигы бар, улар ҡулланыусының телевизоры эргәһендә тора.",science/technology,sports,"SENTENCE:
+ Телевизион пульт кеүек үк, контроллерҙың торошон өс үлсәмле арауыҡта триангуляциялау өсөн уның ике датчигы бар, улар ҡулланыусының телевизоры эргәһендә тора. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Ғалимдар әйтеүенсә, был хайуандарҙың ҡауырһыны өҫтән ҡыҙғылт-көрән, аҫҡы яҡтан аҡһыл йәки кишер төҫөндә булған.",science/technology,sports,"SENTENCE:
+ Ғалимдар әйтеүенсә, был хайуандарҙың ҡауырһыны өҫтән ҡыҙғылт-көрән, аҫҡы яҡтан аҡһыл йәки кишер төҫөндә булған. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Университеттар тикшеренеүселәре әйтеүенсә, ошо ике берләшмә бер-береһе менән реакцияға инеп, кристалдар барлыҡҡа килә, улар бөйөр функцияларын ҡамап ала.",science/technology,sports,"SENTENCE:
+ Университеттар тикшеренеүселәре әйтеүенсә, ошо ике берләшмә бер-береһе менән реакцияға инеп, кристалдар барлыҡҡа килә, улар бөйөр функцияларын ҡамап ала. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Был 35 миллиметрлы негативтан (864-кә ҡаршы 3136 мм2) сама менән дүрт тапҡырға күберәк айырыусанлыҡ бирә.,science/technology,sports,"SENTENCE:
+ Был 35 миллиметрлы негативтан (864-кә ҡаршы 3136 мм2) сама менән дүрт тапҡырға күберәк айырыусанлыҡ бирә. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Европа менән һыу аҫты оптик-сүс кабель бәйләнеше һәм юғары тиҙлекле спутник бәйләнеше ярҙамында Гренландия интернетҡа тоташҡан, уны халыҡтың 93%-ы ҡуллана.",science/technology,sports,"SENTENCE:
+ Европа менән һыу аҫты оптик-сүс кабель бәйләнеше һәм юғары тиҙлекле спутник бәйләнеше ярҙамында Гренландия интернетҡа тоташҡан, уны халыҡтың 93%-ы ҡуллана. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Был категорияла иң танылған ҡушымталарҙың береһе – Google Translate, ул кәрәкле телдең мәғлүмәттәрен индергәндән һуң автономиялы рәүештә тәржемә эшләргә мөмкинлек бирә.",science/technology,sports,"SENTENCE:
+ Был категорияла иң танылған ҡушымталарҙың береһе – Google Translate, ул кәрәкле телдең мәғлүмәттәрен индергәндән һуң автономиялы рәүештә тәржемә эшләргә мөмкинлек бирә. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Уның молекула төҙөлөшө газ, шыйыҡ йәиһә ҡаты есем хәлендә лә үҙгәрешһеҙ ҡала.",science/technology,sports,"SENTENCE:
+ Уның молекула төҙөлөшө газ, шыйыҡ йәиһә ҡаты есем хәлендә лә үҙгәрешһеҙ ҡала. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Видеояҙманы ҡулланыу бер нисә генә миллисекунд дауам иткән микросырайҙы, йөҙ хәрәкәттәрен аңлатыуҙа мөһим асыштарға килтерҙе.",science/technology,sports,"SENTENCE:
+ Видеояҙманы ҡулланыу бер нисә генә миллисекунд дауам иткән микросырайҙы, йөҙ хәрәкәттәрен аңлатыуҙа мөһим асыштарға килтерҙе. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Кешеләр ҙурайтып ҡарау өсөн күп мең йылдар буйына линзалар етештерә һәм уларҙы ҡуллана.,science/technology,sports,"SENTENCE:
+ Кешеләр ҙурайтып ҡарау өсөн күп мең йылдар буйына линзалар етештерә һәм уларҙы ҡуллана. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Шулай ҙа был алым берҙән-бер түгел, тәжрибәләр үткәреү, ә тәжрибә – бер йәки бер нисә ихтимал булған гипотезаны юҡ итеү, һорауҙар ҡуйыу һәм күҙәтеүҙәр үткәреү өсөн ҡулланылған тикшереү, улар ҙа ғилми тикшеренеүҙәргә йүнәлеш бирә.",science/technology,sports,"SENTENCE:
+ Шулай ҙа был алым берҙән-бер түгел, тәжрибәләр үткәреү, ә тәжрибә – бер йәки бер нисә ихтимал булған гипотезаны юҡ итеү, һорауҙар ҡуйыу һәм күҙәтеүҙәр үткәреү өсөн ҡулланылған тикшереү, улар ҙа ғилми тикшеренеүҙәргә йүнәлеш бирә. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Ниһайәт, ағас тәгәрмәстәрҙе тимер менән алмаштыралар. 1767 йылда беренсе тимер рельс юл асыла.",science/technology,sports,"SENTENCE:
+ Ниһайәт, ағас тәгәрмәстәрҙе тимер менән алмаштыралар. 1767 йылда беренсе тимер рельс юл асыла. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Карталарҙың күпселеге теләгән бер ерҙә шылтыратыу өсөн яҡшы булһа ла, ҡайһы берәүҙәре илдәрҙең билдәле бер төркөмдәренә шылтыратыу өсөн отошлораҡ тарифтар менән тәьмин итеүҙә махсуслаша.",science/technology,sports,"SENTENCE:
+ Карталарҙың күпселеге теләгән бер ерҙә шылтыратыу өсөн яҡшы булһа ла, ҡайһы берәүҙәре илдәрҙең билдәле бер төркөмдәренә шылтыратыу өсөн отошлораҡ тарифтар менән тәьмин итеүҙә махсуслаша. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Заманса тикшеренеү телескоптарының күбеһе уңайлы атмосфера шарттары булған алыҫ төбәктәрҙә урынлашҡан ҙур ҡоролмаларҙан ғибәрәт.,science/technology,sports,"SENTENCE:
+ Заманса тикшеренеү телескоптарының күбеһе уңайлы атмосфера шарттары булған алыҫ төбәктәрҙә урынлашҡан ҙур ҡоролмаларҙан ғибәрәт. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Ҡорос энә ер тартылыу арҡаһында һыу өҫтөндә йөҙә.,science/technology,sports,"SENTENCE:
+ Ҡорос энә ер тартылыу арҡаһында һыу өҫтөндә йөҙә. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"35 мм форматы, сәйерерәк тойолһа ла, киңлеккә 36 мм, бейеклеккә 24 мм тәшкил итә.",science/technology,sports,"SENTENCE:
+ 35 мм форматы, сәйерерәк тойолһа ла, киңлеккә 36 мм, бейеклеккә 24 мм тәшкил итә. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Күҙәнәктәр тереклекте өйрәнеү өсөн шул тиклем мөһим һәм кәрәкле һанала, уларҙы йыш ҡына ""тереклектең төҙөлөш элементтары"" тип тә атайҙар",science/technology,sports,"SENTENCE:
+ Күҙәнәктәр тереклекте өйрәнеү өсөн шул тиклем мөһим һәм кәрәкле һанала, уларҙы йыш ҡына ""тереклектең төҙөлөш элементтары"" тип тә атайҙар 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Шәхси VPN (виртуаль шәхси селтәрҙәр) провайдерҙары – сәйәси цензураны ла, коммерция IP-геофильтрацияһын да урап үтеү өсөн бик шәп юл.",science/technology,sports,"SENTENCE:
+ Шәхси VPN (виртуаль шәхси селтәрҙәр) провайдерҙары – сәйәси цензураны ла, коммерция IP-геофильтрацияһын да урап үтеү өсөн бик шәп юл. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Алдараҡ, космик станцияға осҡан ваҡытта гироскопты юғалтыуына ҡарамаҫтан, станция асыҡ космосҡа сыҡҡанға тиклем үҙенең торошон  һаҡлап ҡалды.",science/technology,sports,"SENTENCE:
+ Алдараҡ, космик станцияға осҡан ваҡытта гироскопты юғалтыуына ҡарамаҫтан, станция асыҡ космосҡа сыҡҡанға тиклем үҙенең торошон  һаҡлап ҡалды. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Ундай фекерләү даирәле кешеләр логик фекерләүгә оҫта була; уларға ҡағиҙәләр иҫләү, мәсьәләләр сисеү, фәнни тестар өҫтөндә эшләү еңел бирелә.",science/technology,sports,"SENTENCE:
+ Ундай фекерләү даирәле кешеләр логик фекерләүгә оҫта була; уларға ҡағиҙәләр иҫләү, мәсьәләләр сисеү, фәнни тестар өҫтөндә эшләү еңел бирелә. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Оцелоттар ваҡ хайуандарҙы ашарға яраталар. Мөмкин булһа, улар маймылдарҙы, йыландарҙы, кимереүселәрҙе һәм ҡоштарҙы тоталар. Һунар иткән бөтә хайуандарҙан оцелот күпкә кәмерәк.",science/technology,sports,"SENTENCE:
+ Оцелоттар ваҡ хайуандарҙы ашарға яраталар. Мөмкин булһа, улар маймылдарҙы, йыландарҙы, кимереүселәрҙе һәм ҡоштарҙы тоталар. Һунар иткән бөтә хайуандарҙан оцелот күпкә кәмерәк. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Ҡайһы бер урта форматтағы кинокамералар 6-ға 6 см форматты, дөрөҫөрәге 56-ға 56 мм негативты файҙалана.",science/technology,sports,"SENTENCE:
+ Ҡайһы бер урта форматтағы кинокамералар 6-ға 6 см форматты, дөрөҫөрәге 56-ға 56 мм негативты файҙалана. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Сәйәхәтселәргә районға йоғонто яһаған һауа торошоноң ниндәй ҡурҡынысы тураһында белергә кәңәш ителә, сөнки улар сәфәрҙәрҙең төрлө пландарына йоғонто яһай ала.",travel,sports,"SENTENCE:
+ Сәйәхәтселәргә районға йоғонто яһаған һауа торошоноң ниндәй ҡурҡынысы тураһында белергә кәңәш ителә, сөнки улар сәфәрҙәрҙең төрлө пландарына йоғонто яһай ала. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Автобустар көн дауамында район-ара автовокзалдан (йылға аша) юлға сыға, шулай ҙа күпселеге, айырыуса көнсығышҡа һәм Джакар/Бумтангка йүнәлгәндәре 06:30 һәм 07:30 ваҡыт арауығында ҡуҙғала.",travel,sports,"SENTENCE:
+ Автобустар көн дауамында район-ара автовокзалдан (йылға аша) юлға сыға, шулай ҙа күпселеге, айырыуса көнсығышҡа һәм Джакар/Бумтангка йүнәлгәндәре 06:30 һәм 07:30 ваҡыт арауығында ҡуҙғала. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Улар һыбайлыға тотороҡлоҡ тәьмин итә, әммә хәүеф тә тыуҙыра, сөнки һыбайлының аяғы уларға эләгеп ҡалыуы ихтимал.",travel,sports,"SENTENCE:
+ Улар һыбайлыға тотороҡлоҡ тәьмин итә, әммә хәүеф тә тыуҙыра, сөнки һыбайлының аяғы уларға эләгеп ҡалыуы ихтимал. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Балтик буйлап үҙенсәлекле круиздарҙың күпселеге Рәсәйҙең Санкт-Петербург ҡалаһында оҙаҡҡа туҡтауҙы күҙ уңында тота.,travel,sports,"SENTENCE:
+ Балтик буйлап үҙенсәлекле круиздарҙың күпселеге Рәсәйҙең Санкт-Петербург ҡалаһында оҙаҡҡа туҡтауҙы күҙ уңында тота. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Совет уйлағанса, сәйәхәтселәр урлашмай, законһыҙ баҙарға бәреп инмәй һәм ҡатнашмай, теләнселәмәй, башҡа кешеләрҙе үҙҙәренең мәнфәғәтенә хеҙмәт иттермәй.",travel,sports,"SENTENCE:
+ Совет уйлағанса, сәйәхәтселәр урлашмай, законһыҙ баҙарға бәреп инмәй һәм ҡатнашмай, теләнселәмәй, башҡа кешеләрҙе үҙҙәренең мәнфәғәтенә хеҙмәт иттермәй. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Сәфәргә сығыр алдынан һәм сәфәр ваҡытында күп нәмәне күҙ уңында тоторға кәрәк.,travel,sports,"SENTENCE:
+ Сәфәргә сығыр алдынан һәм сәфәр ваҡытында күп нәмәне күҙ уңында тоторға кәрәк. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Көндөң эҫеһендә сәйәхәтселәрҙең һыу (йәки башҡа әйберҙәр) иллюзияһын биргән сағымдар күреүе ихтимал.,travel,sports,"SENTENCE:
+ Көндөң эҫеһендә сәйәхәтселәрҙең һыу (йәки башҡа әйберҙәр) иллюзияһын биргән сағымдар күреүе ихтимал. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Балалы ғаиләләр бик һирәк күренеш, ләкин ҡайһы бер дөйөм ятаҡтар уларға шәхси бүлмәләрҙе рөхсәт итә.",travel,sports,"SENTENCE:
+ Балалы ғаиләләр бик һирәк күренеш, ләкин ҡайһы бер дөйөм ятаҡтар уларға шәхси бүлмәләрҙе рөхсәт итә. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Мәҫәлән, Луара үҙәнендәге, Рейн үҙәнендәге замоктарҙа булыу, йәки Дунайҙағы мауыҡтырғыс урындарға круизға барыу, йәки Эри каналы буйлап кәмәлә йөрөү.",travel,sports,"SENTENCE:
+ Мәҫәлән, Луара үҙәнендәге, Рейн үҙәнендәге замоктарҙа булыу, йәки Дунайҙағы мауыҡтырғыс урындарға круизға барыу, йәки Эри каналы буйлап кәмәлә йөрөү. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Һеҙҙекенә оҡшаған сәфәрҙәргә йыш заказ биргән агентҡа мөрәжәғәт итеү яҡшыраҡ.,travel,sports,"SENTENCE:
+ Һеҙҙекенә оҡшаған сәфәрҙәргә йыш заказ биргән агентҡа мөрәжәғәт итеү яҡшыраҡ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Каучсерфинг 2004 йылдың ғинуарында компьютер программисы Кейси Фентон Исландияға арзан рейс табып та, торор урыны булмағандан һуң ойошторола.",travel,sports,"SENTENCE:
+ Каучсерфинг 2004 йылдың ғинуарында компьютер программисы Кейси Фентон Исландияға арзан рейс табып та, торор урыны булмағандан һуң ойошторола. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Студент визаларында, ҡағиҙә булараҡ, ябай турист йәки бизнес визаларына ҡарағанда, башҡа төрлө талаптар һәм ғариза биреү тәртибе була.",travel,sports,"SENTENCE:
+ Студент визаларында, ҡағиҙә булараҡ, ябай турист йәки бизнес визаларына ҡарағанда, башҡа төрлө талаптар һәм ғариза биреү тәртибе була. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Бөтә ерҙә лә автомобилдә ниндәй кәрәк-яраҡ булырға тейешлеген талап иткән закондар бар.,travel,sports,"SENTENCE:
+ Бөтә ерҙә лә автомобилдә ниндәй кәрәк-яраҡ булырға тейешлеген талап иткән закондар бар. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Агентлыҡтарҙың күбеһе даими заказдар алырға әҙер булһа ла, уларҙың күбеһе сәйәхәттәрҙең билдәле бер этаптарында, бюджет диапазондарында йәки йүнәлештәрҙә махсуслаша.",travel,sports,"SENTENCE:
+ Агентлыҡтарҙың күбеһе даими заказдар алырға әҙер булһа ла, уларҙың күбеһе сәйәхәттәрҙең билдәле бер этаптарында, бюджет диапазондарында йәки йүнәлештәрҙә махсуслаша. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Сәйәхәтселәрҙең үҙ төбәктәрендә таныш булмаған хайуан ҡоротҡостарына тап булыуы ихтимал.,travel,sports,"SENTENCE:
+ Сәйәхәтселәрҙең үҙ төбәктәрендә таныш булмаған хайуан ҡоротҡостарына тап булыуы ихтимал. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Шулай уҡ төньяҡта Фатималағы Алла Анаһы бөйөк ғибәҙәтханаһын (ҡорамын), Мария күренгән бөтә донъяға билдәле урынды барып күрегеҙ.",travel,sports,"SENTENCE:
+ Шулай уҡ төньяҡта Фатималағы Алла Анаһы бөйөк ғибәҙәтханаһын (ҡорамын), Мария күренгән бөтә донъяға билдәле урынды барып күрегеҙ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Гомала йөрөү өсөн һеҙ бода-боданы (мототакси) файҙалана алаһығыҙ. Ҡыҫҡа аралар өсөн ғәҙәттәге (урындағы) хаҡ яҡынса 500 Конго франкы тәшкил итә.,travel,sports,"SENTENCE:
+ Гомала йөрөү өсөн һеҙ бода-боданы (мототакси) файҙалана алаһығыҙ. Ҡыҫҡа аралар өсөн ғәҙәттәге (урындағы) хаҡ яҡынса 500 Конго франкы тәшкил итә. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Әүҙем ял яратҡандар өсөн the Sea to Sky коридорынан юғарыға сәйәхәт итеү бик әһәмиәтле.,travel,travel,"SENTENCE:
+ Әүҙем ял яратҡандар өсөн the Sea to Sky коридорынан юғарыға сәйәхәт итеү бик әһәмиәтле. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Йәйәүле сафари (шулай уҡ ""ҡыуаҡтар буйлап йөрөү"", ""поход сафарийы"" йәки ""йәйәүле сафари"") бер нисә сәғәт йәки бер нисә көн дауам иткән йәйәүле сәфәрҙәрҙән ғибәрәт.",travel,sports,"SENTENCE:
+ Йәйәүле сафари (шулай уҡ ""ҡыуаҡтар буйлап йөрөү"", ""поход сафарийы"" йәки ""йәйәүле сафари"") бер нисә сәғәт йәки бер нисә көн дауам иткән йәйәүле сәфәрҙәрҙән ғибәрәт. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Уны тиҙерәк үтәр өсөн берҙән-бер ысул – тикшерелгән багаж итеп ебәреү. Авиакомпания ҡағиҙәләре уларға барған урынға пассажирһыҙ багаж ебәрергә рөхсәт бирмәй.,travel,sports,"SENTENCE:
+ Уны тиҙерәк үтәр өсөн берҙән-бер ысул – тикшерелгән багаж итеп ебәреү. Авиакомпания ҡағиҙәләре уларға барған урынға пассажирһыҙ багаж ебәрергә рөхсәт бирмәй. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Үтә ныҡ тулы булмаһындар өсөн тағы ла 300 вагон һатып алып, уларҙың дөйөм һанын 1300-гә еткерергә кәрәк.",travel,sports,"SENTENCE:
+ Үтә ныҡ тулы булмаһындар өсөн тағы ла 300 вагон һатып алып, уларҙың дөйөм һанын 1300-гә еткерергә кәрәк. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Бәләкәй балалары булған ғаиләләргә өҫтәмә әҙерлек талап ителеүе ихтимал, ләкин хатта сабыйҙар һәм мәктәпкәсә йәштәге балалар менән дә көн оҙоно саф һауала булырға ярай.",travel,sports,"SENTENCE:
+ Бәләкәй балалары булған ғаиләләргә өҫтәмә әҙерлек талап ителеүе ихтимал, ләкин хатта сабыйҙар һәм мәктәпкәсә йәштәге балалар менән дә көн оҙоно саф һауала булырға ярай. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Юғары киңлектә йөрөргә йәки тау артылыштарын аша сығырға йыйынған һәр кем ҡарҙы, боҙҙо һәм һыуыҡ температураны иҫәпкә алырға тейеш.",travel,sports,"SENTENCE:
+ Юғары киңлектә йөрөргә йәки тау артылыштарын аша сығырға йыйынған һәр кем ҡарҙы, боҙҙо һәм һыуыҡ температураны иҫәпкә алырға тейеш. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Бөгөн Тимбукту – фәҡир ҡала, шулай ҙа ул туристик ҡала булараҡ билдәле һәм унда аэропорт бар.",travel,travel,"SENTENCE:
+ Бөгөн Тимбукту – фәҡир ҡала, шулай ҙа ул туристик ҡала булараҡ билдәле һәм унда аэропорт бар. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Буран ваҡытында бик ҡыҫҡа ваҡыт эсендә батып ҡалырлыҡ ҡар яуып ташлауы ихтимал.,travel,sports,"SENTENCE:
+ Буран ваҡытында бик ҡыҫҡа ваҡыт эсендә батып ҡалырлыҡ ҡар яуып ташлауы ихтимал. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Әгәр ҙә һеҙ Көньяҡ ярымшарҙа бөтә донъя буйынса осорға теләйһегеҙ икән, трансокеан маршруттары булмағанлыҡтан, осоштарҙы һәм йүнәлештәрҙе һайлау мөмкинлеге сикле.",travel,sports,"SENTENCE:
+ Әгәр ҙә һеҙ Көньяҡ ярымшарҙа бөтә донъя буйынса осорға теләйһегеҙ икән, трансокеан маршруттары булмағанлыҡтан, осоштарҙы һәм йүнәлештәрҙе һайлау мөмкинлеге сикле. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Emirates, Etihad Airways, Qatar Airways һәм Turkish Airlines һымаҡ һауа компаниялары Африкаға үҙ хеҙмәттәрен байтаҡҡа киңәйтте һәм Европаның һауа компанияларына ҡарағанда отошлораҡ хаҡ менән Африканың күп һанлы ҙур ҡалаларына бәйләнеш тәҡдим итә.",travel,sports,"SENTENCE:
+ Emirates, Etihad Airways, Qatar Airways һәм Turkish Airlines һымаҡ һауа компаниялары Африкаға үҙ хеҙмәттәрен байтаҡҡа киңәйтте һәм Европаның һауа компанияларына ҡарағанда отошлораҡ хаҡ менән Африканың күп һанлы ҙур ҡалаларына бәйләнеш тәҡдим итә. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Уэмблиға бер ниндәй өҫтәмә транспорт та былмаҫ, һәм ер өҫтө поездтары Уэмблидала туҡталмаҫ, ә парковка һәм ердә йөрөү өсөн уңайлыклар ҙа етерлек түгел.",travel,sports,"SENTENCE:
+ Уэмблиға бер ниндәй өҫтәмә транспорт та былмаҫ, һәм ер өҫтө поездтары Уэмблидала туҡталмаҫ, ә парковка һәм ердә йөрөү өсөн уңайлыклар ҙа етерлек түгел. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Ҡағиҙә булараҡ, теләһә ҡайһы сит илдә оҙаҡ ваҡыт дауамында булыу һеҙҙән алдан виза алыуҙы талап итәсәк.",travel,sports,"SENTENCE:
+ Ҡағиҙә булараҡ, теләһә ҡайһы сит илдә оҙаҡ ваҡыт дауамында булыу һеҙҙән алдан виза алыуҙы талап итәсәк. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Һәр поезда MetroPlus һәм Metro вагондары бар; MetroPlus тренерҙары һәр ваҡыт Кейптаунға яҡын булған поездың аҙағында килә.,travel,travel,"SENTENCE:
+ Һәр поезда MetroPlus һәм Metro вагондары бар; MetroPlus тренерҙары һәр ваҡыт Кейптаунға яҡын булған поездың аҙағында килә. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Бөтә кеше йәмғиәт эшендә ҡатнаша һәм транспорт системаһын ҡуллана. Һәм бөтәһе лә тиерлек шул системаға зарлана.,travel,sports,"SENTENCE:
+ Бөтә кеше йәмғиәт эшендә ҡатнаша һәм транспорт системаһын ҡуллана. Һәм бөтәһе лә тиерлек шул системаға зарлана. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Кешеләр аҙ йәшәгәнлектән яҡтылыҡ ҡамасауламай, шунлыҡтан һеҙ йондоҙҙарҙы тамаша ҡыла алаһығыҙ.",travel,sports,"SENTENCE:
+ Кешеләр аҙ йәшәгәнлектән яҡтылыҡ ҡамасауламай, шунлыҡтан һеҙ йондоҙҙарҙы тамаша ҡыла алаһығыҙ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Визаның талаптары һәм сығымдар төрлө илдә төрлөсә, ул һеҙ килгән илгә бәйле.",travel,sports,"SENTENCE:
+ Визаның талаптары һәм сығымдар төрлө илдә төрлөсә, ул һеҙ килгән илгә бәйле. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Ғөмүмән әйткәндә, А-нан Б-ға туранан-тура осҡан рейстарҙа бизнес йәки беренсе класлы урындар өсөн ташламалар эҙләп тороуҙың бер мәғәнәһе лә юҡ.",travel,sports,"SENTENCE:
+ Ғөмүмән әйткәндә, А-нан Б-ға туранан-тура осҡан рейстарҙа бизнес йәки беренсе класлы урындар өсөн ташламалар эҙләп тороуҙың бер мәғәнәһе лә юҡ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Бумеранг ырғытыу - күп туристар үҙләштерергә теләгән популяр күнекмә.,travel,sports,"SENTENCE:
+ Бумеранг ырғытыу - күп туристар үҙләштерергә теләгән популяр күнекмә. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Тымыҡ океандың көньяҡ өлөшө менән көньяҡ Американың көнбайыш ярын үткәреп ебәргегеҙ килһә, был рейс берҙән-бер мөмкинлек түгел (түбәндә ҡарағыҙ).",travel,sports,"SENTENCE:
+ Тымыҡ океандың көньяҡ өлөшө менән көньяҡ Американың көнбайыш ярын үткәреп ебәргегеҙ килһә, был рейс берҙән-бер мөмкинлек түгел (түбәндә ҡарағыҙ). 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Сан-Франциско ҡалаһында бик күп отелдәр, ресторандар һәм беренсе класлы конференц-залдар булған киң туристик инфраструктура үҫешкән.",travel,sports,"SENTENCE:
+ Сан-Франциско ҡалаһында бик күп отелдәр, ресторандар һәм беренсе класлы конференц-залдар булған киң туристик инфраструктура үҫешкән. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Сәйәхәттәр ваҡытында ирекмән булыу – хәл-ваҡиғаларҙы ыңғай яҡҡа үҙгәртеүҙең бик шәп ысулы, тик эш бында яҡшылыҡ ҡылыуҙа ғына түгел.",travel,sports,"SENTENCE:
+ Сәйәхәттәр ваҡытында ирекмән булыу – хәл-ваҡиғаларҙы ыңғай яҡҡа үҙгәртеүҙең бик шәп ысулы, тик эш бында яҡшылыҡ ҡылыуҙа ғына түгел. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Кешеләр өйгә ҡайтҡан сәйәхәтселәр өсөн сабырлыҡ һәм хәлде аңлап ҡарау бик кәрәк икәнен уйлап еткермәҫкә лә мөмкин.,travel,sports,"SENTENCE:
+ Кешеләр өйгә ҡайтҡан сәйәхәтселәр өсөн сабырлыҡ һәм хәлде аңлап ҡарау бик кәрәк икәнен уйлап еткермәҫкә лә мөмкин. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Африканан ситтәге бөтә башҡа урындарға өҫтәлмә визалар, китеү һалымы, ерҙәге транспорт һәм башҡа сығымдарҙы ҡушырға онотмағыҙ.",travel,sports,"SENTENCE:
+ Африканан ситтәге бөтә башҡа урындарға өҫтәлмә визалар, китеү һалымы, ерҙәге транспорт һәм башҡа сығымдарҙы ҡушырға онотмағыҙ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Бешкәктә йәшәгән бер нисә кеше ҡанунһыҙлыҡта көньяҡтың протест белдереүселәрен ғәйепләне.,politics,sports,"SENTENCE:
+ Бешкәктә йәшәгән бер нисә кеше ҡанунһыҙлыҡта көньяҡтың протест белдереүселәрен ғәйепләне. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Бельгияның хәҙерге өлөштәре борон Люксембургтың өлөшө була, әммә 1830-сы йылдарҙағы Бельгия революцияһынан һуң Бельгияныҡына әүерелә.",politics,sports,"SENTENCE:
+ Бельгияның хәҙерге өлөштәре борон Люксембургтың өлөшө була, әммә 1830-сы йылдарҙағы Бельгия революцияһынан һуң Бельгияныҡына әүерелә. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"1988 йылдан башлап һайлау урналары үтә күренмәле булырға тейеш, шул рәүешле һайлаусылар менән күҙәтеүселәр тауыш биреү башланғанда конверттарҙың юҡлығына һәм тейешенсә һаналған һәм вәкәләтле һайлаусыларҙың конверттарына башҡа конверттарҙың өҫтәлмәүенә шаһит була алалар.",politics,sports,"SENTENCE:
+ 1988 йылдан башлап һайлау урналары үтә күренмәле булырға тейеш, шул рәүешле һайлаусылар менән күҙәтеүселәр тауыш биреү башланғанда конверттарҙың юҡлығына һәм тейешенсә һаналған һәм вәкәләтле һайлаусыларҙың конверттарына башҡа конверттарҙың өҫтәлмәүенә шаһит була алалар. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Ваҡытлыса премьер-министр Джулия Гиллард 2010 йылғы Федераль һайлауҙар кампанияһы ваҡытында, уның фекере буйынса, Австралия Елизавета II Королеваһы идараһы аҙағында Республика булырҡа тейеш.",politics,sports,"SENTENCE:
+ Ваҡытлыса премьер-министр Джулия Гиллард 2010 йылғы Федераль һайлауҙар кампанияһы ваҡытында, уның фекере буйынса, Австралия Елизавета II Королеваһы идараһы аҙағында Республика булырҡа тейеш. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Ирландия хөкүмәте хәлде төҙәтеү өсөн ҡәтғи парламент законын ҡабул итеү кәрәклеген ныҡлы һыҙыҡ өҫтөнә ала.,politics,sports,"SENTENCE:
+ Ирландия хөкүмәте хәлде төҙәтеү өсөн ҡәтғи парламент законын ҡабул итеү кәрәклеген ныҡлы һыҙыҡ өҫтөнә ала. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Төбәк буйынса дипломатик бәхәстәр Әрмәнстан менән Әзербайжан араһындағы мөнәсәбәттәрҙе боҙоуын дауам итә.,politics,sports,"SENTENCE:
+ Төбәк буйынса дипломатик бәхәстәр Әрмәнстан менән Әзербайжан араһындағы мөнәсәбәттәрҙе боҙоуын дауам итә. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Премьер-министр Стивен Харпер хөкүмәттең ""Саф һауа тураһындағы закон""ын, шишәмбе көндө Яны демократик партия лидеры Джек Лейтон менән премьер-министр офисында 25 минутлыҡ осрашыуҙан һуң, икенсе уҡыуға тиклем дөйөм партия комитеты ҡарауына ебәрергә риза булды.",politics,sports,"SENTENCE:
+ Премьер-министр Стивен Харпер хөкүмәттең ""Саф һауа тураһындағы закон""ын, шишәмбе көндө Яны демократик партия лидеры Джек Лейтон менән премьер-министр офисында 25 минутлыҡ осрашыуҙан һуң, икенсе уҡыуға тиклем дөйөм партия комитеты ҡарауына ебәрергә риза булды. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"АСТА-ға ҡул ҡуйғас, үткән айҙа Польшала күп һанлы протестар үтте, был Польша хөкүмәтенең әлегә килешеүҙе ратификацияламай торорға ҡарар итеүенә килтерҙе.",politics,sports,"SENTENCE:
+ АСТА-ға ҡул ҡуйғас, үткән айҙа Польшала күп һанлы протестар үтте, был Польша хөкүмәтенең әлегә килешеүҙе ратификацияламай торорға ҡарар итеүенә килтерҙе. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Консультациялар - ул бер илдәге сәйәси хәлде ҡыҫҡаса һүрәтләү генә.,politics,sports,"SENTENCE:
+ Консультациялар - ул бер илдәге сәйәси хәлде ҡыҫҡаса һүрәтләү генә. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"1976 йылғы һайлау ваҡытында ул Картерға тышҡы сәйәсәт буйынса кәңәштәр бирә, унан һуң 1977 йылдан 1981 йылға тиклем, Генри Киссинджер кеүек үк, милли хәүефһеҙлек (NSA) буйынса кәңәшсе хеҙмәтен башҡара.",politics,sports,"SENTENCE:
+ 1976 йылғы һайлау ваҡытында ул Картерға тышҡы сәйәсәт буйынса кәңәштәр бирә, унан һуң 1977 йылдан 1981 йылға тиклем, Генри Киссинджер кеүек үк, милли хәүефһеҙлек (NSA) буйынса кәңәшсе хеҙмәтен башҡара. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Төркиә шулай уҡ ИГИЛ-дың, белдереүҙә әйтелгәнсә, Европа илдәре репатриациялауҙан баш тартҡан әсир һуғышсыларын һаҡлауҙы үҙ өҫтөнә аласаҡ.",politics,sports,"SENTENCE:
+ Төркиә шулай уҡ ИГИЛ-дың, белдереүҙә әйтелгәнсә, Европа илдәре репатриациялауҙан баш тартҡан әсир һуғышсыларын һаҡлауҙы үҙ өҫтөнә аласаҡ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Ләкин Рига солох договорын, Совет-Польша һөжүм итешмәү пактын һәм башҡа ике яҡлы һәм күп яҡлы халыҡ-ара договорҙарҙы боҙоп, Советтар Союзы Ҡыҙыл Армияһының 800000-дән ашыу һалдаты инеп, Белорус һәм Украин фронттарын булдырғандан һуң, был пландар һә тигәнсе иҫкерә.",politics,sports,"SENTENCE:
+ Ләкин Рига солох договорын, Совет-Польша һөжүм итешмәү пактын һәм башҡа ике яҡлы һәм күп яҡлы халыҡ-ара договорҙарҙы боҙоп, Советтар Союзы Ҡыҙыл Армияһының 800000-дән ашыу һалдаты инеп, Белорус һәм Украин фронттарын булдырғандан һуң, был пландар һә тигәнсе иҫкерә. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Был процестан һуң, HJR-3 процеста ҡалыу өсөн, яңынан һайланған закон сығарыу органдары тарафынан йә 2015, йә 2016 йылда яңынан ҡараласаҡ.",politics,sports,"SENTENCE:
+ Был процестан һуң, HJR-3 процеста ҡалыу өсөн, яңынан һайланған закон сығарыу органдары тарафынан йә 2015, йә 2016 йылда яңынан ҡараласаҡ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Конгресс тарафынан ҡабул ителгәс, 4 июлдә Конгресс президенты Джон Хэнкок һәм секретарь Чарльз Томсон ҡул ҡуйған проект ҡулъяҙмаһы Джон Данлэптың бер нисә квартал аша урынлашҡан типографияһына ебәрелә.",politics,sports,"SENTENCE:
+ Конгресс тарафынан ҡабул ителгәс, 4 июлдә Конгресс президенты Джон Хэнкок һәм секретарь Чарльз Томсон ҡул ҡуйған проект ҡулъяҙмаһы Джон Данлэптың бер нисә квартал аша урынлашҡан типографияһына ебәрелә. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Сәғәт 11 тулыу менән протест белдереүселәр Уайтһоллда төньяҡ йүнәлештәге хәрәкәтте туҡтатты.,politics,sports,"SENTENCE:
+ Сәғәт 11 тулыу менән протест белдереүселәр Уайтһоллда төньяҡ йүнәлештәге хәрәкәтте туҡтатты. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Ләкин 1956 йылдың июнендә Хрущевтың вәғәҙәләре Польшалағы тәртипһеҙлектәрҙең коммунизмға ҡаршы дөйөм протесҡа әйләнеүе менән һынауға дусар ителә, унда эшселәр аҙыҡ-түлек етешмәүгә һәм эш хаҡы кәмеүгә ҡаршы сыға.",politics,sports,"SENTENCE:
+ Ләкин 1956 йылдың июнендә Хрущевтың вәғәҙәләре Польшалағы тәртипһеҙлектәрҙең коммунизмға ҡаршы дөйөм протесҡа әйләнеүе менән һынауға дусар ителә, унда эшселәр аҙыҡ-түлек етешмәүгә һәм эш хаҡы кәмеүгә ҡаршы сыға. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Ул тағы 40 йыл дауам итергә тейеш була, һәм уның менән Африканан Азияға тиклем, Афғанстанда, Кубала һәм башҡа күп урындарҙа ысынбарлыҡтағы прокси ғәскәрҙәр һуғышасаҡ әле.",politics,sports,"SENTENCE:
+ Ул тағы 40 йыл дауам итергә тейеш була, һәм уның менән Африканан Азияға тиклем, Афғанстанда, Кубала һәм башҡа күп урындарҙа ысынбарлыҡтағы прокси ғәскәрҙәр һуғышасаҡ әле. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Уҙған айҙа Президент комиссияһы элекке генераль директорга илде яңы һайлауларға этәреү буйынса саралар пакеты сиктәрендә отставкаға китәргә тәкъдим итте.,politics,sports,"SENTENCE:
+ Уҙған айҙа Президент комиссияһы элекке генераль директорга илде яңы һайлауларға этәреү буйынса саралар пакеты сиктәрендә отставкаға китәргә тәкъдим итте. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Башҡа ҡағылған темалар, ике милләттәр өсөн изге булып Йәрүсәлимдең киләсәктәге хәл һәм Иордан йылғаһының үҙәнен проблемаларҙы индерелде, тип хәбәр ителә.",politics,sports,"SENTENCE:
+ Башҡа ҡағылған темалар, ике милләттәр өсөн изге булып Йәрүсәлимдең киләсәктәге хәл һәм Иордан йылғаһының үҙәнен проблемаларҙы индерелде, тип хәбәр ителә. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Уның шулай уҡ штаттар араһындағы һалым закондарын һәм тарифтарҙы юҡҡа сығарыу вәкәләте лә булмай.,politics,sports,"SENTENCE:
+ Уның шулай уҡ штаттар араһындағы һалым закондарын һәм тарифтарҙы юҡҡа сығарыу вәкәләте лә булмай. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Француз һайлау закондары процедураны ҡәҙимгесә ҡәтғи кодификациялай.,politics,sports,"SENTENCE:
+ Француз һайлау закондары процедураны ҡәҙимгесә ҡәтғи кодификациялай. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Аралыҡ һайлауҙа бер аҙна элек еңелгәндән һуң, Буш тамашасыларға Азиялағы сауҙаның киңәйеүе тураһында һөйләй.",politics,sports,"SENTENCE:
+ Аралыҡ һайлауҙа бер аҙна элек еңелгәндән һуң, Буш тамашасыларға Азиялағы сауҙаның киңәйеүе тураһында һөйләй. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Был блокада һуңғы ике быуаттағы бер нисә халыҡ-ара килешеү менән кодланған дөйөм танылған халыҡ-ара хоҡуҡиәтте боҙһа ла, йәшәү өсөн мөһим булған һуғыш һәм граждан поставкаларын өҙөп, стратегия һөҙөмтәле булып сыға.",politics,sports,"SENTENCE:
+ Был блокада һуңғы ике быуаттағы бер нисә халыҡ-ара килешеү менән кодланған дөйөм танылған халыҡ-ара хоҡуҡиәтте боҙһа ла, йәшәү өсөн мөһим булған һуғыш һәм граждан поставкаларын өҙөп, стратегия һөҙөмтәле булып сыға. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Сәйәси һөйләшеүҙәрҙең уңышһыҙлыҡҡа дусар булыуына ҡарамаҫтан, Молдованың был ике өлөшө араһында иҡтисади бәйләнештәр ҡайтанан аяҡҡа баҫтырылды.",politics,sports,"SENTENCE:
+ Сәйәси һөйләшеүҙәрҙең уңышһыҙлыҡҡа дусар булыуына ҡарамаҫтан, Молдованың был ике өлөшө араһында иҡтисади бәйләнештәр ҡайтанан аяҡҡа баҫтырылды. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Ошо вазифалы кешеләр оҙатыуында ул Техас граждандарын йәмәғәт хәүефһеҙлеген һаҡлау аҙымдары яһалыуында ышандырҙы.,politics,sports,"SENTENCE:
+ Ошо вазифалы кешеләр оҙатыуында ул Техас граждандарын йәмәғәт хәүефһеҙлеген һаҡлау аҙымдары яһалыуында ышандырҙы. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Реконструкция буйынса көстәрҙең либераль тәнҡите реконструкциялауға контракттарҙы, йәнәһе, Вашингтондың үҙ кешеләренә биреүенә йүнәлдерелгән.",politics,sports,"SENTENCE:
+ Реконструкция буйынса көстәрҙең либераль тәнҡите реконструкциялауға контракттарҙы, йәнәһе, Вашингтондың үҙ кешеләренә биреүенә йүнәлдерелгән. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+2010 йылғы федераль һайлауҙарға тиклем һораштырылған 1400 кешенең Австралиянең республикаға әйләнүенә ҡаршы сығыш яһаусыларҙың һаны 2008 йылдан 8 процентка арткан.,politics,sports,"SENTENCE:
+ 2010 йылғы федераль һайлауҙарға тиклем һораштырылған 1400 кешенең Австралиянең республикаға әйләнүенә ҡаршы сығыш яһаусыларҙың һаны 2008 йылдан 8 процентка арткан. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Дипломаттар икенсе турҙың кәрәк түгеллеген таныу өсөн афған конституцияһында етерлек аңлашылмаусылыҡтар тапҡандарын белдерҙе.,politics,sports,"SENTENCE:
+ Дипломаттар икенсе турҙың кәрәк түгеллеген таныу өсөн афған конституцияһында етерлек аңлашылмаусылыҡтар тапҡандарын белдерҙе. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Һөҙөмтәләр алынғандан һуң, Гингрич Санторумды маҡтаны, әммә Ромниға ауыр һүҙҙәр әйтте, Айовала уның исеменән Гингричҡа ҡаршы кире реклама кампаниялары трансляцияланғайны.",politics,sports,"SENTENCE:
+ Һөҙөмтәләр алынғандан һуң, Гингрич Санторумды маҡтаны, әммә Ромниға ауыр һүҙҙәр әйтте, Айовала уның исеменән Гингричҡа ҡаршы кире реклама кампаниялары трансляцияланғайны. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Был бишенсе CEP Мартелли дөрт йыл эсендә.,politics,sports,"SENTENCE:
+ Был бишенсе CEP Мартелли дөрт йыл эсендә. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Олимпия алтын призеры ирекле стиль менән 100 һәм 200 метр дистанцияларҙа һәм берҙәмлек уйындарында өс эстафетала йөзөргә тейеш ине, ләкин уның ялыу арҡаһында уның физик формаһы шик аҫтында алынды.",sports,sports,"SENTENCE:
+ Олимпия алтын призеры ирекле стиль менән 100 һәм 200 метр дистанцияларҙа һәм берҙәмлек уйындарында өс эстафетала йөзөргә тейеш ине, ләкин уның ялыу арҡаһында уның физик формаһы шик аҫтында алынды. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Элекке Олимпия чемпионы һәм донъя чемпионыннан тыш, Сайто үҙ үлгәндән мәл Бөтә Япония дзюдо федерацияһының күнекмәләр комитетың рәисе була.",sports,sports,"SENTENCE:
+ Элекке Олимпия чемпионы һәм донъя чемпионыннан тыш, Сайто үҙ үлгәндән мәл Бөтә Япония дзюдо федерацияһының күнекмәләр комитетың рәисе була. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Бөгөн Берлинда башҡарма совет ултырышында Халыҡ-ара Олимпия комитеты был спорт төрөн индереү өсөн тауыш биргән. Атап әйткәндә, Регби берлегенән регби һәм гольф Олимпия уйындарында ҡатнаштырыу өсөн башҡа биш спорт төрө араһынан һайлап алынған.",sports,sports,"SENTENCE:
+ Бөгөн Берлинда башҡарма совет ултырышында Халыҡ-ара Олимпия комитеты был спорт төрөн индереү өсөн тауыш биргән. Атап әйткәндә, Регби берлегенән регби һәм гольф Олимпия уйындарында ҡатнаштырыу өсөн башҡа биш спорт төрө араһынан һайлап алынған. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Йылдың иң ҙур турниры декабрь айында Лас Канитастағы поло яландарында үтә.,sports,sports,"SENTENCE:
+ Йылдың иң ҙур турниры декабрь айында Лас Канитастағы поло яландарында үтә. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Каталонияның баш ҡалаһына күскәндән алып, Видал клуб өсөн 49 матчта уйнаны.",sports,sports,"SENTENCE:
+ Каталонияның баш ҡалаһына күскәндән алып, Видал клуб өсөн 49 матчта уйнаны. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Сәләмәт энергия балансын һаҡлау, һыу эсеү кеүек файҙалы ғәҙәтте ҡулланыу һәм өҫтәмәләр ҡабул итеүҙең төрлө аспекттарын аңлау спортсыларға һөҙөмтәләрен яҡшыртырға һәм спорттан күберәк ҡәнәғәтлек алырға ярҙам итәсәк.",sports,sports,"SENTENCE:
+ Сәләмәт энергия балансын һаҡлау, һыу эсеү кеүек файҙалы ғәҙәтте ҡулланыу һәм өҫтәмәләр ҡабул итеүҙең төрлө аспекттарын аңлау спортсыларға һөҙөмтәләрен яҡшыртырға һәм спорттан күберәк ҡәнәғәтлек алырға ярҙам итәсәк. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Өсөнсө урындағы Һамлин егерме мәрәйгә ҡалыша, әммә ул Бойерҙан бишкә алда. Кан менән кесе Труэкс 2220 һәм 2207 мәрәй менән бишенсе һәм алтынсы урындарҙы биләй.",sports,sports,"SENTENCE:
+ Өсөнсө урындағы Һамлин егерме мәрәйгә ҡалыша, әммә ул Бойерҙан бишкә алда. Кан менән кесе Труэкс 2220 һәм 2207 мәрәй менән бишенсе һәм алтынсы урындарҙы биләй. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Надалдең канадалыға ҡаршы шәхси иҫәбе – 7–2.,sports,sports,"SENTENCE:
+ Надалдең канадалыға ҡаршы шәхси иҫәбе – 7–2. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Элек Ярке миҙгел алды күнекмәһен Италияла Коверчианола үтә ине. Ул “Болонья”ға ҡаршы йәкшәмбегә билдәләнгән матч алдынан команда ҡунаҡханаһына туҡтай.,sports,sports,"SENTENCE:
+ Элек Ярке миҙгел алды күнекмәһен Италияла Коверчианола үтә ине. Ул “Болонья”ға ҡаршы йәкшәмбегә билдәләнгән матч алдынан команда ҡунаҡханаһына туҡтай. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Транспорт булмауы сәбәпле, уйындың ябыҡ ишектәр артында команда анаттарыннан башка уҙарға мәжбүр булыуы ихтималлығынан арттырҙылар.",sports,sports,"SENTENCE:
+ Транспорт булмауы сәбәпле, уйындың ябыҡ ишектәр артында команда анаттарыннан башка уҙарға мәжбүр булыуы ихтималлығынан арттырҙылар. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Томми Дример: ""Луна экстримдың беренсе короле ине. Минем беренсе менеджер. Луна ике ай төнөндә вафат булды. Бик үҙенсәлекле һәм нисектер ул. Көслө ҡатын-ҡыз.""",sports,sports,"SENTENCE:
+ Томми Дример: ""Луна экстримдың беренсе короле ине. Минем беренсе менеджер. Луна ике ай төнөндә вафат булды. Бик үҙенсәлекле һәм нисектер ул. Көслө ҡатын-ҡыз."" 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Ирҙәр араһында күреү һәләте түбән булған поляк саңғысыһы Мацей Крезель һәм гид Анна Огаржинская Супер-G-ла финишҡа ун өсөнсө булып килделәр. Көньяҡ Кореянан Чон Сок Парк ултырған килеш ирҙәр супергигантында егерме дүртенсе булып финишҡа килде.,sports,sports,"SENTENCE:
+ Ирҙәр араһында күреү һәләте түбән булған поляк саңғысыһы Мацей Крезель һәм гид Анна Огаржинская Супер-G-ла финишҡа ун өсөнсө булып килделәр. Көньяҡ Кореянан Чон Сок Парк ултырған килеш ирҙәр супергигантында егерме дүртенсе булып финишҡа килде. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Турнирҙар тураһында яңылыҡтарҙы һәм поло матчтарына билеттарҙы ҡайҙан алырға икәнде Asociacion Аргентина де Полоның сайтында табырға була.,sports,sports,"SENTENCE:
+ Турнирҙар тураһында яңылыҡтарҙы һәм поло матчтарына билеттарҙы ҡайҙан алырға икәнде Asociacion Аргентина де Полоның сайтында табырға була. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Уйындар иртәнге сәғәт 10-да, көн бик яҡшы саҡта, башланды, һәм, тиҙ генә баҫылған иртәнге быҫҡаҡ ямғырҙы иҫәпкә алмағанда, был регби-7 өсөн идеаль көн ине.",sports,sports,"SENTENCE:
+ Уйындар иртәнге сәғәт 10-да, көн бик яҡшы саҡта, башланды, һәм, тиҙ генә баҫылған иртәнге быҫҡаҡ ямғырҙы иҫәпкә алмағанда, был регби-7 өсөн идеаль көн ине. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Мексиканан Арли Веласкес ултырған килеш ирҙәр класында Super-G-ла ун бишенсе булып финишҡа килде. Яңы Зеландиянан Адам Холл баҫҡан килеш ирҙәр араһында Super-G-ла финишҡа туғыҙынсы булып килде.,sports,sports,"SENTENCE:
+ Мексиканан Арли Веласкес ултырған килеш ирҙәр класында Super-G-ла ун бишенсе булып финишҡа килде. Яңы Зеландиянан Адам Холл баҫҡан килеш ирҙәр араһында Super-G-ла финишҡа туғыҙынсы булып килде. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Серияның финал матчы Йоһаннесбургтағы Эллис-паркта алдағы аҙнала буласаҡ, унда ""Спрингбокс"" Австралия менән уйнаясаҡ.",sports,sports,"SENTENCE:
+ Серияның финал матчы Йоһаннесбургтағы Эллис-паркта алдағы аҙнала буласаҡ, унда ""Спрингбокс"" Австралия менән уйнаясаҡ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Яҡшы шарттарҙа йәйәү йөрөү менән сағыштырғанда бер нисә ҙур арауыҡты үтә алаһығыҙ, әммә һеҙ әҙер трассаларҙа ауыр рюкзакһыҙ ярыш саңғыларының тиҙлегенә бик һирәк осраҡта ғына өлгәшә аласаҡһығыҙ.",sports,sports,"SENTENCE:
+ Яҡшы шарттарҙа йәйәү йөрөү менән сағыштырғанда бер нисә ҙур арауыҡты үтә алаһығыҙ, әммә һеҙ әҙер трассаларҙа ауыр рюкзакһыҙ ярыш саңғыларының тиҙлегенә бик һирәк осраҡта ғына өлгәшә аласаҡһығыҙ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Джонсон, ете мәрәйгә артта ҡалып, 2243 мәрәй менән икенсе урында тора.",sports,sports,"SENTENCE:
+ Джонсон, ете мәрәйгә артта ҡалып, 2243 мәрәй менән икенсе урында тора. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Каньонинг - ул йә ҡоро, йәки һыу тулы каньондың төбөнә сумыу.",sports,sports,"SENTENCE:
+ Каньонинг - ул йә ҡоро, йәки һыу тулы каньондың төбөнә сумыу. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Робин Утһаппа иннингста иң күп мәрәй йыя: 11 дүртле һәм 2 алтылы индереп, 70 ран һәм ни бары 41 туп була.",sports,sports,"SENTENCE:
+ Робин Утһаппа иннингста иң күп мәрәй йыя: 11 дүртле һәм 2 алтылы индереп, 70 ран һәм ни бары 41 туп була. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Итальяндар халыҡ-ара уйындарҙа һәм Олимпия ярыштарында ҡатнашҡан ҡышҡы спорт төрҙәре айырыуса төньяҡ төбәктәрҙә популяр.,sports,sports,"SENTENCE:
+ Итальяндар халыҡ-ара уйындарҙа һәм Олимпия ярыштарында ҡатнашҡан ҡышҡы спорт төрҙәре айырыуса төньяҡ төбәктәрҙә популяр. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Маручидор, икенсе урынды алған Нусаны алты мәрәйгә үтеп, турнир таблицаһының иң башында урын алды.",sports,sports,"SENTENCE:
+ Маручидор, икенсе урынды алған Нусаны алты мәрәйгә үтеп, турнир таблицаһының иң башында урын алды. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Алонсо артынса тиҙҙән күп һанлы ярыштарҙа зыян күргән подвескаһы арҡаһында Михаэль Шумахер ярышты тамамлай.,sports,sports,"SENTENCE:
+ Алонсо артынса тиҙҙән күп һанлы ярыштарҙа зыян күргән подвескаһы арҡаһында Михаэль Шумахер ярышты тамамлай. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Дөрөҫ туҡланыу үҙе генә юғары һөҙөмтәгә илтмәһә лә, ул йәш спортсыларҙың дөйөм хәленә ҙур йоғонто яһай.",sports,sports,"SENTENCE:
+ Дөрөҫ туҡланыу үҙе генә юғары һөҙөмтәгә илтмәһә лә, ул йәш спортсыларҙың дөйөм хәленә ҙур йоғонто яһай. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Уның ауыртыу бөтөрөү өсөн кәрәк дарыуҙар ҡабул итә алманы, сөнки улар уйындарҙа тыйылған.",sports,sports,"SENTENCE:
+ Уның ауыртыу бөтөрөү өсөн кәрәк дарыуҙар ҡабул итә алманы, сөнки улар уйындарҙа тыйылған. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Тикшеренеүҙәр күрһәтеүенсә, тарҡау склероз менән ҡатын-ҡыҙҙар ирҙәргә ҡарағанда ике тапҡыр йышыраҡ ауырый.",health,sports,"SENTENCE:
+ Тикшеренеүҙәр күрһәтеүенсә, тарҡау склероз менән ҡатын-ҡыҙҙар ирҙәргә ҡарағанда ике тапҡыр йышыраҡ ауырый. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Законһыҙ етештерелгән спиртлы эсемлектәрҙә төрлө хәүефле ҡушылмалар, шул иҫәптән метанол, булыуы мөмкин, уның хатта бәләкәй генә дозала ла һуҡырайыуға йәки үлемгә килтереүе ихтимал.",health,sports,"SENTENCE:
+ Законһыҙ етештерелгән спиртлы эсемлектәрҙә төрлө хәүефле ҡушылмалар, шул иҫәптән метанол, булыуы мөмкин, уның хатта бәләкәй генә дозала ла һуҡырайыуға йәки үлемгә килтереүе ихтимал. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Депрессия менән ҡурҡыуҙан айырмалы, бары тик һәләкәт көтөү генә аҙна һайын үткәрелгән физик әүҙемлек сессиялары менән бәйле булып сыға.",health,sports,"SENTENCE:
+ Депрессия менән ҡурҡыуҙан айырмалы, бары тик һәләкәт көтөү генә аҙна һайын үткәрелгән физик әүҙемлек сессиялары менән бәйле булып сыға. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Автомобилдәрҙе күпләп ҡулланыу юлдарҙа бәхетһеҙ осраҡтарҙың артыуына, ә был, үҙ сиратында, һаулыҡ һаҡлау өлкәһендә йәрәхәтләнгән кешеләрҙе дауалауҙың яңы ысулдарын уйлап сығарыуға килтерә.",health,sports,"SENTENCE:
+ Автомобилдәрҙе күпләп ҡулланыу юлдарҙа бәхетһеҙ осраҡтарҙың артыуына, ә был, үҙ сиратында, һаулыҡ һаҡлау өлкәһендә йәрәхәтләнгән кешеләрҙе дауалауҙың яңы ысулдарын уйлап сығарыуға килтерә. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Төп тикшеренеүселәр бының һөт биҙе яман шеше һымаҡ сирҙәрҙән тере ҡалыу ихтималы байыраҡ илдәрҙәгенән яртылаш кәм булған түбән килемле илдәрҙәге пациенттарҙа яман шеш, туберкулез, ВИЧ һәм малярияны иртәрәк асыҡлау мөмкинлеген биреүе ихтимал, тиҙәр.",health,sports,"SENTENCE:
+ Төп тикшеренеүселәр бының һөт биҙе яман шеше һымаҡ сирҙәрҙән тере ҡалыу ихтималы байыраҡ илдәрҙәгенән яртылаш кәм булған түбән килемле илдәрҙәге пациенттарҙа яман шеш, туберкулез, ВИЧ һәм малярияны иртәрәк асыҡлау мөмкинлеген биреүе ихтимал, тиҙәр. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Яңы Шотландияның Һалифакс ҡалаһындағы Далһаузи университетының медицина профессоры һәм Канада Диабет ассоциацияһының клиник һәм фәнни бүлеге етәксеһе доктор Эһуд Ур тикшеренеүҙең әле һаман башы ғына икәнен иҫкәртте.,health,sports,"SENTENCE:
+ Яңы Шотландияның Һалифакс ҡалаһындағы Далһаузи университетының медицина профессоры һәм Канада Диабет ассоциацияһының клиник һәм фәнни бүлеге етәксеһе доктор Эһуд Ур тикшеренеүҙең әле һаман башы ғына икәнен иҫкәртте. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Был балалар, ҡағиҙә булараҡ, күп проблемаларға дусар булалар, сөнки улар баш мейеһен стимуллаштырыу өсөн “хәүефле тәртип алып баралар, һуғышалар, абруйлыларға ҡаршы сығалар”, сөнки уларҙың мейеһен ҡәҙимге ысулдар менән стимуллаштырып булмай.",health,sports,"SENTENCE:
+ Был балалар, ҡағиҙә булараҡ, күп проблемаларға дусар булалар, сөнки улар баш мейеһен стимуллаштырыу өсөн “хәүефле тәртип алып баралар, һуғышалар, абруйлыларға ҡаршы сығалар”, сөнки уларҙың мейеһен ҡәҙимге ысулдар менән стимуллаштырып булмай. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Кешеләрҙең ел һәм тулҡындар менән һауаға эләккән бысранған һыуҙы һулауҙан зыян күреүе ихтимал.,health,sports,"SENTENCE:
+ Кешеләрҙең ел һәм тулҡындар менән һауаға эләккән бысранған һыуҙы һулауҙан зыян күреүе ихтимал. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Ҡайһы бер кешеләр иҫәпләүенсә, яһалма рәүештә аңлы төш күреүҙе йыш ҡабатлау йонсотҡос булырға мөмкин.",health,sports,"SENTENCE:
+ Ҡайһы бер кешеләр иҫәпләүенсә, яһалма рәүештә аңлы төш күреүҙе йыш ҡабатлау йонсотҡос булырға мөмкин. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Был мәлдә Потро яурынына йәрәхәт алды, әммә уйынға кире ҡайта алды.",health,sports,"SENTENCE:
+ Был мәлдә Потро яурынына йәрәхәт алды, әммә уйынға кире ҡайта алды. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Бынан тыш, был ихтыяжды үтәмәү үҫеш әкренәйеү, тамаҡ туймау, һөҙөмтәлә, үлеү кеүек етди эҙемтәләргә килтерә.",health,sports,"SENTENCE:
+ Бынан тыш, был ихтыяжды үтәмәү үҫеш әкренәйеү, тамаҡ туймау, һөҙөмтәлә, үлеү кеүек етди эҙемтәләргә килтерә. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Амстердам ҡалаһының һәм Анна Франк музейының рәсми вәкилдәре, ағас бәшмәк сире менән зарарланған һәм кешеләрҙең сәләмәтлеге өсөн хәүеф тыуҙыра, тип белдерә, сөнки ул мотлаҡ ауыу ҡурҡынысы аҫтында, тип раҫлай.",health,sports,"SENTENCE:
+ Амстердам ҡалаһының һәм Анна Франк музейының рәсми вәкилдәре, ағас бәшмәк сире менән зарарланған һәм кешеләрҙең сәләмәтлеге өсөн хәүеф тыуҙыра, тип белдерә, сөнки ул мотлаҡ ауыу ҡурҡынысы аҫтында, тип раҫлай. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Дауахана, шул иҫәптән башҡаларҙың зарарланыу мөмкинлеген иҫкәртеү өсөн пацентты башҡаларҙан айырыуҙы ла индереп, инфекцион контроль протоколына эйәрә.",health,sports,"SENTENCE:
+ Дауахана, шул иҫәптән башҡаларҙың зарарланыу мөмкинлеген иҫкәртеү өсөн пацентты башҡаларҙан айырыуҙы ла индереп, инфекцион контроль протоколына эйәрә. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Гаити Ғәҙеллек һәм Демократия институты БМО-ның Непал тыныслыҡ һаҡлаусылар батальонының Гаитиға яңылыштан ауырыу килтереүенә ишаралаған бойондороҡһоҙ тикшеренеүҙәргә һылтанды.,health,sports,"SENTENCE:
+ Гаити Ғәҙеллек һәм Демократия институты БМО-ның Непал тыныслыҡ һаҡлаусылар батальонының Гаитиға яңылыштан ауырыу килтереүенә ишаралаған бойондороҡһоҙ тикшеренеүҙәргә һылтанды. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Йоғошло ауырыуҙар йәки кешеләрҙе көс менән үлтерерлек хәүефле хайуандар, ғаҙәттә, ҡоротҡос булып һаналмай.",health,sports,"SENTENCE:
+ Йоғошло ауырыуҙар йәки кешеләрҙе көс менән үлтерерлек хәүефле хайуандар, ғаҙәттә, ҡоротҡос булып һаналмай. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Иғтибарһыҙ булыу боҙоҡлоғо булған балаларға мәктәп эше кеүек нәмәләргә иғтибар туплау ауыр, ләкин улар үҙҙәренә оҡшаған нәмәләргә, мәҫәлән, уйын уйнау, яратҡан мультфильмдарын ҡарау йәки тыныш билдәләрһеҙ һөйләмдәр яҙыу кеүек эштәргә туплана алалар.",health,sports,"SENTENCE:
+ Иғтибарһыҙ булыу боҙоҡлоғо булған балаларға мәктәп эше кеүек нәмәләргә иғтибар туплау ауыр, ләкин улар үҙҙәренә оҡшаған нәмәләргә, мәҫәлән, уйын уйнау, яратҡан мультфильмдарын ҡарау йәки тыныш билдәләрһеҙ һөйләмдәр яҙыу кеүек эштәргә туплана алалар. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Инфекцияланған кеше бер йыл эсендә яҡын аралашҡан 10-15 кешегә йоҡтора ала.,health,sports,"SENTENCE:
+ Инфекцияланған кеше бер йыл эсендә яҡын аралашҡан 10-15 кешегә йоҡтора ала. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Яралылар дауаханаға оҙатылғандан һуң, һуғыш туҡтағас, башҡа 40-лап тотҡон ихатала ҡалды һәм камераларына кире ҡайтыуҙан баш тартты.",health,sports,"SENTENCE:
+ Яралылар дауаханаға оҙатылғандан һуң, һуғыш туҡтағас, башҡа 40-лап тотҡон ихатала ҡалды һәм камераларына кире ҡайтыуҙан баш тартты. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Табиптарҙы император Август яллай башлай, һәм улар хатта алыштарҙан һуң файҙаланыу өсөн беренсе Рим медицина корпусын ойоштора.",health,sports,"SENTENCE:
+ Табиптарҙы император Август яллай башлай, һәм улар хатта алыштарҙан һуң файҙаланыу өсөн беренсе Рим медицина корпусын ойоштора. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Әммә водитель башына етди йәрәхәттәр алған.,health,sports,"SENTENCE:
+ Әммә водитель башына етди йәрәхәттәр алған. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"“Беҙҙең хәҙер элек диабет менән ауырыған, ә хәҙер ауырымаған 4 айлыҡ сысҡандарыбыҙ бар”, – тип өҫтәне ул.",health,sports,"SENTENCE:
+ “Беҙҙең хәҙер элек диабет менән ауырыған, ә хәҙер ауырымаған 4 айлыҡ сысҡандарыбыҙ бар”, – тип өҫтәне ул. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Эске ағыуланыуҙың тиҙ арала беленмәүе лә мөмкин. Ҡоҫоу кеүек симптомдар бик йыш осрай һәм тиҙ генә диагноз ҡуйып булмай.,health,sports,"SENTENCE:
+ Эске ағыуланыуҙың тиҙ арала беленмәүе лә мөмкин. Ҡоҫоу кеүек симптомдар бик йыш осрай һәм тиҙ генә диагноз ҡуйып булмай. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Һөҙөмтәлә, артистар сәхнәлә марихуана тарта, ә театр үҙе тамашасыларҙы ҡушылырға саҡыра.",entertainment,sports,"SENTENCE:
+ Һөҙөмтәлә, артистар сәхнәлә марихуана тарта, ә театр үҙе тамашасыларҙы ҡушылырға саҡыра. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+«Aerosmith» үҙ турындағы ҡалған концерттарын туҡтаты.,entertainment,sports,"SENTENCE:
+ «Aerosmith» үҙ турындағы ҡалған концерттарын туҡтаты. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Әгәр һеҙҙең был сараға яҡын булғығыҙ килһә, музыкаға яҡын кемпингҡа урынлашыу өсөн иртәрәк барыуығыҙ кәрәк.",entertainment,sports,"SENTENCE:
+ Әгәр һеҙҙең был сараға яҡын булғығыҙ килһә, музыкаға яҡын кемпингҡа урынлашыу өсөн иртәрәк барыуығыҙ кәрәк. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Күп йылдар буйы ҡулланылған төрлө фильм форматтары бар. Стандарт 35 миллиметрлы пленка (36-нан 24 миллиметрға тиклемге негатив) иң киң таралған.,entertainment,sports,"SENTENCE:
+ Күп йылдар буйы ҡулланылған төрлө фильм форматтары бар. Стандарт 35 миллиметрлы пленка (36-нан 24 миллиметрға тиклемге негатив) иң киң таралған. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Был бик киң таралған шөғөл булһа ла, ул Диснeйҙа тыйылған: билеттар кешенән кешегә тапшырылырға тейеш түгел.",entertainment,sports,"SENTENCE:
+ Был бик киң таралған шөғөл булһа ла, ул Диснeйҙа тыйылған: билеттар кешенән кешегә тапшырылырға тейеш түгел. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Шоуҙың һәр эпизоды берәй китаптағы темаға бағышланасаҡ, шунан был теманы бер нисә тарихта тикшерәсәк.",entertainment,sports,"SENTENCE:
+ Шоуҙың һәр эпизоды берәй китаптағы темаға бағышланасаҡ, шунан был теманы бер нисә тарихта тикшерәсәк. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Кешеләр йоланы ҡарай алһын өсөн Римдың төрлө урынына бер нисә ҙур телевизион экран ҡуйыла.,entertainment,sports,"SENTENCE:
+ Кешеләр йоланы ҡарай алһын өсөн Римдың төрлө урынына бер нисә ҙур телевизион экран ҡуйыла. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Софокл менән Аристофан һаман да популяр драматургтар булып ҡала һәм уларҙың пьесалары донъя әҙәбиәтенең иң бөйөк әҫәрҙәре иҫәбенә индерелә.,entertainment,sports,"SENTENCE:
+ Софокл менән Аристофан һаман да популяр драматургтар булып ҡала һәм уларҙың пьесалары донъя әҙәбиәтенең иң бөйөк әҫәрҙәре иҫәбенә индерелә. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Шулай уҡ һәр шоуҙа китаптар тәҡдим ителә, уларҙы балалар үҙҙәренең китапханаларында эҙләргә тейеш.",entertainment,sports,"SENTENCE:
+ Шулай уҡ һәр шоуҙа китаптар тәҡдим ителә, уларҙы балалар үҙҙәренең китапханаларында эҙләргә тейеш. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Аккордеонда тауышты өҫтәү өсөн һеҙ ныҡ баҫып сильфон йә тиҙлек ҡулланаһығыҙ.,entertainment,sports,"SENTENCE:
+ Аккордеонда тауышты өҫтәү өсөн һеҙ ныҡ баҫып сильфон йә тиҙлек ҡулланаһығыҙ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Һеҙ ҡараңғыла пирамидаларҙы күрә алаһығыҙ һәм тамаша башланғансы уларҙы тынлыҡта күрә алаһығыҙ.,entertainment,sports,"SENTENCE:
+ Һеҙ ҡараңғыла пирамидаларҙы күрә алаһығыҙ һәм тамаша башланғансы уларҙы тынлыҡта күрә алаһығыҙ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Асыҡ һауала үткәрелә торған сараларға беҙ һунар итеү, балыҡ тотоу, фотография менән шөғөлләнеү, ҡоштары күҙәтеү, парктарға барыу һәм экосистема тураһында мәғлүмәт туплауҙы индерәбеҙ.",entertainment,sports,"SENTENCE:
+ Асыҡ һауала үткәрелә торған сараларға беҙ һунар итеү, балыҡ тотоу, фотография менән шөғөлләнеү, ҡоштары күҙәтеү, парктарға барыу һәм экосистема тураһында мәғлүмәт туплауҙы индерәбеҙ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Сфинкс ерлек һәм оҙон тарихты бәйән итеүсе сифатында ҡуйылған.,entertainment,sports,"SENTENCE:
+ Сфинкс ерлек һәм оҙон тарихты бәйән итеүсе сифатында ҡуйылған. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Уларҙың ҡунаҡтарҙы яҡшы кәйефтә тотоу һәм бүлмәнән сығармау өсөн ризыҡ, эсемлек һәм күңел асыу буйынса махсус тәҡдимдәре бар.",entertainment,sports,"SENTENCE:
+ Уларҙың ҡунаҡтарҙы яҡшы кәйефтә тотоу һәм бүлмәнән сығармау өсөн ризыҡ, эсемлек һәм күңел асыу буйынса махсус тәҡдимдәре бар. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Инглиз Һәм япон телдәрендәге хисаптарҙы тәҡдим итеп, Глобаль ойошма испан, итальян һәм корей телдәрендә телевидение, Интернет һәм мобиль яйланмалар өсөн программаларҙы башлап ебәрә.",entertainment,sports,"SENTENCE:
+ Инглиз Һәм япон телдәрендәге хисаптарҙы тәҡдим итеп, Глобаль ойошма испан, итальян һәм корей телдәрендә телевидение, Интернет һәм мобиль яйланмалар өсөн программаларҙы башлап ебәрә. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+“Симпсондар”ға тиклем Саймон бер нисә шоуҙа төрлө вазифаларҙа эшләй.,entertainment,sports,"SENTENCE:
+ “Симпсондар”ға тиклем Саймон бер нисә шоуҙа төрлө вазифаларҙа эшләй. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Был уйынсыларға, ҡорамалды һауа буйлап йөрөтөп, видеоуйындарҙа ғәмәлдәр һәм хәрәкәттәр менән идара итеү мөмкинлеген бирә.",entertainment,sports,"SENTENCE:
+ Был уйынсыларға, ҡорамалды һауа буйлап йөрөтөп, видеоуйындарҙа ғәмәлдәр һәм хәрәкәттәр менән идара итеү мөмкинлеген бирә. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Кәмендә, уҙған йыл туй уҙған парҙың беренсе йыллығын байрам итеү өсөн 100 кеше кисәгә килгәндәр.",entertainment,sports,"SENTENCE:
+ Кәмендә, уҙған йыл туй уҙған парҙың беренсе йыллығын байрам итеү өсөн 100 кеше кисәгә килгәндәр. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Фильмдағы ике йыр – “Тыңлау” (“Хыялый ахмаҡтар”) менән “Йондоҙҙар ҡалаһы"" – иң яҡшы оригиналь йыр номинацияһына эйә булды.“Lionsgate” студияһы башҡа бөтә студияларға ҡарағанда күберәк – 26 номинацияға тәҡдим ителде.",entertainment,entertainment,"SENTENCE:
+ Фильмдағы ике йыр – “Тыңлау” (“Хыялый ахмаҡтар”) менән “Йондоҙҙар ҡалаһы"" – иң яҡшы оригиналь йыр номинацияһына эйә булды.“Lionsgate” студияһы башҡа бөтә студияларға ҡарағанда күберәк – 26 номинацияға тәҡдим ителде. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Ай ҡабығының ҡалынлығы беҙгә яҡын өлөшөндә яҡынса 70 километр һәм беҙҙән алыҫ яғында 100 километр тәшкил итә.,geography,sports,"SENTENCE:
+ Ай ҡабығының ҡалынлығы беҙгә яҡын өлөшөндә яҡынса 70 километр һәм беҙҙән алыҫ яғында 100 километр тәшкил итә. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Артабан көньяҡта Ниагара шарлауығы урынлашҡан, ә төньяҡ унан ситтә лә Мускоканың кеше аяғы баҫмаған тәбиғи матурлығы өсөн төйәк булып тора.",geography,sports,"SENTENCE:
+ Артабан көньяҡта Ниагара шарлауығы урынлашҡан, ә төньяҡ унан ситтә лә Мускоканың кеше аяғы баҫмаған тәбиғи матурлығы өсөн төйәк булып тора. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Эллсуорт ере – ярымутрауҙың көньяғындағы Беллинсгаузен диңгеҙе менән сикләнгән төбәк.,geography,sports,"SENTENCE:
+ Эллсуорт ере – ярымутрауҙың көньяғындағы Беллинсгаузен диңгеҙе менән сикләнгән төбәк. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Көньяҡ полюс траверсы (йәки шоссе) – Росс диңгеҙендәге МакМурдо станцияһынан полюсҡа тиклем 1600 километр тәшкил иткән маршрут.,geography,sports,"SENTENCE:
+ Көньяҡ полюс траверсы (йәки шоссе) – Росс диңгеҙендәге МакМурдо станцияһынан полюсҡа тиклем 1600 километр тәшкил иткән маршрут. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Мачу Пиччуҙың төньяҡ осонан ҡалҡып торған был текә тау харабаларҙан бик күп фотоларҙа ерлек булып тора.,geography,sports,"SENTENCE:
+ Мачу Пиччуҙың төньяҡ осонан ҡалҡып торған был текә тау харабаларҙан бик күп фотоларҙа ерлек булып тора. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Энцелад – Ҡояш системаһында иң сағылдырыусы объект, үҙенә төшкән ҡояш нурының 90 процентҡа яҡынын сағылдыра.",geography,sports,"SENTENCE:
+ Энцелад – Ҡояш системаһында иң сағылдырыусы объект, үҙенә төшкән ҡояш нурының 90 процентҡа яҡынын сағылдыра. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Баш өҫтөндәге аяҙ, матур күк йөҙөнән һәм уратып алған күп һанлы тауҙарҙан башҡа, бер нәмә лә күренмәй. Мәмерйәнең эсенән был донъяла булғандың бик әҙен генә күрергә йә ишетергә мөмкин.",geography,sports,"SENTENCE:
+ Баш өҫтөндәге аяҙ, матур күк йөҙөнән һәм уратып алған күп һанлы тауҙарҙан башҡа, бер нәмә лә күренмәй. Мәмерйәнең эсенән был донъяла булғандың бик әҙен генә күрергә йә ишетергә мөмкин. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Ә хәҙер Япония тураһында. Япония Британия һымаҡ уҡ утрауҙағы ил була.,geography,travel,"SENTENCE:
+ Ә хәҙер Япония тураһында. Япония Британия һымаҡ уҡ утрауҙағы ил була. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Мальдив телендә “пальма япрағы тоғо” тип исемләнгән Гону тропик циклоны иң юғары нөктәлә булған саҡта уның тотороҡло еле сәғәтенә 240 километрға (сәғәтенә 149 миль) етте.,geography,sports,"SENTENCE:
+ Мальдив телендә “пальма япрағы тоғо” тип исемләнгән Гону тропик циклоны иң юғары нөктәлә булған саҡта уның тотороҡло еле сәғәтенә 240 километрға (сәғәтенә 149 миль) етте. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Төркиәнең майҙаны, шул иҫәптән күлдәр, 783 562 квадрат километр (300 948 квадрат миль) тәшкил итә, шуның 755 688 квадрат километры – (291 773 квадрат миль) Көньяҡ-Көнбайыш Азияла һәм 23 764 квадрат километры (9 174 квадрат миль) – Европала.",geography,sports,"SENTENCE:
+ Төркиәнең майҙаны, шул иҫәптән күлдәр, 783 562 квадрат километр (300 948 квадрат миль) тәшкил итә, шуның 755 688 квадрат километры – (291 773 квадрат миль) Көньяҡ-Көнбайыш Азияла һәм 23 764 квадрат километры (9 174 квадрат миль) – Европала. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"1819 йылда асылған Көньяҡ Шетланд утрауҙарына бер нисә ил дәғүә итә, уларҙа 2020 йылда ун алтыһы әүҙем булған бик күп базалар урынлашҡан.",geography,sports,"SENTENCE:
+ 1819 йылда асылған Көньяҡ Шетланд утрауҙарына бер нисә ил дәғүә итә, уларҙа 2020 йылда ун алтыһы әүҙем булған бик күп базалар урынлашҡан. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Апия – Самоаның баш ҡалаһы. Ҡала Уполу утрауында урынлашҡан һәм 40 000-дән аҙыраҡ халҡы бар.,geography,sports,"SENTENCE:
+ Апия – Самоаның баш ҡалаһы. Ҡала Уполу утрауында урынлашҡан һәм 40 000-дән аҙыраҡ халҡы бар. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Алыҫ булғанлыҡтан ҡоро сығыуға шторм ҡушылдығы, элеккесә үк тәьҫир итергә потенциаль йоғонтоһын ҡыйын Кушма штаттарына йәки Кариб Бассейына.",geography,sports,"SENTENCE:
+ Алыҫ булғанлыҡтан ҡоро сығыуға шторм ҡушылдығы, элеккесә үк тәьҫир итергә потенциаль йоғонтоһын ҡыйын Кушма штаттарына йәки Кариб Бассейына. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Ул уйпат урындарҙа йоҡараҡ һәм уба аҫтарында ҡалыныраҡ.,geography,sports,"SENTENCE:
+ Ул уйпат урындарҙа йоҡараҡ һәм уба аҫтарында ҡалыныраҡ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Әммә урмандар – мангров һаҙлығы ғына түгел, улар Ганг тигеҙлеген ҡаплаған ҡасандыр ҡеүəтле джунглиҙың ҡалдыҡтарын да үҙ эсенә ала.",geography,sports,"SENTENCE:
+ Әммә урмандар – мангров һаҙлығы ғына түгел, улар Ганг тигеҙлеген ҡаплаған ҡасандыр ҡеүəтле джунглиҙың ҡалдыҡтарын да үҙ эсенә ала. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+АҠШ Геология хеҙмәтенең халыҡ-ара ер тетрәүҙәр картаһы бер аҙна элек Исландияла бер ниндәй ҙә ер тетрәү булмағанын күрһәтә.,geography,sports,"SENTENCE:
+ АҠШ Геология хеҙмәтенең халыҡ-ара ер тетрәүҙәр картаһы бер аҙна элек Исландияла бер ниндәй ҙә ер тетрәү булмағанын күрһәтә. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Мәккәнән төньяҡтағы тауҙарҙың береһенең түбәһендә урынлашҡан мәмерйә ҡалған донъянан тулыһынса айырылған.,geography,sports,"SENTENCE:
+ Мәккәнән төньяҡтағы тауҙарҙың береһенең түбәһендә урынлашҡан мәмерйә ҡалған донъянан тулыһынса айырылған. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"

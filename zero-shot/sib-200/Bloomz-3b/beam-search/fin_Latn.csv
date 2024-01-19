@@ -1,0 +1,2449 @@
+text,actual_category,predicted_category,generated_text
+"Mutaatio lisää uutta geneettistä vaihtelua, valinta poistaa sen ilmenneiden vaihtelujen varastosta.",science/technology,travel,"SENTENCE:
+ Mutaatio lisää uutta geneettistä vaihtelua, valinta poistaa sen ilmenneiden vaihtelujen varastosta. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Fissiopommi toimii periaatteella, että vaatii energiaa muodostaa ydin, joka koostuu monista protoneista ja neutroneista.",science/technology,science/technology,"SENTENCE:
+ Fissiopommi toimii periaatteella, että vaatii energiaa muodostaa ydin, joka koostuu monista protoneista ja neutroneista. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+Ydin koostuu kahdenlaisista hiukkasista: neutroneista ja protoneista.,science/technology,science/technology,"SENTENCE:
+ Ydin koostuu kahdenlaisista hiukkasista: neutroneista ja protoneista. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+"Tämän ansiosta zoom-objektiivit kykenevät tuottamaan kuvia, jotka ovat laadultaan verrannollisia kiinteäpolttovälisellä objektiivilla otettuihin kuviin.",science/technology,travel,"SENTENCE:
+ Tämän ansiosta zoom-objektiivit kykenevät tuottamaan kuvia, jotka ovat laadultaan verrannollisia kiinteäpolttovälisellä objektiivilla otettuihin kuviin. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ne ovat välityspalvelimia parempia useista syistä: ne reitittävät kaiken Internet-liikenteen uudelleen, eivät pelkästään http-liikennettä.",science/technology,travel,"SENTENCE:
+ Ne ovat välityspalvelimia parempia useista syistä: ne reitittävät kaiken Internet-liikenteen uudelleen, eivät pelkästään http-liikennettä. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Interaktiivinen suunnittelu vaatii, että oletukset mediatuotannosta arvioidaan uudelleen ja opetellaan ajattelemaan epälineaarisesti.",science/technology,entertainment,"SENTENCE:
+ Interaktiivinen suunnittelu vaatii, että oletukset mediatuotannosta arvioidaan uudelleen ja opetellaan ajattelemaan epälineaarisesti. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Käytännöstä tuli yleinen, mutta rauta kulutti vaunujen puisia pyöriä enemmän.",science/technology,travel,"SENTENCE:
+ Käytännöstä tuli yleinen, mutta rauta kulutti vaunujen puisia pyöriä enemmän. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Laumat koostuvat yhdestä kolmeen toisilleen sukua olevasta aikuisesta uroksesta sekä toisinaan jopa kolmestakymmenestä naaraasta ja pennusta.,science/technology,travel,"SENTENCE:
+ Laumat koostuvat yhdestä kolmeen toisilleen sukua olevasta aikuisesta uroksesta sekä toisinaan jopa kolmestakymmenestä naaraasta ja pennusta. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Vaikka tekoälyn mielletään vahvasti liittyvän tieteiskirjallisuuteen, se on hyvin tärkeä tietotekniikan haara, joka tutkii koneiden käyttäytymistä, oppimista ja älykästä sopeutumista.",science/technology,travel,"SENTENCE:
+ Vaikka tekoälyn mielletään vahvasti liittyvän tieteiskirjallisuuteen, se on hyvin tärkeä tietotekniikan haara, joka tutkii koneiden käyttäytymistä, oppimista ja älykästä sopeutumista. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Siksi tämän koon kuvasuhteen (jaettaessa kahdellatoista, jotta saadaan yksinkertaisin kokolukusuhde) sanotaan olevan 3:2.",science/technology,entertainment,"SENTENCE:
+ Siksi tämän koon kuvasuhteen (jaettaessa kahdellatoista, jotta saadaan yksinkertaisin kokolukusuhde) sanotaan olevan 3:2. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Satelliittipuhelimesta ei ole yleensä matkapuhelimen korvaajaksi, koska puhelun soittaaksesi joudut olemaan ulkona ja pitämään esteettömän näkyvyyden satelliittiin.",science/technology,travel,"SENTENCE:
+ Satelliittipuhelimesta ei ole yleensä matkapuhelimen korvaajaksi, koska puhelun soittaaksesi joudut olemaan ulkona ja pitämään esteettömän näkyvyyden satelliittiin. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Vaikka vaunutiet koostuivat pelkästään rinnakkaisista puulankuista, niiden ansiosta hevoset pystyivät vetämään vaunuja nopeammin ja suuremmilla kuormilla kuin senaikaisilla hieman epätasaisemmilla teillä.",science/technology,travel,"SENTENCE:
+ Vaikka vaunutiet koostuivat pelkästään rinnakkaisista puulankuista, niiden ansiosta hevoset pystyivät vetämään vaunuja nopeammin ja suuremmilla kuormilla kuin senaikaisilla hieman epätasaisemmilla teillä. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ihmiset ovat tunteneet tavallisia kemiallisia alkuaineita, kuten kullan, hopean ja kuparin jo antiikin ajoista asti, koska kaikki ne esiintyvät luonnossa omana itsenään ja koska niitä on myös suhteellisen helppo louhia alkeellisilla työkaluilla.",science/technology,travel,"SENTENCE:
+ Ihmiset ovat tunteneet tavallisia kemiallisia alkuaineita, kuten kullan, hopean ja kuparin jo antiikin ajoista asti, koska kaikki ne esiintyvät luonnossa omana itsenään ja koska niitä on myös suhteellisen helppo louhia alkeellisilla työkaluilla. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Pyörä on muuttanut maailmaa uskomattomilla tavoilla. Paljon helpompi ja nopeampi liikkuminen on suurinta, mitä pyörä on tehnyt hyväksemme.",science/technology,sports,"SENTENCE:
+ Pyörä on muuttanut maailmaa uskomattomilla tavoilla. Paljon helpompi ja nopeampi liikkuminen on suurinta, mitä pyörä on tehnyt hyväksemme. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Näin varmistetaan, että kuva täyttää koko näyttöruudun. Sitä kutsutaan yliskannaukseksi.",science/technology,travel,"SENTENCE:
+ Näin varmistetaan, että kuva täyttää koko näyttöruudun. Sitä kutsutaan yliskannaukseksi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Saksan sukellusveneitä kutsuttiin U-veneiksi. Saksalaiset osasivat purjehtia ja käyttää sukellusveneitään hyvin taitavasti.,science/technology,travel,"SENTENCE:
+ Saksan sukellusveneitä kutsuttiin U-veneiksi. Saksalaiset osasivat purjehtia ja käyttää sukellusveneitään hyvin taitavasti. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Vaikka sen fyysinen olomuoto saattaa muuttua, sen kemiallinen tila pysyy samana.",science/technology,travel,"SENTENCE:
+ Vaikka sen fyysinen olomuoto saattaa muuttua, sen kemiallinen tila pysyy samana. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Pintajännitys syntyy, koska veden pinnalla olevat vesimolekyylit vetävät toisiaan puoleensa paljon enemmän kuin ilmamolekyylit niiden yläpuolella.",science/technology,entertainment,"SENTENCE:
+ Pintajännitys syntyy, koska veden pinnalla olevat vesimolekyylit vetävät toisiaan puoleensa paljon enemmän kuin ilmamolekyylit niiden yläpuolella. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Kun elokuvia yritetään muuntaa DVD-muotoon, yksi yleisimmistä ongelmista on yliskannaus.",science/technology,entertainment,"SENTENCE:
+ Kun elokuvia yritetään muuntaa DVD-muotoon, yksi yleisimmistä ongelmista on yliskannaus. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Erityisesti on väitetty, että tulkitsemalla mikroilmeitä oikein on mahdollista tunnistaa, valehteleeko henkilö.",science/technology,sports,"SENTENCE:
+ Erityisesti on väitetty, että tulkitsemalla mikroilmeitä oikein on mahdollista tunnistaa, valehteleeko henkilö. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Kultaa voidaan työstää kaikenlaisiin muotoihin. Sitä voidaan myös kaulita pienenpieniksi esineiksi.,science/technology,travel,"SENTENCE:
+ Kultaa voidaan työstää kaikenlaisiin muotoihin. Sitä voidaan myös kaulita pienenpieniksi esineiksi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Nykyään tekoälyä käytetään usein taloustieteen, lääketieteen, tekniikan ja maanpuolustuksen aloilla aivan niin kuin se kuuluu sisäänrakennettuna useisiin kotitietokoneiden ja videopelien ohjelmistosovelluksiin.",science/technology,entertainment,"SENTENCE:
+ Nykyään tekoälyä käytetään usein taloustieteen, lääketieteen, tekniikan ja maanpuolustuksen aloilla aivan niin kuin se kuuluu sisäänrakennettuna useisiin kotitietokoneiden ja videopelien ohjelmistosovelluksiin. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Sitä tuotetaan edelleen, mutta ennen kaikkea digitaalisen kameran kuvasensoriformaatit ovat perineet sen kuvasuhteen.",science/technology,entertainment,"SENTENCE:
+ Sitä tuotetaan edelleen, mutta ennen kaikkea digitaalisen kameran kuvasensoriformaatit ovat perineet sen kuvasuhteen. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Usein väärinkäytetty ja paljon pilkattu kolmasosien sääntö on yksinkertainen ohjenuora, jolla luodaan dynaamisuutta kuvaan mutta säilytetään silti jonkin verran järjestystä.",science/technology,travel,"SENTENCE:
+ Usein väärinkäytetty ja paljon pilkattu kolmasosien sääntö on yksinkertainen ohjenuora, jolla luodaan dynaamisuutta kuvaan mutta säilytetään silti jonkin verran järjestystä. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Tämä vahvistaa jo entuudestaan laajalle levinneen teorian, jonka mukaan ainakin joillain dinosauruksilla oli höyheniä, mutta lisäksi saatiin tietoja, joita fossiileista ei yleensä löydy, esimerkiksi väristä ja kolmiulotteisesta rakenteesta.",science/technology,travel,"SENTENCE:
+ Tämä vahvistaa jo entuudestaan laajalle levinneen teorian, jonka mukaan ainakin joillain dinosauruksilla oli höyheniä, mutta lisäksi saatiin tietoja, joita fossiileista ei yleensä löydy, esimerkiksi väristä ja kolmiulotteisesta rakenteesta. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Kuinka Ion vetovoima vaikuttaisi minuun? Jos seisoisit Ion pinnalla, painaisit vähemmän kuin Maassa.",science/technology,sports,"SENTENCE:
+ Kuinka Ion vetovoima vaikuttaisi minuun? Jos seisoisit Ion pinnalla, painaisit vähemmän kuin Maassa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Yhdysvaltojen ilmailuviranomainen väittää, että NextGen on järjestelmä, jonka ansiosta lentokoneet voivat lentää lyhyempiä reittejä, säästää vuosittain miljoonia gallonia polttoainetta ja vähentää hiilidioksidipäästöjä.",science/technology,travel,"SENTENCE:
+ Yhdysvaltojen ilmailuviranomainen väittää, että NextGen on järjestelmä, jonka ansiosta lentokoneet voivat lentää lyhyempiä reittejä, säästää vuosittain miljoonia gallonia polttoainetta ja vähentää hiilidioksidipäästöjä. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Neurobiologisista tiedoista saadaan fyysisiä todisteita tajunnan tutkimisen teoreettiselle lähestymistavalle. Siksi se kaventaa tutkimusaluetta ja tekee siitä paljon eksaktimman.,science/technology,science/technology,"SENTENCE:
+ Neurobiologisista tiedoista saadaan fyysisiä todisteita tajunnan tutkimisen teoreettiselle lähestymistavalle. Siksi se kaventaa tutkimusaluetta ja tekee siitä paljon eksaktimman. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+"Apple keksii tänään puhelimen kokonaan uusiksi, tänään teemme historiaa, hän sanoi kaksi tuntia kestäneen puheensa aikana.",science/technology,travel,"SENTENCE:
+ Apple keksii tänään puhelimen kokonaan uusiksi, tänään teemme historiaa, hän sanoi kaksi tuntia kestäneen puheensa aikana. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Zoom-objektiivien haittapuolena polttovälien skaalan saavuttamiseksi tarvittu polttopisteiden monimutkaisuus ja objektiivielementtien määrä on paljon suurempi kuin kiinteäpolttovälisissä objektiiveissa.,science/technology,travel,"SENTENCE:
+ Zoom-objektiivien haittapuolena polttovälien skaalan saavuttamiseksi tarvittu polttopisteiden monimutkaisuus ja objektiivielementtien määrä on paljon suurempi kuin kiinteäpolttovälisissä objektiiveissa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Television kaukosäädintä muistuttava ohjain käyttää kahta käyttäjän television lähelle asetettavaa sensoria määrittääkseen kolmiomittauksella sijaintinsa kolmiulotteisessa tilassa.,science/technology,entertainment,"SENTENCE:
+ Television kaukosäädintä muistuttava ohjain käyttää kahta käyttäjän television lähelle asetettavaa sensoria määrittääkseen kolmiomittauksella sijaintinsa kolmiulotteisessa tilassa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Eläimen höyhenpeite oli tutkijoiden mukaan päältä kastanjanruskea ja alta vaalea tai karotenoidinvärinen.,science/technology,travel,"SENTENCE:
+ Eläimen höyhenpeite oli tutkijoiden mukaan päältä kastanjanruskea ja alta vaalea tai karotenoidinvärinen. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Yhdisteet reagoivat keskenään muodostaen kiviä, jotka voivat estää munuaisten toimintaa, sanovat yliopiston tutkijat.",science/technology,travel,"SENTENCE:
+ Yhdisteet reagoivat keskenään muodostaen kiviä, jotka voivat estää munuaisten toimintaa, sanovat yliopiston tutkijat. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Tämän ansiosta resoluutio on melkein nelinkertainen 35 mm:n negatiiviin verrattuna (3136 mm2 vs. 864).,science/technology,entertainment,"SENTENCE:
+ Tämän ansiosta resoluutio on melkein nelinkertainen 35 mm:n negatiiviin verrattuna (3136 mm2 vs. 864). 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Eurooppaan vievien merenalaisten valokaapeliyhteyksien ja laajakaistasatelliitin ansiosta Grönlanti on hyvin verkossa, ja 93 prosentilla väestöstä onkin Internet-yhteys.",science/technology,sports,"SENTENCE:
+ Eurooppaan vievien merenalaisten valokaapeliyhteyksien ja laajakaistasatelliitin ansiosta Grönlanti on hyvin verkossa, ja 93 prosentilla väestöstä onkin Internet-yhteys. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Yksi tämän luokan merkittävimmistä sovelluksista on Google Kääntäjä, joka mahdollistaa offline-kääntämisen, kun halutun kielen tiedot on ladattu laitteeseen.",science/technology,travel,"SENTENCE:
+ Yksi tämän luokan merkittävimmistä sovelluksista on Google Kääntäjä, joka mahdollistaa offline-kääntämisen, kun halutun kielen tiedot on ladattu laitteeseen. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Sillä on sama molekyylirakenne kaasuna, nesteenä ja kiinteänä.",science/technology,science/technology,"SENTENCE:
+ Sillä on sama molekyylirakenne kaasuna, nesteenä ja kiinteänä. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+Videonauhoitteiden käyttö on johtanut tärkeisiin löytöihin mikroilmeiden eli vain muutaman millisekunnin kestävien kasvojen liikkeiden tulkinnassa.,science/technology,travel,"SENTENCE:
+ Videonauhoitteiden käyttö on johtanut tärkeisiin löytöihin mikroilmeiden eli vain muutaman millisekunnin kestävien kasvojen liikkeiden tulkinnassa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Ihmiset ovat tehneet ja käyttäneet linssejä suurentamiseen tuhansien ja taas tuhansien vuosien ajan.,science/technology,travel,"SENTENCE:
+ Ihmiset ovat tehneet ja käyttäneet linssejä suurentamiseen tuhansien ja taas tuhansien vuosien ajan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Kuitenkaan se ei ole ainoastaan kokeiden tekemistä, ja koe on testi, jota käytetään eliminoimaan yksi tai useampi mahdollinen hypoteesi. Kysymysten kysyminen ja havaintojen tekeminen ohjaavat myös tieteellistä tutkimusta.",science/technology,sports,"SENTENCE:
+ Kuitenkaan se ei ole ainoastaan kokeiden tekemistä, ja koe on testi, jota käytetään eliminoimaan yksi tai useampi mahdollinen hypoteesi. Kysymysten kysyminen ja havaintojen tekeminen ohjaavat myös tieteellistä tutkimusta. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Lopulta puupyörät korvattiin rautaisilla. Vuonna 1767 otettiin käyttöön ensimmäiset kokorautaiset raiteet.,science/technology,travel,"SENTENCE:
+ Lopulta puupyörät korvattiin rautaisilla. Vuonna 1767 otettiin käyttöön ensimmäiset kokorautaiset raiteet. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Useimmat kortit kelpaavat mihin tahansa puheluihin, mutta jotkin erikoistuvat tarjoamaan sopuhintaisia ‎puheluita tiettyihin maaryhmiin.‎",science/technology,travel,"SENTENCE:
+ Useimmat kortit kelpaavat mihin tahansa puheluihin, mutta jotkin erikoistuvat tarjoamaan sopuhintaisia ‎puheluita tiettyihin maaryhmiin.‎ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Useimmat modernit tutkimusteleskoopit ovat valtavia laitoksia, ja ne sijaitsevat kaukaisilla seuduilla, joissa ilmakehän olosuhteet ovat otollisia.",science/technology,travel,"SENTENCE:
+ Useimmat modernit tutkimusteleskoopit ovat valtavia laitoksia, ja ne sijaitsevat kaukaisilla seuduilla, joissa ilmakehän olosuhteet ovat otollisia. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Teräsneula kelluu veden päällä pintajännityksen ansiosta.,science/technology,travel,"SENTENCE:
+ Teräsneula kelluu veden päällä pintajännityksen ansiosta. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Hieman hämmentävästi 35 millimetrin koko on todellisuudessa 36 mm leveä ja 24 mm korkea.,science/technology,entertainment,"SENTENCE:
+ Hieman hämmentävästi 35 millimetrin koko on todellisuudessa 36 mm leveä ja 24 mm korkea. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Solut ovat niin perustavanlaisia ja olennaisia elämän tutkimiselle, että niitä usein kutsutaankin elämän rakennuspalikoiksi.",science/technology,travel,"SENTENCE:
+ Solut ovat niin perustavanlaisia ja olennaisia elämän tutkimiselle, että niitä usein kutsutaankin elämän rakennuspalikoiksi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Henkilökohtaisten VPN-verkkojen tarjoajat ovat erinomainen tapa kiertää sekä poliittinen sensuuri että kaupallinen IP-geosuodatus.,science/technology,travel,"SENTENCE:
+ Henkilökohtaisten VPN-verkkojen tarjoajat ovat erinomainen tapa kiertää sekä poliittinen sensuuri että kaupallinen IP-geosuodatus. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Avaruusasema piti asemansa avaruuskävelyn loppuun asti huolimatta aiemmin tehtävän aikana menetetystä gyroskoopista.,science/technology,travel,"SENTENCE:
+ Avaruusasema piti asemansa avaruuskävelyn loppuun asti huolimatta aiemmin tehtävän aikana menetetystä gyroskoopista. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Tätä ajattelutapaa harrastavat ihmiset ajattelevat loogisesti, kykenevät opettelemaan toistuvia malleja ulkoa, ratkaisemaan ongelmia ja työskentelemään tieteellisten kokeiden parissa.",science/technology,travel,"SENTENCE:
+ Tätä ajattelutapaa harrastavat ihmiset ajattelevat loogisesti, kykenevät opettelemaan toistuvia malleja ulkoa, ratkaisemaan ongelmia ja työskentelemään tieteellisten kokeiden parissa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Oselotit syövät mielellään pieniä eläimiä. Ne saalistavat apinoita, käärmeitä, jyrsijöitä ja lintuja jos vain saavat ne kiinni. Melkein kaikki oselotin saalistamat eläimet ovat paljon pienempiä kuin se itse.",science/technology,travel,"SENTENCE:
+ Oselotit syövät mielellään pieniä eläimiä. Ne saalistavat apinoita, käärmeitä, jyrsijöitä ja lintuja jos vain saavat ne kiinni. Melkein kaikki oselotin saalistamat eläimet ovat paljon pienempiä kuin se itse. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Joissakin keskikoon filmikameroissa käytetään 6 × 6 senttimetrin kuvakokoa, tarkemmin sanottuna 56 × 56 millimetrin negatiivia.",science/technology,entertainment,"SENTENCE:
+ Joissakin keskikoon filmikameroissa käytetään 6 × 6 senttimetrin kuvakokoa, tarkemmin sanottuna 56 × 56 millimetrin negatiivia. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Matkustajia suositellaan voimakkaasti olemaan tietoisia matkapaikkaan vaikuttavasta vaarallisen sään uhasta, koska se saattaa vaikuttaa matkasuunnitelmiin.",travel,travel,"SENTENCE:
+ Matkustajia suositellaan voimakkaasti olemaan tietoisia matkapaikkaan vaikuttavasta vaarallisen sään uhasta, koska se saattaa vaikuttaa matkasuunnitelmiin. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Linja-autoja lähtee piirikuntainväliseltä linja-autoasemalta (joen toisella puolella) koko päivän ajan, joskin useimmat, etenkin itään ja Jakariin ja Bumthangiin kulkevat, lähtevät kello 6.30 ja 7.30 välisenä aikana.",travel,travel,"SENTENCE:
+ Linja-autoja lähtee piirikuntainväliseltä linja-autoasemalta (joen toisella puolella) koko päivän ajan, joskin useimmat, etenkin itään ja Jakariin ja Bumthangiin kulkevat, lähtevät kello 6.30 ja 7.30 välisenä aikana. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ratsastaja saa niistä enemmän vakautta, mutta niihin voi liittyä turvallisuushuolia, koska ratsastajan jalat saattavat takertua niihin.",travel,travel,"SENTENCE:
+ Ratsastaja saa niistä enemmän vakautta, mutta niihin voi liittyä turvallisuushuolia, koska ratsastajan jalat saattavat takertua niihin. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Useimpiin varsinaisiin Itämeren risteilyihin kuuluu pidempi käynti Pietarissa.,travel,sports,"SENTENCE:
+ Useimpiin varsinaisiin Itämeren risteilyihin kuuluu pidempi käynti Pietarissa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Neuvoissa oletetaan, etteivät matkailijat varasta, tunkeudu luvattomiin paikkoihin, toimi pimeillä markkinoilla, kerjää tai muutoin käytä ihmisiä hyväkseen.",travel,sports,"SENTENCE:
+ Neuvoissa oletetaan, etteivät matkailijat varasta, tunkeudu luvattomiin paikkoihin, toimi pimeillä markkinoilla, kerjää tai muutoin käytä ihmisiä hyväkseen. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Sinun täytyy ottaa useita asioita huomioon sekä ennen kuin matkustat jonnekin että matkustaessasi.,travel,sports,"SENTENCE:
+ Sinun täytyy ottaa useita asioita huomioon sekä ennen kuin matkustat jonnekin että matkustaessasi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Matkustajat saattavat nähdä päivän kuumuudessa kangastuksia, jotka luovat harhakuvan vedestä (tai jostakin muusta).",travel,travel,"SENTENCE:
+ Matkustajat saattavat nähdä päivän kuumuudessa kangastuksia, jotka luovat harhakuvan vedestä (tai jostakin muusta). 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Lapsiperheet ovat harvinainen näky, mutta jotkut hostellit ottavat heitä vastaan yksityishuoneisiin.",travel,travel,"SENTENCE:
+ Lapsiperheet ovat harvinainen näky, mutta jotkut hostellit ottavat heitä vastaan yksityishuoneisiin. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Esimerkiksi vierailu Loiren laakson linnoissa, Reinin laakso tai risteily kiintoisiin kaupunkeihin Tonavan varrella tai veneily Erien kanavassa.",travel,travel,"SENTENCE:
+ Esimerkiksi vierailu Loiren laakson linnoissa, Reinin laakso tai risteily kiintoisiin kaupunkeihin Tonavan varrella tai veneily Erien kanavassa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Voi olla parempi käyttää sellaista virkailijaa, joka varaa usein samanlaisia matkoja kuin jollaiselle aiot itse.",travel,travel,"SENTENCE:
+ Voi olla parempi käyttää sellaista virkailijaa, joka varaa usein samanlaisia matkoja kuin jollaiselle aiot itse. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"CouchSurfing perustettiin tammikuussa 2004, kun tietokoneohjelmoija Casey Fenton löysi halvan lennon Islantiin, mutta hänellä ei ollut majapaikkaa.",travel,travel,"SENTENCE:
+ CouchSurfing perustettiin tammikuussa 2004, kun tietokoneohjelmoija Casey Fenton löysi halvan lennon Islantiin, mutta hänellä ei ollut majapaikkaa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Opiskelijaviisumeita koskevat yleensä eri vaatimukset ja erilaiset hakuprosessit kuin turisti- ja työviisumeja.,travel,travel,"SENTENCE:
+ Opiskelijaviisumeita koskevat yleensä eri vaatimukset ja erilaiset hakuprosessit kuin turisti- ja työviisumeja. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Jokaisella maalla on myös omat lakinsa siitä, mitä pakollisia varusteita autossa tulee olla.",travel,travel,"SENTENCE:
+ Jokaisella maalla on myös omat lakinsa siitä, mitä pakollisia varusteita autossa tulee olla. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Vaikka suurin osa matkatoimistoista hyväksyy mielellään useimpia tavallisia varauksia, monet ovat erikoistuneet tietynlaisiin matkoihin, hintahaarukoihin tai kohteisiin.",travel,travel,"SENTENCE:
+ Vaikka suurin osa matkatoimistoista hyväksyy mielellään useimpia tavallisia varauksia, monet ovat erikoistuneet tietynlaisiin matkoihin, hintahaarukoihin tai kohteisiin. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Matkailijat voivat törmätä tuhoeläimiin, joihin he eivät ole tottuneet kotiseudullaan.",travel,travel,"SENTENCE:
+ Matkailijat voivat törmätä tuhoeläimiin, joihin he eivät ole tottuneet kotiseudullaan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Pohjoisen suunnalla kannattaa käydä myös suuressa Fatiman Neitsyt Marian pyhätössä, joka on maailmanlaajuisesti kuuluisa Marian ilmestymisestä.",travel,sports,"SENTENCE:
+ Pohjoisen suunnalla kannattaa käydä myös suuressa Fatiman Neitsyt Marian pyhätössä, joka on maailmanlaajuisesti kuuluisa Marian ilmestymisestä. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Gomassa liikkumiseen voi käyttää boda-bodaa (moottoripyörätaksia). Tavallinen (paikallinen) taksa on noin 500 Kongon frangia lyhyestä ajomatkasta.,travel,travel,"SENTENCE:
+ Gomassa liikkumiseen voi käyttää boda-bodaa (moottoripyörätaksia). Tavallinen (paikallinen) taksa on noin 500 Kongon frangia lyhyestä ajomatkasta. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Ulkoilmaharrasteista pitäville retki vuoristoon pitkin Sea-to-Sky Corridoria on ehdoton.,travel,sports,"SENTENCE:
+ Ulkoilmaharrasteista pitäville retki vuoristoon pitkin Sea-to-Sky Corridoria on ehdoton. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Kävelysafari (jota kutsutaan myös pensaikkokävelyksi, retkeilysafariksi ja patikoinniksi) tarkoittaa joko muutaman tunnin tai useita päiviä kestävää retkeilyä.",travel,travel,"SENTENCE:
+ Kävelysafari (jota kutsutaan myös pensaikkokävelyksi, retkeilysafariksi ja patikoinniksi) tarkoittaa joko muutaman tunnin tai useita päiviä kestävää retkeilyä. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ainoa tapa saada tavara nopeammin läpi oli lähettää se kirjattuna matkatavarana. Lentoyhtiöiden sääntely ei salli matkatavaroiden lähettämistä ilman matkustajaa, joten tässä vaiheessa tarvitaan sinua.",travel,travel,"SENTENCE:
+ Ainoa tapa saada tavara nopeammin läpi oli lähettää se kirjattuna matkatavarana. Lentoyhtiöiden sääntely ei salli matkatavaroiden lähettämistä ilman matkustajaa, joten tässä vaiheessa tarvitaan sinua. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"300 lisävaunua nostaa kokonaismäärän 1 300 junavaunuun, jotka aiotaan hankkia ruuhkautumisen helpottamiseksi.",travel,travel,"SENTENCE:
+ 300 lisävaunua nostaa kokonaismäärän 1 300 junavaunuun, jotka aiotaan hankkia ruuhkautumisen helpottamiseksi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Pienten lasten kanssa liikkuvat saattavat tarvita enemmän valmisteluja, mutta päivä ulkona on helposti toteutettavissa jopa vauvojen ja leikki-ikäisten kanssa.",travel,sports,"SENTENCE:
+ Pienten lasten kanssa liikkuvat saattavat tarvita enemmän valmisteluja, mutta päivä ulkona on helposti toteutettavissa jopa vauvojen ja leikki-ikäisten kanssa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Kaikkien, jotka aikovat autoilla korkeilla leveysasteilla tai vuoristosolissa, tulee ottaa huomioon lumen, jään tai erittäin kylmien lämpötilojen mahdollisuus.",travel,travel,"SENTENCE:
+ Kaikkien, jotka aikovat autoilla korkeilla leveysasteilla tai vuoristosolissa, tulee ottaa huomioon lumen, jään tai erittäin kylmien lämpötilojen mahdollisuus. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Nykyisin Timbuktu on köyhtynyt kaupunki, vaikka sen maine tekeekin siitä matkailukohteen, ja siellä on lentokenttä.",travel,travel,"SENTENCE:
+ Nykyisin Timbuktu on köyhtynyt kaupunki, vaikka sen maine tekeekin siitä matkailukohteen, ja siellä on lentokenttä. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Lumimyrskyn aikana lunta voi sataa hyvin lyhyessä ajassa niin paljon, että auto jää kiinni.",travel,travel,"SENTENCE:
+ Lumimyrskyn aikana lunta voi sataa hyvin lyhyessä ajassa niin paljon, että auto jää kiinni. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Jos haluat lentää maailman ympäri pelkästään eteläisen pallonpuoliskon puolella, valittavissa olevat lennot ja määränpäät ovat rajallisia mannertenvälisten reittien vähyyden vuoksi.",travel,travel,"SENTENCE:
+ Jos haluat lentää maailman ympäri pelkästään eteläisen pallonpuoliskon puolella, valittavissa olevat lennot ja määränpäät ovat rajallisia mannertenvälisten reittien vähyyden vuoksi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Sellaiset lentoyhtiöt kuin Emirates, Etihad Airways, Qatar Airways ja Turkish Airlines ovat laajentaneet huomattavasti palveluitaan Afrikkaan ja tarjoavat jatkoyhteyksiä moniin Afrikan tärkeimpiin kaupunkeihin kilpailukykyisempään hintaan kuin eurooppalaiset lentoyhtiöt.",travel,travel,"SENTENCE:
+ Sellaiset lentoyhtiöt kuin Emirates, Etihad Airways, Qatar Airways ja Turkish Airlines ovat laajentaneet huomattavasti palveluitaan Afrikkaan ja tarjoavat jatkoyhteyksiä moniin Afrikan tärkeimpiin kaupunkeihin kilpailukykyisempään hintaan kuin eurooppalaiset lentoyhtiöt. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Lisäkuljetusta ei järjestetä ja maanpäälliset junat eivät pysähdy Wembleyn kohdalla. Ottelupaikalla ei myöskään ole saatavilla pysäköinti- ja liittymäpysäköintipalveluja.,travel,travel,"SENTENCE:
+ Lisäkuljetusta ei järjestetä ja maanpäälliset junat eivät pysähdy Wembleyn kohdalla. Ottelupaikalla ei myöskään ole saatavilla pysäköinti- ja liittymäpysäköintipalveluja. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Yleisesti ottaen pidemmän ajan viettäminen missä tahansa vieraassa maassa vaatii viisumin hankkimisen etukäteen.,travel,travel,"SENTENCE:
+ Yleisesti ottaen pidemmän ajan viettäminen missä tahansa vieraassa maassa vaatii viisumin hankkimisen etukäteen. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Jokaisessa junassa on sekä MetroPlus- että Metro-vaunuja. MetroPlus-vaunut ovat aina junan Kapkaupungin puoleisessa päädyssä.,travel,travel,"SENTENCE:
+ Jokaisessa junassa on sekä MetroPlus- että Metro-vaunuja. MetroPlus-vaunut ovat aina junan Kapkaupungin puoleisessa päädyssä. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Kaikki osallistuvat yhteiskuntaan ja käyttävät liikennejärjestelmiä. Melkein kaikki valittavat liikennejärjestelmistä.,travel,travel,"SENTENCE:
+ Kaikki osallistuvat yhteiskuntaan ja käyttävät liikennejärjestelmiä. Melkein kaikki valittavat liikennejärjestelmistä. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Koska alueet ovat harvaan asuttuja ja valosaaste ei näin ollen ole ongelma, voit ihailla myös tähtiä.",travel,travel,"SENTENCE:
+ Koska alueet ovat harvaan asuttuja ja valosaaste ei näin ollen ole ongelma, voit ihailla myös tähtiä. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Viisumivaatimukset ja -kulut vaihtelevat maiden välillä, ja kotimaasi vaikuttaa asiaan.",travel,travel,"SENTENCE:
+ Viisumivaatimukset ja -kulut vaihtelevat maiden välillä, ja kotimaasi vaikuttaa asiaan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Suorilla lennoilla paikasta A paikkaan B ei yleisesti ottaen kannata edes etsiä alennuksia businessluokan tai ensimmäisen luokan paikoille.,travel,travel,"SENTENCE:
+ Suorilla lennoilla paikasta A paikkaan B ei yleisesti ottaen kannata edes etsiä alennuksia businessluokan tai ensimmäisen luokan paikoille. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Bumerangin heittäminen on suosittu taito, jonka monet matkailijat haluavat oppia.",travel,sports,"SENTENCE:
+ Bumerangin heittäminen on suosittu taito, jonka monet matkailijat haluavat oppia. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Tämä lento ei ole ainoa vaihtoehto, jos haluat välttää eteläisen Tyynenmeren ja Etelä-Amerikan länsirannikon (ks. alemmas).",travel,travel,"SENTENCE:
+ Tämä lento ei ole ainoa vaihtoehto, jos haluat välttää eteläisen Tyynenmeren ja Etelä-Amerikan länsirannikon (ks. alemmas). 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"San Franciscoon on kehittynyt mittava matkailuinfrastruktuuri, johon kuuluu paljon hotelleja, ravintoloita ja huippuluokan messukeskuksia.",travel,travel,"SENTENCE:
+ San Franciscoon on kehittynyt mittava matkailuinfrastruktuuri, johon kuuluu paljon hotelleja, ravintoloita ja huippuluokan messukeskuksia. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Vapaaehtoistyön tekeminen matkailun aikana on hyvä tapa saada muutosta aikaan, mutta kyse ei ole pelkästään antamisesta.",travel,travel,"SENTENCE:
+ Vapaaehtoistyön tekeminen matkailun aikana on hyvä tapa saada muutosta aikaan, mutta kyse ei ole pelkästään antamisesta. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ihmiset eivät välttämättä käsitä, että kärsivällisyys ja ymmärrys ovat myös tärkeitä kotiin palaaville matkaajille.",travel,travel,"SENTENCE:
+ Ihmiset eivät välttämättä käsitä, että kärsivällisyys ja ymmärrys ovat myös tärkeitä kotiin palaaville matkaajille. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Älä unohda lisätä lisäviisumeista, lentokenttätakseista, maakuljetuksesta jne. aiheutuvia ylimääräisiä kaikissa niissä Afrikan ulkopuolella olevissa paikoissa.",travel,travel,"SENTENCE:
+ Älä unohda lisätä lisäviisumeista, lentokenttätakseista, maakuljetuksesta jne. aiheutuvia ylimääräisiä kaikissa niissä Afrikan ulkopuolella olevissa paikoissa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Useat Bishkekin asukkaat syyttivät etelästä tulleita mielenosoittajia laittomuuksista.,politics,travel,"SENTENCE:
+ Useat Bishkekin asukkaat syyttivät etelästä tulleita mielenosoittajia laittomuuksista. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Osa nykypäivän Belgiasta oli aikaisemmin osa Luxemburgia, mutta siirtyi Belgialle sen 1830-luvun vallankumouksen jälkeen.",politics,travel,"SENTENCE:
+ Osa nykypäivän Belgiasta oli aikaisemmin osa Luxemburgia, mutta siirtyi Belgialle sen 1830-luvun vallankumouksen jälkeen. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Vuonna 1988 äänestyslaatikot määrättiin läpinäkyviksi, jotta äänestäjät ja tarkkailijat voivat todistaa, ettei kirjekuoria ole laatikossa äänestyksen alkaessa ja ettei laatikkoon lisätä muita kirjekuoria kuin virallisesti laskettuja ja auktorisoituja ääniä.",politics,travel,"SENTENCE:
+ Vuonna 1988 äänestyslaatikot määrättiin läpinäkyviksi, jotta äänestäjät ja tarkkailijat voivat todistaa, ettei kirjekuoria ole laatikossa äänestyksen alkaessa ja ettei laatikkoon lisätä muita kirjekuoria kuin virallisesti laskettuja ja auktorisoituja ääniä. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Toimitusministeriön pääministeri Julia Gillard väitti vuoden 2010 liittovaltion parlamenttivaalien kampanjan aikana, että hänen mielestään Australiasta pitäisi tulla tasavalta kuningatar Elisabet II:n hallituskauden päättyessä.",politics,politics,"SENTENCE:
+ Toimitusministeriön pääministeri Julia Gillard väitti vuoden 2010 liittovaltion parlamenttivaalien kampanjan aikana, että hänen mielestään Australiasta pitäisi tulla tasavalta kuningatar Elisabet II:n hallituskauden päättyessä. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: world politics</s>"
+Irlannin hallitus painottaa parlamentaarisen lainsäädännön kiireellistä tarvetta tilanteen korjaamiseksi.,politics,politics,"SENTENCE:
+ Irlannin hallitus painottaa parlamentaarisen lainsäädännön kiireellistä tarvetta tilanteen korjaamiseksi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+Diplomaattiset kiistat alueen hallinnasta vahingoittavat edelleen Armenian ja Azerbaidžanin välisiä suhteita.,politics,N/A,"SENTENCE:
+ Diplomaattiset kiistat alueen hallinnasta vahingoittavat edelleen Armenian ja Azerbaidžanin välisiä suhteita. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: education</s>"
+"Tiistain 25 minuutin tapaamisen jälkeen NDP-puolueen puheenjohtajan Jack Laytonin kanssa pääministeri Stephen Harper on suostunut lähettämään hallituksen ""Puhtaan ilman esityksen"" kaikista puolueista koostuvalle komitealle tarkasteltavaksi ennen sen toista käsittelyä.",politics,politics,"SENTENCE:
+ Tiistain 25 minuutin tapaamisen jälkeen NDP-puolueen puheenjohtajan Jack Laytonin kanssa pääministeri Stephen Harper on suostunut lähettämään hallituksen ""Puhtaan ilman esityksen"" kaikista puolueista koostuvalle komitealle tarkasteltavaksi ennen sen toista käsittelyä. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+"Viime kuussa Puolassa oli suuria mielenosoituksia, kun maa allekirjoitti ACTA-sopimuksen, joka johti siihen, että Puolan hallitus päätti olla hyväksymättä sopimusta toistaiseksi.",politics,politics,"SENTENCE:
+ Viime kuussa Puolassa oli suuria mielenosoituksia, kun maa allekirjoitti ACTA-sopimuksen, joka johti siihen, että Puolan hallitus päätti olla hyväksymättä sopimusta toistaiseksi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: world politics</s>"
+Tiedotukset ovat vain lyhyitä yhteenvetoja jonkin maan poliittisesta tilanteesta.,politics,travel,"SENTENCE:
+ Tiedotukset ovat vain lyhyitä yhteenvetoja jonkin maan poliittisesta tilanteesta. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Vuoden 1976 vaaleissa hän toimi Carterin ulkopolitiikan neuvonantajana ja seurasi sen jälkeen Henry Kissingeriä kansallisen turvallisuuden neuvonantajana (NSA) vuodesta 1977 vuoteen 1981.,politics,sports,"SENTENCE:
+ Vuoden 1976 vaaleissa hän toimi Carterin ulkopolitiikan neuvonantajana ja seurasi sen jälkeen Henry Kissingeriä kansallisen turvallisuuden neuvonantajana (NSA) vuodesta 1977 vuoteen 1981. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Lisäksi Turkki ryhtyi vartioimaan vangittuja Isis-taistelijoita, joita Euroopan maat ovat lausunnon mukaan kieltäytyneet palauttamasta kotimaihinsa.",politics,travel,"SENTENCE:
+ Lisäksi Turkki ryhtyi vartioimaan vangittuja Isis-taistelijoita, joita Euroopan maat ovat lausunnon mukaan kieltäytyneet palauttamasta kotimaihinsa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Nämä suunnitelmat tehtiin kuitenkin tyhjiksi melkein yhdessä yössä, kun yli 800 000 Neuvostoliiton puna-armeijan sotilasta eteni maahan ja loi Valko-Venäjän ja Ukrainan rintamat hyökättyään Puolan itäosiin. Tämä oli vastoin Riian rauhansopimusta, Neuvostoliiton ja Puolan hyökkäämättömyyssopimusta ja muita sekä kahdenvälisiä että monenkeskisiä kansainvälisiä sopimuksia.",politics,travel,"SENTENCE:
+ Nämä suunnitelmat tehtiin kuitenkin tyhjiksi melkein yhdessä yössä, kun yli 800 000 Neuvostoliiton puna-armeijan sotilasta eteni maahan ja loi Valko-Venäjän ja Ukrainan rintamat hyökättyään Puolan itäosiin. Tämä oli vastoin Riian rauhansopimusta, Neuvostoliiton ja Puolan hyökkäämättömyyssopimusta ja muita sekä kahdenvälisiä että monenkeskisiä kansainvälisiä sopimuksia. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Käsittelyn päätteeksi HJR-3 arvioidaan uudestaan seuraavalla vaalien jälkeisellä lainsäädäntökaudella joko vuonna 2015 tai 2016, jotta se pysyisi käsittelyssä.",politics,sports,"SENTENCE:
+ Käsittelyn päätteeksi HJR-3 arvioidaan uudestaan seuraavalla vaalien jälkeisellä lainsäädäntökaudella joko vuonna 2015 tai 2016, jotta se pysyisi käsittelyssä. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Sen jälkeen, kun kongressi oli 4. heinäkuuta hyväksynyt sen, kongressin puheenjohtajan John Hancockin ja sihteerin Charles Thomsonin allekirjoittama käsinkirjoitettu kappale lähetettiin sitten John Dunlapin kirjapainoon muutaman korttelin päässä.",politics,N/A,"SENTENCE:
+ Sen jälkeen, kun kongressi oli 4. heinäkuuta hyväksynyt sen, kongressin puheenjohtajan John Hancockin ja sihteerin Charles Thomsonin allekirjoittama käsinkirjoitettu kappale lähetettiin sitten John Dunlapin kirjapainoon muutaman korttelin päässä. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: culture culture</s>"
+Pian klo 11.00 jälkeen mielenosoittajat tukkivat liikenteen Whitehallin pohjoiseen johtavilla kaistoilla.,politics,travel,"SENTENCE:
+ Pian klo 11.00 jälkeen mielenosoittajat tukkivat liikenteen Whitehallin pohjoiseen johtavilla kaistoilla. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Kuitenkin Hruštšovin lupaukset pantiin koetukselle kesäkuussa 1956, kun Puolan mellakat, joissa työläiset osoittivat mieltään ruokapulan ja palkkaleikkauksien takia, muuttuivat yleiseksi protestiksi kommunismia vastaan.",politics,sports,"SENTENCE:
+ Kuitenkin Hruštšovin lupaukset pantiin koetukselle kesäkuussa 1956, kun Puolan mellakat, joissa työläiset osoittivat mieltään ruokapulan ja palkkaleikkauksien takia, muuttuivat yleiseksi protestiksi kommunismia vastaan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Sitä kesti seuraavien 40 vuoden ajan, ja sotaa käytiin oikeasti, sillä sijaisarmeijat sotivat Afrikan ja Aasian taistelukentillä, Afganistanissa, Kuubassa ja monissa muissa paikoissa.",politics,travel,"SENTENCE:
+ Sitä kesti seuraavien 40 vuoden ajan, ja sotaa käytiin oikeasti, sillä sijaisarmeijat sotivat Afrikan ja Aasian taistelukentillä, Afganistanissa, Kuubassa ja monissa muissa paikoissa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Presidentin nimittämä valtuuskunta suositteli viime kuussa edellisen väliaikaisen vaalineuvoston eroa osana toimenpidepakettia, jonka tarkoituksena on viedä maa kohti uusia vaaleja.",politics,travel,"SENTENCE:
+ Presidentin nimittämä valtuuskunta suositteli viime kuussa edellisen väliaikaisen vaalineuvoston eroa osana toimenpidepakettia, jonka tarkoituksena on viedä maa kohti uusia vaaleja. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Muita käsiteltyjä aiheita olivat tietojen mukaan kummallekin kansakunnalle pyhän Jerusalemin asema tulevaisuudessa sekä Jordanin laakson kysymys.,politics,travel,"SENTENCE:
+ Muita käsiteltyjä aiheita olivat tietojen mukaan kummallekin kansakunnalle pyhän Jerusalemin asema tulevaisuudessa sekä Jordanin laakson kysymys. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Sillä ei myöskään ollut valtaa muuttaa verolakeja ja osavaltioiden välisiä tullimaksuja.,politics,travel,"SENTENCE:
+ Sillä ei myöskään ollut valtaa muuttaa verolakeja ja osavaltioiden välisiä tullimaksuja. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Ranskan vaalilainsäädäntö on määrännyt tapahtumien kulun verrattain tarkasti.,politics,travel,"SENTENCE:
+ Ranskan vaalilainsäädäntö on määrännyt tapahtumien kulun verrattain tarkasti. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Välivaaleissa koetun tappiollisen viikon jälkeen Bush kertoi yleisölle Aasian kaupan kasvusta.,politics,travel,"SENTENCE:
+ Välivaaleissa koetun tappiollisen viikon jälkeen Bush kertoi yleisölle Aasian kaupan kasvusta. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Strategia osoittautui tehokkaaksi katkaistessaan sotilaiden ja siviilien elintärkeät tarviketoimitukset, vaikka saarto rikkoikin yleisesti hyväksyttyä kansainvälistä lakia, jonka useat kansainväliset sopimukset olivat kodifioineet edellisten kahdensadan vuoden aikana.",politics,entertainment,"SENTENCE:
+ Strategia osoittautui tehokkaaksi katkaistessaan sotilaiden ja siviilien elintärkeät tarviketoimitukset, vaikka saarto rikkoikin yleisesti hyväksyttyä kansainvälistä lakia, jonka useat kansainväliset sopimukset olivat kodifioineet edellisten kahdensadan vuoden aikana. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Näiden kahden Moldovan osan välille on muodostunut jälleen taloudellisia siteitä, vaikka poliittiset neuvottelut ovat epäonnistuneet.",politics,travel,"SENTENCE:
+ Näiden kahden Moldovan osan välille on muodostunut jälleen taloudellisia siteitä, vaikka poliittiset neuvottelut ovat epäonnistuneet. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Näiden viranomaisten kanssa hän vakuutti Teksasin asukkaille, että kansalaisten turvallisuuden takaamiseksi tehtiin toimenpiteitä.",politics,travel,"SENTENCE:
+ Näiden viranomaisten kanssa hän vakuutti Teksasin asukkaille, että kansalaisten turvallisuuden takaamiseksi tehtiin toimenpiteitä. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Liberaalien kritiikki jälleenrakennushankkeita kohtaan on keskittynyt jälleenrakennussopimusten myöntämiseen Washingtonin sisäpiiriläisinä pidetyille tahoille.,politics,travel,"SENTENCE:
+ Liberaalien kritiikki jälleenrakennushankkeita kohtaan on keskittynyt jälleenrakennussopimusten myöntämiseen Washingtonin sisäpiiriläisinä pidetyille tahoille. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Ennen liittovaltion parlamenttivaaleja vuonna 2010 tehtiin 1 400 vastaajan kyselytutkimus. Australian tasavallaksi muuttumista vastustavien määrä oli kasvanut 8 prosentilla vuodesta 2008.,politics,politics,"SENTENCE:
+ Ennen liittovaltion parlamenttivaaleja vuonna 2010 tehtiin 1 400 vastaajan kyselytutkimus. Australian tasavallaksi muuttumista vastustavien määrä oli kasvanut 8 prosentilla vuodesta 2008. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+Diplomaatit sanoivat löytäneensä Afganistanin perustuslaista riittävästi tulkinnanvaraisia seikkoja pitääkseen toista kierrosta tarpeettomana.,politics,N/A,"SENTENCE:
+ Diplomaatit sanoivat löytäneensä Afganistanin perustuslaista riittävästi tulkinnanvaraisia seikkoja pitääkseen toista kierrosta tarpeettomana. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: education education</s>"
+"Tulosten valmistuttua Gingrich puhui kauniisti Santorumista mutta varasi ankaria sanoja Romneylle, jonka puolesta Iowassa oli lähetetty negatiivisia vaalimainoksia Gingrichiä vastaan.",politics,sports,"SENTENCE:
+ Tulosten valmistuttua Gingrich puhui kauniisti Santorumista mutta varasi ankaria sanoja Romneylle, jonka puolesta Iowassa oli lähetetty negatiivisia vaalimainoksia Gingrichiä vastaan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Se on Martellyn viides väliaikainen vaalineuvosto neljän vuoden aikana.,politics,travel,"SENTENCE:
+ Se on Martellyn viides väliaikainen vaalineuvosto neljän vuoden aikana. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Olympiavoittajan oli tarkoitus osallistua Kansainyhteisön kisojen 100 metrin ja 200 metrin vapaauintiin ja kolmeen viestikilpailuun, mutta hänen kuntonsa on ollut epävarma kipujen takia.",sports,sports,"SENTENCE:
+ Olympiavoittajan oli tarkoitus osallistua Kansainyhteisön kisojen 100 metrin ja 200 metrin vapaauintiin ja kolmeen viestikilpailuun, mutta hänen kuntonsa on ollut epävarma kipujen takia. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Saito oli kuollessaan paitsi entinen olympiavoittaja ja maailmanmestari myös Japanin judoliiton harjoitteluvaliokunnan puheenjohtaja.,sports,sports,"SENTENCE:
+ Saito oli kuollessaan paitsi entinen olympiavoittaja ja maailmanmestari myös Japanin judoliiton harjoitteluvaliokunnan puheenjohtaja. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Kansainvälinen Olympiakomitea äänesti tänään kyseisten urheilulajien mukaan ottamisesta johtokunnan kokouksessaan Berliinissä. Rugby, tarkalleen ottaen rugby union, ja golf valittiin olympialaisiin yhteensä seitsemässä harkinnassa olleesta urheilulajista.",sports,sports,"SENTENCE:
+ Kansainvälinen Olympiakomitea äänesti tänään kyseisten urheilulajien mukaan ottamisesta johtokunnan kokouksessaan Berliinissä. Rugby, tarkalleen ottaen rugby union, ja golf valittiin olympialaisiin yhteensä seitsemässä harkinnassa olleesta urheilulajista. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Vuoden suurin turnaus käydään joulukuussa Las Cañitasin poolokentillä.,sports,travel,"SENTENCE:
+ Vuoden suurin turnaus käydään joulukuussa Las Cañitasin poolokentillä. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Vidal oli Katalonian pääkaupunkiin muutettuaan pelannut joukkueen 49 ottelussa.,sports,sports,"SENTENCE:
+ Vidal oli Katalonian pääkaupunkiin muutettuaan pelannut joukkueen 49 ottelussa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Terveen energiatasapainon ylläpitäminen, tehokkaiden nesteytystapojen harjoittaminen sekä ravintolisien käytön eri puolten ymmärtäminen voi auttaa urheilijoita parantamaan suoritustaan ja nauttimaan urheilusta enemmän.",sports,travel,"SENTENCE:
+ Terveen energiatasapainon ylläpitäminen, tehokkaiden nesteytystapojen harjoittaminen sekä ravintolisien käytön eri puolten ymmärtäminen voi auttaa urheilijoita parantamaan suoritustaan ja nauttimaan urheilusta enemmän. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Kolmantena oleva Hamlin on 20 pistettä perässä, mutta viisi Bowyeria edellä. Kahne on viides ja Truex kuudes 2 220 ja 2 207 pisteellä.",sports,sports,"SENTENCE:
+ Kolmantena oleva Hamlin on 20 pistettä perässä, mutta viisi Bowyeria edellä. Kahne on viides ja Truex kuudes 2 220 ja 2 207 pisteellä. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Nadalin ja kanadalaisen kohtaamiset ovat menneet edellisen eduksi 7–2.,sports,sports,"SENTENCE:
+ Nadalin ja kanadalaisen kohtaamiset ovat menneet edellisen eduksi 7–2. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Jarque osallistui kautta edeltävään harjoituksiin Italian Covercianossa aiemmin päivällä. Hän oli majoittunut joukkueen hotelliin ennen sunnuntaille aiottua ottelua Boloniaa vastaan.,sports,sports,"SENTENCE:
+ Jarque osallistui kautta edeltävään harjoituksiin Italian Covercianossa aiemmin päivällä. Hän oli majoittunut joukkueen hotelliin ennen sunnuntaille aiottua ottelua Boloniaa vastaan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Huoli kuljetuksen puutteesta nosti esiin mahdollisuuden, että peli olisi pakko pelata suljettujen ovien takana ilman joukkueen kannattajia.",sports,entertainment,"SENTENCE:
+ Huoli kuljetuksen puutteesta nosti esiin mahdollisuuden, että peli olisi pakko pelata suljettujen ovien takana ilman joukkueen kannattajia. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Tommy Dreamer sanoi: ""Luna oli ensimmäinen äärimmäisyyksien kuningatar. Ensimmäinen managerini. Luna menehtyi kahden kuun yönä. Aika ainutlaatuinen tapaus niin kuin hän itsekin. Vahva nainen.""",sports,sports,"SENTENCE:
+ Tommy Dreamer sanoi: ""Luna oli ensimmäinen äärimmäisyyksien kuningatar. Ensimmäinen managerini. Luna menehtyi kahden kuun yönä. Aika ainutlaatuinen tapaus niin kuin hän itsekin. Vahva nainen."" 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Puolan miesten näkövammainen hiihtäjä Maciej Krezel ja opas Anna Ogarzynska tulivat maaliin kolmantenatoista supersuurpujottelussa. Etelä-Korean Jong Seork Park tuli maaliin kahtenakymmenentenäneljäntenä miesten kelkkasupersuurpujottelussa.,sports,sports,"SENTENCE:
+ Puolan miesten näkövammainen hiihtäjä Maciej Krezel ja opas Anna Ogarzynska tulivat maaliin kolmantenatoista supersuurpujottelussa. Etelä-Korean Jong Seork Park tuli maaliin kahtenakymmenentenäneljäntenä miesten kelkkasupersuurpujottelussa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Argentiinan poololiitolta saa uutisia turnauksista ja poolo-otteluiden lippujen ostopaikoista.,sports,sports,"SENTENCE:
+ Argentiinan poololiitolta saa uutisia turnauksista ja poolo-otteluiden lippujen ostopaikoista. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Ottelut alkoivat kello 10.00 upean sään vallitessa, ja aamupäivän nopeasti päättynyttä tihkusadetta lukuun ottamatta päivä oli täydellinen seitsemän pelaajan rugbylle.",sports,sports,"SENTENCE:
+ Ottelut alkoivat kello 10.00 upean sään vallitessa, ja aamupäivän nopeasti päättynyttä tihkusadetta lukuun ottamatta päivä oli täydellinen seitsemän pelaajan rugbylle. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Meksikon Arly Velasquez pääsi 15.:ksi miesten supersuurpujottelun kelkkalaskijoiden luokassa. Uuden-Seelannin Adam Hall tuli pystyluokan yhdeksänneksi miesten supersuurpujottelussa.,sports,sports,"SENTENCE:
+ Meksikon Arly Velasquez pääsi 15.:ksi miesten supersuurpujottelun kelkkalaskijoiden luokassa. Uuden-Seelannin Adam Hall tuli pystyluokan yhdeksänneksi miesten supersuurpujottelussa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Sarjan viimeinen ottelu pelataan ensi viikolla Johannesburgin Ellis Parkissa, missä Springbokit kohtaavat Australian.",sports,sports,"SENTENCE:
+ Sarjan viimeinen ottelu pelataan ensi viikolla Johannesburgin Ellis Parkissa, missä Springbokit kohtaavat Australian. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Hyvissä olosuhteissa voit edetä jonkin verran nopeammin kuin jalkaisin, mutta pääset vain hyvin harvoin samaan vauhtiin kuin hiihtäessäsi huolletuilla laduilla ja ilman painavaa reppua.",sports,travel,"SENTENCE:
+ Hyvissä olosuhteissa voit edetä jonkin verran nopeammin kuin jalkaisin, mutta pääset vain hyvin harvoin samaan vauhtiin kuin hiihtäessäsi huolletuilla laduilla ja ilman painavaa reppua. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Johnson on toisena 2 243 pisteellä eli seitsemän pistettä jäljessä.,sports,sports,"SENTENCE:
+ Johnson on toisena 2 243 pisteellä eli seitsemän pistettä jäljessä. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Kanjonointi tarkoittaa kanjonin pohjalle menemistä, joko kuivan tai veden täyttämän.",sports,travel,"SENTENCE:
+ Kanjonointi tarkoittaa kanjonin pohjalle menemistä, joko kuivan tai veden täyttämän. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Robin Uthappa keräsi sisävuoron korkeimman pistemäärän eli 70 juoksua vain 41 lyönnillä. Hän löi neljä juoksua yksitoista kertaa ja kuusi juoksua kaksi kertaa.,sports,sports,"SENTENCE:
+ Robin Uthappa keräsi sisävuoron korkeimman pistemäärän eli 70 juoksua vain 41 lyönnillä. Hän löi neljä juoksua yksitoista kertaa ja kuusi juoksua kaksi kertaa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Talviurheilulajit ovat suosituimpia pohjoisilla alueilla, ja italialaiset kilpailevat niissä jopa kansainvälisissä otteluissa ja olympialaisissa.",sports,sports,"SENTENCE:
+ Talviurheilulajit ovat suosituimpia pohjoisilla alueilla, ja italialaiset kilpailevat niissä jopa kansainvälisissä otteluissa ja olympialaisissa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Maroochydore päätti kauden kärkipaikalla, kuusi pistettä edellä toiseksi tullutta Noosaa.",sports,sports,"SENTENCE:
+ Maroochydore päätti kauden kärkipaikalla, kuusi pistettä edellä toiseksi tullutta Noosaa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Michael Schumacherin kisa päättyi pian Alonson jälkeen, koska hänen jousituksensa oli vaurioitunut kilpailun mittaan käydyissä lukuisissa taisteluissa.",sports,sports,"SENTENCE:
+ Michael Schumacherin kisa päättyi pian Alonson jälkeen, koska hänen jousituksensa oli vaurioitunut kilpailun mittaan käydyissä lukuisissa taisteluissa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Asianmukaiset ravitsemuskäytännöt eivät yksinään kykene saamaan aikaan eliittisuorituksia, mutta ne voivat vaikuttaa merkittävästi nuorten urheilijoiden yleiseen hyvinvointiin.",sports,travel,"SENTENCE:
+ Asianmukaiset ravitsemuskäytännöt eivät yksinään kykene saamaan aikaan eliittisuorituksia, mutta ne voivat vaikuttaa merkittävästi nuorten urheilijoiden yleiseen hyvinvointiin. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Hän ei ole voinut ottaa kivunlievittämiseen tarvittavia lääkkeitä, koska niiden käyttö on kisoissa kiellettyä.",sports,travel,"SENTENCE:
+ Hän ei ole voinut ottaa kivunlievittämiseen tarvittavia lääkkeitä, koska niiden käyttö on kisoissa kiellettyä. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Tutkimus on osoittanut, että naisilla on kaksinkertainen taipumus sairastua MS-tautiin miehiin verrattuna.",health,travel,"SENTENCE:
+ Tutkimus on osoittanut, että naisilla on kaksinkertainen taipumus sairastua MS-tautiin miehiin verrattuna. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Laittomat väkevät juomat voivat sisältää erilaisia vaarallisia epäpuhtauksia, esimerkiksi metanolia, joka voi jopa pieninä annoksina aiheuttaa sokeutta tai kuoleman.",health,travel,"SENTENCE:
+ Laittomat väkevät juomat voivat sisältää erilaisia vaarallisia epäpuhtauksia, esimerkiksi metanolia, joka voi jopa pieninä annoksina aiheuttaa sokeutta tai kuoleman. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Ainoastaan katastrofoinnin vaikutuksista kärsivät saivat osallistua jokaviikkoisiin jäsenneltyihin fyysisen toiminnan istuntoihin. Masennuksesta ja pelosta kärsiminen ei ollut riittävä edellytys.,health,travel,"SENTENCE:
+ Ainoastaan katastrofoinnin vaikutuksista kärsivät saivat osallistua jokaviikkoisiin jäsenneltyihin fyysisen toiminnan istuntoihin. Masennuksesta ja pelosta kärsiminen ei ollut riittävä edellytys. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Autojen massaomistuksesta seuraa useampia onnettomuuksia tieliikenteessä, mikä johtaa uusien terveydenhoidon menetelmien keksimiseen vaurioituneiden kehojen korjaamiseksi.",health,travel,"SENTENCE:
+ Autojen massaomistuksesta seuraa useampia onnettomuuksia tieliikenteessä, mikä johtaa uusien terveydenhoidon menetelmien keksimiseen vaurioituneiden kehojen korjaamiseksi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Johtavat tutkijat sanovat, että sen avulla syöpä, tuberkuloosi, HIV ja malaria voidaan todeta jo varhaisessa vaiheessa potilailla, jotka asuvat alhaisen tulotason maissa, missä esimerkiksi rintasyövän kaltaisen taudin eloonjäämisaste voi olla puolet rikkaampien maiden vastaavasta.",health,travel,"SENTENCE:
+ Johtavat tutkijat sanovat, että sen avulla syöpä, tuberkuloosi, HIV ja malaria voidaan todeta jo varhaisessa vaiheessa potilailla, jotka asuvat alhaisen tulotason maissa, missä esimerkiksi rintasyövän kaltaisen taudin eloonjäämisaste voi olla puolet rikkaampien maiden vastaavasta. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Tohtori Ehud Ur, Dalhousien yliopiston lääketieteen professori Nova Scotian Halifaxissa ja Kanadan diabetesliiton kliinisen ja tiedeosaston puheenjohtaja, varoitti, että tutkimus on vasta varhaisessa vaiheessa.",health,health,"SENTENCE:
+ Tohtori Ehud Ur, Dalhousien yliopiston lääketieteen professori Nova Scotian Halifaxissa ja Kanadan diabetesliiton kliinisen ja tiedeosaston puheenjohtaja, varoitti, että tutkimus on vasta varhaisessa vaiheessa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: health</s>"
+"Nämä lapset joutuvat usein ongelmiin, koska he ""käyttäytyvät riskialttiisti, joutuvat tappeluihin ja haastavat auktoriteetteja"" stimuloidakseen aivojaan, sillä heidän aivojaan ei voida stimuloida tavallisin keinoin.",health,travel,"SENTENCE:
+ Nämä lapset joutuvat usein ongelmiin, koska he ""käyttäytyvät riskialttiisti, joutuvat tappeluihin ja haastavat auktoriteetteja"" stimuloidakseen aivojaan, sillä heidän aivojaan ei voida stimuloida tavallisin keinoin. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Tuulen ja aaltojen ilmaan nostaman, myrkyn saastuttaman veden hengittäminen saattaa vahingoittaa ihmisiä.",health,travel,"SENTENCE:
+ Tuulen ja aaltojen ilmaan nostaman, myrkyn saastuttaman veden hengittäminen saattaa vahingoittaa ihmisiä. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Jotkut uskovat, että monien keinotekoisesti aikaansaatujen selkounien näkeminen liian usein voi olla hyvin uuvuttavaa.",health,travel,"SENTENCE:
+ Jotkut uskovat, että monien keinotekoisesti aikaansaatujen selkounien näkeminen liian usein voi olla hyvin uuvuttavaa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Del Potron olkapäätä hoidettiin tässä vaiheessa, mutta hän pystyi jatkamaan pelaamista.",health,travel,"SENTENCE:
+ Del Potron olkapäätä hoidettiin tässä vaiheessa, mutta hän pystyi jatkamaan pelaamista. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Lisäksi niitä ilman jäämisellä on vakavia seurauksia: kasvun hidastuminen, aliravitsemus ja lopulta kuolema.",health,travel,"SENTENCE:
+ Lisäksi niitä ilman jäämisellä on vakavia seurauksia: kasvun hidastuminen, aliravitsemus ja lopulta kuolema. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Amsterdamin kaupungin ja Anne Frankin talon edustajat ilmoittivat puun kärsivän sienitaudista. Heidän mukaansa se aiheuttaa vaaraa yleiselle terveydelle, koska se on välittömässä vaarassa kaatua.",health,travel,"SENTENCE:
+ Amsterdamin kaupungin ja Anne Frankin talon edustajat ilmoittivat puun kärsivän sienitaudista. Heidän mukaansa se aiheuttaa vaaraa yleiselle terveydelle, koska se on välittömässä vaarassa kaatua. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Sairaala on noudattanut infektiohallinnan käytäntöä, jossa potilas erotetaan muista mahdollisten tartuntojen ehkäisemiseksi.",health,travel,"SENTENCE:
+ Sairaala on noudattanut infektiohallinnan käytäntöä, jossa potilas erotetaan muista mahdollisten tartuntojen ehkäisemiseksi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Haitilainen oikeuden ja demokratian instituutti on viitannut itsenäisiin tutkimuksiin, joiden mukaan YK:n nepalilainen rauhanturvaajapataljoona toi taudin vahingossa Haitiin.",health,travel,"SENTENCE:
+ Haitilainen oikeuden ja demokratian instituutti on viitannut itsenäisiin tutkimuksiin, joiden mukaan YK:n nepalilainen rauhanturvaajapataljoona toi taudin vahingossa Haitiin. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Varsinaisia tarttuvia tauteja tai sellaisia vaarallisia eläimiä, jotka voivat vahingoittaa tai tappaa ihmisiä väkivalloin, ei yleensä lasketa tuhoeläimiksi.",health,travel,"SENTENCE:
+ Varsinaisia tarttuvia tauteja tai sellaisia vaarallisia eläimiä, jotka voivat vahingoittaa tai tappaa ihmisiä väkivalloin, ei yleensä lasketa tuhoeläimiksi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Tarkkaavaisuushäiriöisten lasten on vaikea keskittyä johonkin sellaiseen kuin koulunkäynti, mutta he pystyvät keskittymään asioihin, joista pistävät, kuten pelaamiseen, suosikkipiirrettyjensä katseluun tai välimerkittömien lauseiden kirjoittamiseen.",health,travel,"SENTENCE:
+ Tarkkaavaisuushäiriöisten lasten on vaikea keskittyä johonkin sellaiseen kuin koulunkäynti, mutta he pystyvät keskittymään asioihin, joista pistävät, kuten pelaamiseen, suosikkipiirrettyjensä katseluun tai välimerkittömien lauseiden kirjoittamiseen. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Tartunnan saaja voi itse tartuttaa vuoden aikana 10–15 lähikontaktia.,health,sports,"SENTENCE:
+ Tartunnan saaja voi itse tartuttaa vuoden aikana 10–15 lähikontaktia. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Taistelun päätyttyä sen jälkeen, kun loukkaantuneet oli siirretty sairaalaan, jäljelle jääneistä vangeista noin 40 jäljelle jäi pihalle eikä suostunut palaamaan selliin.",health,sports,"SENTENCE:
+ Taistelun päätyttyä sen jälkeen, kun loukkaantuneet oli siirretty sairaalaan, jäljelle jääneistä vangeista noin 40 jäljelle jäi pihalle eikä suostunut palaamaan selliin. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Keisari Augustus alkoi palkata lääkäreitä, ja heistä muodostettiin jopa ensimmäiset roomalaiset lääkintäjoukot käytettäväksi taistelujen jälkimainingeissa.",health,travel,"SENTENCE:
+ Keisari Augustus alkoi palkata lääkäreitä, ja heistä muodostettiin jopa ensimmäiset roomalaiset lääkintäjoukot käytettäväksi taistelujen jälkimainingeissa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Kuljettaja sai kuitenkin vakavia vammoja päähän.,health,travel,"SENTENCE:
+ Kuljettaja sai kuitenkin vakavia vammoja päähän. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Meillä on nyt 4 kuukauden ikäisiä hiiriä, jotka olivat ennen diabeetikkoja, mutta eivät ole enää, hän lisäsi.",health,travel,"SENTENCE:
+ Meillä on nyt 4 kuukauden ikäisiä hiiriä, jotka olivat ennen diabeetikkoja, mutta eivät ole enää, hän lisäsi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Sisäinen myrkytys ei välttämättä ole välittömästi ilmeinen. Oksentaminen kaltaiset oireet ovat niin yleisiä, että diagnoosia ei voida tehdä heti.",health,travel,"SENTENCE:
+ Sisäinen myrkytys ei välttämättä ole välittömästi ilmeinen. Oksentaminen kaltaiset oireet ovat niin yleisiä, että diagnoosia ei voida tehdä heti. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Sen seurauksena esiintyjät polttavat kannabissavukkeita lavalla, ja teatterissa kannustetaan yleisöä liittymään mukaan.",entertainment,travel,"SENTENCE:
+ Sen seurauksena esiintyjät polttavat kannabissavukkeita lavalla, ja teatterissa kannustetaan yleisöä liittymään mukaan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Aerosmith on peruuttanut loput kiertueensa konserteista.,entertainment,entertainment,"SENTENCE:
+ Aerosmith on peruuttanut loput kiertueensa konserteista. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Jos haluat olla tapahtumien lähellä, sinun tarvitsee saapua ajoissa paikalle saadaksesi leirintäpaikan läheltä musiikkia.",entertainment,entertainment,"SENTENCE:
+ Jos haluat olla tapahtumien lähellä, sinun tarvitsee saapua ajoissa paikalle saadaksesi leirintäpaikan läheltä musiikkia. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Vuosien mittaan on käytetty useita eri filmityyppejä. Tavallinen 35 millimetrin filmi (36 × 24 mm negatiivina) on selvästi yleisin.,entertainment,entertainment,"SENTENCE:
+ Vuosien mittaan on käytetty useita eri filmityyppejä. Tavallinen 35 millimetrin filmi (36 × 24 mm negatiivina) on selvästi yleisin. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Näin tehdään hyvin yleisesti, mutta Disney on kieltänyt sen: lippuja ei voi siirtää toiselle henkilölle.",entertainment,travel,"SENTENCE:
+ Näin tehdään hyvin yleisesti, mutta Disney on kieltänyt sen: lippuja ei voi siirtää toiselle henkilölle. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Jokainen sarjan jakso keskittyi jonkin tietyn kirjan teemaan ja tutki sitä sen jälkeen monien eri tarinoiden kautta.,entertainment,sports,"SENTENCE:
+ Jokainen sarjan jakso keskittyi jonkin tietyn kirjan teemaan ja tutki sitä sen jälkeen monien eri tarinoiden kautta. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Useita suuria televisionäyttöjä pystytettiin eri puolille Roomaa, jotta ihmiset saivat katsella hautajaistoimitusta.",entertainment,travel,"SENTENCE:
+ Useita suuria televisionäyttöjä pystytettiin eri puolille Roomaa, jotta ihmiset saivat katsella hautajaistoimitusta. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Sofokles ja Aristofanes ovat vieläkin suosittuja näytelmäkirjailijoita, ja heidän näytelmiään luetaan maailmankirjallisuuden suurimpien teosten joukkoon.",entertainment,entertainment,"SENTENCE:
+ Sofokles ja Aristofanes ovat vieläkin suosittuja näytelmäkirjailijoita, ja heidän näytelmiään luetaan maailmankirjallisuuden suurimpien teosten joukkoon. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Jokainen ohjelma sisälsi myös suosituksia kirjoista, joita lasten tulisi etsiä mennessään kirjastoon.",entertainment,sports,"SENTENCE:
+ Jokainen ohjelma sisälsi myös suosituksia kirjoista, joita lasten tulisi etsiä mennessään kirjastoon. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Harmonikkaan saa lisää äänenvoimakkuutta, kun käyttää palkeita suuremmalla paineella tai nopeudella.",entertainment,entertainment,"SENTENCE:
+ Harmonikkaan saa lisää äänenvoimakkuutta, kun käyttää palkeita suuremmalla paineella tai nopeudella. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Pyramidit voi nähdä pimeässä, ja ennen esityksen alkua ne voi nähdä täydessä hiljaisuudessa.",entertainment,travel,"SENTENCE:
+ Pyramidit voi nähdä pimeässä, ja ennen esityksen alkua ne voi nähdä täydessä hiljaisuudessa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Esimerkkejä toiminnasta matkakohteessa ovat metsästys, kalastus, valokuvaus, lintujen tarkkailu, puistovierailut ja tutustuminen ekosysteemistä kertoviin tietoihin.",entertainment,travel,"SENTENCE:
+ Esimerkkejä toiminnasta matkakohteessa ovat metsästys, kalastus, valokuvaus, lintujen tarkkailu, puistovierailut ja tutustuminen ekosysteemistä kertoviin tietoihin. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Sfinksi on pitkän tarinan tausta ja sen kertoja.,entertainment,travel,"SENTENCE:
+ Sfinksi on pitkän tarinan tausta ja sen kertoja. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Niillä on usein erityisiä ruoka-, juoma- ja viihdetarjouksia asiakkaiden pitämiseksi hyvällä tuulella – ja kasinon tiloissa.",entertainment,travel,"SENTENCE:
+ Niillä on usein erityisiä ruoka-, juoma- ja viihdetarjouksia asiakkaiden pitämiseksi hyvällä tuulella – ja kasinon tiloissa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Uutistarjontaa saadaan jo nyt englanniksi ja japaniksi, mutta maailmanlaajuinen yritys aloittaa espanjan-, italian- ja koreankielisten ohjelmien tuottamisen televisioon, verkkoon ja mobiililaitteille.",entertainment,entertainment,"SENTENCE:
+ Uutistarjontaa saadaan jo nyt englanniksi ja japaniksi, mutta maailmanlaajuinen yritys aloittaa espanjan-, italian- ja koreankielisten ohjelmien tuottamisen televisioon, verkkoon ja mobiililaitteille. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Simon oli ennen Simpsoneita työskennellyt eri tehtävissä useissa ohjelmasarjoissa.,entertainment,entertainment,"SENTENCE:
+ Simon oli ennen Simpsoneita työskennellyt eri tehtävissä useissa ohjelmasarjoissa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Tämä mahdollistaa videopelin toimintojen ja liikkeiden suorittamisen liikuttamalla laitetta ilmassa.,entertainment,entertainment,"SENTENCE:
+ Tämä mahdollistaa videopelin toimintojen ja liikkeiden suorittamisen liikuttamalla laitetta ilmassa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Juhliin oli osallistunut ainakin sata ihmistä juhlistamaan viime vuonna naimisiin mennen pariskunnan ensimmäistä hääpäivää.,entertainment,travel,"SENTENCE:
+ Juhliin oli osallistunut ainakin sata ihmistä juhlistamaan viime vuonna naimisiin mennen pariskunnan ensimmäistä hääpäivää. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Elokuvan lauluista kaksi, Audition (The Fools Who Dream) ja City of Stars, oli ehdolla parhaasta alkuperäisestä musiikkikappaleesta. Lionsgate-studio sai 26 ehdokkuutta – enemmän kuin mikään muu studio.",entertainment,entertainment,"SENTENCE:
+ Elokuvan lauluista kaksi, Audition (The Fools Who Dream) ja City of Stars, oli ehdolla parhaasta alkuperäisestä musiikkikappaleesta. Lionsgate-studio sai 26 ehdokkuutta – enemmän kuin mikään muu studio. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Kuun kuoren paksuus on noin 70 kilometriä Maahan näkyvällä puolella ja noin 100 kilometriä Kuun kääntöpuolella.,geography,travel,"SENTENCE:
+ Kuun kuoren paksuus on noin 70 kilometriä Maahan näkyvällä puolella ja noin 100 kilometriä Kuun kääntöpuolella. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Kauempana etelässä ovat Niagaran putoukset ja pohjoisessa on muun muassa koskematon, luonnonkaunis Muskoka.",geography,travel,"SENTENCE:
+ Kauempana etelässä ovat Niagaran putoukset ja pohjoisessa on muun muassa koskematon, luonnonkaunis Muskoka. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Ellsworthinmaa on Bellingshauseninmeren rajoittama alue niemimaan eteläpuolella.,geography,travel,"SENTENCE:
+ Ellsworthinmaa on Bellingshauseninmeren rajoittama alue niemimaan eteläpuolella. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Etelänavan maantie on 1 600 kilometrin pituinen reitti navalle McMurdon asemalta Rossinmeren rannalta.,geography,travel,"SENTENCE:
+ Etelänavan maantie on 1 600 kilometrin pituinen reitti navalle McMurdon asemalta Rossinmeren rannalta. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Machu Picchun pohjoisosan yläpuolella kohoaa tämä jyrkkä vuori, joka nähdään usein raunioista otettujen valokuvien taustalla.",geography,travel,"SENTENCE:
+ Machu Picchun pohjoisosan yläpuolella kohoaa tämä jyrkkä vuori, joka nähdään usein raunioista otettujen valokuvien taustalla. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Enceladus on aurinkokunnan heijastavin kappale. Se heijastaa noin 90 prosenttia siihen osuvasta auringon valosta.,geography,science/technology,"SENTENCE:
+ Enceladus on aurinkokunnan heijastavin kappale. Se heijastaa noin 90 prosenttia siihen osuvasta auringon valosta. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+"Näkyy vain selkeä, kaunis taivas yläpuolella ja monet ympäröivät vuoret. Luolan sisältä näkee tai kuulee hyvin vähän maallisesta maailmasta.",geography,travel,"SENTENCE:
+ Näkyy vain selkeä, kaunis taivas yläpuolella ja monet ympäröivät vuoret. Luolan sisältä näkee tai kuulee hyvin vähän maallisesta maailmasta. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Sitten Japani. Japani oli saarivaltio, aivan kuten Iso-Britannia.",geography,travel,"SENTENCE:
+ Sitten Japani. Japani oli saarivaltio, aivan kuten Iso-Britannia. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Trooppinen sykloni Gonu, joka on saanut nimensä Malediiveilla puhutun kielen palmunlehtikassia tarkoittavan sanan mukana, saavutti huipussaan ei-puuskittaiseksi tuulennopeudeksi 240 kilometriä tunnissa (149 mailia tunnissa).",geography,travel,"SENTENCE:
+ Trooppinen sykloni Gonu, joka on saanut nimensä Malediiveilla puhutun kielen palmunlehtikassia tarkoittavan sanan mukana, saavutti huipussaan ei-puuskittaiseksi tuulennopeudeksi 240 kilometriä tunnissa (149 mailia tunnissa). 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Turkin pinta-ala järvet mukaan lukien on 783 562 neliökilometriä (300 948 neliömailia), josta 755 688 neliökilometriä (291 773 neliömailia) sijaitsee Lounais-Aasiassa ja 23 764 neliökilometriä (9 174 neliömailia) Euroopassa.",geography,travel,"SENTENCE:
+ Turkin pinta-ala järvet mukaan lukien on 783 562 neliökilometriä (300 948 neliömailia), josta 755 688 neliökilometriä (291 773 neliömailia) sijaitsee Lounais-Aasiassa ja 23 764 neliökilometriä (9 174 neliömailia) Euroopassa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Monet valtiot ovat vaatineet itselleen Eteläisiä Shetlandsaaria, jotka löydettiin vuonna 1819, ja niillä onkin eniten tukikohtia. Vuonna 2020 aktiivisia tukikohtia oli kuusitoista.",geography,travel,"SENTENCE:
+ Monet valtiot ovat vaatineet itselleen Eteläisiä Shetlandsaaria, jotka löydettiin vuonna 1819, ja niillä onkin eniten tukikohtia. Vuonna 2020 aktiivisia tukikohtia oli kuusitoista. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Apia on Samoan pääkaupunki. Kaupunki sijaitsee Upolun saarella, ja sen väkiluku on hieman alle 40 000.",geography,travel,"SENTENCE:
+ Apia on Samoan pääkaupunki. Kaupunki sijaitsee Upolun saarella, ja sen väkiluku on hieman alle 40 000. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Koska myrsky on kaukana rannikolta, sen mahdollisia vaikutuksia Yhdysvaltoihin tai Karibianmeren saariin on edelleen vaikea arvioida.",geography,travel,"SENTENCE:
+ Koska myrsky on kaukana rannikolta, sen mahdollisia vaikutuksia Yhdysvaltoihin tai Karibianmeren saariin on edelleen vaikea arvioida. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Se on ohuempi merten alla ja paksumpi ylängöillä.,geography,travel,"SENTENCE:
+ Se on ohuempi merten alla ja paksumpi ylängöillä. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Metsät eivät kuitenkaan ole pelkkiä mangrovesoita, vaan niihin kuuluu joitakin viimeisiä jäänteitä niistä mahtavista viidakoista, jotka aikoinaan peittivät koko Gangesin tasangon.",geography,travel,"SENTENCE:
+ Metsät eivät kuitenkaan ole pelkkiä mangrovesoita, vaan niihin kuuluu joitakin viimeisiä jäänteitä niistä mahtavista viidakoista, jotka aikoinaan peittivät koko Gangesin tasangon. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Yhdysvaltojen geologisen tutkimuskeskuksen kansainvälinen maanjäristyskartta ei osoittanut Islannissa tapahtuneen edeltävällä viikolla maanjäristyksiä.,geography,travel,"SENTENCE:
+ Yhdysvaltojen geologisen tutkimuskeskuksen kansainvälinen maanjäristyskartta ei osoittanut Islannissa tapahtuneen edeltävällä viikolla maanjäristyksiä. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Luola sijaitsee yhdellä Mekan pohjoispuolella kohoavista vuorista, ja se on täysin eristyksissä muusta maailmasta.",geography,travel,"SENTENCE:
+ Luola sijaitsee yhdellä Mekan pohjoispuolella kohoavista vuorista, ja se on täysin eristyksissä muusta maailmasta. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"

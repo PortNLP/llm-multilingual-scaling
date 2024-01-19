@@ -1,0 +1,2449 @@
+text,actual_category,predicted_category,generated_text
+ضافت الطفرة تنوع جيني جديد ، وبشيلها التحديد من مجموعة الاختلاف المعبر عنه.,science/technology,N/A,"SENTENCE:
+ ضافت الطفرة تنوع جيني جديد ، وبشيلها التحديد من مجموعة الاختلاف المعبر عنه. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: agriculture</s>"
+القنبلة الانشطارية بتشتغل بمبدأ انها بتاخد الطاقة لتجمع النواة مع بروتونات ونيوترونات.,science/technology,science/technology,"SENTENCE:
+ القنبلة الانشطارية بتشتغل بمبدأ انها بتاخد الطاقة لتجمع النواة مع بروتونات ونيوترونات. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+بتتكون النواة من جسيمين - النيوترونات والبروتونات.,science/technology,science/technology,"SENTENCE:
+ بتتكون النواة من جسيمين - النيوترونات والبروتونات. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+وهذا سمح لعدسات التكبير انها تطلع صور بجودة مثل اللي حققتها العدسات مع البعد البؤري الثابت.,science/technology,travel,"SENTENCE:
+ وهذا سمح لعدسات التكبير انها تطلع صور بجودة مثل اللي حققتها العدسات مع البعد البؤري الثابت. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+فهيه بتتفوق على بروكسيات الويب لعدة أسباب: فهيه بتعيد توجيه كل حركات المرور على الإنترنت ، مش بس http.,science/technology,N/A,"SENTENCE:
+ فهيه بتتفوق على بروكسيات الويب لعدة أسباب: فهيه بتعيد توجيه كل حركات المرور على الإنترنت ، مش بس http. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: tech</s>"
+التصميم التفاعلي بيحتاج إعادة تقييم افتراضاتك حول الإنتاج الإعلامي وتعلم التفكير بطرق غير خطية.,science/technology,entertainment,"SENTENCE:
+ التصميم التفاعلي بيحتاج إعادة تقييم افتراضاتك حول الإنتاج الإعلامي وتعلم التفكير بطرق غير خطية. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+صارت هي ممارسة شائعة ، بس الحديد تسبب في التآكل للدواليب الخشبية للعربات.,science/technology,travel,"SENTENCE:
+ صارت هي ممارسة شائعة ، بس الحديد تسبب في التآكل للدواليب الخشبية للعربات. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+تتكون العرائس من واحد إلى ثلاثة ذكور بالغين ، إلى جانب ما يصل إلى ثلاثين أنثى وشبلاً.,science/technology,entertainment,"SENTENCE:
+ تتكون العرائس من واحد إلى ثلاثة ذكور بالغين ، إلى جانب ما يصل إلى ثلاثين أنثى وشبلاً. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+بالرغم من انو للذكاء الاصطناعي دلالة قوية بالخيال العلمي ، فالذكاء الاصطناعي بيشكل فرع مهم كتير من علوم الكمبيوتر ، وبيتعامل مع السلوك والتعلم والتكيف الذكي في الآلة.,science/technology,N/A,"SENTENCE:
+ بالرغم من انو للذكاء الاصطناعي دلالة قوية بالخيال العلمي ، فالذكاء الاصطناعي بيشكل فرع مهم كتير من علوم الكمبيوتر ، وبيتعامل مع السلوك والتعلم والتكيف الذكي في الآلة. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: computer</s>"
+لهيك بيقولو انه نسبة العرض إلى الارتفاع لهذا التنسيق (القسمة على اثني عشر للحصول على أبسط نسبة عدد صحيح) هي 3: 2.,science/technology,entertainment,"SENTENCE:
+ لهيك بيقولو انه نسبة العرض إلى الارتفاع لهذا التنسيق (القسمة على اثني عشر للحصول على أبسط نسبة عدد صحيح) هي 3: 2. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+لا يعتبر التلفون اللي بيشتغل بالأقمار الصناعية بشكل عام بديل عن الموبايل ، لانو لازم تكون برا مع وجود خط رؤية واضح للقمر الصناعي لتعمل مكالمة هاتفية.,science/technology,travel,"SENTENCE:
+ لا يعتبر التلفون اللي بيشتغل بالأقمار الصناعية بشكل عام بديل عن الموبايل ، لانو لازم تكون برا مع وجود خط رؤية واضح للقمر الصناعي لتعمل مكالمة هاتفية. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+مع انه العربيات كانت بس ألواح خشبية متوازية ،بس سمحت للخيل بسحبها لتحقيق سرعات أكبر وسحب أحمال أكبر من هديك اللي كانت تمشي على الطرق الأكثر وعورة في اليوم.,science/technology,travel,"SENTENCE:
+ مع انه العربيات كانت بس ألواح خشبية متوازية ،بس سمحت للخيل بسحبها لتحقيق سرعات أكبر وسحب أحمال أكبر من هديك اللي كانت تمشي على الطرق الأكثر وعورة في اليوم. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+الناس عرفت عن العناصر الكيميائية الأساسية متل الذهب والفضة والنحاس من العصور القديمة ، فممكن نكتشفها كلها بالطبيعة بشكلها الأصلي ومن السهل نسبيًا استخراجها باستخدام الأدوات البدائية.,science/technology,science/technology,"SENTENCE:
+ الناس عرفت عن العناصر الكيميائية الأساسية متل الذهب والفضة والنحاس من العصور القديمة ، فممكن نكتشفها كلها بالطبيعة بشكلها الأصلي ومن السهل نسبيًا استخراجها باستخدام الأدوات البدائية. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+لقد غير الدولاب العالم بطرق لا تصدق. أهم شيء قدمه الدولاب هو توفير وسيلة نقل أسهل وأسرع.,science/technology,travel,"SENTENCE:
+ لقد غير الدولاب العالم بطرق لا تصدق. أهم شيء قدمه الدولاب هو توفير وسيلة نقل أسهل وأسرع. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+عملوا هيك للتأكد من أن الصورة بتغطي الشاشة كلها. وهذا ما يسمى بالمسح الضوئي الزائد.,science/technology,entertainment,"SENTENCE:
+ عملوا هيك للتأكد من أن الصورة بتغطي الشاشة كلها. وهذا ما يسمى بالمسح الضوئي الزائد. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+كانت اسم الغواصات الألمانية U-Boats. كان الألمان شاطرين بالملاحة وتشغيل غواصاتهم.,science/technology,travel,"SENTENCE:
+ كانت اسم الغواصات الألمانية U-Boats. كان الألمان شاطرين بالملاحة وتشغيل غواصاتهم. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+بالرغم من انو حالته الفيزيائية ممكن تتغير ، إلا انو حالته الكيميائية بتضل زي ماهيه.,science/technology,science/technology,"SENTENCE:
+ بالرغم من انو حالته الفيزيائية ممكن تتغير ، إلا انو حالته الكيميائية بتضل زي ماهيه. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+التوتر السطحي بيصير لأنه جزيئات الماء الموجودة على سطح الماء تنجذب بقوة إلى بعضها البعض أكثر مما تنجذب لجزيئات الهواء فوقها.,science/technology,sports,"SENTENCE:
+ التوتر السطحي بيصير لأنه جزيئات الماء الموجودة على سطح الماء تنجذب بقوة إلى بعضها البعض أكثر مما تنجذب لجزيئات الهواء فوقها. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+المسح الزائد هو من أكثر المشكلات المنتشرة لما نحاول نحول فيلم إلى تنسيق DVD.,science/technology,entertainment,"SENTENCE:
+ المسح الزائد هو من أكثر المشكلات المنتشرة لما نحاول نحول فيلم إلى تنسيق DVD. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+بالتحديد ، بقولوا انو ممكن الواحد يكتشف إذا كان الشخص بكدب بتفسير التعبيرات الدقيقة بشكل صح.,science/technology,entertainment,"SENTENCE:
+ بالتحديد ، بقولوا انو ممكن الواحد يكتشف إذا كان الشخص بكدب بتفسير التعبيرات الدقيقة بشكل صح. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+منقدر نعمل اشكال مختلفة من الذهب.و يمكن دحرجته لأشكال صغيرة.,science/technology,entertainment,"SENTENCE:
+ منقدر نعمل اشكال مختلفة من الذهب.و يمكن دحرجته لأشكال صغيرة. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+غالبًا بيستخدمو نظام الذكاء الاصطناعي حاليًا بمجالات الاقتصاد والطب والهندسة والجيش ، وكمان بنوه بكتير من تطبيقات برامج الكمبيوتر وألعاب الفيديو المنزلية.,science/technology,N/A,"SENTENCE:
+ غالبًا بيستخدمو نظام الذكاء الاصطناعي حاليًا بمجالات الاقتصاد والطب والهندسة والجيش ، وكمان بنوه بكتير من تطبيقات برامج الكمبيوتر وألعاب الفيديو المنزلية. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: tech</s>"
+ولليوم لسا بينتجوه ، بس الأهم من هيك أن نسبة العرض إلى الارتفاع اتوارثتها أشكال حساس صور الكاميرا الرقمية.,science/technology,entertainment,"SENTENCE:
+ ولليوم لسا بينتجوه ، بس الأهم من هيك أن نسبة العرض إلى الارتفاع اتوارثتها أشكال حساس صور الكاميرا الرقمية. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+قاعدة التثليث اللي بيستخدموها خطأ واللي بيسخروا منها بالعادة هي مبدأ توجيهي بسيط بينشئ الديناميكية وبحافظ على شوية نظام في الصورة.,science/technology,entertainment,"SENTENCE:
+ قاعدة التثليث اللي بيستخدموها خطأ واللي بيسخروا منها بالعادة هي مبدأ توجيهي بسيط بينشئ الديناميكية وبحافظ على شوية نظام في الصورة. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+هاد مش بس بيأكد إنه على الأقل بعض الديناصورات كان إلها ريش، نظرية منتشرة أساساً، بس بتعطي تفاصيل ما بتقدر عليها الأحافير عموماً، زي اللون والترتيب ثلاثي الأبعاد.,science/technology,science/technology,"SENTENCE:
+ هاد مش بس بيأكد إنه على الأقل بعض الديناصورات كان إلها ريش، نظرية منتشرة أساساً، بس بتعطي تفاصيل ما بتقدر عليها الأحافير عموماً، زي اللون والترتيب ثلاثي الأبعاد. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+كيف رح تجذبني جاذبية آيو؟ إذا وقفت على سطح آيو ، رح يكون وزنك أقل من ما كان على الأرض.,science/technology,travel,"SENTENCE:
+ كيف رح تجذبني جاذبية آيو؟ إذا وقفت على سطح آيو ، رح يكون وزنك أقل من ما كان على الأرض. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+NextGen هو نظام عم تقول إدارة الطيران الفيدرالية أنه حيسمح للطيارات بالطيران في مسارات أقصر ويوفر ملايين الجالونات من الوقود كل سنة ويقلل من انبعاثات الكربون.,science/technology,travel,"SENTENCE:
+ NextGen هو نظام عم تقول إدارة الطيران الفيدرالية أنه حيسمح للطيارات بالطيران في مسارات أقصر ويوفر ملايين الجالونات من الوقود كل سنة ويقلل من انبعاثات الكربون. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+بتوفر البيانات العصبية الحيوية دليل مادي للنهج النظري للتحقيق في الإدراك. لهيك بيديق مجال البحث وبخليه أكتر دقة.,science/technology,science/technology,"SENTENCE:
+ بتوفر البيانات العصبية الحيوية دليل مادي للنهج النظري للتحقيق في الإدراك. لهيك بيديق مجال البحث وبخليه أكتر دقة. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+"في خطابه لساعتين حكى إنه ""اليوم أبل رح تعيد ابتكار التلفون، احنا رح نصنع التاريخ اليوم"".",science/technology,N/A,"SENTENCE:
+ في خطابه لساعتين حكى إنه ""اليوم أبل رح تعيد ابتكار التلفون، احنا رح نصنع التاريخ اليوم"". 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: tech</s>"
+عيب عدسات التكبير هو أن التعقيد البؤري وعدد عناصر العدسة للوصول لنطاق من الأبعاد البؤرية أكبر بكثير من يلي للعدسات الأولية.,science/technology,travel,"SENTENCE:
+ عيب عدسات التكبير هو أن التعقيد البؤري وعدد عناصر العدسة للوصول لنطاق من الأبعاد البؤرية أكبر بكثير من يلي للعدسات الأولية. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+بتشبه وحدة التحكم عن بعد في التلفزيون ، بتستخدم مستشعرين موجودين قريب على التلفزيون المستخدم لتثليث موقعها في الفضاء ثلاثي الأبعاد.,science/technology,entertainment,"SENTENCE:
+ بتشبه وحدة التحكم عن بعد في التلفزيون ، بتستخدم مستشعرين موجودين قريب على التلفزيون المستخدم لتثليث موقعها في الفضاء ثلاثي الأبعاد. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+. العلماء بحكوا إنه ريش هاد الحيوان كان بني كستنائي من فوق مع جوانب تحتانية بلون باهت أو كاروتيني.,science/technology,travel,"SENTENCE:
+ . العلماء بحكوا إنه ريش هاد الحيوان كان بني كستنائي من فوق مع جوانب تحتانية بلون باهت أو كاروتيني. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+قال باحثون بالجامعة إنو المركبين بيتقاعلوا مع بعضهم وبتصير بلورات ممكن تعيق وظائف الكلى.,science/technology,science/technology,"SENTENCE:
+ قال باحثون بالجامعة إنو المركبين بيتقاعلوا مع بعضهم وبتصير بلورات ممكن تعيق وظائف الكلى. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+هاد بيعطي دقة تقريباً أربع أضعاف دقة اللي هو سالب 35 مم (3136 مم 2 مقابل 864).,science/technology,entertainment,"SENTENCE:
+ هاد بيعطي دقة تقريباً أربع أضعاف دقة اللي هو سالب 35 مم (3136 مم 2 مقابل 864). 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+بفضل روابط كبلات الألياف الضوئية تحت البحر بأوروبا والأقمار الصناعية اللي نطاقها عريض ، فجرينلاند متصلة منيح بنسبة 93 ٪ من السكان اللي عندهم إمكانية ليوصلو للإنترنت.,science/technology,travel,"SENTENCE:
+ بفضل روابط كبلات الألياف الضوئية تحت البحر بأوروبا والأقمار الصناعية اللي نطاقها عريض ، فجرينلاند متصلة منيح بنسبة 93 ٪ من السكان اللي عندهم إمكانية ليوصلو للإنترنت. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+من أشهر التطبيقات بهاي الفئة هو Google Translate ، واللي بيسمح بالترجمة بوضع عدم الاتصال بعد تنزيل بيانات اللغة المطلوبة.,science/technology,N/A,"SENTENCE:
+ من أشهر التطبيقات بهاي الفئة هو Google Translate ، واللي بيسمح بالترجمة بوضع عدم الاتصال بعد تنزيل بيانات اللغة المطلوبة. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: tech</s>"
+إله نفس التركيب الجزيئي سواء كان غاز أو سائل أو صلب.,science/technology,science/technology,"SENTENCE:
+ إله نفس التركيب الجزيئي سواء كان غاز أو سائل أو صلب. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+استخدام تسجيل الفيديو خلانا نكتشف اشياء مهمة بتفسير التعبيرات الدقيقة ، وحركات الوجه اللي بتبقى بعض أجزاء من الثانية.,science/technology,entertainment,"SENTENCE:
+ استخدام تسجيل الفيديو خلانا نكتشف اشياء مهمة بتفسير التعبيرات الدقيقة ، وحركات الوجه اللي بتبقى بعض أجزاء من الثانية. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+يصنع البشر العدسات المكبرة وبيستعملوها من آلاف السنين.,science/technology,travel,"SENTENCE:
+ يصنع البشر العدسات المكبرة وبيستعملوها من آلاف السنين. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+بس هي مش لحالها، هي تجربة، والتجربة هي اختبار منستعمله لنخلص من وحدة أو أكثر من الفرضيات المحتملة، طرح الأسئلة ، وإجراء الملاحظات ، كمان بوجه البحث العلمي.,science/technology,science/technology,"SENTENCE:
+ بس هي مش لحالها، هي تجربة، والتجربة هي اختبار منستعمله لنخلص من وحدة أو أكثر من الفرضيات المحتملة، طرح الأسئلة ، وإجراء الملاحظات ، كمان بوجه البحث العلمي. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+بالآخر ،استبدلوا العجال الخشبية بعجال حديدية. وفي 1767 ،عملوا أول سكك حديدية كاملة.,science/technology,travel,"SENTENCE:
+ بالآخر ،استبدلوا العجال الخشبية بعجال حديدية. وفي 1767 ،عملوا أول سكك حديدية كاملة. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+بوقت انو أغلب البطاقات كويسة للاتصال بأي مكان ، بيتخصص بعضها بتقديم أسعار مكالمات مقبولة لمجموعات محددة من البلاد.,science/technology,travel,"SENTENCE:
+ بوقت انو أغلب البطاقات كويسة للاتصال بأي مكان ، بيتخصص بعضها بتقديم أسعار مكالمات مقبولة لمجموعات محددة من البلاد. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+أغلب تلسكوبات البحث الجديدة هيه منشآت ضخمة بالمناطق النائية يلي ظروفها الجوية مناسبة.,science/technology,travel,"SENTENCE:
+ أغلب تلسكوبات البحث الجديدة هيه منشآت ضخمة بالمناطق النائية يلي ظروفها الجوية مناسبة. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+تطفو الإبرة الفولاذية فوق الماء بسبب التوتر السطحي.,science/technology,sports,"SENTENCE:
+ تطفو الإبرة الفولاذية فوق الماء بسبب التوتر السطحي. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+شكل 35 مم هو في الحقيقة شغلة بتلخبط الانسان ، بعرض 36 مم في ارتفاع 24 مم.,science/technology,entertainment,"SENTENCE:
+ شكل 35 مم هو في الحقيقة شغلة بتلخبط الانسان ، بعرض 36 مم في ارتفاع 24 مم. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"تعتبر الخلايا أساسية وحاسمة لدراسة الحياة ، في الحقيقة ، منحكيلها بالعادة ""اللبنات الأساسية للحياة"".",science/technology,science/technology,"SENTENCE:
+ تعتبر الخلايا أساسية وحاسمة لدراسة الحياة ، في الحقيقة ، منحكيلها بالعادة ""اللبنات الأساسية للحياة"". 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+اللي بقدموا الفي بي ان الشخصي (الشبكة الافتراضية الخاصة) هم طريقة ممتازة للتحايل على الرقابة السياسية والتصفية الجغرافية التجارية للاي بي.,science/technology,N/A,"SENTENCE:
+ اللي بقدموا الفي بي ان الشخصي (الشبكة الافتراضية الخاصة) هم طريقة ممتازة للتحايل على الرقابة السياسية والتصفية الجغرافية التجارية للاي بي. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: tech</s>"
+ضلت المحطة على اتجاهها، مع انهم خسروا الجيروسكوب قبل هيك بمهمة المحطة الفضائية ، حتى آخر المشي في الفضاء.,science/technology,travel,"SENTENCE:
+ ضلت المحطة على اتجاهها، مع انهم خسروا الجيروسكوب قبل هيك بمهمة المحطة الفضائية ، حتى آخر المشي في الفضاء. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+بيمتلك الأشخاص اللي عندهم هاد النوع من التفكير تفكير منطقي وبيقدرو يحفظو الأنماط وحل المشكلات والعمل على الاختبارات العلمية.,science/technology,N/A,"SENTENCE:
+ بيمتلك الأشخاص اللي عندهم هاد النوع من التفكير تفكير منطقي وبيقدرو يحفظو الأنماط وحل المشكلات والعمل على الاختبارات العلمية. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: education education</s>"
+بحب الأسيلوت أكل الحيوانات الصغيرة. رح يصطادوا القرود والحيايا والقوارض والطيور إذا قدروا. تقريباً كل الحيوانات اللي بيصطادها الأسيلوت أصغر بكثير من ما هيه بتكون.,science/technology,entertainment,"SENTENCE:
+ بحب الأسيلوت أكل الحيوانات الصغيرة. رح يصطادوا القرود والحيايا والقوارض والطيور إذا قدروا. تقريباً كل الحيوانات اللي بيصطادها الأسيلوت أصغر بكثير من ما هيه بتكون. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+بتستخدم بعض كاميرات الأفلام اللي حجمها متوسط تنسيق 6 × 6 سم ، وبصورة أدق 56 × 56 ملم سالب.,science/technology,entertainment,"SENTENCE:
+ بتستخدم بعض كاميرات الأفلام اللي حجمها متوسط تنسيق 6 × 6 سم ، وبصورة أدق 56 × 56 ملم سالب. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+بننصح بشدة المسافرين انو يكونوا على معرفة بأي مخاطر لظاهرة الطقس القاسي اللي بتأثر على منطقتهم لأنها ممكن أؤثر على أي خطة للسفر.,travel,travel,"SENTENCE:
+ بننصح بشدة المسافرين انو يكونوا على معرفة بأي مخاطر لظاهرة الطقس القاسي اللي بتأثر على منطقتهم لأنها ممكن أؤثر على أي خطة للسفر. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+الباصات بتترك المحطة بين المناطق (عبر النهر) على طول اليوم ،مع انه معظمها ، خاصة هديك اللي رايحة للشرق و Jakar / Bumthang تغادر بين الساعة 06:30 و 07:30.,travel,travel,"SENTENCE:
+ الباصات بتترك المحطة بين المناطق (عبر النهر) على طول اليوم ،مع انه معظمها ، خاصة هديك اللي رايحة للشرق و Jakar / Bumthang تغادر بين الساعة 06:30 و 07:30. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+هيه بتوفر إستقرار أكتر للراكب بس ممكن يكون فيها مخاوف بتتعلق بالسلامة بسبب احتمالية انو تعلق رجلين الفارس فيها.,travel,travel,"SENTENCE:
+ هيه بتوفر إستقرار أكتر للراكب بس ممكن يكون فيها مخاوف بتتعلق بالسلامة بسبب احتمالية انو تعلق رجلين الفارس فيها. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+بتتميز معظم رحلات البلطيق بإقامة طويلة في سانت بطرسبرغ ، روسيا.,travel,travel,"SENTENCE:
+ بتتميز معظم رحلات البلطيق بإقامة طويلة في سانت بطرسبرغ ، روسيا. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+النصيحة بتقول انو المسافرين ما بيسرقو أو بيتعدو على ممتلكات الغير أو بيشاركو في السوق غير القانوني أو يتسولو أو يستغلو غيرهم ليحققو مكاسب خاصة فيهم.,travel,travel,"SENTENCE:
+ النصيحة بتقول انو المسافرين ما بيسرقو أو بيتعدو على ممتلكات الغير أو بيشاركو في السوق غير القانوني أو يتسولو أو يستغلو غيرهم ليحققو مكاسب خاصة فيهم. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+في كتير من الأشياء اللي يجب لازم توخدها بعين الاعتبار قبل ولما تسافر لأي مكان .,travel,travel,"SENTENCE:
+ في كتير من الأشياء اللي يجب لازم توخدها بعين الاعتبار قبل ولما تسافر لأي مكان . 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+بحرارة النهار ، بيقدر المسافرين يجربو السراب اللي بيوهمهم بالميه (أو أشياء تانية).,travel,travel,"SENTENCE:
+ بحرارة النهار ، بيقدر المسافرين يجربو السراب اللي بيوهمهم بالميه (أو أشياء تانية). 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+تعتبر العائلات اللي عندها أطفال مشهد نادر ، بس بعض بيوت الشباب بتسمحلهم بغرف خاصة.,travel,travel,"SENTENCE:
+ تعتبر العائلات اللي عندها أطفال مشهد نادر ، بس بعض بيوت الشباب بتسمحلهم بغرف خاصة. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+على سبيل المثال زيارة القلاع بوادي لوار أو وادي الراين أو تعمل رحلة بحرية لمدن ممتعة على نهر الدانوب أو ركوب الزوارق على طول قناة إيري.,travel,travel,"SENTENCE:
+ على سبيل المثال زيارة القلاع بوادي لوار أو وادي الراين أو تعمل رحلة بحرية لمدن ممتعة على نهر الدانوب أو ركوب الزوارق على طول قناة إيري. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+ممكن يكون من الأفضل تستعين بوكيل بيشتغل كتير من الأوقات بحجز رحلات مشابهه لرحلتك.,travel,travel,"SENTENCE:
+ ممكن يكون من الأفضل تستعين بوكيل بيشتغل كتير من الأوقات بحجز رحلات مشابهه لرحلتك. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+تأسست Couchsurfing بيناير 2004 بعد مالقي مبرمج الكمبيوتر Casey Fenton رحلة رخيصة إلى أيسلندا بس ماكان عنده مكان للإقامة.,travel,travel,"SENTENCE:
+ تأسست Couchsurfing بيناير 2004 بعد مالقي مبرمج الكمبيوتر Casey Fenton رحلة رخيصة إلى أيسلندا بس ماكان عنده مكان للإقامة. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+بتتطلب تأشيرات الطلاب عموماً متطلبات وإجراءات تقديم مختلفة عن تأشيرات السياحة أو الشغل العادية.,travel,travel,"SENTENCE:
+ بتتطلب تأشيرات الطلاب عموماً متطلبات وإجراءات تقديم مختلفة عن تأشيرات السياحة أو الشغل العادية. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+كل دولة عندها كمان قوانين فريدة بتحتاج عناصر الطوارئ اللي لازم تكون في السيارة.,travel,travel,"SENTENCE:
+ كل دولة عندها كمان قوانين فريدة بتحتاج عناصر الطوارئ اللي لازم تكون في السيارة. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+بالرغم من انو أغلب الوكالات مستعدة لتوخد معظم الحجوزات المنتظمة ، إلا انو كتير من الوكلاء بيتخصصو بأنواع معينة من السفر أو ميزانيات محدودة أو الوجهات.,travel,travel,"SENTENCE:
+ بالرغم من انو أغلب الوكالات مستعدة لتوخد معظم الحجوزات المنتظمة ، إلا انو كتير من الوكلاء بيتخصصو بأنواع معينة من السفر أو ميزانيات محدودة أو الوجهات. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+ممكن يواجه المسافرين آفات حيوانية مش مألوفة إلهم بمناطقهم الأصلية.,travel,travel,"SENTENCE:
+ ممكن يواجه المسافرين آفات حيوانية مش مألوفة إلهم بمناطقهم الأصلية. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+كمان للشمال ، زور الحرم العظيم للسيدة فاطمة (ضريح) ، وهو مكان للتجليات المريمية المعروفة بجميع أنحاء العالم.,travel,travel,"SENTENCE:
+ كمان للشمال ، زور الحرم العظيم للسيدة فاطمة (ضريح) ، وهو مكان للتجليات المريمية المعروفة بجميع أنحاء العالم. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+بتقدر تستخدم بودا بودا (موتور بس تاكسي) للتجول في غوما. السعر العادي (المحلي) هو حوالي 500 فرنك كونغولي للرحلة القصيرة.,travel,travel,"SENTENCE:
+ بتقدر تستخدم بودا بودا (موتور بس تاكسي) للتجول في غوما. السعر العادي (المحلي) هو حوالي 500 فرنك كونغولي للرحلة القصيرة. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+بالنسبة لهذولا اللي بينبسطو بالأنشطة في الهواء الطلق ، القيام برحلة عبر ممر Sea to Sky أمر اساسي بالنسبة الهم.,travel,travel,"SENTENCE:
+ بالنسبة لهذولا اللي بينبسطو بالأنشطة في الهواء الطلق ، القيام برحلة عبر ممر Sea to Sky أمر اساسي بالنسبة الهم. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"رحلة سفاري مشي عالرجول (بسموها كمان ""ادفع امشي""، أو ""رحلات سفاري مشي لمسافات طويلة""، أو الذهاب ""أقدام"") بتتكون من التنزه سواء لساعات قليلة أو عدة أيام.",travel,travel,"SENTENCE:
+ رحلة سفاري مشي عالرجول (بسموها كمان ""ادفع امشي""، أو ""رحلات سفاري مشي لمسافات طويلة""، أو الذهاب ""أقدام"") بتتكون من التنزه سواء لساعات قليلة أو عدة أيام. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+كانت الطريقة الوحيدة للحصول عليها بشكل أسرع هيه إرسالها كأمتعة مسجلة. مش رح تسمح لوائح شركات الطيران بإرسال أمتعة بدون راكب ، يلي رح تيجي عندك.,travel,travel,"SENTENCE:
+ كانت الطريقة الوحيدة للحصول عليها بشكل أسرع هيه إرسالها كأمتعة مسجلة. مش رح تسمح لوائح شركات الطيران بإرسال أمتعة بدون راكب ، يلي رح تيجي عندك. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+وجود 300 عربة إضافية زاد العدد إلى 1300 عربة يتم شراؤها لتخفيف الزحمة.,travel,travel,"SENTENCE:
+ وجود 300 عربة إضافية زاد العدد إلى 1300 عربة يتم شراؤها لتخفيف الزحمة. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+العائلات اللي عندها أطفال صغار بيحتاجو لزيادة بالاستعدادات ، بس من السهل تقضي يوم في الهواء الطلق حتى مع الأطفال الرضع والأطفال في سن ما قبل المدرسة.,travel,travel,"SENTENCE:
+ العائلات اللي عندها أطفال صغار بيحتاجو لزيادة بالاستعدادات ، بس من السهل تقضي يوم في الهواء الطلق حتى مع الأطفال الرضع والأطفال في سن ما قبل المدرسة. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+لازم أي شخص حيسوق بخطوط العرض العالية أو فوق الممرات الجبلية انو يفكر باحتمال تساقط الثلوج أو الجليد أو درجات الحرارة المتجمدة.,travel,travel,"SENTENCE:
+ لازم أي شخص حيسوق بخطوط العرض العالية أو فوق الممرات الجبلية انو يفكر باحتمال تساقط الثلوج أو الجليد أو درجات الحرارة المتجمدة. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+اليوم ، تمبكتو هي مدينة فقيرة ،مع أن سمعتها بتخليها منطقة جذب سياحي ، وفيها مطار.,travel,travel,"SENTENCE:
+ اليوم ، تمبكتو هي مدينة فقيرة ،مع أن سمعتها بتخليها منطقة جذب سياحي ، وفيها مطار. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+بالعواصف الثلجية ، ممكن تتساقط كمية كافية من الثلج بتخليك تعلق بوقت قصير كتير.,travel,travel,"SENTENCE:
+ بالعواصف الثلجية ، ممكن تتساقط كمية كافية من الثلج بتخليك تعلق بوقت قصير كتير. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+إذا عندك رغبة بالسفر حول العالم تمامًا بنص الكرة الجنوبي ، فاختيار الرحلات والوجهات محدود بسبب عدم وجود طرق عبر المحيط.,travel,travel,"SENTENCE:
+ إذا عندك رغبة بالسفر حول العالم تمامًا بنص الكرة الجنوبي ، فاختيار الرحلات والوجهات محدود بسبب عدم وجود طرق عبر المحيط. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+وسعت شركات الطيران متل طيران الإمارات ، والاتحاد للطيران ، والخطوط الجوية القطرية ، والخطوط الجوية التركية بشكل كبير خدماتها لإفريقيا ، وبتوفر رحلات لكتير من المدن الأفريقية الكبيرة بأسعار تنافسية مقارنة بشركات الطيران الأوروبية التانية.,travel,travel,"SENTENCE:
+ وسعت شركات الطيران متل طيران الإمارات ، والاتحاد للطيران ، والخطوط الجوية القطرية ، والخطوط الجوية التركية بشكل كبير خدماتها لإفريقيا ، وبتوفر رحلات لكتير من المدن الأفريقية الكبيرة بأسعار تنافسية مقارنة بشركات الطيران الأوروبية التانية. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+مافي وسائل نقل إضافية قيد التشغيل و القطارات مش حتوقف فوق الأرض في ويمبلي ،ومواقف السيارات ومرافق الركن والركوب مش موجودة على الأرض.,travel,travel,"SENTENCE:
+ مافي وسائل نقل إضافية قيد التشغيل و القطارات مش حتوقف فوق الأرض في ويمبلي ،ومواقف السيارات ومرافق الركن والركوب مش موجودة على الأرض. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+بشكل عام ، بيتطلب انك تضل بأي بلد أجنبي لفترة طويلة الحصول على تأشيرة من قبل.,travel,travel,"SENTENCE:
+ بشكل عام ، بيتطلب انك تضل بأي بلد أجنبي لفترة طويلة الحصول على تأشيرة من قبل. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+بيحتوي كل قطار MetroPlus و Metro على مدربين ؛ MetroPlus المدربين دائمًا بنهاية القطار الأقرب لكيب تاون.,travel,travel,"SENTENCE:
+ بيحتوي كل قطار MetroPlus و Metro على مدربين ؛ MetroPlus المدربين دائمًا بنهاية القطار الأقرب لكيب تاون. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+الكل بيشارك بالمجتمع وبيستعمل أنظمة النقل. يشتكي الكل تقريبًا من أنظمة النقل.,travel,travel,"SENTENCE:
+ الكل بيشارك بالمجتمع وبيستعمل أنظمة النقل. يشتكي الكل تقريبًا من أنظمة النقل. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+لأنه المناطق سكانها قلال ، وعشان هيك ما بيعتبر التلوث الضوئي مشكلة بكتير من الأوقات ، رح تقدر تستمتع كمان بالنجوم.,travel,travel,"SENTENCE:
+ لأنه المناطق سكانها قلال ، وعشان هيك ما بيعتبر التلوث الضوئي مشكلة بكتير من الأوقات ، رح تقدر تستمتع كمان بالنجوم. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+تختلف متطلبات التأشيرة وتكاليفها من دولة لدولة وتتأثر بالبلد اللي اجيت منه.,travel,travel,"SENTENCE:
+ تختلف متطلبات التأشيرة وتكاليفها من دولة لدولة وتتأثر بالبلد اللي اجيت منه. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+بشكل عام ، فش فايدة من البحث عن خصومات لمقاعد رجال الأعمال أو مقاعد الدرجة الأولى على الرحلات المباشرة من A إلى B.,travel,travel,"SENTENCE:
+ بشكل عام ، فش فايدة من البحث عن خصومات لمقاعد رجال الأعمال أو مقاعد الدرجة الأولى على الرحلات المباشرة من A إلى B. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+يعتبر رمي البوميرانغ مهارة معروفة بيتمنى كتير من السياح اكتسابها.,travel,travel,"SENTENCE:
+ يعتبر رمي البوميرانغ مهارة معروفة بيتمنى كتير من السياح اكتسابها. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+هاي الرحلة مش الخيار الوحيد إذا كنت بدك تتخطى جنوب المحيط الهادي والساحل الغربي لأمريكا الجنوبية. (طل لتحت),travel,travel,"SENTENCE:
+ هاي الرحلة مش الخيار الوحيد إذا كنت بدك تتخطى جنوب المحيط الهادي والساحل الغربي لأمريكا الجنوبية. (طل لتحت) 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+طورت سان فرانسيسكو بنية تحتية سياحية كبيرة مع كتير من الفنادق والمطاعم ومرافق المؤتمرات من الدرجة الأولى.,travel,travel,"SENTENCE:
+ طورت سان فرانسيسكو بنية تحتية سياحية كبيرة مع كتير من الفنادق والمطاعم ومرافق المؤتمرات من الدرجة الأولى. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+العمل التطوعي خلال السفر طريقة حلوة عشان تعمل فرق بس هو ما بيتعلق بس بالعطاء.,travel,travel,"SENTENCE:
+ العمل التطوعي خلال السفر طريقة حلوة عشان تعمل فرق بس هو ما بيتعلق بس بالعطاء. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+ممكن ما يتوقع الناس انو الصبر والتفهم ضروريين كمان للمسافرين اللي راجعين لبلادهم.,travel,travel,"SENTENCE:
+ ممكن ما يتوقع الناس انو الصبر والتفهم ضروريين كمان للمسافرين اللي راجعين لبلادهم. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+لا تنسى تضيف التكاليف الزايدة للتأشيرات الإضافية وضرايب المغادرة والنقل البري، الخ۔ لكل الأماكن خارج إفريقيا.,travel,travel,"SENTENCE:
+ لا تنسى تضيف التكاليف الزايدة للتأشيرات الإضافية وضرايب المغادرة والنقل البري، الخ۔ لكل الأماكن خارج إفريقيا. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+.كثير من سكان بيشكيك لاموا المتظاهرين من الجنوب لأنهم خالفوا القانون,politics,politics,"SENTENCE:
+ .كثير من سكان بيشكيك لاموا المتظاهرين من الجنوب لأنهم خالفوا القانون 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+كانت الأجزاء الحالية من بلجيكا جزء من لوكسمبورغ بالماضي بس صارت بلجيكية بعد الثورة البلجيكية بتلاتينات القرن التاسع عشر.,politics,travel,"SENTENCE:
+ كانت الأجزاء الحالية من بلجيكا جزء من لوكسمبورغ بالماضي بس صارت بلجيكية بعد الثورة البلجيكية بتلاتينات القرن التاسع عشر. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+من سنة 1988، لازم تكون صناديق الاقتراع شفافة عشان يقدر الناخبين والمراقبين أنهم يشهدوا انه ما في ظروف في بداية التصويت وما انضاف ظروف غيرتبعون الناخبين المرخصين اللي انفرزوا حسب الأصول.,politics,politics,"SENTENCE:
+ من سنة 1988، لازم تكون صناديق الاقتراع شفافة عشان يقدر الناخبين والمراقبين أنهم يشهدوا انه ما في ظروف في بداية التصويت وما انضاف ظروف غيرتبعون الناخبين المرخصين اللي انفرزوا حسب الأصول. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+قالت رئيسة الوزراء المؤقتة جوليا جيلارد خلال حملة الانتخابات الفيدرالية لعام 2010 أنها بتظن أن أستراليا لازم تصير جمهورية في نهاية عهد الملكة إليزابيث الثانية.,politics,politics,"SENTENCE:
+ قالت رئيسة الوزراء المؤقتة جوليا جيلارد خلال حملة الانتخابات الفيدرالية لعام 2010 أنها بتظن أن أستراليا لازم تصير جمهورية في نهاية عهد الملكة إليزابيث الثانية. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+أكدت الحكومة الأيرلندية على ضرورة التشريع البرلماني ليصححو الوضع.,politics,politics,"SENTENCE:
+ أكدت الحكومة الأيرلندية على ضرورة التشريع البرلماني ليصححو الوضع. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+ضل الجدل الدبلوماسي حول المنطقة بيفسد العلاقات بين أرمينيا وأذربيجان.,politics,politics,"SENTENCE:
+ ضل الجدل الدبلوماسي حول المنطقة بيفسد العلاقات بين أرمينيا وأذربيجان. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: world politics</s>"
+"رئيس الوزراء ستيفن هاربر وافق على إرسال ""قانون الهواء النظيف"" تبع الحكومة للجنة لكل- الأحزاب للمراجعة، قبل قراءته الثانية، بعد اجتماع الثلاثاء اللي مدته 25 دقيقة مع قائد ان دي بي جاك ليتون في بي ام او.",politics,politics,"SENTENCE:
+ رئيس الوزراء ستيفن هاربر وافق على إرسال ""قانون الهواء النظيف"" تبع الحكومة للجنة لكل- الأحزاب للمراجعة، قبل قراءته الثانية، بعد اجتماع الثلاثاء اللي مدته 25 دقيقة مع قائد ان دي بي جاك ليتون في بي ام او. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: world politics</s>"
+بالشهر الماضي ، كان في احتجاجات كبيرة ببولندا لما وقعت هاي الدولة على اتفاقية ACTA ، يلي خلى الحكومة البولندية توخد قرار بعدم التصديق على الاتفاقية ،بالوقت الحالي.,politics,politics,"SENTENCE:
+ بالشهر الماضي ، كان في احتجاجات كبيرة ببولندا لما وقعت هاي الدولة على اتفاقية ACTA ، يلي خلى الحكومة البولندية توخد قرار بعدم التصديق على الاتفاقية ،بالوقت الحالي. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: world politics</s>"
+الاستشارات هيه مجرد ملخص موجز للوضع السياسي في بلد واحد.,politics,politics,"SENTENCE:
+ الاستشارات هيه مجرد ملخص موجز للوضع السياسي في بلد واحد. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+في انتخابات 1976 هو نصح كارتر بخصوص السياسة الخارجية، بعدها عمل مستشار للأمن الوطني (إن إس ايه) من 1977 لَ 1981، بعد هنري كيسينجر.,politics,politics,"SENTENCE:
+ في انتخابات 1976 هو نصح كارتر بخصوص السياسة الخارجية، بعدها عمل مستشار للأمن الوطني (إن إس ايه) من 1977 لَ 1981، بعد هنري كيسينجر. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+تركيا كمان رح تكون مسؤولة عن حراسة مقاتلين داعش الي انمسكو الي، البيان حكى، الدول الأوروبية رفضو ترجيعهم للوطن.,politics,politics,"SENTENCE:
+ تركيا كمان رح تكون مسؤولة عن حراسة مقاتلين داعش الي انمسكو الي، البيان حكى، الدول الأوروبية رفضو ترجيعهم للوطن. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: world politics</s>"
+ومع هيك ، صارت هي الخطط قديمة بين يوم وليلة تقريبًا ، لما دخل أكتر من 800000 جندي من الجيش الأحمر للاتحاد السوفيتي وخلقوا الجبهتين البيلاروسية والأوكرانية بعد غزو المناطق الشرقية من بولندا بانتهاك معاهدة ريغا للسلام ،ميثاق عدم الاعتداء السوفيتي البولندي والمعاهدات الدولية التانية ، الثنائية والمتعددة الأطراف.,politics,politics,"SENTENCE:
+ ومع هيك ، صارت هي الخطط قديمة بين يوم وليلة تقريبًا ، لما دخل أكتر من 800000 جندي من الجيش الأحمر للاتحاد السوفيتي وخلقوا الجبهتين البيلاروسية والأوكرانية بعد غزو المناطق الشرقية من بولندا بانتهاك معاهدة ريغا للسلام ،ميثاق عدم الاعتداء السوفيتي البولندي والمعاهدات الدولية التانية ، الثنائية والمتعددة الأطراف. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: world politics</s>"
+بعد هالعملية ، ستتم مراجعة HJR-3 مرة أخرى من قبل الهيئة التشريعية المنتخبة التالية في 2015 أو 2016 للبقاء في العملية.,politics,politics,"SENTENCE:
+ بعد هالعملية ، ستتم مراجعة HJR-3 مرة أخرى من قبل الهيئة التشريعية المنتخبة التالية في 2015 أو 2016 للبقاء في العملية. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+بعد اعتماده من الكونجرس في 4 يوليو ، تم إرسال مسودة مكتوبة بخط اليد وقعها رئيس الكونجرس جون هانكوك والوزير تشارلز طومسون على بعد عدة بنايات إلى مطبعة جون دنلاب.,politics,politics,"SENTENCE:
+ بعد اعتماده من الكونجرس في 4 يوليو ، تم إرسال مسودة مكتوبة بخط اليد وقعها رئيس الكونجرس جون هانكوك والوزير تشارلز طومسون على بعد عدة بنايات إلى مطبعة جون دنلاب. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+بعد 11:00 مباشرة، المحتجين سكروا السير على الاتجاه الجاي من الشمال في وايتهول.,politics,travel,"SENTENCE:
+ بعد 11:00 مباشرة، المحتجين سكروا السير على الاتجاه الجاي من الشمال في وايتهول. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+ومع هيك ، بيونيو 1956 ، انحطت وعود كروتشوف على المحك لما تحولت أعمال الشغب ببولندا ، وقتها كان العمال عم يحتجو على نقص الغذاء وتخفيض الرواتب ، وانقلبت لاحتجاج عام ضد الشيوعية.,politics,politics,"SENTENCE:
+ ومع هيك ، بيونيو 1956 ، انحطت وعود كروتشوف على المحك لما تحولت أعمال الشغب ببولندا ، وقتها كان العمال عم يحتجو على نقص الغذاء وتخفيض الرواتب ، وانقلبت لاحتجاج عام ضد الشيوعية. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: world politics</s>"
+كان من المفروض انو تستمر لمدة 40 سنة وتقاتل بشكل حقيقي ، بواسطة جيوش بالوكالة ، بساحات القتال من إفريقيا إلى آسيا ، في أفغانستان وكوبا وكتير من الأماكن التانية.,politics,sports,"SENTENCE:
+ كان من المفروض انو تستمر لمدة 40 سنة وتقاتل بشكل حقيقي ، بواسطة جيوش بالوكالة ، بساحات القتال من إفريقيا إلى آسيا ، في أفغانستان وكوبا وكتير من الأماكن التانية. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+وأوصت لجنة رئاسية الشهر الماضي باستقالة المجلس الانتخابي المؤقت السابقة كجزء من مجموعة إجراءات لتحريك البلاد باتجاه انتخابات جديدة.,politics,politics,"SENTENCE:
+ وأوصت لجنة رئاسية الشهر الماضي باستقالة المجلس الانتخابي المؤقت السابقة كجزء من مجموعة إجراءات لتحريك البلاد باتجاه انتخابات جديدة. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+ومن الموضوعات الثانية اللي تمت تغطيتها بحسب ما ورد ، الدولة المستقبلية للقدس المقدسة لدى كلا الشعبين وقضية وادي الأردن.,politics,travel,"SENTENCE:
+ ومن الموضوعات الثانية اللي تمت تغطيتها بحسب ما ورد ، الدولة المستقبلية للقدس المقدسة لدى كلا الشعبين وقضية وادي الأردن. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+وكمان فش عندها سلطة لتجاوز قوانين الضرايب والتعريفات بين الولايات.,politics,travel,"SENTENCE:
+ وكمان فش عندها سلطة لتجاوز قوانين الضرايب والتعريفات بين الولايات. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+قانون الانتخاب الفرنسي يقنن الإجراءات بدقة.,politics,politics,"SENTENCE:
+ قانون الانتخاب الفرنسي يقنن الإجراءات بدقة. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+بعد أسبوع من الخسارات في الانتخابات النصفية، بوش حكى للجمهور عن توسيع التجارة في آسيا.,politics,politics,"SENTENCE:
+ بعد أسبوع من الخسارات في الانتخابات النصفية، بوش حكى للجمهور عن توسيع التجارة في آسيا. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: world politics</s>"
+أثبتت الاستراتيجية انها ناجحة ، بحيث قطعت الإمدادات العسكرية والمدنية الحيوية ، مع انه هذا الحصار انتهك القانون الدولي المقبول عمومًا واللي تم تدوينه في العديد من الاتفاقيات الدولية في القرنين الماضيين.,politics,politics,"SENTENCE:
+ أثبتت الاستراتيجية انها ناجحة ، بحيث قطعت الإمدادات العسكرية والمدنية الحيوية ، مع انه هذا الحصار انتهك القانون الدولي المقبول عمومًا واللي تم تدوينه في العديد من الاتفاقيات الدولية في القرنين الماضيين. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: world politics</s>"
+رجعت الروابط الاقتصادية بين هدول الجزئين من مولدوفا بالرغم من فشل المفاوضات السياسية.,politics,politics,"SENTENCE:
+ رجعت الروابط الاقتصادية بين هدول الجزئين من مولدوفا بالرغم من فشل المفاوضات السياسية. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: world politics</s>"
+برفقة هدول المسؤولين، هوأكد لمواطنين تكساس أنه رح يتم اتخاذ خطوات لحماية سلامة الشعب.,politics,travel,"SENTENCE:
+ برفقة هدول المسؤولين، هوأكد لمواطنين تكساس أنه رح يتم اتخاذ خطوات لحماية سلامة الشعب. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+الانتقادات الليبرالية لجهود إعادة البناء ركزت على ترسية عقود إعادة البناء لناس بشوفوهم مطلعين في واشنطن.,politics,travel,"SENTENCE:
+ الانتقادات الليبرالية لجهود إعادة البناء ركزت على ترسية عقود إعادة البناء لناس بشوفوهم مطلعين في واشنطن. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+من بين 1400 شخص شملهم الاستطلاع قبل الانتخابات الفيدرالية لعام 2010 ، الناس اللي كانوا معارضين أن تصبح أستراليا جمهورية زادو بنسبة 8 في المائة منذ عام 2008.,politics,politics,"SENTENCE:
+ من بين 1400 شخص شملهم الاستطلاع قبل الانتخابات الفيدرالية لعام 2010 ، الناس اللي كانوا معارضين أن تصبح أستراليا جمهورية زادو بنسبة 8 في المائة منذ عام 2008. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+الدوبلماسيين حكوا انهم لقوا غموض كفاية في الدستور الأفغاني لتقرير انه الانتخابات مش ضرورية.,politics,politics,"SENTENCE:
+ الدوبلماسيين حكوا انهم لقوا غموض كفاية في الدستور الأفغاني لتقرير انه الانتخابات مش ضرورية. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+بعد ماطلعت النتائج ، غينغريتش مدح سانتوروم ، بس حكى كلمات قاسية لرومني ، اللي بثوا إعلانات حملته السلبية في ولاية أيوا ضد غينغريتش.,politics,sports,"SENTENCE:
+ بعد ماطلعت النتائج ، غينغريتش مدح سانتوروم ، بس حكى كلمات قاسية لرومني ، اللي بثوا إعلانات حملته السلبية في ولاية أيوا ضد غينغريتش. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+وهو خامس اختبار CEP لـ Martelly في خلال أربع سنوات.,politics,politics,"SENTENCE:
+ وهو خامس اختبار CEP لـ Martelly في خلال أربع سنوات. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+وكانوا مقررين أن يسبح اللي معه الميدالية الذهبية الأولمبية في سباقي 100 متر و 200 متر سباحة حرة وفي ثلاث سباقات في دورة ألعاب الكومنولث ، ولكن بسبب شكواه ، صارت لياقته مشكوك فيها.,sports,sports,"SENTENCE:
+ وكانوا مقررين أن يسبح اللي معه الميدالية الذهبية الأولمبية في سباقي 100 متر و 200 متر سباحة حرة وفي ثلاث سباقات في دورة ألعاب الكومنولث ، ولكن بسبب شكواه ، صارت لياقته مشكوك فيها. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+بالإضافة إلى انه كان البطل الأولمبي والعالمي السابق ، كان سايتو رئيس لجنة التدريب في اتحاد جميع اليابان للجودو في وقت وفاته.,sports,sports,"SENTENCE:
+ بالإضافة إلى انه كان البطل الأولمبي والعالمي السابق ، كان سايتو رئيس لجنة التدريب في اتحاد جميع اليابان للجودو في وقت وفاته. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+صوّتت اللجنة الأولمبية الدولية انهم يضموا الرياضات باجتماع مجلسها التنفيذي ببرلين اليوم. و اختارو الرغبي، وبالتحديد اتحاد الرغبي، والجولف على حساب خمس رياضات تانية لينظروا بمشاركتهم بالأولمبياد.,sports,sports,"SENTENCE:
+ صوّتت اللجنة الأولمبية الدولية انهم يضموا الرياضات باجتماع مجلسها التنفيذي ببرلين اليوم. و اختارو الرغبي، وبالتحديد اتحاد الرغبي، والجولف على حساب خمس رياضات تانية لينظروا بمشاركتهم بالأولمبياد. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+أكبر مسابقة في السنة بتصير في كانون الأول على ملاعب البولو في لاس كانيتاس.,sports,sports,"SENTENCE:
+ أكبر مسابقة في السنة بتصير في كانون الأول على ملاعب البولو في لاس كانيتاس. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+من لما انتقل للعاصمة الكتلونية، فيدال لعب 49 مباراة للنادي.,sports,sports,"SENTENCE:
+ من لما انتقل للعاصمة الكتلونية، فيدال لعب 49 مباراة للنادي. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+الحفاظ على توازن طاقة صحي وممارسة عادات الترطيب الفعالة وفهم الجوانب المختلفة لممارسات المكملات الرياضيين بيساعدهم على تحسين أدائهم وزيادة استمتاعهم بالرياضة.,sports,sports,"SENTENCE:
+ الحفاظ على توازن طاقة صحي وممارسة عادات الترطيب الفعالة وفهم الجوانب المختلفة لممارسات المكملات الرياضيين بيساعدهم على تحسين أدائهم وزيادة استمتاعهم بالرياضة. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+هاملين بالمركز الثالث ، خسران عشرين نقطة ، بس متقدم بخمس نقاط عن بوير. يحتل Kahne و Truex، Jr. المركز الخامس والسادس على التوالي برصيد 2220 و 2207 نقطة.,sports,sports,"SENTENCE:
+ هاملين بالمركز الثالث ، خسران عشرين نقطة ، بس متقدم بخمس نقاط عن بوير. يحتل Kahne و Truex، Jr. المركز الخامس والسادس على التوالي برصيد 2220 و 2207 نقطة. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+سجل نادال في المواجهات المباشرة ضد الكندي هو 7-2.,sports,sports,"SENTENCE:
+ سجل نادال في المواجهات المباشرة ضد الكندي هو 7-2. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+كان خاركي عم يتدرب قبل الموسم في Coverciano في إيطاليا بكير اليوم. وكان نازل في فندق الفريق قبل مباراة مقررة يوم الأحد ضد بولونيا.,sports,sports,"SENTENCE:
+ كان خاركي عم يتدرب قبل الموسم في Coverciano في إيطاليا بكير اليوم. وكان نازل في فندق الفريق قبل مباراة مقررة يوم الأحد ضد بولونيا. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+وخوف الناس من قلة المواصلات زادت إمكانية إجبار المباراة على اللعب ورا أبواب مسكرة بدون جماهير الفريق.,sports,sports,"SENTENCE:
+ وخوف الناس من قلة المواصلات زادت إمكانية إجبار المباراة على اللعب ورا أبواب مسكرة بدون جماهير الفريق. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"قال تومي دريمر: ""كانت لونا أول ملكة Extreme. مديري الأول. توفيت Luna في ليلة قمرين. فريدة من نوعها تمامًا مثلها. امرأة قوية.""",sports,entertainment,"SENTENCE:
+ قال تومي دريمر: ""كانت لونا أول ملكة Extreme. مديري الأول. توفيت Luna في ليلة قمرين. فريدة من نوعها تمامًا مثلها. امرأة قوية."" 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+المتزلج البولندي فاز بمجال الرجال اللي عندهم إعاقة بصرية على ماسيج كريزل والمرشدة آنا أوغارزينسكا اللي طلعو بالمركز التلطعش بسباق سوبر جي.وفاز منتزه جونغ سورك بارك الكوري الجنوبي بالمركز أربعه وعشرين ببطولة سوبر-جي اللي بيقعد عليها الرجال.,sports,sports,"SENTENCE:
+ المتزلج البولندي فاز بمجال الرجال اللي عندهم إعاقة بصرية على ماسيج كريزل والمرشدة آنا أوغارزينسكا اللي طلعو بالمركز التلطعش بسباق سوبر جي.وفاز منتزه جونغ سورك بارك الكوري الجنوبي بالمركز أربعه وعشرين ببطولة سوبر-جي اللي بيقعد عليها الرجال. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+لتاخد أخبار البطولات وأماكن شراء تذاكر مباريات البولو ،شوف موقع Asociacion Argentina de Polo.,sports,sports,"SENTENCE:
+ لتاخد أخبار البطولات وأماكن شراء تذاكر مباريات البولو ،شوف موقع Asociacion Argentina de Polo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+بدأت اللعبة الساعة 10:00 الصبح في طقس رائع ولولا الرذاذ بنص فترة الصبح ياللي اختفى بسرعة، فهذا كان يوم رائع لسباعيات لعبة الرجبي.,sports,sports,"SENTENCE:
+ بدأت اللعبة الساعة 10:00 الصبح في طقس رائع ولولا الرذاذ بنص فترة الصبح ياللي اختفى بسرعة، فهذا كان يوم رائع لسباعيات لعبة الرجبي. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+المكسيكي Arly Velasquez طلع بالمركز الخامس عشر في بطولة Super-G للجلوس للرجال. والنيوزيلندي آدم هول طلع بالمركز التاسع في بطولة سوبر جي للرجال.,sports,sports,"SENTENCE:
+ المكسيكي Arly Velasquez طلع بالمركز الخامس عشر في بطولة Super-G للجلوس للرجال. والنيوزيلندي آدم هول طلع بالمركز التاسع في بطولة سوبر جي للرجال. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+المباراة الأخيرة من السلسلة رح يكون محلها في ملعب إليس بارك في جوهانسبرغ الأسبوع الجاي، لما سبرينجبوكس بلعبوا ضد أستراليا.,sports,sports,"SENTENCE:
+ المباراة الأخيرة من السلسلة رح يكون محلها في ملعب إليس بارك في جوهانسبرغ الأسبوع الجاي، لما سبرينجبوكس بلعبوا ضد أستراليا. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+بالظروف المنيحه ، حتكون قادر تقطع مسافات أكبر لحد ما من المشي - بس نادر ما رح تحصل على سرعات تقطع فيها البلاد بدون شنتة ظهر ثقيلة بمسارات مجهزة.,sports,sports,"SENTENCE:
+ بالظروف المنيحه ، حتكون قادر تقطع مسافات أكبر لحد ما من المشي - بس نادر ما رح تحصل على سرعات تقطع فيها البلاد بدون شنتة ظهر ثقيلة بمسارات مجهزة. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+بفرق سبع نقاط ، جونسون في المركز الثاني برصيد 2243.,sports,sports,"SENTENCE:
+ بفرق سبع نقاط ، جونسون في المركز الثاني برصيد 2243. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+الكانيونينج (أو: التجديف) هو عبارة عن انك تروح لقاع وادي يكون إما ناشف أو فيو ميه.,sports,travel,"SENTENCE:
+ الكانيونينج (أو: التجديف) هو عبارة عن انك تروح لقاع وادي يكون إما ناشف أو فيو ميه. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+روبن أوثابا حقق أعلى نتيجة في الجولات، 70 ركضة بس في 41 كرة لما ضرب 11 أربعة وستتين.,sports,sports,"SENTENCE:
+ روبن أوثابا حقق أعلى نتيجة في الجولات، 70 ركضة بس في 41 كرة لما ضرب 11 أربعة وستتين. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+الرياضات الشتوية هيه الأكتر شعبية بالمناطق الشمالية ، فبيتنافس الإيطاليين بالألعاب الدولية والأحداث الأولمبية.,sports,sports,"SENTENCE:
+ الرياضات الشتوية هيه الأكتر شعبية بالمناطق الشمالية ، فبيتنافس الإيطاليين بالألعاب الدولية والأحداث الأولمبية. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+ماروتشايدور خلص في أعلى الترتيب، ست نقاط بعيد عن نوسا في الثاني.,sports,sports,"SENTENCE:
+ ماروتشايدور خلص في أعلى الترتيب، ست نقاط بعيد عن نوسا في الثاني. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+نهى مايكل شوماخر سباقه بعد فترة قصيرة من ألونسو ، بسبب ضرر التعليق أثناء المعارك الكتيرة في السباق.,sports,sports,"SENTENCE:
+ نهى مايكل شوماخر سباقه بعد فترة قصيرة من ألونسو ، بسبب ضرر التعليق أثناء المعارك الكتيرة في السباق. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+مش بس الممارسات الغذائية السليمة بتعطي أداء متميز ، بس يمكن تؤثر بشكل كبير على صحة الرياضيين الشباب بشكل عام.,sports,sports,"SENTENCE:
+ مش بس الممارسات الغذائية السليمة بتعطي أداء متميز ، بس يمكن تؤثر بشكل كبير على صحة الرياضيين الشباب بشكل عام. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+ماقدر ياخذ الأدوية اللازمة للتغلب على آلامه بحيث تم منعهم من المشاركة في الألعاب.,sports,sports,"SENTENCE:
+ ماقدر ياخذ الأدوية اللازمة للتغلب على آلامه بحيث تم منعهم من المشاركة في الألعاب. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+وجدوا بالأبحاث أن النسوان أكثر عرضة للإصابة بمرض التصلب العصبي المتعدد مرتين أكثر من الرجال.,health,health,"SENTENCE:
+ وجدوا بالأبحاث أن النسوان أكثر عرضة للإصابة بمرض التصلب العصبي المتعدد مرتين أكثر من الرجال. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: health</s>"
+ممكن انو تحتوي المشروبات الروحية اللي مش شرعية على شوائب خطيرة مختلفة بما فيها الميثانول ، واللي ممكن يسبب العمى أو الموت حتى بالجرعات الصغيرة.,health,health,"SENTENCE:
+ ممكن انو تحتوي المشروبات الروحية اللي مش شرعية على شوائب خطيرة مختلفة بما فيها الميثانول ، واللي ممكن يسبب العمى أو الموت حتى بالجرعات الصغيرة. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: health</s>"
+آثار الكارثة بس ،مش الاكتئاب والخوف كانت مشروطة بجلسات بي أي أسبوعية منظمة.,health,sports,"SENTENCE:
+ آثار الكارثة بس ،مش الاكتئاب والخوف كانت مشروطة بجلسات بي أي أسبوعية منظمة. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+الملكية الجماعية للسيارات بتزيد ارتفاع معدل الحوادث على الطرق ، فيؤدي لإبتكار تقنيات جديدة بمجال الرعاية الصحية لإصلاح الأجسام التالفة.,health,travel,"SENTENCE:
+ الملكية الجماعية للسيارات بتزيد ارتفاع معدل الحوادث على الطرق ، فيؤدي لإبتكار تقنيات جديدة بمجال الرعاية الصحية لإصلاح الأجسام التالفة. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+الباحثين الرئيسيين حكوا إنه هاد ممكن يكشف بوقت مبكر عن السرطان، السل، اتش اي في والملاريا للمريضين في الدول الي دخلها قليل، الي معدلات النجاة للأمراض زي سرطان الثدي يمكن يكون نص الدول الأغنى.,health,health,"SENTENCE:
+ الباحثين الرئيسيين حكوا إنه هاد ممكن يكشف بوقت مبكر عن السرطان، السل، اتش اي في والملاريا للمريضين في الدول الي دخلها قليل، الي معدلات النجاة للأمراض زي سرطان الثدي يمكن يكون نص الدول الأغنى. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: health</s>"
+الدكتور إيهود أر، بروفيسور الطب في جامعة دالهاوسي في هاليفاكس، نوفا سكوشا ورئيس القسم السرير والعلمي في مؤسسة السكري الكندية حذّر إنه البحث لسه في أيامه الأولى.,health,health,"SENTENCE:
+ الدكتور إيهود أر، بروفيسور الطب في جامعة دالهاوسي في هاليفاكس، نوفا سكوشا ورئيس القسم السرير والعلمي في مؤسسة السكري الكندية حذّر إنه البحث لسه في أيامه الأولى. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: health</s>"
+"بميل هدول الأطفال انهم يوقعوا بكتير مشاكل ، لأنهم ""بشاركوا بسلوكيات فيها مخاطر ، وبيتطاوشوا ، وبيتحدوا السلطة"" حتى يحفزوا عقولهم ، لأن عقولهم ما بتتحفز بالطرق العادية.",health,N/A,"SENTENCE:
+ بميل هدول الأطفال انهم يوقعوا بكتير مشاكل ، لأنهم ""بشاركوا بسلوكيات فيها مخاطر ، وبيتطاوشوا ، وبيتحدوا السلطة"" حتى يحفزوا عقولهم ، لأن عقولهم ما بتتحفز بالطرق العادية. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: education education</s>"
+البشريمكن يتأثروا لما يتنفسوا الماء المتأثر اللي بتاخذه الرياح والأمواج في الهواء.,health,travel,"SENTENCE:
+ البشريمكن يتأثروا لما يتنفسوا الماء المتأثر اللي بتاخذه الرياح والأمواج في الهواء. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+بيعتقد بعض الناس انو تجربة كتير من الأحلام الصافية المستحثة صناعياً بكتير من الأحيان كافية وممكن انها تكون مرهقة.,health,entertainment,"SENTENCE:
+ بيعتقد بعض الناس انو تجربة كتير من الأحلام الصافية المستحثة صناعياً بكتير من الأحيان كافية وممكن انها تكون مرهقة. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+أخد بوترو العلاج بكتفه بهاي المرحلة بس قدر يرجع للمباراة.,health,sports,"SENTENCE:
+ أخد بوترو العلاج بكتفه بهاي المرحلة بس قدر يرجع للمباراة. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+و كمان ، فالفشل بهيك إشي إله عواقب سيئة: كآبة النمو وسوء التغذية والموت بالنهاية.,health,sports,"SENTENCE:
+ و كمان ، فالفشل بهيك إشي إله عواقب سيئة: كآبة النمو وسوء التغذية والموت بالنهاية. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+صرح المسؤولين عن مدينة أمستردام ومتحف آن فرانك أن الشجرة مصابة بفطر وتشكل خطر على الصحة العامة وكانوا بيحكوا بأنها كانت على وشك انها توقع,health,travel,"SENTENCE:
+ صرح المسؤولين عن مدينة أمستردام ومتحف آن فرانك أن الشجرة مصابة بفطر وتشكل خطر على الصحة العامة وكانوا بيحكوا بأنها كانت على وشك انها توقع 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+المستشفى اتبعت بروتوكول لمكافحة العدوى، بشمل فصل المريض عن البقية لمنع امكانية العدوى لغيره.,health,health,"SENTENCE:
+ المستشفى اتبعت بروتوكول لمكافحة العدوى، بشمل فصل المريض عن البقية لمنع امكانية العدوى لغيره. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: health</s>"
+المعهد الهاييتي للعدالة والديمقراطية حكى عن دراسات مُستقلّة بتلمح أنه كتيبة حفظ السلام النيبالية التابعة للأمم المتحدة جابت المرض لهايتي بدون ما تعرف.,health,politics,"SENTENCE:
+ المعهد الهاييتي للعدالة والديمقراطية حكى عن دراسات مُستقلّة بتلمح أنه كتيبة حفظ السلام النيبالية التابعة للأمم المتحدة جابت المرض لهايتي بدون ما تعرف. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: world politics</s>"
+الأمراض المعدية نفسها ، أو الحيوانات الخطرة اللي ممكن تصيب أو تقتل الناس بالقوة ، ما بتنوصف بالعادة إنها آفات.,health,health,"SENTENCE:
+ الأمراض المعدية نفسها ، أو الحيوانات الخطرة اللي ممكن تصيب أو تقتل الناس بالقوة ، ما بتنوصف بالعادة إنها آفات. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: health</s>"
+بواجه الأطفال المصابين باضطراب نقص الانتباه (ADD) صعوبة بالتركيز على أشياء متل العمل المدرسي ، بس بيقدرو يركزو على الأشياء اللي ييستمتعو يعملوها متل اللعب أو يحضرو الأفلام كرتون المفضلة عندهم أو كتابة الجمل بدون علامات ترقيم.,health,entertainment,"SENTENCE:
+ بواجه الأطفال المصابين باضطراب نقص الانتباه (ADD) صعوبة بالتركيز على أشياء متل العمل المدرسي ، بس بيقدرو يركزو على الأشياء اللي ييستمتعو يعملوها متل اللعب أو يحضرو الأفلام كرتون المفضلة عندهم أو كتابة الجمل بدون علامات ترقيم. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+خلال سنة وحدة، شخص مصاب ممكن يعدي 10 إلى 15 شخص قريب منه.,health,health,"SENTENCE:
+ خلال سنة وحدة، شخص مصاب ممكن يعدي 10 إلى 15 شخص قريب منه. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: health</s>"
+لما توقف القتال بعد ما نقلوا الجرحى إلى المستشفى، حوالي 40 سجين ثاني ضايل في الساحة رفضوا يرجعوا إلى زنازينهم.,health,sports,"SENTENCE:
+ لما توقف القتال بعد ما نقلوا الجرحى إلى المستشفى، حوالي 40 سجين ثاني ضايل في الساحة رفضوا يرجعوا إلى زنازينهم. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+بدأ الإمبراطور أوغسطس بتجنيد الأطباء ، وشكلوا أول فيلق طبي روماني ليستخدموه بعد المعارك.,health,N/A,"SENTENCE:
+ بدأ الإمبراطور أوغسطس بتجنيد الأطباء ، وشكلوا أول فيلق طبي روماني ليستخدموه بعد المعارك. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: military</s>"
+مع هيك السايق انصاب بجروح خطيرة براسه.,health,sports,"SENTENCE:
+ مع هيك السايق انصاب بجروح خطيرة براسه. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"""عنا هسه فيران عمرها 4 شهور ما معها سكري كان عندها سكري,"" هيك حكى هو.",health,health,"SENTENCE:
+ ""عنا هسه فيران عمرها 4 شهور ما معها سكري كان عندها سكري,"" هيك حكى هو. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: health</s>"
+يمكن مايكون التسمم الداخلي كثير. الأعراض مثل القيء عامة بحيث مامنقدر نعمل تشخيص فوري.,health,health,"SENTENCE:
+ يمكن مايكون التسمم الداخلي كثير. الأعراض مثل القيء عامة بحيث مامنقدر نعمل تشخيص فوري. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: health</s>"
+وعشان هيك ،بدخن الفنانين مفاصل الحشيش على المسرح ، وبيشجع المسرح نفسه الجمهور على انه ينضموا لهم.,entertainment,entertainment,"SENTENCE:
+ وعشان هيك ،بدخن الفنانين مفاصل الحشيش على المسرح ، وبيشجع المسرح نفسه الجمهور على انه ينضموا لهم. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+لغى إيروسميث حفلاتهم الموسيقية يلي ضلت بجولتهم.,entertainment,entertainment,"SENTENCE:
+ لغى إيروسميث حفلاتهم الموسيقية يلي ضلت بجولتهم. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+إذا كان بدك تكون قريب من الحدث ، فلازم تدخل بكير لتحصل على موقع تخييم قربب من الموسيقى.,entertainment,travel,"SENTENCE:
+ إذا كان بدك تكون قريب من الحدث ، فلازم تدخل بكير لتحصل على موقع تخييم قربب من الموسيقى. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+في كتير من تنسيقات الأفلام المختلفة اللي استخدموها على مر السنين. الفيلم القياسي 35 مم (36 × 24 مم) هو أكتر إشي معروف.,entertainment,entertainment,"SENTENCE:
+ في كتير من تنسيقات الأفلام المختلفة اللي استخدموها على مر السنين. الفيلم القياسي 35 مم (36 × 24 مم) هو أكتر إشي معروف. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+هاد النشاط كتير منتشر ، بس ديزني بتحظره: التذاكر مش ممكن تتحويل.,entertainment,entertainment,"SENTENCE:
+ هاد النشاط كتير منتشر ، بس ديزني بتحظره: التذاكر مش ممكن تتحويل. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+كل حلقة من العرض بتركز على موضوع في كتاب معين وبعدين بتستكشف الموضوع بقصص كثيرة.,entertainment,entertainment,"SENTENCE:
+ كل حلقة من العرض بتركز على موضوع في كتاب معين وبعدين بتستكشف الموضوع بقصص كثيرة. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+كثير شاشات تلفزيون كبيرة تركبت في أماكن مختلفة في روما ليسمحوا للناس يشوفوا المراسم.,entertainment,entertainment,"SENTENCE:
+ كثير شاشات تلفزيون كبيرة تركبت في أماكن مختلفة في روما ليسمحوا للناس يشوفوا المراسم. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+سوفوكليس وأريستوفان بعدهم من الكتاب المسرحيين المشهورين وتعتبر مسرحياتهم من ضمن أعظم أعمال الأدب العالمي.,entertainment,entertainment,"SENTENCE:
+ سوفوكليس وأريستوفان بعدهم من الكتاب المسرحيين المشهورين وتعتبر مسرحياتهم من ضمن أعظم أعمال الأدب العالمي. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+كل عرض كمان بقدم توصيات للكتب الي الأطفال لازم يدوروا عليها لما راحوا على مكتبتهم.,entertainment,entertainment,"SENTENCE:
+ كل عرض كمان بقدم توصيات للكتب الي الأطفال لازم يدوروا عليها لما راحوا على مكتبتهم. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+على الأكورديون ، لتاخد صوت إضافي ،بتقدر تستخدم المنفاخ بزيادة الضغط أو السرعة.,entertainment,sports,"SENTENCE:
+ على الأكورديون ، لتاخد صوت إضافي ،بتقدر تستخدم المنفاخ بزيادة الضغط أو السرعة. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+بتقدر تشوف الأهرامات بالعتمة وبيتقدر تشوفها بصمت قبل ما العرض يبدأ.,entertainment,travel,"SENTENCE:
+ بتقدر تشوف الأهرامات بالعتمة وبيتقدر تشوفها بصمت قبل ما العرض يبدأ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+الأمثلة على الأنشطة في الموقع زي صيد الأسماك والتصوير الفوتوغرافي ومراقبة الطيور وزيارة الحدائق ودراسة المعلومات عن النظام البيئي.,entertainment,travel,"SENTENCE:
+ الأمثلة على الأنشطة في الموقع زي صيد الأسماك والتصوير الفوتوغرافي ومراقبة الطيور وزيارة الحدائق ودراسة المعلومات عن النظام البيئي. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+عينو أبو الهول كخلفية وراوي لقصة طويلة.,entertainment,travel,"SENTENCE:
+ عينو أبو الهول كخلفية وراوي لقصة طويلة. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+بالعادة بكون عندهم اكل وشرب وعروض ترفيهية خاصة ، ليبقو الزوار بحالة مزاجية جيدة ، وإبقائهم في المبنى.,entertainment,travel,"SENTENCE:
+ بالعادة بكون عندهم اكل وشرب وعروض ترفيهية خاصة ، ليبقو الزوار بحالة مزاجية جيدة ، وإبقائهم في المبنى. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+المنظمة العالمية عم تقدم بالفعل تقارير باللغتين الإنجليزية واليابانية ، وتطلق برامج باللغة الإسبانية والإيطالية والكورية للتلفزيون والانترنت والجوالات.,entertainment,entertainment,"SENTENCE:
+ المنظمة العالمية عم تقدم بالفعل تقارير باللغتين الإنجليزية واليابانية ، وتطلق برامج باللغة الإسبانية والإيطالية والكورية للتلفزيون والانترنت والجوالات. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+قبل عائلة سمبسون ، سيمون اشتغل في عدة عروض في مواقف مختلفة.,entertainment,entertainment,"SENTENCE:
+ قبل عائلة سمبسون ، سيمون اشتغل في عدة عروض في مواقف مختلفة. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+هاد الإشي رح يسمح للاعبين بالتحكم بالتصرفات والحركات بألعاب الفيديو عن طريق تحريك الجهاز بالهواء.,entertainment,entertainment,"SENTENCE:
+ هاد الإشي رح يسمح للاعبين بالتحكم بالتصرفات والحركات بألعاب الفيديو عن طريق تحريك الجهاز بالهواء. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+وحضر الحفل مش اقل من 100 شخص للاحتفال بالذكرى السنوية الأولى لزوجين صار زواجهم العام الماضي.,entertainment,entertainment,"SENTENCE:
+ وحضر الحفل مش اقل من 100 شخص للاحتفال بالذكرى السنوية الأولى لزوجين صار زواجهم العام الماضي. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+أغنيتين من الفلم، أوديشن (ذا فوولز هو دريم) وسيتي ستارز، أخدو ترشيحات لأحسن أغنية أصلية. ليونز غيت ستوديو أخد 26 ترشيح - أكثر من أي استوديو تاني.,entertainment,entertainment,"SENTENCE:
+ أغنيتين من الفلم، أوديشن (ذا فوولز هو دريم) وسيتي ستارز، أخدو ترشيحات لأحسن أغنية أصلية. ليونز غيت ستوديو أخد 26 ترشيح - أكثر من أي استوديو تاني. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+سماكة القشرة حوالي 70 كم عالجمب القريب و 100 كم عالجمب البعيد.,geography,travel,"SENTENCE:
+ سماكة القشرة حوالي 70 كم عالجمب القريب و 100 كم عالجمب البعيد. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+بأقصى الجنوب في شلالات نياجرا والشمال موطن للجمال الطبيعي اللي مش مستغلينو لموسكوكا واللي وراها.,geography,travel,"SENTENCE:
+ بأقصى الجنوب في شلالات نياجرا والشمال موطن للجمال الطبيعي اللي مش مستغلينو لموسكوكا واللي وراها. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Ellsworth Land هي المنطقة الموجودة جنوب شبه الجزيرة ، بيحصرها بحر Bellingshausen.,geography,travel,"SENTENCE:
+ Ellsworth Land هي المنطقة الموجودة جنوب شبه الجزيرة ، بيحصرها بحر Bellingshausen. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+يوجد South Pole Traverse (أو الطريق السريع) على مسافة 1600 كم من محطة McMurdo على بحر روس للقطب.,geography,travel,"SENTENCE:
+ يوجد South Pole Traverse (أو الطريق السريع) على مسافة 1600 كم من محطة McMurdo على بحر روس للقطب. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+هذا الجبل المنحدر كثير اللي بعلو فوق الطرف الشمالي من ماتشو بيتشو، كثير مرات بكون خلفية لكثير من صور الآثار.,geography,travel,"SENTENCE:
+ هذا الجبل المنحدر كثير اللي بعلو فوق الطرف الشمالي من ماتشو بيتشو، كثير مرات بكون خلفية لكثير من صور الآثار. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+إنسيلادوس هو أكثر جسم عاكس في النظام الشمسي، بعكس حوالي 90 بالمية من أشعة الشمس اللي بتضربه.,geography,travel,"SENTENCE:
+ إنسيلادوس هو أكثر جسم عاكس في النظام الشمسي، بعكس حوالي 90 بالمية من أشعة الشمس اللي بتضربه. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+مابتقدر تشوف اي اشي غير السماء الصافية الجميلة أعلاه وشوية جبال المحيطة. كثيرقليلاللي بتقدر تشوفه من هذا العالم من جوا الكهف.,geography,travel,"SENTENCE:
+ مابتقدر تشوف اي اشي غير السماء الصافية الجميلة أعلاه وشوية جبال المحيطة. كثيرقليلاللي بتقدر تشوفه من هذا العالم من جوا الكهف. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+هلأ لليابان. كانت اليابان دولة على جزيرة ، تمامًا متل بريطانيا.,geography,travel,"SENTENCE:
+ هلأ لليابان. كانت اليابان دولة على جزيرة ، تمامًا متل بريطانيا. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+في أقصى قوته ، بلغ الإعصار المداري جونو ، اللي سموه على اسم كيس أوراق النخيل بلغة جزر المالديف ، رياحًا متواصلة بلغت سرعتها 240 كيلومترًا في الساعة (149 ميلًا في الساعة).,geography,travel,"SENTENCE:
+ في أقصى قوته ، بلغ الإعصار المداري جونو ، اللي سموه على اسم كيس أوراق النخيل بلغة جزر المالديف ، رياحًا متواصلة بلغت سرعتها 240 كيلومترًا في الساعة (149 ميلًا في الساعة). 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+بتحتل منطقة تركيا ، بما فيها البحيرات ، 783،562 كيلومتر مربع (300948 ميل مربع) ، منها 755688 كيلومتر مربع (291.773 ميل مربع) في جنوب غرب آسيا و 23764 كيلومتر مربع (9174 ميل مربع) في أوروبا.,geography,travel,"SENTENCE:
+ بتحتل منطقة تركيا ، بما فيها البحيرات ، 783،562 كيلومتر مربع (300948 ميل مربع) ، منها 755688 كيلومتر مربع (291.773 ميل مربع) في جنوب غرب آسيا و 23764 كيلومتر مربع (9174 ميل مربع) في أوروبا. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+جزر شيتلاند الجنوبية، اللي اكتشفوها في1819، بتطالب فيها اكتر من دولة و عندها أكبر عدد من القواعد، مع ستعشر وحدة نشطة بسنة 2020.,geography,N/A,"SENTENCE:
+ جزر شيتلاند الجنوبية، اللي اكتشفوها في1819، بتطالب فيها اكتر من دولة و عندها أكبر عدد من القواعد، مع ستعشر وحدة نشطة بسنة 2020. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: military</s>"
+أبيا هيه عاصمة ساموا. المدينة موجودة في جزيرة أوبولو وعدد سكانها أقل بشوي من 40.000 نسمة.,geography,travel,"SENTENCE:
+ أبيا هيه عاصمة ساموا. المدينة موجودة في جزيرة أوبولو وعدد سكانها أقل بشوي من 40.000 نسمة. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+لأن العاصفة كانت بعيدة عن البر ، فلسا صعب نعمل تقييم التأثير المحتمل على الولايات المتحدة أو منطقة البحر الكاريبي.,geography,travel,"SENTENCE:
+ لأن العاصفة كانت بعيدة عن البر ، فلسا صعب نعمل تقييم التأثير المحتمل على الولايات المتحدة أو منطقة البحر الكاريبي. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+هو رقيق تحت ماريا وأكتر سماكة تحت المرتفعات.,geography,travel,"SENTENCE:
+ هو رقيق تحت ماريا وأكتر سماكة تحت المرتفعات. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+بس الغابات مش مجرد مستنقعات لأشجار المانجروف — فيهم بعض من آخر الرموز المتبقية على الأدغال الجبارة اللي مرة غطت سهل الغانج.,geography,travel,"SENTENCE:
+ بس الغابات مش مجرد مستنقعات لأشجار المانجروف — فيهم بعض من آخر الرموز المتبقية على الأدغال الجبارة اللي مرة غطت سهل الغانج. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+خريطة الزلازل الدولية للمسح الجيولوجي بالولايات المتحدة عم تفرجينا انه مافي زلازل في أيسلندا في الأسبوع الماضي.,geography,travel,"SENTENCE:
+ خريطة الزلازل الدولية للمسح الجيولوجي بالولايات المتحدة عم تفرجينا انه مافي زلازل في أيسلندا في الأسبوع الماضي. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+موقع الكهف على قمة أحد الجبال شمال مكة ، وهو معزول تمامًا عن بقية العالم.,geography,travel,"SENTENCE:
+ موقع الكهف على قمة أحد الجبال شمال مكة ، وهو معزول تمامًا عن بقية العالم. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
