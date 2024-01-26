@@ -1,0 +1,2449 @@
+text,actual_category,predicted_category,generated_text
+"Mutaceja pīvīnoj jaunu genetiskū variaceju, i atlase tū nūjam nu izteiktūs variaceju kūpys.",science/technology,travel,"SENTENCE:
+ Mutaceja pīvīnoj jaunu genetiskū variaceju, i atlase tū nūjam nu izteiktūs variaceju kūpys. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Kūdūlīrūči dorbojās piec pryncypa, ka kūdūla salikšonai ar daudzim protonim i neitronim ir napīcīšama energeja.",science/technology,science/technology,"SENTENCE:
+ Kūdūlīrūči dorbojās piec pryncypa, ka kūdūla salikšonai ar daudzim protonim i neitronim ir napīcīšama energeja. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+Kūduls sastuov nu divom daleņom - neitronim i protonim.,science/technology,science/technology,"SENTENCE:
+ Kūduls sastuov nu divom daleņom - neitronim i protonim. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+"Tys ir ļuovs tuoluma mainis objektivim radeit attālus, kuru kvalitate ir saleidzynoma ar objektivim ar fiksātū fokusa attuolumu.",science/technology,travel,"SENTENCE:
+ Tys ir ļuovs tuoluma mainis objektivim radeit attālus, kuru kvalitate ir saleidzynoma ar objektivim ar fiksātū fokusa attuolumu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Tī ir puoruoki par škārsteikla starpnīkserverim vairuoku īmaslu deļ: tī nūvierzej vysu interneta satiksmi, na tikai http.",science/technology,travel,"SENTENCE:
+ Tī ir puoruoki par škārsteikla starpnīkserverim vairuoku īmaslu deļ: tī nūvierzej vysu interneta satiksmi, na tikai http. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Interaktivam dizainam ir napīcīšams atkuortuoti nūviertēt sovus pījāmumus par medeju produciešonu i vuiceitīs dūmuot nalinearūs veidūs.,science/technology,travel,"SENTENCE:
+ Interaktivam dizainam ir napīcīšams atkuortuoti nūviertēt sovus pījāmumus par medeju produciešonu i vuiceitīs dūmuot nalinearūs veidūs. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Tei kliva par īrostu praksi, tok dzeļzs radēja leluoku vagonu kūka riteņu nūdylumu.",science/technology,travel,"SENTENCE:
+ Tei kliva par īrostu praksi, tok dzeļzs radēja leluoku vagonu kūka riteņu nūdylumu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Borus veidoj vīns leidz treis radnīceigi pīauguši tieveni, kai ari leidz pat treisdesmit muoteitem ar mozulim.",science/technology,travel,"SENTENCE:
+ Borus veidoj vīns leidz treis radnīceigi pīauguši tieveni, kai ari leidz pat treisdesmit muoteitem ar mozulim. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Koč ari muoksleigajam intelektam ir spieceiga zynuotniskuos fantastikys konotaceja, tys veidoj cīši svareigu datorzynuotņu nūzari, kas nūsadorboj ar uzvedeibu, vuiceišonūs i vīdū adaptaceju mehanismūs.",science/technology,travel,"SENTENCE:
+ Koč ari muoksleigajam intelektam ir spieceiga zynuotniskuos fantastikys konotaceja, tys veidoj cīši svareigu datorzynuotņu nūzari, kas nūsadorboj ar uzvedeibu, vuiceišonūs i vīdū adaptaceju mehanismūs. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Deļtam ituo formata molu attīceiba (dolūt ar divpadsmit, kab īgiut vīnkuoršuokū vasalūs skaitļu attīceibu) ir 3:2.",science/technology,sports,"SENTENCE:
+ Deļtam ituo formata molu attīceiba (dolūt ar divpadsmit, kab īgiut vīnkuoršuokū vasalūs skaitļu attīceibu) ir 3:2. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Satelittelefons parosti naaizstuoj mobilū telefonu, deļtam ka telefona zvona veikšonai jums juoatsarūn uorpus telpom i juobyun ar skaidru satelita radzameibu.",science/technology,travel,"SENTENCE:
+ Satelittelefons parosti naaizstuoj mobilū telefonu, deļtam ka telefona zvona veikšonai jums juoatsarūn uorpus telpom i juobyun ar skaidru satelita radzameibu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Koč ari vagonu celi sastuovēja tikai nu paralelym kūka dielim, tī ļuove zyrgim, kas tūs vylka sasnēgt leluoku uotrumu i viļkt leluokys kravys, nakai iz daudz naleidzynuokim celim.",science/technology,travel,"SENTENCE:
+ Koč ari vagonu celi sastuovēja tikai nu paralelym kūka dielim, tī ļuove zyrgim, kas tūs vylka sasnēgt leluoku uotrumu i viļkt leluokys kravys, nakai iz daudz naleidzynuokim celim. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Cylvāki jau senatnī ir zynuojuši par taidim kimiskim elementim kai zalts, sudobrs i varš, tai kai tūs vysus var atkluot dobā dabiskā veidā i tūs ir saleidzynūši vinkuorši īgiut ar primitivim instrumentim.",science/technology,travel,"SENTENCE:
+ Cylvāki jau senatnī ir zynuojuši par taidim kimiskim elementim kai zalts, sudobrs i varš, tai kai tūs vysus var atkluot dobā dabiskā veidā i tūs ir saleidzynūši vinkuorši īgiut ar primitivim instrumentim. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Skrytuļs ir mainejs pasauli natycamūs veidūs. Leluokais, kū skrytuļs myusu lobā ir izdarejs, ir daudz vīnkuoršuoka i uotruoka transportiešona.",science/technology,travel,"SENTENCE:
+ Skrytuļs ir mainejs pasauli natycamūs veidūs. Leluokais, kū skrytuļs myusu lobā ir izdarejs, ir daudz vīnkuoršuoka i uotruoka transportiešona. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Tys teik dareits, kab nūdrūsynuotu, ka attāls nūsadz vysu ekranu. Tū sauc par puorskeniešonu.",science/technology,travel,"SENTENCE:
+ Tys teik dareits, kab nūdrūsynuotu, ka attāls nūsadz vysu ekranu. Tū sauc par puorskeniešonu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Vuocu zamiudinis sauce par U kugim. Vuocīši cīši labi spēja navigēt i vadeit sovys zamiudinis.,science/technology,travel,"SENTENCE:
+ Vuocu zamiudinis sauce par U kugim. Vuocīši cīši labi spēja navigēt i vadeit sovys zamiudinis. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Koč ari tuo fiziskais stuovūklis var mainētīs, tuo kimiskais sastuovs palīk taids pats.",science/technology,travel,"SENTENCE:
+ Koč ari tuo fiziskais stuovūklis var mainētīs, tuo kimiskais sastuovs palīk taids pats. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Viersmys spraigums rūnās deļtam, ka iudiņa molekulys iudiņa vierspusē teik pīsaisteitys vīna ūtrai vairuok nakai viers tūs asūšajom gaisa molekulom.",science/technology,travel,"SENTENCE:
+ Viersmys spraigums rūnās deļtam, ka iudiņa molekulys iudiņa vierspusē teik pīsaisteitys vīna ūtrai vairuok nakai viers tūs asūšajom gaisa molekulom. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Vīna nu vysbīžuokūs problemu video puorveiduošonā DVD formatā ir puorskeniešona.,science/technology,entertainment,"SENTENCE:
+ Vīna nu vysbīžuokūs problemu video puorveiduošonā DVD formatā ir puorskeniešona. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"It sevišķi teik apgolvuots, ka, pareizi interpretejūt mikroizteiksmis, var nūsaceit, voi persona maloj.",science/technology,travel,"SENTENCE:
+ It sevišķi teik apgolvuots, ka, pareizi interpretejūt mikroizteiksmis, var nūsaceit, voi persona maloj. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Zaltu var apstruoduot vysaiduos formuos. Tū var sarullēt mozuos formuos.,science/technology,travel,"SENTENCE:
+ Zaltu var apstruoduot vysaiduos formuos. Tū var sarullēt mozuos formuos. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Muoksleiguo intelekta sistemys niu ir bīži izmontuotys ekonomikys, medicinys, inženerzynuotņu i militarajā jūmā, kai ari tuos ir ībyuvētys dažaidūs sātys datorūs i video spēļu lītojumprogramuos.",science/technology,travel,"SENTENCE:
+ Muoksleiguo intelekta sistemys niu ir bīži izmontuotys ekonomikys, medicinys, inženerzynuotņu i militarajā jūmā, kai ari tuos ir ībyuvētys dažaidūs sātys datorūs i video spēļu lītojumprogramuos. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Tū ražoj vēļ šudiņ, tok svareiguok ir tys, ka molu attīceiba ir montuota digitalūs kameru attālu sensora formatūs.",science/technology,travel,"SENTENCE:
+ Tū ražoj vēļ šudiņ, tok svareiguok ir tys, ka molu attīceiba ir montuota digitalūs kameru attālu sensora formatūs. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Stypri ļaunpruoteigi izmontuotais i bīži apsmītais trešdaļu nūsacejums ir vīnkuoršs nūruodejums, kas roda dinamiskumu, vīnlaikus saglobojūt attālu kuorteibu.",science/technology,travel,"SENTENCE:
+ Stypri ļaunpruoteigi izmontuotais i bīži apsmītais trešdaļu nūsacejums ir vīnkuoršs nūruodejums, kas roda dinamiskumu, vīnlaikus saglobojūt attālu kuorteibu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Tys na viņ apstyprynoj, ka dažim dinozaurim beja spolvys, kas jau ir ploši izplateita teoreja, tok snādz informaceju, kuru fosilejis parosti navar, pīmāram, kruosu i treisdimensionalu izkuortuojumu.",science/technology,travel,"SENTENCE:
+ Tys na viņ apstyprynoj, ka dažim dinozaurim beja spolvys, kas jau ir ploši izplateita teoreja, tok snādz informaceju, kuru fosilejis parosti navar, pīmāram, kruosu i treisdimensionalu izkuortuojumu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Kai Jo gravitaceja mani pīvylktu? Ka jius stuovātu iz Jo viersys, jius svārtu mozuok nakai iz Zemis.",science/technology,travel,"SENTENCE:
+ Kai Jo gravitaceja mani pīvylktu? Ka jius stuovātu iz Jo viersys, jius svārtu mozuok nakai iz Zemis. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"NextGen ir sistema, kas, piec FAA dūmu, ļautu lidmašynom liduot eisuokūs maršrutūs i kotru godu ītaupeit miļjonim galonu degvīlys i samazynuot ūglekļa emisejis.",science/technology,travel,"SENTENCE:
+ NextGen ir sistema, kas, piec FAA dūmu, ļautu lidmašynom liduot eisuokūs maršrutūs i kotru godu ītaupeit miļjonim galonu degvīlys i samazynuot ūglekļa emisejis. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Neirobiologiskī dati snādz fiziskus pīruodejumus teoretiskuos pīejis izzinis izpietej. Deļ tam tys sašaurynoj izpietis jūmu i padora tū drupeit precizuoku.,science/technology,science/technology,"SENTENCE:
+ Neirobiologiskī dati snādz fiziskus pīruodejumus teoretiskuos pīejis izzinis izpietej. Deļ tam tys sašaurynoj izpietis jūmu i padora tū drupeit precizuoku. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+"Sovys divu stuņžu garuos runys laikā jis paziņuoja, ka ""šudiņ Apple nu jauna izgudruos telefonu, šudiņ mes veiduosim viesturi"".",science/technology,N/A,"SENTENCE:
+ Sovys divu stuņžu garuos runys laikā jis paziņuoja, ka ""šudiņ Apple nu jauna izgudruos telefonu, šudiņ mes veiduosim viesturi"". 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: tech tech</s>"
+"Tuoluma mainis objektivu tryukums ir taids, ka fokusa sarežgeiteiba i objektivu elementu skaits, kas napīcīšams, kab sasnāgtu fokusa attuoluma diapazonu, ir daudz leluoks nakai pamata objektivam.",science/technology,travel,"SENTENCE:
+ Tuoluma mainis objektivu tryukums ir taids, ka fokusa sarežgeiteiba i objektivu elementu skaits, kas napīcīšams, kab sasnāgtu fokusa attuoluma diapazonu, ir daudz leluoks nakai pamata objektivam. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Kontrolers, kas atguodynoj televizora tuolvadeibys puļti, izmontoj div sensorus, kas nūvītuoti lītuotuoja televizora tyvumā, lai trangulātu tuo poziceju treisdimeņseju telpā.",science/technology,travel,"SENTENCE:
+ Kontrolers, kas atguodynoj televizora tuolvadeibys puļti, izmontoj div sensorus, kas nūvītuoti lītuotuoja televizora tyvumā, lai trangulātu tuo poziceju treisdimeņseju telpā. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+". Zynuotnīki soka, ka ituo dzeivinīka apspolvuojums vierspusē beja kaštanu bryunumā ar buolu voi karotinoidu kruosu apakšā.",science/technology,travel,"SENTENCE:
+ . Zynuotnīki soka, ka ituo dzeivinīka apspolvuojums vierspusē beja kaštanu bryunumā ar buolu voi karotinoidu kruosu apakšā. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Obi savīnuojumi reagej vīns ar ūtru, veidojūt kristalus, kas var blokēt nīru darbeibu, saceja universitatis pietnīki.",science/technology,science/technology,"SENTENCE:
+ Obi savīnuojumi reagej vīns ar ūtru, veidojūt kristalus, kas var blokēt nīru darbeibu, saceja universitatis pietnīki. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+Tys nūdrūsynoj gondreiž četrys reizis leluoku izškiertspieju nakai 35 mm negativam (3136 mm2 pret 864).,science/technology,science/technology,"SENTENCE:
+ Tys nūdrūsynoj gondreiž četrys reizis leluoku izškiertspieju nakai 35 mm negativam (3136 mm2 pret 864). 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+"Pasateicūt zamiudiņa optiskū škīdru kabeļu savīnuojumam ar Eiropu i plotjūslu satelitam, Grenlande ir labi savīnuota i 93% īdzeivuotuoji ir pīeja internetam.",science/technology,travel,"SENTENCE:
+ Pasateicūt zamiudiņa optiskū škīdru kabeļu savīnuojumam ar Eiropu i plotjūslu satelitam, Grenlande ir labi savīnuota i 93% īdzeivuotuoji ir pīeja internetam. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Vīna nu īvāruojamuokūs lītuotņu itamā kategorejā ir Google tulkuotuojs, kas ļaun tulkuot bezsaistē piec vajadzeiguos volūdys datu lejupīluodis.",science/technology,travel,"SENTENCE:
+ Vīna nu īvāruojamuokūs lītuotņu itamā kategorejā ir Google tulkuotuojs, kas ļaun tulkuot bezsaistē piec vajadzeiguos volūdys datu lejupīluodis. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Tam ir tei poša molekularuo struktura, naatkareigi voi tei ir gāze, škidrums voi cīta vīla.",science/technology,science/technology,"SENTENCE:
+ Tam ir tei poša molekularuo struktura, naatkareigi voi tei ir gāze, škidrums voi cīta vīla. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+"Video īrokstu izmontuošona ir radejuse svareigus atkluojumus mikroizteiksmu interpretacejuos, sejis kusteibuos, kas ilgst dažys milisekuņdis.",science/technology,science/technology,"SENTENCE:
+ Video īrokstu izmontuošona ir radejuse svareigus atkluojumus mikroizteiksmu interpretacejuos, sejis kusteibuos, kas ilgst dažys milisekuņdis. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+Cylvāki ir izgatavuojuši i izmontuojuši lācys palelynuošonai tyukstūšim i tyukstūšim godu.,science/technology,travel,"SENTENCE:
+ Cylvāki ir izgatavuojuši i izmontuojuši lācys palelynuošonai tyukstūšim i tyukstūšim godu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Tok eksperiments nav tikai vīns, eksperiments ir tests, kū izmontoj, kab izslēgt vīnu voi vairuokys īspejamuos hipotezis, uzdūdūt vaicuojumus i veicūt nūvāruojumus, kas ari voda zynuotniskū pietejumu.",science/technology,science/technology,"SENTENCE:
+ Tok eksperiments nav tikai vīns, eksperiments ir tests, kū izmontoj, kab izslēgt vīnu voi vairuokys īspejamuos hipotezis, uzdūdūt vaicuojumus i veicūt nūvāruojumus, kas ari voda zynuotniskū pietejumu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+Vysbeidzūt kūka riteņus nūmainēja dzeļža riteni. 1767. godā tyka īvīstys pyrmuos tikai dzeļža slīdis.,science/technology,travel,"SENTENCE:
+ Vysbeidzūt kūka riteņus nūmainēja dzeļža riteni. 1767. godā tyka īvīstys pyrmuos tikai dzeļža slīdis. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Koč i leluokuo daļa karšu ir pīmāruotys zvaneišonai sevkur, dažys specializejās izdeveigu zvonu tarifu nūdrūsynuošonā nūteiktom vaļstu grupom.",science/technology,travel,"SENTENCE:
+ Koč i leluokuo daļa karšu ir pīmāruotys zvaneišonai sevkur, dažys specializejās izdeveigu zvonu tarifu nūdrūsynuošonā nūteiktom vaļstu grupom. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Leluokuo daļa myusu dīnu pietnīceibys teleskopu ir miļzeigys īkuortys attuolūs apgobolūs ar labvieleigim atmosferys apstuoklim.,science/technology,travel,"SENTENCE:
+ Leluokuo daļa myusu dīnu pietnīceibys teleskopu ir miļzeigys īkuortys attuolūs apgobolūs ar labvieleigim atmosferys apstuoklim. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Dzeļža odota peļd pa viersu iudiņam viersmys spraiguma deļ.,science/technology,travel,"SENTENCE:
+ Dzeļža odota peļd pa viersu iudiņam viersmys spraiguma deļ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Patīseibā 35 mm formats ir nadaudz mulsynojūšs, 36 mm plotumā i 24 mm augstumā.",science/technology,travel,"SENTENCE:
+ Patīseibā 35 mm formats ir nadaudz mulsynojūšs, 36 mm plotumā i 24 mm augstumā. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Šyunys ir dzeiveibys izpietis byutisks pamats, deļtam tuos bīži sauc par ""dzeiveibys pamatelementim"".",science/technology,travel,"SENTENCE:
+ Šyunys ir dzeiveibys izpietis byutisks pamats, deļtam tuos bīži sauc par ""dzeiveibys pamatelementim"". 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Personiskī VPN (virtualuo privatuo teikla) nūdrūsynuotuoji ir lobs veids, kai apīt gon politiskū cenzuru, gon komercialū IP geofiltriešonu.",science/technology,N/A,"SENTENCE:
+ Personiskī VPN (virtualuo privatuo teikla) nūdrūsynuotuoji ir lobs veids, kai apīt gon politiskū cenzuru, gon komercialū IP geofiltriešonu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: tech tech</s>"
+"Staceja saglobuoja sovu attīksmi, nasaverūt iz žiroskopa zaudiešonu kosmosa stacejis misejā agruok, leidz izīšonys kosmosā beigom.",science/technology,travel,"SENTENCE:
+ Staceja saglobuoja sovu attīksmi, nasaverūt iz žiroskopa zaudiešonu kosmosa stacejis misejā agruok, leidz izīšonys kosmosā beigom. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Cylvākim ar itū dūmuošonys veidu ir logiskuo dūmuošona, jim ir spieja atguoduot modeļus, rysynuot problemys i izstruoduot zynuotniskūs testus.",science/technology,science/technology,"SENTENCE:
+ Cylvākim ar itū dūmuošonys veidu ir logiskuo dūmuošona, jim ir spieja atguoduot modeļus, rysynuot problemys i izstruoduot zynuotniskūs testus. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+"Ocelotim lobpruot ād mozus dzeivinīkus. Ka var, jī giun mierkačus, čyuskys, grauziejus i putynus. Gondreiž vysi dzeivinīki, kurus medej ocelots, ir daudz mozuoki par jū pošu.",science/technology,travel,"SENTENCE:
+ Ocelotim lobpruot ād mozus dzeivinīkus. Ka var, jī giun mierkačus, čyuskys, grauziejus i putynus. Gondreiž vysi dzeivinīki, kurus medej ocelots, ir daudz mozuoki par jū pošu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Dažys videja formata kinu kamerys izmontoj 6x6 cm formatu, precizuok, 56x56 mm negativu.",science/technology,travel,"SENTENCE:
+ Dažys videja formata kinu kamerys izmontoj 6x6 cm formatu, precizuok, 56x56 mm negativu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ceļuotuojim ir stypri īsokams apsazynuot sevkuru beistamu laikapstuokļu rysku, kas var ītekmēt jūs regionu, partū ka tī var ītekmēt vysus ceļuojuma planus.",travel,travel,"SENTENCE:
+ Ceļuotuojim ir stypri īsokams apsazynuot sevkuru beistamu laikapstuokļu rysku, kas var ītekmēt jūs regionu, partū ka tī var ītekmēt vysus ceļuojuma planus. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Autobusi vysu dīnu atīt nu starprajonu autoūstys (puori upei), leluokuo daļa, eipaši tī, kas dūdās iz austrumim i Džakaru/Bumthangu, atīt nu 06.30 leidz 07.30.",travel,travel,"SENTENCE:
+ Autobusi vysu dīnu atīt nu starprajonu autoūstys (puori upei), leluokuo daļa, eipaši tī, kas dūdās iz austrumim i Džakaru/Bumthangu, atīt nu 06.30 leidz 07.30. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Tī nūdrūsynoj juotnīkam leluoku stabilitati, tok var radeit bažys par drūseibu, partū ka tymūs var īspryust juotnīka kuojis.",travel,travel,"SENTENCE:
+ Tī nūdrūsynoj juotnīkam leluoku stabilitati, tok var radeit bažys par drūseibu, partū ka tymūs var īspryust juotnīka kuojis. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Leluokajai daļai atškireigūs Baltejis kruizu ir paradzāta ilgstūša uzaturiešona Sanktpīterburgā, Krīvejā.",travel,travel,"SENTENCE:
+ Leluokajai daļai atškireigūs Baltejis kruizu ir paradzāta ilgstūša uzaturiešona Sanktpīterburgā, Krīvejā. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Īsacejums pījam, ka ceļuotuoji nazūg, napīsadola nalegalajā tiergā, naubogoj voi cytaiži naizmontoj cytus cylvākus sovā lobā.",travel,travel,"SENTENCE:
+ Īsacejums pījam, ka ceļuotuoji nazūg, napīsadola nalegalajā tiergā, naubogoj voi cytaiži naizmontoj cytus cylvākus sovā lobā. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ir daudz lītu, kas juojam vārā, pyrma i kod jius koč kur ceļojat.",travel,travel,"SENTENCE:
+ Ir daudz lītu, kas juojam vārā, pyrma i kod jius koč kur ceļojat. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Dīnys korstumā ceļuotuoji var pīdzeivuot miražys, kas roda iudiņa (voi cytu lītu) iluzeju.",travel,travel,"SENTENCE:
+ Dīnys korstumā ceļuotuoji var pīdzeivuot miražys, kas roda iudiņa (voi cytu lītu) iluzeju. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Saimis ar bārnim ir rata paruodeiba, tok dažūs hosteļūs jī ir atļauti privatuos ustobuos.",travel,travel,"SENTENCE:
+ Saimis ar bārnim ir rata paruodeiba, tok dažūs hosteļūs jī ir atļauti privatuos ustobuos. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Par pīmāru, apmeklejūt piļs Luarys īlejā, Reinys īlejā voi dūdūtīs kruizā iz interesantom vītom Donavā, voi braucūt ar laivu pa Eri kanalu.",travel,travel,"SENTENCE:
+ Par pīmāru, apmeklejūt piļs Luarys īlejā, Reinys īlejā voi dūdūtīs kruizā iz interesantom vītom Donavā, voi braucūt ar laivu pa Eri kanalu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Lobuok byutu izmontuot agentu, kas bīži rezervej leidzeigus ceļuojumus kai jiusejū.",travel,travel,"SENTENCE:
+ Lobuok byutu izmontuot agentu, kas bīži rezervej leidzeigus ceļuojumus kai jiusejū. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Koučserfings ir rodīs 2004. goda janvarī piec tam, kod programātuojs Keisijs Fentons atroda lātu liduojumu iz Islandi, tok jam nabeja kur tī palikt.",travel,travel,"SENTENCE:
+ Koučserfings ir rodīs 2004. goda janvarī piec tam, kod programātuojs Keisijs Fentons atroda lātu liduojumu iz Islandi, tok jam nabeja kur tī palikt. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Studentu vizom parosti praseibys i dasasaceišonys kuorteiba atsaškir nu parostajom turistu voi biznesa vizom.,travel,travel,"SENTENCE:
+ Studentu vizom parosti praseibys i dasasaceišonys kuorteiba atsaškir nu parostajom turistu voi biznesa vizom. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Kotrā vaļstī ir unikali lykumi, kuri nūsoka, kaidim uorkuortys pīdarumim juobyun mašynā.",travel,travel,"SENTENCE:
+ Kotrā vaļstī ir unikali lykumi, kuri nūsoka, kaidim uorkuortys pīdarumim juobyun mašynā. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Lai ari leluokuo daļa agenturu ir gotovys pījimt leluokū daļu regularūs rezervaceju, daudzi agenti specializejās konkretūs ceļuojumu veidūs, budžeta diapazonūs voi golamierkūs.",travel,travel,"SENTENCE:
+ Lai ari leluokuo daļa agenturu ir gotovys pījimt leluokū daļu regularūs rezervaceju, daudzi agenti specializejās konkretūs ceļuojumu veidūs, budžeta diapazonūs voi golamierkūs. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ceļuotuoji var sasaskart ar dzeivinīku kaitieklim, kurūs jī nazyna nu sovu regionu.",travel,travel,"SENTENCE:
+ Ceļuotuoji var sasaskart ar dzeivinīku kaitieklim, kurūs jī nazyna nu sovu regionu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Zīmeļūs ari apmeklejit lelū Fatimys Dīvmuotis svietneicu, kas ir pasaulī slovana Marejis pasaruodeišonys vīta.",travel,travel,"SENTENCE:
+ Zīmeļūs ari apmeklejit lelū Fatimys Dīvmuotis svietneicu, kas ir pasaulī slovana Marejis pasaruodeišonys vīta. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Var izmontuot boda-boda (motociklu taksi), lai varātu braukt pa Gomu. Parostuo (vītejuo) cena ir apmāram 500 Kongo franki par eisu braucīni.",travel,travel,"SENTENCE:
+ Var izmontuot boda-boda (motociklu taksi), lai varātu braukt pa Gomu. Parostuo (vītejuo) cena ir apmāram 500 Kongo franki par eisu braucīni. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Tim, kam pateik uora aktivitatis, ir svareigi dūtīs puorguojīnī pa koridoru ""Sea to Sky"".",travel,travel,"SENTENCE:
+ Tim, kam pateik uora aktivitatis, ir svareigi dūtīs puorguojīnī pa koridoru ""Sea to Sky"". 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Pastaigys safari (saukts ari par ""kryumu safari"", ""puorguojīņu safari"" voi īšonu ""kuojom"") sastuov nu puorguojīņa dažu stuņžu voi vairuoku dīnu garumā.",travel,travel,"SENTENCE:
+ Pastaigys safari (saukts ari par ""kryumu safari"", ""puorguojīņu safari"" voi īšonu ""kuojom"") sastuov nu puorguojīņa dažu stuņžu voi vairuoku dīnu garumā. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Vīneigais veids, kai mudruok tikt cauri, beja nūsyuteit tū kai registrātū bagažu. Aviokompanejis nūsacejumi naļaus syuteit bagažu bez pasažera, ite jius ari īsasaistot.",travel,travel,"SENTENCE:
+ Vīneigais veids, kai mudruok tikt cauri, beja nūsyuteit tū kai registrātū bagažu. Aviokompanejis nūsacejumi naļaus syuteit bagažu bez pasažera, ite jius ari īsasaistot. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Papyldu 300 palelynoj kūpejū skaitu leidz 1300 vagonim, kas juodaboj, kab mazynuotu dryuzmiešonūs.",travel,travel,"SENTENCE:
+ Papyldu 300 palelynoj kūpejū skaitu leidz 1300 vagonim, kas juodaboj, kab mazynuotu dryuzmiešonūs. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Saimem ar mozim bārnim var byut vajadzeiga leluoka sasagataveišona, bet dīna breivā dobā ir vīgli īspiejama pat ar mozulim i pyrmsškolys vacuma bārnim.",travel,travel,"SENTENCE:
+ Saimem ar mozim bārnim var byut vajadzeiga leluoka sasagataveišona, bet dīna breivā dobā ir vīgli īspiejama pat ar mozulim i pyrmsškolys vacuma bārnim. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Sevkuram, kurs gatavejās braukt augstūs plotuma gradūs voi puori kolnu puorejom, juojam vārā snīga, lada voi sasaļšonys īspiejameiba.",travel,travel,"SENTENCE:
+ Sevkuram, kurs gatavejās braukt augstūs plotuma gradūs voi puori kolnu puorejom, juojam vārā snīga, lada voi sasaļšonys īspiejameiba. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Myusu dīnu Timbuktu ir nabadzeiga piļsāta, tok tuos reputaceja padora tū par turistim interesantu vītu, i tī ir lidūsta.",travel,travel,"SENTENCE:
+ Myusu dīnu Timbuktu ir nabadzeiga piļsāta, tok tuos reputaceja padora tū par turistim interesantu vītu, i tī ir lidūsta. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Putiņa laikā pīteikūši daudz snīga, kab īsasprīstu, var nūkrist cīši eisā laikā.",travel,travel,"SENTENCE:
+ Putiņa laikā pīteikūši daudz snīga, kab īsasprīstu, var nūkrist cīši eisā laikā. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ka gribit piļneibā apliduot pasauli Dīnvydu puslūdē, liduojumu i golamierku izviele ir īrūbežuota, partū ka tryukst aizokeana maršrutu.",travel,sports,"SENTENCE:
+ Ka gribit piļneibā apliduot pasauli Dīnvydu puslūdē, liduojumu i golamierku izviele ir īrūbežuota, partū ka tryukst aizokeana maršrutu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Aviokompanejis, pīmāram, ""Emirates"", ""Etihad Airways"", ""Qatar Airways"" i ""Turkish Airlines"", ir īvārojami paplašynuojušys sovus pakolpuojumus iz Āfriku i pīduovoj savīnuojumus ar daudzom leluokajom Āfrikys piļsātom par konkurētspiejeiguokom cenom nakai cytys Eiropys aviosabīdreibys.",travel,travel,"SENTENCE:
+ Aviokompanejis, pīmāram, ""Emirates"", ""Etihad Airways"", ""Qatar Airways"" i ""Turkish Airlines"", ir īvārojami paplašynuojušys sovus pakolpuojumus iz Āfriku i pīduovoj savīnuojumus ar daudzom leluokajom Āfrikys piļsātom par konkurētspiejeiguokom cenom nakai cytys Eiropys aviosabīdreibys. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Papyldu transports nateik davīnuots, vierszemis viļcīni napīstuos Vemblijā, iz zemis nav daīmamys automašynu stuovvītys i stuoviešonys voi braukšonys īspiejis.",travel,travel,"SENTENCE:
+ Papyldu transports nateik davīnuots, vierszemis viļcīni napīstuos Vemblijā, iz zemis nav daīmamys automašynu stuovvītys i stuoviešonys voi braukšonys īspiejis. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Parosti, uzaturūt sevkurā uorvaļstī ilguoku laiku, nu suokuma ir juosajam viza.",travel,travel,"SENTENCE:
+ Parosti, uzaturūt sevkurā uorvaļstī ilguoku laiku, nu suokuma ir juosajam viza. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Kotram viļcīņam ir gon MetroPlus, gon Metro vagoni; MetroPlus vagoni vysod atsarūn Keiptaunai tyvuokajā viļcīņa golā.",travel,travel,"SENTENCE:
+ Kotram viļcīņam ir gon MetroPlus, gon Metro vagoni; MetroPlus vagoni vysod atsarūn Keiptaunai tyvuokajā viļcīņa golā. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Ikvīns pīsadola sabīdreibā i izmontoj transporta sistemys. Gondreiž vysi syudzuos par transporta sistemom.,travel,travel,"SENTENCE:
+ Ikvīns pīsadola sabīdreibā i izmontoj transporta sistemys. Gondreiž vysi syudzuos par transporta sistemom. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Tai kai teritorejis ir moz apdzeivuotys i gaismys pīsuorņuojums bīži viņ nav problema, varēsit baudeit ari zvaigznis.",travel,travel,"SENTENCE:
+ Tai kai teritorejis ir moz apdzeivuotys i gaismys pīsuorņuojums bīži viņ nav problema, varēsit baudeit ari zvaigznis. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Vizu praseibys i izmoksys dažaiduos vaļstīs atsaškir, i tuos ītekmej vaļsts, nu kurys jius asat.",travel,travel,"SENTENCE:
+ Vizu praseibys i izmoksys dažaiduos vaļstīs atsaškir, i tuos ītekmej vaļsts, nu kurys jius asat. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Puorsvorā nav jāgys pat i meklēt atlaidis iz biznesa voi pyrmuos klasis vītom tīšajūs liduojumūs nu punkta A leidz punktam B.,travel,travel,"SENTENCE:
+ Puorsvorā nav jāgys pat i meklēt atlaidis iz biznesa voi pyrmuos klasis vītom tīšajūs liduojumūs nu punkta A leidz punktam B. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Bumeranga svīsšona ir populara prasme, kū grib īsavuiceit daudz turistu.",travel,travel,"SENTENCE:
+ Bumeranga svīsšona ir populara prasme, kū grib īsavuiceit daudz turistu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Itys liduojums nav vīneiguo īspieja, ka gribit izlaist Klusuo okeana dīnvydus i Dīnvydamerikys rītumu krostu. (Vērtīs zamuok)",travel,travel,"SENTENCE:
+ Itys liduojums nav vīneiguo īspieja, ka gribit izlaist Klusuo okeana dīnvydus i Dīnvydamerikys rītumu krostu. (Vērtīs zamuok) 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Sanfrancisko ir izveiduojuse lelu turisma infrastrukturu ar daudzom vīsneicom, restoranim i augstuokuos klasis sapuļču telpom.",travel,travel,"SENTENCE:
+ Sanfrancisko ir izveiduojuse lelu turisma infrastrukturu ar daudzom vīsneicom, restoranim i augstuokuos klasis sapuļču telpom. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Breivpruoteigais dorbs ceļuojuma laikā ir cīši lobs veids, kai nazkū maineit, tok tys nav tikai par zīduošonu.",travel,travel,"SENTENCE:
+ Breivpruoteigais dorbs ceļuojuma laikā ir cīši lobs veids, kai nazkū maineit, tok tys nav tikai par zīduošonu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Cylvāki var napadūmuot, ka ceļuotuojim, kuri atsagrīž sātā, taipat ir svareiga pacīteiba i sapratne.",travel,travel,"SENTENCE:
+ Cylvāki var napadūmuot, ka ceļuotuojim, kuri atsagrīž sātā, taipat ir svareiga pacīteiba i sapratne. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Naaizmierstit pīvīnuot papyldu izmoksys par papyldu vizom, izbraukšonys nūdūklim, sauszemis transportu i c. vysuos vītuos uorpus Āfrikys.",travel,travel,"SENTENCE:
+ Naaizmierstit pīvīnuot papyldu izmoksys par papyldu vizom, izbraukšonys nūdūklim, sauszemis transportu i c. vysuos vītuos uorpus Āfrikys. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Vairuoki Biškekys īdzeivuotuoji nalykumeibuos vaiņuoja protestātuojus nu dīnvydu.,politics,travel,"SENTENCE:
+ Vairuoki Biškekys īdzeivuotuoji nalykumeibuos vaiņuoja protestātuojus nu dīnvydu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Myusu dīnu Beļgejis dalis agruok beja daļa nu Luksemburgys, tok piec Beļgejis Revoļucejis 1830. godūs palyka par Beļgejis daļom.",politics,travel,"SENTENCE:
+ Myusu dīnu Beļgejis dalis agruok beja daļa nu Luksemburgys, tok piec Beļgejis Revoļucejis 1830. godūs palyka par Beļgejis daļom. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Kūpš 1988. goda bolsuošonys kastem juobyun caurspeideigom, kab vālātuoji i nūvārātuoji varātu redzēt, ka bolsuošonys suokumā nav nivīna konverta i ka cyti konverti nateik pīvīnuoti, izjamūt tūs, kas ir atbylstūši saskaiteiti i nūdūti vālātuojim.",politics,travel,"SENTENCE:
+ Kūpš 1988. goda bolsuošonys kastem juobyun caurspeideigom, kab vālātuoji i nūvārātuoji varātu redzēt, ka bolsuošonys suokumā nav nivīna konverta i ka cyti konverti nateik pīvīnuoti, izjamūt tūs, kas ir atbylstūši saskaiteiti i nūdūti vālātuojim. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Pagaidu premjerministre Džūlija Gilarda 2010. goda federalūs vieliešonu kampanis laikā apgolvuoja, ka, piec juos dūmu, Australejai juokliust par republiku karalīnis Elizabetis II vaļdeišonys beiguos.",politics,politics,"SENTENCE:
+ Pagaidu premjerministre Džūlija Gilarda 2010. goda federalūs vieliešonu kampanis laikā apgolvuoja, ka, piec juos dūmu, Australejai juokliust par republiku karalīnis Elizabetis II vaļdeišonys beiguos. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+"Īrejis vaļdeiba uzsver parlamenta lykumdūšonys steidzameibu, lai lobuotu situaceju.",politics,politics,"SENTENCE:
+ Īrejis vaļdeiba uzsver parlamenta lykumdūšonys steidzameibu, lai lobuotu situaceju. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+Diplomatiskī streidi par regionu turpynoj maituot Armenejis i Azerbaidžanys attīceibys.,politics,travel,"SENTENCE:
+ Diplomatiskī streidi par regionu turpynoj maituot Armenejis i Azerbaidžanys attīceibys. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Premjerministrs Stīvens Hārpers piec ūtardinis 25 minutu ilguos tikšonuos ar NDP vadeituoju Džeku Leitonu PMO ir pīkrits nūsyuteit vaļdeibys ""Teira gaisa lykumu"" izskateišonai vysu parteju komitejā pyrma ūtruo lasejuma.",politics,politics,"SENTENCE:
+ Premjerministrs Stīvens Hārpers piec ūtardinis 25 minutu ilguos tikšonuos ar NDP vadeituoju Džeku Leitonu PMO ir pīkrits nūsyuteit vaļdeibys ""Teira gaisa lykumu"" izskateišonai vysu parteju komitejā pyrma ūtruo lasejuma. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+"Īprīkšejā mienesī Pūlejā piec tuo, kai vaļsts paraksteja ACTA, nūsarysynuoja leli protesti, kuru rezultatā Pūlejis vaļdeiba pagaidom nūlāmuse itū leigumu naratificēt.",politics,politics,"SENTENCE:
+ Īprīkšejā mienesī Pūlejā piec tuo, kai vaļsts paraksteja ACTA, nūsarysynuoja leli protesti, kuru rezultatā Pūlejis vaļdeiba pagaidom nūlāmuse itū leigumu naratificēt. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+Breidynuojumi ir tikai eiss kūpsavylkums par politiskū situaceju vīnā vaļstī.,politics,travel,"SENTENCE:
+ Breidynuojumi ir tikai eiss kūpsavylkums par politiskū situaceju vīnā vaļstī. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"1976. goda atlasis laikā jis konsultēja Kārteru uorpolitikys vaicuojumūs, vāluok, nu 1977. leidz 1981. godam, beja Nacionaluos drūseibys padūmnīks (NSA), aizstuojūt Henriju Kisindžeru.",politics,politics,"SENTENCE:
+ 1976. goda atlasis laikā jis konsultēja Kārteru uorpolitikys vaicuojumūs, vāluok, nu 1977. leidz 1981. godam, beja Nacionaluos drūseibys padūmnīks (NSA), aizstuojūt Henriju Kisindžeru. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+"Turceja ari puorjims sagiusteitū ISIS kaujinīku apsardzi, kurus, kai saceits paziņuojumā, Eiropys vaļstis ir atsasacejušys repatriēt.",politics,travel,"SENTENCE:
+ Turceja ari puorjims sagiusteitū ISIS kaujinīku apsardzi, kurus, kai saceits paziņuojumā, Eiropys vaļstis ir atsasacejušys repatriēt. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Vystik itī plani nūvacuoja tik vīnys nakts laikā, kod vaira nakai 800 000 Padūmu Savīneibys Sorkonuos armejis karaveiru īguoja i izveiduoja boltkrīvu i ukraiņu froņtis piec Pūlejis austrumu regionu īkaruošonys, puorkuopūt Reigys mīra leigumu, Padūmu-pūļu nauzbrukšonys paktu i cytus storptautiskūs leigumus, kas beja gon divpuseji, gon daudzpuseji.",politics,travel,"SENTENCE:
+ Vystik itī plani nūvacuoja tik vīnys nakts laikā, kod vaira nakai 800 000 Padūmu Savīneibys Sorkonuos armejis karaveiru īguoja i izveiduoja boltkrīvu i ukraiņu froņtis piec Pūlejis austrumu regionu īkaruošonys, puorkuopūt Reigys mīra leigumu, Padūmu-pūļu nauzbrukšonys paktu i cytus storptautiskūs leigumus, kas beja gon divpuseji, gon daudzpuseji. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Piec ituo procesa HJR-3 vēļreiz puorsavērs nuokušais lykumdeviejs 2015. voi 2016. godā, lai turpynuotu dorbu.",politics,politics,"SENTENCE:
+ Piec ituo procesa HJR-3 vēļreiz puorsavērs nuokušais lykumdeviejs 2015. voi 2016. godā, lai turpynuotu dorbu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+"Piec tuos pījimšonys Kongresā 4. julī, ar rūku raksteits projekts, kū paraksteja Kongresa prezidents Džons Henkoks i sekretars Čārlzs Tomsons, tyka aizsyuteits puors kvartalus tuoļuok iz Džona Danlapa tipografeju.",politics,politics,"SENTENCE:
+ Piec tuos pījimšonys Kongresā 4. julī, ar rūku raksteits projekts, kū paraksteja Kongresa prezidents Džons Henkoks i sekretars Čārlzs Tomsons, tyka aizsyuteits puors kvartalus tuoļuok iz Džona Danlapa tipografeju. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+Tiuleņ piec 11:00 stuņdem protestātuoji nūblokēja iz zīmelim vierzūšū satiksmi Vaitholā.,politics,travel,"SENTENCE:
+ Tiuleņ piec 11:00 stuņdem protestātuoji nūblokēja iz zīmelim vierzūšū satiksmi Vaitholā. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Tok 1956. goda junī Hruščova sūlejumi tyka puorbaudeiti, kod namīri Pūlejā, kur struodnīki protestēja pret puortykys tryukumu i olgu samazynuošonu, puorauga vyspuorejā protestā pret komunismu.",politics,travel,"SENTENCE:
+ Tok 1956. goda junī Hruščova sūlejumi tyka puorbaudeiti, kod namīri Pūlejā, kur struodnīki protestēja pret puortykys tryukumu i olgu samazynuošonu, puorauga vyspuorejā protestā pret komunismu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Tys ilga nuokamūs 40 godus, ar pylnvaruotom armejom, tys tykta izceineits nu Afrikys leidz Azejai, Afganistanā, Kubā i daudzuos cytuos vītuos.",politics,travel,"SENTENCE:
+ Tys ilga nuokamūs 40 godus, ar pylnvaruotom armejom, tys tykta izceineits nu Afrikys leidz Azejai, Afganistanā, Kubā i daudzuos cytuos vītuos. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Paguojušā mienesī prezidenta komiseja īsaceja īprīkšejuos Pagaidu vieliešonu padūmis atsakuopšonu kai daļu nu pasuokumu kūpuma, lai vierzeitu vaļsti iz jaunom vieliešonom.",politics,politics,"SENTENCE:
+ Paguojušā mienesī prezidenta komiseja īsaceja īprīkšejuos Pagaidu vieliešonu padūmis atsakuopšonu kai daļu nu pasuokumu kūpuma, lai vierzeitu vaļsti iz jaunom vieliešonom. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+"Cytys apsprīstuos temys, kai ziņuots, īkļaun tūpūšū Jeruzalemis vaļsti, kas ir svāta obom tautom, i Jordanejis īlejis vaicuojumu.",politics,travel,"SENTENCE:
+ Cytys apsprīstuos temys, kai ziņuots, īkļaun tūpūšū Jeruzalemis vaļsti, kas ir svāta obom tautom, i Jordanejis īlejis vaicuojumu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Tam ari nabeja tīseibu ignorēt nūdūkļu lykumus i nūdevys storp štatim.,politics,travel,"SENTENCE:
+ Tam ari nabeja tīseibu ignorēt nūdūkļu lykumus i nūdevys storp štatim. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Francejis vieliešonu lykums vysai styngri kodificej procesu.,politics,travel,"SENTENCE:
+ Francejis vieliešonu lykums vysai styngri kodificej procesu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Piec nedeļu ilgim zaudejumim vydstermiņa vieliešonuos Bušs pastuosteja auditorejai par tierdznīceibys paplašynuošonu Azejā.,politics,N/A,"SENTENCE:
+ Piec nedeļu ilgim zaudejumim vydstermiņa vieliešonuos Bušs pastuosteja auditorejai par tierdznīceibys paplašynuošonu Azejā. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: finance finance</s>"
+"Strategeja izaruodeja efektiva, puortraucūt svareiguos militaruos i civiluos pīguodis, koč ari itei blokade puorkuope vyspuorpījimtuos starptautiskuos tīseibys, kas apkūpuotys vairuokūs pādejū divu godu symtu laikā nūslāgtūs storptautiskūs leigumūs.",politics,travel,"SENTENCE:
+ Strategeja izaruodeja efektiva, puortraucūt svareiguos militaruos i civiluos pīguodis, koč ari itei blokade puorkuope vyspuorpījimtuos starptautiskuos tīseibys, kas apkūpuotys vairuokūs pādejū divu godu symtu laikā nūslāgtūs storptautiskūs leigumūs. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ekonomiskuos saitis storp itom div Moldovys daļom ir atjaunuotys, nasaverūt iz naveiksmem politiskajuos sarunuos.",politics,travel,"SENTENCE:
+ Ekonomiskuos saitis storp itom div Moldovys daļom ir atjaunuotys, nasaverūt iz naveiksmem politiskajuos sarunuos. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Itūs omotpersonu pavadeibā jis Teksasys pylsūnim aplīcynuoja, ka teik veikti pasuokumi, lai aizsorguotu sabīdreibys drūseibu.",politics,travel,"SENTENCE:
+ Itūs omotpersonu pavadeibā jis Teksasys pylsūnim aplīcynuoja, ka teik veikti pasuokumi, lai aizsorguotu sabīdreibys drūseibu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Liberaļu kritika par rekonstrukcejis ceņtīnim ir vārsta iz rekonstrukcejis leiguma pīskieršonu Vašingtonys īkšejuom personom.,politics,travel,"SENTENCE:
+ Liberaļu kritika par rekonstrukcejis ceņtīnim ir vārsta iz rekonstrukcejis leiguma pīskieršonu Vašingtonys īkšejuom personom. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Nu 1400 cylvāku, kas aptaujuoti pyrma 2010. goda federalūs vieliešonu, tūs cylvāku skaits, kuri ībylst par Australejis kliušonu par republiku, kūpš 2008. goda ir pīaudzs par 8 procentim.",politics,sports,"SENTENCE:
+ Nu 1400 cylvāku, kas aptaujuoti pyrma 2010. goda federalūs vieliešonu, tūs cylvāku skaits, kuri ībylst par Australejis kliušonu par republiku, kūpš 2008. goda ir pīaudzs par 8 procentim. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Diplomati saceja, ka jī Afganistanys konstitucejā ir atroduši pīteikūši daudz naskaidreibu, kab ūtrū kuortu atzeitu par navajadzeigu.",politics,travel,"SENTENCE:
+ Diplomati saceja, ka jī Afganistanys konstitucejā ir atroduši pīteikūši daudz naskaidreibu, kab ūtrū kuortu atzeitu par navajadzeigu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Piec rezultatu paziņuošonys Gingrihs izslavēja Santorumu, tok izsaceja borgus vuordus Romnijam, kura vuordā Aiovys štatā pret Gingrihu tyka ruodeitys nagativys kampanis reklamys.",politics,travel,"SENTENCE:
+ Piec rezultatu paziņuošonys Gingrihs izslavēja Santorumu, tok izsaceja borgus vuordus Romnijam, kura vuordā Aiovys štatā pret Gingrihu tyka ruodeitys nagativys kampanis reklamys. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Tei ir Marteleja pīktuo Pagaidu vieliešonu padūme četru godu laikā.,politics,travel,"SENTENCE:
+ Tei ir Marteleja pīktuo Pagaidu vieliešonu padūme četru godu laikā. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Olimpiskūs spieļu zalta medaļnīkam Sadraudzeibys spēlēs beja juopeļd 100 i 200 m breivajā stylā i treis stafetēs, tok juo syudzeibu deļ juo fiziskuo sagataveiteiba ir radejuse švuorbys.",sports,sports,"SENTENCE:
+ Olimpiskūs spieļu zalta medaļnīkam Sadraudzeibys spēlēs beja juopeļd 100 i 200 m breivajā stylā i treis stafetēs, tok juo syudzeibu deļ juo fiziskuo sagataveiteiba ir radejuse švuorbys. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Taipat kai bejušais olimpiskais i pasauļa čempions, Saito smierts šaļtī beja Vysys Japanys džudo federacejis apvuiceibu komitejis prīšksādātuojs.",sports,sports,"SENTENCE:
+ Taipat kai bejušais olimpiskais i pasauļa čempions, Saito smierts šaļtī beja Vysys Japanys džudo federacejis apvuiceibu komitejis prīšksādātuojs. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Storptautiskuo Olimpiskuo komiteja šudiņ Berlinē nūtykušajā sēdē nūbolsuoja par sporta veidu īkļaušonu. Regbejs, eipaši regbeja savīneiba, i golfs tyka izalaseiti nu pīcu cytu sporta veidu, kas varātu pīsadaleit olimpiskajuos spēlēs.",sports,sports,"SENTENCE:
+ Storptautiskuo Olimpiskuo komiteja šudiņ Berlinē nūtykušajā sēdē nūbolsuoja par sporta veidu īkļaušonu. Regbejs, eipaši regbeja savīneiba, i golfs tyka izalaseiti nu pīcu cytu sporta veidu, kas varātu pīsadaleit olimpiskajuos spēlēs. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Goda leluokais turnirs nūteik decembrī Las Canitas polo laukumūs.,sports,sports,"SENTENCE:
+ Goda leluokais turnirs nūteik decembrī Las Canitas polo laukumūs. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Kūpš puorsaceļšonys iz Katalonejis golvyspiļsātu Vidals klubā ir aizvadejs 49 spēlis.,sports,sports,"SENTENCE:
+ Kūpš puorsaceļšonys iz Katalonejis golvyspiļsātu Vidals klubā ir aizvadejs 49 spēlis. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Veseleiga kermiņa energejis balansa uzturiešona, efektivi hidracejis paradumi i izpratne par dažaidym uztura boguotynuotuojim var paleidzēt atletim uzlobuot sovu snāgumu i palelynuot jūs sportuošonys prīku.",sports,sports,"SENTENCE:
+ Veseleiga kermiņa energejis balansa uzturiešona, efektivi hidracejis paradumi i izpratne par dažaidym uztura boguotynuotuojim var paleidzēt atletim uzlobuot sovu snāgumu i palelynuot jūs sportuošonys prīku. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Trešais ir Hamlins, kas atpalīk par divdesmit punktim, bet par pīcim apsteidz Bujeru. Kāne i Truekss jaunuokais ir pīktais i sastais ar attīceigi 2220 i 2207 punktim.",sports,sports,"SENTENCE:
+ Trešais ir Hamlins, kas atpalīk par divdesmit punktim, bet par pīcim apsteidz Bujeru. Kāne i Truekss jaunuokais ir pīktais i sastais ar attīceigi 2220 i 2207 punktim. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Nadala i kanadīša vuortu bilance ir 7-2.,sports,sports,"SENTENCE:
+ Nadala i kanadīša vuortu bilance ir 7-2. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Dīnys suokumā Žarks trenējuos pyrma sezonys treneņā Koverčano Italejā. Jis palyka komandys vīsneicā pyrma svātdiņ planavuotuos spēlis pret Boloniju.,sports,travel,"SENTENCE:
+ Dīnys suokumā Žarks trenējuos pyrma sezonys treneņā Koverčano Italejā. Jis palyka komandys vīsneicā pyrma svātdiņ planavuotuos spēlis pret Boloniju. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Bažys par transporta tryukumu radeja īspieju, ka spēli vajadzēs pīspīdu kuortā pavadeit aiz slāgtu durovu bez komandys atbaļsteituoju.",sports,travel,"SENTENCE:
+ Bažys par transporta tryukumu radeja īspieju, ka spēli vajadzēs pīspīdu kuortā pavadeit aiz slāgtu durovu bez komandys atbaļsteituoju. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Tomijs Drīmers saceja: ""Luna beja pyrmuo ekstrēma karalīne. Muna pyrmuo menedžere. Luna nūmyra div mienešu naktī. Dīzgon unikalā, taipat kai jei. Spieceiga sīvīte.""",sports,science/technology,"SENTENCE:
+ Tomijs Drīmers saceja: ""Luna beja pyrmuo ekstrēma karalīne. Muna pyrmuo menedžere. Luna nūmyra div mienešu naktī. Dīzgon unikalā, taipat kai jei. Spieceiga sīvīte."" 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+Pūlejis vuojredzeigūs sliepuotuojs Macejs Krezels i gide Anna Ogaržinska Super G disciplinā finišēja treispadsmytī. Dīnvydkorejis sliepuotuojs Jongs Seorks Parks Super G disciplinā ījēme divdesmit catūrtū vītu veirīšu storpā.,sports,sports,"SENTENCE:
+ Pūlejis vuojredzeigūs sliepuotuojs Macejs Krezels i gide Anna Ogaržinska Super G disciplinā finišēja treispadsmytī. Dīnvydkorejis sliepuotuojs Jongs Seorks Parks Super G disciplinā ījēme divdesmit catūrtū vītu veirīšu storpā. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Kab izzynuotu jaunumus par turnirim i tū, kur nūpierkt biletis, meklejit ""Argentina de Polo"" asociaceju.",sports,sports,"SENTENCE:
+ Kab izzynuotu jaunumus par turnirim i tū, kur nūpierkt biletis, meklejit ""Argentina de Polo"" asociaceju. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Spēlis suocēs 10 stuņdēs nu reita ar breineigu laiku, naskaitūt reita smolkū leiteņu, kas mudri nūsaskaidruoja, tei beja ideala dīna regbijam-7.",sports,travel,"SENTENCE:
+ Spēlis suocēs 10 stuņdēs nu reita ar breineigu laiku, naskaitūt reita smolkū leiteņu, kas mudri nūsaskaidruoja, tei beja ideala dīna regbijam-7. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Arlijs Velaskess nu Meksikys Super G disciplinā finišēja pīcpadsmytajā vītā veirīšu storpā. Jaunzelandīts Ādams Hols Super G disciplinā īsarynduoja deveitajā vītā veirīšu storpā.,sports,sports,"SENTENCE:
+ Arlijs Velaskess nu Meksikys Super G disciplinā finišēja pīcpadsmytajā vītā veirīšu storpā. Jaunzelandīts Ādams Hols Super G disciplinā īsarynduoja deveitajā vītā veirīšu storpā. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Serejis finala mačs nūtiks nuokušajā nedeļā Elisa parkā Johanesburgā, kod ""Springboks"" spēlēs ar Australeju.",sports,sports,"SENTENCE:
+ Serejis finala mačs nūtiks nuokušajā nedeļā Elisa parkā Johanesburgā, kod ""Springboks"" spēlēs ar Australeju. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Lobūs apstuokļūs varēsit pīveikt nadaudz leluokus attuolumus, nakai īmūt – tok tikai cīši reši jums izadūs sasnīgt distanču sliepuošonys uotrumu bez mugorsūmys kūptuos trasēs.",sports,travel,"SENTENCE:
+ Lobūs apstuokļūs varēsit pīveikt nadaudz leluokus attuolumus, nakai īmūt – tok tikai cīši reši jums izadūs sasnīgt distanču sliepuošonys uotrumu bez mugorsūmys kūptuos trasēs. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Džonsons ar 2243 punktim ir ūtrais, atpalīkūt par septenim punktim.",sports,sports,"SENTENCE:
+ Džonsons ar 2243 punktim ir ūtrais, atpalīkūt par septenim punktim. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Kanjoniešona ir dūšonuos kanjona dybynā, kas ir sauss voi pylns ar iudini.",sports,travel,"SENTENCE:
+ Kanjoniešona ir dūšonuos kanjona dybynā, kas ir sauss voi pylns ar iudini. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Robins Jutapa dabuoja 70 sitīņus tikai ar 41 bumbu, truopūt 11 četrinīkus i 2 sešinīkus.",sports,sports,"SENTENCE:
+ Robins Jutapa dabuoja 70 sitīņus tikai ar 41 bumbu, truopūt 11 četrinīkus i 2 sešinīkus. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Zīmys sporta veidi ir popularuoki zīmeļu regionūs, itali sasaceņš storptautyskuos spēlēs i olimpiskūs pasuokumūs.",sports,sports,"SENTENCE:
+ Zīmys sporta veidi ir popularuoki zīmeļu regionūs, itali sasaceņš storptautyskuos spēlēs i olimpiskūs pasuokumūs. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Maručijdora beja finišiejuse tabulys augšgolā, par sešim punktim atpalīkūt Nosai, kas beja ūtrajā vītā.",sports,sports,"SENTENCE:
+ Maručijdora beja finišiejuse tabulys augšgolā, par sešim punktim atpalīkūt Nosai, kas beja ūtrajā vītā. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Mihaels Šumahers saceikstis beidze nailgi piec Alonso, deļtam ka daudzūs saceikšu laikā tyka būjuota bolsta īkuorta.",sports,sports,"SENTENCE:
+ Mihaels Šumahers saceikstis beidze nailgi piec Alonso, deļtam ka daudzūs saceikšu laikā tyka būjuota bolsta īkuorta. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Tikai pareiza uztura prakse navar radeit elites snāgumu, tok tys var īvāruojami ītekmēt jaunu atlētu vyspuorejū labsajūtu.",sports,travel,"SENTENCE:
+ Tikai pareiza uztura prakse navar radeit elites snāgumu, tok tys var īvāruojami ītekmēt jaunu atlētu vyspuorejū labsajūtu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Jis nav variejs lītuot zuolis, kas vajadzeigys, lai varātu puorvarēt suopis, deļtam ka tuos ir aizlīgtys spēlēs.",sports,travel,"SENTENCE:
+ Jis nav variejs lītuot zuolis, kas vajadzeigys, lai varātu puorvarēt suopis, deļtam ka tuos ir aizlīgtys spēlēs. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Pietejumi ir atkluojuši, ka sīvītem ir divys reizys leluoka īspieja saslimt ar MS nakai veirīšim.",health,sports,"SENTENCE:
+ Pietejumi ir atkluojuši, ka sīvītem ir divys reizys leluoka īspieja saslimt ar MS nakai veirīšim. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Nalegalī alkoholiskī dzierīni var saturēt dažaidus beistamus pīmaisejumus, īskaitūt metanolu, kas pat naleluos devuos var izraiseit oklumu voi smierti.",health,travel,"SENTENCE:
+ Nalegalī alkoholiskī dzierīni var saturēt dažaidus beistamus pīmaisejumus, īskaitūt metanolu, kas pat naleluos devuos var izraiseit oklumu voi smierti. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Tikai katastrofizes efekts, na depresejis i baiļu, beja atkareigs nu regularom i strukturētom PA sesejom.",health,sports,"SENTENCE:
+ Tikai katastrofizes efekts, na depresejis i baiļu, beja atkareigs nu regularom i strukturētom PA sesejom. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Masveideigs automašynu skaits izraisa ari leluoku nagadejumu skaitu iz celim, kas nūvad pi jaunys tehnikys izgudruošonys veseleibys apryupē cītušūs atlobšonai.",health,travel,"SENTENCE:
+ Masveideigs automašynu skaits izraisa ari leluoku nagadejumu skaitu iz celim, kas nūvad pi jaunys tehnikys izgudruošonys veseleibys apryupē cītušūs atlobšonai. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Vodūšī pietnīki soka, ka tys var veicynuot agrinu vieža, tuberkolozis, HIV i malarejis atkluošonu pacientim vaļstīs ar zamim īnuokumim, kur izdzeivuošonys ruodeituoji taidu slimeibu gadīņūs kai kryuts viezs var byut iz pusi zamuoki nakai tureiguos vaļstīs.",health,health,"SENTENCE:
+ Vodūšī pietnīki soka, ka tys var veicynuot agrinu vieža, tuberkolozis, HIV i malarejis atkluošonu pacientim vaļstīs ar zamim īnuokumim, kur izdzeivuošonys ruodeituoji taidu slimeibu gadīņūs kai kryuts viezs var byut iz pusi zamuoki nakai tureiguos vaļstīs. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: health</s>"
+"Dr. Ehuds Urs Dalhausijis Universitatis profesors Halifaksā Jaunskotejā i Kanadys Diabeta asociacejis kliniskuos i zynuotniskuos nūdalis prīkšsādātuojs breidynoj, ka pietejumi arviņ ir pošā suokumā.",health,health,"SENTENCE:
+ Dr. Ehuds Urs Dalhausijis Universitatis profesors Halifaksā Jaunskotejā i Kanadys Diabeta asociacejis kliniskuos i zynuotniskuos nūdalis prīkšsādātuojs breidynoj, ka pietejumi arviņ ir pošā suokumā. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: health</s>"
+"Taidi bārni parostai tīk daudzuos napatikšonuos, deļtam ka ""jī īsasaista riskantā uzvedeibā, ceineņūs i izaicynoj autoritati"", kab stimulātu sovus smedziņus, partū ka jūs smedziņus navar stimulēt parostūs veidūs.",health,travel,"SENTENCE:
+ Taidi bārni parostai tīk daudzuos napatikšonuos, deļtam ka ""jī īsasaista riskantā uzvedeibā, ceineņūs i izaicynoj autoritati"", kab stimulātu sovus smedziņus, partū ka jūs smedziņus navar stimulēt parostūs veidūs. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Cylvākus var skart ītekmātais iudiņs, kū gaisā puornosoj viejs i viļni.",health,travel,"SENTENCE:
+ Cylvākus var skart ītekmātais iudiņs, kū gaisā puornosoj viejs i viļni. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Daži cylvāki skaita, ka daudzu muoksleigi radeitu, gaišu sapynu pīdzeivuošona pīteikami bīži var byut cīši nūgurdynūša.",health,travel,"SENTENCE:
+ Daži cylvāki skaita, ka daudzu muoksleigi radeitu, gaišu sapynu pīdzeivuošona pīteikami bīži var byut cīši nūgurdynūša. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Potro itamā šaļtī uorstēja placu, tok jam izadeve atsagrīzt spēlē.",health,sports,"SENTENCE:
+ Potro itamā šaļtī uorstēja placu, tok jam izadeve atsagrīzt spēlē. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Turkluot ka tys nateik dareits, ir nūpītnys sakys: nūmuokta augšona, napīteikams uzturs i golu golā smierts.",health,travel,"SENTENCE:
+ Turkluot ka tys nateik dareits, ir nūpītnys sakys: nūmuokta augšona, napīteikams uzturs i golu golā smierts. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Amsterdamys piļsātys i Annys Frankys muzeja puorstuovi apgolvoj, ka kūks ir inficāts ar sieneiti i roda draudus sabīdreibys veseleibai, jī tū pamatoj ar nanūvieršomu kūka nūkrisšonys  risku.",health,travel,"SENTENCE:
+ Amsterdamys piļsātys i Annys Frankys muzeja puorstuovi apgolvoj, ka kūks ir inficāts ar sieneiti i roda draudus sabīdreibys veseleibai, jī tū pamatoj ar nanūvieršomu kūka nūkrisšonys  risku. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Slimineicā ir īvāruots infekcejis kontrolis protokols, tuotymā skaitā ari pacienta atdaleišona nu cytu, lai nūvārstu īspiejamu cytu inficiešonūs.",health,health,"SENTENCE:
+ Slimineicā ir īvāruots infekcejis kontrolis protokols, tuotymā skaitā ari pacienta atdaleišona nu cytu, lai nūvārstu īspiejamu cytu inficiešonūs. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: health</s>"
+"Haiti Taisneiguma i Demokratejis instituts ir atsasaucs iz naatkareigim pietejumim, kas līcynoj, ka Nepalys ANO mīra uzturiešonys bataljons naapzynuoti ir atness itū slimeibu iz Haiti.",health,travel,"SENTENCE:
+ Haiti Taisneiguma i Demokratejis instituts ir atsasaucs iz naatkareigim pietejumim, kas līcynoj, ka Nepalys ANO mīra uzturiešonys bataljons naapzynuoti ir atness itū slimeibu iz Haiti. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Pošys infekcejis slimeibys voi beistamī dzeivinīki, kas var savaiņuot voi nūgalynuot cylvākus, parosti nav klasificejami kai kaitiekli.",health,travel,"SENTENCE:
+ Pošys infekcejis slimeibys voi beistamī dzeivinīki, kas var savaiņuot voi nūgalynuot cylvākus, parosti nav klasificejami kai kaitiekli. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Bārnim ar UDS ir gryuts koncentrētīs iz taidom lītom kai školys dorbs, tok jī var koncentrētīs iz lītom, kurys jim pateik dareit, pīmāram, spēlēt spēlis, vērtīs meiluokuos multfilmys voi raksteit teikumus bez pīturzeimu.",health,sports,"SENTENCE:
+ Bārnim ar UDS ir gryuts koncentrētīs iz taidom lītom kai školys dorbs, tok jī var koncentrētīs iz lītom, kurys jim pateik dareit, pīmāram, spēlēt spēlis, vērtīs meiluokuos multfilmys voi raksteit teikumus bez pīturzeimu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Vīna goda laikā inficāta persona var inficēt 10 leidz 15 tyvus kontaktus.,health,health,"SENTENCE:
+ Vīna goda laikā inficāta persona var inficēt 10 leidz 15 tyvus kontaktus. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: health</s>"
+"Kod kaujis beidzēs, piec īvainuotūs nūguoduošonys slimineicā apmāram 40 nu puorejūs īslūdzeitūs palyka pogolmā i atsasaceja atsagrīzt sovuos kameruos.",health,travel,"SENTENCE:
+ Kod kaujis beidzēs, piec īvainuotūs nūguoduošonys slimineicā apmāram 40 nu puorejūs īslūdzeitūs palyka pogolmā i atsasaceja atsagrīzt sovuos kameruos. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Uorstus suoce olguot imperators Augusts i pat izveiduoja pyrmū rūmīšu medicinys korpusu, kū izmontuoja kauju saku likvidiešonai.",health,travel,"SENTENCE:
+ Uorstus suoce olguot imperators Augusts i pat izveiduoja pyrmū rūmīšu medicinys korpusu, kū izmontuoja kauju saku likvidiešonai. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Tok šoferam beja nūpītnys golvys traumys.,health,sports,"SENTENCE:
+ Tok šoferam beja nūpītnys golvys traumys. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"""Mums ir četrus mienešus vaca pele, kam niu nav, tok kuodreiz beja diabets,"" jis pībylda.",health,sports,"SENTENCE:
+ ""Mums ir četrus mienešus vaca pele, kam niu nav, tok kuodreiz beja diabets,"" jis pībylda. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Īkšejuo saiņdiešonuos var nabyut pamonama izraizis. Simptomi, pīmāram, vemšona, ir pīteikami vyspuoreigi, deļtam nav īspejams izraizis nūteikt diagnozi.",health,travel,"SENTENCE:
+ Īkšejuo saiņdiešonuos var nabyut pamonama izraizis. Simptomi, pīmāram, vemšona, ir pīteikami vyspuoreigi, deļtam nav īspejams izraizis nūteikt diagnozi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Rezultatā izpiļdeituoji peipej kanapu smieķus iz skotivis, i pats teatris mudynoj skateituojus pīsavīnuot.",entertainment,sports,"SENTENCE:
+ Rezultatā izpiļdeituoji peipej kanapu smieķus iz skotivis, i pats teatris mudynoj skateituojus pīsavīnuot. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"""Aerosmith"" ir atcāluši atlykušūs koncertus sovā turnejā.",entertainment,entertainment,"SENTENCE:
+ ""Aerosmith"" ir atcāluši atlykušūs koncertus sovā turnejā. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Ka gribit byut tyvu darbeibai, jums byus juoīsarūn agri, kab dabuotu kempinga vītu tyvu muzykai.",entertainment,sports,"SENTENCE:
+ Ka gribit byut tyvu darbeibai, jums byus juoīsarūn agri, kab dabuotu kempinga vītu tyvu muzykai. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Ir daudz dažaidu kinu formatu, kas izmontuoti godu gaitā. Standarta 35 mm kina (36x24 mm negativs) ir vysizplateituokuo.",entertainment,travel,"SENTENCE:
+ Ir daudz dažaidu kinu formatu, kas izmontuoti godu gaitā. Standarta 35 mm kina (36x24 mm negativs) ir vysizplateituokuo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Koč ari tei ir izplateita aktivitate, Disnejs tū aizlīdz: biletis navar nūdūt tuoluok.",entertainment,travel,"SENTENCE:
+ Koč ari tei ir izplateita aktivitate, Disnejs tū aizlīdz: biletis navar nūdūt tuoluok. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Kotra šova epizode koncentrējuos iz tematu nu kaidys specifiskys gruomotys i vāluok pieteja itū tematu vairuokuos serejuos.,entertainment,travel,"SENTENCE:
+ Kotra šova epizode koncentrējuos iz tematu nu kaidys specifiskys gruomotys i vāluok pieteja itū tematu vairuokuos serejuos. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Dažaiduos vītuos Rūmā tyka pastateiti leli televizejis ekrani, kab cylvāki varātu vāruot ceremoneju.",entertainment,sports,"SENTENCE:
+ Dažaiduos vītuos Rūmā tyka pastateiti leli televizejis ekrani, kab cylvāki varātu vāruot ceremoneju. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Sofokls i Aristofans vys vēļ ir populari dramaturgi, i jūs lugys teik skaiteitys par vīnim nu izcyluokūs pasauļa literaturys dorbu.",entertainment,entertainment,"SENTENCE:
+ Sofokls i Aristofans vys vēļ ir populari dramaturgi, i jūs lugys teik skaiteitys par vīnim nu izcyluokūs pasauļa literaturys dorbu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Kotrā epizodē tyka snāgti ari tūs gruomotu īsacejumi, kurys bārnim byutu juopameklej, kod jī dūsīs iz biblioteku.",entertainment,travel,"SENTENCE:
+ Kotrā epizodē tyka snāgti ari tūs gruomotu īsacejumi, kurys bārnim byutu juopameklej, kod jī dūsīs iz biblioteku. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Akordeonam, kab dabuotu leluoku skaļumu, juoizmontoj pliešys ar leluoku spīdīni voi skaļumu.",entertainment,sports,"SENTENCE:
+ Akordeonam, kab dabuotu leluoku skaļumu, juoizmontoj pliešys ar leluoku spīdīni voi skaļumu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Jius varit redzēt piramidys tymsā, i jius varit tuos redzēt klusumā pyrma šovs suocīs.",entertainment,travel,"SENTENCE:
+ Jius varit redzēt piramidys tymsā, i jius varit tuos redzēt klusumā pyrma šovs suocīs. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Konkretā vītā veiktū darbeibu pīmāri īkļaun medeibys, zveju, fotografiešonu, putynu vāruošonu, parku apmekliešonu i informacejis izpieti par ekosistemu.",entertainment,travel,"SENTENCE:
+ Konkretā vītā veiktū darbeibu pīmāri īkļaun medeibys, zveju, fotografiešonu, putynu vāruošonu, parku apmekliešonu i informacejis izpieti par ekosistemu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Sfinksa ir garuo stuosta fons i stuosteituoja.,entertainment,travel,"SENTENCE:
+ Sfinksa ir garuo stuosta fons i stuosteituoja. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Jim parosti ir eipaši iedīņu, dzierīņu i izklaidis pīduovuojumi, kab uzturātu gostus lobā nūskaņuojumā i turātu jūs telpā.",entertainment,travel,"SENTENCE:
+ Jim parosti ir eipaši iedīņu, dzierīņu i izklaidis pīduovuojumi, kab uzturātu gostus lobā nūskaņuojumā i turātu jūs telpā. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Globaluo organizaceja jau snādz ziņuojumus angļu i japaņu volūdā, tei izlaiž spāņu, itāļu i korejīšu volūdys programys televizejai, škārsteiklam i mobilajom īreicem.",entertainment,sports,"SENTENCE:
+ Globaluo organizaceja jau snādz ziņuojumus angļu i japaņu volūdā, tei izlaiž spāņu, itāļu i korejīšu volūdys programys televizejai, škārsteiklam i mobilajom īreicem. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Pyrma ""Simpsonim"" Saimons beja struoduojs vairuokūs šovūs vysaidūs omotūs.",entertainment,travel,"SENTENCE:
+ Pyrma ""Simpsonim"" Saimons beja struoduojs vairuokūs šovūs vysaidūs omotūs. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Tys ļaus spālātuojim kontrolēt darbeibys i kusteibys videospēlēs, puorvītojūt īreici pa gaisu.",entertainment,entertainment,"SENTENCE:
+ Tys ļaus spālātuojim kontrolēt darbeibys i kusteibys videospēlēs, puorvītojūt īreici pa gaisu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Pasuokumā beja īsaroduši vysmoz 100 cylvāki, lai nūsvynātu pyrmū godadīnu kaidam puoram, kuru kuozys nūtyka paguojušā godā.",entertainment,travel,"SENTENCE:
+ Pasuokumā beja īsaroduši vysmoz 100 cylvāki, lai nūsvynātu pyrmū godadīnu kaidam puoram, kuru kuozys nūtyka paguojušā godā. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Divys kinys dzīsmis ""Nūsaklausiešona"" (""Duraki, kuri sapņoj"") i ""Zvaigžņu piļsāta"" sajēme nominacejis kai lobuokuos originaluos dzīsmis. Lionstage studeja sajēme 26 nominacejis —  vaira nakai sevkura cyta studeja.",entertainment,entertainment,"SENTENCE:
+ Divys kinys dzīsmis ""Nūsaklausiešona"" (""Duraki, kuri sapņoj"") i ""Zvaigžņu piļsāta"" sajēme nominacejis kai lobuokuos originaluos dzīsmis. Lionstage studeja sajēme 26 nominacejis —  vaira nakai sevkura cyta studeja. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Tyvuokajā pusē gorūza ir apmāram 70 km bīza i 100 km bīza tuoluokajā pusē.,geography,travel,"SENTENCE:
+ Tyvuokajā pusē gorūza ir apmāram 70 km bīza i 100 km bīza tuoluokajā pusē. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Tuluok iz dīnvydim atsarūn Niagarys iudiņskrytums, a zīmeļūs Muskokys i cytas dobys naatkluotais skaistums.",geography,travel,"SENTENCE:
+ Tuluok iz dīnvydim atsarūn Niagarys iudiņskrytums, a zīmeļūs Muskokys i cytas dobys naatkluotais skaistums. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Elsvortys zeme ir regions iz dīnvydu nu pussolys, kū īrūbežoj Belingshauzena jiura.",geography,travel,"SENTENCE:
+ Elsvortys zeme ir regions iz dīnvydu nu pussolys, kū īrūbežoj Belingshauzena jiura. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Dīnvydpola traversa (voi šoseja) ir 1600 km gara taka nu Makmerdo stacejis pi Rosys jiurys leidz polam.,geography,travel,"SENTENCE:
+ Dīnvydpola traversa (voi šoseja) ir 1600 km gara taka nu Makmerdo stacejis pi Rosys jiurys leidz polam. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Itys stuovais kolns, kas bīži ir daudzu drupu fotoattālu fons, pasaceļ viers Maču Pikču zīmeļu gola.",geography,travel,"SENTENCE:
+ Itys stuovais kolns, kas bīži ir daudzu drupu fotoattālu fons, pasaceļ viers Maču Pikču zīmeļu gola. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Encelads ir vysvaira atstorojūšais objekts Saulis sistemā, kas atstoroj apmāram 90 procentu nu saulis gaismys, kas tū skar.",geography,science/technology,"SENTENCE:
+ Encelads ir vysvaira atstorojūšais objekts Saulis sistemā, kas atstoroj apmāram 90 procentu nu saulis gaismys, kas tū skar. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+"Nikū cytu navar redzēt, viņ skaidrus, šmukus dabasus augšā i daudzus apleicejūs kolnus. Olys īškpusē var redzēt i dzierdēt pavysam moz nu ituo pasauļa.",geography,travel,"SENTENCE:
+ Nikū cytu navar redzēt, viņ skaidrus, šmukus dabasus augšā i daudzus apleicejūs kolnus. Olys īškpusē var redzēt i dzierdēt pavysam moz nu ituo pasauļa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Niu par Japanu. Japana beja solu vaļsts, taipat kai Lelbritaneja.",geography,travel,"SENTENCE:
+ Niu par Japanu. Japana beja solu vaļsts, taipat kai Lelbritaneja. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Sovā leluokajā styprumā tropiskais ciklons Gonu, kas nūsaukts kai palmu lopu maiss Maldivu volūdā, sasnēdze ilgstūšu vieja uotrumu 240 kilometri stuņdē (149 jiudzis stuņdē).",geography,travel,"SENTENCE:
+ Sovā leluokajā styprumā tropiskais ciklons Gonu, kas nūsaukts kai palmu lopu maiss Maldivu volūdā, sasnēdze ilgstūšu vieja uotrumu 240 kilometri stuņdē (149 jiudzis stuņdē). 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Turcejis plateiba, īskaitūt azarus, aizjam 783 562 kvadratkilometrus (300 948 kvadratjiudzis), nu kurūs 755 688 kvadratkilometri (291 773 kvadratjiudzis) atsarūn Āzejis dīnvydrītumūs i 23 764 kvadratkilometri (9174 kvadratjiudzis) Eiropā.",geography,travel,"SENTENCE:
+ Turcejis plateiba, īskaitūt azarus, aizjam 783 562 kvadratkilometrus (300 948 kvadratjiudzis), nu kurūs 755 688 kvadratkilometri (291 773 kvadratjiudzis) atsarūn Āzejis dīnvydrītumūs i 23 764 kvadratkilometri (9174 kvadratjiudzis) Eiropā. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Iz Dīnvydšetlendys solom, kas tyka atkluotys 1819. godā, preteņdej vairuokys vaļsts, i tom ir vysvaira bazu – 2020. godā ir aktivys sešpadsmit.",geography,travel,"SENTENCE:
+ Iz Dīnvydšetlendys solom, kas tyka atkluotys 1819. godā, preteņdej vairuokys vaļsts, i tom ir vysvaira bazu – 2020. godā ir aktivys sešpadsmit. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Apija ir Samoa golvyspiļsāta. Piļsāta atsarūn Upolu solā, i tamā dzeivoj nadaudz mozuok par 40 000 dzeivuotuoju.",geography,travel,"SENTENCE:
+ Apija ir Samoa golvyspiļsāta. Piļsāta atsarūn Upolu solā, i tamā dzeivoj nadaudz mozuok par 40 000 dzeivuotuoju. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Tai kai vātra ir tuoli nu pīkrastis, vys vēļ ir gryuši nūviertēt īspiejamū ītekmi iz ASV vai Kareibu jiurys regionu.",geography,travel,"SENTENCE:
+ Tai kai vātra ir tuoli nu pīkrastis, vys vēļ ir gryuši nūviertēt īspiejamū ītekmi iz ASV vai Kareibu jiurys regionu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Tei ir pluonuoka zam mieneša jiurom i bīzuoka zam augstīnem.,geography,travel,"SENTENCE:
+ Tei ir pluonuoka zam mieneša jiurom i bīzuoka zam augstīnem. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Tok meži nav tikai mangrovu pūri — tymūs ir dažys nu pādejūs varonūs džungļu audžu, kurys kuodreiz puorkluoja Gangetikys leidzonumu.",geography,travel,"SENTENCE:
+ Tok meži nav tikai mangrovu pūri — tymūs ir dažys nu pādejūs varonūs džungļu audžu, kurys kuodreiz puorkluoja Gangetikys leidzonumu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Amerikys Savīnuotūs Vaļstu Geologiskuo dīnasta zemistreiču karte paruodeja, ka Islandē īprīškejā nedeļā nav bejušys zemistreicis.",geography,travel,"SENTENCE:
+ Amerikys Savīnuotūs Vaļstu Geologiskuo dīnasta zemistreiču karte paruodeja, ka Islandē īprīškejā nedeļā nav bejušys zemistreicis. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Atsarūnūt vīnā nu kolnu iz zīmelim nu Mekys, ola ir piļneigi izolāta nu puorejuo pasauļa.",geography,travel,"SENTENCE:
+ Atsarūnūt vīnā nu kolnu iz zīmelim nu Mekys, ola ir piļneigi izolāta nu puorejuo pasauļa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
