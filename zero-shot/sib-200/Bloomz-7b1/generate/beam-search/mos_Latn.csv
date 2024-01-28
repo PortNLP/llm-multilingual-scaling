@@ -1,0 +1,2449 @@
+text,actual_category,predicted_category,generated_text
+"Toeenga paasda tekre zɛn paalga, la bõn-buud tũusg yãkda yẽ gẽne tekre nega sẽn n puka sʋka.",science/technology,travel,"SENTENCE:
+ Toeenga paasda tekre zɛn paalga, la bõn-buud tũusg yãkda yẽ gẽne tekre nega sẽn n puka sʋka. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Bon pousdi ninda oub sen boond ti bomba na toumé rilamin ti walém zindi sen nan gnong a bilan ne proton ramb la nétron ramban.,science/technology,science/technology,"SENTENCE:
+ Bon pousdi ninda oub sen boond ti bomba na toumé rilamin ti walém zindi sen nan gnong a bilan ne proton ramb la nétron ramban. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+Tẽn-sʋk soaba tara makra yiibu neutron la potron.,science/technology,travel,"SENTENCE:
+ Tẽn-sʋk soaba tara makra yiibu neutron la potron. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Woto kitame ti wõng-n-getgã tõẽ n yõg fot sõmse wa getg ning sẽn pa wõondã.,science/technology,travel,"SENTENCE:
+ Woto kitame ti wõng-n-getgã tõẽ n yõg fot sõmse wa getg ning sẽn pa wõondã. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"A pãnga yĩida neta proxi dãmba sabaab wʋsg yinga: ub tõe kee internet zĩisa fãa pʋgen, ka http yen-yen ye.",science/technology,travel,"SENTENCE:
+ A pãnga yĩida neta proxi dãmba sabaab wʋsg yinga: ub tõe kee internet zĩisa fãa pʋgen, ka http yen-yen ye. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Bũmb ning y sẽn n saagd n nan n maane segdame ti y gẽsg la wʋm-taab sẽn n kẽed ne media rãmba maaneg zãmsg la tags tireg zĩndi.,science/technology,travel,"SENTENCE:
+ Bũmb ning y sẽn n saagd n nan n maane segdame ti y gẽsg la wʋm-taab sẽn n kẽed ne media rãmba maaneg zãmsg la tags tireg zĩndi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Yẽ lebga minugn g mõsa la bãnga rɩka ruum wʋsg teda rot karess sẽn da maand ne raadã.,science/technology,travel,"SENTENCE:
+ Yẽ lebga minugn g mõsa la bãnga rɩka ruum wʋsg teda rot karess sẽn da maand ne raadã. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+B sullã pʋgẽ yaa bõn-yẽ raad a tãabo la yãams sẽn ta pistã la bõn-yẽ-bõnese.,science/technology,travel,"SENTENCE:
+ B sullã pʋgẽ yaa bõn-yẽ raad a tãabo la yãams sẽn ta pistã la bõn-yẽ-bõnese. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Baa masin damb sin tagsd tib boond ti Intelizens agtifisiela san wenlg ziri, intelizens agtifisiela ya masin damb bangr wil sen ngiet non kiendr, zamsug wal masindamb bangr rikre.",science/technology,travel,"SENTENCE:
+ Baa masin damb sin tagsd tib boond ti Intelizens agtifisiela san wenlg ziri, intelizens agtifisiela ya masin damb bangr wil sen ngiet non kiendr, zamsug wal masindamb bangr rikre. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+B yeelame ti Ratio wenegã yaasrã (b pui la zĩis piig la yiibu n yaool n nan n paam ratio wã sõorã fãaa) yaa 3:2.,science/technology,entertainment,"SENTENCE:
+ B yeelame ti Ratio wenegã yaasrã (b pui la zĩis piig la yiibu n yaool n nan n paam ratio wã sõorã fãaa) yaa 3:2. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Tẽn-bobelle telephone wakat laning yaa nuga telphone da toemdo, n le paasde fo saomb yĩi yinga n bao zĩi laning n tar reso n tʋgd tẽn-bobelle yaole n toog n goam ni ned ni telephone.",science/technology,travel,"SENTENCE:
+ Tẽn-bobelle telephone wakat laning yaa nuga telphone da toemdo, n le paasde fo saomb yĩi yinga n bao zĩi laning n tar reso n tʋgd tẽn-bobelle yaole n toog n goam ni ned ni telephone. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Hall ne teeda roog sẽn da mand ne ra-pag sẽn da tõng taaba b ra sõnda wed-moosa tɩ-b mii wʋk teed wʋsg n kẽnd ne yãngdem pʋgẽ, soɛy sẽn mii da yaa bogd pʋga.",science/technology,travel,"SENTENCE:
+ Hall ne teeda roog sẽn da mand ne ra-pag sẽn da tõng taaba b ra sõnda wed-moosa tɩ-b mii wʋk teed wʋsg n kẽnd ne yãngdem pʋgẽ, soɛy sẽn mii da yaa bogd pʋga. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Neban min boum la ninss sen yaa toum ne simik ramba wala sanem, ligdi la wanzour hal antikité wakat, bala oub toin in ket in boukoub-lamin wééviouga pouguin sen tound neb naala ti oub gnakran min pa le ya wa toogo né té nana.",science/technology,travel,"SENTENCE:
+ Neban min boum la ninss sen yaa toum ne simik ramba wala sanem, ligdi la wanzour hal antikité wakat, bala oub toin in ket in boukoub-lamin wééviouga pouguin sen tound neb naala ti oub gnakran min pa le ya wa toogo né té nana. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Kut bõn-zomdsã teka dũniyã wã hal wʋsgo. Bõ-kasẽng ning sẽn yiid fãa yaa tɩ b kitame tɩ tõnd kẽna lebg faag la tao-tao.,science/technology,travel,"SENTENCE:
+ Kut bõn-zomdsã teka dũniyã wã hal wʋsgo. Bõ-kasẽng ning sẽn yiid fãa yaa tɩ b kitame tɩ tõnd kẽna lebg faag la tao-tao. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Maana woto na yilẽ tɩ bõ-getga yi ecran wã fãa zugu. Woto boondame tɩ maan-tɩ-kɩrẽmsa-pa-yi-zãnga.,science/technology,travel,"SENTENCE:
+ Maana woto na yilẽ tɩ bõ-getga yi ecran wã fãa zugu. Woto boondame tɩ maan-tɩ-kɩrẽmsa-pa-yi-zãnga. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Alemayn zabr batayo rãmb sẽn lisd koomẽ ra boondame tɩ U-Boats. Alemayn neba ra mi b zabr batayo rãmb sẽn n lisd kooma wẽnebo la tʋʋm sõma.,science/technology,travel,"SENTENCE:
+ Alemayn zabr batayo rãmb sẽn lisd koomẽ ra boondame tɩ U-Boats. Alemayn neba ra mi b zabr batayo rãmb sẽn n lisd kooma wẽnebo la tʋʋm sõma. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ba ta a san teké, boumb pa tekd a pouguin yé.",science/technology,travel,"SENTENCE:
+ Ba ta a san teké, boumb pa tekd a pouguin yé. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Zũngulug sẽn maanda yaa tɩ koomã molekil rãmbã sẽn be koomã zugã takda taaba ne pãng n yiid sobdã molekil rãmbã sẽn be b yĩngrã.,science/technology,science/technology,"SENTENCE:
+ Zũngulug sẽn maanda yaa tɩ koomã molekil rãmbã sẽn be koomã zugã takda taaba ne pãng n yiid sobdã molekil rãmbã sẽn be b yĩngrã. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+Yell n tɩ yiida taab sẽn kẽed ne ned sẽn dat n dɩk film n ning DVD puga yaa maan-yɩlm tɩ loogã.,science/technology,entertainment,"SENTENCE:
+ Yell n tɩ yiida taab sẽn kẽed ne ned sẽn dat n dɩk film n ning DVD puga yaa maan-yɩlm tɩ loogã. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Sẽn n yaa zẽnga, b yetame tɩ b tõe bãnga me ned n yaagde sãn paam wilgd nenga toeengã võore sõma.",science/technology,travel,"SENTENCE:
+ Sẽn n yaa zẽnga, b yetame tɩ b tõe bãnga me ned n yaagde sãn paam wilgd nenga toeengã võore sõma. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+B tõe n naga sãnem nẽms wʋsgo. Tõe wes-a-la bõneg-bõnego.,science/technology,travel,"SENTENCE:
+ B tõe n naga sãnem nẽms wʋsgo. Tõe wes-a-la bõneg-bõnego. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Intelizens agtifisiela siglga wakat nins be ligid tuum weengen wal ma laafi, meeb weegen walma sudaas tuumin. A le bee ogdinater reem dam min la reem sen taon-d televizion.",science/technology,travel,"SENTENCE:
+ Intelizens agtifisiela siglga wakat nins be ligid tuum weengen wal ma laafi, meeb weegen walma sudaas tuumin. A le bee ogdinater reem dam min la reem sen taon-d televizion. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"B ket n mãanda la runda runda ,la sẽn yiid fãan, a imaasã ratio wã mãana wala apparey foto numerɩk rãmba imaaza rɩkdgã.",science/technology,travel,"SENTENCE:
+ B ket n mãanda la runda runda ,la sẽn yiid fãan, a imaasã ratio wã mãana wala apparey foto numerɩk rãmba imaaza rɩkdgã. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Rɛgle de trois sẽn n yaa gɛel nao-kendr sẽn n taɛt-b faag-faag sẽn n wat ne ratem sõngdame ti be tõe n tẽre fotã pʋgre.,science/technology,travel,"SENTENCE:
+ Rɛgle de trois sẽn n yaa gɛel nao-kendr sẽn n taɛt-b faag-faag sẽn n wat ne ratem sõngdame ti be tõe n tẽre fotã pʋgre. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Woto yaa na kõ sɩd tɩ dinosaur rãmba ra tara kõbdo, tagasgo zoe n asme, la wata ne rũms kuum wata toe toe ka toe, to-to wa kulɛɛr la zendlem-taabo gubri.",science/technology,travel,"SENTENCE:
+ Woto yaa na kõ sɩd tɩ dinosaur rãmba ra tara kõbdo, tagasgo zoe n asme, la wata ne rũms kuum wata toe toe ka toe, to-to wa kulɛɛr la zendlem-taabo gubri. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Wãn to la Io pãn-takdgã takd mam zugu? Y sãn yaalas Io zugu, y ka na zɩsse n ta wa y sẽn n be Dũniyã zugu.",science/technology,travel,"SENTENCE:
+ Wãn to la Io pãn-takdgã takd mam zugu? Y sãn yaalas Io zugu, y ka na zɩsse n ta wa y sẽn n be Dũniyã zugu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"""NextGen"" yaa naokendr FAA sẽn yaa Amerik sɩlsã federasõ wã sẽn yet t'a nan n sõngame tɩ sɩlsã soyã yi koees koees n paase la tɩ b ra le sãam esãas galam dãmb tus-kẽema yʋʋmd pʋga, woto me nan n kitame tɩ bug-zõosã booge.",science/technology,travel,"SENTENCE:
+ ""NextGen"" yaa naokendr FAA sẽn yaa Amerik sɩlsã federasõ wã sẽn yet t'a nan n sõngame tɩ sɩlsã soyã yi koees koees n paase la tɩ b ra le sãam esãas galam dãmb tus-kẽema yʋʋmd pʋga, woto me nan n kitame tɩ bug-zõosã booge. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Kibay sen kiend ni nisal ying biis koen kaset tirs sen kiend ni bangr veesgo weengen. Rin yinga, veesga pa neba faan toen maan ye, wan kii ta tar nafa wusgo.",science/technology,travel,"SENTENCE:
+ Kibay sen kiend ni nisal ying biis koen kaset tirs sen kiend ni bangr veesgo weengen. Rin yinga, veesga pa neba faan toen maan ye, wan kii ta tar nafa wusgo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"A lɛɛre a 2 goama wakate yeelame woto ""Rũnda Apple na lebgae nana telefõn, Tõnd na maana kʋdemde rũnda"".",science/technology,sports,"SENTENCE:
+ A lɛɛre a 2 goama wakate yeelame woto ""Rũnda Apple na lebgae nana telefõn, Tõnd na maana kʋdemde rũnda"". 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Yaang getsã nenyookã yaa ti b gesgã toogã la b getsã teed sẽn n segd n paam n ges zĩ-zãrg bedrema yiida gets nins sẽn n get yaamẽ wã.,science/technology,travel,"SENTENCE:
+ Yaang getsã nenyookã yaa ti b gesgã toogã la b getsã teed sẽn n segd n paam n ges zĩ-zãrg bedrema yiida gets nins sẽn n get yaamẽ wã. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+A wẽnda telekomãd tɩ sẽ tõoda wã tʋmd ne kaptɛr a yi sẽ pẽ ne tele wã n paas nẽ yẽ mẽnga tɩ yaa makr zɩiga a tã.,science/technology,travel,"SENTENCE:
+ A wẽnda telekomãd tɩ sẽ tõoda wã tʋmd ne kaptɛr a yi sẽ pẽ ne tele wã n paas nẽ yẽ mẽnga tɩ yaa makr zɩiga a tã. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Bãngdbã rãmba yeelame tɩ rũm kãag kõbd da yaa munuga yingri ne fiʋ bɩ wiile tẽngre.,science/technology,travel,"SENTENCE:
+ Bãngdbã rãmba yeelame tɩ rũm kãag kõbd da yaa munuga yingri ne fiʋ bɩ wiile tẽngre. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Bãngdba n be universite yeelame ti bogsa yiiba tʋmda ne taaba n mãan kɩd n tõe sãam yiimã.,science/technology,N/A,"SENTENCE:
+ Bãngdba n be universite yeelame ti bogsa yiiba tʋmda ne taaba n mãan kɩd n tõe sãam yiimã. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: education education</s>"
+Woto kõta rezolusiõ n kolog wala negatifã 35 mm nãora naase (3136 mm2 nɛ 864).,science/technology,science/technology,"SENTENCE:
+ Woto kõta rezolusiõ n kolog wala negatifã 35 mm nãora naase (3136 mm2 nɛ 864). 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+"Ko-kaseng baens sen teesd Erop ni satelit bedr, Groeland tara kibay ni 93% ninsalbasen be entegnet ta puga.",science/technology,travel,"SENTENCE:
+ Ko-kaseng baens sen teesd Erop ni satelit bedr, Groeland tara kibay ni 93% ninsalbasen be entegnet ta puga. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Application ninga yaa soãma waa fãa pʋge yaa Google Translate, n sakd tɩ f lebg goamd sã n mika me tɩ f da paam n sika goama-buuda fo n data.",science/technology,travel,"SENTENCE:
+ Application ninga yaa soãma waa fãa pʋge yaa Google Translate, n sakd tɩ f lebg goamd sã n mika me tɩ f da paam n sika goama-buuda fo n data. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ta ya pemssem, koom bi kenguinga, oub bonbiisan yaa ye.",science/technology,travel,"SENTENCE:
+ Ta ya pemssem, koom bi kenguinga, oub bonbiisan yaa ye. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Masĩna n rɩkd videyo tʋʋma wa ne yãab wʋsgo ne gom-kitsa wilgd võore, nenga toeengã rãmb sẽn n rag ka kosde ta second ye.",science/technology,travel,"SENTENCE:
+ Masĩna n rɩkd videyo tʋʋma wa ne yãab wʋsgo ne gom-kitsa wilgd võore, nenga toeengã rãmb sẽn n rag ka kosde ta second ye. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Ninsaaleb nanda teedo in na tong get la paasd a beleman youma sen kaosé.,science/technology,travel,"SENTENCE:
+ Ninsaaleb nanda teedo in na tong get la paasd a beleman youma sen kaosé. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"La mamsgã ka a ye ye. Tɩ makr a yembre tõe dɩkdame n yals mamsga ye bɩ mamsg wʋsgo, n sogse la maan vɛɛsg sẽn kẽed nebãng-kasemsã baoob sor nao-kẽna.",science/technology,travel,"SENTENCE:
+ La mamsgã ka a ye ye. Tɩ makr a yembre tõe dɩkdame n yals mamsga ye bɩ mamsg wʋsgo, n sogse la maan vɛɛsg sẽn kẽed nebãng-kasemsã baoob sor nao-kẽna. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Sẽn wa n baase, b wa n yãka karsa ne rada n ning karess nins sẽn yaa kutã. Yʋʋm 1767 yɩɩ yʋʋm ning b sẽn tẽra sor sẽn yaa kuta.",science/technology,travel,"SENTENCE:
+ Sẽn wa n baase, b wa n yãka karsa ne rada n ning karess nins sẽn yaa kutã. Yʋʋm 1767 yɩɩ yʋʋm ning b sẽn tẽra sor sẽn yaa kuta. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Yaa sid tɩ kagt dãmba wʋsg fãa yaa soãma ni boolga zĩisa fa, la sãnda tara zĩise n tʋʋse, tɩ be tẽns la ning pʋg ani a yaoda oo.",science/technology,travel,"SENTENCE:
+ Yaa sid tɩ kagt dãmba wʋsg fãa yaa soãma ni boolga zĩisa fa, la sãnda tara zĩise n tʋʋse, tɩ be tẽns la ning pʋg ani a yaoda oo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Baooba telescope paalsa wʋsg yaa tʋʋm teed kasenga zĩi-zargen n tare gãas buud sẽn gũbg tẽng zĩi-songo.,science/technology,travel,"SENTENCE:
+ Baooba telescope paalsa wʋsg yaa tʋʋm teed kasenga zĩi-zargen n tare gãas buud sẽn gũbg tẽng zĩi-songo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Supĩimã duguda koomã zug b sẽn dãmb koomã yinga.,science/technology,travel,"SENTENCE:
+ Supĩimã duguda koomã zug b sẽn dãmb koomã yinga. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Form mm35 sid toẽ n wa ne tudgr wakat ninga, a yaalma yaa mm36 ta woglma yaa mm 24.",science/technology,travel,"SENTENCE:
+ Form mm35 sid toẽ n wa ne tudgr wakat ninga, a yaalma yaa mm36 ta woglma yaa mm 24. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Yĩnga biisa yaa bũmb sẽn zɩss la le yaa la le yaa tilae wʋsg vɩɩma vɛɛsg zugu, b sẽ mii boonda tɩ bũmb ning sẽn kɩt tɩ vɩɩma be wã yinga.",science/technology,travel,"SENTENCE:
+ Yĩnga biisa yaa bũmb sẽn zɩss la le yaa la le yaa tilae wʋsg vɩɩma vɛɛsg zugu, b sẽ mii boonda tɩ bũmb ning sẽn kɩt tɩ vɩɩma be wã yinga. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+N kote ub tooren VPN n boold tɩ (virtual private network) yaa bũmb n yaa soãma wʋsgo n songd tɩ n tʋʋmdum ne wa tõoge n zʋʋg politika ni koosba iP dãmba n maand tɩ ka tõe tʋʋm ne wa.,science/technology,travel,"SENTENCE:
+ N kote ub tooren VPN n boold tɩ (virtual private network) yaa bũmb n yaa soãma wʋsgo n songd tɩ n tʋʋmdum ne wa tõoge n zʋʋg politika ni koosba iP dãmba n maand tɩ ka tõe tʋʋm ne wa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Statiõ wã kel n tõog n paa yĩngrã baa ne ziroscopã sẽ mẽnme sĩngrẽ wã n wa tɩ tãag a na yi viʋʋga.,science/technology,travel,"SENTENCE:
+ Statiõ wã kel n tõog n paa yĩngrã baa ne ziroscopã sẽ mẽnme sĩngrẽ wã n wa tɩ tãag a na yi viʋʋga. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Neb nins sẽn tagsd woto wã tagsda tɩrga, b tara pʋtẽere, b tõe malsa yɛla la b tʋm bãngr bɛd teed zutu.",science/technology,travel,"SENTENCE:
+ Neb nins sẽn tagsd woto wã tagsda tɩrga, b tara pʋtẽere, b tõe malsa yɛla la b tʋm bãngr bɛd teed zutu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Oselo n ya we-rung n wõond we-yûuga nõng n wãbda rûn-kidse. B yõgda wãamse, wiisi, rayuuse ne luili niis b n tõe n yõge. Rûms kẽer oselo n yõgda ka bedr n taa a mengã ye.",science/technology,travel,"SENTENCE:
+ Oselo n ya we-rung n wõond we-yûuga nõng n wãbda rûn-kidse. B yõgda wãamse, wiisi, rayuuse ne luili niis b n tõe n yõge. Rûms kẽer oselo n yõgda ka bedr n taa a mengã ye. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Film camera dãmba makre-n-zemse dikra 6 la 6 cm makre, a veeneg yaa 56 la 56 mm negatifa.",science/technology,travel,"SENTENCE:
+ Film camera dãmba makre-n-zemse dikra 6 la 6 cm makre, a veeneg yaa 56 la 56 mm negatifa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"So-toagdba saglda soãma te b maan gʋʋsg ni ko-meng ni zĩi-sasa masiib n tate ub zĩi-rebdem, bala a tõe paama tikr ni so-toaagre raaba.",travel,travel,"SENTENCE:
+ So-toagdba saglda soãma te b maan gʋʋsg ni ko-meng ni zĩi-sasa masiib n tate ub zĩi-rebdem, bala a tõe paama tikr ni so-toaagre raaba. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Mobil-ramb yika gar routièran wakat fan, ba tiwousgo, sen yiida oub ramb ninsan sen teesd jakar/bumthang sin yikid yibéog 6h30 la 7h30.",travel,travel,"SENTENCE:
+ Mobil-ramb yika gar routièran wakat fan, ba tiwousgo, sen yiida oub ramb ninsan sen teesd jakar/bumthang sin yikid yibéog 6h30 la 7h30. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Ub songda rʋʋdba wʋsgo la ub tõe n paama zuloese wʋsg me n kẽed ni rʋʋdba nao rãmba n sõmb tik soãma wã zĩigẽ.,travel,travel,"SENTENCE:
+ Ub songda rʋʋdba wʋsgo la ub tõe n paama zuloese wʋsg me n kẽed ni rʋʋdba nao rãmba n sõmb tik soãma wã zĩigẽ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Baltique koom-zug so-toaagra toe toe wʋsga fãa wilgda yalse n kaoose tɩ ub sã n wa ta St. Petersburg la a Russie zamaana pʋga.,travel,travel,"SENTENCE:
+ Baltique koom-zug so-toaagra toe toe wʋsga fãa wilgda yalse n kaoose tɩ ub sã n wa ta St. Petersburg la a Russie zamaana pʋga. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Sagld n bee yaa tɩ so-toagb ka zʋʋd ye, ka maand kegre ye, ka maand koosem n ka tʋʋd ni lalua ye, ka boonsd ye, a le ka sõmb liib neb n na yilla paaama meng puire ye.",travel,travel,"SENTENCE:
+ Sagld n bee yaa tɩ so-toagb ka zʋʋd ye, ka maand kegre ye, ka maand koosem n ka tʋʋd ni lalua ye, ka boonsd ye, a le ka sõmb liib neb n na yilla paaama meng puire ye. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Bũmb wʋsg n bee tɩ f sõmb gʋʋs tao-tao la f sã n wa rat n tʋg zĩig la ninga.,travel,travel,"SENTENCE:
+ Bũmb wʋsg n bee tɩ f sõmb gʋʋs tao-tao la f sã n wa rat n tʋg zĩig la ninga. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Yibeo-tʋʋlma pʋg, so-toaagdba tõe ya mirage buudu n mage tɩ ya koom (maa bũmba to).",travel,travel,"SENTENCE:
+ Yibeo-tʋʋlma pʋg, so-toaagdba tõe ya mirage buudu n mage tɩ ya koom (maa bũmba to). 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Zak-neb ni koamb ka tʋʋle n yatte bee ye, la sik-zĩise n bee n sakd n kotb root-toore.",travel,travel,"SENTENCE:
+ Zak-neb ni koamb ka tʋʋle n yatte bee ye, la sik-zĩise n bee n sakd n kotb root-toore. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Wala tʋg n gese na-zakse n be Loire Valley, la Rhine Valley maa kee bao kẽng pʋga n tʋge tẽng-neere pʋga Danube n wa maa tu bato kidsa n tʋg n taa Erie Canal.",travel,travel,"SENTENCE:
+ Wala tʋg n gese na-zakse n be Loire Valley, la Rhine Valley maa kee bao kẽng pʋga n tʋge tẽng-neere pʋga Danube n wa maa tu bato kidsa n tʋg n taa Erie Canal. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Sõmba me tɩ f bao tʋʋm-tʋʋmd songre n minim n maand deng n boole n ganeg n wend fo dilla biudu.,travel,travel,"SENTENCE:
+ Sõmba me tɩ f bao tʋʋm-tʋʋmd songre n minim n maand deng n boole n ganeg n wend fo dilla biudu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Tʋg n dik hotela yen maa hotel dãmba ka tegse yiunda yen pʋga tɩ pa yi ni ligd veegn yaooba singa yʋʋm-vekr kiuuga yʋʋm 2004. Yii a Casey Fenton n yaa ordinateera ganeg bãngda n da yi ken ni silg n tʋg n ta Islande laa katar zĩig n sigda.,travel,travel,"SENTENCE:
+ Tʋg n dik hotela yen maa hotel dãmba ka tegse yiunda yen pʋga tɩ pa yi ni ligd veegn yaooba singa yʋʋm-vekr kiuuga yʋʋm 2004. Yii a Casey Fenton n yaa ordinateera ganeg bãngda n da yi ken ni silg n tʋg n ta Islande laa katar zĩig n sigda. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Karem-bĩisa visa dãmba min tara soya zeng n sõmb tu n bao n dik ni normala tʋgen taa yamleo-goaadma dil maa tʋʋm visa.,travel,travel,"SENTENCE:
+ Karem-bĩisa visa dãmba min tara soya zeng n sõmb tu n bao n dik ni normala tʋgen taa yamleo-goaadma dil maa tʋʋm visa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Teng faan tara noya sin wilgid bon yood nins yamb sin segdin ning mobilla puge san ya ni tibsg weengin.,travel,travel,"SENTENCE:
+ Teng faan tara noya sin wilgid bon yood nins yamb sin segdin ning mobilla puge san ya ni tibsg weengin. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Baa ni tʋʋm-niya wisg fãa sã n date n tʋʋmd ni dengen boole n ganega, tʋʋm-tumba wʋsg tara bãngre n kẽed ni sora dikr buud toe-toe, tõong zemsgo maa n teesd zĩi-la ninga.",travel,travel,"SENTENCE:
+ Baa ni tʋʋm-niya wisg fãa sã n date n tʋʋmd ni dengen boole n ganega, tʋʋm-tumba wʋsg tara bãngre n kẽed ni sora dikr buud toe-toe, tõong zemsgo maa n teesd zĩi-la ninga. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+So-toagsa tõe tʋg n sega baan-biisi ub n ka mi ub soolma pʋga .,travel,travel,"SENTENCE:
+ So-toagsa tõe tʋg n sega baan-biisi ub n ka mi ub soolma pʋga . 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"N le paasde, fo sã n tʋg n ta wĩn-dɩtga baobga, bi f to kaage ed paga Fatima (Sõngo) fãagre zĩig kasenga, duni fãa Mariam Sõng sindg zĩiga.",travel,travel,"SENTENCE:
+ N le paasde, fo sã n tʋg n ta wĩn-dɩtga baobga, bi f to kaage ed paga Fatima (Sõngo) fãagre zĩig kasenga, duni fãa Mariam Sõng sindg zĩiga. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+F tõe dɩka boda-boda (taxi-moto) kẽng Goma. A ligd-yaoodga meng-meng ya Congo zamaana wakɩr 500 f sãn ka rabd zĩ-zãrga.,travel,travel,"SENTENCE:
+ F tõe dɩka boda-boda (taxi-moto) kẽng Goma. A ligd-yaoodga meng-meng ya Congo zamaana wakɩr 500 f sãn ka rabd zĩ-zãrga. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Neb ninse n nong ying gõoba, kẽndlamɛɛra-kooma zĩig n kẽne n tʋg n tãa sa-noora ya bũmb noogo.",travel,travel,"SENTENCE:
+ Neb ninse n nong ying gõoba, kẽndlamɛɛra-kooma zĩig n kẽne n tʋg n tãa sa-noora ya bũmb noogo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Kẽend safari (n le boold tɩ ""weo-pug kẽena"", ""kẽend safari"" maa ""nao-kẽena"") yaa kẽena, a ya n zems leera wen bala maa daar wʋsgo.",travel,travel,"SENTENCE:
+ Kẽend safari (n le boold tɩ ""weo-pug kẽena"", ""kẽend safari"" maa ""nao-kẽena"") yaa kẽena, a ya n zems leera wen bala maa daar wʋsgo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Sor yɛng n be tɩ f tõe mane tɩ a loog tʋʋle ya f n toola wala teedo n deng n paam vaesg ni doand dãmba. Silga laloa rãmba ka sakd tɩ b tool teed woto t'a soaba pa tu silga ye, ya woto la f kẽeda.",travel,travel,"SENTENCE:
+ Sor yɛng n be tɩ f tõe mane tɩ a loog tʋʋle ya f n toola wala teedo n deng n paam vaesg ni doand dãmba. Silga laloa rãmba ka sakd tɩ b tool teed woto t'a soaba pa tu silga ye, ya woto la f kẽeda. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Sẽn n na y len tɩ mobillsa seke, 300 la b sõmb n bao n paase tɩ b soor fãaa legb 1300.",travel,travel,"SENTENCE:
+ Sẽn n na y len tɩ mobillsa seke, 300 la b sõmb n bao n paase tɩ b soor fãaa legb 1300. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Zak rãmb la ub koamb kidse sõmba ne seglgo n paase, la yi ying kẽndrasm tora ya bũmb n ka toy baa-baa ye, baa sẽn ya ne bi-pɛɛlga la koamb n na n ka kẽ kareng ye.",travel,travel,"SENTENCE:
+ Zak rãmb la ub koamb kidse sõmba ne seglgo n paase, la yi ying kẽndrasm tora ya bũmb n ka toy baa-baa ye, baa sẽn ya ne bi-pɛɛlga la koamb n na n ka kẽ kareng ye. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ned woo ned n waa n date n salg zanga zĩigẽ n yaa wooko maa salg tãnsẽ toong-taab zutu, ba ninga yamen tɩ sa-ko-gĩsdim tõe ziinda beenin, ko-kugri, maa tʋʋlg bɩ waood rãamde maasmd.",travel,travel,"SENTENCE:
+ Ned woo ned n waa n date n salg zanga zĩigẽ n yaa wooko maa salg tãnsẽ toong-taab zutu, ba ninga yamen tɩ sa-ko-gĩsdim tõe ziinda beenin, ko-kugri, maa tʋʋlg bɩ waood rãamde maasmd. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Runda runda, Tumbukt yanta nong-go, baa neba san wat-tin kaagda. Tenga le tara sils yalsg ziinga.",travel,travel,"SENTENCE:
+ Runda runda, Tumbukt yanta nong-go, baa neba san wat-tin kaagda. Tenga le tara sils yalsg ziinga. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Sa-ko-gĩsdim seb-kaseng wakate, sa-ko-gĩsdim n tõe kok f salgra tõe n luea wakate kidg pugu n bala.",travel,travel,"SENTENCE:
+ Sa-ko-gĩsdim seb-kaseng wakate, sa-ko-gĩsdim n tõe kok f salgra tõe n luea wakate kidg pugu n bala. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Fo sã n date n tʋg sore duni wa gil pʋga fãa wĩn-goabga tẽn-bogra, yak n date silg la ning la zĩig la ning n date n tʋga ka waog ye bala mog-ma zugu soy n tʋʋd ka be ye.",travel,travel,"SENTENCE:
+ Fo sã n date n tʋg sore duni wa gil pʋga fãa wĩn-goabga tẽn-bogra, yak n date silg la ning la zĩig la ning n date n tʋga ka waog ye bala mog-ma zugu soy n tʋʋd ka be ye. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Silg-tʋʋm-zĩise wala Emirates, Etihad Airways, Qatar Airways la Turkish Airlines paasa ub tʋʋma pãnga n debd Afriki tẽnga, la ub tʋgd afriki tẽng beda wʋsg fãa pʋga, ta ligda me ya nõogo n yĩid yerope silsa.",travel,travel,"SENTENCE:
+ Silg-tʋʋm-zĩise wala Emirates, Etihad Airways, Qatar Airways la Turkish Airlines paasa ub tʋʋma pãnga n debd Afriki tẽnga, la ub tʋgd afriki tẽng beda wʋsg fãa pʋga, ta ligda me ya nõogo n yĩid yerope silsa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Trãspor buud a taab ka nan n paas ye. Tẽrẽ rãmbã ka nan n le yaas Wẽmbele tẽngẽ wã. Mobilsã parkĩng dãmbã ne bõn-zomedsã zĩisã ka tõe n paam ye.,travel,travel,"SENTENCE:
+ Trãspor buud a taab ka nan n paas ye. Tẽrẽ rãmbã ka nan n le yaas Wẽmbele tẽngẽ wã. Mobilsã parkĩng dãmbã ne bõn-zomedsã zĩisã ka tõe n paam ye. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"N min maanda, fo sã n date n tʋg n zĩnd n kaose zamaan zeng pʋga, fo sõmb n deng n bao ri visa me toore.",travel,travel,"SENTENCE:
+ N min maanda, fo sã n date n tʋg n zĩnd n kaose zamaan zeng pʋga, fo sõmb n deng n bao ri visa me toore. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Teera yembre fãa tara MetroPlus la kenkendb lore yiiba fãa, kenkendb lora wakate fãa bee tẽra baasg na-tẽng kiringa.",travel,travel,"SENTENCE:
+ Teera yembre fãa tara MetroPlus la kenkendb lore yiiba fãa, kenkendb lora wakate fãa bee tẽra baasg na-tẽng kiringa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Ninbouidant fan kinsida ibi toogo sotoaka pougin. La neban wiligda oub soun-panoogo.,travel,travel,"SENTENCE:
+ Ninbouidant fan kinsida ibi toogo sotoaka pougin. La neban wiligda oub soun-panoogo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Zĩisa n ka tolge n pid ne neba woto wa, la buguma saanga me ka tʋʋle n ya zuloese woto, fo nan le tõonga me n gese ãdgsa soãma.",travel,travel,"SENTENCE:
+ Zĩisa n ka tolge n pid ne neba woto wa, la buguma saanga me ka tʋʋle n ya zuloese woto, fo nan le tõonga me n gese ãdgsa soãma. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Yamb sin segdin maana a soba lay paam seb sin kont yamb sor tiy nan kaag, wan faan toen paa a yembr san ya ni tems. Teng faan tara manesem la seba.",travel,travel,"SENTENCE:
+ Yamb sin segdin maana a soba lay paam seb sin kont yamb sor tiy nan kaag, wan faan toen paa a yembr san ya ni tems. Teng faan tara manesem la seba. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Sãn ya ne neba n tʋʋl n gomda, zĩig ka be na lik n ges sɩlga a pipi goeelsa sãn ketẽ n tõe deega neb ye. Woto ya ned sãn yikd ne sɩlg n ka tat sʋk n vʋʋsa.",travel,travel,"SENTENCE:
+ Sãn ya ne neba n tʋʋl n gomda, zĩig ka be na lik n ges sɩlga a pipi goeelsa sãn ketẽ n tõe deega neb ye. Woto ya ned sãn yikd ne sɩlg n ka tat sʋk n vʋʋsa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Loobd-ne-nus reema ya bãng-biise saang tɩ yamleo-goondba date n bãnge.,travel,travel,"SENTENCE:
+ Loobd-ne-nus reema ya bãng-biise saang tɩ yamleo-goondba date n bãnge. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Pa silga sore bale la so-yeng tɩ fo sã n date n zʋʋg Pacifique goabg baobga la a Ameriki wĩn-goabga wĩn-taoora mog-nõora (gese n wat tẽngre),travel,travel,"SENTENCE:
+ Pa silga sore bale la so-yeng tɩ fo sã n date n zʋʋg Pacifique goabg baobga la a Ameriki wĩn-goabga wĩn-taoora mog-nõora (gese n wat tẽngre) 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"San Faransisko mẽe yamleog-gõodba ro bɛda n tar lotɛlse, riib aiisi, la zi-sõsdi pataabs wusgo.",travel,travel,"SENTENCE:
+ San Faransisko mẽe yamleog-gõodba ro bɛda n tar lotɛlse, riib aiisi, la zi-sõsdi pataabs wusgo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Fo sã n dik sore la f le maand yamleoog tʋmda yaa sore n maand yel kasenga la a ka bũmbu n yaa kʋʋn bale ye.,travel,travel,"SENTENCE:
+ Fo sã n dik sore la f le maand yamleoog tʋmda yaa sore n maand yel kasenga la a ka bũmbu n yaa kʋʋn bale ye. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Neba tõeeme n ka beool tɩ sũ-mare la zems-n-taare me ya tɩlae ne so-toagdb nins n lebgd n kuiis b yiri.,travel,travel,"SENTENCE:
+ Neba tõeeme n ka beool tɩ sũ-mare la zems-n-taare me ya tɩlae ne so-toagdb nins n lebgd n kuiis b yiri. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Da yimi n paase visa rãmba ligd paasga ye, loogra modr-yaood, ying transport, la a buudu. n tʋge afriki poora zĩisa fãa.",travel,travel,"SENTENCE:
+ Da yimi n paase visa rãmba ligd paasga ye, loogra modr-yaood, ying transport, la a buudu. n tʋge afriki poora zĩisa fãa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Bichket tẽnga neb wʋsg yeelame ti tẽnga nug-ritg kisdbã pa tũ laloa sor ye.,politics,travel,"SENTENCE:
+ Bichket tẽnga neb wʋsg yeelame ti tẽnga nug-ritg kisdbã pa tũ laloa sor ye. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Rũnda rũnda Bɛlzik zĩise ra yaa Luxembourg zĩisi pĩnd-pĩnda la lebgaa Bɛlzik rẽ Bɛlzik Revolutiõ 1830 loogre poore.,politics,travel,"SENTENCE:
+ Rũnda rũnda Bɛlzik zĩise ra yaa Luxembourg zĩisi pĩnd-pĩnda la lebgaa Bɛlzik rẽ Bɛlzik Revolutiõ 1830 loogre poore. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Sẽn n sɩng ne 1988 yʋʋma, vota zĩis sõmb n yɩɩ vẽenga tɩ yãkdba ne getba tõng n yãnd tɩ ãnvelop ba a ye pa ziind vota siingra ye ti ãnvelopa to pa paas ye, sãn pa yãkdba sẽn n na yãk b rãmba.",politics,sports,"SENTENCE:
+ Sẽn n sɩng ne 1988 yʋʋma, vota zĩis sõmb n yɩɩ vẽenga tɩ yãkdba ne getba tõng n yãnd tɩ ãnvelop ba a ye pa ziind vota siingra ye ti ãnvelopa to pa paas ye, sãn pa yãkdba sẽn n na yãk b rãmba. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Premie minisr a Zillia Gilard yeela tẽnga naamã baoob wakat yʋʋm 2010 tɩ Ostrali segd n ledga repiblik rĩm-poak a Elizabɛt II rĩngã baasgẽ.,politics,politics,"SENTENCE:
+ Premie minisr a Zillia Gilard yeela tẽnga naamã baoob wakat yʋʋm 2010 tɩ Ostrali segd n ledga repiblik rĩm-poak a Elizabɛt II rĩngã baasgẽ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+Irlãd goosneera wilga me tɩ dẽd yi tao la ne yãagbo t’b rik nõ kẽnda n maneg yel nĩng sẽ bɛ wã.,politics,travel,"SENTENCE:
+ Irlãd goosneera wilga me tɩ dẽd yi tao la ne yãagbo t’b rik nõ kẽnda n maneg yel nĩng sẽ bɛ wã. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Diplomatika tak-taaba tẽnga goam zugu kete n saamda Armenie la Azerbaijan ni taab suka.,politics,travel,"SENTENCE:
+ Diplomatika tak-taaba tẽnga goam zugu kete n saamda Armenie la Azerbaijan ni taab suka. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Pipi minisre a Stephen Harper da sakame na toll goosneemã ""pemsem sõng manesem"" parti zẽng-zẽng comitɛ vaeesgo yĩnga, ka ne a yiib soab karengo, minit 25 sɛg taaba loogre pore talato daara ne NPD taoore soaba, a Jack Layton pipi minisr biru pʋgẽ.",politics,politics,"SENTENCE:
+ Pipi minisre a Stephen Harper da sakame na toll goosneemã ""pemsem sõng manesem"" parti zẽng-zẽng comitɛ vaeesgo yĩnga, ka ne a yiib soab karengo, minit 25 sɛg taaba loogre pore talato daara ne NPD taoore soaba, a Jack Layton pipi minisr biru pʋgẽ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+"Kiʋʋga sẽn looga, kẽen bɛd n da be Pologne tẽnga pʋga tɩ bõe, bala tẽnga kõ-a nug-tikri ne ACTA, rẽ n kɩt tɩ Pologne tẽnga gofneema dɩk kaoole n yalse zems-taaba luglga, na nanda.",politics,travel,"SENTENCE:
+ Kiʋʋga sẽn looga, kẽen bɛd n da be Pologne tẽnga pʋga tɩ bõe, bala tẽnga kõ-a nug-tikri ne ACTA, rẽ n kɩt tɩ Pologne tẽnga gofneema dɩk kaoole n yalse zems-taaba luglga, na nanda. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Saglsa yaa tẽnga yen politka nug-gãaga yeele kumbgo zĩi-puge.,politics,travel,"SENTENCE:
+ Saglsa yaa tẽnga yen politka nug-gãaga yeele kumbgo zĩi-puge. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"1976 yʋʋma wakate rɩkre a saglga a Carter sãambã laloa zugu, la poore tʋʋm wa tẽng koglgre saglgda (NSA) sɩngre yʋʋm 1977 baase 1981, n deeg a Henry Kissɩnger zĩiga.",politics,politics,"SENTENCE:
+ 1976 yʋʋma wakate rɩkre a saglga a Carter sãambã laloa zugu, la poore tʋʋm wa tẽng koglgre saglgda (NSA) sɩngre yʋʋm 1977 baase 1981, n deeg a Henry Kissɩnger zĩiga. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+"Turkie tẽnga me na rɩke ISIS zabdba sẽn n yõk guudum ti, moonga yeelame, tɩ Eropã tẽnsa zaksa baase tɩ b lebgae loog.",politics,travel,"SENTENCE:
+ Turkie tẽnga me na rɩke ISIS zabdba sẽn n yõk guudum ti, moonga yeelame, tɩ Eropã tẽnsa zaksa baase tɩ b lebgae loog. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"La baoosgo mamsga wã lebgaa bilf-bilfu ti URSS lagem-n-tara sodasse nin fu-miuudu bãmb 800,000 kẽ Biolorussie tẽnga ne Ukraine tẽnga n ti reege Pologne tẽnga yaanga, sẽn n tõdg Riga laafɩ yẽsgo ti URSS Polɩɩs sẽn n tõdg , tẽng ne tẽng yẽsgo wala tẽns yẽsgo.",politics,politics,"SENTENCE:
+ La baoosgo mamsga wã lebgaa bilf-bilfu ti URSS lagem-n-tara sodasse nin fu-miuudu bãmb 800,000 kẽ Biolorussie tẽnga ne Ukraine tẽnga n ti reege Pologne tẽnga yaanga, sẽn n tõdg Riga laafɩ yẽsgo ti URSS Polɩɩs sẽn n tõdg , tẽng ne tẽng yẽsgo wala tẽns yẽsgo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+"D sãn tʋ b nao-kẽndrã, b nan n le maneg n gesa HJR-3 tõogã yel yesa ne na paal ninga eb sẽn na yãk yʋʋm 2015 wala 2016 n tõong n zĩnd nao kẽndra pʋga.",politics,politics,"SENTENCE:
+ D sãn tʋ b nao-kẽndrã, b nan n le maneg n gesa HJR-3 tõogã yel yesa ne na paal ninga eb sẽn na yãk yʋʋm 2015 wala 2016 n tõong n zĩnd nao kẽndra pʋga. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+"A sakra sẽooga kiuug rasma 4 tigrã loogr poorẽ, porze Sẽn yaa tigsgã taoor soab a John Hancock la seb-gʋnda Charles Thomson nug-tikri, paama kɩsg so-yakena wã ne a Dunlap seba leebg roogo.",politics,travel,"SENTENCE:
+ A sakra sẽooga kiuug rasma 4 tigrã loogr poorẽ, porze Sẽn yaa tigsgã taoor soab a John Hancock la seb-gʋnda Charles Thomson nug-tikri, paama kɩsg so-yakena wã ne a Dunlap seba leebg roogo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"11:00 wakata loogre poore bala, kɩɩsgba gĩda soora kẽnd tera koglg bila n da teesd nug-ritg babgo Whitehall.",politics,travel,"SENTENCE:
+ 11:00 wakata loogre poore bala, kɩɩsgba gĩda soora kẽnd tera koglg bila n da teesd nug-ritg babgo Whitehall. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"La baoosgo, sigr kiuug yʋʋm 1956, a Krushchev pʋlemd rãmb ra yaa na mage wakate ning neba na yi wa, Poloyn pʋgẽ zĩig ning tʋntʋmba sẽn n yike rɩɩba n ka sekd-a-la yaooba boogre yĩnga, tol lebgaa kɩɩsg zãng ne Comminisma.",politics,politics,"SENTENCE:
+ La baoosgo, sigr kiuug yʋʋm 1956, a Krushchev pʋlemd rãmb ra yaa na mage wakate ning neba na yi wa, Poloyn pʋgẽ zĩig ning tʋntʋmba sẽn n yike rɩɩba n ka sekd-a-la yaooba boogre yĩnga, tol lebgaa kɩɩsg zãng ne Comminisma. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+"Na yɩɩ wooto yuum 40 neg sẽn n puugda n sɩd zaab tãab ne tẽns a taab sodasse Afrɩki n ta Azi tẽnse, Afghanistan tẽnga, Cuba tẽnga ne zĩis a taab mẽ.",politics,travel,"SENTENCE:
+ Na yɩɩ wooto yuum 40 neg sẽn n puugda n sɩd zaab tãab ne tẽns a taab sodasse Afrɩki n ta Azi tẽnse, Afghanistan tẽnga, Cuba tẽnga ne zĩis a taab mẽ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Kiuug sẽn looge, tẽngã na-yir sula ye yeelame ti segdame ti CEP sig tuumda zug tɩ woto yaa n na naag nɛ naɛkẽndra taab n na kit ti tẽnga tõog n maan vot paale.",politics,politics,"SENTENCE:
+ Kiuug sẽn looge, tẽngã na-yir sula ye yeelame ti segdame ti CEP sig tuumda zug tɩ woto yaa n na naag nɛ naɛkẽndra taab n na kit ti tẽnga tõog n maan vot paale. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+Koe-zut a taab b sẽn paasd Zerizalɛm tẽngã beoog yell sẽn tar yõod wʋsg tẽnsã a ayiibã yĩnga ne zʋgdẽ longã me yellã pʋga.,politics,travel,"SENTENCE:
+ Koe-zut a taab b sẽn paasd Zerizalɛm tẽngã beoog yell sẽn tar yõod wʋsg tẽnsã a ayiibã yĩnga ne zʋgdẽ longã me yellã pʋga. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+A ra ka tare pãng na teemd laloa lampo rãmb la yaaoob rãmb tẽnsa sʋka.,politics,travel,"SENTENCE:
+ A ra ka tare pãng na teemd laloa lampo rãmb la yaaoob rãmb tẽnsa sʋka. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Fãarense na-yãkrã noor waogda nao-kẽnd kãngã wala sẽn n sɛgde.,politics,travel,"SENTENCE:
+ Fãarense na-yãkrã noor waogda nao-kẽnd kãngã wala sẽn n sɛgde. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Bõnse semen loogre poore vot tikr pʋsʋka wakate, Bush da goma kelegre tikr pʋgẽ Asie na-tẽnga lebgo tʋʋma yaalagre.",politics,travel,"SENTENCE:
+ Bõnse semen loogre poore vot tikr pʋsʋka wakate, Bush da goma kelegre tikr pʋgẽ Asie na-tẽnga lebgo tʋʋma yaalagre. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"B yaamã kena wa sẽn zemse, b sẽn kurg ritla n kɩt tɩ sodaasã la nin zaalsã ka le toẽ n paam riibã, ba na gidgr kãnga kiisa duniwã tõodã tẽmse wʋsg sẽn wum taab n viglga yʋum 200 sẽn n looge.",politics,travel,"SENTENCE:
+ B yaamã kena wa sẽn zemse, b sẽn kurg ritla n kɩt tɩ sodaasã la nin zaalsã ka le toẽ n paam riibã, ba na gidgr kãnga kiisa duniwã tõodã tẽmse wʋsg sẽn wum taab n viglga yʋum 200 sẽn n looge. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Moldovi zĩisa yĩiba lebg n gãnega ligd tʋʋm nɛ taab baa nɛ b n pa tõong n wʋm taab nɛ politika goama.,politics,travel,"SENTENCE:
+ Moldovi zĩisa yĩiba lebg n gãnega ligd tʋʋm nɛ taab baa nɛ b n pa tõong n wʋm taab nɛ politika goama. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Sẽ tũud ne goosneera tʋʋm-tʋmdb sẽ yãanga, a wilga tɛgzas ni bʋidã tɩ b rika nõ kẽndre sẽ naa n yilẽ n koglg ni-bʋidã yõe.",politics,travel,"SENTENCE:
+ Sẽ tũud ne goosneera tʋʋm-tʋmdb sẽ yãanga, a wilga tɛgzas ni bʋidã tɩ b rika nõ kẽndre sẽ naa n yilẽ n koglg ni-bʋidã yõe. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Meba no-koeema wa lebgaa sẽn n na kɩs meba tʋʋma yelle neb sẽn n be Wasĩnton .,politics,travel,"SENTENCE:
+ Meba no-koeema wa lebgaa sẽn n na kɩs meba tʋʋma yelle neb sẽn n be Wasĩnton . 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Sẽn deng yʋʋm 2010 nug-tikrã, neb 1400 nug-tigbã sʋka, neb ning sẽn ka sak tɩ Ostrali lebg repibilikã sõorã paasame, neb a 8 koabg sʋka sẽn sing ne yʋʋm 2008.",politics,sports,"SENTENCE:
+ Sẽn deng yʋʋm 2010 nug-tikrã, neb 1400 nug-tigbã sʋka, neb ning sẽn ka sak tɩ Ostrali lebg repibilikã sõorã paasame, neb a 8 koabg sʋka sẽn sing ne yʋʋm 2008. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+A Lodin me ra yela me ti taoor dãmb yãka yaam na yẽes yiibe rɩkra fãaag Afghanistan tẽnga neba votga ligd-sãang la kogl yell.,politics,travel,"SENTENCE:
+ A Lodin me ra yela me ti taoor dãmb yãka yaam na yẽes yiibe rɩkra fãaag Afghanistan tẽnga neba votga ligd-sãang la kogl yell. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Votga biisa waogo loogre poore, a Gingrich pẽg-a Santorum, la a sɩbga a Romney ne goame a vãoogse yooda a Gingrich poore Iowa pʋgẽ.",politics,politics,"SENTENCE:
+ Votga biisa waogo loogre poore, a Gingrich pẽg-a Santorum, la a sɩbga a Romney ne goame a vãoogse yooda a Gingrich poore Iowa pʋgẽ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+Yaa a Marteli noor a nu soab nãam yãkrã sul paalã wã yʋʋm a naas pʋgẽ.,politics,travel,"SENTENCE:
+ Yaa a Marteli noor a nu soab nãam yãkrã sul paalã wã yʋʋm a naas pʋgẽ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ned ning sẽn n paam sãnem medaye yĩn-wisgrã wakatã ra segd n duga koom ne zaas metr 100 ne 200 vuk a tãab Commonwealth reemã wã, la a yẽgngã yĩng kitame tɩ b sãmbd ne a sãn nan n tõoge.",sports,sports,"SENTENCE:
+ Ned ning sẽn n paam sãnem medaye yĩn-wisgrã wakatã ra segd n duga koom ne zaas metr 100 ne 200 vuk a tãab Commonwealth reemã wã, la a yẽgngã yĩng kitame tɩ b sãmbd ne a sãn nan n tõoge. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+A Saito ra yaa zapõ tẽnga fãan zido federasõ wã la formasõ wã sullã taoor soaba a sẽn maan kaalema wakatã. A lebg n yii duniy la Olẽmpik yĩng-wisgrã gãndaogo.,sports,sports,"SENTENCE:
+ A Saito ra yaa zapõ tẽnga fãan zido federasõ wã la formasõ wã sullã taoor soaba a sẽn maan kaalema wakatã. A lebg n yii duniy la Olẽmpik yĩng-wisgrã gãndaogo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Ãnduni sʋl nĩnga sẽ gieta olẽmpika reema yel rika nõ kẽndre tɩ paas reem kẽere b sekẽ wã. B yãka golfã la rugbi sẽn boond tɩ rugbi inio reem sẽn yiid a nu sʋka sẽn toẽ n naag reem a taaba olẽmpikã reem sʋka.,sports,sports,"SENTENCE:
+ Ãnduni sʋl nĩnga sẽ gieta olẽmpika reema yel rika nõ kẽndre tɩ paas reem kẽere b sekẽ wã. B yãka golfã la rugbi sẽn boond tɩ rugbi inio reem sẽn yiid a nu sʋka sẽn toẽ n naag reem a taaba olẽmpikã reem sʋka. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Yʋʋm fãa wags-taab kasenga yitta Yʋʋm-sar kiuugu polo wa wags-taaba zĩigẽ Las Cañitas tẽnga pʋga.,sports,sports,"SENTENCE:
+ Yʋʋm fãa wags-taab kasenga yitta Yʋʋm-sar kiuugu polo wa wags-taaba zĩigẽ Las Cañitas tẽnga pʋga. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Hal a sẽn n sɩng wa Catalogne na-tẽnga, a Vidal da tão ballse 49 kõ sulla.",sports,sports,"SENTENCE:
+ Hal a sẽn n sɩng wa Catalogne na-tẽnga, a Vidal da tão ballse 49 kõ sulla. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Yĩnga pãng la laafi zãab, minung sẽn k ɩt t ɩ yĩnga pamed koom sõma la bãngr la milem sẽn kẽed ne t ʋ ʋm nins sẽn tõe sõng zoɛta t’a paasa zoeesa tʋʋm nonglem pãnga la a biisi.",sports,travel,"SENTENCE:
+ Yĩnga pãng la laafi zãab, minung sẽn k ɩt t ɩ yĩnga pamed koom sõma la bãngr la milem sẽn kẽed ne t ʋ ʋm nins sẽn tõe sõng zoɛta t’a paasa zoeesa tʋʋm nonglem pãnga la a biisi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Be tãab-n-soabã, a Hamlin be poore ne point rãmb pisi, la point a nu a Bowyer zugu. A Kahne la Truex Jr. yaa nu soabã la yoob-n-soabã ne point 2 220 la 2 207 pug taab.",sports,sports,"SENTENCE:
+ Be tãab-n-soabã, a Hamlin be poore ne point rãmb pisi, la point a nu a Bowyer zugu. A Kahne la Truex Jr. yaa nu soabã la yoob-n-soabã ne point 2 220 la 2 207 pug taab. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+A Nadal ne Kanada neda wagas-taaba yaa 7–2.,sports,sports,"SENTENCE:
+ A Nadal ne Kanada neda wagas-taaba yaa 7–2. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"A Zark ra naag n maanda zãmesgo kovɛrsano sẽ be Itali wagsẽ taar reng n lɛmga yɩnga. A ra gẽ otɛl sẽ yaa b reema sʋl otɛl, t’b ra sɛgenda me n naa n kẽ wags pʋgẽ nẽ Boloni rãmba hata raare.",sports,sports,"SENTENCE:
+ A Zark ra naag n maanda zãmesgo kovɛrsano sẽ be Itali wagsẽ taar reng n lɛmga yɩnga. A ra gẽ otɛl sẽ yaa b reema sʋl otɛl, t’b ra sɛgenda me n naa n kẽ wags pʋgẽ nẽ Boloni rãmba hata raare. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Trãspor kaalem rabeem yĩnga kitame ti'b magd ti ekipã siportèr dãmba ka tõog n ges reemã ye.,sports,sports,"SENTENCE:
+ Trãspor kaalem rabeem yĩnga kitame ti'b magd ti ekipã siportèr dãmba ka tõog n ges reemã ye. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"A Tommy Dreamer yeelame ""A Luna ra yaa pipi maob taor soaba. A yii mam pipi patrõ. A Luna kii filim sẽn boond tɩ n kiuug a yiib yʋngo. A yaa nẽer wʋsgo. Pog gãndaoogo.""",sports,entertainment,"SENTENCE:
+ A Tommy Dreamer yeelame ""A Luna ra yaa pipi maob taor soaba. A yii mam pipi patrõ. A Luna kii filim sẽn boond tɩ n kiuug a yiib yʋngo. A yaa nẽer wʋsgo. Pog gãndaoogo."" 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Poland rap namsa ski remda a Maciej Krezel vẽneg-vẽnega n yaool n sõng a Anna Ogarzynska t’a ta piig la a tãab soab zĩigẽ Super-G wã. Kore du Sud ned a Jong Seork Park baasa pisi la a naas soaba rap wɛɛngẽ Super-G wã me.,sports,sports,"SENTENCE:
+ Poland rap namsa ski remda a Maciej Krezel vẽneg-vẽnega n yaool n sõng a Anna Ogarzynska t’a ta piig la a tãab soab zĩigẽ Super-G wã. Kore du Sud ned a Jong Seork Park baasa pisi la a naas soaba rap wɛɛngẽ Super-G wã me. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Y sã n date polo wã wags-taaba kibaya la ticket dãmba koosga zĩiga, Zẽki y naore n ta Argentine Polo wã lagem-n-taara sulli wã.",sports,sports,"SENTENCE:
+ Y sã n date polo wã wags-taaba kibaya la ticket dãmba koosga zĩiga, Zẽki y naore n ta Argentine Polo wã lagem-n-taara sulli wã. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Wagas taaba singa yibeog 10:00 wakate ni zĩ-yalga nẽere. Sa n zʋʋg saga n wãa yibeo pusʋʋka n lebg n yals tʋʋla, ra ya dare n zeemse ni rugby wagstaaba 7 saba.",sports,sports,"SENTENCE:
+ Wagas taaba singa yibeog 10:00 wakate ni zĩ-yalga nẽere. Sa n zʋʋg saga n wãa yibeo pusʋʋka n lebg n yals tʋʋla, ra ya dare n zeemse ni rugby wagstaaba 7 saba. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+A Arly Velasquez sẽn yit Mexique tẽng wa sɛ piig la nu soaba raopa Super-G zĩndg. Nouvelle zeland tẽng neda a Adam Hall sɛ wɛ soabã raopa Super-G yaalasgo.,sports,sports,"SENTENCE:
+ A Arly Velasquez sẽn yit Mexique tẽng wa sɛ piig la nu soaba raopa Super-G zĩndg. Nouvelle zeland tẽng neda a Adam Hall sɛ wɛ soabã raopa Super-G yaalasgo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Wãra n toong n taõnda saab na n yɩɩ Ellis Park Johannesburg tẽnga rasma yopoe n watã tɩ Springboks nã n teega ne Australie.,sports,sports,"SENTENCE:
+ Wãra n toong n taõnda saab na n yɩɩ Ellis Park Johannesburg tẽnga rasma yopoe n watã tɩ Springboks nã n teega ne Australie. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Yeya fãa sẽn ya kepi, fo tõea me n ta zĩi-zãargẽ yiid tɩ fo sã n da kẽenda – la le tõea me tɩ f paam tʋʋlem ni salsgo n zʋʋg tẽnga tɩ ka yi ni kor-bed zaab ni kẽend toog ye.",sports,travel,"SENTENCE:
+ Yeya fãa sẽn ya kepi, fo tõea me n ta zĩi-zãargẽ yiid tɩ fo sã n da kẽenda – la le tõea me tɩ f paam tʋʋlem ni salsgo n zʋʋg tẽnga tɩ ka yi ni kor-bed zaab ni kẽend toog ye. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Be pore ne point yopoe, a Johnson yaa yiib soaba ne point 2 243.",sports,sports,"SENTENCE:
+ Be pore ne point yopoe, a Johnson yaa yiib soaba ne point 2 243. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Canyoning reema (maa: canyoneering) yaa reem ning kite tɩ f tʋg hale canyon tẽngre-tẽngra, sin ya maa a kuia me maa a pidsa ne koom.",sports,travel,"SENTENCE:
+ Canyoning reema (maa: canyoneering) yaa reem ning kite tɩ f tʋg hale canyon tẽngre-tẽngra, sin ya maa a kuia me maa a pidsa ne koom. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"A Robin Uthappa tõoge ninge reema bɩ rãmb wʋsgu yɩɩd, bɩ 70 ballsa 41 n wẽ 11 naase la 2 yoobe.",sports,sports,"SENTENCE:
+ A Robin Uthappa tõoge ninge reema bɩ rãmb wʋsgu yɩɩd, bɩ 70 ballsa 41 n wẽ 11 naase la 2 yoobe. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Waooda-wakat yĩn-wisgra yaa nɛb wʋsg n mi rɩtg baobgo zãmaana, la Italy rãmba n wagsad tẽns wusg wagstaab pʋga, nɛ Olympika reem dãmbã.",sports,sports,"SENTENCE:
+ Waooda-wakat yĩn-wisgra yaa nɛb wʋsg n mi rɩtg baobgo zãmaana, la Italy rãmba n wagsad tẽns wusg wagstaab pʋga, nɛ Olympika reem dãmbã. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"A Maroochydore tooge baasa neba taoore, point yoobe a Noosa taoore sẽn n yaa yiib soaba.",sports,sports,"SENTENCE:
+ A Maroochydore tooge baasa neba taoore, point yoobe a Noosa taoore sẽn n yaa yiib soaba. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+A Mikaɛl Sumasɛr baasa a zoesa a Alonzo yalsga poore ta ra paama yel bõong sẽ kẽed ne b sẽ da yalsa t’a ra ka le zoet n ye.,sports,travel,"SENTENCE:
+ A Mikaɛl Sumasɛr baasa a zoesa a Alonzo yalsga poore ta ra paama yel bõong sẽ kẽed ne b sẽ da yalsa t’a ra ka le zoet n ye. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Rɩ sõmẽ wã yenye ka tõe kõ zoeesã biis la toe sõnga zoe-zoɛta ying malgr wɛɛngẽ.,sports,travel,"SENTENCE:
+ Rɩ sõmẽ wã yenye ka tõe kõ zoeesã biis la toe sõnga zoe-zoɛta ying malgr wɛɛngẽ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"A pa tõog n dik tɩt nins sẽn n da tõe n saõog a toogã, bala tɩ bãmb ra gidga reemẽ wã.",sports,travel,"SENTENCE:
+ A pa tõog n dik tɩt nins sẽn n da tõe n saõog a toogã, bala tɩ bãmb ra gidga reemẽ wã. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Vɛɛgã wilgame tɩ SP wã yõkda pagba zĩisa yiib sa n yɩɩd roapã.,health,travel,"SENTENCE:
+ Vɛɛgã wilgame tɩ SP wã yõkda pagba zĩisa yiib sa n yɩɩd roapã. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Yoʋʋmd buudu n ka tu ni sor-kʋʋn tara bũmb masiib wʋsgu n ka soãma ni adam biig ying ye, wala methanol n tõe wa ne zonglem maa kũum baa sẽn mika me tɩ kidg n fiʋʋ.",health,travel,"SENTENCE:
+ Yoʋʋmd buudu n ka tu ni sor-kʋʋn tara bũmb masiib wʋsgu n ka soãma ni adam biig ying ye, wala methanol n tõe wa ne zonglem maa kũum baa sẽn mika me tɩ kidg n fiʋʋ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Sẽn yãt-b beeda zĩisa fãa wã yenyela sẽn ka kɩs-menga sɩd sẽn ka be la yɛɛsgã ra tũuda ne semend fãa AP sẽ paam gesg sõma.,health,travel,"SENTENCE:
+ Sẽn yãt-b beeda zĩisa fãa wã yenyela sẽn ka kɩs-menga sɩd sẽn ka be la yɛɛsgã ra tũuda ne semend fãa AP sẽ paam gesg sõma. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Zirs soaadba sãoor n paasda wata ne sor zug sãmpoaga, rẽ yi sabaabo tɩ bãngdba bao yell tɩɩm n na sõng tɩp la b malg sãmpoaga yĩnsi.",health,travel,"SENTENCE:
+ Zirs soaadba sãoor n paasda wata ne sor zug sãmpoaga, rẽ yi sabaabo tɩ bãngdba bao yell tɩɩm n na sõng tɩp la b malg sãmpoaga yĩnsi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Baoodba raad gomda tɩ woto tõe wa ne pĩnd yãab ne kãnsɛɛr, kos-kudgo, sida la pali bãada sẽn n be naong tẽnse wa, zĩig ning sẽn n põsdba geel pʋgẽ ne bãas wa bĩisã kãnsɛɛrã tõe yi pʋɩ-sʋka sẽn n yaa sẽn n be arzɛk tẽnse wa.",health,travel,"SENTENCE:
+ Baoodba raad gomda tɩ woto tõe wa ne pĩnd yãab ne kãnsɛɛr, kos-kudgo, sida la pali bãada sẽn n be naong tẽnse wa, zĩig ning sẽn n põsdba geel pʋgẽ ne bãas wa bĩisã kãnsɛɛrã tõe yi pʋɩ-sʋka sẽn n yaa sẽn n be arzɛk tẽnse wa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Logtor a Ehud Ur, sẽn n yaa Logtoɛɛmb karen-saambã Dalhousie University Halifax pʋgẽ, Nouvelle-Ecosse la Kanada Diabɛt siãnsã tẽnga sullã taoor soaba keoogame tɩ vɛɛsgra na yaa paalm.",health,travel,"SENTENCE:
+ Logtor a Ehud Ur, sẽn n yaa Logtoɛɛmb karen-saambã Dalhousie University Halifax pʋgẽ, Nouvelle-Ecosse la Kanada Diabɛt siãnsã tẽnga sullã taoor soaba keoogame tɩ vɛɛsgra na yaa paalm. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Kãmb bãmba mi kẽeda b mense yɛl wʋsgo, bala b ""kẽnda yelle manesem pʋgẽ, maan zaba, la maan bi-bees tʋʋma"" na sõng b kalkõtã, bale b kalkõtã ka tõe sõng ne manesem zaal ye.",health,travel,"SENTENCE:
+ Kãmb bãmba mi kẽeda b mense yɛl wʋsgo, bala b ""kẽnda yelle manesem pʋgẽ, maan zaba, la maan bi-bees tʋʋma"" na sõng b kalkõtã, bale b kalkõtã ka tõe sõng ne manesem zaal ye. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Pemsom ninga sẽn n yit kooma zug tɩ sebga rɩkda wa, sãn n yaa rengdo, a tõe n waa n baase biisi n kõ neba.",health,travel,"SENTENCE:
+ Pemsom ninga sẽn n yit kooma zug tɩ sebga rɩkda wa, sãn n yaa rengdo, a tõe n waa n baase biisi n kõ neba. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Neb Kẽer tẽedã me tɩ ninsaal maneg raab zãmsg sõng mi yaa sekame yaa yaamse wʋsgo.,health,travel,"SENTENCE:
+ Neb Kẽer tẽedã me tɩ ninsaal maneg raab zãmsg sõng mi yaa sekame yaa yaamse wʋsgo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+A Potro reega tipgo a bãonk n wã la baa ne rẽ a tõog n lebg n waa reemẽ wã.,health,sports,"SENTENCE:
+ A Potro reega tipgo a bãonk n wã la baa ne rẽ a tõog n lebg n waa reemẽ wã. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Sẽn n paasde, b sẽn n pa pãam dɩɩb kãense tõe n wã ne bib deprɛsɩyõ, ri-paoore walla baoosgo kũum.",health,travel,"SENTENCE:
+ Sẽn n paasde, b sẽn n pa pãam dɩɩb kãense tõe n wã ne bib deprɛsɩyõ, ri-paoore walla baoosgo kũum. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Amstɛdams tẽnga taoor dãmba, ne gilg-n-ges yel-sõma tʋʋm noor taoor dãmba wilgame tɩ gʋʋda sãamda tuga, la yaa bũmb sẽn n tõe n wa ne zu-loees neba laafɩ wɛɛngẽ, tɩ boe zu-loe-Kasẽn ng se dat n luba n be.",health,travel,"SENTENCE:
+ Amstɛdams tẽnga taoor dãmba, ne gilg-n-ges yel-sõma tʋʋm noor taoor dãmba wilgame tɩ gʋʋda sãamda tuga, la yaa bũmb sẽn n tõe n wa ne zu-loees neba laafɩ wɛɛngẽ, tɩ boe zu-loe-Kasẽn ng se dat n luba n be. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Logtor yira tuuda soor n na gidg bã-loongdma, wala b welga bãanda toor zale ne bãand dãmba taabã sẽ naa n yilẽ ta ra wa long neba taab ne bãanga bil ye.",health,travel,"SENTENCE:
+ Logtor yira tuuda soor n na gidg bã-loongdma, wala b welga bãanda toor zale ne bãand dãmba taabã sẽ naa n yilẽ ta ra wa long neba taab ne bãanga bil ye. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Haiti tẽnga tʋʋm-nõor ning n geta bʋ-kaore la bas-yard-naamã mãana vaɛsg nao-kẽndr n wilgdẽ tɩ ya ONU tẽng-na-gãand-bãan sodaasã sẽn ya Nepal zamãana neba n tudgi n taal bãaga n kẽes Haiti zamãana pʋga.,health,travel,"SENTENCE:
+ Haiti tẽnga tʋʋm-nõor ning n geta bʋ-kaore la bas-yard-naamã mãana vaɛsg nao-kẽndr n wilgdẽ tɩ ya ONU tẽng-na-gãand-bãan sodaasã sẽn ya Nepal zamãana neba n tudgi n taal bãaga n kẽes Haiti zamãana pʋga. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Baan-lebsduma, maa rʋms masiibse n tõe pogl neb maa ku neb ni pãnga, rʋms kaensa ka tʋʋlen boolde tɩ baan-biise ye.",health,travel,"SENTENCE:
+ Baan-lebsduma, maa rʋms masiibse n tõe pogl neb maa ku neb ni pãnga, rʋms kaensa ka tʋʋlen boolde tɩ baan-biise ye. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Kãmba sẽn n tare TDA wã ka tõe ninge b yaama lɛkolla tʋʋma ye, la b tõe ninge yõod wʋsg ne yɛl b sẽn nong n maande wa reema bi n gete b noog yiid dese bi gulsde gomd n ka ning bɛoodg.",health,travel,"SENTENCE:
+ Kãmba sẽn n tare TDA wã ka tõe ninge b yaama lɛkolla tʋʋma ye, la b tõe ninge yõod wʋsg ne yɛl b sẽn nong n maande wa reema bi n gete b noog yiid dese bi gulsde gomd n ka ning bɛoodg. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Yuumda ye pʋge, nɛd n tar bãaga bil tõe yõe n loonga a pẽt-n-taase 10 bi 15.",health,travel,"SENTENCE:
+ Yuumda ye pʋge, nɛd n tar bãaga bil tõe yõe n loonga a pẽt-n-taase 10 bi 15. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Zabra sẽn wa saa, ti'b taal sã-poagbã n kēng logtor yira loogr poorẽ, nɛba taab sõor n zems 40 sẽn be bãẽsa rooga pʋgẽ paa zak pʋgẽ n zãgs ti bãmb pa na n leb b bãengs root pʋsẽn ye.",health,travel,"SENTENCE:
+ Zabra sẽn wa saa, ti'b taal sã-poagbã n kēng logtor yira loogr poorẽ, nɛba taab sõor n zems 40 sẽn be bãẽsa rooga pʋgẽ paa zak pʋgẽ n zãgs ti bãmb pa na n leb b bãengs root pʋsẽn ye. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Soolmã naab a Augustus sɩnge na rɩka tʋʋm logtoɛɛmbã la a rag zugla Rome soolmã pipi tɩbsg sull na sõng zaba loogre poore.,health,travel,"SENTENCE:
+ Soolmã naab a Augustus sɩnge na rɩka tʋʋm logtoɛɛmbã la a rag zugla Rome soolmã pipi tɩbsg sull na sõng zaba loogre poore. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"La baoosgo, sofɛɛrã paama sãn-pogr kasẽng a zugẽ wã.",health,travel,"SENTENCE:
+ La baoosgo, sofɛɛrã paama sãn-pogr kasẽng a zugẽ wã. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"""Ed tara moasã kiuugã 4 yõense sẽn n ka tare sɩkra bãaga sẽn n reeg dag n tare bãaga,"" a n paase.",health,travel,"SENTENCE:
+ ""Ed tara moasã kiuugã 4 yõense sẽn n ka tare sɩkra bãaga sẽn n reeg dag n tare bãaga,"" a n paase. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Solg n pozõna ka tõe bãng tao tao woto ye. Bãaga biis makr wa wʋkra yaa gill wʋsg tɩ tao-tao vɛɛsg tõog n maane.,health,travel,"SENTENCE:
+ Solg n pozõna ka tõe bãng tao tao woto ye. Bãaga biis makr wa wʋkra yaa gill wʋsg tɩ tao-tao vɛɛsg tõog n maane. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Woto n mãan-, reem-rembdã yũu cannabis sɩgaarã neba taoore teatrã rooga pʋgẽ, la'b rat tɩ neba maan wa bãmba.",entertainment,travel,"SENTENCE:
+ Woto n mãan-, reem-rembdã yũu cannabis sɩgaarã neba taoore teatrã rooga pʋgẽ, la'b rat tɩ neba maan wa bãmba. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+A aerosmif yalsa a gigrã a sẽ da sõmb n kẽng n tɩ reem n baas zɩig niynsã.,entertainment,travel,"SENTENCE:
+ A aerosmif yalsa a gigrã a sẽ da sõmb n kẽng n tɩ reem n baas zɩig niynsã. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Yãmb sã n date pẽnẽg aksiõ wã sõma, sasa, yãmb segdame n ta bee nin tao-tao n na yill n paame zĩig n na ziind ka zar ni mizica ye.",entertainment,travel,"SENTENCE:
+ Yãmb sã n date pẽnẽg aksiõ wã sõma, sasa, yãmb segdame n ta bee nin tao-tao n na yill n paame zĩig n na ziind ka zar ni mizica ye. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Film dãmba nãand buudã toe-toe wʋsgu n diki n tʋm hal yʋʋm ka tegs bee me. A minit 35 n yaa soãma n yiida fãa wã ( 36 x 24 mm negatifã ) n ya n bee wʋsg n yɩɩd.,entertainment,travel,"SENTENCE:
+ Film dãmba nãand buudã toe-toe wʋsgu n diki n tʋm hal yʋʋm ka tegs bee me. A minit 35 n yaa soãma n yiida fãa wã ( 36 x 24 mm negatifã ) n ya n bee wʋsg n yɩɩd. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Baa wan san ya bumb neba sin maande, Disne ramb pa sak ye, neb pa toen nda seba nins sin kitd tib toen kaaga nkon neda to ye.",entertainment,travel,"SENTENCE:
+ Baa wan san ya bumb neba sin maande, Disne ramb pa sak ye, neb pa toen nda seba nins sin kitd tib toen kaaga nkon neda to ye. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Gesra puiba zĩisa yimbre fãa goamda sonsg la ning n be kareng-sebre n ya fasi puga, ri poore n yaoli n ko vẽenem sonsga zugu ni solemdo.",entertainment,sports,"SENTENCE:
+ Gesra puiba zĩisa yimbre fãa goamda sonsg la ning n be kareng-sebre n ya fasi puga, ri poore n yaoli n ko vẽenem sonsga zugu ni solemdo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Televizõ bed kẽer da lugl zĩis toɛy-toɛy Rome tẽnga pʋgẽ na baase neba tɩ b gẽese kʋʋra.,entertainment,travel,"SENTENCE:
+ Televizõ bed kẽer da lugl zĩis toɛy-toɛy Rome tẽnga pʋgẽ na baase neba tɩ b gẽese kʋʋra. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Sophocle la Aristophane kete yaa dramaturg bɛd sẽn n mi wʋsgo la b tʋʋma naaga dũniyã gʋlsem bɛd tʋʋma pʋgẽ.,entertainment,entertainment,"SENTENCE:
+ Sophocle la Aristophane kete yaa dramaturg bɛd sẽn n mi wʋsgo la b tʋʋma naaga dũniyã gʋlsem bɛd tʋʋma pʋgẽ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Reema a yembr fãa le tẽegda neba n kẽed ne karengã sɛba la nins koamba n sõmb n bao b sã n wa be sɛb-roogẽ.,entertainment,travel,"SENTENCE:
+ Reema a yembr fãa le tẽegda neba n kẽed ne karengã sɛba la nins koamba n sõmb n bao b sã n wa be sɛb-roogẽ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Fo sã n dat ti bũrga yi wʋsg, akordiyõ wã sẽn n yaa yʋm-teoogã zugu, fo segd n rĩ-a lʋgrã ne pãnga bi tʋulm.",entertainment,travel,"SENTENCE:
+ Fo sã n dat ti bũrga yi wʋsg, akordiyõ wã sẽn n yaa yʋm-teoogã zugu, fo segd n rĩ-a lʋgrã ne pãnga bi tʋulm. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Fo tõe yaa pyramid dãmb lik pʋga la f le tõe yaab la sĩi tɩ reema nan ka sɩng ye.,entertainment,travel,"SENTENCE:
+ Fo tõe yaa pyramid dãmb lik pʋga la f le tõe yaab la sĩi tɩ reema nan ka sɩng ye. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Makr zinga pouguin ya wala waago, zim gnongbo, foto ramba, liouli gesgo, we-roumsi la bangr kibaye sen kind ne we-viouga.",entertainment,travel,"SENTENCE:
+ Makr zinga pouguin ya wala waago, zim gnongbo, foto ramba, liouli gesgo, we-roumsi la bangr kibaye sen kind ne we-viouga. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Sphinx yaa wã neerem buudu la solmd wogd sonsda.,entertainment,travel,"SENTENCE:
+ Sphinx yaa wã neerem buudu la solmd wogd sonsda. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"b mii n tara ri-sõmse, bõn-yʋʋdse la reem, n na yil tɩ nɛba pa su-nõog pʋga la b ra yi zĩiga pʋg ye.",entertainment,travel,"SENTENCE:
+ b mii n tara ri-sõmse, bõn-yʋʋdse la reem, n na yil tɩ nɛba pa su-nõog pʋga la b ra yi zĩiga pʋg ye. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Global organizasõ sẽn zoe n kõt kibay ne gilimdu la Zapõ rãmb goama, paka televizõ, ẽntɛrnete la teed a taab porgram dãmb ne Ɛspayõl, Italiyẽ-rãmb, la Koore rãmb goama.",entertainment,travel,"SENTENCE:
+ Global organizasõ sẽn zoe n kõt kibay ne gilimdu la Zapõ rãmb goama, paka televizõ, ẽntɛrnete la teed a taab porgram dãmb ne Ɛspayõl, Italiyẽ-rãmb, la Koore rãmb goama. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+A Simõ tʋma emisõ rãmb wʋsg pʋgẽ nãnd tɩ Simpsõ na n pa ta ye.,entertainment,travel,"SENTENCE:
+ A Simõ tʋma emisõ rãmb wʋsg pʋgẽ nãnd tɩ Simpsõ na n pa ta ye. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Woto na n sõnga tãõdaba ti b bãng n mãan b aksiõ ne kẽnã jeu video wã pʋga ti bala b tõẽ yilma bumba pemsma pʋga.,entertainment,entertainment,"SENTENCE:
+ Woto na n sõnga tãõdaba ti b bãng n mãan b aksiõ ne kẽnã jeu video wã pʋga ti bala b tõẽ yilma bumba pemsma pʋga. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Neb sẽn tat 100 n da zĩnd yi-kãadem pipi tẽegr kibsã, kãadb a yembr sẽn mare yʋʋm sẽn loogẽ.",entertainment,travel,"SENTENCE:
+ Neb sẽn tat 100 n da zĩnd yi-kãadem pipi tẽegr kibsã, kãadb a yembr sẽn mare yʋʋm sẽn loogẽ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Yɩɩlla yiibe n yit filim pʋgẽ, Audition (The Fools Who Dream) la City of Stars, paama bõnd-kãensã welgr yẽgre yɩɩlll sẽn n yaa sõm yɩɩd a taaba. Lionsgate studio paama bõnd-kãensã welgr a 26 — sẽn n yɩɩd filim tʋʋmd zĩigsa fãaag.",entertainment,entertainment,"SENTENCE:
+ Yɩɩlla yiibe n yit filim pʋgẽ, Audition (The Fools Who Dream) la City of Stars, paama bõnd-kãensã welgr yẽgre yɩɩlll sẽn n yaa sõm yɩɩd a taaba. Lionsgate studio paama bõnd-kãensã welgr a 26 — sẽn n yɩɩd filim tʋʋmd zĩigsa fãaag. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Kouritan taglem taa naoyakem pissopoé 70 km zin nida sen pin wan la a taa naoyakem koabga 100km sen zanrin wan.,geography,travel,"SENTENCE:
+ Kouritan taglem taa naoyakem pissopoé 70 km zin nida sen pin wan la a taa naoyakem koabga 100km sen zanrin wan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Sen lebg goab babga, Niagara koom sin zoet beebe. Sen kiend nug ritgo, Muskok zi ninra beebeene.",geography,travel,"SENTENCE:
+ Sen lebg goab babga, Niagara koom sin zoet beebe. Sen kiend nug ritgo, Muskok zi ninra beebeene. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ellsworth tẽng-ganga ya Peninsula wĩn-goabga soolma, a gubga me ni Bellingshausen mog-ma.",geography,travel,"SENTENCE:
+ Ellsworth tẽng-ganga ya Peninsula wĩn-goabga soolma, a gubga me ni Bellingshausen mog-ma. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+A South Pole Traverse (maa so-kõ-bedra) yaa km 1600 so-buka n yit McMurdo Station wã Ross Sea wã zugu tʋg n ta tẽnga tɛka.,geography,travel,"SENTENCE:
+ A South Pole Traverse (maa so-kõ-bedra) yaa km 1600 so-buka n yit McMurdo Station wã Ross Sea wã zugu tʋg n ta tẽnga tɛka. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Tãng-wook kãnga zĩiga bee f sã n looge Machu Picchu baasga rɩtg-baobgo, a le ya ruina fot dãmb dikr zĩiga wakat wʋsgo.",geography,travel,"SENTENCE:
+ Tãng-wook kãnga zĩiga bee f sã n looge Machu Picchu baasga rɩtg-baobgo, a le ya ruina fot dãmb dikr zĩiga wakat wʋsgo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Encelade yaa bũmb n tar neng yɩɩdq taab wĩntoogã n rɩkda pʋgẽ ,a nenga rɩkda wintooga buguma 90 koabg pʋgẽ.",geography,science/technology,"SENTENCE:
+ Encelade yaa bũmb n tar neng yɩɩdq taab wĩntoogã n rɩkda pʋgẽ ,a nenga rɩkda wintooga buguma 90 koabg pʋgẽ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+B ra ka toẽ n yã bumb a to n zʋʋg saas sẽn ka tar sawadgo n le yaa neere n yiid tãms nins sẽn karg n gubgã. Duni kãnga zĩ bilfu bal n toẽ yãnd bi wuma yel tang bok pugẽ.,geography,travel,"SENTENCE:
+ B ra ka toẽ n yã bumb a to n zʋʋg saas sẽn ka tar sawadgo n le yaa neere n yiid tãms nins sẽn karg n gubgã. Duni kãnga zĩ bilfu bal n toẽ yãnd bi wuma yel tang bok pugẽ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Moasa ne Zapo.Zapo ra yaa ko-sʋk tẽngã,taki wa Gãrãnd Bertay.",geography,travel,"SENTENCE:
+ Moasa ne Zapo.Zapo ra yaa ko-sʋk tẽngã,taki wa Gãrãnd Bertay. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Sẽn yɩɩd yẽ sebg kẽng sẽn boond tɩ vãad korg ne Maldive dãmb goam bũudu,sebg sẽn n kaosd n tat kɩlometr 240 wakata lɛɛre a ye (149 mile wakata lɛɛr a ye).",geography,travel,"SENTENCE:
+ Sẽn yɩɩd yẽ sebg kẽng sẽn boond tɩ vãad korg ne Maldive dãmb goam bũudu,sebg sẽn n kaosd n tat kɩlometr 240 wakata lɛɛre a ye (149 mile wakata lɛɛr a ye). 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Tirki tẽnga, kʋlsa y naage a yãmbda kɩlometr men-yɩlende 783 562(300 948 sq mi), ta pugẽ kɩlometr men-yilenda 755688(291,773 sq mi) y b Azi goabg baobga nintaoora la kɩlometr men-yilenda 23764(9174 sq mi) Erop pʋgẽ.",geography,travel,"SENTENCE:
+ Tirki tẽnga, kʋlsa y naage a yãmbda kɩlometr men-yɩlende 783 562(300 948 sq mi), ta pugẽ kɩlometr men-yilenda 755688(291,773 sq mi) y b Azi goabg baobga nintaoora la kɩlometr men-yilenda 23764(9174 sq mi) Erop pʋgẽ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Zamaan wʋsgo n yet tɩ baamb n soa shetland goabg baobgo ko-gub-tẽnsa, n paam lugsga yʋʋm 1819 la a tar soda-zĩisa wʋsg fãa, ni yoob n be tʋʋm sugu yumm 2020.",geography,travel,"SENTENCE:
+ Zamaan wʋsgo n yet tɩ baamb n soa shetland goabg baobgo ko-gub-tẽnsa, n paam lugsga yʋʋm 1819 la a tar soda-zĩisa wʋsg fãa, ni yoob n be tʋʋm sugu yumm 2020. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Apia yaa Samoa zamaana na-tẽnga. Ten-bila bee a Upolu ko-gũb-tẽnga n tar neb n ka ta 40.000.,geography,travel,"SENTENCE:
+ Apia yaa Samoa zamaana na-tẽnga. Ten-bila bee a Upolu ko-gũb-tẽnga n tar neb n ka ta 40.000. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Sobg-kasengã sẽn zãr ne tẽngã yĩnga, yaa toog tɩ mag bũmb ning a sẽn tõe maan Amerik wala Karayiib tẽnsã.",geography,travel,"SENTENCE:
+ Sobg-kasengã sẽn zãr ne tẽngã yĩnga, yaa toog tɩ mag bũmb ning a sẽn tõe maan Amerik wala Karayiib tẽnsã. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+A yaa baneg zinss sandin la yalmamin zinss sen zinké.,geography,travel,"SENTENCE:
+ A yaa baneg zinss sandin la yalmamin zinss sen zinké. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Wéogan pas zin sen maass bal yé. A tara boun kouda sen da bé tamssin.,geography,travel,"SENTENCE:
+ Wéogan pas zin sen maass bal yé. A tara boun kouda sen da bé tamssin. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Amerik zamaana tẽng rigingu mams-rẽesdem n tik ne tẽng-gãndã vɛɛsg tʋʋma wilgame tɩ tẽng riging baa fɩ ra ka be Islande tẽnga pʋga rasma a yopoe n looga ye.,geography,travel,"SENTENCE:
+ Amerik zamaana tẽng rigingu mams-rẽesdem n tik ne tẽng-gãndã vɛɛsg tʋʋma wilgame tɩ tẽng riging baa fɩ ra ka be Islande tẽnga pʋga rasma a yopoe n looga ye. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Tãnga bok zãaga zãng ne duniwã sẽn ketã, a be tãnga ye zug sẽn be Mak win ditgo.",geography,travel,"SENTENCE:
+ Tãnga bok zãaga zãng ne duniwã sẽn ketã, a be tãnga ye zug sẽn be Mak win ditgo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"

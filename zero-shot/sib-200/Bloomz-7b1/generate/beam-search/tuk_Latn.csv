@@ -1,0 +1,2449 @@
+text,actual_category,predicted_category,generated_text
+"Mutasiýa täze genetiki dürlüleşmäni goşýar, seçgi bolsa, ony äşgär dürlüleşmäniň howzundan aýyrýar.",science/technology,science/technology,"SENTENCE:
+ Mutasiýa täze genetiki dürlüleşmäni goşýar, seçgi bolsa, ony äşgär dürlüleşmäniň howzundan aýyrýar. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+Ýadro bombasy bir ýadrony köp sanly proton we neýtron bilen bir ýere jemlemäge energiýanyň zerurdygy baradaky ýörelge boýunça işleýär.,science/technology,science/technology,"SENTENCE:
+ Ýadro bombasy bir ýadrony köp sanly proton we neýtron bilen bir ýere jemlemäge energiýanyň zerurdygy baradaky ýörelge boýunça işleýär. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+Ýadro iki bölejikden - neýtronlardan we protonlardan durýar.,science/technology,science/technology,"SENTENCE:
+ Ýadro iki bölejikden - neýtronlardan we protonlardan durýar. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+Ol zum obýektiwleriniň üýtgewsiz fokus uzaklykly obýektiwleriň baryp ýetýän hiline deňeşdirip boljak ýokary hilli suratlary öndürmegine mümkinçilik berdi.,science/technology,travel,"SENTENCE:
+ Ol zum obýektiwleriniň üýtgewsiz fokus uzaklykly obýektiwleriň baryp ýetýän hiline deňeşdirip boljak ýokary hilli suratlary öndürmegine mümkinçilik berdi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Olar birnäçe sebäbe görä web-proksilerden has üstündir: Olar diňe http-ni däl-de, ähli Internet trafigini täzeden ugrukdyrýar.",science/technology,N/A,"SENTENCE:
+ Olar birnäçe sebäbe görä web-proksilerden has üstündir: Olar diňe http-ni däl-de, ähli Internet trafigini täzeden ugrukdyrýar. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: tech tech</s>"
+"Interaktiw dizaýn multimedia önümçiligi baradaky çaklamalaryňyza gaýtadan baha berip, liniýasyz usullar arkaly pikirlenmegi öwrenmegiňizi talap edýär.",science/technology,travel,"SENTENCE:
+ Interaktiw dizaýn multimedia önümçiligi baradaky çaklamalaryňyza gaýtadan baha berip, liniýasyz usullar arkaly pikirlenmegi öwrenmegiňizi talap edýär. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ol adaty praktika öwrüldi, ýöne demir, arabalaryň agaç tigirlerinde has köp könelmä sebäp bolýardy.",science/technology,travel,"SENTENCE:
+ Ol adaty praktika öwrüldi, ýöne demir, arabalaryň agaç tigirlerinde has köp könelmä sebäp bolýardy. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Sürüler birden üçe çenli garyndaş uly erkekden, otuz sana barýança eneden we çagalardan ybaratdyr.",science/technology,travel,"SENTENCE:
+ Sürüler birden üçe çenli garyndaş uly erkekden, otuz sana barýança eneden we çagalardan ybaratdyr. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Emeli akyldan ylmy fantastikanyň güýçli ysy gelýän-de bolsa, emeli akyl bir maşynda özüňi alyp baryş, öwrenmek we akylly uýgunlaşmak bilen meşgullanýan, kompýuter ylmynyň örän möhüm şahasyny emele getirýär.",science/technology,travel,"SENTENCE:
+ Emeli akyldan ylmy fantastikanyň güýçli ysy gelýän-de bolsa, emeli akyl bir maşynda özüňi alyp baryş, öwrenmek we akylly uýgunlaşmak bilen meşgullanýan, kompýuter ylmynyň örän möhüm şahasyny emele getirýär. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Şol sebäpli, bu formatyň ölçeg gatnaşygy 3:2 diýlip aýdylýar (iň ýönekeý bitin san almak üçin on ikä bölmek arkaly).",science/technology,travel,"SENTENCE:
+ Şol sebäpli, bu formatyň ölçeg gatnaşygy 3:2 diýlip aýdylýar (iň ýönekeý bitin san almak üçin on ikä bölmek arkaly). 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Hemra telefony, umuman, mobil telefonyň ornuny tutmaýar, çünki telefonda jaň etmek üçin açyk howada we hemranyň göni görünýän çäginde durmagyňyz gerek.",science/technology,travel,"SENTENCE:
+ Hemra telefony, umuman, mobil telefonyň ornuny tutmaýar, çünki telefonda jaň etmek üçin açyk howada we hemranyň göni görünýän çäginde durmagyňyz gerek. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Tirkeg ýollary bary-ýogy ugurdaş agaç tagtalardan ybarat bolsa-da, şol döwrüň birneme çarkandakly ýollaryna garanyňda, atlaryň has ýokary tizlige ýetmegine we has köp ýük çekmegine mümkinçilik berdi.",science/technology,travel,"SENTENCE:
+ Tirkeg ýollary bary-ýogy ugurdaş agaç tagtalardan ybarat bolsa-da, şol döwrüň birneme çarkandakly ýollaryna garanyňda, atlaryň has ýokary tizlige ýetmegine we has köp ýük çekmegine mümkinçilik berdi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Adamlar gadymdan bäri altyn, kümüş we mis ýaly esasy himiki elementler barada bilýär, sebäbi bularyň ählisini tebigatda tebigy görnüşde tapyp bolýar we olary ýöntem gurallar bilen gazyp almak birneme ýönekeýdir.",science/technology,travel,"SENTENCE:
+ Adamlar gadymdan bäri altyn, kümüş we mis ýaly esasy himiki elementler barada bilýär, sebäbi bularyň ählisini tebigatda tebigy görnüşde tapyp bolýar we olary ýöntem gurallar bilen gazyp almak birneme ýönekeýdir. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Tigir dünýäni akyla sygmajak görnüşlerde özgertdi. Tigiriň biziň üçin bitiren iň uly işi gatnawy has ýeňilleşdirip we çaltlaşdyryp bermegidir.,science/technology,travel,"SENTENCE:
+ Tigir dünýäni akyla sygmajak görnüşlerde özgertdi. Tigiriň biziň üçin bitiren iň uly işi gatnawy has ýeňilleşdirip we çaltlaşdyryp bermegidir. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Ol şekiliň tutuş ekrany doldurmagy üçin şeýle edilýär. Oňa owerskan diýilýär.,science/technology,travel,"SENTENCE:
+ Ol şekiliň tutuş ekrany doldurmagy üçin şeýle edilýär. Oňa owerskan diýilýär. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Nemes suwasty gämilerine suwasty gaýyklar diýilýärdi. Nemesler öz suwasty gämilerini nawigirlemäge we işletmäge örän ökdedi.,science/technology,travel,"SENTENCE:
+ Nemes suwasty gämilerine suwasty gaýyklar diýilýärdi. Nemesler öz suwasty gämilerini nawigirlemäge we işletmäge örän ökdedi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Onuň fiziki ýagdaýy üýtgäp bilse-de, himiki ýagdaýy şol durşuna galýar.",science/technology,travel,"SENTENCE:
+ Onuň fiziki ýagdaýy üýtgäp bilse-de, himiki ýagdaýy şol durşuna galýar. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Suwuň ýüzündäki suw molekulalary biri-birine ýokardaky howa molekulalaryna bolan dartyşdan has güýçli dartylýandyklary sebäpli üstdäki dartylma bolup geçýär.,science/technology,science/technology,"SENTENCE:
+ Suwuň ýüzündäki suw molekulalary biri-birine ýokardaky howa molekulalaryna bolan dartyşdan has güýçli dartylýandyklary sebäpli üstdäki dartylma bolup geçýär. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+Kinony DVD formatyna öwürmäge synanyşyk edilende iň köp duşýan meseleleriň biri hem owerskan bolup durýar.,science/technology,entertainment,"SENTENCE:
+ Kinony DVD formatyna öwürmäge synanyşyk edilende iň köp duşýan meseleleriň biri hem owerskan bolup durýar. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Hususan-da, mikro-keşpleri dogry düşündirmek arkaly bir adamyň ýalan sözläp sözlemeýändigini anyklamagyň mümkindigi öňe sürülýär.",science/technology,travel,"SENTENCE:
+ Hususan-da, mikro-keşpleri dogry düşündirmek arkaly bir adamyň ýalan sözläp sözlemeýändigini anyklamagyň mümkindigi öňe sürülýär. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Altyny ähli görnüşdäki şekillere salmak mümkindir. Ony togalap, ownujak şekillere-de öwrüp bolýar.",science/technology,travel,"SENTENCE:
+ Altyny ähli görnüşdäki şekillere salmak mümkindir. Ony togalap, ownujak şekillere-de öwrüp bolýar. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Emeli akyl ulgamy indi öý kompýuterleriniň we wideo oýunlaryň birnäçe programma üpjünçiligi programmasyna ornaşdyrylandygy sebäpli, ýygy-ýygydan ykdysadyýet, lukmançylyk, inženerçilik we harby pudaklarda ulanylýar.",science/technology,N/A,"SENTENCE:
+ Emeli akyl ulgamy indi öý kompýuterleriniň we wideo oýunlaryň birnäçe programma üpjünçiligi programmasyna ornaşdyrylandygy sebäpli, ýygy-ýygydan ykdysadyýet, lukmançylyk, inženerçilik we harby pudaklarda ulanylýar. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: tech tech</s>"
+"Ol häzirem öndürilýär, ýöne has möhüm tarapy, onuň ölçeg gatnaşygy sanly kameralaryň surat sensory formatlary tarapyndan miras alyndy.",science/technology,travel,"SENTENCE:
+ Ol häzirem öndürilýär, ýöne has möhüm tarapy, onuň ölçeg gatnaşygy sanly kameralaryň surat sensory formatlary tarapyndan miras alyndy. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Köp betniýetli ulanylýan we köplenç üstünden gülünýän üçden biri kadasy suratda tertip-düzgün ölçegini saklamak bilen dinamizm döredýän ýönekeý bir gollanmadyr.,science/technology,travel,"SENTENCE:
+ Köp betniýetli ulanylýan we köplenç üstünden gülünýän üçden biri kadasy suratda tertip-düzgün ölçegini saklamak bilen dinamizm döredýän ýönekeý bir gollanmadyr. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ol, diňe bir, azyndan käbir dinozawrlaryň ýelekleriniň bolandygy barada eýýäm giňden ýaýran teoriýany tassyklamak bilen çäklenmän, eýsem daşlaşan galyndylardan adatça anyklap bolmaýan reňk we üç ölçegli ýerleşiş ýaly jikme-jiklikleri berýär.",science/technology,travel,"SENTENCE:
+ Ol, diňe bir, azyndan käbir dinozawrlaryň ýelekleriniň bolandygy barada eýýäm giňden ýaýran teoriýany tassyklamak bilen çäklenmän, eýsem daşlaşan galyndylardan adatça anyklap bolmaýan reňk we üç ölçegli ýerleşiş ýaly jikme-jiklikleri berýär. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Io hemrasynyň dartyş güýji meni nähili dartardy? Eger Io hemrasynyň üstünde duran bolsaňyz, agramyňyz Ýerdäkiden has ýeňil bolardy.",science/technology,travel,"SENTENCE:
+ Io hemrasynyň dartyş güýji meni nähili dartardy? Eger Io hemrasynyň üstünde duran bolsaňyz, agramyňyz Ýerdäkiden has ýeňil bolardy. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Federal awiasiýa müdirliginiň aýtmagyna görä, ""NextGen"" ulgamy uçarlara has gysga ugurlara uçmaga, her ýyl millionlarça gallon ýangyç tygşytlamaga we uglerod zyňyndylaryny azaltmaga mümkinçilik berýän ulgamdyr.",science/technology,travel,"SENTENCE:
+ Federal awiasiýa müdirliginiň aýtmagyna görä, ""NextGen"" ulgamy uçarlara has gysga ugurlara uçmaga, her ýyl millionlarça gallon ýangyç tygşytlamaga we uglerod zyňyndylaryny azaltmaga mümkinçilik berýän ulgamdyr. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Newrobiologik maglumatlar akyl ýetirişi barlamaga bolan teoretik çemeleşme üçin fiziki subutnamany üpjün edýär. Şonuň üçin, ol barlag ugruny daraldyp, has takyklaşdyrýar.",science/technology,science/technology,"SENTENCE:
+ Newrobiologik maglumatlar akyl ýetirişi barlamaga bolan teoretik çemeleşme üçin fiziki subutnamany üpjün edýär. Şonuň üçin, ol barlag ugruny daraldyp, has takyklaşdyrýar. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+"Ol 2 sagatlyk çykyşynyň dowamynda: ""Şu gün ""Apple"" telefonyň täzeden üstüni açýar, biz şu gün taryh ýazýarys"" diýdi.",science/technology,N/A,"SENTENCE:
+ Ol 2 sagatlyk çykyşynyň dowamynda: ""Şu gün ""Apple"" telefonyň täzeden üstüni açýar, biz şu gün taryh ýazýarys"" diýdi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: tech tech</s>"
+"Zum obýektiwleriniň kemçiligi fokuslamagyň çylşyrymlydygy, şeýle hem, fokus uzaklyklarynyň aralygyna ýetmek üçin zerur bolan obýektiw elementleriniň sanynyň ýönekeý obýektiwlere garanyňda has köp bolmaklygy bolup durýar.",science/technology,travel,"SENTENCE:
+ Zum obýektiwleriniň kemçiligi fokuslamagyň çylşyrymlydygy, şeýle hem, fokus uzaklyklarynyň aralygyna ýetmek üçin zerur bolan obýektiw elementleriniň sanynyň ýönekeý obýektiwlere garanyňda has köp bolmaklygy bolup durýar. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Telewizoryň pultuna çalym edýän ol dolandyryjy öz ornuny üç ölçegli giňişlikde üçburçlamak üçin, ulanyjynyň telewizorynyň gapdalynda ýerleşýän iki sany sensordan peýdalanýar.",science/technology,travel,"SENTENCE:
+ Telewizoryň pultuna çalym edýän ol dolandyryjy öz ornuny üç ölçegli giňişlikde üçburçlamak üçin, ulanyjynyň telewizorynyň gapdalynda ýerleşýän iki sany sensordan peýdalanýar. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Alymlar bu haýwanyň ýelekleriniň ýokarky böleginiň kaştan-goňur, aşaky böleginiň bolsa, solak ýa-da karotenoid reňkli bolandygyny aýdýarlar.",science/technology,travel,"SENTENCE:
+ Alymlar bu haýwanyň ýelekleriniň ýokarky böleginiň kaştan-goňur, aşaky böleginiň bolsa, solak ýa-da karotenoid reňkli bolandygyny aýdýarlar. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Uniwersitetiň ylmy-barlagçylarynyň aýtmagyna görä, şol iki birleşme biri-biri bilen reaksiýa girip, böwrekleriň işleýşini bekläp bilýän kristallary emele getirýär.",science/technology,science/technology,"SENTENCE:
+ Uniwersitetiň ylmy-barlagçylarynyň aýtmagyna görä, şol iki birleşme biri-biri bilen reaksiýa girip, böwrekleriň işleýşini bekläp bilýän kristallary emele getirýär. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+Ol 35 mm negatiwden dört esse diýen ýaly çözgüt berýär (3136 mm2 bilen 864).,science/technology,science/technology,"SENTENCE:
+ Ol 35 mm negatiwden dört esse diýen ýaly çözgüt berýär (3136 mm2 bilen 864). 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+"Ýewropa bilen gurlan suwasty aýna-süýümli kabel birikmeleri we giň zolakly hemra arkaly, Grenlandiýa ilatyň internet girişi bar bolan 93%-i bilen gowy baglanyşyk saklaýar.",science/technology,travel,"SENTENCE:
+ Ýewropa bilen gurlan suwasty aýna-süýümli kabel birikmeleri we giň zolakly hemra arkaly, Grenlandiýa ilatyň internet girişi bar bolan 93%-i bilen gowy baglanyşyk saklaýar. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Şu kategoriýadaky iň görnükli programmalaryň biri hem, gerekli dil maglumaty göçürilip alnansoň, awtonom terjime etmäge mümkinçilik berýän Google Terjimedir.",science/technology,travel,"SENTENCE:
+ Şu kategoriýadaky iň görnükli programmalaryň biri hem, gerekli dil maglumaty göçürilip alnansoň, awtonom terjime etmäge mümkinçilik berýän Google Terjimedir. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Gaz, suwuk ýa-da gaty görnüşde bolsun, onuň şol bir molekulýar gurluşy bardyr.",science/technology,travel,"SENTENCE:
+ Gaz, suwuk ýa-da gaty görnüşde bolsun, onuň şol bir molekulýar gurluşy bardyr. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Wideo ýazgy ulanmaklyk mikro-keşpleriň, sanlyja millisekunt dowam edýän ýüz hereketleriniň düşündirilmeginde möhüm açyşlara eltdi.",science/technology,science/technology,"SENTENCE:
+ Wideo ýazgy ulanmaklyk mikro-keşpleriň, sanlyja millisekunt dowam edýän ýüz hereketleriniň düşündirilmeginde möhüm açyşlara eltdi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+Adamlar müňlerçe we müňlerçe ýyldan bäri ulaltmak üçin linzalary ýasap hem-de ulanyp gelýär.,science/technology,travel,"SENTENCE:
+ Adamlar müňlerçe we müňlerçe ýyldan bäri ulaltmak üçin linzalary ýasap hem-de ulanyp gelýär. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Emma, ol ýeke däl, eksperiment geçirmek hem bar, we eksperiment soraglary bermek hem-de gözegçilikler etmek arkaly bir ýa-da birnäçe gipotezany aradan aýyrmakda ulanylýan synag bolup, ylmy barlaglara-da ýol görkezýär.",science/technology,science/technology,"SENTENCE:
+ Emma, ol ýeke däl, eksperiment geçirmek hem bar, we eksperiment soraglary bermek hem-de gözegçilikler etmek arkaly bir ýa-da birnäçe gipotezany aradan aýyrmakda ulanylýan synag bolup, ylmy barlaglara-da ýol görkezýär. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+"Ahyrsoňy, agaç tigirler demir tigirler bilen çalşyryldy. 1767-nji ýylda ilkinji doly demir relsler ulanyşa girizildi.",science/technology,travel,"SENTENCE:
+ Ahyrsoňy, agaç tigirler demir tigirler bilen çalşyryldy. 1767-nji ýylda ilkinji doly demir relsler ulanyşa girizildi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Köp kartlar islendik ýere jaň etmäge gowy bolsa-da, käbirleri ýurtlaryň belli bir toparlaryna amatly jaň ediş tariflerini üpjün etmeklige ýöriteleşýär.",science/technology,travel,"SENTENCE:
+ Köp kartlar islendik ýere jaň etmäge gowy bolsa-da, käbirleri ýurtlaryň belli bir toparlaryna amatly jaň ediş tariflerini üpjün etmeklige ýöriteleşýär. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Köp häzirkizaman gözleg teleskoplary amatly atmosfera şertleri bolan çola ýerlerde ýerleşýän mähnet desgalardyr.,science/technology,travel,"SENTENCE:
+ Köp häzirkizaman gözleg teleskoplary amatly atmosfera şertleri bolan çola ýerlerde ýerleşýän mähnet desgalardyr. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Polat iňňe üstdäki dartylma sebäpli suwuň ýüzünde ýüzýär.,science/technology,travel,"SENTENCE:
+ Polat iňňe üstdäki dartylma sebäpli suwuň ýüzünde ýüzýär. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Aslynda, biraz haýran galdyryp, 35 mm formatyň ini 36 mm we boýy 24 mm bolup durýar.",science/technology,travel,"SENTENCE:
+ Aslynda, biraz haýran galdyryp, 35 mm formatyň ini 36 mm we boýy 24 mm bolup durýar. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Aslynda, öýjükler ýaşaýşy öwrenmek üçin şeýle bir esasy hem-de möhümdir welin, olar köplenç ""ýaşaýşyň gurluş bloklary"" diýlip atlandyrylýar.",science/technology,travel,"SENTENCE:
+ Aslynda, öýjükler ýaşaýşy öwrenmek üçin şeýle bir esasy hem-de möhümdir welin, olar köplenç ""ýaşaýşyň gurluş bloklary"" diýlip atlandyrylýar. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Şahsy VPN (wirtual hususy tor) üpjün edijileri syýasy senzuradan we täjirçilik IP-geofiltrlemesinden aýlanyp geçmegiň ajaýyp usulydyr.,science/technology,N/A,"SENTENCE:
+ Şahsy VPN (wirtual hususy tor) üpjün edijileri syýasy senzuradan we täjirçilik IP-geofiltrlemesinden aýlanyp geçmegiň ajaýyp usulydyr. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: tech tech</s>"
+"Kosmos stansiýasynyň uçuşynyň başynda giroskopyň ýitendigine garamazdan, stansiýa açyk kosmosda ýöremegiň ahyryna çenli öz orientirlemesini saklady.",science/technology,travel,"SENTENCE:
+ Kosmos stansiýasynyň uçuşynyň başynda giroskopyň ýitendigine garamazdan, stansiýa açyk kosmosda ýöremegiň ahyryna çenli öz orientirlemesini saklady. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Şu görnüşde pikir ýöredýän adamlarda logiki pikir ýörediş bar bolup, olar modelleri ýatda saklap, meseleleri çözüp we ylmy synaglaryň üstünde işläp bilýär.",science/technology,travel,"SENTENCE:
+ Şu görnüşde pikir ýöredýän adamlarda logiki pikir ýörediş bar bolup, olar modelleri ýatda saklap, meseleleri çözüp we ylmy synaglaryň üstünde işläp bilýär. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Oselotlar ownuk jandarlary iýmegi gowy görýär. Olar başarsalar maýmynlary, ýylanlary, gemrijileri we guşlary tutýar. Oselotyň awlaýan jandarlarynyň hemmesi diýen ýaly özünden gaty kiçidir.",science/technology,travel,"SENTENCE:
+ Oselotlar ownuk jandarlary iýmegi gowy görýär. Olar başarsalar maýmynlary, ýylanlary, gemrijileri we guşlary tutýar. Oselotyň awlaýan jandarlarynyň hemmesi diýen ýaly özünden gaty kiçidir. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Käbir orta formatly plýonkaly kameralarda 6x6 sm formaty, has takygy 56x56 mm negatiw ulanylýar.",science/technology,travel,"SENTENCE:
+ Käbir orta formatly plýonkaly kameralarda 6x6 sm formaty, has takygy 56x56 mm negatiw ulanylýar. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Syýahatçylara syýahat planlaryna täsir edip biljekdigi sebäpli, sebite gazaply howanyň islendik howpy barada bilmeklik pugta maslahat berilýär.",travel,travel,"SENTENCE:
+ Syýahatçylara syýahat planlaryna täsir edip biljekdigi sebäpli, sebite gazaply howanyň islendik howpy barada bilmeklik pugta maslahat berilýär. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Awtobuslar etrabara awtobus duralgasyndan (derýanyň üsti bilen) günüň dowamynda ugraýar, ýöne köpüsi, esasanam gündogara we Jakar/Bumthang şäherine barýanlar 06:30 bilen 07:30 aralygynda ugraýar.",travel,travel,"SENTENCE:
+ Awtobuslar etrabara awtobus duralgasyndan (derýanyň üsti bilen) günüň dowamynda ugraýar, ýöne köpüsi, esasanam gündogara we Jakar/Bumthang şäherine barýanlar 06:30 bilen 07:30 aralygynda ugraýar. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ol atla uly durnuklylygy üpjün edýär, ýöne atlynyň aýaklarynyň dakylgy galmak potensialy zerarly, ol howpsuzlyk aladalaryna sebäp bolup bilýär.",travel,travel,"SENTENCE:
+ Ol atla uly durnuklylygy üpjün edýär, ýöne atlynyň aýaklarynyň dakylgy galmak potensialy zerarly, ol howpsuzlyk aladalaryna sebäp bolup bilýär. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Aýratyn tapawutly Baltika kruizleriniň köpüsinde Russiýanyň Sankt-Peterburg şäherinde uzak gezelenç etmek bardyr.,travel,travel,"SENTENCE:
+ Aýratyn tapawutly Baltika kruizleriniň köpüsinde Russiýanyň Sankt-Peterburg şäherinde uzak gezelenç etmek bardyr. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Maslahatda syýahatçylaryň ogurlyk etmeýändigi, bikanun girmeýändigi, bikanun bazara gatnaşmaýandygy, dilegçilik etmeýändigi ýa-da başga bir görnüşde beýleki adamlary öz bähbidine ulanmaýandygy hasap edilýär.",travel,travel,"SENTENCE:
+ Maslahatda syýahatçylaryň ogurlyk etmeýändigi, bikanun girmeýändigi, bikanun bazara gatnaşmaýandygy, dilegçilik etmeýändigi ýa-da başga bir görnüşde beýleki adamlary öz bähbidine ulanmaýandygy hasap edilýär. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Bir ýere syýahat etmezden ozal we syýahat wagtynda göz öňünde tutmaly köp zadyňyz bardyr.,travel,travel,"SENTENCE:
+ Bir ýere syýahat etmezden ozal we syýahat wagtynda göz öňünde tutmaly köp zadyňyz bardyr. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Günüň jöwzasynda syýahatçylar suwuň (ýa-da başga zatlaryň) illýuziýasyny döredýän salgymlary başdan geçirip bilýär.,travel,travel,"SENTENCE:
+ Günüň jöwzasynda syýahatçylar suwuň (ýa-da başga zatlaryň) illýuziýasyny döredýän salgymlary başdan geçirip bilýär. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Çagaly maşgalalar seýrek duşýar, ýöne käbir hosteller olara hususy otaglarda rugsat berýär.",travel,travel,"SENTENCE:
+ Çagaly maşgalalar seýrek duşýar, ýöne käbir hosteller olara hususy otaglarda rugsat berýär. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Mysal üçin, Luar jülgesindäki galalara, Reýn jülgesine baryp görmek ýa-da Dunaýyň boýundaky gyzykly şäherlere kruize çykmak ýa-da Eri kanalynda gaýykly ýüzmek.",travel,travel,"SENTENCE:
+ Mysal üçin, Luar jülgesindäki galalara, Reýn jülgesine baryp görmek ýa-da Dunaýyň boýundaky gyzykly şäherlere kruize çykmak ýa-da Eri kanalynda gaýykly ýüzmek. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Siziňkä meňzeş gezelençleri ýygy-ýygydan bronlaýan agent ulanmak has gowy bolup biler.,travel,travel,"SENTENCE:
+ Siziňkä meňzeş gezelençleri ýygy-ýygydan bronlaýan agent ulanmak has gowy bolup biler. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"2004-nji ýylyň ýanwarynda programmist Keýsi Fenton Islandiýa arzan uçuş tapsa-da, bolmaga ýer tapylmasoň, “CouchSurfing” esaslandyryldy.",travel,travel,"SENTENCE:
+ 2004-nji ýylyň ýanwarynda programmist Keýsi Fenton Islandiýa arzan uçuş tapsa-da, bolmaga ýer tapylmasoň, “CouchSurfing” esaslandyryldy. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Talyp wizalarynyň, umuman, adaty syýahatçy ýa-da işewürlik wizasyna garanyňda dürli talaplary we ýüz tutuş proseduralary bardyr.",travel,travel,"SENTENCE:
+ Talyp wizalarynyň, umuman, adaty syýahatçy ýa-da işewürlik wizasyna garanyňda dürli talaplary we ýüz tutuş proseduralary bardyr. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Her bir ýurduň awtoulagda bolmaly gyssagly zerur zatlary talap edýän özboluşly kanunlary hem bardyr.,travel,travel,"SENTENCE:
+ Her bir ýurduň awtoulagda bolmaly gyssagly zerur zatlary talap edýän özboluşly kanunlary hem bardyr. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Agentlikleriň köpüsi wagtly-wagtyna bronlama almaga höwesjeň bolsa-da, köp agentler belli bir syýahat görnüşlerine, tygşytlama aralyklaryna ýa-da mekanlara ýöriteleşýär.",travel,travel,"SENTENCE:
+ Agentlikleriň köpüsi wagtly-wagtyna bronlama almaga höwesjeň bolsa-da, köp agentler belli bir syýahat görnüşlerine, tygşytlama aralyklaryna ýa-da mekanlara ýöriteleşýär. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Syýahatçylaryň öz sebitlerinde tanyş bolmadyk zyýan beriji haýwanlaryna duş gelmegi mümkin.,travel,travel,"SENTENCE:
+ Syýahatçylaryň öz sebitlerinde tanyş bolmadyk zyýan beriji haýwanlaryna duş gelmegi mümkin. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Şeýle hem, demirgazykda, Merýemiň dünýä belli görünmeleriniň ýerleşýän ýeri bolan Fatima bibimiziň beýik sygynagyna (sygynma ýerine) baryp görüň.",travel,travel,"SENTENCE:
+ Şeýle hem, demirgazykda, Merýemiň dünýä belli görünmeleriniň ýerleşýän ýeri bolan Fatima bibimiziň beýik sygynagyna (sygynma ýerine) baryp görüň. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Gomada gezmek üçin boda-boda (motosiklet taksi) ulanyp bilersiňiz. Gysga gezelenç üçin adaty (ýerli) baha 500 kongolez franky töweregidir.,travel,travel,"SENTENCE:
+ Gomada gezmek üçin boda-boda (motosiklet taksi) ulanyp bilersiňiz. Gysga gezelenç üçin adaty (ýerli) baha 500 kongolez franky töweregidir. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Açyk howadaky işjeňlikleri halaýanlar üçin Deňizden asmana koridorynda ýöriş etmek wajypdyr.,travel,travel,"SENTENCE:
+ Açyk howadaky işjeňlikleri halaýanlar üçin Deňizden asmana koridorynda ýöriş etmek wajypdyr. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Pyýada safari (""gyrymsylyk ýörişi"", ""ýöriş safarisi"" ýa-da ""pyýadalamak"" hem diýilýär) birnäçe sagatlyk ýa-da birnäçe günlük pyýada gezişden ybaratdyr.",travel,travel,"SENTENCE:
+ Pyýada safari (""gyrymsylyk ýörişi"", ""ýöriş safarisi"" ýa-da ""pyýadalamak"" hem diýilýär) birnäçe sagatlyk ýa-da birnäçe günlük pyýada gezişden ybaratdyr. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Has çalt geçirmegiň ýeke-täk usuly ony barlanylan goş hökmünde ibermekdir. Awiakompaniýanyň düzgünleri gelen ýeriňiz bolan ýolagçy bolmasa goşy ibermäge rugsat bermez.,travel,travel,"SENTENCE:
+ Has çalt geçirmegiň ýeke-täk usuly ony barlanylan goş hökmünde ibermekdir. Awiakompaniýanyň düzgünleri gelen ýeriňiz bolan ýolagçy bolmasa goşy ibermäge rugsat bermez. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Hyryn-dykynlygy azaltmak üçin alynjak goşmaça 300 wagon jemi wagon sanyny 1300-e ýetirer.,travel,travel,"SENTENCE:
+ Hyryn-dykynlygy azaltmak üçin alynjak goşmaça 300 wagon jemi wagon sanyny 1300-e ýetirer. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Kiçi çagaly maşgalalara has köp taýynlyk gerek bolmagy mümkin, ýöne hatda bäbekler we mekdebe çenli çagalar bilen hem, bir güni açyk howada aňsat geçirmek mümkindir.",travel,travel,"SENTENCE:
+ Kiçi çagaly maşgalalara has köp taýynlyk gerek bolmagy mümkin, ýöne hatda bäbekler we mekdebe çenli çagalar bilen hem, bir güni açyk howada aňsat geçirmek mümkindir. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ýokarky giňişliklerde ýa-da dag geçelgelerinde awtoulag sürmekçi bolýan islendik adam garyň, buzuň ýa-da doňduryjy temperaturalaryň ähtimaldygyny göz öňünde tutmalydyr.",travel,travel,"SENTENCE:
+ Ýokarky giňişliklerde ýa-da dag geçelgelerinde awtoulag sürmekçi bolýan islendik adam garyň, buzuň ýa-da doňduryjy temperaturalaryň ähtimaldygyny göz öňünde tutmalydyr. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Häzirki wagtda Timbuktu, abraýy ony syýahatçylygyň gözel ýerine öwürýän-de we howa menzili bar-da bolsa, pukara şäherdir.",travel,travel,"SENTENCE:
+ Häzirki wagtda Timbuktu, abraýy ony syýahatçylygyň gözel ýerine öwürýän-de we howa menzili bar-da bolsa, pukara şäherdir. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Gar tupanlary gopanda, sizi sähelçe salymda batyryp goýmaga ýeterlik gar ýagyp bilýär.",travel,travel,"SENTENCE:
+ Gar tupanlary gopanda, sizi sähelçe salymda batyryp goýmaga ýeterlik gar ýagyp bilýär. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Günorta ýarym şarda tutuş dünýäniň daşyndan uçmak isleseňiz, transokean ugurlaryň ýokdugy sebäpli reýsleriň we baryljak ýerleriň saýlawy çäklidir.",travel,travel,"SENTENCE:
+ Günorta ýarym şarda tutuş dünýäniň daşyndan uçmak isleseňiz, transokean ugurlaryň ýokdugy sebäpli reýsleriň we baryljak ýerleriň saýlawy çäklidir. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"""Emirates"", ""Etihad Airways"", ""Qatar Airways"" we ""Türk Howaýollary"" ýaly awiakompaniýalar öz hyzmatlaryny ep-esli derejede Afrika giňeltdi hem-de başga ýewropa awiakompaniýalaryna garanyňda has bähbitli nyrhlarda Afrikanyň esasy şäherlerine uçuşlary hödürleýär.",travel,travel,"SENTENCE:
+ ""Emirates"", ""Etihad Airways"", ""Qatar Airways"" we ""Türk Howaýollary"" ýaly awiakompaniýalar öz hyzmatlaryny ep-esli derejede Afrika giňeltdi hem-de başga ýewropa awiakompaniýalaryna garanyňda has bähbitli nyrhlarda Afrikanyň esasy şäherlerine uçuşlary hödürleýär. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Wemblide hiç hili goşmaça ulag hereket etmez we ýerüsti otlular saklanmaz, awtoulag duralgasy we ulag-goýuş-ýolagçylyk desgalary bolsa, ýer üstünde elýeterli bolmaz.",travel,travel,"SENTENCE:
+ Wemblide hiç hili goşmaça ulag hereket etmez we ýerüsti otlular saklanmaz, awtoulag duralgasy we ulag-goýuş-ýolagçylyk desgalary bolsa, ýer üstünde elýeterli bolmaz. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Umuman, islendik bir daşary ýurtda uzak wagt bolmak öňünden wiza almagyňyzy talap eder.",travel,travel,"SENTENCE:
+ Umuman, islendik bir daşary ýurtda uzak wagt bolmak öňünden wiza almagyňyzy talap eder. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Her otluda MetroPlus we Metro wagonlary bardyr; MetroPlus wagonlary hemişe Keýptauna iň ýakyn otlynyň iň yzynda bolýar.,travel,travel,"SENTENCE:
+ Her otluda MetroPlus we Metro wagonlary bardyr; MetroPlus wagonlary hemişe Keýptauna iň ýakyn otlynyň iň yzynda bolýar. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Hemmeler jemgyýete gatnaşyp, transport ulgamlaryndan peýdalanýar. Hemme kişi diýen ýaly transport ulgamlaryndan şikaýat edýär.",travel,travel,"SENTENCE:
+ Hemmeler jemgyýete gatnaşyp, transport ulgamlaryndan peýdalanýar. Hemme kişi diýen ýaly transport ulgamlaryndan şikaýat edýär. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Sebitler selçeň ilatly bolansoň, we şol sebäpli ýagtylyk hapalanmasy köplenç problema bolmansoň, ýyldyzlardan hem lezzet alyp bilersiňiz.",travel,travel,"SENTENCE:
+ Sebitler selçeň ilatly bolansoň, we şol sebäpli ýagtylyk hapalanmasy köplenç problema bolmansoň, ýyldyzlardan hem lezzet alyp bilersiňiz. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Wiza talaplary we çykdajylary ýurtdan ýurda üýtgeýär hem-de oňa haýsy ýurtdan gelýändigiňiz täsir edýär.,travel,travel,"SENTENCE:
+ Wiza talaplary we çykdajylary ýurtdan ýurda üýtgeýär hem-de oňa haýsy ýurtdan gelýändigiňiz täsir edýär. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Umuman aýdanyňda, A nokadyndan B nokadyna göni uçýan gatnawlarda biznes ýa-da birinji klas orunlara arzanladyş gözlemegiň haýry ýokdur.",travel,travel,"SENTENCE:
+ Umuman aýdanyňda, A nokadyndan B nokadyna göni uçýan gatnawlarda biznes ýa-da birinji klas orunlara arzanladyş gözlemegiň haýry ýokdur. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Bumerang zyňmak köp syýahatçynyň öwrenmek isleýän ýörgünli başarnygydyr.,travel,sports,"SENTENCE:
+ Bumerang zyňmak köp syýahatçynyň öwrenmek isleýän ýörgünli başarnygydyr. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Eger Günorta Ýuwaş okeandan we Günorta Amerikanyň günbatar kenaryndan ätlemek isleseňiz, bu reýs ýeke-täk wariant däldir. (aşak serediň)",travel,travel,"SENTENCE:
+ Eger Günorta Ýuwaş okeandan we Günorta Amerikanyň günbatar kenaryndan ätlemek isleseňiz, bu reýs ýeke-täk wariant däldir. (aşak serediň) 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"San-Fransisko ençeme myhmanhanalar, restoranlar we birinji derejeli konferensiýa desgalary bilen uly syýahatçylyk infrastrukturasyny ösdürdi.",travel,travel,"SENTENCE:
+ San-Fransisko ençeme myhmanhanalar, restoranlar we birinji derejeli konferensiýa desgalary bilen uly syýahatçylyk infrastrukturasyny ösdürdi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Syýahat wagtynda meýletinçilik etmek tapawut döretmegiň ajaýyp usuldyr, ýöne ol diňe bermek barada däldir.",travel,travel,"SENTENCE:
+ Syýahat wagtynda meýletinçilik etmek tapawut döretmegiň ajaýyp usuldyr, ýöne ol diňe bermek barada däldir. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Adamlar öýüne dolanyp gelen syýahatçylar üçin sabyrly bolmak we düşünişmek zerurdyr hem öýtmän biler.,travel,travel,"SENTENCE:
+ Adamlar öýüne dolanyp gelen syýahatçylar üçin sabyrly bolmak we düşünişmek zerurdyr hem öýtmän biler. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Afrikanyň daşyndaky bu ýerleriň hemmesi üçin goşmaça wiza, çykyş salgytlary, ýerüsti transporty we ş.m. üçin goşmaça harajatlary goşmagy ýatdan çykarmaň.",travel,travel,"SENTENCE:
+ Afrikanyň daşyndaky bu ýerleriň hemmesi üçin goşmaça wiza, çykyş salgytlary, ýerüsti transporty we ş.m. üçin goşmaça harajatlary goşmagy ýatdan çykarmaň. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Bişkekli birnäçe ýaşaýjy günortadan gelen protestçileri bikanunçylyk etmekde günäkärledi.,politics,travel,"SENTENCE:
+ Bişkekli birnäçe ýaşaýjy günortadan gelen protestçileri bikanunçylyk etmekde günäkärledi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Belgiýanyň häzirkizaman bölekleri geçmişde Lýuksemburgyň bir bölegi bolupdy, emma 1830-njy ýyllardaky Belgiýa rewolýusiýasyndan soň Belgiýanyňky boldy.",politics,travel,"SENTENCE:
+ Belgiýanyň häzirkizaman bölekleri geçmişde Lýuksemburgyň bir bölegi bolupdy, emma 1830-njy ýyllardaky Belgiýa rewolýusiýasyndan soň Belgiýanyňky boldy. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"1988-nji ýyldan bäri, saýlaw gutularynyň içi görünýän bolmaly, şeýlelikde saýlawçylar we synçylar ses berişligiň başynda bukjalaryň ýokdugyna hem-de dogry sanalan we ygtyýarly saýlawçylaryň goýýan bukjalaryndan başga hiç bir bukjanyň goşulmaýandygyna şaýatlyk edip bilýärler.",politics,travel,"SENTENCE:
+ 1988-nji ýyldan bäri, saýlaw gutularynyň içi görünýän bolmaly, şeýlelikde saýlawçylar we synçylar ses berişligiň başynda bukjalaryň ýokdugyna hem-de dogry sanalan we ygtyýarly saýlawçylaryň goýýan bukjalaryndan başga hiç bir bukjanyň goşulmaýandygyna şaýatlyk edip bilýärler. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Wagtlaýyn premýer-ministr Julia Gillard 2010-njy ýyldaky federal saýlaw kampaniýasynda şa zenan Ýelizaweta II-iň hökümdarlygy gutaransoň Awstraliýanyň respublika bolmalydygyna ynanýandygyny öňe sürdi.,politics,politics,"SENTENCE:
+ Wagtlaýyn premýer-ministr Julia Gillard 2010-njy ýyldaky federal saýlaw kampaniýasynda şa zenan Ýelizaweta II-iň hökümdarlygy gutaransoň Awstraliýanyň respublika bolmalydygyna ynanýandygyny öňe sürdi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+Irlandiýanyň hökümeti ýagdaýy düzetmek üçin parlament kanunçylygynyň gyssagly zerurdygyny nygtaýar.,politics,politics,"SENTENCE:
+ Irlandiýanyň hökümeti ýagdaýy düzetmek üçin parlament kanunçylygynyň gyssagly zerurdygyny nygtaýar. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+Sebit baradaky diplomatik jedeller Ermenistan bilen Azerbaýjanyň arasyndaky gatnaşyklary bulaşdyrmagy dowam etdirýär.,politics,travel,"SENTENCE:
+ Sebit baradaky diplomatik jedeller Ermenistan bilen Azerbaýjanyň arasyndaky gatnaşyklary bulaşdyrmagy dowam etdirýär. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Sişenbe güni premýer-ministriň dolandyryş edarasynda NDP lideri Jek Leýton bilen 25 minutlyk duşuşyk geçirensoň, premýer-ministr Stefen Harper hökümetiň ""Arassa howa baradaky kanunyny"", ikinji gezek okalmazyndan öň, umumy partiýa komitetiniň gözden geçirmegine ugratmaklyga ylalaşdy.",politics,politics,"SENTENCE:
+ Sişenbe güni premýer-ministriň dolandyryş edarasynda NDP lideri Jek Leýton bilen 25 minutlyk duşuşyk geçirensoň, premýer-ministr Stefen Harper hökümetiň ""Arassa howa baradaky kanunyny"", ikinji gezek okalmazyndan öň, umumy partiýa komitetiniň gözden geçirmegine ugratmaklyga ylalaşdy. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+"Geçen aý Polşada bu ýurduň Galpçylyga garşy göreşmek boýunça söwda ylalaşygyna (ACTA) gol çekmeginden soň uly protestler geçirildi, şonuň netijesinde bolsa, Polşanyň hökümeti ylalaşygy häzirlikçe tassyklamazlygy karar etdi.",politics,politics,"SENTENCE:
+ Geçen aý Polşada bu ýurduň Galpçylyga garşy göreşmek boýunça söwda ylalaşygyna (ACTA) gol çekmeginden soň uly protestler geçirildi, şonuň netijesinde bolsa, Polşanyň hökümeti ylalaşygy häzirlikçe tassyklamazlygy karar etdi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+Maslahatlar diňe bir ýurtdaky syýasy ýagdaýyň gysgaça beýany bolup durýar.,politics,travel,"SENTENCE:
+ Maslahatlar diňe bir ýurtdaky syýasy ýagdaýyň gysgaça beýany bolup durýar. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ol 1976-njy ýyldaky saýlawlarda Karteriň daşary syýasat barada geňeşçisi boldy, soňra 1977-1981-nji ýyl aralygynda Henri Kissinjerden soň Milli howpsuzlyk geňeşçisi (NSA) wezipesinde işledi.",politics,N/A,"SENTENCE:
+ Ol 1976-njy ýyldaky saýlawlarda Karteriň daşary syýasat barada geňeşçisi boldy, soňra 1977-1981-nji ýyl aralygynda Henri Kissinjerden soň Milli howpsuzlyk geňeşçisi (NSA) wezipesinde işledi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: military military</s>"
+"Şeýle hem, beýannamada Türkiýäniň Ýewropa ýurtlarynyň yzyna gaýdyp almakdan ýüz öwüren, ele salnan IGIL urşujylaryny saklamaklygy öz üstüne alandygy habar berildi.",politics,travel,"SENTENCE:
+ Şeýle hem, beýannamada Türkiýäniň Ýewropa ýurtlarynyň yzyna gaýdyp almakdan ýüz öwüren, ele salnan IGIL urşujylaryny saklamaklygy öz üstüne alandygy habar berildi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Emma, Sowet Soýuzynyň Gyzyl goşunynyň 800 000 gowrak esgeriniň Riga parahatçylyk şertnamasyny, sowet-polýak çozmazlyk paktyny, şeýle hem başga ikitaraplaýyn we köptaraplaýyn halkara şertnamalary bozmak bilen, Polşanyň gündogar sebitlerine çozup, Belorussiýa we Ukrain frontlaryny döretmegi sebäpli, ol planlar bir gijede puja çykdy.",politics,travel,"SENTENCE:
+ Emma, Sowet Soýuzynyň Gyzyl goşunynyň 800 000 gowrak esgeriniň Riga parahatçylyk şertnamasyny, sowet-polýak çozmazlyk paktyny, şeýle hem başga ikitaraplaýyn we köptaraplaýyn halkara şertnamalary bozmak bilen, Polşanyň gündogar sebitlerine çozup, Belorussiýa we Ukrain frontlaryny döretmegi sebäpli, ol planlar bir gijede puja çykdy. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Proses tamamlanandan soň, prosesde galmagy üçin HJR-3 indiki saýlanyljak kanun çykaryjy mejlis tarapyndan 2015-nji ýa-da 2016-njy ýylda täzeden gözden geçiriler.",politics,politics,"SENTENCE:
+ Proses tamamlanandan soň, prosesde galmagy üçin HJR-3 indiki saýlanyljak kanun çykaryjy mejlis tarapyndan 2015-nji ýa-da 2016-njy ýylda täzeden gözden geçiriler. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+"Kongres tarapyndan 4-nji iýulda kabul edilensoň, Kongresiň prezidenti Jon Hankok we sekretar Çarlz Tomson tarapyndan gol çekilen elýazma taslama birnäçe bina aňyrdaky Jon Dunlapyň çaphanasyna iberildi.",politics,politics,"SENTENCE:
+ Kongres tarapyndan 4-nji iýulda kabul edilensoň, Kongresiň prezidenti Jon Hankok we sekretar Çarlz Tomson tarapyndan gol çekilen elýazma taslama birnäçe bina aňyrdaky Jon Dunlapyň çaphanasyna iberildi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+Sagat 11:00-yň göni yz ýanyndan protestçiler Waýtholda demirgazyk tarapa barýan ulaglaryň gatnawyny petiklediler.,politics,travel,"SENTENCE:
+ Sagat 11:00-yň göni yz ýanyndan protestçiler Waýtholda demirgazyk tarapa barýan ulaglaryň gatnawyny petiklediler. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Emma, 1956-njy ýylyň iýun aýynda işçileriň azyk ýetmezçiligine we aýlyk hakynyň azalmagyna garşy çykyş edip, Polşadaky bulagaýlyklar kommunizme garşy umumy proteste öwrülende, Hruşşewiň beren wadalary synaga sezewar boldy.",politics,travel,"SENTENCE:
+ Emma, 1956-njy ýylyň iýun aýynda işçileriň azyk ýetmezçiligine we aýlyk hakynyň azalmagyna garşy çykyş edip, Polşadaky bulagaýlyklar kommunizme garşy umumy proteste öwrülende, Hruşşewiň beren wadalary synaga sezewar boldy. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ol geljekki 40 ýyllap dowam etdi we Afrikadan Aziýa barýança, Owganystanda, Kubada hem-de başga köp ýerlerde söweş meýdanlarynda wekil goşunlaryň arasynda hakyky görnüşde urşuldy.",politics,travel,"SENTENCE:
+ Ol geljekki 40 ýyllap dowam etdi we Afrikadan Aziýa barýança, Owganystanda, Kubada hem-de başga köp ýerlerde söweş meýdanlarynda wekil goşunlaryň arasynda hakyky görnüşde urşuldy. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Geçen aý prezident komissiýasy ozalky CEP geňeşine ýurdy täze saýlawlara äkitmek baradaky çäreler toplumynyň çäginde öz işinden aýrylmagy maslahat berdi.,politics,politics,"SENTENCE:
+ Geçen aý prezident komissiýasy ozalky CEP geňeşine ýurdy täze saýlawlara äkitmek baradaky çäreler toplumynyň çäginde öz işinden aýrylmagy maslahat berdi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+"Habar berilmegine görä, agzalan beýleki temalar iki ýurt üçin hem keramatly bolan Ýerusalimiň geljekki ýagdaýy we Iordan derýasynyň jülgesi baradaky meseläni öz içine alýar.",politics,travel,"SENTENCE:
+ Habar berilmegine görä, agzalan beýleki temalar iki ýurt üçin hem keramatly bolan Ýerusalimiň geljekki ýagdaýy we Iordan derýasynyň jülgesi baradaky meseläni öz içine alýar. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Onuň ştatlaryň arasyndaky salgyt kanunlaryny we tarifleri ýatyrmaga-da ygtyýarlygy ýokdy.,politics,travel,"SENTENCE:
+ Onuň ştatlaryň arasyndaky salgyt kanunlaryny we tarifleri ýatyrmaga-da ygtyýarlygy ýokdy. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Fransiýanyň saýlaw kanuny bu prosedurany has berk kodifisirleýär.,politics,travel,"SENTENCE:
+ Fransiýanyň saýlaw kanuny bu prosedurany has berk kodifisirleýär. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Aralyk saýlawda ýeňilmeginiň üstünden bir hepde geçen Buş ýygnanlara Aziýada söwdany giňeltmek barada ýüzlendi.,politics,travel,"SENTENCE:
+ Aralyk saýlawda ýeňilmeginiň üstünden bir hepde geçen Buş ýygnanlara Aziýada söwdany giňeltmek barada ýüzlendi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Bu gabaw soňky iki asyrdaky birnäçe halkara ylalaşyk tarapyndan kodifisirlenen umumy ykrar edilen halkara hukugy bozýan-da bolsa, ol strategiýa netijeli bolup çykdy we möhüm harby hem-de raýat üpjünçilikleriniň öňüni kesdi.",politics,travel,"SENTENCE:
+ Bu gabaw soňky iki asyrdaky birnäçe halkara ylalaşyk tarapyndan kodifisirlenen umumy ykrar edilen halkara hukugy bozýan-da bolsa, ol strategiýa netijeli bolup çykdy we möhüm harby hem-de raýat üpjünçilikleriniň öňüni kesdi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Syýasy gepleşikler başa barmasa-da, Moldowanyň şu iki böleginiň arasynda ykdysady gatnaşyklar täzeden ýola goýuldy.",politics,travel,"SENTENCE:
+ Syýasy gepleşikler başa barmasa-da, Moldowanyň şu iki böleginiň arasynda ykdysady gatnaşyklar täzeden ýola goýuldy. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ol şol resmiler bilen bilelikde, tehasly raýatlary jemgyýetiň howpsuzlygyny goramak üçin ädimleriň ädilýändigine ynandyrdy.",politics,travel,"SENTENCE:
+ Ol şol resmiler bilen bilelikde, tehasly raýatlary jemgyýetiň howpsuzlygyny goramak üçin ädimleriň ädilýändigine ynandyrdy. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Täzeden dikeltmek baradaky tagallanyň liberal tankytlanmagy täzeden dikeltmek baradaky şertnamalaryň Waşingtonyň içerki işgärleri diýlip görülýän adamlara berilmegine ünsüni jemledi.,politics,travel,"SENTENCE:
+ Täzeden dikeltmek baradaky tagallanyň liberal tankytlanmagy täzeden dikeltmek baradaky şertnamalaryň Waşingtonyň içerki işgärleri diýlip görülýän adamlara berilmegine ünsüni jemledi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+2010-njy ýyldaky federal saýlawdan öň pikiri soralan 1 400 adamyň arasynda Awstraliýanyň respublika bolmagyna garşy çykýanlaryň sany 2008-nji ýyldan bäri 8 göterim artdy.,politics,travel,"SENTENCE:
+ 2010-njy ýyldaky federal saýlawdan öň pikiri soralan 1 400 adamyň arasynda Awstraliýanyň respublika bolmagyna garşy çykýanlaryň sany 2008-nji ýyldan bäri 8 göterim artdy. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Diplomatlar ikinji tapgyry zerur däl diýip kesgitlemek üçin, Owganystanyň konstitusiýasynda ýeterlik möçberde gümürtiklik tapandyklaryny aýtdy.",politics,politics,"SENTENCE:
+ Diplomatlar ikinji tapgyry zerur däl diýip kesgitlemek üçin, Owganystanyň konstitusiýasynda ýeterlik möçberde gümürtiklik tapandyklaryny aýtdy. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+"Netijeler belli bolansoň, Gingriç Santorumy öwdi, ýöne Aýowa ştatynda Gingriçe garşy öz adyndan negatiw reklama kampaniýalary ýaýlyma berlen Romni üçin agyr sözler aýtdy.",politics,politics,"SENTENCE:
+ Netijeler belli bolansoň, Gingriç Santorumy öwdi, ýöne Aýowa ştatynda Gingriçe garşy öz adyndan negatiw reklama kampaniýalary ýaýlyma berlen Romni üçin agyr sözler aýtdy. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+Ol Martelliniň dört ýylyň içinde bäşinji CEP geňeşidir.,politics,politics,"SENTENCE:
+ Ol Martelliniň dört ýylyň içinde bäşinji CEP geňeşidir. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+"Olimpiýa altyn medalynyň eýesi Arkalaşygyň oýunlarynda 100m we 200m aralyga erkin usulda we üç estafeta ýaryşynda ýüzmelidi, ýöne fiziki taýýarlygy baradaky şikaýatlary sebäpli şübhe döredýär.",sports,sports,"SENTENCE:
+ Olimpiýa altyn medalynyň eýesi Arkalaşygyň oýunlarynda 100m we 200m aralyga erkin usulda we üç estafeta ýaryşynda ýüzmelidi, ýöne fiziki taýýarlygy baradaky şikaýatlary sebäpli şübhe döredýär. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Ozalky Olimpiýa we dünýä çempiony bolmak bilen bilelikde, Saito aradan çykan pursadynda Ähli-Ýaponiýa Dzýudo federasiýasynyň okuw komitetiniň hem başlygydy.",sports,sports,"SENTENCE:
+ Ozalky Olimpiýa we dünýä çempiony bolmak bilen bilelikde, Saito aradan çykan pursadynda Ähli-Ýaponiýa Dzýudo federasiýasynyň okuw komitetiniň hem başlygydy. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Halkara Olimpiýa komiteti şu gün Berlinde geçirilýän öz ýerine ýetiriji geňeşiniň ýygnagynda bu sport görnüşlerini goşmak üçin ses berdi. Regbi, ylaýta-da regbi ýunion we golf Olimpiýa oýunlaryna gatnaşmagy üçin garalýan beýleki bäş sport görnüşiniň arasyndan saýlanyldy.",sports,sports,"SENTENCE:
+ Halkara Olimpiýa komiteti şu gün Berlinde geçirilýän öz ýerine ýetiriji geňeşiniň ýygnagynda bu sport görnüşlerini goşmak üçin ses berdi. Regbi, ylaýta-da regbi ýunion we golf Olimpiýa oýunlaryna gatnaşmagy üçin garalýan beýleki bäş sport görnüşiniň arasyndan saýlanyldy. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Ýylyň iň uly ýaryşy dekabr aýynda Palermodaky polo meýdançalarynda geçirilýär.,sports,sports,"SENTENCE:
+ Ýylyň iň uly ýaryşy dekabr aýynda Palermodaky polo meýdançalarynda geçirilýär. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Widal Kataloniýanyň paýtagtyna göçeli bäri, klub üçin 49 duşuşykda oýnady.",sports,sports,"SENTENCE:
+ Widal Kataloniýanyň paýtagtyna göçeli bäri, klub üçin 49 duşuşykda oýnady. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Sagdyn energiýa deňagramlylygyny saklamak, netijeli gidrasiýa endiklerini ulanmak we goşmaça türgenleşmegiň dürli taraplaryna düşünmek türgenleriň netijeliligi gowulandyrmagyna hem-de sportdan lezzet almagyna kömek edip biler.",sports,sports,"SENTENCE:
+ Sagdyn energiýa deňagramlylygyny saklamak, netijeli gidrasiýa endiklerini ulanmak we goşmaça türgenleşmegiň dürli taraplaryna düşünmek türgenleriň netijeliligi gowulandyrmagyna hem-de sportdan lezzet almagyna kömek edip biler. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Üçünji orunda Hamlin ýigrimi utuk yzda, ýöne Bowýerden bäş utuk öňde durýar. Kan we Trueks körpe, degişlilikde, 2220 we 2207 utuk bilen bäşinji we altynjy orunlarda.",sports,sports,"SENTENCE:
+ Üçünji orunda Hamlin ýigrimi utuk yzda, ýöne Bowýerden bäş utuk öňde durýar. Kan we Trueks körpe, degişlilikde, 2220 we 2207 utuk bilen bäşinji we altynjy orunlarda. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Nadalyň kanadaly oýunça garşy başa-baş rekordy 7–2.,sports,sports,"SENTENCE:
+ Nadalyň kanadaly oýunça garşy başa-baş rekordy 7–2. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Harke şol gün Italiýanyň Kowerçano şäherinde möwsümden öňki taýýarlykda türgenleşik geçip ýördi. Ol ýekşenbe güni Bolonýa bilen meýilleşdirilen duşuşykdan öň toparyň myhmanhanasynda bolýardy.,sports,sports,"SENTENCE:
+ Harke şol gün Italiýanyň Kowerçano şäherinde möwsümden öňki taýýarlykda türgenleşik geçip ýördi. Ol ýekşenbe güni Bolonýa bilen meýilleşdirilen duşuşykdan öň toparyň myhmanhanasynda bolýardy. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Ulag ýetmezçiligi baradaky howatyrlanma oýnuň toparyň janköýerleri gatnaşmazdan ýapyk gapylaryň aňyrsynda geçirilmek ähtimallygyny artdyrdy.,sports,travel,"SENTENCE:
+ Ulag ýetmezçiligi baradaky howatyrlanma oýnuň toparyň janköýerleri gatnaşmazdan ýapyk gapylaryň aňyrsynda geçirilmek ähtimallygyny artdyrdy. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"""Luna Ekstremiň ilkinji şa zenanydy. Meniň ilkinji menejerimdi. Ol iki aýyň gijesinde aradan çykdy. Edil özi ýaly örän üýtgeşik. Güýçli aýaldy"" diýip, Tommy Drimer aýtdy.",sports,travel,"SENTENCE:
+ ""Luna Ekstremiň ilkinji şa zenanydy. Meniň ilkinji menejerimdi. Ol iki aýyň gijesinde aradan çykdy. Edil özi ýaly örän üýtgeşik. Güýçli aýaldy"" diýip, Tommy Drimer aýtdy. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Erkeklerde polşaly pes görüşli lyžaçy Maseý Krezel we ýolbelet Anna Ogaržinskaýa Super-G ýaryşyny on üçünji orunda tamamlady. Günorta Koreýaly Jong Seork Park erkekler Super-G ýaryşynyň oturma toparyny ýigrimi dördünji orunda tamamlady.,sports,sports,"SENTENCE:
+ Erkeklerde polşaly pes görüşli lyžaçy Maseý Krezel we ýolbelet Anna Ogaržinskaýa Super-G ýaryşyny on üçünji orunda tamamlady. Günorta Koreýaly Jong Seork Park erkekler Super-G ýaryşynyň oturma toparyny ýigrimi dördünji orunda tamamlady. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Ýaryşlar we polo duşuşyklaryna biletleri nireden satyn almalydygy barada habarlar üçin, ""Asociacion Argentina de Polo"" websaýtyny barlaň.",sports,sports,"SENTENCE:
+ Ýaryşlar we polo duşuşyklaryna biletleri nireden satyn almalydygy barada habarlar üçin, ""Asociacion Argentina de Polo"" websaýtyny barlaň. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Oýunlar irden sagat 10:00-da ajaýyp howada başlady we irdenki dessine diňen çisňini hasap etmeseň, 7-lik regbi üçin birkemsiz gün boldy.",sports,travel,"SENTENCE:
+ Oýunlar irden sagat 10:00-da ajaýyp howada başlady we irdenki dessine diňen çisňini hasap etmeseň, 7-lik regbi üçin birkemsiz gün boldy. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Meksikaly Arli Welaskes erkekleriň Super-G ýaryşynyň oturma toparyny on bäşinji bolup tamamlady. Täze Zelandiýaly Adam Hol erkekleriň Super-G ýaryşynyň aýaküsti toparyny dokuzynjy orunda tamamlady.,sports,sports,"SENTENCE:
+ Meksikaly Arli Welaskes erkekleriň Super-G ýaryşynyň oturma toparyny on bäşinji bolup tamamlady. Täze Zelandiýaly Adam Hol erkekleriň Super-G ýaryşynyň aýaküsti toparyny dokuzynjy orunda tamamlady. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+Tapgyryň soňky duşuşygy indiki hepde “Springboks” topary Ýohannesburgdaky Ellis Parkda Awstraliýa bilen oýnanda bolar.,sports,sports,"SENTENCE:
+ Tapgyryň soňky duşuşygy indiki hepde “Springboks” topary Ýohannesburgdaky Ellis Parkda Awstraliýa bilen oýnanda bolar. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Gowy şertlerde pyýada garanyňda birneme uzak aralyklary geçip bilersiňiz, ýöne diňe örän selçeň ýagdaýda idegli trassalarda agyr goşhaltasyz, ýaryş lyžasynda taýýan ýaly tizliklere ýetip bilersiňiz.",sports,travel,"SENTENCE:
+ Gowy şertlerde pyýada garanyňda birneme uzak aralyklary geçip bilersiňiz, ýöne diňe örän selçeň ýagdaýda idegli trassalarda agyr goşhaltasyz, ýaryş lyžasynda taýýan ýaly tizliklere ýetip bilersiňiz. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Onuň ýedi utuk yzyndaky Jonson 2243 utuk bilen ikinji orunda durýar.,sports,travel,"SENTENCE:
+ Onuň ýedi utuk yzyndaky Jonson 2243 utuk bilen ikinji orunda durýar. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Kanýon gezelenji (ýa-da: kanýonlamak) gury ýa-da suwdan doly kanýonyň düýbünde ýöremeklik bolup durýar.,sports,travel,"SENTENCE:
+ Kanýon gezelenji (ýa-da: kanýonlamak) gury ýa-da suwdan doly kanýonyň düýbünde ýöremeklik bolup durýar. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Robin Uthappa 11 dörtlük we 2 altylyk urmak arkaly, bary-ýogy 41 topda iň ýokary top beriş möçberine ýetip, 70 ylgaw etdi.",sports,sports,"SENTENCE:
+ Robin Uthappa 11 dörtlük we 2 altylyk urmak arkaly, bary-ýogy 41 topda iň ýokary top beriş möçberine ýetip, 70 ylgaw etdi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Gyşky sportlar demirgazyk sebitlerde iň ýörgünli bolup, italýanlar halkara oýunlara we Olimpiýa ýaryşlaryna gatnaşýar.",sports,sports,"SENTENCE:
+ Gyşky sportlar demirgazyk sebitlerde iň ýörgünli bolup, italýanlar halkara oýunlara we Olimpiýa ýaryşlaryna gatnaşýar. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Maruçidor ikinji orundaky Nusadan alty utuk öň saýlanyp, birinji orunda tamamlady.",sports,travel,"SENTENCE:
+ Maruçidor ikinji orundaky Nusadan alty utuk öň saýlanyp, birinji orunda tamamlady. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Mihael Şumaher ýaryşyň dowamyndaky ençeme çekelişikde asma gurluşa zeper ýetendigi sebäpli, Alonsodan soň uzak eglenmän ýaryşy bes etdi.",sports,travel,"SENTENCE:
+ Mihael Şumaher ýaryşyň dowamyndaky ençeme çekelişikde asma gurluşa zeper ýetendigi sebäpli, Alonsodan soň uzak eglenmän ýaryşy bes etdi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Dogry iýmitleniş usullarynyň bir özi elit netijeleri berip bilmeýär, ýöne olar ýaş türgenleriň umumy saglygyna ep-esli derejede täsir edip bilýär.",sports,travel,"SENTENCE:
+ Dogry iýmitleniş usullarynyň bir özi elit netijeleri berip bilmeýär, ýöne olar ýaş türgenleriň umumy saglygyna ep-esli derejede täsir edip bilýär. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Ol öz agyrysyny ýeňmek üçin gerek bolan dermanlary Oýunlarda gadagan edilendigi sebäpli alyp bilmedi.,sports,travel,"SENTENCE:
+ Ol öz agyrysyny ýeňmek üçin gerek bolan dermanlary Oýunlarda gadagan edilendigi sebäpli alyp bilmedi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Geçirilen barlag aýallaryň dagynyk skleroz keseline ýolukmagynyň erkeklere garanyňda iki esse has ähtimaldygyny görkezdi.,health,travel,"SENTENCE:
+ Geçirilen barlag aýallaryň dagynyk skleroz keseline ýolukmagynyň erkeklere garanyňda iki esse has ähtimaldygyny görkezdi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Bikanun spirtli içgiler, hatda az dozalarda hem, körlüge ýa-da ölüme eltip bilýän dürli howply garyndylary, şol sanda metanoly öz içine alyp bilýär.",health,travel,"SENTENCE:
+ Bikanun spirtli içgiler, hatda az dozalarda hem, körlüge ýa-da ölüme eltip bilýän dürli howply garyndylary, şol sanda metanoly öz içine alyp bilýär. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Depressiýa bilen gorkynyň däl-de, diňe waswasa düşmegiň täsirleri wagtly-wagtyna hepdelik düzülen PA seanslary bilen şertlendirildi.",health,sports,"SENTENCE:
+ Depressiýa bilen gorkynyň däl-de, diňe waswasa düşmegiň täsirleri wagtly-wagtyna hepdelik düzülen PA seanslary bilen şertlendirildi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Köpçülikleýin awtoulag eýeçiligi ýollarda ýol-ulag hadysalarynyň köpelmegine hem eltýär, bu bolsa şikes ýeten bedenleri bejermek üçin saglygy goraýyşyň täze tärlerini oýlap tapmaklyga alyp barýar.",health,travel,"SENTENCE:
+ Köpçülikleýin awtoulag eýeçiligi ýollarda ýol-ulag hadysalarynyň köpelmegine hem eltýär, bu bolsa şikes ýeten bedenleri bejermek üçin saglygy goraýyşyň täze tärlerini oýlap tapmaklyga alyp barýar. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Öňde baryjy barlagçylaryň aýtmagyna görä, ol pes girdejili ýurtlardaky näsaglarda rak keseliniň, inçekeseliň, HIV-iň we gyzzyrmanyň ir anyklanmagyna eltip biler, ol ýurtlarda bolsa, süýt mäziniň rak keseli ýaly kesellerden diri gutulmaklyk baý ýurtlardakydan ýarym esse az bolup biler.",health,travel,"SENTENCE:
+ Öňde baryjy barlagçylaryň aýtmagyna görä, ol pes girdejili ýurtlardaky näsaglarda rak keseliniň, inçekeseliň, HIV-iň we gyzzyrmanyň ir anyklanmagyna eltip biler, ol ýurtlarda bolsa, süýt mäziniň rak keseli ýaly kesellerden diri gutulmaklyk baý ýurtlardakydan ýarym esse az bolup biler. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Täze Şotlandiýanyň Halifaks şäherinde ýerleşýän Delhauzi uniwersitetiniň lukmançylyk boýunça professory hem-de Kanadanyň diabetik assosiasiýasynyň kliniki we ylmy bölüminiň başlygy bolan doktor Ehud Ur bu barlagyň heniz irki tapgyrdadygy barada duýdurdy.,health,travel,"SENTENCE:
+ Täze Şotlandiýanyň Halifaks şäherinde ýerleşýän Delhauzi uniwersitetiniň lukmançylyk boýunça professory hem-de Kanadanyň diabetik assosiasiýasynyň kliniki we ylmy bölüminiň başlygy bolan doktor Ehud Ur bu barlagyň heniz irki tapgyrdadygy barada duýdurdy. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Bu çagalar öz beýnilerini stimulirlemek üçin, ""özlerini kakabaş alyp baryp, urşup basalaşyp, şeýle hem, häkimiýete garşy çykýandyklary sebäpli köp bolgusyzlyga uçraýar"", sebäbi olaryň beýnilerini adaty usullar bilen stimulirläp bolmaýar.",health,science/technology,"SENTENCE:
+ Bu çagalar öz beýnilerini stimulirlemek üçin, ""özlerini kakabaş alyp baryp, urşup basalaşyp, şeýle hem, häkimiýete garşy çykýandyklary sebäpli köp bolgusyzlyga uçraýar"", sebäbi olaryň beýnilerini adaty usullar bilen stimulirläp bolmaýar. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science</s>"
+"Ýel we tolkunlar arkaly howa göterilýän täsir ýeten suwlardan dem almak arkaly, adamlara hem täsir ýetip bilýär.",health,travel,"SENTENCE:
+ Ýel we tolkunlar arkaly howa göterilýän täsir ýeten suwlardan dem almak arkaly, adamlara hem täsir ýetip bilýär. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Käbir adamlar emeli döredilen aýdyň düýşleri ýygy-ýygydan görmegiň örän surnukdyryjy bolup bilýändigine ynanýarlar.,health,travel,"SENTENCE:
+ Käbir adamlar emeli döredilen aýdyň düýşleri ýygy-ýygydan görmegiň örän surnukdyryjy bolup bilýändigine ynanýarlar. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Şol pursatda Potro egnine bejergi aldy, ýöne oýna dolanmagy başardy.",health,sports,"SENTENCE:
+ Şol pursatda Potro egnine bejergi aldy, ýöne oýna dolanmagy başardy. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Üstesine, muny etmezligiň çynlakaý netijeleri bardyr: ösüş depressiýasy, ýeterlik iýmitlenmezlik we ahyrynda ölüm.",health,travel,"SENTENCE:
+ Üstesine, muny etmezligiň çynlakaý netijeleri bardyr: ösüş depressiýasy, ýeterlik iýmitlenmezlik we ahyrynda ölüm. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Amsterdam şäheriniň we Anne Frank muzeýiniň resmileri agaja kömelek keseliniň ýokaşandygyny, şeýle hem, jemgyýetiň saglygyna howp salýandygyny aýdýarlar, sebäbi onuň gutulgysyz ýykylmak howpy astyndadygyny öňe sürýär.",health,travel,"SENTENCE:
+ Amsterdam şäheriniň we Anne Frank muzeýiniň resmileri agaja kömelek keseliniň ýokaşandygyny, şeýle hem, jemgyýetiň saglygyna howp salýandygyny aýdýarlar, sebäbi onuň gutulgysyz ýykylmak howpy astyndadygyny öňe sürýär. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Hassahana infeksiýa gözegçiligi boýunça protokolyny berjaý etdi, şol sanda beýlekilere ähtimal ýokaşma bolmaz ýaly, näsagy beýlekilerden aýratyn ýerleşdirdi.",health,travel,"SENTENCE:
+ Hassahana infeksiýa gözegçiligi boýunça protokolyny berjaý etdi, şol sanda beýlekilere ähtimal ýokaşma bolmaz ýaly, näsagy beýlekilerden aýratyn ýerleşdirdi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Gaitiniň Adalat we demokratiýa instituty BMG-niň nepally barlyşdyryjy batalýonynyň ol keseli Gaitä bilmän getirendigini öňe sürýän garaşsyz barlaglara salgylandy.,health,politics,"SENTENCE:
+ Gaitiniň Adalat we demokratiýa instituty BMG-niň nepally barlyşdyryjy batalýonynyň ol keseli Gaitä bilmän getirendigini öňe sürýän garaşsyz barlaglara salgylandy. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics</s>"
+"Ýokanç keselleriň özleri ýa-da zor bilen adamlary ýaralap ýa-da öldürip bilýän howply haýwanlar, adatça, zyýan berijiler diýlip hasap edilmeýär.",health,travel,"SENTENCE:
+ Ýokanç keselleriň özleri ýa-da zor bilen adamlary ýaralap ýa-da öldürip bilýän howply haýwanlar, adatça, zyýan berijiler diýlip hasap edilmeýär. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Üns ýetmezçiligi bozuklygy bar bolan çagalar mekdep işi ýaly zatlara üns jemlemekde kynçylyk çekýär, ýöne olar oýun oýnamak, halaýan multfilmlerine tomaşa etmek ýa-da dyngy belgilerini goýman sözlemleri ýazmak ýaly hezil görýän zatlaryna üns jemläp bilýär.",health,travel,"SENTENCE:
+ Üns ýetmezçiligi bozuklygy bar bolan çagalar mekdep işi ýaly zatlara üns jemlemekde kynçylyk çekýär, ýöne olar oýun oýnamak, halaýan multfilmlerine tomaşa etmek ýa-da dyngy belgilerini goýman sözlemleri ýazmak ýaly hezil görýän zatlaryna üns jemläp bilýär. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Kesel ýokaşan adam bir ýylyň dowamynda 10-15 sany ýakyn adama ony ýokaşdyryp biler.,health,sports,"SENTENCE:
+ Kesel ýokaşan adam bir ýylyň dowamynda 10-15 sany ýakyn adama ony ýokaşdyryp biler. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Uruşmaklyk gutaryp, ýaralananlar hassahana äkidilenden soň, galan 40 töweregi tussag howludan galyp, kameralaryna dolanmakdan boýun towlady.",health,travel,"SENTENCE:
+ Uruşmaklyk gutaryp, ýaralananlar hassahana äkidilenden soň, galan 40 töweregi tussag howludan galyp, kameralaryna dolanmakdan boýun towlady. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Lukmanlar imperator Awgust tarapyndan işe alnyp ugradylar we hatda söweşleriň yzyndan ulanar ýaly ilkinji rim lukmançylyk korpusyny döretdiler.,health,N/A,"SENTENCE:
+ Lukmanlar imperator Awgust tarapyndan işe alnyp ugradylar we hatda söweşleriň yzyndan ulanar ýaly ilkinji rim lukmançylyk korpusyny döretdiler. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: culture culture</s>"
+"Emma, sürüjiniň kellesine agyr şikesler ýetdi.",health,sports,"SENTENCE:
+ Emma, sürüjiniň kellesine agyr şikesler ýetdi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"⁣""Indi bizde öň diabetik bolan, ýöne häzirki wagtda diabetik däl 4 aýlyk syçanlar bar"" diýip, ol sözüniň üstüni ýetirdi.",health,health,"SENTENCE:
+ ⁣""Indi bizde öň diabetik bolan, ýöne häzirki wagtda diabetik däl 4 aýlyk syçanlar bar"" diýip, ol sözüniň üstüni ýetirdi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: health</s>"
+Içerki zäherlenme dessine ýüze çykman biler. Gaýtarmak ýaly alamatlar derrew anyklaýyş goýup bolmajak derejede umumydyr.,health,travel,"SENTENCE:
+ Içerki zäherlenme dessine ýüze çykman biler. Gaýtarmak ýaly alamatlar derrew anyklaýyş goýup bolmajak derejede umumydyr. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Netijede artistler sahnada marihuana çekýär we teatryň özi hem tomaşaçylary muňa goşulyşmaga höweslendirýär.,entertainment,entertainment,"SENTENCE:
+ Netijede artistler sahnada marihuana çekýär we teatryň özi hem tomaşaçylary muňa goşulyşmaga höweslendirýär. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"""Aerosmith"" topary gezelenjiň galan konsertlerini ýatyrdy.",entertainment,entertainment,"SENTENCE:
+ ""Aerosmith"" topary gezelenjiň galan konsertlerini ýatyrdy. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Herekete golaý bolmak isleseňiz, aýdym-sazyň ýakynynda düşelge gurmak üçin ir bilen gelmeli bolarsyňyz.",entertainment,travel,"SENTENCE:
+ Herekete golaý bolmak isleseňiz, aýdym-sazyň ýakynynda düşelge gurmak üçin ir bilen gelmeli bolarsyňyz. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Ýyllarça ulanylan köp dürli plýonka formatlary bardyr. Standart 35 mm plýonka (36 x 24 mm negatiw) iň giňden ýaýranydyr.,entertainment,travel,"SENTENCE:
+ Ýyllarça ulanylan köp dürli plýonka formatlary bardyr. Standart 35 mm plýonka (36 x 24 mm negatiw) iň giňden ýaýranydyr. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Bu örän adaty işjeňlik bolsa-da, Disneý tarapyndan gadagan edilýär: biletleri geçirmek bolmaýar.",entertainment,travel,"SENTENCE:
+ Bu örän adaty işjeňlik bolsa-da, Disneý tarapyndan gadagan edilýär: biletleri geçirmek bolmaýar. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Serialyň her bölümi belli bir kitabyň temasyna bagyşlanýardy, soňra bolsa, birnäçe hekaýanyň üsti bilen şol tema açylyp görkezilýärdi.",entertainment,travel,"SENTENCE:
+ Serialyň her bölümi belli bir kitabyň temasyna bagyşlanýardy, soňra bolsa, birnäçe hekaýanyň üsti bilen şol tema açylyp görkezilýärdi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Rim şäheriniň dürli ýerlerinde adamlaryň dabara tomaşa etmegi üçin birnäçe uly telewizor ekranlary gurnaldy.,entertainment,travel,"SENTENCE:
+ Rim şäheriniň dürli ýerlerinde adamlaryň dabara tomaşa etmegi üçin birnäçe uly telewizor ekranlary gurnaldy. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Sofokl bilen Aristofan henizem meşhur dramaturglar bolup durýar we olaryň pýesalary dünýä edebiýatynyň iň ajaýyp eserleriniň hatarynda durýar diýlip hasaplanýar.,entertainment,entertainment,"SENTENCE:
+ Sofokl bilen Aristofan henizem meşhur dramaturglar bolup durýar we olaryň pýesalary dünýä edebiýatynyň iň ajaýyp eserleriniň hatarynda durýar diýlip hasaplanýar. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Her bölümde çagalaryň kitaphana baran wagtlary gözlemekleri üçin olara kitaplar barada maslahatlar hem berilýärdi.,entertainment,travel,"SENTENCE:
+ Her bölümde çagalaryň kitaphana baran wagtlary gözlemekleri üçin olara kitaplar barada maslahatlar hem berilýärdi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Akkordeonda artykmaç ses almak üçin, has köp basyş ýa-da tizlik bilen silfondan peýdalanýarsyňyz.",entertainment,travel,"SENTENCE:
+ Akkordeonda artykmaç ses almak üçin, has köp basyş ýa-da tizlik bilen silfondan peýdalanýarsyňyz. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Garaňkyda piramidalary görüp we şowhun başlamanka olary ümsüm synlap bilersiňiz.,entertainment,travel,"SENTENCE:
+ Garaňkyda piramidalary görüp we şowhun başlamanka olary ümsüm synlap bilersiňiz. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ýerinde işjeňliklere aw awlamak, balyk tutmak, surata düşürmek, guşlara syn etmek, şeýle hem, seýilgählere baryp görmek we şol ekoulgam barada maglumat öwrenmek girýär.",entertainment,travel,"SENTENCE:
+ Ýerinde işjeňliklere aw awlamak, balyk tutmak, surata düşürmek, guşlara syn etmek, şeýle hem, seýilgählere baryp görmek we şol ekoulgam barada maglumat öwrenmek girýär. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Sfinks uzyn hekaýanyň fony we gürrüňçisi hökmünde goýulýar.,entertainment,travel,"SENTENCE:
+ Sfinks uzyn hekaýanyň fony we gürrüňçisi hökmünde goýulýar. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Olaryň myhmanlary keýphon saklamak we desgada saklamak üçin, köplenç ýörite iýmit, içgi hem-de güýmenje teklipleri bolýar.",entertainment,travel,"SENTENCE:
+ Olaryň myhmanlary keýphon saklamak we desgada saklamak üçin, köplenç ýörite iýmit, içgi hem-de güýmenje teklipleri bolýar. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Eýýäm iňlis we ýapon dillerinde habar berýän bu global gurama teleýaýlym, internet we mobil enjamlar üçin ispan, italýan hem-de koreý dillerinde programmalary başladýar.",entertainment,travel,"SENTENCE:
+ Eýýäm iňlis we ýapon dillerinde habar berýän bu global gurama teleýaýlym, internet we mobil enjamlar üçin ispan, italýan hem-de koreý dillerinde programmalary başladýar. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Saýmon ""Simpsonlar"" serialyndan öň birnäçe gepleşikde dürli wezipelerde işledi.",entertainment,entertainment,"SENTENCE:
+ Saýmon ""Simpsonlar"" serialyndan öň birnäçe gepleşikde dürli wezipelerde işledi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+Ol oýunçylara enjamy howada süýşürmek arkaly wideo oýunlaryndaky hereketleri we gymyldylary dolandyrmaga mümkinçilik berer.,entertainment,travel,"SENTENCE:
+ Ol oýunçylara enjamy howada süýşürmek arkaly wideo oýunlaryndaky hereketleri we gymyldylary dolandyrmaga mümkinçilik berer. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Geçen ýyl toýy bolan är-aýalyň toýuň birinji ýyllygyni bellemek üçin geçirilen şüweleňe azyndan 100 adam gatnaşypdy.,entertainment,travel,"SENTENCE:
+ Geçen ýyl toýy bolan är-aýalyň toýuň birinji ýyllygyni bellemek üçin geçirilen şüweleňe azyndan 100 adam gatnaşypdy. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Filmdäki iki aýdym, “Audition (The Fools Who Dream)” we “City of Stars” iň gowy özboluşly aýdym boýunça dalaşgärlik aldy. “Lionsgate” studiýasy 26 dalaşgärlik aldy, ol beýleki studiýalaryňkydan köpdür.",entertainment,entertainment,"SENTENCE:
+ Filmdäki iki aýdym, “Audition (The Fools Who Dream)” we “City of Stars” iň gowy özboluşly aýdym boýunça dalaşgärlik aldy. “Lionsgate” studiýasy 26 dalaşgärlik aldy, ol beýleki studiýalaryňkydan köpdür. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment</s>"
+"Ol gabyk ýakyn tarapda takmynan 70 km, uzak tarapda bolsa 100 km galyňlykdadyr.",geography,travel,"SENTENCE:
+ Ol gabyk ýakyn tarapda takmynan 70 km, uzak tarapda bolsa 100 km galyňlykdadyr. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Has günortada Niagara şaglawugy ýerleşýär, demirgazykda bolsa, Muskokanyň we aňyrsynyň el degmedik tebigy gözelliginiň mesgeni bardyr.",geography,travel,"SENTENCE:
+ Has günortada Niagara şaglawugy ýerleşýär, demirgazykda bolsa, Muskokanyň we aňyrsynyň el degmedik tebigy gözelliginiň mesgeni bardyr. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ellswort topragy ýarymadanyň günortasynda ýerleşip, Bellingshauzen deňzi bilen serhetleşýän sebitdir.",geography,travel,"SENTENCE:
+ Ellswort topragy ýarymadanyň günortasynda ýerleşip, Bellingshauzen deňzi bilen serhetleşýän sebitdir. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Günorta polýus trawersi (ýa-da şossesi) Ross deňzindäki MakMerdo stansiýasyndan polýusa çenli barýan 1600 km ýodadyr.,geography,travel,"SENTENCE:
+ Günorta polýus trawersi (ýa-da şossesi) Ross deňzindäki MakMerdo stansiýasyndan polýusa çenli barýan 1600 km ýodadyr. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Maçu Pikçunyň demirgazyk ujunyň üstüne abanyp duran bu kert dag köplenç harabalyklaryň köp fotosuratlarynyň fonuny emele getirýär.,geography,travel,"SENTENCE:
+ Maçu Pikçunyň demirgazyk ujunyň üstüne abanyp duran bu kert dag köplenç harabalyklaryň köp fotosuratlarynyň fonuny emele getirýär. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Enselad Gün ulgamynyň iň serpikdiriji obýekti bolup, özüne düşýän gün şöhlesiniň takmynan 90 göterimini serpikdirýär.",geography,sports,"SENTENCE:
+ Enselad Gün ulgamynyň iň serpikdiriji obýekti bolup, özüne düşýän gün şöhlesiniň takmynan 90 göterimini serpikdirýär. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports</s>"
+"Ýokardaky arassa, owadan asmandan we degre-daşy gallap oturan daglardan başga hiç zat görünmeýär. Gowagyň içinde dünýä degişli örän sähelçe zady görüp ýa-da eşidip bolýar.",geography,travel,"SENTENCE:
+ Ýokardaky arassa, owadan asmandan we degre-daşy gallap oturan daglardan başga hiç zat görünmeýär. Gowagyň içinde dünýä degişli örän sähelçe zady görüp ýa-da eşidip bolýar. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Indi, Ýaponiýa barada. Ýaponiýa edil Britaniýa ýaly ada ýurdudy.",geography,travel,"SENTENCE:
+ Indi, Ýaponiýa barada. Ýaponiýa edil Britaniýa ýaly ada ýurdudy. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Maldiw dilinde palma ýapraklary salnan torbanyň adyny göterýän tropiki siklon Gonu iň ýokary derejesine sagatda 240 kilometr (149 mil) tizlikde öwüsýän şemallary bilen ýetdi.,geography,travel,"SENTENCE:
+ Maldiw dilinde palma ýapraklary salnan torbanyň adyny göterýän tropiki siklon Gonu iň ýokary derejesine sagatda 240 kilometr (149 mil) tizlikde öwüsýän şemallary bilen ýetdi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Türkiýäniň meýdany, şol sanda kölleri 783 562 kwadrat kilometr (300 948 kwadrat mil) ýeri tutup, şonuň 755 688 kwadrat kilometri (291 773 kwadrat mil) günorta-günbatar Aziýada we 23 764 kwadrat kilometri (9 174 kwadrat mil) Ýewropada ýerleşýär.",geography,travel,"SENTENCE:
+ Türkiýäniň meýdany, şol sanda kölleri 783 562 kwadrat kilometr (300 948 kwadrat mil) ýeri tutup, şonuň 755 688 kwadrat kilometri (291 773 kwadrat mil) günorta-günbatar Aziýada we 23 764 kwadrat kilometri (9 174 kwadrat mil) Ýewropada ýerleşýär. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+1819-njy ýylda açylan Günorta Şetland adalaryna birnäçe ýurt bäsdeşlik edýär we ol adalar 2020-nji ýylda on alty sanysy işjeň bolan iň köp bazaly ýerdir.,geography,travel,"SENTENCE:
+ 1819-njy ýylda açylan Günorta Şetland adalaryna birnäçe ýurt bäsdeşlik edýär we ol adalar 2020-nji ýylda on alty sanysy işjeň bolan iň köp bazaly ýerdir. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Apiýa Samoanyň paýtagtydyr. Şäher Upolu adasynda ýerleşip, ilaty 40 000-den sähelçe azdyr.",geography,travel,"SENTENCE:
+ Apiýa Samoanyň paýtagtydyr. Şäher Upolu adasynda ýerleşip, ilaty 40 000-den sähelçe azdyr. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Tupan guryýere çykmakdan uzakdadygy sebäpli, onuň ABŞ-na ýa-da Kariblere ýetirjek potenisal täsirine baha bermek kyn bolmagynda galýar.",geography,travel,"SENTENCE:
+ Tupan guryýere çykmakdan uzakdadygy sebäpli, onuň ABŞ-na ýa-da Kariblere ýetirjek potenisal täsirine baha bermek kyn bolmagynda galýar. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ol aý deňziniň astynda has ýuka bolup, daglyk ýerleriň aşagynda has galyňdyr.",geography,travel,"SENTENCE:
+ Ol aý deňziniň astynda has ýuka bolup, daglyk ýerleriň aşagynda has galyňdyr. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+"Ýöne, tokaýlar diňe bir mangrow batgalyklary bolman, eýsem bir wagtlar Gang düzlügini örtüp duran äpet jeňňelleriň käbir soňky galyndylaryny hem öz içine alýar.",geography,travel,"SENTENCE:
+ Ýöne, tokaýlar diňe bir mangrow batgalyklary bolman, eýsem bir wagtlar Gang düzlügini örtüp duran äpet jeňňelleriň käbir soňky galyndylaryny hem öz içine alýar. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+ABŞ-nyň Geologiýa gullugynyň Halkara ýer yranmalary kartasynda Islandiýada ozalky hepde ýer yranmasynyň bolmandygy görkezildi.,geography,travel,"SENTENCE:
+ ABŞ-nyň Geologiýa gullugynyň Halkara ýer yranmalary kartasynda Islandiýada ozalky hepde ýer yranmasynyň bolmandygy görkezildi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
+Mekgäniň demirgazygyndaky daglaryň birinde ýerleşýän ol gowak dünýäniň galan böleginden doly üzňedi.,geography,travel,"SENTENCE:
+ Mekgäniň demirgazygyndaky daglaryň birinde ýerleşýän ol gowak dünýäniň galan böleginden doly üzňedi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: travel</s>"
