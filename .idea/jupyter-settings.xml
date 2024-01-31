@@ -1,13 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="JupyterPersistentConnectionParameters">
+    <option name="knownRemoteServers">
+      <list>
+        <JupyterConnectionParameters>
+          <option name="authType" value="notebook" />
+          <option name="token" value="f850993cdae4e6f77193ebfd890c1b9f" />
+          <option name="urlString" value="https://nb42ihxs33.clg07azjl.paperspacegradient.com" />
+          <authParams2>
+            <map>
+              <entry key="token" value="f850993cdae4e6f77193ebfd890c1b9f" />
+            </map>
+          </authParams2>
+        </JupyterConnectionParameters>
+      </list>
+    </option>
     <option name="moduleParameters">
       <map>
         <entry key="$PROJECT_DIR$/.idea/LLMSize.iml">
           <value>
             <JupyterConnectionParameters>
-              <option name="managed" value="true" />
-              <option name="sdkName" value="" />
+              <option name="authType" value="notebook" />
+              <option name="token" value="f850993cdae4e6f77193ebfd890c1b9f" />
+              <option name="urlString" value="https://nb42ihxs33.clg07azjl.paperspacegradient.com" />
+              <authParams2>
+                <map>
+                  <entry key="token" value="f850993cdae4e6f77193ebfd890c1b9f" />
+                </map>
+              </authParams2>
             </JupyterConnectionParameters>
           </value>
         </entry>
