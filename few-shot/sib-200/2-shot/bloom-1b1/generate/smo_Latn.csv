@@ -1,0 +1,205 @@
+text,actual_category,predicted_category,confidence
+"O le fesuiaʻiga e faʻaopoopoina ai suiga fou o gafa, ma o le filifiliga e ave’ese mai i le vaitaʻele o loʻo faʻaalia ‘ese’esega.",science/technology,science/technology,0.3116406500339508
+O le pomu atomika (fission bomb) e faia i luga o ta’iala o le tuufa’atasia o nucleus ma le tele o protons ma neutrons.,science/technology,science/technology,0.5920324325561523
+E lua vaega ninii o le nucleus - neutrons ma protons.,science/technology,science/technology,0.3469632565975189
+O le mea lea ua mafai ai e tioata fetuuna’i ona gaosia ata i se tulaga lelei faʻatusatusa i ata mai tioata e lē mafai ona fetuuna’i.,science/technology,geography,0.30045613646507263
+"E matua’i lelei lava i web proxies mo le tele o mafua’aga: Latou te toe suia auala uma o le Initaneti, e le na o le http.",science/technology,entertainment,0.3337288498878479
+O mamanu fesoota’i e mana’omia ai lou toe iloiloina o ou mafaufauga e uiga i le gaosiga o ala o fa’asalalauga ma a’oa’o e mafaufau i so o se auala e lē fa’atulagaina.,science/technology,geography,0.3285478353500366
+"Na amata ona avea lenei mea ma se faiga masani, peita’i o le u’amea sa tele ina masaesae ai uili laupapa o taavale toso.",science/technology,geography,0.3377481698989868
+"O aiga e amata mai i le tasi i le tolu po’a matutua e fesoota’i, faʻatasi ai ma le tele pe a ma le tolusefulu leona fafine ma tama’i leona.",science/technology,entertainment,0.3486814498901367
+"E ui lava o le AI e malosi lona piitaga i mafaufau fa’asaienisi, o le AI ua ia fausia se vaega taūa o le komepiuta fa’asaiensi, e feagai ai ma amio, a’oa’oga ma le fa’amasani i tomai i masini.",science/technology,geography,0.4224710464477539
+O le fua fa’atatau o lea fa’atulagaga (vaevaeina i le sefululua ina ia maua ai le fuainumera e sili ona faigofie) o le 3:2.,science/technology,geography,0.3232182264328003
+"O le telefoni satelite e le o se sui o le telefoni fe’avea’i, auā e tatau ona e i fafo ma se laina kilia i le satelite e faia ai se telefoni.",science/technology,geography,0.45410406589508057
+"E ui lava ina sa na o ni laupapa fau meafale tutusa sa fausia ai taavale solofanua, ae sa mafai e solofanua ona tatosoina ina ia matuā saoasaoa ai ma toso uta tetele i luga o auala e fai sina gaoā i le aso.",science/technology,entertainment,0.4259301722049713
+"Ua iloa e tagata elemeni taūa o vailaau e pei o le auro, siliva, ma le kopa mai aso anamua, pei ona mafai ai ona su’eina i laufanua masani ma e matuā faigofie ona vaneina i mea faigaluega mai anamua.",science/technology,geography,0.32464146614074707
+"O le uili ua suia le lalolagi i auala ofoofogia. O le mea aupito sili ua faia e le uili mo i tatou, o femalagaa’iga sili ona faigofie ma vave atu.",science/technology,entertainment,0.5025579929351807
+Ua faia faapea ina ia mautinoa ua ufitia atoa le fa'amalama i le ata. E ta’u lena o le fa'ata atoa (overscan).,science/technology,geography,0.3527430593967438
+O vaaa moulu a Siamani na taʻua o U-Boats. Sa lelei tele le ‘au Siamani i folauga ma le faʻatonutonuina o a latou vaa moulu.,science/technology,geography,0.3813512623310089
+"E ui lava ina mafai ona suia lona tulaga fa’aletino (physical state), ae o lona tulaga fa’availaau (chemical state) e tumau lava.",science/technology,entertainment,0.3152117431163788
+O le feteʻenaʻi o le laualuga e tupu aua o molecules i le pito i luga o le vai e sili atu ona tosina le tasi i le isi nai lo le tosina i molecules o le ea i o latou luga.,science/technology,science/technology,0.4538501799106598
+O se tasi o fa’afīta’uli ta’atele pe a taumafai e liua se ata tifaga i se DVD o le faata i luga.,science/technology,entertainment,0.34654363989830017
+"Ae maise lava, ua fa’apea mai e mafai e se tagata ona iloa pe o pepelo se tagata e ala i le fa’amatalaina sa'o o fa’aupuga.",science/technology,geography,0.3763120472431183
+E mafai ona galuea’ina le auro i so o se ituaiga o siepi. E mafai ona lola i ni siepi laiti.,science/technology,geography,0.320094496011734
+"Ua masani ona fa’aaogāina le AI system i aso nei i le matātā o le tamaoaiga, vailaau, inisinia ma le militeri, pei ona fausia ai i le tele o komepiuta fale ma polokalame o taaloga vitiō.",science/technology,science/technology,0.3519354462623596
+"O lo o gaosia pea i aso nei, ae o le mea e sili ona tāua, o le fua faʻatatau ua tuuina i fa’atulagaga ‘ese’ese o ata i mea pu’eata fa’aonaponei.",science/technology,entertainment,0.3323255479335785
+O le tulafono sili ona faaaogā sesē ma masani ona tauemuina o le tulafono o vaetolu o se ta’iala faigofie lea e faia ai fesuia’iga a o tumau pea le fa’asologa o se ata.,science/technology,entertainment,0.45132583379745483
+"O lenei mea e le gata ina fa’amautū mai ai o nisi tainosoa e fai o latou fulufulu, o se tala ua leva ona salalau solo, ae e aumai ai fa’amatalaga au’ili’ili e le masani ai i fossils, e pei o lanu ma le fa’atulagaina o itu e tolu.",science/technology,geography,0.35841065645217896
+"E fa’apefea ona toso a'u e le kalave (gravity) o Io? Afai e te tu i luga o le lau’ele’ele o Io, o le a itiiti lou mamafa nai lo lou mamafa i le Lalolagi.",science/technology,geography,0.5636187195777893
+O le NextGen o se sisitemi faimai le FAA o le a faʻatagaina ai vaalele e feoaʻi i auala pupuʻu ma sefe ai le miliona o kalone suauʻu i tausaga taʻitasi ma fa’aitiitia ai le kasa oona.,science/technology,entertainment,0.42734503746032715
+O fa’amaumauga o sa’ili’iliga o neura o le tino na maua ai fa’amaoniga mo le theoretical approach i le su’esu’eina o le mafaufau. O le mea lea na fa’aitiitia ai le matāupu e su’esu’e ma fa’ama’oti ai.,science/technology,science/technology,0.3137201964855194
+"I lana lauga e 2 itula le umi sa ia ta'ua ai fa’apea ""O le asō o le a toe fausia e le Apple le telefoni, O le a tatou faia se tala fa’asolopito i le asō"".",science/technology,entertainment,0.3645910918712616
+O itu lē lelei o tioata fetuuna’i (zoom lenses) o le focal complexity ma le tele o elemeni o tioata e manaʻomia ai le ausia o le tele o taulaʻiga uumi (focal lengths) e sili atu nai lo tioata e le mafai ona fetuuna’i (prime lenses).,science/technology,science/technology,0.36179041862487793
+"E tai pei o le masini fa’atonutonu o le televise, o le masini e fa’aogāina senesa e lua e tuʻu latalata i le televise a le tagata e fa’ataamilomilo ai faʻatolu i lona tulaga tafatolu.",science/technology,entertainment,0.4033709168434143
+Fai mai saienitisi o fulufulu o lenei manu sa lanu enaena pei se chestnut le pito i luga ma le lanu sesega samasama le lanu pito i lalo.,science/technology,geography,0.35089898109436035
+"O elemeni e lua e fesoota’i ‘ina ia maua ai tama’i maa tioata lea e ono poloka ai gaioiga a fatugaʻo, faimai ai tagata suʻesuʻe i le iunivesite.",science/technology,entertainment,0.40272819995880127
+O le mea lea e sau ai le resolution e toeititi fa’afaina le 35 mm negative (3136 mm2 fa’atusa i le 864).,science/technology,geography,0.38592401146888733
+"Fa’afetai i fiber optic cable i lalo o le sami o lo o fesoota’i i Europa ma satelite broadband, ua lelei sootaga a Greenland e 93% o lona faitau aofa’i ua oo iai le initaneti.",science/technology,entertainment,0.4949784576892853
+"O le tasi o polokalame lauiloa i lenei vaega o le Google Translate, lea e fa’atagaina fa’aliliuga e aunoa ma se Initaneti ina ua uma ona tuu mai i lalo fa’amatalaga mana’omia o le gagana.",science/technology,geography,0.3287986218929291
+"E tutusa lava fausaga o molecule pe kasa, suavai, pe malō.",science/technology,science/technology,0.4841759502887726
+"O le fa’aaogāina o ata video pu’eina ua avea ma i’uga tāua i le fa’amalamalamaina o foliga vaaia i totonu o sekone, gaioiga o foliga lea e oo i le miliona o sekone.",science/technology,geography,0.3382684290409088
+Sa faia e tagata ma fa’aaogāina tioata mo le fa’atetelēina mo le afe ma le afe o tausaga.,science/technology,science/technology,0.3770432770252228
+"E le na’o lea, o fa’ata’ita’iga, ma o le fa’ata’ita’iga o se su’esu’ega e fa’aaogā e ave’ese ai le tasi po o le tele o manatu talafeagai, fai o fesili, ma le maitauina o mea uma e lima ta’ita’ia ai foi su’esu’ega fa’asaienisi.",science/technology,entertainment,0.3566509187221527
+"Mulimuli ane, na suia uili laupapa i uili u’amea. I le tausaga 1767, na fa’alauiloa auala e fai i u’amea.",science/technology,entertainment,0.4248735308647156
+"E ui i le tele o cards e aogā mo le vili i so o se mea, o isi e fa’apitoa i le aumaia o tau lelei mo valaau i kulupu o atunuu fa’apitoa.",science/technology,entertainment,0.26287996768951416
+O le tele o telescope mo su’esu’ega fa’aonaponei o ni fale tetele i nofoaga mamao e manaia le tulaga o le si’osi’omaga.,science/technology,entertainment,0.5110482573509216
+O le nila uʻamea e opeopea i luga o le vai ona o le feteʻenaʻi o le laualuga.,science/technology,entertainment,0.3484894037246704
+"O le fa’atulagaga o le 35mm o le mea moni, e fai si fenumia’i, o le 36 mm i le lautele i le 24mm le maualuga.",science/technology,geography,0.4023037552833557
+"E faigofie tele ma taūa sela i su’esu’ega o le olaga, o le mea moni, e tele ina fa’aigoa o “poloka e fausia ai le ola”.",science/technology,entertainment,0.43704360723495483
+O le VPN a le tagata lava ia (virtual private network) o se auala lelei e ‘alofia ai tulafono fa’apolokiki ma le vaavaaiga o IP fa’apisinisi.,science/technology,geography,0.48660483956336975
+"E tumau pea le masani a lea nofoaga, e ui lava i le leiloa ai o le masini fa’atonutonu ma fua fa’ataamilomilo ai le fa’asinomaga sa’o (gyroscope) i le misiona muamua i le ‘ea seia o’o i le fa’aiuga o le savaliga i le vateatea.",science/technology,geography,0.5866145491600037
+"O tagata e i ai lea ’itua’iga mafaufauga lea e fuafua lelei manatu, e mafai ona tauloto fa’agasologa, fōfō fa’afitauli ma galulue i suega fa’asaienisi.",science/technology,science/technology,0.3014330565929413
+"E fiafia Oselota e 'ai ni tamaʻi manu. Latou te puʻeina manuki, gata, isumu ma manulele pe a latou mafaia. Toetoe lava o meaola uma e pu’e e le oselota e sili atu ona laiti nai lo ia.",science/technology,science/technology,0.34012022614479065
+"O isi meapu’e ata e fa’aaogāina le ituaiga o le 6 i le 6 cm, e sili atu le manino o le 56 i le 56 mm negative.",science/technology,geography,0.34625011682510376
+O tagata malaga e fautuaina malosi ina ia fa’aeteete i aafiaga mata’utia o le tau e lamatia ai o latou nofoaga auā e ono afaina ai ni fuafuaga i malaga.,travel,science/technology,0.36572861671447754
+"E tuua e pasi le fale fa’atalipasi i le va o itumalō (i le isi itu o le vaitafe) i le aso, e ui o le tele, aemaise lava i latou e malaga i le itu i sasa’e ma Jakar/Bumthang ma o ‘ese i le va o le 06:30 ma le 07:30.",travel,science/technology,0.2974138855934143
+Latou te fa’amautinoaina ua mau lelei le saofa’i o le tagata ti’eti’e ae e iai popolega o le saogalemū ona e ono mau le vae i le mea e tuu ai vae (stirrup).,travel,geography,0.4841481149196625
+O le tele o Vaa mo tafaoga ‘ese’ese i Paletika e atagia ai le toe fa’aopoopoina o le nofo ai i St. Petersburg i Lusia.,travel,geography,0.2603122889995575
+"O fautuaga ua fa’ailoa ai o tagata faimalaga e le gaoi, solitofaga, auai i vaega o maketi fa’asolitulafono, aisi, po o le fa’aaogā o isi tagata mo lo latou lelei.",travel,geography,0.47739166021347046
+E tele mea e tatau ona e mafaufau iai muamua ae e te le i malaga ma le taimi ua e malaga ai i se isi nofoaga.,travel,science/technology,0.315824955701828
+"I le ‘aasa o le la, e mafai ona oo tagata malaga i le fa’asēsēina o mafaufauga lea e maua ai le vaaia o vai e le o iai (po o isi mea).",travel,science/technology,0.35619720816612244
+"O aiga ma tamaiti e seāseā vaaia, ae o nisi nofotumau latou te taliaina i latou i potu fa’apitoa.",travel,entertainment,0.2968108355998993
+"Mo se fa’ata’ita’iga o asiasiga i ‘olo i le Vanu o Loire, o le Vanu o Rhine po o le alu i se malaga a se vaa tele i aai matagofie i luga o Danube po o vaa alo i le Erie Canal.",travel,geography,0.5229461789131165
+E sili atu le fa’aaogā o se ofisa malaga e masani ona faia malaga e tutusa ma lau malaga.,travel,science/technology,0.4188176691532135
+O le couchsurfing na fa’avaeina ia Ianuari 2004 ina ua maua e le ali’i polokalama komepiuta o Casey Fenton se malaga taugofie i Iceland ae leai se mea e nofo ai.,travel,geography,0.36478132009506226
+O visa o tamaiti a’oga e masani ona iai mea ‘ese’ese e mana’omia ma fa’agasologa o pepa fa’atumu mai visa masani mo turisi po o le visa fa’apisinisi.,travel,science/technology,0.3419743776321411
+O atunuu ta’itasi e iai tulafono fa’apitoa e mana’omia ai le iai o mea e tatau mo fa’alavelave fa’afuase’i i totonu o taavale.,travel,science/technology,0.3417556881904602
+"E ui o le tele o ofisa malaga e malilie e talia le taofiga masani o avanoa, o le tele o ofisa fa’apitoa mo ituaiga o malaga, fa’asoasoaina o le paketi po o le nofoaga autū e taunuu iai.",travel,geography,0.29904794692993164
+E ono vaaia e tagata malaga ni manu fa’alafuā e le masani ai i o latou atunuu.,travel,geography,0.3786364793777466
+"E le gata i lea i le itu i matū asiasi i le Malumalu matagofie o lo Matou Tama’ita’i o Fatima (Malumalu), o se nofoaga lauiloa i le lalolagi i le fa’aali mai ai o Maria.",travel,geography,0.3542014956474304
+E mafai ona e fa’aaogaina le boda-boda (uila afi la’upasese) e te fealua’i ai i Goma. O le tau masani lava e ~500 tupe Congo e totogi e ta’amilo ma e ti’eti’e ai mo se tama’i taimi.,travel,entertainment,0.37493768334388733
+"Mo i latou e fiafia i gaioiga e fai i fafo, e taūa le savaliga i luga o le Sami aga’i auala o le Lagi.",travel,geography,0.36992931365966797
+"O savaliga fa’asafari (e ta’ua foi o “savaliga i le vao”, “matamataga savavali i le safari”, po o le “savali”) e iai matamata savali, a lē mo ni nai itulā po o nai aso.",travel,geography,0.33666422963142395
+"Na o le pau lava le auala e vave alu ai o le lafo fa’a-’ato ua uma ona siaki. O tulafono a kamupanī vaalele e le fa’atagaina ai i latou e lafo ni ‘ato e aunoa ma se tagata malaga, lea e te sau ai i totonu.",travel,entertainment,0.3864341676235199
+"O le 300 fa’aopoopo na maua ai le aofa’iga o taavale solofanua e 1,300 ina ia fa’aitiitia ai le toatele.",travel,science/technology,0.3182174563407898
+"O aiga e iai tamaiti laiti e ono mana’omia le tele o tapenapenaga, ae o se aso i fafo e faigofie lava e oo i pepe ma tamaiti a’oga fa’ata’ita’i.",travel,entertainment,0.3601456582546234
+"O so o se tasi lava o le a ave’ave i mea maualuluga po o le pasia o luga o mauga e tatau ona mafaufau i le ono iai o ni kiona, aisa to’a, po o le tau malūlū.",travel,geography,0.3565840423107147
+"O aso nei, o Timbuktu o se aai e matitiva, e ui lava o lona ta’uleleia ua avea ai ma mata’aga mo turisi, ma e iai foi lona malaevaalele.",travel,geography,0.3646453022956848
+"I vaitau matuā malūlū, e la’titi sina taimi e to’ulu ai le kiona ma le mafai ai ona e alu.",travel,geography,0.3361567258834839
+"Afai e te fia malaga taamilo i le lalolagi atoa i le Southern Hemisphere, o vaalele e filifili mai iai ma fa’asinomaga e limiti ona o le lē lava o alāvaa i isi itu o le vasa.",travel,science/technology,0.3565383851528168
+"O kamupanī vaalele e pei o le Emirate, Etihad Airways, Qatar Airways & Turkish Airways ua matuā fa’alauteleina la latou ‘au’aunaga i Aferika, ma ofa fesoota’iga i le tele o taulaga tetele o Aferika i tau fa’atauva na i lo isi vaalele a Europa.",travel,science/technology,0.3109590411186218
+"E leai se malaga fa’aopopo o iai ma e lē toe taofia nofoaafi i Wembley, ma lē toe avanoa paka taʻavale ma mea ti’eti’e uma i le paka i le lau’ele’ele.",travel,geography,0.36052897572517395
+"I se tulaga lautele, o le nofo i so o se atunuu ‘ese mo se taimi umi o le a mana’omia le faia muamua o sou visa.",travel,entertainment,0.42264410853385925
+O nofoaafi uma e iai le MetroPlus ma tagata e fa’atonutonuina le Metro; o tagata fa’atonutonu o le MetroPlus e masani lava ona i le fa’atausi’usi’uga o le nofoaafi latalata i le Cape Town.,travel,entertainment,0.3309675455093384
+O tagata uma e auai i fa’apotopotoga ma fa’aaogā auala o femalaga’iga. Toeitiiti o tagata uma e faitio i auala o femalaga’iga.,travel,sports,0.29563257098197937
+"Ona o le tauleai o ni tagata i lea nofoaga, o le malamalama fefiloi e le masani ona avea ma se fa’afitauli, o le a mafai foi ona e matamata fiafia i fetū.",travel,entertainment,0.6606614589691162
+O mea mana’omia i visa ma tau e le tutusa mai lea atunuu i lea atunuu ma e aafia i le atunuu e te sau mai ai.,travel,entertainment,0.43748369812965393
+"I so’u manatu lautele, e leai se mea e tilotilo ai fua i se pa’ū mo pisinisi po o le vasega o nofoaga muamua i malaga tu’usa’o mai le A i le B.",travel,geography,0.39334186911582947
+O le togiina o le boomerang o se tomai lauiloa e tele turisi e fia mauaina.,travel,geography,0.476003497838974
+E le na o le pau lea o le faigāmalaga e te filifili mai iai pe a e mana’o e fa’amisi le Pasefika i Saute ma le talafatai i sisifo o Amerika i Saute. (silasila i lalo),travel,geography,0.3651537299156189
+"Ua fausia e San Fransico se atina’e turisi tele e iai le anoanoa’i o faletalimalō, fale’aiga, ma fale fono lelei ona fausia ma maualuga lona tulaga.",travel,science/technology,0.39073410630226135
+O le volenitia a o malaga o se auala lelei tele mo se suiga ae e lē na o le foa’i atu.,travel,science/technology,0.37329331040382385
+"Atonu e le’i mafaufauina e tagata, o le onosa’i ma le malamalama e tāua mo tagata femalagaa’i ua toe fo'i mai i aiga.",travel,geography,0.37667030096054077
+"‘Aua ne’i galo ona fa’aopoopo se tupe mo le tau o ni visa e ono mana’omia, lafoga tuua, auala o fesoota’iga i le lau’ele’ele, ma isi mo nofoaga uma i fafo o Aferika.",travel,sports,0.26765888929367065
+E iai nisi o tagatanuu Bishkek na tuua’ia tagata tetee mai le itu i saute mo le lē tausia o tulafono.,politics,entertainment,0.43096572160720825
+O vaega i aso nei o Peleseuma sa avea ma vaega o Luxembourg i taimi ua tuanaʻi ae sa suia ia Peleseana ina ua maeʻa le Fouvalega a Peleseana i le 1830.,politics,entertainment,0.3571980893611908
+"Talu mai le 1988, e tatau ona manino lelei pusa palota ina ia mafai ai e tagata palota ma tagata vaavaai ona molimauina e leai ni teutusi e i ai i le amataga o le palota ma e leai ni teutusi e fa’aopoopo i ai sei vagana ai i latou o tagata filifilia ua uma ona faitauina ma fa’atagaina.",politics,geography,0.41940581798553467
+"Na taʻua e le Palemia tausi o Julia Gillard, i le taimi o fa’atosina o le palota tuufa’atasi o le 2010, sa ia talitonu e tatau ona avea Ausetalia ma faigamalō republic i le fa’ai’uga o le nofoaiga a le Masiofo o Elisapeta II.",politics,entertainment,0.45440617203712463
+Ua fa’amamafa mai e le malō o Aialani le fa’anatinati ai o tulafono a le palemene e fa’asa'o ai lea tulaga.,politics,entertainment,0.4918075501918793
+O finauga fa’ale-malō i luga o le itulagi ua fa’aauau ai le fa’aleagaina o sootaga i le va o Arameni ma Azerbaijan.,politics,entertainment,0.4155796468257904
+"Na malie le Palemia o Stephen Harper e auina atu le tulafono 'Fa’amamaina o le Ea' a le malo i se komiti o patī ta’itasi mo le iloiloina, a o le’i faitauina fa’alua, ina ua mavae le fonotaga e 25 minute le umi ma le ta’ita’i o Jack Layton i le PMO.",politics,science/technology,0.3687705397605896
+"I le masina ua te'a, sa i ai ni solo tete’e matuiā i Polani ina ua sainia e lena atunuu le ACTA, lea na afua ai le filifiliga a le malō o Polani ina ia aua ne’i fa’amaoniaina le maliega mo le taimi nei.",politics,geography,0.36522674560546875
+O fa’asilasilaga ua na o se ‘oto’otoga puupuu o le tulaga o le fa’apolokiki i totonu o le atunuu.,politics,entertainment,0.41791170835494995
+"I le taimi o filifiliga o le 1976 sa ia fautuaina ai Carter e uiga i aiaiga fa’avae mai fafo, ona ‘au’auna ai lea o ia o se Faufautua mo le Puipuiga o le Atunuu (NSA) mai le 1977 i le 1981, sosoo mai ia Henry Kissinger.",politics,geography,0.3946918547153473
+"O le a ave foi e Turkey le leoleoina o tagata tau a le ISIS, lea na fai mai le fa’amatalaga, Ua mumusu malo o Europa e toe fa’afo’i.",politics,geography,0.3195669949054718
+"Ae peita’i, o nei fuafuaga sa toetoe lava o le po na le toe fa’aaogāina ai, ina ua silia ma le 800,000 fitafita mai le Vaegaau a le Soviet Union Red Army na ulufale atu ma fatuina ai le Vaegaau Faa-Polani ma Iukureini ina ua uma ona osofaia itu i sasae o Polani e solia ai le Maliliega o le Filemū, o le Feagaiga o le Soviet-Non-Aggression Pact, ma isi feagaiga faavaomalo i itu uma e lua ma le tele o atunuu.",politics,entertainment,0.3239828944206238
+"A mae’a le fa’agasologa o galuega, o le a toe iloiloina le HJR-3 e le fono faitulafono filifilia e sosoo ai i le 2015 po o le 2016 ina ia tumau ai pea i le fa’agasologa.",politics,entertainment,0.3738548159599304
+"Ina ua uma ona filifilia e le Konekeresi i le aso 4 o Iulai, o se tusi fa’ata’ita’i (draft) sa tusilimaina ma sainia e le Peresitene o le Konekeresi o John Hancock ma le Failautusi o Charles Thompson na lafoina i le fale’oloa lomitusi o John Dunlap pe a ma ni nai poloka le mamao ‘ese.",politics,entertainment,0.5802898406982422
+"E leʻi leva ona ta le 11:00, ae poloka loa e tagata o le solo tetee le auala taavale e aga’i i matū o Whitehall.",politics,science/technology,0.31616005301475525
+"Ae peitai, ia Iuni 1956, na tofotofoina folafolaga a Krushchev ina ua i ai fetaua'iga i Polani, lea sa tetee ai tagata faigaluega i le lē lava o meaai ma le tipi o totogi, na suia i se solo tetee tele e fa’asaga i le fa’a-Komunisi.",politics,entertainment,0.7261344194412231
+"Na tumau mo le isi 40 tausaga ma o le a tau moni, e ami o setete ‘ese’ese, i malae o taua mai Aferika i Asia, i Afghanistan, Cuba ma le tele o isi nofoaga.",politics,entertainment,0.41365405917167664
+"O le masina ua te'a, na fautuaina ai e le komisi peresetene le fa’amavaega muamua a le CEP o se vaega o fuataga e tulei ai le atunuu i faiga palota fou.",politics,geography,0.4277927279472351
+O isi mātaupu na talanoaina e aofia ai le tulaga i le lumana’i o Ierusalema lea e fa’amamaluina i malo uma e lua ma le mātaupu i le Vanu o Ioritana.,politics,science/technology,0.3586585819721222
+Sa leai foi se pule ia te ia e suia ai tulafono o lafoga ma lafoga i le va o setete.,politics,entertainment,0.552822470664978
+O le tulafono o palota fa’a-Farani e fa’amalosia ai le vaevaeina o taualumaga.,politics,science/technology,0.2913039028644562
+"Ina ua mavae se vaiaso o le faiaina ai i le ogatotonu o taimi o le faiga filifiliga, sa ta'u atu e Bush i se aofia e uiga i le fa’ateleina o le fefa’atauaiga i Asia.",politics,geography,0.3380396068096161
+"Na fa’amaonia le aogā o le fuafuaga mamao, o le vavae’eseina o sapalai taua faamiliteli ma mea fa’alemalō, e ui lava o lenei faiga fa’aletulafono na le taliaina fa’alaua’itele e ala i maliliega fa’avaomalo o seneturi e lua ua mavae.",politics,geography,0.30979207158088684
+O sootaga fa’ale-tamaoaiga ua toe fausia i le va o vaega nei e lua o Moldova e ui i le toilalo ai i feutaga’iga fa’apolokiki.,politics,geography,0.4336756467819214
+"I le omai fa’atasi ai ma tagata o le ofisa, sa ia fa’amautinoa i tagatanuu o Texas ua faia ia la’asaga e puipuia ai le saogalemū o tagata lautele.",politics,geography,0.398527055978775
+O faitioga tele e uiga i le toefausiaina o taumafaiga ua taulai atu i le toefausiaina o konekarate e fa’ailoa ai ofisa tutotonu o Uosigitone.,politics,entertainment,0.3506677746772766
+"Mai le 1,400 tagata na palota ae leʻi faia le palota tuufa’atasi o le 2010, o i latou e tetee i le avea o Ausetalia ma faigamalō republic na fa’atupula’ia i le 8 pasene talu mai le 2008.",politics,geography,0.34314125776290894
+"Fai mai sui auai, ua lava mea valea (mea fa’aletonu) na latou mauaina i tusi fa’avae a Afghan e fa’ailoa ai le lē toe mana’omia o se filifiliga mulimuli.",politics,science/technology,0.34726011753082275
+"Ina ua maua le i’uga, na fa’afetaia e Gingrich ia Santorum, ae na mamafa upu mo Romney, o lē na faia ni fa’asalalauga le lelei fa’asaga ia Gingrich i Iowa.",politics,entertainment,0.45389264822006226
+O le lona lima (CEP) lea a Martelly i totonu o le fa tausaga.,politics,geography,0.3829144239425659
+"O le ali’i pine auro o le Olimipeka na tuu e aau i le 100m ma le 200m sa’oloto ma le tolu relays i le Commonwealth Games, ae ona o ana faitioga na masalomia ai lona malosi.",sports,science/technology,0.30870768427848816
+"E le gata i le avea ai o ia ma se siamupini muamua o le Olimipeka i le Lalolagi, o Saito sa avea ma ta’ita’ifono o le komiti o toleniga a le Fa’apotopotoga Judo i Iapani (All Japan Judo Federation) i le taimi na maliu ai.",sports,entertainment,0.35865503549575806
+"O le Komiti o le Olimipeka Fa’avaomalo na palotaina i le fono a le pulega i Perelini i le asō le iai o taaloga. O le lakapi, ae maise lava Lakapī Uni, ma le taaloga tāpolo sa filifilia mai i isi taaloga e lima ina ia iloiloina le auai i le Olimipeka.",sports,entertainment,0.29804059863090515
+O le taaloga tele o le tausaga e faia ia Tesema i le malae tapolo i Las Cañitas.,sports,geography,0.327127605676651
+"Talu ona me’i atu i le laumua o Catalan, sa taalo ai Vidal i taaloga e 49 mo le kalapu.",sports,entertainment,0.4740021824836731
+"O le fa’atumauina o le paleni lelei o le malosi, o le fa’amasani i aogā o le lava o le vai i le tino, ma malamalama i vaega ‘ese’ese o mea’ai fa’aopoopo e mafai ona fesoasoani i le ‘au taa’alo e fa’aleleia la latou taa’alo ma fa’ateleina lo latou fiafia i le taaloga.",sports,entertainment,0.36431270837783813
+"Tulaga tolu, e luasefulu ‘ai e maulalo ai Hamlin, ae lima e sili ai ia Bowyer. O Kahne ma Truex o le tulaga lima ma le ono i ‘ai e 2,220 ma le 2,207 ta’ito’atasi.",sports,science/technology,0.282607764005661
+O fa’amaumauga o ‘ai o taaloga a Nadal ma Kanata e 7–2.,sports,geography,0.4692085385322571
+Sa faia fa’ata’ita’iga a Jarque i le vaitau o toleniga i Kovesiano i Italia i le amataga o le aso. Sa nofo i le fale talimalō o le ’au a o lumana’i le taʻaloga fuafuaina ma Polonia i le Aso Sa.,sports,geography,0.3271419405937195
+O le lagona fefe ona o le lē lava o femalagaaiga na mafua ai le manatu o le a fa’amalosia le taaloga e taa’alo ai i tua o faitotoa tapunipuni e aunoa ma tagata lagolago i le ‘au.,sports,science/technology,0.3696606755256653
+"Fai mai Tommy Dreamer ""O Luna o le Masiofo muamua pito i malosi. O loʻu pule muamua. Na maliu Luna i le po o masina e lua. O se tulaga ‘ese e pei lava o ia. O se tama’ita’i malosi.”",sports,science/technology,0.3197726607322693
+"O le ‘au fa’ase’e a Polani, Maciej Krezel e leaga le vaai ma Anna Orgarzynska (guide) na tulaga sefulu-tolu i le Super-G. O Jong Seork Park o Korea i Saute na tulaga luasefulu-fa i le Super-G a ali’i i le saofa’i i lalo.",sports,geography,0.36571499705314636
+"Mo tala i taaloga ma nofoaga e fa’atau ai tickets mo tauvaga tapolo, siaki le Fa’alapotopotoga Tapolo a Argentina.",sports,entertainment,0.3063945174217224
+Na amata ta’aloga i le 10:00 i le taeao i le manaia o le tau e ui ina sa fa’amālumalu mai i le 'ogatotonu o le taeao ae na vave ona mou ese ma avea ai o se aso sa sili ona matagofie mo le ta’aloga lakapī ta’itoa 7.,sports,geography,0.30870431661605835
+O Arly Velasquez o Mexico na tulaga sefulu-lima i le vaega o ali’i Super-G i le nofo. O Adam Hall o Ni’u Sila na tulaga iva i le vaega o ali’i Super-G i le tu.,sports,entertainment,0.31900253891944885
+"O le ta’aloga mulimuli o le a faia i le Ellis Park i Johannesburg i le vaiaso a sau, pe a taa’alo Aferika ma Ausetalia.",sports,geography,0.37575963139533997
+"I tulaga lelei o le a mafai ona e sopo’ia se mamao e sili atu na i lo le savali - ae e seāseā lava, o le a e maua le saoasaoa o le fa’asee i le isi itu o le atunuu e aunoa ma se ‘ato mamafa e avea i auala ua saunia.",sports,entertainment,0.4179619252681732
+"Fitu ‘ai e maulalo ai, e lona lua Johnson i ‘ai e 2,243 ‘ai.",sports,entertainment,0.36820730566978455
+"O le canyoning (po o le: canyoneering) e fa’atatau i le alu i le ta’ēle o le vanu, lea a le mago po o le tumu i vai.",sports,sports,0.28346309065818787
+"Na ‘ai silia Robin Uthappa i lona tāina o ‘ai, e 70 tamoe’ga i le na o le 41 polo e ala i le taina o le 11 fa ma le 2 ono.",sports,science/technology,0.3962906002998352
+"Taaloga o le taumalūlū e sili ona lauiloa i le itulagi i Matu, ma tagata Italia o tauvā i taaloga faʻavaomalo ma le Olimipeka.",sports,science/technology,0.28760290145874023
+"Na uma Maroochydore i le pito i luga o le apefa’i, ono togi e kilia ai ia Noosa i sekone.",sports,geography,0.6043050289154053
+E le i umi ona tuua e Alfonso le tuuga ae sosoo atu ai ma Michael Schumacher ‘ona o le tele o mea na fa’aleagaina i le tele o taua i le taimi o le tuuga.,sports,geography,0.26946553587913513
+"O fa’ata’ita’iga lelei o meaai tau soifua malōlōina e le mafai ona fa’atinoina gaioiga maualuluga, ae latou te mafai ona tausia le soifua lelei o tama taa’alo laiti.",sports,science/technology,0.2704370319843292
+Sa lē mafai ona ‘aveina fualaau e mana’omia mo ona tigā ona e fa’asaina mai Taaloga.,sports,science/technology,0.46717819571495056
+O su’esu’ega ua iloa ai o tama’ita’i e fa’aluaina ona maua i le MS na i lo ali’i.,health,entertainment,0.344367116689682
+"O ‘ava malosi lē fa’atulafonoina e ona maua iai le tele o mea e ono lamatia ai le soifua malōlōina e iai le methanol, lea e ono mafua ai le pō o le vaai po o le oti tusa lava pe o ni nai fa’atulutulu.",health,science/technology,0.3725503385066986
+"Na o aafiaga o le atuatuvale o le loto, e lē o mafatiaga ma le fefe na fua iai fono masani a le PA e fa’atulagaina.",health,geography,0.32215237617492676
+"O le tele o ta’avale e umia fa’atasi e tupu ai le maualuga o fa’alavelave tutupu i auala, e tupu ai le fausia o metotia fou i le tausiga o le soifua malōlōina e fa’alelei ai tino e fa’aleagaina",health,geography,0.41372114419937134
+"Faimai ta’ita’i o le ‘au su’esu’e e ono aumai e lenei masini se ulua’i sa’iliga e iloatino ai le kanesa, mamā-pala, HIV ma le malaria i gasegase i atunu’u e maualalo le tupe maua, lea e itiiti le fua fa’atatau o le ola o gasegase e pei o le kanesa o le susu pe a ma le afa o atunuu e tele le tamaoaiga.",health,science/technology,0.3630673885345459
+"Dr.Ehud Ur, o le polofesa o vailaau fa’afoma’i i le Iunivesite o Dalhousie i Halifax, Nova Scotia ma le ta’ita’ifono o su’esu’ega fa’ale-mafaufau ma le vaega fa’asaienisi o le Asosi o tagata ma’i suka o Kanata sa lapata’i mai o le su’esu’ega o lo o i ai pea i ona aso pōpōfou.",health,geography,0.34134021401405334
+"O nei fanau e ono oo i le tele o fa’afitauli, ona latou te ""fiafia i amioga lamatia, fai misa, ma lu’iina le pulega"" ina ia mafai ona fa’aosofia lo latou faiai, aua e le mafai ona fa’aosofia o latou faiai e ala i metotia masani.",health,geography,0.3916705250740051
+E mafai ona aafia tagata i le manavaina o le vai ua aafia e i le ea e feavea’i e le matagi ma galu.,health,entertainment,0.6112942695617676
+O nisi tagata e talitonu o le mauaina o le tele o miti faʻasolosolo e tele ina lava e mafai ai ona lagona le matuā lelavā.,health,science/technology,0.3465537428855896
+Na togafitia Potro i lona tauʻau i le taimi lea ae na mafai ona toe foʻi ile taaloga.,health,geography,0.39691004157066345
+"E le gata i lea, o le lē faia o lena mea o le a i ai ni taunuuga matuiā: o le tuputupu ae o le fa’anoanoa, le lelei o le tino, ma le i’uga o le oti.",health,entertainment,0.255043625831604
+O le ofisa mo le a’ai o Amsterdam ma le Mata’aga o Anne Frank na ta’ua ai le la’au ua a’afia i le limu ma tula’i mai ai se fa’afitauli tau le soifua malōlōina lautele a o latou finau sa i se tulaga lamatia pe a pa’ū.,health,geography,0.3968125581741333
+"Na mulimulita’ia e le falema’i le tulafono o le fa’aitiitia o le pepesi o le siama, e aofia ai le tuu’ese’eseina o le gasegase mai isi ina ia puipuia ai le ono a’afia ai i siama.",health,entertainment,0.2936876714229584
+"Na fa’ailoaina e le Aoga a Tagata Haiti mo le Fa’amasinoga Tonu ma le Fa’atemokarasi, su’esu’ega tumaoti na ta'u mai ai le aumaia o le fa’ama'i i Haiti e le vaega mai Nepale o e tausia le filemu i le UN.",health,geography,0.2769535183906555
+"O latou lava o fa’ama’i pipisi, po o manu fa’alafuā e mafai ona manu’a ai se tasi po o le fasiotia fa’afuase’i o se tagata, ‘aua ne’ i fa’amasani i le taliaina o se iniseti.",health,science/technology,0.2898074686527252
+"Tamaiti ma ADD e faigata ona taulaʻi atu i mea e pei o galuega a le aʻoga, ae mafai ona latou mafaufau loloto i mea latou te fiafia e fai e pei o le taʻalo i taʻaloga poʻo le matamata ia latou ata e fiafia i ai pe tusia ni fuaiʻupu e aunoa ma ni faʻailoga.",health,entertainment,0.4185826778411865
+"I le tasi le tausaga, e mafai ai e se tagata ua a’afia i le siama ona a’afia ai le 10 i le 15 tagata fesootai vāvālalata",health,science/technology,0.3551824390888214
+"Ina ua uma le taua ina ua uma ona aveina le au manunu'a i le falemai, pe tusa ma le 40 o isi tagata pagota na totoe o le pologa sa nonofo i le fanua ma mumusu ai e toe foi i o latou sela.",health,entertainment,0.5911713242530823
+Na amata ona fa’afaigaluegaina foma’i e le Ta’ita’i o Aokuso ma na oo lava ina fa’atuina le ulua’i Vaega Fa’afoma’i a Roma mo le fa’aaogāina i le tuana’i ai o taua.,health,science/technology,0.4317595660686493
+"Ae peitai, e tele ni manu’aga tugā i le ulu o le ‘avetaavale.",health,geography,0.32411202788352966
+"“Ua i ai nei matou tama’i isumu e 4 masina le matua e le ma’i suka ae sa ma’i suka”, o lana fa’aopopo atu lea.",health,science/technology,0.345049113035202
+O le ‘ona i totonu o le tino e le mafai ona vave iloa. O āuga e pei o le pua’i ua lava le lautele e lē mafai ai ona fai se su’esu’ega vave.,health,geography,0.4145512878894806
+"O le i’uga, o le ‘au fa’afiafia na ulaina la’au fa’asaina i luga o le stage, ma na una’ia e le faletifaga tagata matamata e auai mai i totonu.",entertainment,geography,0.39255329966545105
+Ua fa’aleaogāina e Aerosmith a latou konaseti na totoe i la latou malaga taamilo.,entertainment,geography,0.3904210031032562
+A e fia latalata i fa’afiafiaga e tatau ona e alapo e vaai se nofoaga mo le togālauapi e latalata i le musika e nonofo ai.,entertainment,geography,0.39426279067993164
+E tele ituaiga o ata ‘ese’ese sa fa’aaogāina i le tele o tausaga. O ata tifaga masani 35 mm (36 i le 24 mm negative) e sili ona taatele.,entertainment,science/technology,0.38329175114631653
+"E ui o lenei gaioiga e taatele, ua fa’asaina e le Disney: o ticket e mo na o le tagata e to’atasi.",entertainment,entertainment,0.45430514216423035
+"O vaega ta’itasi o lenei polokalame fa’asolo o le a taula’i i le autu o se tusi patino, ona su’esu’e laia o lenā autū e ala i le fa’amatalaina o tala ese’ese.",entertainment,entertainment,0.5271608829498291
+Sa fa’apipi’ina ni televise tetele i vaega eseese i Roma ina ia mafai ai e tagata ona matamata i le sauniga.,entertainment,geography,0.3579174876213074
+O Sophocle ma Aristophanes o lo o avea pea ma ‘au tusi tala fa’atino taʻutaʻua ma o a la tala o lo o i le lisi o tusitusiga mata’ina i le lalolagi o tala fa’atino.,entertainment,entertainment,0.267960786819458
+O ia fa’aaliga ta’itasi o le a tu’uina atu ai foi ni fautuaga mo ni tusi e tatau i tama’iti ona va’ava’ai i ai pe a latou o i latou faletusi.,entertainment,entertainment,0.32086172699928284
+"O le accordion, ina ia fa’aleotele tele, e te faʻaaogāina le pelo ma le malosi po o le vave.",entertainment,entertainment,0.3819578289985657
+E mafai ona e iloa atu le puramita i le pogisa ma e mafai foi ona e iloa atu i le to’afilemū ae leʻi amataina le fa’aaliga.,entertainment,geography,0.34560295939445496
+"O fa’ata’ita’iga o gaioiga e faia i lea nofoaga e iai le tuligā manu, fagota, pu’e ata, matamata i manulele, ma le asiasia o paka ma aoao fa’amatalaga e fa’atatau i le si’osi’omaga.",entertainment,science/technology,0.40206289291381836
+O le fa’atagata e ulu i pusi (Sphinx) ua avea o se ata i le pito i tua mo le fa’amatalaina o le tala ‘umi.,entertainment,science/technology,0.3555906414985657
+"E masani ona fai latou mea’ai fa’apitoa, o vai ma fa’afiafiaga e sauniaina, ina ia fa’afiafiaina ai pea malō, ma nonofo ai lava i totonu o le fanua.",entertainment,geography,0.38258856534957886
+"Ua uma ona lipoti atu i le gagana Peretania ma le fa’a-Sapanī, ae ua fa’alauiloa e le fa’alapotopotoga i le lalolagi ia polokalame fa’a-Sipaniolo, Italia, ma polokalame i le gagana Korea, mo televise, ‘upega tafa’ilagi, ma telefoni fe’avea’i.",entertainment,entertainment,0.31474223732948303
+A o le’i galue le ‘Au Simpsons Simon i nisi o ata i fa’aaliga ‘ese’ese.,entertainment,geography,0.4181165099143982
+O lenei faiga o le a mafai ai e tagata taa’alo ona pulea taga ma gaoioiga i taaloga vitio e ala i le faaminoi o le masini i le ea.,entertainment,geography,0.4660428464412689
+Pe tusa ma le 100 tagata na ‘auai i le patī e fa’amanatu ai le ulua’i tausaga o le fa’aipoipoga a se ulugalii sa faia i le tausaga ua te'a.,entertainment,science/technology,0.3565347492694855
+"E lua pese mai le ata tifaga, Audition (The Fools Who Dream) ma le City of Stars, sa faatūina mo le mauaina ni fa’ailoga mo ulua’i pese fou. Na faatūina e le Lionsgate studio mo le mauaina o fa’ailoga e 26 ma ua sili atu a nai lo se isi lava studio.",entertainment,entertainment,0.38725659251213074
+O le pa’u e tusa ma le 70 km le mafiafia i le itu lata ane ma e 100 km le mafiafia i le itu mamao.,geography,entertainment,0.3841005861759186
+O le mamao i saute o le Afu o Niagara ma matū o le aiga i le matagofie o le natura o Muskoka e le i fa’aaogāina ma tua atu.,geography,geography,0.3229496479034424
+"O Lau’ele’ele o Ellsworth o se vaega i saute o le Penisula, e tuaoi ma le Sami Bellingshausen.",geography,geography,0.42016538977622986
+O le Pole Traverse i Saute (po o le Aualatele) e 1600 km laina mai le nofoaga o nofoaafi i McMurdo i luga o le Sami o Ross i le Pole.,geography,geography,0.4843304455280304
+"O le pito i matū o Machu Picchu o lo o fa’amalumalu mai ai i luga le mauga tifatō, e masani ona fai ma ata pito i tua i le tele o ata pu’e o fa’atafunaga.",geography,entertainment,0.467920184135437
+"O le satelite o Saturn (Enceladus) o le mea faitino e sili ona faaatagia ai le malamalama i le faataamilosaga o paneta, masina, ma fetu i le lā, o lo o atagia ai pe tusa ma le 90 pasene o le susulu o le la lea e taia ai.",geography,science/technology,0.4689962565898895
+E leai se isi mea e mafai ona vaaia e ese mai le lagi manino ma le matagofie i luga ma le tele o mauga lata ane. E itiiti lava se mea o lenei lalolagi e mafai ona vaaia pe fa’alogoina mai totonu o le ana.,geography,geography,0.34827524423599243
+"I le taimi nei mo Iapani. O Iapani o se atunuu motu, pei foi o Peretania.",geography,entertainment,0.3109024465084076
+"I lona maualuga, o le Afā Fulifaō o Gonu, na fa’aigoaina o se taga laupama i le gagana a Maldives, na oo atu i matagi malolosi o le 240 kilomita i le itula (149 maila i le itula).",geography,geography,0.3681453466415405
+"O le itu a Turkey, e aofia ai vaituloto, o lo o nofoia le 783,562 sikuea kilomita (300,948 sq mi), lea e iai le 755,688 sikuea kilomita (291,773 sq mi) o lo o i saute sisifo o Asia ma le 23,764 sikuea kilomita (9,174 sq mi) i Europa.",geography,entertainment,0.3789193034172058
+"O le Motu o Shetland i Saute na mauaina i le 1819, ua faia e nisi o atunuu ma iai le tele o ofisa autū, ma le sefulu-ono ofisa galulue i le 2020.",geography,entertainment,0.3459494411945343
+"O Apia o le laumua o Samoa. O le taulaga e i le motu o Upolu ma o lona faitau aofa’i e i lalo ifo o le 40,000.",geography,geography,0.39722123742103577
+"A o taumamao le afā mai laufanua, e tumau lava le faigata ona iloiloina a’afiaga e ono i ai le Iunaite Setete po o le Keripiane.",geography,entertainment,0.4432269036769867
+E manifi i lalo o vaega lanu uliuli (maria) ma mafiafia i lalo o fanua maualuluga.,geography,geography,0.3959672152996063
+O vaomatua e le na o ni togātogo taufusi - o lo o iai nisi o toēga o togāvao tetele sa ufitia ai laufanua laugatasi o Gangetic.,geography,geography,0.5800297856330872
+O le Vaega Su’esu’e o Fa’afanua a le Iunaite Satete na fa’aalia le leai o ni mafui’e i Aisalani i luga o le fa’afanua fa’avāomalō i le vaiaso talu ai.,geography,geography,0.4130132496356964
+"O lo o i luga o le tumutumu o se tasi o mauga i matu o Meka, o le ana ua matuā vavaeʻese lava mai isi vaega o le lalolagi.",geography,geography,0.36485394835472107
