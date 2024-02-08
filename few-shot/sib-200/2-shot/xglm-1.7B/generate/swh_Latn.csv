@@ -1,0 +1,205 @@
+text,actual_category,predicted_category,confidence
+"Mabadiliko huongeza tofauti za kimaumbile, na uchaguzi huyaondoa katika mkusanyiko wa tofauti zilizoonyeshwa.",science/technology,sports,0.18784072995185852
+Bomu hii gawanyiki hufanya kazi kwa kanuni kwamba nguvu huhitajika katika uundaji wa viini vyenye protoni na nutroni nyingi.,science/technology,science/technology,0.40803155303001404
+Nyuklia ina chembe mbili - nyutroni na protoni.,science/technology,geography,0.29550880193710327
+Hii imewezesha lenzi za kukuza kutoa picha zenye ubora unaoweza kulinganishwa na ule unaofikiwa na lenzi zenye urefu msingi usiobadilika.,science/technology,travel,0.7081649899482727
+"Ni bora kuliko wakala wa tovuti kwa sababu kadhaa: Huelekeza upya trafiki yote ya intaneti, si http pekee.",science/technology,travel,0.25617364048957825
+Ubunifu wenye maingiliano huhitaji kwamba ukague tena dhana zako kuhusu uzalishaji wa midia na ujifunze kufikiria kwa njia zisizo nyoofu.,science/technology,entertainment,0.2790380120277405
+"Hii ilikuja kuwa desturi, lakini chuma kilisababisha kuharibika kwa magurudumu ya mbao ya magari ya kukokotwa.",science/technology,travel,0.2081262767314911
+"Makundi ya simba yanatengenezwa na waume kati ya mmoja na watatu wazima wanaohusiana, pamoja na wengi wa kike kama thelathini na mashibli.",science/technology,science/technology,0.18432682752609253
+"Ingawa Akili Bandia inahusishwa sana na tungo za kisayansi, Akili Bandia huunda sehemu muhimu sana ya tawi la sayansi ya kompyuta, kushughulikia tabia, mafunzo na marekebisho ya akili kwa mashine.",science/technology,science/technology,0.47158390283584595
+Uwiano-vipimo wa muundo huu (kugawa na kumi na mbili ili kupata uwiano rahisi zaidi wa namba kamili) basi husemekana kuwa 3:2.,science/technology,politics,0.29474782943725586
+"Simu ya satelaiti sio kwa ujumla mbadala wa simu ya rununu, kwani lazima uwe nje wazi na kuona laini za satelaiti ili kupiga simu.",science/technology,science/technology,0.368192583322525
+"Ingawa njia za magari zilisheheni magogo sambamba ya miti, zilihuruhusu farasi kuzivuta kwa kasi zaidi na kuvuta mizigo mikubwa kiasi kwa barabara mbaya za siku.",science/technology,health,0.479876846075058
+"Watu wameshajua kuhusu elementi za kimsingi za kemikali kama vile dhahabu, fedha, na shaba kutoka zamani, kwani hizi zote zinaweza kugunduliwa kwa maumbile katika hali ya asili na ni rahisi kuchimbuliwa kwa kutumia zana za zamani.",science/technology,science/technology,0.29676157236099243
+Gurudumu limebadilisha dunia kwa njia za ajabu. Jambo kubwa zaidi ambalo gurudumu limetufanyia ni kutupatia uchukuzi rahisi na wa haraka.,science/technology,travel,0.5603416562080383
+Hii hufanywa ili kuhakikisha picha inafunika skrini yote. Hiyo inaitwa kuskani kulikokithiri.,science/technology,geography,0.3307785987854004
+Manowari za Ujerumani ziliitwa nyambizi. Wajerumani walikuwa wazuri sana kwa kuabiri na kuendesha manowari zao.,science/technology,travel,0.4232863783836365
+"Ingawa hali yake ya mwili inaweza kubadilika, hali yake ya kikemikali inabaki ile ile.",science/technology,health,0.24329841136932373
+Nguvu za mvuto kwenye sura hutokea kwa sababu molekyuli za maji katika sura ya maji huvutana kwa nguvu zenyewe kwa zenyewe kuliko jinsi zinavyovutwa na molekyuli za hewa zilizo juu yake.,science/technology,travel,0.29006654024124146
+Shida moja ya kawaida wakati wa kujaribu kubadilisha sinema kwenda kwa muundo wa DVD ni kuskani zaidi.,science/technology,health,0.23127634823322296
+"Hususan, inadaiwa kuwa mtu anaweza kutambua ikiwa mtu anadanganya kwa kufasiri ishara ndogondogo kwa njia sahihi.",science/technology,politics,0.3983456790447235
+Dhahabu inaweza kutengenezwa ikawa maumbo tofauti tofauti. Inaweza kuvingirishwa ikawa maumbo madogo.,science/technology,science/technology,0.32992321252822876
+"Mfumo wa AI sasa hutumiwa mara nyingi katika nyanja za uchumi, dawa, uhandisi na jeshi, kama ulivyojengwa katika programu kadhaa za kompyuta za nyumbani na michezo ya video.",science/technology,politics,0.3923704922199249
+"Bado inatolewa hadi wa leo, lakini kwa umuhimu zaidi uwiano wa kipengele chake umerithiwa na umbizo za kihisio cha picha za kamera za kidijitali.",science/technology,science/technology,0.23296816647052765
+Sheria ya thuluthi inayotumiwa vibaya na kudhihakiwa mara nyingi ni mwongozo rahisi unaounda uwezo huku ukidumisha kiwango cha mpango katika picha.,science/technology,politics,0.6014790534973145
+"Hii haithibitishi tu kuwa baadhi ya dinosaria walikuwa na manyoya, nadharia ambayo tayari imezagaa, bali pia inatoa maelezo ambayo kijumla visukuku haviwezi, kama vile rangi na mpangilio wa pande-tatu.",science/technology,travel,0.28666001558303833
+"Mvuto wa lo ungewezaje kunivuta? Kama ungesimama katika uso wa lo, ungekuwa na uzani mdogo kuliko ulionao duniani.",science/technology,travel,0.2698996067047119
+NextGen ni mfumo ambao Utawala wa Shirikisho la Anga unadai ungeruhusu ndege kutumia njia fupi na kuokoa mamilioni ya galoni za mafuta kila mwaka na kukata uzalishaji wa kaboni.,science/technology,science/technology,0.27122756838798523
+"Data ya neurobayolojia inatoa ushahidi wa mwili kwa mtazamo wa kinadharia kuhusu uchunguzi wa utambuzi. Kwa hivyo, inapunguza eneo la utafiti na kulifanya liwe maalum zaidi.",science/technology,science/technology,0.3026827275753021
+"Wakati wa hotuba yake ya masaa 2, alisema kwamba ""Leo Kampuni la Tofaa itaandaa tena simu hiyo, Tutafanya historia leo"".",science/technology,science/technology,0.2660401463508606
+Ubaya wa lenzi za kupanua au kupunguza mwonekano ni kwamba utata wa kiangalifu na idadi ya elementi za lenzi zinazohitajika kufikia urefu wa kiangalifu ni kubwa zaidi kuliko za lenzi kuu.,science/technology,politics,0.3664543628692627
+"Ifananayo na rimoti ya runinga, kidhibiti hutumia sensa mbili zilizowekwa karibu na runinga ya mtumiaji ili kupata nafasi yake katika sehemu ya pande tatu.",science/technology,entertainment,0.24014872312545776
+. Wanasayansi wanasema manyoya ya mnyama huyu yalikuwa ya rangi ya kahawia-nyekundu upande wa juu na hafifu au rangi ya karotini upande wa chini.,science/technology,health,0.31200742721557617
+"Kampaundi hizo mbili humenyuka pamojakutengeneza fuwele ambazo zinaweza kuzuia kazi za figo, watafiti chuoni walisema.",science/technology,health,0.3825082778930664
+Hii hutoa ubora wa mwonekano karibu mara nne ya ule wa picha hasi ya milimita 35 (3136 mm2 dhidi ya 864).,science/technology,health,0.4264201819896698
+"Shukrani kwa viungo vya kebo za nyuzi za kioo chini ya bahari katika Uropa na satelaiti pana yenye bendi za masafa mapana, Greenland imeunganishwa vizuri na asilimia 93 ya watu wana ufikiaji wa intaneti.",science/technology,travel,0.3035944402217865
+"Mojawapo ya programu maarufu sana katika kategoria hii ni Google Translate, ambayo huruhusu utafsiri nje ya mtandao baada ya kupakua data ya lugha inayotakikana.",science/technology,geography,0.24947473406791687
+"Ina muundo sawa wa kimolekyuli iwe ni gesi, kioevu, au mango.",science/technology,health,0.4031726121902466
+"Matumizi ya video za kurekodi imesababisha uvumbuzi muhimu katika tafsiri ya sauti ndogo, kusongeshwa kwa uso ambao hudumu sekunde ndogo kadhaa.",science/technology,geography,0.30850863456726074
+Binadamu wamekuwa wakitengeneza na kutumia lenzi za kukuza kwa maelfu na maelfu ya miaka.,science/technology,geography,0.2848172187805176
+"Haiko peke yake hata hivyo, majaribio, na jaribio ni upimaji ambao hutumiwa kuondoa nadharia moja au mbili zinazowezekana, kuuliza maswali, na kufanya uchunguzi pia huongoza utafiti wa kisayansi.",science/technology,science/technology,0.4056321382522583
+"Hatimaye, magurudumu ya mbao yalibadilishwa na magurudumu ya vyuma. Mnamo 1767, reli za kwanza za vyuma kamili zilianzishwa.",science/technology,science/technology,0.2625550627708435
+"Huku kadi nyingi zikiwa nzuri kwa kupiga simu kila mahali, nyingine ni maalumu kwa kutoa gharama za chini za kupiga simu kwa vikundi mahususi vya mataifa.",science/technology,politics,0.32220637798309326
+Darubini nyingi za utafiti za kisasa ni vifaa kuu katika maeneo ya mbali yaliyo na hali nzuri za angahewa.,science/technology,science/technology,0.3239673972129822
+Sindano ya chuma cha pua huelea juu ya maji kwa sababu ya mvuto kwenye uso.,science/technology,science/technology,0.3411540389060974
+"Muundo wa 35mm kwa kweli, kwa kiasi Fulani unachanganya, 36mm kwa upana na 24mm kwa urefu.",science/technology,geography,0.23866209387779236
+"Seli ni msingi na muhimu kwa kujifunza hali ya maisha, na kwa kweli mara nyingi inatambulika kama vitalu vya kujenga maisha.",science/technology,travel,0.26374852657318115
+Watoaji wa VPN (mtandao pepe wa kibinafsi) ya kibinafsi ni njia bora ya kukwepa uzuiaji wa kisiasa na uchujaji wa kibiashara wa IP kulingana na eneo.,science/technology,politics,0.2615639567375183
+"Kituo kilidumisha mtazamo wake, licha ya upotezaji wa gurudumu tuzi mapema kwenye misheni ya kituo cha angani, hadi mwisho wa matembezi ya angani.",science/technology,travel,0.24221178889274597
+"Watu wenye aina hii ya kufikiria wana mawazo ya kimantiki, wanaweza kukariri miundo, kutatua shida na kufanya majaribio ya kisayansi.",science/technology,science/technology,0.265298455953598
+"Paka mwitu hupenda kula wanyama wadogo. Hushika tumbili, nyoka, panya na ndege kama wanaweza. Karibu wanyama wote ambao paka mwitu huwinda ni wadogo kumliko.",science/technology,geography,0.26527518033981323
+"Kamera ingine za muundo wa kati zinatumia muundo wa 6 kwa 6, kwa usahihi 56 kwa 56 hasi.",science/technology,sports,0.24186529219150543
+Wasafiri wanashauriwa kwa dhati kujua kuhusu hatari yoyote ya anga mbaya inayoathiri eneo lao kwani huenda ikaathiri mipango yoyote ya usafiri.,travel,travel,0.48658090829849243
+"Mabasi huondoka kituo cha basi cha kati ya mawilaya (upande mwingine wa mto) siku nzima, ingawa mengi, haswa yale yanaoelekea mashariki na Jakar / Bumthang huondoka kati ya saa 6 na dakika 30 na saa 7 na dakika 30.",travel,travel,0.5146984457969666
+Zinampa mpanda farasi utulivu mkubwa lakini zinaweza kuwa na wasiwasi wa kiusalama kwa sababu ya uwezo wa miguu ya mpanda farasi kukwama ndani yake.,travel,politics,0.29387369751930237
+"Nyingi ya safari za Baltic huwa na kukaa kwa muda mrefu katika St. Petersburg, Urusi.",travel,sports,0.2727566659450531
+"Ushauri huo unachukulia kuwa wasafiri hawaibi, hawana uingiliaji, hawashiriki katika soko haramu, hawaombi, au kunyonya watu wengine kwa faida yao.",travel,travel,0.562059760093689
+Kuna mambo mengi sana unayofaa kutilia maanani kabla na wakati wa kusafiri mahali.,travel,travel,0.4174109697341919
+"Katika joto la siku, wasafiri wanaweza kuona mazigazi ambayo hutoa dhana ya maji (au vitu vingine).",travel,geography,0.3257317543029785
+"Familia zilizo na watoto si jambo la kawaida, lakini baadhi ya hosteli huwaruhusu katika vyumba vya kibinafsi.",travel,travel,0.48012375831604004
+"Kwa mfano, kutembelea ngome katika Bonde la Loire, Bonde la Rhine au kusafiri katika maeneo ya kuvutia kwa Danube au kusafiri kwa mashua upande wa Mfereji wa Erie.",travel,politics,0.2633627653121948
+Inaweza kuwa afadhali kutumia wakala ambaye huhifadhi safari sawa na yako kila wakati.,travel,travel,0.363314688205719
+Kulala kwenye nyumba za watu kwa muda kulianzishwa mnamo Januari 2004 baada ya mtengenezaji wa programu za kompyuta Casey Fenton kupata safari ya ndege ya bei nafuu kuelekea Aislandi lakini hakuwa na mahali pa kukaa.,travel,travel,0.32586491107940674
+Kwa jumla visa za wanafunzi huwa na mahitaji na utaratibu wa maombi tofauti na visa za kawaida za kitalii au kibiashara.,travel,travel,0.39464086294174194
+Kila nchi pia ina sheria za kipekee zinazotaja ni vifaa vipi vya dharura unavyohitaji kuwa navyo garini mwako.,travel,politics,0.29125693440437317
+"Ingawa mashirika mengi ya uwakala yako tayari kufanya uhifadhi mwingi wa kawaida, mawakala wengi hushughulika na aina maalum za usafiri, masafa ya bajeti au mahali pa kwenda.",travel,travel,0.4415668547153473
+Wasafiri wanaweza kukutana na wadudu wa wanyama ambao hawawatambui kutoka maeneo yao ya nyumbani.,travel,geography,0.21600615978240967
+"Pia upande wa kaskazini tembelea Hekalu la Mama Yetu Fatima (Madhabahu), mahali maarufu duniani pa maonyesho ya Maria.",travel,travel,0.347339928150177
+Unaweza kutumia boda-boda (teksi ya pikipiki) kuzunguka Goma. Nauli ya kawaida kwa wenyeji ni Franki 500 za Kongo kwa safari fupi.,travel,travel,0.5469143390655518
+"Kwa wale ambao hufurahia shughuli za nje, matembezi kwenye korido toka Baharini hadi Angani ni muhimu.",travel,geography,0.23512844741344452
+"Safari ya miguu (ijulikanayo kama ""matembezi kichakani"", ""safari ya kukwea"", au kwenda ""kwa miguu"") hujumuisha ukweaji, iwe kwa saa chache au siku kadhaa.",travel,science/technology,0.2221316546201706
+"Njia pekee ya kuipitisha kwa haraka ilikuwa kuituma kama mzigo uliokaguliwa. Kanuni za kampuni za ndege hazitazikubalia kutuma mzigo bila abiria, ambapo ndipo unaingilia.",travel,travel,0.6723729372024536
+"Mwongezo wa 300 unaleta jumla ya magari 1,300 kutafutwa ili kupunguza msongamano.",travel,science/technology,0.6117765307426453
+"Huenda familia zilizo na watoto wadogo zikahitaji matayarisho mengi, lakini siku moja nje inawezekana kwa urahisi hata kukiwa na watoto wachanga na wale walio karibu kwenda shuleni.",travel,travel,0.37084081768989563
+"Yeyote ambaye atakuwa akiendesha gari maeneo yaliyoinuka au vijia vya milimani anastahili kuzingatia uwezekano wa theluji, barafu, na baridi kali.",travel,geography,0.4675401449203491
+"Leo hii, Timbuktu ni mji maskini, ingawa sifa zake huufanya kivutio cha watalii, na pia kuna uwanja wa ndege.",travel,travel,0.36446553468704224
+"Wakati wa barafu nyingi, barafu ya kutosha kukufanya ukwame inaweza kuanguka kwa muda mfupi.",travel,health,0.5736666321754456
+"Ikiwa unataka kusafiri kuzunguka ulimwengu katika Kizio cha Kusini, machaguo ya ndege na mahali si mengi kwa sababu ya ukosefu wa ndege zinazosafiri kuvuka bahari.",travel,travel,0.5784054398536682
+"Kampuni za ndege kama vile Emirates, Etihad Airways, Qatar Airways na Turkish Airlines zimepanua huduma zao pakubwa katika Afrika, na hutoa miunganisho kwenye miji mingi muhimu ya Afrika kwa bei bora kuliko kampuni nyingine za Uingereza.",travel,travel,0.29149699211120605
+"Hakuna usafiri wa ziada unaowekwa na treni za juu ya ardhi hazitasimama huko Wembley, na maegesho ya magari na vituo vya kuegesha na kusafiri havipatikani huko.",travel,travel,0.5216445922851562
+"Kwa ujumla, kukaa kwenye nchi ya kigeni kwa muda mrefu zaidi kunahitaji upate visa mapema.",travel,travel,0.5932051539421082
+Kila treni ina kochi za MetroPlus na Metro; kila wakati kochi za MetroPlus huwa katika upande wa treni ulioko karibu na Cape Town.,travel,travel,0.5475013256072998
+Kila mtu hushiriki katika jamii na kutumia mifumo ya uchukuzi. Karibu kila mtu hulalamika kuhusu mifumo ya uchukuzi.,travel,travel,0.4678221046924591
+"Kwa kuwa maeneo hayo hayana idadi kubwa ya watu, na uchafuzi kidogo aghalabu huwa si tatizo, pia utaweza kufuruhia nyota.",travel,science/technology,0.29206928610801697
+Mahitaji na gharama ya visa hutofautiana toka nchi hadi nchi na huathiriwa na nchini unakotoka.,travel,travel,0.4641697108745575
+"Kuongea kwa jumla, hakuna haja ya hata kutafuta vipunguzo kwa biashara au viti vya daraja la kwanza katika safari za ndege za moja kwa moja toka A hadi B.",travel,travel,0.8057215809822083
+Utupaji wa bumarengi ni ujuzi maarufu ambao watalii wengi wanataka kupata.,travel,geography,0.4311436116695404
+Safari hii ya ndege siyo chaguo la pekee kama unataka kuruka Pasifiki Kusini na pwani ya magharibi ya Marekani Kusini. (tazama chini),travel,science/technology,0.36202695965766907
+"San Francisko imekuza miundombinu kubwa ya watalii ambayo ni hoteli mikahawa, na vifaa vingi, vya kongamano vya hali ya juu.",travel,sports,0.3169686198234558
+Kujitolea wakati wa kusafiri ni njia nzuri ya kuleta mabadiliko lakini si kuhusu utoaji tu.,travel,politics,0.2557750642299652
+Huenda watu wasitarajie kwamba uvumilivu na ufahamu pia ni muhimu kwa wasafiri wanaorudi nyumbani.,travel,travel,0.35794156789779663
+"Usisahau kuongeza gharama za ziada za visa za ziada, ushuru wa kuondoka, usafiri kwenye ardhi, n.k., kwa sehemu hizo zote nje ya Afrika.",travel,travel,0.48454299569129944
+Wakaaji kadhaa wa Bishkek waliwalaumu waandamanaji kutoka kusini kwa uvunjaji huo wa sheria.,politics,politics,0.3901934325695038
+Baadhi ya sehemu za sasa za Ubelgiji zilikuwa sehemu ya Lusembagi zamani lakini zikawa za Kibelgiji baada ya Mapinduzi ya Kibelgiji ya 1830.,politics,geography,0.2554594576358795
+"Tangu 1988, ni lazima masanduku ya kura yawe maangavu ili wapigaji kura na wachunguzi waweze kushuhudia kwamba hakuna bahasha zinazoongezwa isipokuwa zile za wapigaji kura waliohesabiwa na kuidhinishwa.",politics,travel,0.4176015257835388
+Kaimu Waziri Mkuu Julia Gillard alidai wakati wa kampeni ya uchaguzi wa ushirika wa 2010 kwamba aliamini Australia inafaa kuwa jamhuri mwishoni mwa utawala wa Malkia Elizabeth II.,politics,politics,0.5874113440513611
+Serikali ya Ayalandi inasisitiza dharura ya sheria za bunge ili kurekebisha hali.,politics,politics,0.6780362725257874
+Hoja za kidiplomasia dhidi ya eneo hilo zinaendelea kutatiza uhusiano kati ya Armenia na Azerbaian.,politics,politics,0.6459850668907166
+"Waziri Mkuu Stephen Harper amekubali kutuma ‘Mkataba wa Hewa Safi’ wa serikali kwa kamati ya vyama vyote kwa ukaguzi, kabla ya kusomwa kwake kwa mara ya pili, baada ya mkutano wa Jumanne wa dakika 25 na kiongozi wa NDP Jack Layton kwenye PMO.",politics,politics,0.5925853848457336
+"Mwezi uliopita, kulikuwa na maandamano makubwa huko Poland wakati nchi hiyo ilisaini Mkataba wa Kupambana na Biashara za Bidhaa Bandia, ambao umesababisha serikali ya Polandi kuamua kutoidhinisha makubaliano hayo, kwa sasa.",politics,politics,0.5923104882240295
+Ushauri ni muhtasari mfupi tu wa hali ya kisiasa katika nchi moja.,politics,travel,0.34740015864372253
+"Wakati wa uteuzi wa 1976, alimshauri Carter kuhusu sera ya nje, kisha akafanya kazi kama Mshauri wa Usalama wa Kitaifa (NSA) kutoka 1977 hadi 1981, na alichukua hatamu kutoka kwa Henry Kissinger.",politics,politics,0.7742332220077515
+"Uturuki ilikua yachukua ulinzi wa wapiganaji wa ISIS waliotekwa ambao, tangazo lilisema kuwa, nchi za Ulaya zilikataa kurudi.",politics,politics,0.4550313651561737
+"Hata hivyo, mipango hii ilipitwa na wakati usiku mmoja, wakati zaidi ya askari 800,000 kutoka Jeshi Jekundu la Umoja wa Kisovyeti lilipoingia na kuunda mipaka ya Belarusiani na Ukreini baada ya kuvamia maeneo ya mashariki mwa Polandi kwa kukiuka Mkataba wa Amani wa Riga, Mapatano ya Kisovyeti-Polishi Yasiyo ya Uchokozi, na mikataba mingine ya kimataifa, pande mbili na pande nyingi.",politics,politics,0.6535459756851196
+"Kufuatia mfumo huu, HJR-3 itakaguliwa tena na bunge litakaloteuliwa mnamo mwaka 2015 au 2016 ili kubaki katika mchakato.",politics,politics,0.5432045459747314
+"Baada ya kukubaliwa na Kongresi mnamo Julai 4, rasimu iliyoandikwa kwa hati ya mkono na kutiwa sahihi na Rais wa Kongresi John Hancock na Katibu Charles Thomson ilitumwa vitalu vichache kwa duka la uchapishaji la John Dunlap.",politics,politics,0.4520835876464844
+"Muda mfupi baada ya saa 5, waandamanaji walizuia trafiki kwenye njia ya kuelekea kaskazini katika Whitehall.",politics,politics,0.41990265250205994
+"Hata hivyo, mnamo Juni 1956, ahadi za Kruschev ziliwekwa katika jaribio wakati maandamano katika Polandi, ambapo wafanyakazi walikuwa wakipinga upungufu wa chakula na kukatwa kwa mishahara, yaligeuka kuwa maandamano ya jumla dhidi ya Ukomunisti.",politics,politics,0.556342363357544
+"Ilikuwa idumu kwa miaka 40 ijayo na ingepigwa kwa kweli na vikosi vya kiwakala, katika nyanja za vita toka Afrika hadi Asia, katika Afghanistani, Kuba na sehemu nyingine nyingi",politics,science/technology,0.2970626652240753
+Mwezi uliopita tume ya rais ilipendekeza kujiuzulu kwa CEP iliyotangulia kama sehemu ya kifurushi cha hatua za kusogeza nchi kuelekea uchaguzi mpya.,politics,politics,0.682590663433075
+Mada nyingine zilizoshughulikiwa inaripotiwa zinatia ndani hali ya baadaye ya Yerusalemu ambayo ni takatifu kwa mataifa yote mawili na suala la Bonde la Yordani.,politics,health,0.2991583049297333
+Pia haikuwa na mamlaka ya kupuuza sheria na orodha za ushuru kati ya majimbo.,politics,politics,0.3148546516895294
+Sheria ya uchaguzi ya Ufaransa badala yake hupanga kesi hiyo kwenye msimbo. Madhubuti.,politics,politics,0.8533411622047424
+"Baada ya wiki ya kushindwa katika uchaguzi wa nusu muhula, Bush aliambia hadhira kuhusu upanuzi wa biashara katika Asia.",politics,politics,0.6958628296852112
+"Mkakati ulikuwa na ufanisi, kukatisha vifaa muhimu vya kijeshi na kiraia, ingawa kizuizi hiki kilikiuka sheria ya kimataifa ambayo inakubaliwa kwa jumla iliyoratibiwa na mikataba kadhaa ya kimataifa katika karne mbili zilizopita.",politics,politics,0.310189813375473
+Viungo vya kiuchumi vimeanzishwa tena kati ya sehemu hizi mbili za Moldova licha ya kutofaulu kwa majadiliano ya kisiasa.,politics,geography,0.3859579563140869
+"Akiongozana na maafisa hao, alihakikishia wananchi wa Texas kuwa hatua zilikua zinachukuliwa kulinda usalama wa umma.",politics,politics,0.6831218600273132
+Ukosoaji huru wa juhudi za ujenzi upya umezingatia utoaji wa kandarasi za ujenzi upya kwa wajuzi wanaodhaniwa wa Washington.,politics,politics,0.5306263566017151
+"Kwa watu 1,400 waliopiga kura ya maoni kabla ya uchaguzi wa 2010 wa shirikisho, wale wanaopinga Australia kuwa jamhuri waliongezeka kwa asilimia 8 tangu mwaka wa 2008.",politics,politics,0.46951228380203247
+Wanadiplomasia walisema kwamba walipata tata za kutosha katika katiba ya Kiafgani kuamua kwamba duru ya pili ya uchaguzi haikuwa ya lazima.,politics,politics,0.49052000045776367
+"Baada ya matokeo kuingia, Gingrich alimpongeza Santorum, lakini alikuwa na maneno makali kwa Romney, ambaye matangazo hasi ya kampeni yalipeperushwa kwa niaba yake dhidi ya Gingrich.",politics,politics,0.7590015530586243
+Ni CEP ya tano ya Martelly katika miaka minne.,politics,politics,0.30278512835502625
+"Aliyeshinda nishani ya dhahabu ya Olimpiki alikuwa amepangiwa kuogelea katika mtindo huru wa mita 100 na mita 200 na mbio tatu za kupokezana vijiti katika Michezo ya Jumuiya ya Madola, lakini kwa sababu ya malalamiko yake uzima wake umekuwa na shaka.",sports,sports,0.5061075687408447
+"Pamoja na kuwa bingwa wa Olimpiki na Dunia, Saito alikuwa mwenyekiti wa kamati ya mafunzo ya Shirikisho la Judo la Japani wakati wa kifo chake.",sports,science/technology,0.3693794012069702
+"Kamati ya Kimataifa ya Olimpiki ilipigia kura kujumuisha spoti hiyo katika mkutano wake mkuu wa bodi katika Berlin leo. Raga, hususan muungano wa raga, na gofu ziliteuliwa kushiriki katika Olimpiki.",sports,sports,0.5681039690971375
+Mchuano mkubwa zaidi wa mwaka utafanyika mnamo Desemba kwenye nyanja za polo katika Las Kanitas.,sports,sports,0.34161388874053955
+"Tangu kuhamia katika mji mkuu wa Catalan, Vidal alikuwa amechezea klabu yake michezo 49.",sports,sports,0.4326556324958801
+"Kudumisha uwiano bora wa kawi, kuwa na mazoea ya unywaji wa maji yenye ufanisi, na kuelewa vipengele tofauti vya mazoea ya ziada kunaweza kusaidia wanariadha kuboresha utendaji wao na kuongeza raha yao katika spoti hiyo.",sports,health,0.22820371389389038
+"Akiwa wa tatu, Hamlin yuko nyuma kwa pointi ishirini, lakini tano mbele ya Bowyer. Kahne na Truex, mdogo, ni wa tano na sita mtawalia kwa alama 2,220 na 2,207.",sports,sports,0.6995787024497986
+Rekodi ya Nadal dhidi ya Kanada ni 7-2.,sports,sports,0.6650456786155701
+Jarque alikuwa akifanya mazoezi kabla ya msimu kwenye Coverciano katika Italia mapema katika siku. Alikuwa akikaa kwenye hoteli ya timu mbele ya mechi iliyopangiwa Jumapili dhidi ya Bolonia.,sports,sports,0.6845532655715942
+Hofu ya ukosefu wa usafiri kulizua uwezekano kwamba mchezo huo ungelazimika kuchezwa nyuma ya milango iliyofungwa bila wafuasi wa timu hiyo.,sports,sports,0.25590500235557556
+"Tommy Dreamer alisema, “Luna alikuwa Malkia wa kwanza wa Kukithiri. Meneja wangu wa kwanza. Luna aliaga dunia mnamo usiku wa miezi miwili. Kipekee kama alivyo tu. Mwanamke hodari.”",sports,travel,0.2581535875797272
+Mtelezaji wa theluji asiyeona vizuri kutoka Poland Maciej Krezel na mwelekezi wake Anna Ogarzynska walimaliza wa kumi na tatu katika Super-G. Jong Seork Park kutoka Korea Kusini alimaliza wa ishirini na nne katika kikundi cha wanaume cha kuketi cha Super-G.,sports,sports,0.5415210127830505
+"Kwa habari kuhusu michuano na mahali pa kununua tikiti za mechi za polo, angalia Asociacion Argentina de Polo.",sports,travel,0.3009190261363983
+"Michezo hiyo ilianza saa 10 asubuhi na hali nzuri ya hewa na ingawaje kulikuwa na manyunyu ya katikati ya asubuhi ambayo yaliisha haraka, ilikuwa siku nzuri kwa raga ya watu 7.",sports,science/technology,0.2670033574104309
+Arly Velasquez wa Meksiko alimaliza kwa nafasi ya kumi na tano katika seti ya Super-G ya wanaume. Ukumbi wa Adam wa Zilandi Mpya lilimaliza wa tisa katika msimamo wa Super-G wa wanaume.,sports,sports,0.5294129848480225
+"Mechi ya mwisho ya msururu itafanyika katika Ellis Park mjini Johannesburg wiki ijayo, wakati Springboks watakapocheza dhidi ya Australia.",sports,sports,0.6703268885612488
+Katika hali nzuri utaweza kufikia umbali mkubwa kiasi kuliko kutembea – lakini ni mara chache sana utapata kasi za kuteleza sehemu za mashambani bila shanta nzito katika njia zilizopitiwa awali.,sports,geography,0.21945436298847198
+"Kwa pointi saba nyuma, Johnson ni wa pili na 2,243.",sports,politics,0.32930973172187805
+"Kuingia kwenye korongo (au: canyoneering) ni kuhusu kwenda chini ya korongo, ambayo imekauka au imejawa na maji.",sports,travel,0.23101185262203217
+"Robin Uthappa alifanya alama za juu za fursa, pointi 70 katika mipira 41 kwa kufikia nne 11 na sita 2.",sports,sports,0.397217720746994
+"Spoti za msimu wa baridi ni maarufu sana katika maeneo ya Kaskazini, ambako Waitaliano hushindana katika michezo ya kimataifa na ya Olimpiki.",sports,politics,0.3557153046131134
+"Maroochidore ilikuwa imemaliza juu ya ngazi, alama sita wazi mbele ya Noosa kwa nafasi ya pili.",sports,sports,0.46341702342033386
+"Michael Schumacher alimaliza mbio zake muda mfupi baada ya Alonso, kwa sababu ya uharibifu wa mfumo wa kusimamisha gari, uliosababishwa na mapambano kadhaa wakati wa mbio hizo.",sports,politics,0.46553564071655273
+"Mazoea ya lishe sahihi pekee haiwezi kuzalisha usomi wa utendaji, ila yanaweza kuathiri kwa kiasi kikubwa na ustawi wa wakimbiaji wachanga kwa ujumla.",sports,health,0.434537410736084
+Hakuweza kunywa dawa zinazohitajika kutuliza maumivu yake kwani zimepigwa marufuku katika Michezo.,sports,health,0.42685019969940186
+Utafiti umebainisha kuwa wanawake wana uwezekano maradufu wa kuugua selerosisiwingi kuliko wanaume.,health,health,0.3769763112068176
+"Mivinyo isiyo halali inaweza kuwa na uchafu mwingi hatari pamoja na methanoli, ambayo inaweza kusababisha upofu au kifo hata kwa kiasi kidogo.",health,geography,0.2815224528312683
+"Ni athari tu za kutia janga chumvi, si mafadhaiko na uoga, zilizokuwa na masharti ya vipindi vya PA vya mara kwa mara kila wiki.",health,politics,0.28015759587287903
+"Umiliki wa magari kwa wingi pia hupelekea matukio mengi ya ajali za barabarani, ambazo hupelekea uvumbuzi wa mbinu mpya katika matibabu za kutengeneza miili iliyovunjika.",health,politics,0.35575827956199646
+"Watafiti wakuu wanasema hili linaweza kuleta ugunduzi wa mapema wa saratani, kifua kikuu, ukimwi na malaria kwa wagonjwa katika nchi zenye mapato ya chini, ambapo viwango vya kupona kwa magonjwa kama vile saratani ya matiti vinaweza kuwa nusu ya vile vya nchi tajiri.",health,health,0.2515634298324585
+"Dak. Ehud Ur, profesa wa udaktari katika chuo kikuu cha Dalhousie kule Halifix, Nova Scotia na mwenyekiti wa kitengo cha kliniki na kisayansi kwenye ushirika wa ugonjwa wa kisukari nchini Canada alionya kuwa utafiti bado uko kwenye siku za mapema.",health,health,0.3099041283130646
+"Watoto hawa huingia kwenye shida nyingi kwa sababu “wanajihusisha na tabia hatari, wanaingia kwenye vita na kuipa changamoto mamlaka” ili kuchechemua akili zao kwa sababu akili zao haziwezi kuchechemuliwa kwa njia za kawaida.",health,health,0.46167829632759094
+Wanadamu waweza kuathiriwa kwa kupumua maji yaliyoathirika yaliyopelekwa hewani na upepo na mawimbi.,health,health,0.3009784519672394
+Watu wengine wanaamini kuwa kupata ndoto nyingi bandia mara nyingi kunaweza kuchosha sana.,health,politics,0.24693551659584045
+Potro alipokea matibabu begani mwake kwa wakati huu lakini akamudu kurejea kwenye mchezo.,health,geography,0.2656261920928955
+"Waaidha, kukosa kufanya hivyo kuna matokeo mazito: udidimiaji wa ukuaji, utapiamlo, na hatimaye kifo.",health,travel,0.4092968702316284
+Maafisa wa mji wa Amsterdam na Makavazi ya Anne Frank wanasema kwamba mti huo umeambukizwa kuvu na unatoa hatari kwa afya ya jamii kwani walisema kwamba ulikuwa katika hatari ya karibu ya kuanguka.,health,travel,0.3458607792854309
+"Hospitali imefuata itifaki ya kudhibiti maambukizi, ikiwa ni pamoja na kutenga mgonjwa kutoka kwa wengine ili kuzuia uwezekano wa kuwaambukiza wengine.",health,travel,0.24558793008327484
+Taasisi ya Haki na Demokrasia ya Haiti imerejelea utafiti huru ambao unapendekeza kwamba kikosi cha kulinda amani cha Kinepali cha Umoja wa Mataifa kilileta ugonjwa huo Haiti bila kujua.,health,politics,0.34036746621131897
+"Maradhi yenyewe ya kuambukiza, au wanyama hatari ambao wanaweza kujeruhi au kuua watu kwa nguvu, kwa kawaida hawahitimu kama wanyama-vipenzi.",health,geography,0.25724297761917114
+"Watoto walio na ADD huwa na wakati mgumu kuangazia mambo kama kazi za shuleni, lakini wanaweza kukazia fikira mambo wanayopenda kuyafanya kama kucheza michezo au kutazama katuni zao vibwedo au kuandika sentensi bila kuakifisha.",health,science/technology,0.30808356404304504
+"Katika mwaka mmoja, mtu aliyeambukizwa huenda akaambukiza wato 10-15 wa karibu.",health,health,0.3494235575199127
+"Wakati mapigano yalipokoma na majeruhi kupelekwa hospitalini, takriban 40 wa wafungwa waliobaki walikaa kwenye yadi na kukataa kurudi kwenye seli zao.",health,politics,0.44969794154167175
+Madaktari walianza kuajiriwa na Mtawala Augustus na hata kuunda kitengo kikubwa cha kwanza cha Matibabu cha Kirumi kwa ajili ya kutumika baada ya vita.,health,geography,0.24168360233306885
+"Hata hivyo, dereva alipata majeraha mabaya kwenye kichwa.",health,travel,0.3308461010456085
+"""Sasa tuna panya wenye umri wa miezi minne ambao hawana kisukari ambao awali walikuwa na kisukari"", aliongeza.",health,travel,0.2281985580921173
+"Sumu ya ndani inaweza kukosa kuwa dhahiri papo hapo. Dalili, kama vile kutapika ni jumla kiasi kwamba utambuzi wa mara moja hauwezi kufanywa.",health,travel,0.24613754451274872
+"Kama matokeo, watendaji huvuta misokoto ya bangi kwenye jukwaa, na ukumbi wenyewe unawahimiza hadhira kushiriki.",entertainment,entertainment,0.22904494404792786
+Aerosmith wameghairi maonyesho yaliyobaki katika ziara yao.,entertainment,travel,0.3382290303707123
+Ikiwa ungetaka kuwa karibu na matukio utahitajika kurauka mapema ili upate eneo la kukita kambi karibu na muziki.,entertainment,travel,0.47059404850006104
+Kuna aina nyingi za filamu ambazo zimetumika kwa miaka. Filamu ya milimita 35 (kanda hasi ya milimita 36 kwa milimita 24) ni ya kawaida zaidi.,entertainment,travel,0.3330138027667999
+"Ingawa hii ni shughuli ya kawaida sana, imekatazwa na Disney: tiketi haziwezi kuhamishwa.",entertainment,travel,0.3562508225440979
+Kila kipindi cha onyesho kingeangazia mada katika kitabu maalum na kisha kuchunguza mada hiyo kupitia hadithi nyingi.,entertainment,politics,0.3537328541278839
+Skrini kadhaa kubwa za televisheni ziliangikwa mahali mbalimbali jijini Roma ili kuwezesha watu kutazama sherehe hiyo.,entertainment,science/technology,0.21564881503582
+Sophocles na Aristophanes bado ni waandishi maarufu wa michezo ya kuigiza na michezo yao huzingatiwa kuwa miongoni mwa kazi kubwa za fasihi ya ulimwengu.,entertainment,politics,0.32331034541130066
+Kila onyesho pia lingetoa mapendekezo ya vitabu ambavyo watoto wangepaswa kutafuta walipokwenda katika maktaba.,entertainment,politics,0.4567764401435852
+"Kwenye kodiani, kupata sauti ya ziada, unatumia viriba na shinikizo au kasi zaidi.",entertainment,travel,0.3360072076320648
+Unaweza kuona piramidi gizani na unaweza kuziona katika utulivu kabla ya maonyesho kuanza.,entertainment,entertainment,0.4521050751209259
+"Mifano ya shughuli za eneoni ni pamoja na uwindaji, uvuvi, upigaji picha, kutazama ndege, na kutembelea mbuga na kusoma habari za mfumo wa ikolojia.",entertainment,science/technology,0.2302732616662979
+Sphinx amewekwa kama usuli na msimulizi wa hadithi ndefu.,entertainment,entertainment,0.2586386203765869
+"Aghalabu huwa na chakula cha kipekee, vinywaji na matoleo ya burdani, ili kuwatumbuiza wageni na kuwatunza katika majengo yao.",entertainment,travel,0.4432368278503418
+"Tayari likiripoti kwa Kiingereza na Kijapani, shirika la kimataifa linazindua mipango ya lugha za Kihispania, Kiitaliano, na Kikorea, kwa televisheni, wavuti, na vifaa vya mkononi.",entertainment,science/technology,0.28223901987075806
+Kabla ya The Simpsons Simon alikuwa amefanyia kazi maonyesho kadhaa katika nafasi mbalimbali.,entertainment,entertainment,0.41365715861320496
+Hii itawaruhusu wachezaji kudhibiti machaguo na misogeo katika michezo ya video kwa kusogeza kifaa hewani.,entertainment,sports,0.4571543037891388
+"Angalau watu 100 walihudhuria sherehe hiyo, ili kusherehekea adhimisho la kwanza la wanandoa ambao harusi yao ilifanyika mwaka jana.",entertainment,travel,0.26784178614616394
+"Nyimbo mbili kutoka kwa sinema, Audition (The Fools Who Dream) na Mji wa Nyota, zilipendekezwa kuwa nyimbo bora asilia. Studio ya Lionsgate ilipendekezwa mara 26 – zaidi ya studio nyingine yoyote.",entertainment,entertainment,0.2938392758369446
+Uso wa dunia una upana wa karibu kilomita 70 kwa ukaribu na upana wa kilomita100 kwa umbali.,geography,travel,0.3502670228481293
+Mbali zaidi upande wa kusini ni Maporomoko ya Maji ya Niagara na upande wa kaskazini ni kiini cha urembo usiyofichwa cha Muskoka na zaidi.,geography,geography,0.26685234904289246
+"Ellsworth Land ni mkoa kusini mwa Peninsula, unaopakana na Bahari la Bellingshausen.",geography,geography,0.3400227129459381
+Njia ya Ncha ya Kusini (au Barabara Kuu) ni njia yenye urefu wa kilomita 1600 kutoka Kituo cha McMurdo katika Bahari ya Ross hadi kwenye ncha.,geography,travel,0.23898528516292572
+"Juu ya mwisho wa kaskazini mwa Machu Picchu ni mlima ulio na mwinuko, mara nyingi ni uwanja wa nyuma wa picha nyingi za magofu.",geography,geography,0.27167895436286926
+"Enceladus ndicho kitu kinachoakisi zaidi kwenye mfumo wa jua, ikiakisi takribani asilimia 90 ya jua inayoifikia.",geography,science/technology,0.5843636393547058
+Hakuna kingine kinachoweza kuonekana ila anga safi na nzuri huko juu na milima mingi inayolizunguka. Ni machache sana ya dunia hii yanayoweza kuonwa au kusikiwa ndani ya pango hili.,geography,travel,0.4256737530231476
+"Sasa kwa Japani. Japani ilikuwa nchi ya kisiwa, kama vile Uingereza.",geography,politics,0.45238813757896423
+"Katika kilele chake, Kimbunga cha Kitropiki cha Gonu, kilichopatiwa jina la begi la majani ya mtende kwa lugha ya Maldivi, kililifikia pepo imara za kilomita 240 kwa saa (maili 149 kwa saa).",geography,science/technology,0.4883951246738434
+"Sehemu ya Uturuki, pamoja na maziwa, imekalia kilomita mraba 783, 562 (maili mraba 300, 948), ambazo kilomita mraba 755,688 (maili mraba 291,773) kati yake ziko kusini magharibi mwa Asia na kilomita mraba 23,764 (maili mraba 9,174) ziko barani Ulaya.",geography,travel,0.3507381081581116
+"Visiwa vya kusini mwa Shetlandi, vilivyogunduliwa mnamo 1819, vinadaiwa kuwa milki ya mataifa kadhaa na vina misingi mingi, ikiwemo kumi na sita iliyo hai mnamo 2020.",geography,travel,0.31202954053878784
+"Apia ni mji mkuu wa Samoa. Mji huo uko kwenye kisiwa cha Upolu na lina watu chini ya 40,000.",geography,travel,0.28864869475364685
+"Wakati dhoruba bado haijafikia kuporomoka kwa ardhi, inabakia kuwa vigumu kupima athari zinazoweza kukumba Marekani au Karibian.",geography,politics,0.3158133625984192
+Chini ya maria huwa nyembamba lakini nzito chini ya nyanda za juu.,geography,sports,0.35305991768836975
+Misitu hiyo si mikoko ya mabwawa tu - inajumuisha baadhi ya misitu mikuu iliyosalia ambayo kwa wakati mmoja ilikuwa imefunikwa na tambarare ya Gaengitiki.,geography,geography,0.3700839579105377
+Ramani ya kimataifa ya zilizala ya Utafiti wa Jiolojia wa Marekani haikuonyesha zilizala huko Aisilandi katika wiki iliyotangulia.,geography,politics,0.31878462433815
+"Likiwa juu ya mojawapo ya milima kaskazini mwa Mecca, pango hilo limetengwa kabisa na ulimwengu.",geography,geography,0.326719731092453
