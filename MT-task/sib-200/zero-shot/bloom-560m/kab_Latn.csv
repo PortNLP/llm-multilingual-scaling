@@ -14,7 +14,11 @@ English: Asugen n temyigawt yessuter-d d akken ad tεawdeḍ ad ssitgeḍ ittɣi
 
 A:
 
-I don't know if this is the correct answer, but I think it is. The first sentence is a bit misleading. The second sentence is correct. The third sentence is",English Asugen n temyigawt yessuter-d d akken ad tεawdeḍ ad ssitgeḍ ittɣilen-ik ɣef ufares n ulɣagdud yerna ad tlemdeḍ ad txemmemeḍ s tmamkin wartizelmanin.
+I don't know if this is the correct answer, but I think it is. The first sentence is a bit misleading. The second sentence is correct. The third sentence is","The second sentence is correct. English
+
+A:
+
+I don't know if this is the correct answer, but I think it is. The first sentence is a bit misleading. The third sentence is Asugen n temyigawt yessuter-d d akken ad tεawdeḍ ad ssitgeḍ ittɣilen-ik ɣef ufares n ulɣagdud yerna ad tlemdeḍ ad txemmemeḍ s tmamkin wartizelmanin."
 "Aya-gi yuɣal d ccɣel imucaɛen, maca uzzal-nni isett rwadi n usɣaṛ n ticaṛiḍin.","Kabyle: Aya-gi yuɣal d ccɣel imucaɛen, maca uzzal-nni isett rwadi n usɣaṛ n ticaṛiḍin. 
 English: Aya-gi yuɣal d ccɣel imucaɛen, maca uzzal-nni isett rwadi n usɣaṛ n ticaṛiḍin. English
 
@@ -24,33 +28,48 @@ I don't know if this is the correct way to do it, but I think you can do it like
 $(function() {
     $('#test').click(function() {
         var test = $(this).attr('id');
-        var test2 = $(","Aya-gi yuɣal d ccɣel imucaɛen, maca uzzal-nni isett rwadi n usɣaṛ n ticaṛiḍin. English"
+        var test2 = $(","Aya-gi yuɣal d ccɣel imucaɛen, maca uzzal-nni isett rwadi n usɣaṛ n ticaṛiḍin. English
+
+A:
+
+I don't know if this is the correct way to do it, but I think you can do it like this:
+$(function() {
+    $('#test').click(function() {
+        var test = $(this).attr('id');
+        var test2 = $("
 "Tiqeḍɛiyin seɛɛunt kraḍ n yizmawen iwtamen imengaḍen, d wazal n kraḍ n tmerwin n tewtamin n yecbalen.","Kabyle: Tiqeḍɛiyin seɛɛunt kraḍ n yizmawen iwtamen imengaḍen, d wazal n kraḍ n tmerwin n tewtamin n yecbalen. 
 English: The name of the tribe is Tiwin, which means ""white"". The tribe is located in the southern part of the country, in the region of the Lake Tiwin. The tribe is a small tribe, with a population of about 1,000 people. The tribe is a small tribe, with a population of about 1,000 people. The tribe is a small tribe, with a population of about 1,000 people. The tribe is a small tribe, with a population of","The tribe is a small tribe, with a population of about 1,000 people. The tribe is located in the southern part of the country, in the region of the Lake Tiwin. The name of the tribe is Tiwin, which means ""white"". The tribe is a small tribe, with a population of"
 "Xas akken tiḥerci n tṣenniɛt teqqen ɣer uxayel ussnan, tiḥerci n tṣenniɛt d afurek agejdan di tsenselkimt, id-ilhan d lexdayem, d uḥfaḍ akked tserwest iḥercen di tṣenniɛt.","Kabyle: Xas akken tiḥerci n tṣenniɛt teqqen ɣer uxayel ussnan, tiḥerci n tṣenniɛt d afurek agejdan di tsenselkimt, id-ilhan d lexdayem, d uḥfaḍ akked tserwest iḥercen di tṣenniɛt. 
 English: Xas akken tiḥerci n tṣenniɛt teqqen ɣer uxayel ussnan, tiḥerci n tṣenniɛt d afurek agejdan di tsenselkimt, id-ilhan d lexdayem, d uḥfaḍ akked tserwest iḥercen di tṣenniɛt. 
-Xas akken tiḥerci n tṣenniɛt teqqen ɣer uxay","Xas akken tiḥerci n tṣenniɛt teqqen ɣer uxayel ussnan, tiḥerci n tṣenniɛt d afurek agejdan di tsenselkimt, id-ilhan d lexdayem, d uḥfaḍ akked tserwest iḥercen di tṣenniɛt."
+Xas akken tiḥerci n tṣenniɛt teqqen ɣer uxay","Xas akken tiḥerci n tṣenniɛt teqqen ɣer uxayel ussnan, tiḥerci n tṣenniɛt d afurek agejdan di tsenselkimt, id-ilhan d lexdayem, d uḥfaḍ akked tserwest iḥercen di tṣenniɛt. Xas akken tiḥerci n tṣenniɛt teqqen ɣer uxay"
 Timeẓri n teɣzi d tehri n talɣa-agi (ẓun s mraw d sin i wakken ad ssawḍen uṭṭun ummid n ufmiḍi afessas akk) ihi nan-d d akken d 3:2.,"Kabyle: Timeẓri n teɣzi d tehri n talɣa-agi (ẓun s mraw d sin i wakken ad ssawḍen uṭṭun ummid n ufmiḍi afessas akk) ihi nan-d d akken d 3:2. 
 English: Timeẓri n teɣzi d tehri n talɣa-agi (ẓun s mraw d sin i wakken ad ssawḍen uṭṭun ummid n ufmiḍi afessas akk) ihi nan-d d akken d 3:2. 
 I have tried to use the following code to get the time of the day:
 var time = new Date().getTime();
 var time = time.toLocaleTimeString();
-var",Timeẓri n teɣzi d tehri n talɣa-agi (ẓun s mraw d sin i wakken ad ssawḍen uṭṭun ummid n ufmiḍi afessas akk) ihi nan-d d akken d 3:2.
+var","Timeẓri n teɣzi d tehri n talɣa-agi (ẓun s mraw d sin i wakken ad ssawḍen uṭṭun ummid n ufmiḍi afessas akk) ihi nan-d d akken d 3:2. I have tried to use the following code to get the time of the day:
+var time = new Date().getTime();
+var time = time.toLocaleTimeString();
+var"
 "Tiliɣṛi n ugensa ur d-yelli deg adeg n ufafus s wudem amatu, imi ilaq ad tiliḍ beṛṛa s uzlem yeṣfan n tuṭṭfa n ugensa i wakken ad tessiwleḍ.","Kabyle: Tiliɣṛi n ugensa ur d-yelli deg adeg n ufafus s wudem amatu, imi ilaq ad tiliḍ beṛṛa s uzlem yeṣfan n tuṭṭfa n ugensa i wakken ad tessiwleḍ. 
 English: The Lord of the Rings: The Ring of Fire
 
 A:
 
-The first thing to do is to check the language of the book. If the book is written in English, then the first thing to do is to translate the book. If the book is written in Arabic, then the first thing to do is to translate the book. If the book is written in Urdu, then the first thing to do is to translate the book. If the book is written in Tamil, then the first thing",The Lord of the Rings: The Ring of Fire
+The first thing to do is to check the language of the book. If the book is written in English, then the first thing to do is to translate the book. If the book is written in Arabic, then the first thing to do is to translate the book. If the book is written in Urdu, then the first thing to do is to translate the book. If the book is written in Tamil, then the first thing","If the book is written in Arabic, then the first thing to do is to translate the book. If the book is written in English, then the first thing to do is to translate the book. If the book is written in Tamil, then the first thing The Lord of the Rings: The Ring of Fire
+
+A:
+
+The first thing to do is to check the language of the book. If the book is written in Urdu, then the first thing to do is to translate the book."
 "Xas akken ibardan n tcaṛiḍin sɛan kan tilwiḥin n usɣaṛ imqabalen, ǧǧant iɛidiwen itent-ittseḥḥiben ad siwḍen ɣer tɣawla tameqqrant yarna ad seḥben taẓeyt tameqqrant kter n ibardan ur naɛdil ara deg wass.","Kabyle: Xas akken ibardan n tcaṛiḍin sɛan kan tilwiḥin n usɣaṛ imqabalen, ǧǧant iɛidiwen itent-ittseḥḥiben ad siwḍen ɣer tɣawla tameqqrant yarna ad seḥben taẓeyt tameqqrant kter n ibardan ur naɛdil ara deg wass. 
 English: The name of the tribe is Xas, and the tribe is called the Xas tribe. The tribe is located in the northwestern part of the country, in the region of the Alborz Mountains. The tribe is a small tribe, with a population of about 100 people. The tribe is a small tribe, with a population of about 100 people. The tribe is a small tribe, with a population of about 100 people. The tribe is a small tribe, with a population of about 100","The name of the tribe is Xas, and the tribe is called the Xas tribe. The tribe is a small tribe, with a population of about 100 people. The tribe is a small tribe, with a population of about 100 The tribe is located in the northwestern part of the country, in the region of the Alborz Mountains."
 "Imdanen snen iferdisen akruranen igejdanen si teglest am dheb, lfeṭṭa, akked nḥas, imi wi-gi akk ttilin deg ugama s ṣifa-nsen tagamant yarna sehlen i tɣuzi s wallalen n zik.","Kabyle: Imdanen snen iferdisen akruranen igejdanen si teglest am dheb, lfeṭṭa, akked nḥas, imi wi-gi akk ttilin deg ugama s ṣifa-nsen tagamant yarna sehlen i tɣuzi s wallalen n zik. 
 English:
 
-The first sentence is a direct translation of the original English sentence. The second sentence is a translation of the original English sentence. The third sentence is a translation of the original English sentence. The fourth sentence is a translation of the original English sentence. The fifth sentence is a translation of the original English sentence. The sixth sentence is a translation of the original English sentence. The seventh sentence is a translation of the original English sentence. The eighth sentence is a translation of the original English sentence. The ninth",
+The first sentence is a direct translation of the original English sentence. The second sentence is a translation of the original English sentence. The third sentence is a translation of the original English sentence. The fourth sentence is a translation of the original English sentence. The fifth sentence is a translation of the original English sentence. The sixth sentence is a translation of the original English sentence. The seventh sentence is a translation of the original English sentence. The eighth sentence is a translation of the original English sentence. The ninth",The fifth sentence is a translation of the original English sentence. The third sentence is a translation of the original English sentence. The seventh sentence is a translation of the original English sentence. The second sentence is a translation of the original English sentence. The fourth sentence is a translation of the original English sentence. The sixth sentence is a translation of the original English sentence. The first sentence is a direct translation of the original English sentence. The ninth The eighth sentence is a translation of the original English sentence.
 Ṛṛuḍa tbeddel amaḍal d leɛǧeb. Taɣawsa akk tameqqrant i aɣ-texdem d tikci n yiwen n ttawil n umesni i fessusen wa yettɣawalen ugar.,"Kabyle: Ṛṛuḍa tbeddel amaḍal d leɛǧeb. Taɣawsa akk tameqqrant i aɣ-texdem d tikci n yiwen n ttawil n umesni i fessusen wa yettɣawalen ugar. 
 English: The name of the tribe is Ṛṛuḍa tbeddel amaḍal d leɛǧeb. Taɣawsa akk tameqqrant i aɣ-texdem d tikci n yiwen n ttawil n umesni i fessusen wa yettɣawalen ugar. 
-Arabic: The name of the tribe is Ṛṛuḍa tbeddel amaḍal d leɛǧeb. Taɣawsa ak",The name of the tribe is Ṛṛuḍa tbeddel amaḍal d leɛǧeb. Taɣawsa akk tameqqrant i aɣ-texdem d tikci n yiwen n ttawil n umesni i fessusen wa yettɣawalen ugar.
+Arabic: The name of the tribe is Ṛṛuḍa tbeddel amaḍal d leɛǧeb. Taɣawsa ak",Taɣawsa ak Arabic: The name of the tribe is Ṛṛuḍa tbeddel amaḍal d leɛǧeb. The name of the tribe is Ṛṛuḍa tbeddel amaḍal d leɛǧeb. Taɣawsa akk tameqqrant i aɣ-texdem d tikci n yiwen n ttawil n umesni i fessusen wa yettɣawalen ugar.
 Wagi ittwaxdem iwakken ad yeǧǧ tugna ad teddel akk agdil. Qqaren-as asemɣer s waṭas.,"Kabyle: Wagi ittwaxdem iwakken ad yeǧǧ tugna ad teddel akk agdil. Qqaren-as asemɣer s waṭas. 
 English: The word is used to describe a person who is not a member of the family. It is also used to describe a person who is not a member of the family but is a member of the family. It is used to describe a person who is not a member of the family but is not a member of the family. It is used to describe a person who is not a member of the family but is a member of the family. It is used to describe a person who is not a member",The word is used to describe a person who is not a member of the family. It is used to describe a person who is not a member of the family but is not a member of the family. It is used to describe a person who is not a member It is used to describe a person who is not a member of the family but is a member of the family. It is also used to describe a person who is not a member of the family but is a member of the family.
 Tineṭṭabin Tilalmaniyin qqaren-asent Iɣeṛṛuba-U. Ilalmaniyen snen mliḥ assilel akked uselḥu n tneṭṭabin-nsen.,"Kabyle: Tineṭṭabin Tilalmaniyin qqaren-asent Iɣeṛṛuba-U. Ilalmaniyen snen mliḥ assilel akked uselḥu n tneṭṭabin-nsen. 
@@ -58,7 +77,11 @@ English: The Book of the Sages
 
 The Book of the Sages
 
-The Book of the Sages is a book of the sages, written in the Persian language, and is the most important book of the Persian language. It is the most important book of the Persian language, and is the most important book of the Persian language. It is the most important book of the Persian language, and is the most important book of the Persian language. It is the most important book of the Persian language, and",The Book of the Sages
+The Book of the Sages is a book of the sages, written in the Persian language, and is the most important book of the Persian language. It is the most important book of the Persian language, and is the most important book of the Persian language. It is the most important book of the Persian language, and is the most important book of the Persian language. It is the most important book of the Persian language, and","It is the most important book of the Persian language, and is the most important book of the Persian language. The Book of the Sages
+
+The Book of the Sages
+
+The Book of the Sages is a book of the sages, written in the Persian language, and is the most important book of the Persian language. It is the most important book of the Persian language, and"
 "Xas akken ṣifa-s tezmer ad tbeddel, lḥala-s takrurant tettɣimi akken tella.","Kabyle: Xas akken ṣifa-s tezmer ad tbeddel, lḥala-s takrurant tettɣimi akken tella. 
 English: The Lord is with you, and the Lord is with you. The Lord is with you, and the Lord is with you. The Lord is with you, and the Lord is with you. The Lord is with you, and the Lord is with you. The Lord is with you, and the Lord is with you. The Lord is with you, and the Lord is with you. The Lord is with you, and the Lord is with you. The Lord is with you, and the Lord","The Lord is with you, and the Lord is with you. The Lord is with you, and the Lord"
 Tussda n tjumma tettili-d acku ibelkimen n waman deg tjumma n waman ttemyijbaden gar-asen ugar n wacḥal ttemyijbaden d ibelkimen yellan s ufella. .,"Kabyle: Tussda n tjumma tettili-d acku ibelkimen n waman deg tjumma n waman ttemyijbaden gar-asen ugar n wacḥal ttemyijbaden d ibelkimen yellan s ufella. . 
@@ -70,7 +93,14 @@ The following sentences are from the English version of the article:
 The following sentences are from the English version of the article:
 The following sentences are from the English version of the article:
 The following sentences are from the English version of the article:
-The following sentences are from the English version",
+The following sentences are from the English version","The following sentences are from the English version of the article:
+The following sentences are from the English version of the article:
+The following sentences are from the English version of the article:
+The following sentences are from the English version of the article:
+The following sentences are from the English version of the article:
+The following sentences are from the English version of the article:
+The following sentences are from the English version of the article:
+The following sentences are from the English version"
 Yiwen seg iɣeblan mucaɛen di tririt n usaru ɣer umasal DVD d asemɣer.,"Kabyle: Yiwen seg iɣeblan mucaɛen di tririt n usaru ɣer umasal DVD d asemɣer. 
 English: Yiwen seg iɣeblan mucaɛen di tririt n usaru ɣer umasal DVD d asemɣer.",Yiwen seg iɣeblan mucaɛen di tririt n usaru ɣer umasal DVD d asemɣer.
 "Ladɣa, qqaren-d d akken yezmer ad nẓer ma yella yeskiddib umdan s lefhama akken iwata n tenfaliyin timecṭaḥ maḍi.","Kabyle: Ladɣa, qqaren-d d akken yezmer ad nẓer ma yella yeskiddib umdan s lefhama akken iwata n tenfaliyin timecṭaḥ maḍi. 
@@ -88,26 +118,28 @@ English:
 
 A:
 
-I don't know if this is the correct answer, but I think the answer is that the first sentence is the correct one. The second sentence is the wrong one. The first sentence is the correct one because the second sentence is the wrong one because the first sentence is the correct one. The second sentence is the wrong one because the first sentence is the correct one.",
+I don't know if this is the correct answer, but I think the answer is that the first sentence is the correct one. The second sentence is the wrong one. The first sentence is the correct one because the second sentence is the wrong one because the first sentence is the correct one. The second sentence is the wrong one because the first sentence is the correct one.","The second sentence is the wrong one because the first sentence is the correct one. The second sentence is the wrong one. The first sentence is the correct one because the second sentence is the wrong one because the first sentence is the correct one. A:
+
+I don't know if this is the correct answer, but I think the answer is that the first sentence is the correct one."
 "Amek yezmer ad iyi-d-yejbed uzimaṣ n Iu? Ma yella tbeddeḍ ɣef tjumma n Iu, taẓayt-ik ad tenqes ɣef mi telliḍ ɣef Umaḍal.","Kabyle: Amek yezmer ad iyi-d-yejbed uzimaṣ n Iu? Ma yella tbeddeḍ ɣef tjumma n Iu, taẓayt-ik ad tenqes ɣef mi telliḍ ɣef Umaḍal. 
 English: Amek yezmer ad iyi-d-yejbed uzimaṣ n Iu? Ma yella tbeddeḍ ɣef tjumma n Iu, taẓayt-ik ad tenqes ɣef mi telliḍ ɣef Umaḍal. 
-Inglish: Amek yezmer ad iyi-d-yejbed uzimaṣ n Iu? Ma yella tbeddeḍ ɣef tjumma n Iu, taẓayt-ik ad tenq","Ma yella tbeddeḍ ɣef tjumma n Iu, taẓayt-ik ad tenqes ɣef mi telliḍ ɣef Umaḍal. Amek yezmer ad iyi-d-yejbed uzimaṣ n Iu?"
+Inglish: Amek yezmer ad iyi-d-yejbed uzimaṣ n Iu? Ma yella tbeddeḍ ɣef tjumma n Iu, taẓayt-ik ad tenq","Ma yella tbeddeḍ ɣef tjumma n Iu, taẓayt-ik ad tenq Inglish: Amek yezmer ad iyi-d-yejbed uzimaṣ n Iu? Ma yella tbeddeḍ ɣef tjumma n Iu, taẓayt-ik ad tenqes ɣef mi telliḍ ɣef Umaḍal. Amek yezmer ad iyi-d-yejbed uzimaṣ n Iu?"
 "NekstJen d yiwen unagraw i d-teqqar FAA, ad yeǧǧ inaffagen deg ijerriden wezzilen wa ad yessager imelyan n litrat n userɣu wa ad yesenɣes abbu n karbun i d-suffuɣent.","Kabyle: NekstJen d yiwen unagraw i d-teqqar FAA, ad yeǧǧ inaffagen deg ijerriden wezzilen wa ad yessager imelyan n litrat n userɣu wa ad yesenɣes abbu n karbun i d-suffuɣent. 
 English: The FAA is a government agency that regulates the aviation industry. It is responsible for the regulation of the aviation industry, and it is also responsible for the regulation of the aviation industry. The FAA is the largest government agency in the world. It is responsible for the regulation of the aviation industry, and it is also responsible for the regulation of the aviation industry. The FAA is the largest government agency in the world. It is responsible for the regulation of the aviation industry, and it is also","The FAA is a government agency that regulates the aviation industry. It is responsible for the regulation of the aviation industry, and it is also The FAA is the largest government agency in the world. It is responsible for the regulation of the aviation industry, and it is also responsible for the regulation of the aviation industry."
 Isefka isnudranen yaɛnan allaɣ fkan-d anza i yiwet n tmuɣli n unadi ɣef ufiqi. S wakka samecteḥen tamnaḍt n unadi yarna erran-tt d tusdidt akteṛ.,"Kabyle: Isefka isnudranen yaɛnan allaɣ fkan-d anza i yiwet n tmuɣli n unadi ɣef ufiqi. S wakka samecteḥen tamnaḍt n unadi yarna erran-tt d tusdidt akteṛ. 
 English: Isefka isnudranen yaɛnan allaɣ fkan-d anza i yiwet n tmuɣli n unadi ɣef ufiqi. S wakka samecteḥen tamnaḍt n unadi yarna erran-tt d tusdidt akteṛ. 
-Isefka isnudranen yaɛnan allaɣ fkan-d anza i yiwet n tmuɣli n unadi ɣef ufiqi",S wakka samecteḥen tamnaḍt n unadi yarna erran-tt d tusdidt akteṛ. Isefka isnudranen yaɛnan allaɣ fkan-d anza i yiwet n tmuɣli n unadi ɣef ufiqi.
+Isefka isnudranen yaɛnan allaɣ fkan-d anza i yiwet n tmuɣli n unadi ɣef ufiqi",S wakka samecteḥen tamnaḍt n unadi yarna erran-tt d tusdidt akteṛ. Isefka isnudranen yaɛnan allaɣ fkan-d anza i yiwet n tmuɣli n unadi ɣef ufiqi. Isefka isnudranen yaɛnan allaɣ fkan-d anza i yiwet n tmuɣli n unadi ɣef ufiqi
 "Deg inaw-ines n 2 n tsaεtin yenna-d d akken ""Ass-a Abbel ad as-nefk udem amaynut i tiliɣṛi, Ad yeqqim deg umezruy ass-a"".","Kabyle: Deg inaw-ines n 2 n tsaεtin yenna-d d akken ""Ass-a Abbel ad as-nefk udem amaynut i tiliɣṛi, Ad yeqqim deg umezruy ass-a"". 
 English: The Ass-Abel ad as-nefk udem amaynut i tiliɣṛi, Ad yeqqim deg umezruy ass-a"".","The Ass-Abel ad as-nefk udem amaynut i tiliɣṛi, Ad yeqqim deg umezruy ass-a""."
 Aɣbel n yiswiyen zum d akken ilɣi akaswaran d uṭṭun n yiferdisen iswiyen ilaq ad ssawḍen teɣzi takaswarant imeqqren mliḥ ɣef yeswiyen imenza.,"Kabyle: Aɣbel n yiswiyen zum d akken ilɣi akaswaran d uṭṭun n yiferdisen iswiyen ilaq ad ssawḍen teɣzi takaswarant imeqqren mliḥ ɣef yeswiyen imenza. 
 English: Aɣbel n yiswiyen zum d akken ilɣi akaswaran d uṭṭun n yiferdisen iswiyen ilaq ad ssawḍen teɣzi takaswarant imeqqren mliḥ ɣef yeswiyen imenza. 
-I am not sure if this is the correct way to write this, but I am not sure if it is the correct way to write this. I am not sure if this is the correct way",Aɣbel n yiswiyen zum d akken ilɣi akaswaran d uṭṭun n yiferdisen iswiyen ilaq ad ssawḍen teɣzi takaswarant imeqqren mliḥ ɣef yeswiyen imenza.
+I am not sure if this is the correct way to write this, but I am not sure if it is the correct way to write this. I am not sure if this is the correct way","I am not sure if this is the correct way to write this, but I am not sure if it is the correct way to write this. Aɣbel n yiswiyen zum d akken ilɣi akaswaran d uṭṭun n yiferdisen iswiyen ilaq ad ssawḍen teɣzi takaswarant imeqqren mliḥ ɣef yeswiyen imenza. I am not sure if this is the correct way"
 "Tecba anzaḍ anmeggag n tiliẓri, tanaɛurt n uselḥu tessexdam sin imaṭṭafen i yettrusun ɣer tama n tiliẓri n win i t-yessexdamen i waken ad kerdes amḍiq-is deg allun bu-kraḍ n tsektiwin.","Kabyle: Tecba anzaḍ anmeggag n tiliẓri, tanaɛurt n uselḥu tessexdam sin imaṭṭafen i yettrusun ɣer tama n tiliẓri n win i t-yessexdamen i waken ad kerdes amḍiq-is deg allun bu-kraḍ n tsektiwin. 
 English: The name of the tribe is Tecba, and the tribe is called Tecba. The tribe is called Tecba because of the name of the tribe itself. The tribe is called Tecba because of the name of the tribe itself. The tribe is called Tecba because of the name of the tribe itself. The tribe is called Tecba because of the name of the tribe itself. The tribe is called Tecba because of the name of the tribe itself. The","The name of the tribe is Tecba, and the tribe is called Tecba. The The tribe is called Tecba because of the name of the tribe itself."
 Imusnawen qqaren-d d akken rric n uɣerṣiw-agi d aqehwi s ufella d aceεlal neɣ am yini n carutenuyid s daxel.,"Kabyle: Imusnawen qqaren-d d akken rric n uɣerṣiw-agi d aqehwi s ufella d aceεlal neɣ am yini n carutenuyid s daxel. 
 English:
 
-The first sentence is a direct quotation from the original text. The second sentence is a direct quotation from the original text. The third sentence is a direct quotation from the original text. The fourth sentence is a direct quotation from the original text. The fifth sentence is a direct quotation from the original text. The sixth sentence is a direct quotation from the original text. The seventh sentence is a direct quotation from the original text. The eighth sentence is a direct quotation",
+The first sentence is a direct quotation from the original text. The second sentence is a direct quotation from the original text. The third sentence is a direct quotation from the original text. The fourth sentence is a direct quotation from the original text. The fifth sentence is a direct quotation from the original text. The sixth sentence is a direct quotation from the original text. The seventh sentence is a direct quotation from the original text. The eighth sentence is a direct quotation",The sixth sentence is a direct quotation from the original text. The third sentence is a direct quotation from the original text. The seventh sentence is a direct quotation from the original text. The second sentence is a direct quotation from the original text. The eighth sentence is a direct quotation The fourth sentence is a direct quotation from the original text. The fifth sentence is a direct quotation from the original text. The first sentence is a direct quotation from the original text.
 "Sin iferdisen mi ara mxalaḍen mbu gar-asen suffuɣen-d ibelluṛen i yessefcalen tigeẓẓal, i d-berḥen kra ussanen n tseddawit.","Kabyle: Sin iferdisen mi ara mxalaḍen mbu gar-asen suffuɣen-d ibelluṛen i yessefcalen tigeẓẓal, i d-berḥen kra ussanen n tseddawit. 
 English: The name of the tribe is the same as the name of the tribe in the original language. The tribe is named after the name of the tribe in the original language. The tribe is named after the name of the tribe in the original language. The tribe is named after the name of the tribe in the original language. The tribe is named after the name of the tribe in the original language. The tribe is named after the name of the tribe in the original language. The tribe is named after the",The name of the tribe is the same as the name of the tribe in the original language. The tribe is named after the The tribe is named after the name of the tribe in the original language.
 Tettak-d temɣeṛ n tugna qrib ukkuz n tikkal n tin n yibbaw n 35 mm (3136 mm2 mgal 864).,"Kabyle: Tettak-d temɣeṛ n tugna qrib ukkuz n tikkal n tin n yibbaw n 35 mm (3136 mm2 mgal 864). 
@@ -122,7 +154,7 @@ English: Yiwen seg yesnasen ixataren akk deg taggayt-agi d Asuɣel Gugle, yetta�
 English: Isɛa yiwen lebni ama d lgaz, d aman, neɣ d aqquṛan. Isɛa yiwen lebni ama d lgaz, d aman, neɣ d aqquṛan. Isɛa yiwen lebni ama d lgaz, d aman, neɣ d aqquṛan. Isɛa yiwen lebni ama d lgaz, d aman, neɣ d aqquṛan. Isɛa y","Isɛa y Isɛa yiwen lebni ama d lgaz, d aman, neɣ d aqquṛan."
 "Asexdem n usekles ufidyu yegla-d s tegrutin tixatarin di lefhama n tenfaliyin-timecṭaḥ, imbiwlen n wudem i yettdummun kra n tasinin timecṭaḥ maḍi.","Kabyle: Asexdem n usekles ufidyu yegla-d s tegrutin tixatarin di lefhama n tenfaliyin-timecṭaḥ, imbiwlen n wudem i yettdummun kra n tasinin timecṭaḥ maḍi. 
 English: Asexdem n usekles ufidyu yegla-d s tegrutin tixatarin di lefhama n tenfaliyin-timecṭaḥ, imbiwlen n wudem i yettdummun kra n tasinin timecṭaḥ maḍi. 
-Inglish: Asexdem n usekles ufidyu yegla-d s tegrutin tixatarin di lefhama n tenfaliyin-timec","Asexdem n usekles ufidyu yegla-d s tegrutin tixatarin di lefhama n tenfaliyin-timecṭaḥ, imbiwlen n wudem i yettdummun kra n tasinin timecṭaḥ maḍi."
+Inglish: Asexdem n usekles ufidyu yegla-d s tegrutin tixatarin di lefhama n tenfaliyin-timec","Asexdem n usekles ufidyu yegla-d s tegrutin tixatarin di lefhama n tenfaliyin-timecṭaḥ, imbiwlen n wudem i yettdummun kra n tasinin timecṭaḥ maḍi. Inglish: Asexdem n usekles ufidyu yegla-d s tegrutin tixatarin di lefhama n tenfaliyin-timec"
 Imdanen xeddmen-d yerna sexdamen tirejlajin i usemɣeṛ d luluf iseggasen ay-agi.,"Kabyle: Imdanen xeddmen-d yerna sexdamen tirejlajin i usemɣeṛ d luluf iseggasen ay-agi. 
 English: Imdanen xeddmen-d yerna sexdamen tirejlajin i usemɣeṛ d luluf iseggasen ay-agi.",Imdanen xeddmen-d yerna sexdamen tirejlajin i usemɣeṛ d luluf iseggasen ay-agi.
 "Maca mačči uḥdes, tirmit, tirmit d aɛaṛeḍ i xeddmen iwakken ad sinfen yiwet neɣ kter n turdiwin, asteqsi n isteqsiyen, akked timawin daɣen ttwellihen anadi ussnan.","Kabyle: Maca mačči uḥdes, tirmit, tirmit d aɛaṛeḍ i xeddmen iwakken ad sinfen yiwet neɣ kter n turdiwin, asteqsi n isteqsiyen, akked timawin daɣen ttwellihen anadi ussnan. 
@@ -131,7 +163,7 @@ English: The name of the city is Maca, the name of the town is Maca, the name of
 English: The Wuzzal of the Wuzzal of the Wuzzal of the Wuzzal of the Wuzzal of the Wuzzal of the Wuzzal of the Wuzzal of the Wuzzal of the Wuzzal of the Wuzzal of the Wuzzal of the Wuzzal of the Wuzzal of the Wuzzal of the Wuzzal of the Wuzzal of the Wuzzal of the Wuzzal of the Wuzzal of",The Wuzzal of the Wuzzal of the Wuzzal of the Wuzzal of the Wuzzal of the Wuzzal of the Wuzzal of the Wuzzal of the Wuzzal of the Wuzzal of the Wuzzal of the Wuzzal of the Wuzzal of the Wuzzal of the Wuzzal of the Wuzzal of the Wuzzal of the Wuzzal of the Wuzzal of the Wuzzal of
 "Imi tuget n tkarḍin lhant i usiwel anda id ak-yehwa, kra muzzgen deg tikci n yifmiḍiyen imeεnen n ussiwel i yigrawen usdiden n tmura.","Kabyle: Imi tuget n tkarḍin lhant i usiwel anda id ak-yehwa, kra muzzgen deg tikci n yifmiḍiyen imeεnen n ussiwel i yigrawen usdiden n tmura. 
 English: Imi tuget n tkarḍin lhant i usiwel anda id ak-yehwa, kra muzzgen deg tikci n yifmiḍiyen imeεnen n ussiwel i yigrawen usdiden n tmura. 
-I am not sure if this is the correct way to write this, but I am not sure if it is the correct way to write this. I am not sure if this is the correct way to write this. I am","Imi tuget n tkarḍin lhant i usiwel anda id ak-yehwa, kra muzzgen deg tikci n yifmiḍiyen imeεnen n ussiwel i yigrawen usdiden n tmura."
+I am not sure if this is the correct way to write this, but I am not sure if it is the correct way to write this. I am not sure if this is the correct way to write this. I am","I am not sure if this is the correct way to write this, but I am not sure if it is the correct way to write this. I am Imi tuget n tkarḍin lhant i usiwel anda id ak-yehwa, kra muzzgen deg tikci n yifmiḍiyen imeεnen n ussiwel i yigrawen usdiden n tmura. I am not sure if this is the correct way to write this."
 Tuget n yitiliskuben n unadi atrar d arrumen anect-ilaten deg yimekwan ibeεden s tegnatin n unezwi yelhan.,"Kabyle: Tuget n yitiliskuben n unadi atrar d arrumen anect-ilaten deg yimekwan ibeεden s tegnatin n unezwi yelhan. 
 English: The name of the plant is Tuget n yitiliskuben n unadi atrar d arrumen anect-ilaten deg yimekwan ibeεden s tegnatin n unezwi yelhan. The plant is native to the Mediterranean region, and is found in the Mediterranean basin, the Black Sea, the Mediterranean Sea, the Black Sea, the Black Sea, the Black Sea, the Black Sea, the Black Sea, the Black Sea, the Black Sea, the Black","The plant is native to the Mediterranean region, and is found in the Mediterranean basin, the Black Sea, the Mediterranean Sea, the Black Sea, the Black Sea, the Black Sea, the Black Sea, the Black Sea, the Black Sea, the Black Sea, the Black The name of the plant is Tuget n yitiliskuben n unadi atrar d arrumen anect-ilaten deg yimekwan ibeεden s tegnatin n unezwi yelhan."
 Tisegnit n wuzzal tettali deg waman ɣef tmentilt n tussda n tjumma.,"Kabyle: Tisegnit n wuzzal tettali deg waman ɣef tmentilt n tussda n tjumma. 
@@ -148,10 +180,10 @@ Taɣsert ur tbeddel ara addud-is xas akken iruḥ yiwen ujiruskub uqbel di tuɣ�
 English: The name of the town is Walls of the Dead. The name of the town is Walls of the Dead. The name of the town is Walls of the Dead. The name of the town is Walls of the Dead. The name of the town is Walls of the Dead. The name of the town is Walls of the Dead. The name of the town is Walls of the Dead. The name of the town is Walls of the Dead. The name of the",The name of the town is Walls of the Dead. The name of the
 "Imdanen isɛan ṣṣenf-agi n twengimt sɛan tawengimt iṛeznen, zemren ad cfun i wunuɣen, ad frun iɣeblan yarna ad xedmen ɣef tirmitin n tussna.","Kabyle: Imdanen isɛan ṣṣenf-agi n twengimt sɛan tawengimt iṛeznen, zemren ad cfun i wunuɣen, ad frun iɣeblan yarna ad xedmen ɣef tirmitin n tussna. 
 English: Imdanen isɛan ṣṣenf-agi n twengimt sɛan tawengimt iṛeznen, zemren ad cfun i wunuɣen, ad frun iɣeblan yarna ad xedmen ɣef tirmitin n tussna. 
-Imdanen isɛan ṣṣenf-agi n twengimt sɛan tawengimt iṛeznen, zemren ad cfun i wunuɣen, ad fr","Imdanen isɛan ṣṣenf-agi n twengimt sɛan tawengimt iṛeznen, zemren ad cfun i wunuɣen, ad frun iɣeblan yarna ad xedmen ɣef tirmitin n tussna."
+Imdanen isɛan ṣṣenf-agi n twengimt sɛan tawengimt iṛeznen, zemren ad cfun i wunuɣen, ad fr","Imdanen isɛan ṣṣenf-agi n twengimt sɛan tawengimt iṛeznen, zemren ad cfun i wunuɣen, ad fr Imdanen isɛan ṣṣenf-agi n twengimt sɛan tawengimt iṛeznen, zemren ad cfun i wunuɣen, ad frun iɣeblan yarna ad xedmen ɣef tirmitin n tussna."
 "Asiluṭ iḥemmel ad yečč iɣersiwen imecṭaḥ. Ad iṭṭef ibekkan, izerman, iɣerdayen d yefrax ma izmer. Qrib merra iɣerṣiwen i yettseyyid usiluṭ meẓẓiyit fell-as.","Kabyle: Asiluṭ iḥemmel ad yečč iɣersiwen imecṭaḥ. Ad iṭṭef ibekkan, izerman, iɣerdayen d yefrax ma izmer. Qrib merra iɣerṣiwen i yettseyyid usiluṭ meẓẓiyit fell-as. 
 English: Asiluṭ iḥemmel ad yečč iɣersiwen imecṭaḥ. Ad iṭṭef ibekkan, izerman, iɣerdayen d yefrax ma izmer. Qrib merra iɣerṣiwen i yettseyyid usiluṭ meẓẓiyit fell-as. 
-I have tried to use the following code to get the output of the command, but it doesn't work. I have tried to use the","Asiluṭ iḥemmel ad yečč iɣersiwen imecṭaḥ. Qrib merra iɣerṣiwen i yettseyyid usiluṭ meẓẓiyit fell-as. Ad iṭṭef ibekkan, izerman, iɣerdayen d yefrax ma izmer."
+I have tried to use the following code to get the output of the command, but it doesn't work. I have tried to use the","Qrib merra iɣerṣiwen i yettseyyid usiluṭ meẓẓiyit fell-as. I have tried to use the Ad iṭṭef ibekkan, izerman, iɣerdayen d yefrax ma izmer. Asiluṭ iḥemmel ad yečč iɣersiwen imecṭaḥ. I have tried to use the following code to get the output of the command, but it doesn't work."
 "Kra n tweṣṣafin n isura n imusal ilemmusa sexdament amasal n 6 ɣef 6 cm, s wudem usdid ibbaw n 56 ɣef 56 mm.","Kabyle: Kra n tweṣṣafin n isura n imusal ilemmusa sexdament amasal n 6 ɣef 6 cm, s wudem usdid ibbaw n 56 ɣef 56 mm. 
 English: The size of the penis is measured in cm. The penis is measured in mm. The penis is measured in cm. The penis is measured in cm. The penis is measured in cm. The penis is measured in cm. The penis is measured in cm. The penis is measured in cm. The penis is measured in cm. The penis is measured in cm. The penis is measured in cm. The penis is measured in cm. The penis is measured in cm. The penis is measured in cm",The penis is measured in mm. The size of the penis is measured in cm. The penis is measured in cm The penis is measured in cm.
 Iminigen ttuweṣṣan ad ḥadren iman-nsen ɣef imihiyen n tegnewt iwaɛṛen ara iḥazzen tamnaḍt-nsen imi izmer ad isɛu tazrirt ɣef uɣawas n uḥewwes.,"Kabyle: Iminigen ttuweṣṣan ad ḥadren iman-nsen ɣef imihiyen n tegnewt iwaɛṛen ara iḥazzen tamnaḍt-nsen imi izmer ad isɛu tazrirt ɣef uɣawas n uḥewwes. 
@@ -179,7 +211,7 @@ English: The word is used to describe a person who is not a member of the family
 English: The name of the book is The Book of the Life of the Prophet Muhammad (peace be upon him). The book is written in Arabic, and contains the history of Muhammad (peace be upon him). The book is written in Arabic, and contains the history of Muhammad (peace be upon him). The book is written in Arabic, and contains the history of Muhammad (peace be upon him). The book is written in Arabic, and contains the history of Muhammad (peace be upon him). The book","The name of the book is The Book of the Life of the Prophet Muhammad (peace be upon him). The book The book is written in Arabic, and contains the history of Muhammad (peace be upon him)."
 "Amedya tirza ɣer iɣeṛman di Lwar Bali, azaɣar n Rayn neɣ amecwaṛ deg waman ɣer imukan isɛan azal di Danub neɣ arrekba n teflugt s teɣzi n Targa n Iri.","Kabyle: Amedya tirza ɣer iɣeṛman di Lwar Bali, azaɣar n Rayn neɣ amecwaṛ deg waman ɣer imukan isɛan azal di Danub neɣ arrekba n teflugt s teɣzi n Targa n Iri. 
 English: Amedya Tirza ɣer iɣeṛman di Lwar Bali, azaɣar n Rayn neɣ amecwaṛ deg waman ɣer imukan isɛan azal di Danub neɣ arrekba n teflugt s teɣzi n Targa n Iri. 
-Inglish: Amedya Tirza ɣer iɣeṛman di Lwar Bali, azaɣar n Rayn neɣ amecwaṛ deg waman ɣer","Amedya Tirza ɣer iɣeṛman di Lwar Bali, azaɣar n Rayn neɣ amecwaṛ deg waman ɣer imukan isɛan azal di Danub neɣ arrekba n teflugt s teɣzi n Targa n Iri."
+Inglish: Amedya Tirza ɣer iɣeṛman di Lwar Bali, azaɣar n Rayn neɣ amecwaṛ deg waman ɣer","Amedya Tirza ɣer iɣeṛman di Lwar Bali, azaɣar n Rayn neɣ amecwaṛ deg waman ɣer imukan isɛan azal di Danub neɣ arrekba n teflugt s teɣzi n Targa n Iri. Inglish: Amedya Tirza ɣer iɣeṛman di Lwar Bali, azaɣar n Rayn neɣ amecwaṛ deg waman ɣer"
 Izmer ad ilhu usexdem n tkebbanit n uḥewwes i yezgan tettheggi-d inigen am win tebɣiḍ.,"Kabyle: Izmer ad ilhu usexdem n tkebbanit n uḥewwes i yezgan tettheggi-d inigen am win tebɣiḍ. 
 English: The Lord is the One who has made the world. The Lord is the One who has made the world. The Lord is the One who has made the world. The Lord is the One who has made the world. The Lord is the One who has made the world. The Lord is the One who has made the world. The Lord is the One who has made the world. The Lord is the One who has made the world. The Lord is the One who has made the world. The",The Lord is the One who has made the world. The
 Kawčsurfin tettusnulfa-d di Yennayer 2004 mbeɛd mi d-yufa umsihel Kazey Fentun affug iṛexsen ɣer Island maca ur d-yufi ara anda ara yens.,"Kabyle: Kawčsurfin tettusnulfa-d di Yennayer 2004 mbeɛd mi d-yufa umsihel Kazey Fentun affug iṛexsen ɣer Island maca ur d-yufi ara anda ara yens. 
@@ -188,7 +220,7 @@ Ifizaten n yinelmaden tikalayin-nsent n usuter d ujerred mgaradent s wudem amatu
 English: If you want to add a new item, you can do so by clicking the Add button. If you want to remove an item, you can do so by clicking the Remove button. If you want to edit an item, you can do so by clicking the Edit button. If you want to delete an item, you can do so by clicking the Delete button. If you want to add a new item to a group, you can do so by clicking the Add button. If you want to remove","If you want to remove an item, you can do so by clicking the Remove button. If you want to delete an item, you can do so by clicking the Delete button. If you want to add a new item to a group, you can do so by clicking the Add button. If you want to remove If you want to edit an item, you can do so by clicking the Edit button. If you want to add a new item, you can do so by clicking the Add button."
 Yal tamurt daɣen tesɛa aṣaḍuf weḥdes yaɛnan tiɣawsiwin n usellek n teṛwiḥin i yelaq ad ilint di tkeṛṛust.,"Kabyle: Yal tamurt daɣen tesɛa aṣaḍuf weḥdes yaɛnan tiɣawsiwin n usellek n teṛwiḥin i yelaq ad ilint di tkeṛṛust. 
 English: The name of the town is Yal tamurt daɣen tesɛa aṣaḍuf weḥdes yaɛnan tiɣawsiwin n usellek n teṛwiḥin i yelaq ad ilint di tkeṛṛust. 
-Tallinn: Yal tamurt daɣen tesɛa ṣaḍuf weḥdes yaɛnan tiɣawsiwin n usellek n teṛwiḥin i yelaq ad il",The name of the town is Yal tamurt daɣen tesɛa aṣaḍuf weḥdes yaɛnan tiɣawsiwin n usellek n teṛwiḥin i yelaq ad ilint di tkeṛṛust.
+Tallinn: Yal tamurt daɣen tesɛa ṣaḍuf weḥdes yaɛnan tiɣawsiwin n usellek n teṛwiḥin i yelaq ad il",Tallinn: Yal tamurt daɣen tesɛa ṣaḍuf weḥdes yaɛnan tiɣawsiwin n usellek n teṛwiḥin i yelaq ad il The name of the town is Yal tamurt daɣen tesɛa aṣaḍuf weḥdes yaɛnan tiɣawsiwin n usellek n teṛwiḥin i yelaq ad ilint di tkeṛṛust.
 "Xas akken amur ameqqran n tkebbaniyin n uḥewwes ttaqbalent amur ameqqran n uheggi n imukan, aṭas d timaẓlayin deg yiwen n ṣenf n yinig, n tedrimt neɣ imukan.","Kabyle: Xas akken amur ameqqran n tkebbaniyin n uḥewwes ttaqbalent amur ameqqran n uheggi n imukan, aṭas d timaẓlayin deg yiwen n ṣenf n yinig, n tedrimt neɣ imukan. 
 English: The name of the city is Yiwen, and the name of the city is Yiwen. The name of the city is Yiwen. The name of the city is Yiwen. The name of the city is Yiwen. The name of the city is Yiwen. The name of the city is Yiwen. The name of the city is Yiwen. The name of the city is Yiwen. The name of the city is Yiwen","The name of the city is Yiwen, and the name of the city is Yiwen. The name of the city is Yiwen The name of the city is Yiwen."
 Iminigen zemren ad d-maggren iɣerṣiwen ittḍuṛṛun ur wulfen ara di tmurt-nsen.,"Kabyle: Iminigen zemren ad d-maggren iɣerṣiwen ittḍuṛṛun ur wulfen ara di tmurt-nsen. 
@@ -198,7 +230,7 @@ English: The name of the tribe is Adeg Uhris, and the name of the tribe is Maria
 Tzemreḍ ad tesxedmeḍ buda-buda (ataksi s umuṭu) i wakken ad tḍewreḍ di Guma. Ssuma tamagnut (tadigant) d ~ 500 Ifranen Ikunguliyen i umecwaṛ amecṭuḥ.,"Kabyle: Tzemreḍ ad tesxedmeḍ buda-buda (ataksi s umuṭu) i wakken ad tḍewreḍ di Guma. Ssuma tamagnut (tadigant) d ~ 500 Ifranen Ikunguliyen i umecwaṛ amecṭuḥ. 
 English:
 The name of the town is Tzemreḍ ad tesxedmeḍ buda-buda (ataksi s umuṭu) i wakken ad tḍewreḍ di Guma. Ssuma tamagnut (tadigant) d ~ 500 Ifranen Ikunguliyen i umecwaṛ amecṭuḥ. 
-The name of the town is Tzemreḍ ad tesxedmeḍ buda-buda (ataksi s",
+The name of the town is Tzemreḍ ad tesxedmeḍ buda-buda (ataksi s",The name of the town is Tzemreḍ ad tesxedmeḍ buda-buda (ataksi s Ssuma tamagnut (tadigant) d ~ 500 Ifranen Ikunguliyen i umecwaṛ amecṭuḥ. The name of the town is Tzemreḍ ad tesxedmeḍ buda-buda (ataksi s umuṭu) i wakken ad tḍewreḍ di Guma.
 "Wid iḥemmlen lecɣal n baṛṛa n wexxam, tlaq-asen tikli deg uzrug n Yilel ɣer Igenni.","Kabyle: Wid iḥemmlen lecɣal n baṛṛa n wexxam, tlaq-asen tikli deg uzrug n Yilel ɣer Igenni. 
 English: The name of the tribe is Yilel, and the tribe is named after the name of the tribe's leader, the leader of the tribe. The name of the tribe is Yilel, and the name of the tribe is named after the name of the tribe's leader, the leader of the tribe. The name of the tribe is Yilel, and the name of the tribe is named after the name of the tribe's leader, the leader of the tribe. The name of the","The name of the tribe is Yilel, and the tribe is named after the name of the tribe's leader, the leader of the tribe. The name of the The name of the tribe is Yilel, and the name of the tribe is named after the name of the tribe's leader, the leader of the tribe."
 "Tikli n usafari (iwumi qqaren daɣen ""tikli ger ttjuṛ"", ""tteḥwas n usafari"", neɣ ""tikli ɣef uḍaṛ"") d tikli, ama i kra n swayeɛ neɣ i waṭas n wussan.","Kabyle: Tikli n usafari (iwumi qqaren daɣen ""tikli ger ttjuṛ"", ""tteḥwas n usafari"", neɣ ""tikli ɣef uḍaṛ"") d tikli, ama i kra n swayeɛ neɣ i waṭas n wussan. 
@@ -227,7 +259,29 @@ The English translation of the above sentence is
 
 The English translation of the above sentence is
 
-The",The English translation of the above sentence is
+The","The English translation of the above sentence is
+
+The English translation of the above sentence is
+
+The English translation of the above sentence is
+
+The English translation of the above sentence is
+
+The English translation of the above sentence is
+
+The English translation of the above sentence is
+
+The English translation of the above sentence is
+
+The English translation of the above sentence is
+
+The English translation of the above sentence is
+
+The English translation of the above sentence is
+
+The English translation of the above sentence is
+
+The"
 "Tamerna n 300 ad yefk aɣṛud n 1,300 n tkeṛṛyas ad sεun i wakken ad sifsusen ṭṭaqa n tkeṛṛyas ireglen abrid.","Kabyle: Tamerna n 300 ad yefk aɣṛud n 1,300 n tkeṛṛyas ad sεun i wakken ad sifsusen ṭṭaqa n tkeṛṛyas ireglen abrid. 
 English: Tamerna n 300 ad yefk aɣṛud n 1,300 n tkeṛṛyas ad sεun i wakken ad sifsusen ṭṭaqa n tkeṛṛyas ireglen abrid. 
 English: Tamerna n 300 ad yefk aɣṛud n 1,300 n tkeṛṛyas ad sεun i wakken ad sifsusen ṭṭaqa n tkeṛṛyas ireglen abrid. 
@@ -245,7 +299,7 @@ English: The name of the city is Weddfel, the name of the river is Weddfel River
 English: The name of the town is Azzaz, and the name of the village is Azzaz. The name of the town is Azzaz, and the name of the village is Azzaz. The name of the town is Azzaz, and the name of the village is Azzaz. The name of the town is Azzaz, and the name of the village is Azzaz. The name of the town is Azzaz, and the name of the village","The name of the town is Azzaz, and the name of the village is Azzaz. The name of the town is Azzaz, and the name of the village"
 "Tikebbaniyin n isufag am Emirats, Afug Itiḥad, Afug Qatar d Tkebbaniyin n isufag Tiṭurkiyin swesεent mliḥ imeẓla-nsent ɣer Tefṛiqt, yerna sutrent tuqqna akked waṭas n temdinin Tifṛiqiyin timeqqranin s sswami yessenkaren timenyugert akked tikebbaniyin n isufag Tuṛufiyin.","Kabyle: Tikebbaniyin n isufag am Emirats, Afug Itiḥad, Afug Qatar d Tkebbaniyin n isufag Tiṭurkiyin swesεent mliḥ imeẓla-nsent ɣer Tefṛiqt, yerna sutrent tuqqna akked waṭas n temdinin Tifṛiqiyin timeqqranin s sswami yessenkaren timenyugert akked tikebbaniyin n isufag Tuṛufiyin. 
 English: The name of the city is Tikebbaniyin, the name of the town is Tifṛiqt, the name of the place is Afug Itiḥad, the name of the place is Afug Qatar d Tkebbaniyin, the name of the place is Afug Tifṛiqiyin timeqqranin s sswami yessenkaren timenyugert akked tikebbaniyin n isufag Tuṛufiyin. 
-The","The name of the city is Tikebbaniyin, the name of the town is Tifṛiqt, the name of the place is Afug Itiḥad, the name of the place is Afug Qatar d Tkebbaniyin, the name of the place is Afug Tifṛiqiyin timeqqranin s sswami yessenkaren timenyugert akked tikebbaniyin n isufag Tuṛufiyin."
+The","The name of the city is Tikebbaniyin, the name of the town is Tifṛiqt, the name of the place is Afug Itiḥad, the name of the place is Afug Qatar d Tkebbaniyin, the name of the place is Afug Tifṛiqiyin timeqqranin s sswami yessenkaren timenyugert akked tikebbaniyin n isufag Tuṛufiyin. The"
 "Ḥetta d ttawil n umesni n zyada ur ittwahegga ma d timacinin n s ufella lqaɛa ur ḥebsent ara di Wembli, Ineɣsaren d ineɣsaren d tɣesrin n urkab ur llint ara di lqaɛa.","Kabyle: Ḥetta d ttawil n umesni n zyada ur ittwahegga ma d timacinin n s ufella lqaɛa ur ḥebsent ara di Wembli, Ineɣsaren d ineɣsaren d tɣesrin n urkab ur llint ara di lqaɛa. 
 English: The name of the city is Wembli, in the name of the Prophet Muhammad (peace be upon him). The name of the city is Wembli, in the name of the Prophet Muhammad (peace be upon him). The name of the city is Wembli, in the name of the Prophet Muhammad (peace be upon him). The name of the city is Wembli, in the name of the Prophet Muhammad (peace be upon him). The name of the","The name of the The name of the city is Wembli, in the name of the Prophet Muhammad (peace be upon him)."
 "S umata, iɣimi deg tmurt tabeṛṛanit i tallit n wakud ɣezzifen yessuter ad tawiḍ afiza uqbel.","Kabyle: S umata, iɣimi deg tmurt tabeṛṛanit i tallit n wakud ɣezzifen yessuter ad tawiḍ afiza uqbel. 
@@ -255,7 +309,11 @@ English: The Book of the Dead
 
 A:
 
-The book of the dead is a book of the dead. It is a book of the dead that is written by the dead. It is a book of the dead that is written by the dead. It is a book of the dead that is written by the dead. It is a book of the dead that is written by the dead. It is a book of the dead that is written by the dead. It is a book of the dead that is written",The Book of the Dead
+The book of the dead is a book of the dead. It is a book of the dead that is written by the dead. It is a book of the dead that is written by the dead. It is a book of the dead that is written by the dead. It is a book of the dead that is written by the dead. It is a book of the dead that is written by the dead. It is a book of the dead that is written","It is a book of the dead that is written by the dead. It is a book of the dead that is written The Book of the Dead
+
+A:
+
+The book of the dead is a book of the dead."
 Yal yiwen ittekki di tmetti yarna issexdam anagraw n umesni. Qrib yal yiwen ittcetki ɣef unagraw n umesni.,"Kabyle: Yal yiwen ittekki di tmetti yarna issexdam anagraw n umesni. Qrib yal yiwen ittcetki ɣef unagraw n umesni. 
 English: Yal yiwen ittekki di tmetti yarna issexdam anagraw n umesni. Qrib yal yiwen ittcetki ɣef unagraw n umesni.",Yal yiwen ittekki di tmetti yarna issexdam anagraw n umesni. Qrib yal yiwen ittcetki ɣef unagraw n umesni.
 "Imi timnaḍin-agi ur mezduɣent ara mliḥ, yarna s wakka tafat-agi s umata ur tettuneḥsab ara d aɣbel, ad tizmireḍ daɣen ad tmuqqleḍ itran.","Kabyle: Imi timnaḍin-agi ur mezduɣent ara mliḥ, yarna s wakka tafat-agi s umata ur tettuneḥsab ara d aɣbel, ad tizmireḍ daɣen ad tmuqqleḍ itran. 
@@ -270,7 +328,13 @@ The following is a list of the words that are used in the sentence:
 The following is a list of the words that are used in the sentence:
 The following is a list of the words that are used in the sentence:
 The following is a list of the words that are used in the sentence:
-The following is",
+The following is","The following is a list of the words that are used in the sentence:
+The following is a list of the words that are used in the sentence:
+The following is a list of the words that are used in the sentence:
+The following is a list of the words that are used in the sentence:
+The following is a list of the words that are used in the sentence:
+The following is a list of the words that are used in the sentence:
+The following is"
 Aḍeggeṛ n ubumṛung d tamusni mucaɛen i bɣan aṭas n iḥewwasen ad sɛun.,"Kabyle: Aḍeggeṛ n ubumṛung d tamusni mucaɛen i bɣan aṭas n iḥewwasen ad sɛun. 
 English: Aḍeggeṛ n ubumṛung d tamusni mucaɛen i bɣan aṭas n iḥewwasen ad sɛun.",Aḍeggeṛ n ubumṛung d tamusni mucaɛen i bɣan aṭas n iḥewwasen ad sɛun.
 Afug-agi ur yelli d tamamekt taselyant ma yella tebɣiḍ ad ssinfeḍ Anẓul Ulwigan akked teftist n umalu n Marikan n Unẓul. (muqel ddaw),"Kabyle: Afug-agi ur yelli d tamamekt taselyant ma yella tebɣiḍ ad ssinfeḍ Anẓul Ulwigan akked teftist n umalu n Marikan n Unẓul. (muqel ddaw) 
@@ -308,7 +372,17 @@ The following is a list of the most common English words used in the article:
 
 The following is a list of the most common English words used in the article:
 
-The following is a list of the most common English words used in the",
+The following is a list of the most common English words used in the","The following is a list of the most common English words used in the article:
+
+The following is a list of the most common English words used in the article:
+
+The following is a list of the most common English words used in the article:
+
+The following is a list of the most common English words used in the article:
+
+The following is a list of the most common English words used in the article:
+
+The following is a list of the most common English words used in the"
 "Aggur iɛeddan,timeskanin timeqranin i yellan Di Bulugne mi testenya tmurt ACTA, ayen yeǧan adabu n Bulunya ur isɛedday ara amsisi-nni ,i tura.","Kabyle: Aggur iɛeddan,timeskanin timeqranin i yellan Di Bulugne mi testenya tmurt ACTA, ayen yeǧan adabu n Bulunya ur isɛedday ara amsisi-nni ,i tura. 
 English:
 The following sentences are correct:
@@ -325,7 +399,21 @@ The following sentences are correct:
 The following sentences are incorrect:
 The following sentences are correct:
 The following sentences are incorrect:
-The",
+The","The following sentences are correct:
+The following sentences are incorrect:
+The following sentences are correct:
+The following sentences are incorrect:
+The following sentences are correct:
+The following sentences are incorrect:
+The following sentences are correct:
+The following sentences are incorrect:
+The following sentences are correct:
+The following sentences are incorrect:
+The following sentences are correct:
+The following sentences are incorrect:
+The following sentences are correct:
+The following sentences are incorrect:
+The"
 Ttewṣayat-agi d agzul kan amecṭuḥ n lḥala tasertant deg walebɛaḍ n tmura.,"Kabyle: Ttewṣayat-agi d agzul kan amecṭuḥ n lḥala tasertant deg walebɛaḍ n tmura. 
 English: The Lord is the One who is the One who is the One who is the One who is the One who is the One who is the One who is the One who is the One who is the One who is the One who is the One who is the One who is the One who is the One who is the One who is the One who is the One who is the One who is the One who is the One who is the One who is the One who is the One who is the",The Lord is the One who is the One who is the One who is the One who is the One who is the One who is the One who is the One who is the One who is the One who is the One who is the One who is the One who is the One who is the One who is the One who is the One who is the One who is the One who is the One who is the One who is the One who is the One who is the One who is the
 "Deg tefranin n 1976 yendaṛ Karter ɣef tsertit tabeṛṛanit, sakkin yeqdec d Amendaṛ n Tɣellist Taɣelnawt (ATT) si 1977 ɣer 1981, deffir n Henri Kissinger.","Kabyle: Deg tefranin n 1976 yendaṛ Karter ɣef tsertit tabeṛṛanit, sakkin yeqdec d Amendaṛ n Tɣellist Taɣelnawt (ATT) si 1977 ɣer 1981, deffir n Henri Kissinger. 
@@ -348,7 +436,8 @@ English: Maca, di Yunyu 1956, cukken iṛgamen n Kruckef mi d-t","Maca, di Yunyu
 English: The name of the city is Azazin, in the Azazin region of Iran. The name is derived from the name of the city Azazin, which is Azazin, in the Azazin region of Iran. The name is derived from the name of the city Azazin, which is Azazin, in the Azazin region of Iran. The name is derived from the name of the city Azazin, which is Azazin, in the Az","The name is derived from the name of the city Azazin, which is Azazin, in the Azazin region of Iran. The name is derived from the name of the city Azazin, which is Azazin, in the Az The name of the city is Azazin, in the Azazin region of Iran."
 Agur iɛeddan yiwet n tesmilt taselwayant tesmagel aṭṭixxer n uqerru n Useqqamu Uɛḍil n Tefranin gar tḥawact n tsuraf ara yeldin tiwwura i tmurt amek ara ilint deg-s tifranin timaynutin.,"Kabyle: Agur iɛeddan yiwet n tesmilt taselwayant tesmagel aṭṭixxer n uqerru n Useqqamu Uɛḍil n Tefranin gar tḥawact n tsuraf ara yeldin tiwwura i tmurt amek ara ilint deg-s tifranin timaynutin. 
 English:  The following are the main symptoms of the disease:
-• Anorexia, abdominal pain, diarrhea, abdominal distension, abdominal cramps, abdominal pain, abdominal cramps, abdominal pain, abdominal pain, abdominal pain, abdominal pain, abdominal pain, abdominal pain, abdominal pain, abdominal pain, abdominal pain, abdominal pain, abdominal pain, abdominal pain, abdominal pain, abdominal pain, abdominal pain, abdominal pain, abdominal pain, abdominal pain, abdominal pain, abdominal pain, abdominal pain",The following are the main symptoms of the disease:
+• Anorexia, abdominal pain, diarrhea, abdominal distension, abdominal cramps, abdominal pain, abdominal cramps, abdominal pain, abdominal pain, abdominal pain, abdominal pain, abdominal pain, abdominal pain, abdominal pain, abdominal pain, abdominal pain, abdominal pain, abdominal pain, abdominal pain, abdominal pain, abdominal pain, abdominal pain, abdominal pain, abdominal pain, abdominal pain, abdominal pain, abdominal pain, abdominal pain","The following are the main symptoms of the disease:
+• Anorexia, abdominal pain, diarrhea, abdominal distension, abdominal cramps, abdominal pain, abdominal cramps, abdominal pain, abdominal pain, abdominal pain, abdominal pain, abdominal pain, abdominal pain, abdominal pain, abdominal pain, abdominal pain, abdominal pain, abdominal pain, abdominal pain, abdominal pain, abdominal pain, abdominal pain, abdominal pain, abdominal pain, abdominal pain, abdominal pain, abdominal pain, abdominal pain"
 "Isental niḍen i ɣef meslayen ɛla ḥsab issalen, awanek imal n Jirusalem i yellan d tuɣrist ɣer isin yegduden, d temsalt n talat n Jurdin.","Kabyle: Isental niḍen i ɣef meslayen ɛla ḥsab issalen, awanek imal n Jirusalem i yellan d tuɣrist ɣer isin yegduden, d temsalt n talat n Jurdin. 
 English: Isental niḍen i ɣef meslayen ɛla ḥsab issalen, awanek imal n Jirusalem i yellan d tuɣrist ɣer isin yegduden, d temsalt n talat n Jurdin. 
 English: Isental niḍen i ɣef meslayen ɛla ḥsab issalen, awanek imal n Jirusalem i yellan d tuɣrist ɣer isin yegduden, d","Isental niḍen i ɣef meslayen ɛla ḥsab issalen, awanek imal n Jirusalem i yellan d tuɣrist ɣer isin yegduden, d temsalt n talat n Jurdin."
@@ -361,7 +450,9 @@ English:
 
 A:
 
-I don't know if this is the correct answer, but I think the answer is that the answer is not correct. The answer is correct, but it is not the correct answer. The answer is correct, but it is not the correct answer. The answer is correct, but it is not the correct answer. The answer is correct, but it is not the correct answer. The answer is correct, but it is not the correct answer. The answer is correct, but it is not",
+I don't know if this is the correct answer, but I think the answer is that the answer is not correct. The answer is correct, but it is not the correct answer. The answer is correct, but it is not the correct answer. The answer is correct, but it is not the correct answer. The answer is correct, but it is not the correct answer. The answer is correct, but it is not the correct answer. The answer is correct, but it is not","A:
+
+I don't know if this is the correct answer, but I think the answer is that the answer is not correct. The answer is correct, but it is not The answer is correct, but it is not the correct answer."
 "Aɣawas yeffeɣ-d d amellil, s ugzam n tmerna n yiserdasen d iɣaṛimen ilaqen, ɣas akken argal-agi n ubrid yeffeɣ akk i uṣaduf agraɣlan iqeblen s umata i sneglen waṭas n yemsisan di snat n tsutin-agi yezrin.","Kabyle: Aɣawas yeffeɣ-d d amellil, s ugzam n tmerna n yiserdasen d iɣaṛimen ilaqen, ɣas akken argal-agi n ubrid yeffeɣ akk i uṣaduf agraɣlan iqeblen s umata i sneglen waṭas n yemsisan di snat n tsutin-agi yezrin. 
 English: Aɣawas yeffeɣ-d d amellil, s ugzam n tmerna n yiserdasen d iɣaṛimen ilaqen, ɣas akken argal-agi n ubrid yeffeɣ akk i uṣaduf agraɣlan iqeblen s umata i sneglen waṭas n yemsisan di snat n tsutin-agi yezrin. 
 English: Aɣawas yeffeɣ-d d amellil","Aɣawas yeffeɣ-d d amellil, s ugzam n tmerna n yiserdasen d iɣaṛimen ilaqen, ɣas akken argal-agi n ubrid yeffeɣ akk i uṣaduf agraɣlan iqeblen s umata i sneglen waṭas n yemsisan di snat n tsutin-agi yezrin."
@@ -369,7 +460,7 @@ Assaɣen idamsanen sbedden-ten i tikkelt niḍen gar sin n yiḥricen-agi n Muld
 English: The name of the tribe is Muldufa. The tribe is located in the northwestern part of the country, in the region of the Alborz Mountains. The tribe is a small tribe, with a population of about 100 people. The tribe is a small tribe, with a population of about 100 people. The tribe is a small tribe, with a population of about 100 people. The tribe is a small tribe, with a population of about 100 people. The tribe is a small tribe,","The tribe is a small tribe, The tribe is a small tribe, with a population of about 100 people. The name of the tribe is Muldufa. The tribe is located in the northwestern part of the country, in the region of the Alborz Mountains."
 "Ddan-d yid-s imḍebren-agi, iwekked i iɣeṛmanen n Tikṣaṣ belli llant tesɣal i yettwaxedmen i uḥaddi ɣef laman azayez.","Kabyle: Ddan-d yid-s imḍebren-agi, iwekked i iɣeṛmanen n Tikṣaṣ belli llant tesɣal i yettwaxedmen i uḥaddi ɣef laman azayez. 
 English: Ddan-d yid-s imḍebren-agi, iwekked i iɣeṛmanen n Tikṣaṣ belli llant tesɣal i yettwaxedmen i uḥaddi ɣef laman azayez. 
-I am not sure if this is the correct way to write this, but I am not sure if it is the correct way to write this. I am not sure if this is the correct way to write this. I am not sure","Ddan-d yid-s imḍebren-agi, iwekked i iɣeṛmanen n Tikṣaṣ belli llant tesɣal i yettwaxedmen i uḥaddi ɣef laman azayez."
+I am not sure if this is the correct way to write this, but I am not sure if it is the correct way to write this. I am not sure if this is the correct way to write this. I am not sure","Ddan-d yid-s imḍebren-agi, iwekked i iɣeṛmanen n Tikṣaṣ belli llant tesɣal i yettwaxedmen i uḥaddi ɣef laman azayez. I am not sure if this is the correct way to write this, but I am not sure if it is the correct way to write this. I am not sure I am not sure if this is the correct way to write this."
 Azɣan alellam n wussis n wallus n tmeṣkiwt iṛekkez ɣef ufraq n yiguta n wallus n tmeṣkiwt i yibujaden si Wacinṭun.,"Kabyle: Azɣan alellam n wussis n wallus n tmeṣkiwt iṛekkez ɣef ufraq n yiguta n wallus n tmeṣkiwt i yibujaden si Wacinṭun. 
 English: The name of the tribe is Azɣan Alellam, which is a name of the tribe Azɣan Alellam, which is a name of the tribe Azɣan Alellam, which is a name of the tribe Azɣan Alellam, which is a name of the tribe Azɣan Alellam, which is a name of the tribe Azɣan Alellam, which is a name of the tribe Azɣan Alellam, which is a","The name of the tribe is Azɣan Alellam, which is a name of the tribe Azɣan Alellam, which is a name of the tribe Azɣan Alellam, which is a name of the tribe Azɣan Alellam, which is a name of the tribe Azɣan Alellam, which is a name of the tribe Azɣan Alellam, which is a name of the tribe Azɣan Alellam, which is a"
 "Gar 1400 i yettwasteqsan uqbel tifranin tisduklanin n 2010,wid i yellan ur qbilen ara Ustralya ad tuɣal d tagduda nernan s 8 di timḍi ɣef useggas n 2008.","Kabyle: Gar 1400 i yettwasteqsan uqbel tifranin tisduklanin n 2010,wid i yellan ur qbilen ara Ustralya ad tuɣal d tagduda nernan s 8 di timḍi ɣef useggas n 2008. 
@@ -377,21 +468,22 @@ English: The Book of the Dead: The Book of the Dead: The Book of the Dead: The B
 Imesnassaɣen nnan-d d akken ufan kra n tebnubak deg tmendawt Tafɣanit i wakken ad ẓren d akken tanabadt tis snat ur tlaq ara.,"Kabyle: Imesnassaɣen nnan-d d akken ufan kra n tebnubak deg tmendawt Tafɣanit i wakken ad ẓren d akken tanabadt tis snat ur tlaq ara. 
 English: Imesnassaɣen nnan-d d akken ufan kra n tebnubak deg tmendawt Tafɣanit i wakken ad ẓren d akken tanabadt tis snat ur tlaq ara. 
 Imesnassaɣen nnan-d d akken ufan kra n tebnubak deg tmendawt Tafɣanit i wakken ad ẓren d akken tanabadt tis snat ur tlaq ara. 
-Imes",Imesnassaɣen nnan-d d akken ufan kra n tebnubak deg tmendawt Tafɣanit i wakken ad ẓren d akken tanabadt tis snat ur tlaq ara.
+Imes",Imes Imesnassaɣen nnan-d d akken ufan kra n tebnubak deg tmendawt Tafɣanit i wakken ad ẓren d akken tanabadt tis snat ur tlaq ara.
 "Mi d-yeffeɣ ugemmaḍ, Gingric icker-d Santurum, maca yessenqed-d s lehḍur qessiḥen Rumni, i yessersen s yisem-is asizzel n udellel n diri mgal Gingric di Ayuha.","Kabyle: Mi d-yeffeɣ ugemmaḍ, Gingric icker-d Santurum, maca yessenqed-d s lehḍur qessiḥen Rumni, i yessersen s yisem-is asizzel n udellel n diri mgal Gingric di Ayuha. 
 English: The Gingric is a plant that grows in the Himalayas. It is a member of the family of the Gingraceae. It is a perennial herb that grows in the Himalayas. It is a member of the family of the Gingraceae. It is a perennial herb that grows in the Himalayas. It is a member of the family of the Gingraceae. It is a perennial herb that grows in the Himalayas. It is a member of",The Gingric is a plant that grows in the Himalayas. It is a member of the family of the Gingraceae. It is a member of It is a perennial herb that grows in the Himalayas.
 D Aseqqamu n Tefranin Uɛḍil wis semmus n Martelli di kkuẓ n iseggasen.,"Kabyle: D Aseqqamu n Tefranin Uɛḍil wis semmus n Martelli di kkuẓ n iseggasen. 
 English: D Aseqqamu n Tefranin Uɛḍil wis semmus n Martelli di kkuẓ n iseggasen.",D Aseqqamu n Tefranin Uɛḍil wis semmus n Martelli di kkuẓ n iseggasen.
 "Anaddal yewwin ciɛa n dheb Tulambit tuɣ-it ad ittekki deg temzizlin n ussucef ilelli n 100 d 200 lmitrat d kraḍ n temzizlin n trebbuyaɛ n deg uraren n Kummunwilt, acu ɣef tmentilt n ucekti-ines, tazmert-is tella di ccek.","Kabyle: Anaddal yewwin ciɛa n dheb Tulambit tuɣ-it ad ittekki deg temzizlin n ussucef ilelli n 100 d 200 lmitrat d kraḍ n temzizlin n trebbuyaɛ n deg uraren n Kummunwilt, acu ɣef tmentilt n ucekti-ines, tazmert-is tella di ccek. 
 English: The name of the tribe is Anaddal yewwin ciɛa n dheb Tulambit tuɣ-it ad ittekki deg temzizlin n ussucef ilelli n 100 d 200 lmitrat d kraḍ n temzizlin n trebbuyaɛ n deg uraren n Kummunwilt, acu ɣef tmentilt n ucekti-ines, tazmert-is tella di ccek. 
-The name","The name of the tribe is Anaddal yewwin ciɛa n dheb Tulambit tuɣ-it ad ittekki deg temzizlin n ussucef ilelli n 100 d 200 lmitrat d kraḍ n temzizlin n trebbuyaɛ n deg uraren n Kummunwilt, acu ɣef tmentilt n ucekti-ines, tazmert-is tella di ccek."
+The name","The name The name of the tribe is Anaddal yewwin ciɛa n dheb Tulambit tuɣ-it ad ittekki deg temzizlin n ussucef ilelli n 100 d 200 lmitrat d kraḍ n temzizlin n trebbuyaɛ n deg uraren n Kummunwilt, acu ɣef tmentilt n ucekti-ines, tazmert-is tella di ccek."
 "Ur yelli ara kan d alɣuɣ n umaḍal neɣ d alɣuɣ Ulambi, Saytu daɣen yella d aselway n usmil n uslaɣmu n Tiddukla Tajabunit n Judu di lawan n tmettant-is.","Kabyle: Ur yelli ara kan d alɣuɣ n umaḍal neɣ d alɣuɣ Ulambi, Saytu daɣen yella d aselway n usmil n uslaɣmu n Tiddukla Tajabunit n Judu di lawan n tmettant-is. 
 English:
 
-The first two words are the same, but the third is a different word. The first word is the same, but the third is a different word. The first word is the same, but the third is a different word. The first word is the same, but the third is a different word. The first word is the same, but the third is a different word. The first word is the same, but the third is a different word. The first word is the same, but",
+The first two words are the same, but the third is a different word. The first word is the same, but the third is a different word. The first word is the same, but the third is a different word. The first word is the same, but the third is a different word. The first word is the same, but the third is a different word. The first word is the same, but the third is a different word. The first word is the same, but","The first two words are the same, but the third is a different word. The first word is the same, but The first word is the same, but the third is a different word."
 "Tasmilt tagraɣlant Tulambit tefren asekcem n wuraren deg temlilit n useqqamu n tedbelt di Berlin ass-agi. Rugbi, ladɣa rugbi n tdukli, d lgulf ttwafernen gar semmus n waddalen wiyaḍ i wakken ad ttwaḥsaben d wid ad yilin deg Uraren Ulambiyen.","Kabyle: Tasmilt tagraɣlant Tulambit tefren asekcem n wuraren deg temlilit n useqqamu n tedbelt di Berlin ass-agi. Rugbi, ladɣa rugbi n tdukli, d lgulf ttwafernen gar semmus n waddalen wiyaḍ i wakken ad ttwaḥsaben d wid ad yilin deg Uraren Ulambiyen. 
 English: The English version of the book is available at the following URL: http://www.cambridge.org/core/terms. https://doi.org/10.1017/S0022111600018
-The book is available in English, French, German, Spanish, Portuguese, Russian, and Urdu.",The English version of the book is available at the following URL: http://www.cambridge.org/core/terms. https://doi.org/10.1017/S0022111600018
+The book is available in English, French, German, Spanish, Portuguese, Russian, and Urdu.","The English version of the book is available at the following URL: http://www.cambridge.org/core/terms. https://doi.org/10.1017/S0022111600018
+The book is available in English, French, German, Spanish, Portuguese, Russian, and Urdu."
 Timzizzelt tameqqrant yakk n useggas tettili di Duǧember deg innaren n bulu di Las Kanyitas.,"Kabyle: Timzizzelt tameqqrant yakk n useggas tettili di Duǧember deg innaren n bulu di Las Kanyitas. 
 English: The Kanyitas are a tribe of the Kanyitas, a tribe of the Kanyitas, a tribe of the Kanyitas, a tribe of the Kanyitas, a tribe of the Kanyitas, a tribe of the Kanyitas, a tribe of the Kanyitas, a tribe of the Kanyitas, a tribe of the Kanyitas, a tribe of the Kanyitas, a tribe of the Kanyitas, a tribe of the Kanyitas","The Kanyitas are a tribe of the Kanyitas, a tribe of the Kanyitas, a tribe of the Kanyitas, a tribe of the Kanyitas, a tribe of the Kanyitas, a tribe of the Kanyitas, a tribe of the Kanyitas, a tribe of the Kanyitas, a tribe of the Kanyitas, a tribe of the Kanyitas, a tribe of the Kanyitas, a tribe of the Kanyitas"
 "Seg ass mi d-iguǧǧa ɣer tmanaɣt-Takaṭalunit, Fidal yurar 49 n temliliyin deg usrir.","Kabyle: Seg ass mi d-iguǧǧa ɣer tmanaɣt-Takaṭalunit, Fidal yurar 49 n temliliyin deg usrir. 
@@ -406,10 +498,10 @@ Jak yella ixeddem Asluɣmu n uqbel-tasemhuyt di Kuberkyani di Ṭelyan sbeḥ.Ye
 English: The name of the village is Yella, which means ""one of the villages"". The name is also used in the name of the village, which means ""one of the villages"". The name is also used in the name of the village, which means ""one of the villages"". The name is also used in the name of the village, which means ""one of the villages"". The name is also used in the name of the village, which means ""one of the villages","The name is also used in the name of the village, which means ""one of the villages The name of the village is Yella, which means ""one of the villages"". The name is also used in the name of the village, which means ""one of the villages""."
 Lxuf n lexṣaṣ n ttawilat n umesni yesker-d iẓubaẓ d akken timlilit ad ttwalɛab s tewwura yettwamedlen mebla ma ḥedren imferǧen n terbaɛt.,"Kabyle: Lxuf n lexṣaṣ n ttawilat n umesni yesker-d iẓubaẓ d akken timlilit ad ttwalɛab s tewwura yettwamedlen mebla ma ḥedren imferǧen n terbaɛt. 
 English: The name of the city is Lxuf n lexṣaṣ n ttawilat n umesni yesker-d iẓubaẓ d akken timlilit ad ttwalɛab s tewwura yettwamedlen mebla ma ḥedren imferǧen n terbaɛt. 
-The name of the city is Lxuf n lexṣaṣ n ttawilat n umesni yesker-d iẓuba�",The name of the city is Lxuf n lexṣaṣ n ttawilat n umesni yesker-d iẓubaẓ d akken timlilit ad ttwalɛab s tewwura yettwamedlen mebla ma ḥedren imferǧen n terbaɛt.
+The name of the city is Lxuf n lexṣaṣ n ttawilat n umesni yesker-d iẓuba�",The name of the city is Lxuf n lexṣaṣ n ttawilat n umesni yesker-d iẓubaẓ d akken timlilit ad ttwalɛab s tewwura yettwamedlen mebla ma ḥedren imferǧen n terbaɛt. The name of the city is Lxuf n lexṣaṣ n ttawilat n umesni yesker-d iẓuba�
 "Tummi Drimer yenna ""Luna tella d tagelidt n Ikstrim. D asefrak-iw amenzu. Luna tɛedda deg yiḍ bu sin wagguren. d tulmist am nettat. D tameṭṭut s tissas.""","Kabyle: Tummi Drimer yenna ""Luna tella d tagelidt n Ikstrim. D asefrak-iw amenzu. Luna tɛedda deg yiḍ bu sin wagguren. d tulmist am nettat. D tameṭṭut s tissas."" 
 English:
-Luna Tella Drimer and her friends are in the forest. They are in the forest. They are in the forest. They are in the forest. They are in the forest. They are in the forest. They are in the forest. They are in the forest. They are in the forest. They are in the forest. They are in the forest. They are in the forest. They are in the forest. They are in the forest. They are in the forest.",
+Luna Tella Drimer and her friends are in the forest. They are in the forest. They are in the forest. They are in the forest. They are in the forest. They are in the forest. They are in the forest. They are in the forest. They are in the forest. They are in the forest. They are in the forest. They are in the forest. They are in the forest. They are in the forest. They are in the forest.",Luna Tella Drimer and her friends are in the forest. They are in the forest.
 Anaddal n ski. n Buland n taggayt n yergazen iderɣalen Maciej Krezel d Anna Ugarzinska kfan d at mraw d kraḍ di Suber-G. Jung Seurk Bark n Kurya n Unẓul yekfa d wis snat n tmerwin d ukkuẓ deg yibeddi n yergazen Suber-G.,"Kabyle: Anaddal n ski. n Buland n taggayt n yergazen iderɣalen Maciej Krezel d Anna Ugarzinska kfan d at mraw d kraḍ di Suber-G. Jung Seurk Bark n Kurya n Unẓul yekfa d wis snat n tmerwin d ukkuẓ deg yibeddi n yergazen Suber-G. 
 English:
 The following are the translations of the following sentences:
@@ -421,19 +513,28 @@ The following are the translations of the following sentences:
 The following are the translations of the following sentences:
 The following are the translations of the following sentences:
 The following are the translations of the following sentences:
-",
+","The following are the translations of the following sentences:
+The following are the translations of the following sentences:
+The following are the translations of the following sentences:
+The following are the translations of the following sentences:
+The following are the translations of the following sentences:
+The following are the translations of the following sentences:
+The following are the translations of the following sentences:
+The following are the translations of the following sentences:
+The following are the translations of the following sentences:"
 "I yisallen ɣef temzizlin akked wanda ttnuzen itikiyen i temliliyin n bulu, wali Tadukkla Tarjuntinit n Bulu.","Kabyle: I yisallen ɣef temzizlin akked wanda ttnuzen itikiyen i temliliyin n bulu, wali Tadukkla Tarjuntinit n Bulu. 
 English: I yisallen ɣef temzizlin akked wanda ttnuzen itikiyen i temliliyin n bulu, wali Tadukkla Tarjuntinit n Bulu. 
 I yisallen ɣef temzizlin akked wanda ttnuzen itikiyen i temliliyin n bulu, wali Tadukkla Tarjuntinit n Bulu. 
-I yisallen ɣef temzizlin akked wanda ttnuzen","I yisallen ɣef temzizlin akked wanda ttnuzen itikiyen i temliliyin n bulu, wali Tadukkla Tarjuntinit n Bulu."
+I yisallen ɣef temzizlin akked wanda ttnuzen","I yisallen ɣef temzizlin akked wanda ttnuzen I yisallen ɣef temzizlin akked wanda ttnuzen itikiyen i temliliyin n bulu, wali Tadukkla Tarjuntinit n Bulu."
 "Timliliyin bdant ɣef 10 di lwaqt yelhan ,siwa cwiya usigna yellan sbaḥ cwiṭ akkin yekkes ,d ass yelhan i rugby n 7.","Kabyle: Timliliyin bdant ɣef 10 di lwaqt yelhan ,siwa cwiya usigna yellan sbaḥ cwiṭ akkin yekkes ,d ass yelhan i rugby n 7. 
 English:
-The first time I saw the game was in the early 1990s. I was a kid and I was playing rugby at the time. I was playing with my friends and I was playing with my brother. I was playing with my friends and I was playing with my brother. I was playing with my friends and I was playing with my brother. I was playing with my friends and I was playing with my brother. I was playing with my friends and I was playing with my brother. I was playing",
+The first time I saw the game was in the early 1990s. I was a kid and I was playing rugby at the time. I was playing with my friends and I was playing with my brother. I was playing with my friends and I was playing with my brother. I was playing with my friends and I was playing with my brother. I was playing with my friends and I was playing with my brother. I was playing with my friends and I was playing with my brother. I was playing",I was playing with my friends and I was playing with my brother. The first time I saw the game was in the early 1990s. I was a kid and I was playing rugby at the time. I was playing
 "Arli Felaskes n Meksiku yekfa d wis mraw n semmus deg yibeddibn yergazen n Suber-G, Adam Hall n Nyu Ziland yekfa d wis ṭẓa deg yibeddibn yergazen n Suber-G.","Kabyle: Arli Felaskes n Meksiku yekfa d wis mraw n semmus deg yibeddibn yergazen n Suber-G, Adam Hall n Nyu Ziland yekfa d wis ṭẓa deg yibeddibn yergazen n Suber-G. 
 English:
 The following are the names of the people who lived in the area of the present-day Yekfalah:
 Arli Felaskes n Meksiku yekfa d wis mraw n semmus deg yibeddibn yergazen n Suber-G, Adam Hall n Nyu Ziland yekfa d wis ṭẓa deg yibeddibn yergazen n Suber-G. 
-The following are the names of the people who lived in the",
+The following are the names of the people who lived in the","The following are the names of the people who lived in the area of the present-day Yekfalah:
+Arli Felaskes n Meksiku yekfa d wis mraw n semmus deg yibeddibn yergazen n Suber-G, Adam Hall n Nyu Ziland yekfa d wis ṭẓa deg yibeddibn yergazen n Suber-G. The following are the names of the people who lived in the"
 "Timlilit taneggarut n uzrar ad yili deg Urti Ellis di Juhannesburg ddurt i d-iteddun, mi turar Sbringbuks mgal Usṭralya.","Kabyle: Timlilit taneggarut n uzrar ad yili deg Urti Ellis di Juhannesburg ddurt i d-iteddun, mi turar Sbringbuks mgal Usṭralya. 
 English:
 The following is a list of the most popular languages spoken in the United States:
@@ -466,7 +567,36 @@ Italian
 Polish
 Italian
 Polish
-",
+","The following is a list of the most popular languages spoken in the United States:
+English
+German
+French
+Russian
+Spanish
+Italian
+Polish
+Italian
+Polish
+Italian
+Polish
+Italian
+Polish
+Italian
+Polish
+Italian
+Polish
+Italian
+Polish
+Italian
+Polish
+Italian
+Polish
+Italian
+Polish
+Italian
+Polish
+Italian
+Polish"
 Di lḥal ilhan tzemreḍ ad tesbaɛdeḍ kter n tikli - maca idrus wanda ara tawḍeḍ tazzla n uḥlucceg ɣef udfel mebla aqṛab n waɛrur aẓayan deg ibardan ixedmen.,"Kabyle: Di lḥal ilhan tzemreḍ ad tesbaɛdeḍ kter n tikli - maca idrus wanda ara tawḍeḍ tazzla n uḥlucceg ɣef udfel mebla aqṛab n waɛrur aẓayan deg ibardan ixedmen. 
 English: The name of the book is not known. The name of the book is not known. The name of the book is not known. The name of the book is not known. The name of the book is not known. The name of the book is not known. The name of the book is not known. The name of the book is not known. The name of the book is not known. The name of the book is not known. The name of the book is not known. The",The name of the book is not known. The
 "Ṣa n tneqqiḍin ɣer deffir, Ǧunsun d wis sin s 2,243.","Kabyle: Ṣa n tneqqiḍin ɣer deffir, Ǧunsun d wis sin s 2,243. 
@@ -478,7 +608,7 @@ English: The name of the city is Yeddisen. The name of the city is Yeddisen. The
 "Addalen n tegrest mechuren ugar di temnaḍin n Ugafa, akked timenyugert gar Iṭelyanen deg wuraren igraɣlanen d yineḍruyen Ulimbik.","Kabyle: Addalen n tegrest mechuren ugar di temnaḍin n Ugafa, akked timenyugert gar Iṭelyanen deg wuraren igraɣlanen d yineḍruyen Ulimbik. 
 English: Addalen n tegrest mechuren ugar di temnaḍin n Ugafa, akked timenyugert gar Iṭelyanen deg wuraren igraɣlanen d yineḍruyen Ulimbik. 
 Iṭelyan n tegrest mechuren ugar di temnaḍin n Ugafa, akked timenyugert gar Iṭelyanen deg wuraren igraɣlanen d yineḍruyen Ulimbik. 
-Iṭelyan","Addalen n tegrest mechuren ugar di temnaḍin n Ugafa, akked timenyugert gar Iṭelyanen deg wuraren igraɣlanen d yineḍruyen Ulimbik."
+Iṭelyan","Addalen n tegrest mechuren ugar di temnaḍin n Ugafa, akked timenyugert gar Iṭelyanen deg wuraren igraɣlanen d yineḍruyen Ulimbik. Iṭelyan Iṭelyan n tegrest mechuren ugar di temnaḍin n Ugafa, akked timenyugert gar Iṭelyanen deg wuraren igraɣlanen d yineḍruyen Ulimbik."
 "Marukidur yekfa d amezwaru deg umuɣ, yeɣleb s seddis n tneqqiḍin Nusa i d-yeɣlin d wis sin.","Kabyle: Marukidur yekfa d amezwaru deg umuɣ, yeɣleb s seddis n tneqqiḍin Nusa i d-yeɣlin d wis sin. 
 English: The Lord of the Rings: The Lord of the Rings is a fantasy fantasy film directed by David Yates and written by David Yates and David Yates. It was released in the United Kingdom on December 16, 2015. The film was produced by David Yates and David Yates. The film was produced by David Yates and David Yates. The film was produced by David Yates and David Yates. The film was produced by David Yates and David Yates. The","The Lord of the Rings: The Lord of the Rings is a fantasy fantasy film directed by David Yates and written by David Yates and David Yates. The The film was produced by David Yates and David Yates. It was released in the United Kingdom on December 16, 2015."
 "Maykel Cumaxer ur iɛeṭṭel ara aṭas s deffir Alunṣu, ula d netta iḥbes timizelt-is, ɣef sebba n tyitwin i yeččan iruṣuren deg tuget imennuɣen i yellan di temizelt.","Kabyle: Maykel Cumaxer ur iɛeṭṭel ara aṭas s deffir Alunṣu, ula d netta iḥbes timizelt-is, ɣef sebba n tyitwin i yeččan iruṣuren deg tuget imennuɣen i yellan di temizelt. 
@@ -491,20 +621,20 @@ Anadi yufa-d belli tilawin helkent-tt sin ibardan kter n yergazen.,"Kabyle: Anad
 English: The Lord is my strength, and I am his servant. I am the Lord's servant, and I am his servant. I am the Lord's servant, and I am his servant. I am the Lord's servant, and I am his servant. I am the Lord's servant, and I am his servant. I am the Lord's servant, and I am his servant. I am the Lord's servant, and I am his servant. I am the Lord's servant, and I am","I am the Lord's servant, and I am I am the Lord's servant, and I am his servant. The Lord is my strength, and I am his servant."
 "Iɣisem aruzrif izmer ad isɛu ifardisen imihawen yemgaraden gar-asen mitanul, i yezemren ad d-yeglu s tdeṛɣelt neɣ lmut xas s tkemmicin timecṭaḥ.","Kabyle: Iɣisem aruzrif izmer ad isɛu ifardisen imihawen yemgaraden gar-asen mitanul, i yezemren ad d-yeglu s tdeṛɣelt neɣ lmut xas s tkemmicin timecṭaḥ. 
 English: Iɣisem aruzrif izmer ad isɛu ifardisen imihawen yemgaraden gar-asen mitanul, i yezemren ad d-yeglu s tdeṛɣelt neɣ lmut xas s tkemmicin timecṭaḥ. 
-Iɣisem aruzrif izmer ad isɛu ifardisen imihawen yemgaraden gar-asen mitanul, i yezemren ad d-yeglu","Iɣisem aruzrif izmer ad isɛu ifardisen imihawen yemgaraden gar-asen mitanul, i yezemren ad d-yeglu s tdeṛɣelt neɣ lmut xas s tkemmicin timecṭaḥ."
+Iɣisem aruzrif izmer ad isɛu ifardisen imihawen yemgaraden gar-asen mitanul, i yezemren ad d-yeglu","Iɣisem aruzrif izmer ad isɛu ifardisen imihawen yemgaraden gar-asen mitanul, i yezemren ad d-yeglu Iɣisem aruzrif izmer ad isɛu ifardisen imihawen yemgaraden gar-asen mitanul, i yezemren ad d-yeglu s tdeṛɣelt neɣ lmut xas s tkemmicin timecṭaḥ."
 "Ḥala isemda n usemɣeṛ n temsal, mačči leḥzen akked tigdi i yettenqasen s tɣimiyin n lecɣal ittuheggan n yal ddurt.","Kabyle: Ḥala isemda n usemɣeṛ n temsal, mačči leḥzen akked tigdi i yettenqasen s tɣimiyin n lecɣal ittuheggan n yal ddurt. 
 English: The name of the city is Ḥala isemda n usemɣeṛ n temsal, mačči leḥzen akked tigdi i yettenqasen s tɣimiyin n lecɣal ittuheggan n yal ddurt. The name of the city is Ḥala isemda n usemɣeṛ n temsal, mačči leḥzen akked tigdi i yettenqasen s tɣimiyin","The name of the city is Ḥala isemda n usemɣeṛ n temsal, mačči leḥzen akked tigdi i yettenqasen s tɣimiyin The name of the city is Ḥala isemda n usemɣeṛ n temsal, mačči leḥzen akked tigdi i yettenqasen s tɣimiyin n lecɣal ittuheggan n yal ddurt."
 "Tilit n waṭas n tkeṛṛusin daɣen tgellu-d s tyita meqqren akter n yisehwa n yiberdan, ayen ara d-yeglun s usnulfu n tetwilin timaynutin di tujjya i useḥlu n tfekkiwin inṭeṛṛen.","Kabyle: Tilit n waṭas n tkeṛṛusin daɣen tgellu-d s tyita meqqren akter n yisehwa n yiberdan, ayen ara d-yeglun s usnulfu n tetwilin timaynutin di tujjya i useḥlu n tfekkiwin inṭeṛṛen. 
 English: The name of the tribe is Tilit, which means ""white"". The tribe is located in the northwestern part of the country, in the region of the Alboran Mountains. The tribe is a small tribe, with a population of about 100 people. The tribe is located in the Alboran Mountains, in the region of the Alboran Mountains. The tribe is a small tribe, with a population of about 100 people. The tribe is located in the Alboran Mountains","The tribe is located in the Alboran Mountains The tribe is located in the northwestern part of the country, in the region of the Alboran Mountains. The name of the tribe is Tilit, which means ""white"". The tribe is a small tribe, with a population of about 100 people. The tribe is located in the Alboran Mountains, in the region of the Alboran Mountains."
 "Inagmayen igejdanen nan-d d akken ayagi yezmer ad yeglu s uεqal amenzu n waṭṭan n ukanṣir, lberd, SIDA d malarya i yimuḍan deg tmura yenḥafen, anda afmiḍi n ḥellu seg waṭṭanen am ukanṣir n yedmaren ahat d azgen n win n tmura irebḥen.","Kabyle: Inagmayen igejdanen nan-d d akken ayagi yezmer ad yeglu s uεqal amenzu n waṭṭan n ukanṣir, lberd, SIDA d malarya i yimuḍan deg tmura yenḥafen, anda afmiḍi n ḥellu seg waṭṭanen am ukanṣir n yedmaren ahat d azgen n win n tmura irebḥen. 
 English: Inagmayen igejdanen nan-d d akken ayagi yezmer ad yeglu s uεqal amenzu n waṭṭan n ukanṣir, lberd, SIDA d malarya i yimuḍan deg tmura yenḥafen, anda afmiḍi n ḥellu seg waṭṭanen am ukanṣir n yedmaren ahat d azgen n win n tmura irebḥen. 
-English","Inagmayen igejdanen nan-d d akken ayagi yezmer ad yeglu s uεqal amenzu n waṭṭan n ukanṣir, lberd, SIDA d malarya i yimuḍan deg tmura yenḥafen, anda afmiḍi n ḥellu seg waṭṭanen am ukanṣir n yedmaren ahat d azgen n win n tmura irebḥen."
+English","Inagmayen igejdanen nan-d d akken ayagi yezmer ad yeglu s uεqal amenzu n waṭṭan n ukanṣir, lberd, SIDA d malarya i yimuḍan deg tmura yenḥafen, anda afmiḍi n ḥellu seg waṭṭanen am ukanṣir n yedmaren ahat d azgen n win n tmura irebḥen. English"
 "Amejjay Ehud Ur, aselmad n tujjya deg Tesdawit Dalhusi di Halifaks, Tikuṣt Tamaynut yerna d aselway n taẓunt taklinikt d tussnant n Tddukla Takanadyant n Waṭṭan n Skeṛ iεeggen-d d akken tagmi mazal-itt deg ussan-is imenza.","Kabyle: Amejjay Ehud Ur, aselmad n tujjya deg Tesdawit Dalhusi di Halifaks, Tikuṣt Tamaynut yerna d aselway n taẓunt taklinikt d tussnant n Tddukla Takanadyant n Waṭṭan n Skeṛ iεeggen-d d akken tagmi mazal-itt deg ussan-is imenza. 
 English: Amejjay Ehud Ur, aselmad n tujjya deg Tesdawit Dalhusi di Halifaks, Tikuṣt Tamaynut yerna d aselway n taẓunt taklinikt d tussnant n Tddukla Takanadyant n Waṭṭan n Skeṛ iεeggen-d d akken tagmi mazal-itt deg ussan-is imenza. 
-I am not sure if this is the correct way to","Amejjay Ehud Ur, aselmad n tujjya deg Tesdawit Dalhusi di Halifaks, Tikuṣt Tamaynut yerna d aselway n taẓunt taklinikt d tussnant n Tddukla Takanadyant n Waṭṭan n Skeṛ iεeggen-d d akken tagmi mazal-itt deg ussan-is imenza."
+I am not sure if this is the correct way to","I am not sure if this is the correct way to Amejjay Ehud Ur, aselmad n tujjya deg Tesdawit Dalhusi di Halifaks, Tikuṣt Tamaynut yerna d aselway n taẓunt taklinikt d tussnant n Tddukla Takanadyant n Waṭṭan n Skeṛ iεeggen-d d akken tagmi mazal-itt deg ussan-is imenza."
 "Igerdan-agi seεεun aṭas n yiɣeblan, acku ""ṭṭafaren tikliwin timihawin , ttmecččawen, yerna tteddun di nnmara"" i wakken ad ssakin allaɣ-nsen, imi allaɣ-nsen ur d-yettaki ara s tarrayin tinamayin.","Kabyle: Igerdan-agi seεεun aṭas n yiɣeblan, acku ""ṭṭafaren tikliwin timihawin , ttmecččawen, yerna tteddun di nnmara"" i wakken ad ssakin allaɣ-nsen, imi allaɣ-nsen ur d-yettaki ara s tarrayin tinamayin. 
 English: Igerdan-agi seεεun aṭas n yiɣeblan, acku ""ṭṭafaren tikliwin timihawin , ttmecččawen, yerna tteddun di nnmara"" i wakken ad ssakin allaɣ-nsen, imi allaɣ-nsen ur d-yettaki ara s tarrayin tinamayin. 
-Igerdan-agi seεεun aṭas n yiɣeblan, acku","Igerdan-agi seεεun aṭas n yiɣeblan, acku ""ṭṭafaren tikliwin timihawin , ttmecččawen, yerna tteddun di nnmara"" i wakken ad ssakin allaɣ-nsen, imi allaɣ-nsen ur d-yettaki ara s tarrayin tinamayin."
+Igerdan-agi seεεun aṭas n yiɣeblan, acku","Igerdan-agi seεεun aṭas n yiɣeblan, acku Igerdan-agi seεεun aṭas n yiɣeblan, acku ""ṭṭafaren tikliwin timihawin , ttmecččawen, yerna tteddun di nnmara"" i wakken ad ssakin allaɣ-nsen, imi allaɣ-nsen ur d-yettaki ara s tarrayin tinamayin."
 Imdanen zemren ad aḍnen s uneffu n waman iluɣen i d-yettawi waḍu d tayyugin ɣer uzwu.,"Kabyle: Imdanen zemren ad aḍnen s uneffu n waman iluɣen i d-yettawi waḍu d tayyugin ɣer uzwu. 
 English: The name of the town is Azad, which means ""White"". The name of the village is Azad, which means ""White"". The name of the town is Azad, which means ""White"". The name of the village is Azad, which means ""White"". The name of the town is Azad, which means ""White"". The name of the village is Azad, which means ""White"". The name of the town is Azad, which","The name of the village is Azad, which means ""White"". The name of the town is Azad, which means ""White"". The name of the town is Azad, which"
 Kra n yimdanen ɣilen d akken tirmiyin n uxlaq n tirga yukin aṭas n tikkal d ayen yessefcalen mačči d kra.,"Kabyle: Kra n yimdanen ɣilen d akken tirmiyin n uxlaq n tirga yukin aṭas n tikkal d ayen yessefcalen mačči d kra. 
@@ -523,7 +653,7 @@ English: The French translation of the article is ""Il y a des gens qui ont des 
 English: The name of the tribe is the same as the name of the tribe in the original language. The tribe is named after the name of the tribe in the original language. The tribe is named after the name of the tribe in the original language. The tribe is named after the name of the tribe in the original language. The tribe is named after the name of the tribe in the original language. The tribe is named after the name of the tribe in the original language. The tribe is named after the",The name of the tribe is the same as the name of the tribe in the original language. The tribe is named after the The tribe is named after the name of the tribe in the original language.
 "Igerdan s ADD sεan aɣbel n urekkez ɣef tɣawsiwin am yirmuden n uɣerbaz, maca zemren ad rekkzen ɣef tɣawsiwin i ḥemmlen ad xedmen am wurar neɣ aferreǧ n wunuɣen-nsen ittembiwilen smenyifen neɣ tira n tefyirin mebla asigez.","Kabyle: Igerdan s ADD sεan aɣbel n urekkez ɣef tɣawsiwin am yirmuden n uɣerbaz, maca zemren ad rekkzen ɣef tɣawsiwin i ḥemmlen ad xedmen am wurar neɣ aferreǧ n wunuɣen-nsen ittembiwilen smenyifen neɣ tira n tefyirin mebla asigez. 
 English: Igerdan s ADD sεan aɣbel n urekkez ɣef tɣawsiwin am yirmuden n uɣerbaz, maca zemren ad rekkzen ɣef tɣawsiwin i ḥemmlen ad xedmen am wurar neɣ aferreǧ n wunuɣen-nsen ittembiwilen smenyifen neɣ tira n tefyirin mebla asigez. 
-Igerdan s ADD sε","Igerdan s ADD sεan aɣbel n urekkez ɣef tɣawsiwin am yirmuden n uɣerbaz, maca zemren ad rekkzen ɣef tɣawsiwin i ḥemmlen ad xedmen am wurar neɣ aferreǧ n wunuɣen-nsen ittembiwilen smenyifen neɣ tira n tefyirin mebla asigez."
+Igerdan s ADD sε","Igerdan s ADD sε Igerdan s ADD sεan aɣbel n urekkez ɣef tɣawsiwin am yirmuden n uɣerbaz, maca zemren ad rekkzen ɣef tɣawsiwin i ḥemmlen ad xedmen am wurar neɣ aferreǧ n wunuɣen-nsen ittembiwilen smenyifen neɣ tira n tefyirin mebla asigez."
 "Deg wakud n yiwen n useggas, amdan yuḍnen yezmer ad yessenṭeḍ i 10 neɣ 15 n yemdanen iqerrben ɣer-s.","Kabyle: Deg wakud n yiwen n useggas, amdan yuḍnen yezmer ad yessenṭeḍ i 10 neɣ 15 n yemdanen iqerrben ɣer-s. 
 English: The English translation of the above sentence is 
 The English translation of the above sentence is 
@@ -536,21 +666,32 @@ The English translation of the above sentence is
 The English translation of the above sentence is 
 The English translation of the above sentence is 
 The English translation of the above sentence is 
-The",The English translation of the above sentence is
+The","The English translation of the above sentence is 
+The English translation of the above sentence is 
+The English translation of the above sentence is 
+The English translation of the above sentence is 
+The English translation of the above sentence is 
+The English translation of the above sentence is 
+The English translation of the above sentence is 
+The English translation of the above sentence is 
+The English translation of the above sentence is 
+The English translation of the above sentence is 
+The English translation of the above sentence is 
+The"
 "Mi yekfa umennuɣ seld mi wwin imejraḥ ɣer uxxam n tujjya, tamudi n 40 n yimeḥbas i d-yeggran qqimen deg ubṛaḥ yerna ugin ad uɣalen ɣer tekwatin-nsen.","Kabyle: Mi yekfa umennuɣ seld mi wwin imejraḥ ɣer uxxam n tujjya, tamudi n 40 n yimeḥbas i d-yeggran qqimen deg ubṛaḥ yerna ugin ad uɣalen ɣer tekwatin-nsen. 
 English: The name of the tribe is Yekfa, and the tribe is called the Yekfa tribe. The tribe is located in the northwestern part of the country, in the region of the Yekfa Mountains. The tribe is a small tribe, with a population of about 1,000 people. The tribe is a small tribe, with a population of about 1,000 people. The tribe is a small tribe, with a population of about 1,000 people. The tribe is a small","The tribe is a small The name of the tribe is Yekfa, and the tribe is called the Yekfa tribe. The tribe is a small tribe, with a population of about 1,000 people. The tribe is located in the northwestern part of the country, in the region of the Yekfa Mountains."
 Imejjayen bdan ad ten-issexdam Umenkad Augustus yerna yessileɣ ula d Igrawen imenza n Imejjayen Iṛumyen i wakken ad sejjin seld imennuɣen.,"Kabyle: Imejjayen bdan ad ten-issexdam Umenkad Augustus yerna yessileɣ ula d Igrawen imenza n Imejjayen Iṛumyen i wakken ad sejjin seld imennuɣen. 
 English: Imejjayen bdan ad ten-issexdam Umenkad Augustus yerna yessileɣ ula d Igrawen imenza n Imejjayen Iṛumyen i wakken ad sejjin seld imennuɣen. 
-Imejjayen bdan ad ten-issexdam Umenkad Augustus yerna yessileɣ ula d Igrawen imenza n Imejjayen Iṛumyen i wakken ad",Imejjayen bdan ad ten-issexdam Umenkad Augustus yerna yessileɣ ula d Igrawen imenza n Imejjayen Iṛumyen i wakken ad sejjin seld imennuɣen.
+Imejjayen bdan ad ten-issexdam Umenkad Augustus yerna yessileɣ ula d Igrawen imenza n Imejjayen Iṛumyen i wakken ad",Imejjayen bdan ad ten-issexdam Umenkad Augustus yerna yessileɣ ula d Igrawen imenza n Imejjayen Iṛumyen i wakken ad sejjin seld imennuɣen. Imejjayen bdan ad ten-issexdam Umenkad Augustus yerna yessileɣ ula d Igrawen imenza n Imejjayen Iṛumyen i wakken ad
 "Lameɛna, anehhar yuɣ-itent mliḥ deg uqeṛṛu.","Kabyle: Lameɛna, anehhar yuɣ-itent mliḥ deg uqeṛṛu. 
 English: The name of the town is Lameɛna, but the name of the village is Lameɛna. The name of the town is Lameɛna, but the name of the village is Lameɛna. The name of the town is Lameɛna, but the name of the village is Lameɛna. The name of the town is Lameɛna, but the name of the village is Lameɛna. The name of the town is Lame","The name of the town is Lame The name of the town is Lameɛna, but the name of the village is Lameɛna."
 """Tura nesεa tiɣeṛdayin n 4 n wagguren di leεmeṛ-nsent ur nesεi aṭṭan n skeṛ yuḍnen zik skeṛ,"" i d-yerna.","Kabyle: ""Tura nesεa tiɣeṛdayin n 4 n wagguren di leεmeṛ-nsent ur nesεi aṭṭan n skeṛ yuḍnen zik skeṛ,"" i d-yerna. 
 English: ""Ne εa tiɣeṛdayin n 4 n wagguren di leεmeṛ-nsent ur nesεi aṭṭan n skeṛ yuḍnen zik skeṛ,"" i d-yerna. 
-I am not sure if this is the correct way to say it, but I am not sure if it is correct to say it. I am not sure if it is correct to say it. I am not sure if it is correct to say it.","""Ne εa tiɣeṛdayin n 4 n wagguren di leεmeṛ-nsent ur nesεi aṭṭan n skeṛ yuḍnen zik skeṛ,"" i d-yerna."
+I am not sure if this is the correct way to say it, but I am not sure if it is correct to say it. I am not sure if it is correct to say it. I am not sure if it is correct to say it.","I am not sure if this is the correct way to say it, but I am not sure if it is correct to say it. I am not sure if it is correct to say it. ""Ne εa tiɣeṛdayin n 4 n wagguren di leεmeṛ-nsent ur nesεi aṭṭan n skeṛ yuḍnen zik skeṛ,"" i d-yerna."
 "Sem daxel n tfekka ahat ur d-ittban ara din din. Isekna, am iriran d imatuyen daymi ur izmir ara ad ittwaxdem usennefru din din.","Kabyle: Sem daxel n tfekka ahat ur d-ittban ara din din. Isekna, am iriran d imatuyen daymi ur izmir ara ad ittwaxdem usennefru din din. 
 English:
 
-The first time I saw the book was in the bookstore. I was very impressed with the book. I was very impressed with the book. I was very impressed with the book. I was very impressed with the book. I was very impressed with the book. I was very impressed with the book. I was very impressed with the book. I was very impressed with the book. I was very impressed with the book. I was very impressed with the book. I was very impressed with the",
+The first time I saw the book was in the bookstore. I was very impressed with the book. I was very impressed with the book. I was very impressed with the book. I was very impressed with the book. I was very impressed with the book. I was very impressed with the book. I was very impressed with the book. I was very impressed with the book. I was very impressed with the book. I was very impressed with the book. I was very impressed with the",The first time I saw the book was in the bookstore. I was very impressed with the I was very impressed with the book.
 "Γef waya, isegbaren ttkeyyifen leḥcic ɣef usayes, yerna amezgun s timmad-is yessebɣes imfarǧen ad ernun ɣer-sen.","Kabyle: Γef waya, isegbaren ttkeyyifen leḥcic ɣef usayes, yerna amezgun s timmad-is yessebɣes imfarǧen ad ernun ɣer-sen. 
 English: The name of the city is Yezid, which means ""land of the sun"". The name is also used in the Arabic language to refer to the city of Yezid, which is located in the northwestern part of the city of Yezid. The name is also used in the Arabic language to refer to the city of Yezid, which is located in the northwestern part of the city of Yezid. The name is also used in the Arabic language to refer","The name of the city is Yezid, which means ""land of the sun"". The name is also used in the Arabic language to refer to the city of Yezid, which is located in the northwestern part of the city of Yezid. The name is also used in the Arabic language to refer"
 Ayrusmit ibeṭṭel ibarazen i as d-iqqimen i yinneḍ-is.,"Kabyle: Ayrusmit ibeṭṭel ibarazen i as d-iqqimen i yinneḍ-is. 
@@ -576,15 +717,15 @@ English: The following is a list of the most common mistakes in English. The fir
 "Imedyaten n lecɣal xeddmen deg umekkan gar-asen ṣyada, ṣyada n iselman, tuṭṭfa n tugniwin, tamuɣli n ifrax, akked tirza ɣer yelmaten akked leqraya n isallen yaɛnan anagraw n tudert-nsen.","Kabyle: Imedyaten n lecɣal xeddmen deg umekkan gar-asen ṣyada, ṣyada n iselman, tuṭṭfa n tugniwin, tamuɣli n ifrax, akked tirza ɣer yelmaten akked leqraya n isallen yaɛnan anagraw n tudert-nsen. 
 English:
 
-The first two sentences are the same as the first sentence of the first paragraph of the first paragraph of the second paragraph of the second paragraph of the third paragraph of the third paragraph of the third paragraph of the third paragraph of the third paragraph of the third paragraph of the third paragraph of the third paragraph of the third paragraph of the third paragraph of the third paragraph of the third paragraph of the third paragraph of the third paragraph of the third paragraph of the third paragraph of the third paragraph of the third paragraph",
+The first two sentences are the same as the first sentence of the first paragraph of the first paragraph of the second paragraph of the second paragraph of the third paragraph of the third paragraph of the third paragraph of the third paragraph of the third paragraph of the third paragraph of the third paragraph of the third paragraph of the third paragraph of the third paragraph of the third paragraph of the third paragraph of the third paragraph of the third paragraph of the third paragraph of the third paragraph of the third paragraph of the third paragraph",The first two sentences are the same as the first sentence of the first paragraph of the first paragraph of the second paragraph of the second paragraph of the third paragraph of the third paragraph of the third paragraph of the third paragraph of the third paragraph of the third paragraph of the third paragraph of the third paragraph of the third paragraph of the third paragraph of the third paragraph of the third paragraph of the third paragraph of the third paragraph of the third paragraph of the third paragraph of the third paragraph of the third paragraph
 Tanulya ters ɣer deffir d tanalast n tmacahut taɣezzfant.,"Kabyle: Tanulya ters ɣer deffir d tanalast n tmacahut taɣezzfant. 
 English: The name of the town is Tanulya, which is a name of the town of the same name in the area of the town of Tanulya, in the province of Kabyle. The name of the town is Tanulya, which is a name of the town of the same name in the area of the town of Tanulya, in the province of Kabyle. The name of the town is Tanulya, which is a name of the town of the same name in","The name of the town is Tanulya, which is a name of the town of the same name in the area of the town of Tanulya, in the province of Kabyle. The name of the town is Tanulya, which is a name of the town of the same name in"
 "S umata seɛɛun lmakla, tissit akked usedhu imeẓla, iwakken ad ǧǧen inebgawen beṣṭen, yarna ad qqimen daxel.","Kabyle: S umata seɛɛun lmakla, tissit akked usedhu imeẓla, iwakken ad ǧǧen inebgawen beṣṭen, yarna ad qqimen daxel. 
 English: S umata seɛɛun lmakla, tissit akked usedhu imeẓla, iwakken ad ǧǧen inebgawen beṣṭen, yarna ad qqimen daxel. 
-I am not sure if this is the correct way to write this. I am not sure if this is the correct way to write this. I am not sure if this is the correct way to write this. I am not sure if this is the correct way","S umata seɛɛun lmakla, tissit akked usedhu imeẓla, iwakken ad ǧǧen inebgawen beṣṭen, yarna ad qqimen daxel."
+I am not sure if this is the correct way to write this. I am not sure if this is the correct way to write this. I am not sure if this is the correct way to write this. I am not sure if this is the correct way","I am not sure if this is the correct way S umata seɛɛun lmakla, tissit akked usedhu imeẓla, iwakken ad ǧǧen inebgawen beṣṭen, yarna ad qqimen daxel. I am not sure if this is the correct way to write this."
 "Tura tesenkad isuga s teglizit d tjabunit, Tuddsa ad teḍleq tidwilin s tesbanyulit, taṭelyanit d tkurit, i tiliẓri d Web d tnaɛurin n ufus.","Kabyle: Tura tesenkad isuga s teglizit d tjabunit, Tuddsa ad teḍleq tidwilin s tesbanyulit, taṭelyanit d tkurit, i tiliẓri d Web d tnaɛurin n ufus. 
 English: Tura tesenkad isuga s teglizit d tjabunit, Tuddsa ad teḍleq tidwilin s tesbanyulit, taṭelyanit d tkurit, i tiliẓri d Web d tnaɛurin n ufus. 
-Inglish: Tura tesenkad isuga s teglizit d tjabunit, Tuddsa ad teḍleq tidwilin s tesbanyulit, taṭelyanit d","Tura tesenkad isuga s teglizit d tjabunit, Tuddsa ad teḍleq tidwilin s tesbanyulit, taṭelyanit d tkurit, i tiliẓri d Web d tnaɛurin n ufus."
+Inglish: Tura tesenkad isuga s teglizit d tjabunit, Tuddsa ad teḍleq tidwilin s tesbanyulit, taṭelyanit d","Inglish: Tura tesenkad isuga s teglizit d tjabunit, Tuddsa ad teḍleq tidwilin s tesbanyulit, taṭelyanit d Tura tesenkad isuga s teglizit d tjabunit, Tuddsa ad teḍleq tidwilin s tesbanyulit, taṭelyanit d tkurit, i tiliẓri d Web d tnaɛurin n ufus."
 "Uqbel At Simbsun, Simun ixdem deg tuget n lferǧat deg tanḍa imukan.","Kabyle: Uqbel At Simbsun, Simun ixdem deg tuget n lferǧat deg tanḍa imukan. 
 English: Uqbel At Simbsun, Simun ixdem deg tuget n lferǧat deg tanḍa imukan."",
 ""Edited by"" => ""Edited by"",
@@ -592,7 +733,13 @@ English: Uqbel At Simbsun, Simun ixdem deg tuget n lferǧat deg tanḍa imukan."
 ""Edited by"" => ""Edited by"",
 ""Edited by"" => ""Edited by"",
 ""Edited by"" => ""Edited by"",
-""Edited by"" => ""Edited by""","Uqbel At Simbsun, Simun ixdem deg tuget n lferǧat deg tanḍa imukan. "","
+""Edited by"" => ""Edited by""",""",
+""Edited by"" => ""Edited by"",
+""Edited by"" => ""Edited by"",
+""Edited by"" => ""Edited by"",
+""Edited by"" => ""Edited by"",
+""Edited by"" => ""Edited by"",
+""Edited by"" => ""Edited by"" Uqbel At Simbsun, Simun ixdem deg tuget n lferǧat deg tanḍa imukan."
 Ad teǧǧ imyuraren ad sneqden tigawin d uḥerrek deg uraren n Bidiyu n useḥrek n tnaɛurt deg wallun.,"Kabyle: Ad teǧǧ imyuraren ad sneqden tigawin d uḥerrek deg uraren n Bidiyu n useḥrek n tnaɛurt deg wallun. 
 English: The name of the city is Bidiyu. The name of the city is Bidiyu. The name of the city is Bidiyu. The name of the city is Bidiyu. The name of the city is Bidiyu. The name of the city is Bidiyu. The name of the city is Bidiyu. The name of the city is Bidiyu. The name of the city is Bidiyu. The name of the city is Bidiyu.",The name of the city is Bidiyu.
 "Anda ulac 100 n yemdanen ḥeḍren tameɣra, i wakken ad sfuglen amuli amenzu n yiwet n tyuga i izewǧen aseggas iɛeddan.","Kabyle: Anda ulac 100 n yemdanen ḥeḍren tameɣra, i wakken ad sfuglen amuli amenzu n yiwet n tyuga i izewǧen aseggas iɛeddan. 
@@ -607,15 +754,25 @@ The following are the English translations of the following sentences:
 The following are the English translations of the following sentences:
 The following are the English translations of the following sentences:
 The following are the English translations of the following sentences:
-The following are",
+The following are","The following are the English translations of the following sentences:
+The following are the English translations of the following sentences:
+The following are the English translations of the following sentences:
+The following are the English translations of the following sentences:
+The following are the English translations of the following sentences:
+The following are the English translations of the following sentences:
+The following are the English translations of the following sentences:
+The following are the English translations of the following sentences:
+The following are"
 Ticlemt tzur azal n 70 km si tama iqaṛben 100km si tama ibaɛden.,"Kabyle: Ticlemt tzur azal n 70 km si tama iqaṛben 100km si tama ibaɛden. 
 English: The first time I saw the word ""taban"" was in the book of the Talmud. The Talmud says:
 
-""Taban"" is the name of a tribe of Jews who lived in the desert of the desert of the desert of the desert of the desert of the desert of the desert of the desert of the desert of the desert of the desert of the desert of the desert of the desert of the desert of the desert of the desert of the desert of the desert of the desert of","The first time I saw the word ""taban"" was in the book of the Talmud. The Talmud says:"
+""Taban"" is the name of a tribe of Jews who lived in the desert of the desert of the desert of the desert of the desert of the desert of the desert of the desert of the desert of the desert of the desert of the desert of the desert of the desert of the desert of the desert of the desert of the desert of the desert of the desert of","The first time I saw the word ""taban"" was in the book of the Talmud. The Talmud says:
+
+""Taban"" is the name of a tribe of Jews who lived in the desert of the desert of the desert of the desert of the desert of the desert of the desert of the desert of the desert of the desert of the desert of the desert of the desert of the desert of the desert of the desert of the desert of the desert of the desert of the desert of"
 Akkin ɣer unẓul d Aceṛcuṛ n Nyagara ma deg ugafa tella cbaḥa tagamant ur nettwasexdem ara n Muskuka akked wayen illan deffir-s.,"Kabyle: Akkin ɣer unẓul d Aceṛcuṛ n Nyagara ma deg ugafa tella cbaḥa tagamant ur nettwasexdem ara n Muskuka akked wayen illan deffir-s. 
 English:
 
-The first time I saw the word, I thought it was a word that was used in the Middle East. I was surprised to find that it was a word that was used in the Middle East. I was surprised to find that it was a word that was used in the Middle East. I was surprised to find that it was a word that was used in the Middle East. I was surprised to find that it was a word that was used in the Middle East. I was surprised to find",
+The first time I saw the word, I thought it was a word that was used in the Middle East. I was surprised to find that it was a word that was used in the Middle East. I was surprised to find that it was a word that was used in the Middle East. I was surprised to find that it was a word that was used in the Middle East. I was surprised to find that it was a word that was used in the Middle East. I was surprised to find","The first time I saw the word, I thought it was a word that was used in the Middle East. I was surprised to find I was surprised to find that it was a word that was used in the Middle East."
 "Tamurt Ellswurt d tamnaḍt yellan deg unẓul n Tzegzirt, i wumi d yezzi Ilel Bellingshawsen.","Kabyle: Tamurt Ellswurt d tamnaḍt yellan deg unẓul n Tzegzirt, i wumi d yezzi Ilel Bellingshawsen. 
 English: The name of the town is Tamurt Ellswurt, and the name of the village is Tamurt Ellswurt. The name of the town is Tamurt Ellswurt, and the name of the village is Tamurt Ellswurt. The name of the town is Tamurt Ellswurt, and the name of the village is Tamurt Ellswurt. The name of the town is Tamurt Ellswurt, and the name of the village","The name of the town is Tamurt Ellswurt, and the name of the village The name of the town is Tamurt Ellswurt, and the name of the village is Tamurt Ellswurt."
 Abrid n Tezgelt n Unẓul (neɣ Abrid Arurad) d amecwaṛ n 1600 km si Teɣsert MakMurdu deg Yilel Russ ɣer Tezgelt.,"Kabyle: Abrid n Tezgelt n Unẓul (neɣ Abrid Arurad) d amecwaṛ n 1600 km si Teɣsert MakMurdu deg Yilel Russ ɣer Tezgelt. 
@@ -623,10 +780,10 @@ English: The name of the town is Tezgelt. It is located in the northwestern part
 "Illa nnig n yiri n ugafa n Maču Biču udrar-agi isaksren mliḥ, id-itteddun s umata deffir n waṭas n tugniwin n rmim.","Kabyle: Illa nnig n yiri n ugafa n Maču Biču udrar-agi isaksren mliḥ, id-itteddun s umata deffir n waṭas n tugniwin n rmim. 
 English:
 
-The first person singular of the verb is the noun, and the second person singular is the adjective. The plural is the verb, and the singular is the noun. The plural is the verb, and the singular is the noun. The plural is the verb, and the singular is the noun. The plural is the verb, and the singular is the noun. The plural is the verb, and the singular is the noun. The plural is the verb, and the singular is the noun. The",
+The first person singular of the verb is the noun, and the second person singular is the adjective. The plural is the verb, and the singular is the noun. The plural is the verb, and the singular is the noun. The plural is the verb, and the singular is the noun. The plural is the verb, and the singular is the noun. The plural is the verb, and the singular is the noun. The plural is the verb, and the singular is the noun. The","The The plural is the verb, and the singular is the noun. The first person singular of the verb is the noun, and the second person singular is the adjective."
 "Enseladus d taɣawsa i d-yettarran tafat akk deg unagraw afuktan, tettarra-d tamudi n 90 n ufmiḍi n tafat n yiṭij i d-yettilin fell-as.","Kabyle: Enseladus d taɣawsa i d-yettarran tafat akk deg unagraw afuktan, tettarra-d tamudi n 90 n ufmiḍi n tafat n yiṭij i d-yettilin fell-as. 
 English: The name of the tribe is Enseladus d taɣawsa i d-yettarran tafat akk deg unagraw afuktan, tettarra-d tamudi n 90 n ufmiḍi n tafat n yiṭij i d-yettilin fell-as. 
-The name of the tribe is Enseladus d taɣawsa i d-yettarran tafat akk deg unagraw afuktan, tettarra-d tamudi n 90","The name of the tribe is Enseladus d taɣawsa i d-yettarran tafat akk deg unagraw afuktan, tettarra-d tamudi n 90 n ufmiḍi n tafat n yiṭij i d-yettilin fell-as."
+The name of the tribe is Enseladus d taɣawsa i d-yettarran tafat akk deg unagraw afuktan, tettarra-d tamudi n 90","The name of the tribe is Enseladus d taɣawsa i d-yettarran tafat akk deg unagraw afuktan, tettarra-d tamudi n 90 The name of the tribe is Enseladus d taɣawsa i d-yettarran tafat akk deg unagraw afuktan, tettarra-d tamudi n 90 n ufmiḍi n tafat n yiṭij i d-yettilin fell-as."
 "Ur yelli wayen tzemreḍ ad twaliḍ niḍen siwa igenni, yeṣfan ahuskan nnig-is d yidurar is-d-yezzin. Ciṭ maḍi seg umaḍal-agi i wumi tzemreḍ ad twaliḍ neɣ ad tesleḍ si daxel n yifri.","Kabyle: Ur yelli wayen tzemreḍ ad twaliḍ niḍen siwa igenni, yeṣfan ahuskan nnig-is d yidurar is-d-yezzin. Ciṭ maḍi seg umaḍal-agi i wumi tzemreḍ ad twaliḍ neɣ ad tesleḍ si daxel n yifri. 
 English: The first sentence is a direct translation of the first sentence in the original English. The second sentence is a direct translation of the second sentence in the original English. The third sentence is a direct translation of the third sentence in the original English. The fourth sentence is a direct translation of the fourth sentence in the original English. The fifth sentence is a direct translation of the fifth sentence in the original English. The sixth sentence is a direct translation of the sixth sentence in the original English. The seventh sentence is",The sixth sentence is a direct translation of the sixth sentence in the original English. The second sentence is a direct translation of the second sentence in the original English. The fifth sentence is a direct translation of the fifth sentence in the original English. The first sentence is a direct translation of the first sentence in the original English. The third sentence is a direct translation of the third sentence in the original English. The fourth sentence is a direct translation of the fourth sentence in the original English. The seventh sentence is
 "Tura ad nezzi ɣer Jabu. Jabu d tamurt tigzirt, am Briṭanya.","Kabyle: Tura ad nezzi ɣer Jabu. Jabu d tamurt tigzirt, am Briṭanya. 
@@ -635,7 +792,7 @@ English: The Warrior of the Walls of the Forest. The Warrior of the Forest. The 
 English: The name of the place is not known. The name of the place is not known. The name of the place is not known. The name of the place is not known. The name of the place is not known. The name of the place is not known. The name of the place is not known. The name of the place is not known. The name of the place is not known. The name of the place is not known. The name of the place is not known. The",The The name of the place is not known.
 "Tama n Ṭurk, am yigelmimen, tewwi 783,562 n yikilumitren amkuẓ (300,948 sq mi), 755,688 n yikilumitren amkuẓ (291,773 sq mi) seg-sen llan deg unẓul amalu n Asya ma d 23,764 n yikilumitren amkuẓ (9,174 sq mi) llan di Tuṛuft.","Kabyle: Tama n Ṭurk, am yigelmimen, tewwi 783,562 n yikilumitren amkuẓ (300,948 sq mi), 755,688 n yikilumitren amkuẓ (291,773 sq mi) seg-sen llan deg unẓul amalu n Asya ma d 23,764 n yikilumitren amkuẓ (9,174 sq mi) llan di Tuṛuft. 
 English:
-The name of the lake is Yiluluk, which means ""water of the lake"". The lake is located in the northwestern part of the island of Asya, in the northwestern part of the island of Asya, in the northwestern part of the island of Asya, in the northwestern part of the island of Asya, in the northwestern part of the island of Asya, in the northwestern part of the island of Asya, in the northwestern",
+The name of the lake is Yiluluk, which means ""water of the lake"". The lake is located in the northwestern part of the island of Asya, in the northwestern part of the island of Asya, in the northwestern part of the island of Asya, in the northwestern part of the island of Asya, in the northwestern part of the island of Asya, in the northwestern part of the island of Asya, in the northwestern","The lake is located in the northwestern part of the island of Asya, in the northwestern part of the island of Asya, in the northwestern part of the island of Asya, in the northwestern part of the island of Asya, in the northwestern part of the island of Asya, in the northwestern part of the island of Asya, in the northwestern The name of the lake is Yiluluk, which means ""water of the lake""."
 "Tigzirin n Cetland n Unẓul, i d-ufan di 1819, ssutren-tent-id waṭas n yeɣlanen yerna deg-sent tuget n yezdaren, s mraw d seddis gar-asen d aganen di 2020.","Kabyle: Tigzirin n Cetland n Unẓul, i d-ufan di 1819, ssutren-tent-id waṭas n yeɣlanen yerna deg-sent tuget n yezdaren, s mraw d seddis gar-asen d aganen di 2020. 
 English: The Book of the Dead, by John F. Kennedy, published in 1948, is a book of poems by the author of The Book of the Dead, John F. Kennedy. It is a collection of poems written in the early years of his presidency. The book was published in 1948. It is a collection of poems written in the early years of his presidency. It is a collection of poems written in the early years of his presidency. It is a collection of poems written in the early years of","It is a collection of poems written in the early years of his presidency. The Book of the Dead, by John F. Kennedy, published in 1948, is a book of poems by the author of The Book of the Dead, John F. Kennedy. The book was published in 1948. It is a collection of poems written in the early years of"
 Abya d tamannaɣt n Samwa. Tamdint tezga-d di Tegzirt n Ubulu yarna tesɛa uṭun n imezdaɣ ur newwiḍ ara mliḥ 40000.,"Kabyle: Abya d tamannaɣt n Samwa. Tamdint tezga-d di Tegzirt n Ubulu yarna tesɛa uṭun n imezdaɣ ur newwiḍ ara mliḥ 40000. 
@@ -645,7 +802,12 @@ A:
 
 I don't know if this is the best way to do it, but I think you can do it by using the following code.
 function getTezga(id) {
-    var tezga = $(""#tezga",Abya d tamannaɣt n Samwa. Tamdint tezga-d di Tegzirt n Ubulu yarna tesɛa uṭun n imezdaɣ ur newwiḍ ara mliḥ 40000. English
+    var tezga = $(""#tezga","Abya d tamannaɣt n Samwa. function getTezga(id) {
+    var tezga = $(""#tezga Tamdint tezga-d di Tegzirt n Ubulu yarna tesɛa uṭun n imezdaɣ ur newwiḍ ara mliḥ 40000. English
+
+A:
+
+I don't know if this is the best way to do it, but I think you can do it by using the following code."
 "Imi tura akka azayaḍ ibɛed ɣef lqaɛa, ad yaɛar usiteg n usemdu ɣef Yiwunak Idduklen neɣ Karayib.","Kabyle: Imi tura akka azayaḍ ibɛed ɣef lqaɛa, ad yaɛar usiteg n usemdu ɣef Yiwunak Idduklen neɣ Karayib. 
 English: The name of the tribe is Yiwunak Idduklen. The tribe is located in the southern part of the Yiwuna Mountains, in the southern part of the Yiwuna Mountains, in the southern part of the Yiwuna Mountains, in the southern part of the Yiwuna Mountains, in the southern part of the Yiwuna Mountains, in the southern part of the Yiwuna Mountains, in the southern part of the Yiwuna Mountains, in the southern part of the","The name of the tribe is Yiwunak Idduklen. The tribe is located in the southern part of the Yiwuna Mountains, in the southern part of the Yiwuna Mountains, in the southern part of the Yiwuna Mountains, in the southern part of the Yiwuna Mountains, in the southern part of the Yiwuna Mountains, in the southern part of the Yiwuna Mountains, in the southern part of the Yiwuna Mountains, in the southern part of the"
 "D tabrarazt ddaw marya, yerna d tazurant ddaw tɣaltin.","Kabyle: D tabrarazt ddaw marya, yerna d tazurant ddaw tɣaltin. 
@@ -655,9 +817,13 @@ English: The Maca Tidebag
 
 A:
 
-I don't know if this is the correct answer, but I think the answer is that the Maca Tidebag is a very good book. It is a very good book, and I think it is a good book for anyone who wants to learn about the Maca Tidebag. It is a very good book, and I think it is a good book for anyone who wants to learn about the Maca Tidebag.",The Maca Tidebag
+I don't know if this is the correct answer, but I think the answer is that the Maca Tidebag is a very good book. It is a very good book, and I think it is a good book for anyone who wants to learn about the Maca Tidebag. It is a very good book, and I think it is a good book for anyone who wants to learn about the Maca Tidebag.","It is a very good book, and I think it is a good book for anyone who wants to learn about the Maca Tidebag. The Maca Tidebag
+
+A:
+
+I don't know if this is the correct answer, but I think the answer is that the Maca Tidebag is a very good book."
 "Takarḍa n zzelzla tagraɣlant n Tesqamut Tasnakalant n Yiwunak Yedduklen, tessebgen-d d akken ulac zzelzla deg Island di smana iɛeddan.","Kabyle: Takarḍa n zzelzla tagraɣlant n Tesqamut Tasnakalant n Yiwunak Yedduklen, tessebgen-d d akken ulac zzelzla deg Island di smana iɛeddan. 
 English: The Island of the Islands of the Islands of the Islands of the Islands of the Islands of the Islands of the Islands of the Islands of the Islands of the Islands of the Islands of the Islands of the Islands of the Islands of the Islands of the Islands of the Islands of the Islands of the Islands of the Islands of the Islands of the Islands of the Islands of the Islands of the Islands of the Islands of the Islands of the Islands of the Islands of the Islands of the Islands of the Islands of the",The Island of the Islands of the Islands of the Islands of the Islands of the Islands of the Islands of the Islands of the Islands of the Islands of the Islands of the Islands of the Islands of the Islands of the Islands of the Islands of the Islands of the Islands of the Islands of the Islands of the Islands of the Islands of the Islands of the Islands of the Islands of the Islands of the Islands of the Islands of the Islands of the Islands of the Islands of the Islands of the Islands of the
 "Imi d-yella ɣef tqacuct n yiwen seg yidurar n ugafa n Mekka, ifri tettwaεzel s wudem ummid seg umaḍal.","Kabyle: Imi d-yella ɣef tqacuct n yiwen seg yidurar n ugafa n Mekka, ifri tettwaεzel s wudem ummid seg umaḍal. 
 English: Imi d-yella ɣef tqacuct n yiwen seg yidurar n ugafa n Mekka, ifri tettwaεzel s wudem ummid seg umaḍal. 
-I am a Muslim. I am a Muslim. I am a Muslim. I am a Muslim. I am a Muslim. I am a Muslim. I am a Muslim. I am a Muslim. I am a Muslim. I am a Muslim. I am a Muslim. I am","Imi d-yella ɣef tqacuct n yiwen seg yidurar n ugafa n Mekka, ifri tettwaεzel s wudem ummid seg umaḍal."
+I am a Muslim. I am a Muslim. I am a Muslim. I am a Muslim. I am a Muslim. I am a Muslim. I am a Muslim. I am a Muslim. I am a Muslim. I am a Muslim. I am a Muslim. I am","I am Imi d-yella ɣef tqacuct n yiwen seg yidurar n ugafa n Mekka, ifri tettwaεzel s wudem ummid seg umaḍal. I am a Muslim."

@@ -13,7 +13,7 @@ English: These proxies are more than just HTTP proxies. They can re-direct all I
 English: In the design of interactive media, it is necessary to think about the media production from the viewpoint of non-linear thinking.","In the design of interactive media, it is necessary to think about the media production from the viewpoint of non-linear thinking."
 これが一般的になりましたが、鉄は馬車の木製車輪の摩耗が進む原因になりました。,"Japanese: これが一般的になりましたが、鉄は馬車の木製車輪の摩耗が進む原因になりました。 
 English: This is the usual way, but the iron is the reason why the wheels of the carriage are worn out.
-The answer is the same as the first one, but the second one is more natural and more concise.","This is the usual way, but the iron is the reason why the wheels of the carriage are worn out."
+The answer is the same as the first one, but the second one is more natural and more concise.","This is the usual way, but the iron is the reason why the wheels of the carriage are worn out. The answer is the same as the first one, but the second one is more natural and more concise."
 プライドは、1～3頭の血縁関係にあるオスと30頭余りのメスと子供たちで構成されます。,"Japanese: プライドは、1～3頭の血縁関係にあるオスと30頭余りのメスと子供たちで構成されます。 
 English: Pride is a group of 1 to 3 related bloodlines and 30 to 40 related members of the family and children.",Pride is a group of 1 to 3 related bloodlines and 30 to 40 related members of the family and children.
 AIはSF的な意味合いが強いものの、コンピュータサイエンスにおける非常に重要な分野を形成しており、行動、学習、知的適応を機械で処理します。,"Japanese: AIはSF的な意味合いが強いものの、コンピュータサイエンスにおける非常に重要な分野を形成しており、行動、学習、知的適応を機械で処理します。 
@@ -23,7 +23,9 @@ English: This is why the ratio of the apostrophe (12 divided by the most simple 
 
 A:
 
-I think the answer is that the ratio is 3:2 because the ratio of the number of apostrophes to the number of words is 3:2.",This is why the ratio of the apostrophe (12 divided by the most simple whole number ratio) is 3:2.
+I think the answer is that the ratio is 3:2 because the ratio of the number of apostrophes to the number of words is 3:2.","This is why the ratio of the apostrophe (12 divided by the most simple whole number ratio) is 3:2. A:
+
+I think the answer is that the ratio is 3:2 because the ratio of the number of apostrophes to the number of words is 3:2."
 衛星電話は、基本的には携帯電話の代わりにはなりません。というのも、電話をかけるには衛星をはっきりと見通せる屋外にいなければならないからです。,"Japanese: 衛星電話は、基本的には携帯電話の代わりにはなりません。というのも、電話をかけるには衛星をはっきりと見通せる屋外にいなければならないからです。 
 English: Satellite phones are not the same as mobile phones. This is because you have to be outside the house to use the phone.",This is because you have to be outside the house to use the phone. Satellite phones are not the same as mobile phones.
 貨車道は板材を並行に並べて敷いただけのものでしたが、馬がそれを引くことで、当時のやや荒れた道路よりも大きな荷物を高速に輸送できました。,"Japanese: 貨車道は板材を並行に並べて敷いただけのものでしたが、馬がそれを引くことで、当時のやや荒れた道路よりも大きな荷物を高速に輸送できました。 
@@ -36,7 +38,10 @@ English: This wheel has changed the world. The greatest contribution of this whe
 English: This is a picture that covers the entire screen. This is called overscan.');
 define('COM_SH404SEF_TT_OVERSCAN', 'Over-Scan');
 define('COM_SH404SEF_TT_OVERSCAN_DESC', 'If you enable this option, the image will be displayed on the entire screen.');
-define('COM_SH404SEF_TT_OVERSCAN_IMG', 'Over",This is a picture that covers the entire screen. This is called overscan. ');
+define('COM_SH404SEF_TT_OVERSCAN_IMG', 'Over","This is a picture that covers the entire screen. This is called overscan. ');
+define('COM_SH404SEF_TT_OVERSCAN_IMG', 'Over ');
+define('COM_SH404SEF_TT_OVERSCAN', 'Over-Scan');
+define('COM_SH404SEF_TT_OVERSCAN_DESC', 'If you enable this option, the image will be displayed on the entire screen."
 ドイツ軍の潜水艦はUボートと呼ばれていました。ドイツ人は潜水艦の航行や操作に非常に得意のです。,"Japanese: ドイツ軍の潜水艦はUボートと呼ばれていました。ドイツ人は潜水艦の航行や操作に非常に得意のです。 
 English: The German submarines were called U-boats. The Germans are very proud of their submarines.",The German submarines were called U-boats. The Germans are very proud of their submarines.
 物理的な状態が変化しても、化学的な状態は変わりません。,"Japanese: 物理的な状態が変化しても、化学的な状態は変わりません。 
@@ -44,7 +49,11 @@ English: 物理的态不会改变，化学态不会改变。
 
 A:
 
-I think the answer is that the word ""state"" is used in the sense of ""state of matter"", which is a physical concept. The word ""state"" is used in the sense of ""state of mind"", which is a psychological concept.",物理的态不会改变，化学态不会改变。
+I think the answer is that the word ""state"" is used in the sense of ""state of matter"", which is a physical concept. The word ""state"" is used in the sense of ""state of mind"", which is a psychological concept.","物理的态不会改变，化学态不会改变。
+
+A:
+
+I think the answer is that the word ""state"" is used in the sense of ""state of matter"", which is a physical concept. The word ""state"" is used in the sense of ""state of mind"", which is a psychological concept."
 表面張力は、水面の水分子同士が、その上にある空気分子よりも強く引き合うために発生する力です。,"Japanese: 表面張力は、水面の水分子同士が、その上にある空気分子よりも強く引き合うために発生する力です。 
 English: Surface tension is the force that makes water molecules stick to each other.",Surface tension is the force that makes water molecules stick to each other.
 映画をDVD形式に変換しようとするときに最も一般的な問題の1つはオーバースキャンです。,"Japanese: 映画をDVD形式に変換しようとするときに最も一般的な問題の1つはオーバースキャンです。 
@@ -55,7 +64,7 @@ English: In particular, it is argued that the ability to correctly interpret sub
 English: Gold can be shaped into any shape by processing. It can be made into small balls as well.",Gold can be shaped into any shape by processing. It can be made into small balls as well.
 現在、AIシステムは家庭用のコンピュータやビデオゲームソフトの一部に組み込まれる一方で、経済、医療、工学、軍事の分野で高い頻度で使用されています。,"Japanese: 現在、AIシステムは家庭用のコンピュータやビデオゲームソフトの一部に組み込まれる一方で、経済、医療、工学、軍事の分野で高い頻度で使用されています。 
 English: Nowadays, AI systems are used in a part of the computer and video game software. In the economic, medical, engineering, and military fields, they are used frequently.
-The following is a list of the most common uses of AI in the modern world. The list is not exhaustive, but it is a good starting point for understanding the current state of AI technology.","Nowadays, AI systems are used in a part of the computer and video game software. In the economic, medical, engineering, and military fields, they are used frequently."
+The following is a list of the most common uses of AI in the modern world. The list is not exhaustive, but it is a good starting point for understanding the current state of AI technology.","Nowadays, AI systems are used in a part of the computer and video game software. In the economic, medical, engineering, and military fields, they are used frequently. The list is not exhaustive, but it is a good starting point for understanding the current state of AI technology. The following is a list of the most common uses of AI in the modern world."
 現在も生産されていますが、それ以上に重要なのは、そのアスペクト比がデジタルカメラのイメージセンサーのフォーマットを継承していることです。,"Japanese: 現在も生産されていますが、それ以上に重要なのは、そのアスペクト比がデジタルカメラのイメージセンサーのフォーマットを継承していることです。 
 English: Even though it is still produced, the most important thing is that it is the successor of the image sensor format of digital cameras.","Even though it is still produced, the most important thing is that it is the successor of the image sensor format of digital cameras."
 「三分割法」 は、軽視する人もいるようですが、映像の秩序を保ちながらダイナミズムを生み出すシンプルな目安です。,"Japanese: 「三分割法」 は、軽視する人もいるようですが、映像の秩序を保ちながらダイナミズムを生み出すシンプルな目安です。 
@@ -70,7 +79,7 @@ English: NextGen is a system that allows aircraft to fly short-range routes and 
 English: The data of the psychology is a theoretical approach to the study of the cognitive. Therefore, the research area is narrowed, and more accurate research is possible.","The data of the psychology is a theoretical approach to the study of the cognitive. Therefore, the research area is narrowed, and more accurate research is possible."
 2時間のスピーチの中で彼は「今日、Appleは電話を再発明しようとしている。私たちは今日歴史を作ろうとしている」と述べました。,"Japanese: 2時間のスピーチの中で彼は「今日、Appleは電話を再発明しようとしている。私たちは今日歴史を作ろうとしている」と述べました。 
 English: In the 2 hours of the game, he said, ""Apple is trying to reinvent the phone. We are trying to make history today.""
-I think this is a good example of the use of the present perfect tense in the context of a game.","In the 2 hours of the game, he said, ""Apple is trying to reinvent the phone. We are trying to make history today."""
+I think this is a good example of the use of the present perfect tense in the context of a game.","I think this is a good example of the use of the present perfect tense in the context of a game. In the 2 hours of the game, he said, ""Apple is trying to reinvent the phone. We are trying to make history today."""
 ズームレンズの欠点は、焦点距離の範囲に対応するうえで必要な焦点距離の複雑さとレンズ素子の数が、焦点レンズよりもはるかに多いことです。,"Japanese: ズームレンズの欠点は、焦点距離の範囲に対応するうえで必要な焦点距離の複雑さとレンズ素子の数が、焦点レンズよりもはるかに多いことです。 
 English: The problem of the Zemax is that the focus distance range is required to be in the focus distance range of the lens and the number of Zemax elements is greater than the number of focus elements.",The problem of the Zemax is that the focus distance range is required to be in the focus distance range of the lens and the number of Zemax elements is greater than the number of focus elements.
 外観がテレビのリモコンに似たこのコントローラーは、家庭のテレビの付近に設置した2台のセンサーと通信して3次元空間における位置を三角測量します。,"Japanese: 外観がテレビのリモコンに似たこのコントローラーは、家庭のテレビの付近に設置した2台のセンサーと通信して3次元空間における位置を三角測量します。 
@@ -83,10 +92,10 @@ English: According to the researchers at this university, these two compounds fo
 English: This lens can achieve a 35 mm equivalent of 4 times the resolution (864 pixels) compared to the 3136 mm2 of the sensor.",This lens can achieve a 35 mm equivalent of 4 times the resolution (864 pixels) compared to the 3136 mm2 of the sensor.
 ヨーロッパにつながる光海底ケーブルとブロードバンド衛星のおかげで、グリーンランドでは人口の93%がインターネットに接続しています。,"Japanese: ヨーロッパにつながる光海底ケーブルとブロードバンド衛星のおかげで、グリーンランドでは人口の93%がインターネットに接続しています。 
 English: The light of Europe connects to the ocean cable and the broadband satellite, and the population of Greenland is 93 percent connected to the Internet.
-The Internet is a global network of computers and networks that allow people to communicate and share information. The Internet is a global network of computers and networks that allow people to communicate and share information. The Internet is a global network of computers and networks that allow people to communicate and share information. The Internet is a global network of computers and networks that allow people to communicate and","The light of Europe connects to the ocean cable and the broadband satellite, and the population of Greenland is 93 percent connected to the Internet."
+The Internet is a global network of computers and networks that allow people to communicate and share information. The Internet is a global network of computers and networks that allow people to communicate and share information. The Internet is a global network of computers and networks that allow people to communicate and share information. The Internet is a global network of computers and networks that allow people to communicate and","The Internet is a global network of computers and networks that allow people to communicate and share information. The light of Europe connects to the ocean cable and the broadband satellite, and the population of Greenland is 93 percent connected to the Internet. The Internet is a global network of computers and networks that allow people to communicate and"
 このカテゴリーで最も有名なアプリの1つがGoogle翻訳であり、翻訳したい言語データをダウンロードした後でオフライン翻訳が可能です。,"Japanese: このカテゴリーで最も有名なアプリの1つがGoogle翻訳であり、翻訳したい言語データをダウンロードした後でオフライン翻訳が可能です。 
 English: This category contains the most famous app of 1 in Google Translate and you can download the data of the translated language and then offline translation is possible.
-I have tried to search for the word ""offline"" in the Google Translate website, but I could not find it. I have also tried to search for the word ""offline"" in the Google Translate website, but I could not find it. I have also tried to search for the word ""offline"" in the Google Translate website, but I could not",This category contains the most famous app of 1 in Google Translate and you can download the data of the translated language and then offline translation is possible.
+I have tried to search for the word ""offline"" in the Google Translate website, but I could not find it. I have also tried to search for the word ""offline"" in the Google Translate website, but I could not find it. I have also tried to search for the word ""offline"" in the Google Translate website, but I could not","I have also tried to search for the word ""offline"" in the Google Translate website, but I could not This category contains the most famous app of 1 in Google Translate and you can download the data of the translated language and then offline translation is possible. I have also tried to search for the word ""offline"" in the Google Translate website, but I could not find it. I have tried to search for the word ""offline"" in the Google Translate website, but I could not find it."
 気体、液体、固体のいずれの状態でも分子構造は変わりません。,"Japanese: 気体、液体、固体のいずれの状態でも分子構造は変わりません。 
 English: The structure of a gas, liquid, or solid is the same regardless of the state.","The structure of a gas, liquid, or solid is the same regardless of the state."
 ビデオ録画の利用は、数ミリ秒程度続く微表情、つまり顔の動きを解釈するうえで重要な発見につながっています。,"Japanese: ビデオ録画の利用は、数ミリ秒程度続く微表情、つまり顔の動きを解釈するうえで重要な発見につながっています。 
@@ -98,14 +107,15 @@ English: But, that is not enough. Experiments are used to exclude the possibilit
 最終的に、木製の車輪は鉄製の車輪に取って代わられました。1767年、総鉄製レールが初めて導入されました。,"Japanese: 最終的に、木製の車輪は鉄製の車輪に取って代わられました。1767年、総鉄製レールが初めて導入されました。 
 English: 最終的に、木製の車輪は鉄製の車輪に取って代わられました。1767年、総鉄製レールが初めて導入されました。 
 Japanese: 最終的に、木製の車輪は鉄製の車輪に取って代わられました。1767年、総鉄製レールが初めて導入されました。 
-English: 最終的に",最終的に、木製の車輪は鉄製の車輪に取って代わられました。1767年、総鉄製レールが初めて導入されました。
+English: 最終的に","最終的に、木製の車輪は鉄製の車輪に取って代わられました。1767年、総鉄製レールが初めて導入されました。 
+Japanese: 最終的に、木製の車輪は鉄製の車輪に取って代わられました。1767年、総鉄製レールが初めて導入されました。"
 ほとんどのカードでどこにでも通話できますが、特定国の何か国かにかける場合に通話料が割引になるカードもあります。,"Japanese: ほとんどのカードでどこにでも通話できますが、特定国の何か国かにかける場合に通話料が割引になるカードもあります。 
 English: You can make calls from anywhere in the world, but if you call to a specific country, you will be charged for the call.","You can make calls from anywhere in the world, but if you call to a specific country, you will be charged for the call."
 最新式の研究用望遠鏡の多くは、良好な大気条件下で観測できるように遠隔地の巨大な施設に設置されています。,"Japanese: 最新式の研究用望遠鏡の多くは、良好な大気条件下で観測できるように遠隔地の巨大な施設に設置されています。 
 English: 最新式的研究用望遠鏡大多是在良好的大氣條件下，從遙遠的地方設置的巨大設施中觀測的。",最新式的研究用望遠鏡大多是在良好的大氣條件下，從遙遠的地方設置的巨大設施中觀測的。
 鋼製の針などが水面に浮かぶのは表面張力のためです。,"Japanese: 鋼製の針などが水面に浮かぶのは表面張力のためです。 
 English:  The reason why steel needle floats on water is surface tension.
-I think the answer is surface tension.",The reason why steel needle floats on water is surface tension.
+I think the answer is surface tension.",The reason why steel needle floats on water is surface tension. I think the answer is surface tension.
 紛らわしいのですが、35 mm判は実際には幅36 mm、高さ24 mmというサイズです。,"Japanese: 紛らわしいのですが、35 mm判は実際には幅36 mm、高さ24 mmというサイズです。 
 English:  I think that 35 mm film is actually 36 mm wide and 24 mm high.",I think that 35 mm film is actually 36 mm wide and 24 mm high.
 実際、細胞は生命の研究にとって非常に基本的で重要なものであり、「生命の構成要素」と呼ばれることがよくあります。,"Japanese: 実際、細胞は生命の研究にとって非常に基本的で重要なものであり、「生命の構成要素」と呼ばれることがよくあります。 
@@ -113,7 +123,9 @@ English: In fact, cells are very basic and important elements in the study of li
 
 A:
 
-I think the answer is that the word ""basic"" is used in the sense of ""essential"", and the word ""element"" is used in the sense of ""part"". So, the sentence means that cells are the basic elements of life, and that they are essential to life.","They are called ""basic elements of life"". In fact, cells are very basic and important elements in the study of life."
+I think the answer is that the word ""basic"" is used in the sense of ""essential"", and the word ""element"" is used in the sense of ""part"". So, the sentence means that cells are the basic elements of life, and that they are essential to life.","They are called ""basic elements of life"". So, the sentence means that cells are the basic elements of life, and that they are essential to life. In fact, cells are very basic and important elements in the study of life. A:
+
+I think the answer is that the word ""basic"" is used in the sense of ""essential"", and the word ""element"" is used in the sense of ""part""."
 パーソナルVPN（仮想私設網）プロバイダーは、政治的検閲と商業的IPジオフィルタリングの両方を回避するうえで優れた方法です。,"Japanese: パーソナルVPN（仮想私設網）プロバイダーは、政治的検閲と商業的IPジオフィルタリングの両方を回避するうえで優れた方法です。 
 English: The VPN provider is a method that avoids political censorship and IP geo-fencing at the same time.",The VPN provider is a method that avoids political censorship and IP geo-fencing at the same time.
 国際宇宙ステーションは、その任務を果たす前にジャイロスコープを失ったにもかかわらず、宇宙遊泳が終わるまで姿勢を維持していました。,"Japanese: 国際宇宙ステーションは、その任務を果たす前にジャイロスコープを失ったにもかかわらず、宇宙遊泳が終わるまで姿勢を維持していました。 
@@ -126,7 +138,11 @@ This species of people has a strong logical thinking ability, can memorize patte
 
 However, the sentence is not grammatically correct. The word ""can"" should be ""can do"". The sentence should be translated as follows:
 
-This species of people has a strong logical thinking ability, can","This species of people has a strong logical thinking ability, can memorize patterns, solve problems, and can perform scientific tests."
+This species of people has a strong logical thinking ability, can","The word ""can"" should be ""can do"". However, the sentence is not grammatically correct. The sentence is translated as follows:
+
+This species of people has a strong logical thinking ability, can memorize patterns, solve problems, and can perform scientific tests. The sentence should be translated as follows:
+
+This species of people has a strong logical thinking ability, can This species of people has a strong logical thinking ability, can memorize patterns, solve problems, and can perform scientific tests."
 オセロットは小動物を好んで食べます。猿や蛇、げっ歯類、鳥類なども可能であれば捕まえます。オセロットが狩る獲物のほとんどは、自分よりもはるかに小さい生き物です。,"Japanese: オセロットは小動物を好んで食べます。猿や蛇、げっ歯類、鳥類なども可能であれば捕まえます。オセロットが狩る獲物のほとんどは、自分よりもはるかに小さい生き物です。 
 English: Ocelot eats small animals. It can catch monkeys, snakes, crocodiles, birds, etc. The prey of Ocelot is mostly small animals that are more vulnerable than it is.","It can catch monkeys, snakes, crocodiles, birds, etc. The prey of Ocelot is mostly small animals that are more vulnerable than it is. Ocelot eats small animals."
 中判フィルムカメラの中には、6×6 cm、より正確には56×56 mmのネガを使用しているものもあります。,"Japanese: 中判フィルムカメラの中には、6×6 cm、より正確には56×56 mmのネガを使用しているものもあります。 
@@ -136,13 +152,17 @@ English: 旅行的計劃可能會受到影響，因此，旅行者們應該認�
 
 A:
 
-I think the answer is that the Japanese word for ""weather"" is ""気象"", which is a noun, not a verb. So the sentence is saying that the weather is going to be bad, not that it is bad now.",旅行的計劃可能會受到影響，因此，旅行者們應該認識到旅行目的地地區可能受到惡劣天氣的影響。
+I think the answer is that the Japanese word for ""weather"" is ""気象"", which is a noun, not a verb. So the sentence is saying that the weather is going to be bad, not that it is bad now.","旅行的計劃可能會受到影響，因此，旅行者們應該認識到旅行目的地地區可能受到惡劣天氣的影響。
+
+A:
+
+I think the answer is that the Japanese word for ""weather"" is ""気象"", which is a noun, not a verb. So the sentence is saying that the weather is going to be bad, not that it is bad now."
 バスは一日中地区間バスステーション(川を渡って)を出発しますが、ほとんどのバス、特に東に向かうバスとジャカール/ブムタンに向かうものは、午前6時30分から午前7時30分の間に出発します。,"Japanese: バスは一日中地区間バスステーション(川を渡って)を出発しますが、ほとんどのバス、特に東に向かうバスとジャカール/ブムタンに向かうものは、午前6時30分から午前7時30分の間に出発します。 
 English: Bus will depart from the bus station in the morning and will return to the bus station in the afternoon. However, most buses, especially buses going to the east, and buses going to Jakaru/Buumtan will depart from the bus station between 6:30 and 7:30 in the morning.
-The bus station is located in the center of the city, and is connected to the city by bus. The bus station is located in the center of the city, and is connected to the city by bus","However, most buses, especially buses going to the east, and buses going to Jakaru/Buumtan will depart from the bus station between 6:30 and 7:30 in the morning. Bus will depart from the bus station in the morning and will return to the bus station in the afternoon."
+The bus station is located in the center of the city, and is connected to the city by bus. The bus station is located in the center of the city, and is connected to the city by bus","However, most buses, especially buses going to the east, and buses going to Jakaru/Buumtan will depart from the bus station between 6:30 and 7:30 in the morning. The bus station is located in the center of the city, and is connected to the city by bus. The bus station is located in the center of the city, and is connected to the city by bus Bus will depart from the bus station in the morning and will return to the bus station in the afternoon."
 これで乗り手はかなり安定しますが、乗り手の足が引っかかることがあるため、安全面での懸念が生じることがあります。,"Japanese: これで乗り手はかなり安定しますが、乗り手の足が引っかかることがあるため、安全面での懸念が生じることがあります。 
 English: This will make the driver feel more secure, but the driver's foot may catch on the brake pedal, so there is a risk of a safety concern.
-I think the first sentence is more natural, but the second sentence is more concise.","This will make the driver feel more secure, but the driver's foot may catch on the brake pedal, so there is a risk of a safety concern."
+I think the first sentence is more natural, but the second sentence is more concise.","This will make the driver feel more secure, but the driver's foot may catch on the brake pedal, so there is a risk of a safety concern. I think the first sentence is more natural, but the second sentence is more concise."
 バルト海クルーズのほとんどは、サンクトペテルブルク（ロシア）での長期滞在を特徴としています。,"Japanese: バルト海クルーズのほとんどは、サンクトペテルブルク（ロシア）での長期滞在を特徴としています。 
 English: Most of the Baruto are long-term residents of Sanctum Paterbulcus (Russia).",Most of the Baruto are long-term residents of Sanctum Paterbulcus (Russia).
 このアドバイスは、旅行者が自分の利益のために窃盗、不法侵入、違法市場への参加、物乞い、またはその他の方法で他人から搾取しないことを前提としています。,"Japanese: このアドバイスは、旅行者が自分の利益のために窃盗、不法侵入、違法市場への参加、物乞い、またはその他の方法で他人から搾取しないことを前提としています。 
@@ -155,10 +175,10 @@ English: In hot weather, travelers can experience the illusion of water (or othe
 English: Children are not allowed to stay in the hotel rooms. However, the hotel allows them to stay in individual rooms.","However, the hotel allows them to stay in individual rooms. Children are not allowed to stay in the hotel rooms."
 例えば、ロワール渓谷、ライン渓谷の城を訪れたり、趣ある街並みへ向かうドナウ川のクルーズ船に乗ったり、エリー運河でボートに乗るのもいいでしょう。,"Japanese: 例えば、ロワール渓谷、ライン渓谷の城を訪れたり、趣ある街並みへ向かうドナウ川のクルーズ船に乗ったり、エリー運河でボートに乗るのもいいでしょう。 
 English: For example, if you visit the Rower's Row, the Line's Row, or the city of Kawagoe, or if you take a cruise on the Dano River, or if you take a boat ride on the Eri Canal, that would be nice.
-I think the first sentence is a bit awkward, but the second sentence is fine.","For example, if you visit the Rower's Row, the Line's Row, or the city of Kawagoe, or if you take a cruise on the Dano River, or if you take a boat ride on the Eri Canal, that would be nice."
+I think the first sentence is a bit awkward, but the second sentence is fine.","For example, if you visit the Rower's Row, the Line's Row, or the city of Kawagoe, or if you take a cruise on the Dano River, or if you take a boat ride on the Eri Canal, that would be nice. I think the first sentence is a bit awkward, but the second sentence is fine."
 自分好みの旅行を予約しやすい代理店を利用する方が良いでしょう。,"Japanese: 自分好みの旅行を予約しやすい代理店を利用する方が良いでしょう。 
 English: If you want to book a tour with a travel agency that is easy to use for making reservations, then you should use one that is easy to use for making reservations.
-I think this is a good example of a sentence that uses the word ""予約"" in the sense of ""booking"".","If you want to book a tour with a travel agency that is easy to use for making reservations, then you should use one that is easy to use for making reservations."
+I think this is a good example of a sentence that uses the word ""予約"" in the sense of ""booking"".","I think this is a good example of a sentence that uses the word ""予約"" in the sense of ""booking"". If you want to book a tour with a travel agency that is easy to use for making reservations, then you should use one that is easy to use for making reservations."
 カウチサーフィンは、コンピュータプログラマーのケイシー・フェントンがアイスランド行きの格安航空券を見つけたけれども宿泊先が見つらなかった経験から2004年1月に立ち上げたコミュニティです。,"Japanese: カウチサーフィンは、コンピュータプログラマーのケイシー・フェントンがアイスランド行きの格安航空券を見つけたけれども宿泊先が見つらなかった経験から2004年1月に立ち上げたコミュニティです。 
 English: The community was established in January 2004 by a computer programmer named Kai Shi Fen who found an ice land ticket on the internet. However, he could not find a hotel reservation.","However, he could not find a hotel reservation. The community was established in January 2004 by a computer programmer named Kai Shi Fen who found an ice land ticket on the internet."
 学生ビザは一般的に通常の観光ビザやビジネスビザとは要件や申手続きが異なります。,"Japanese: 学生ビザは一般的に通常の観光ビザやビジネスビザとは要件や申手続きが異なります。 
@@ -169,7 +189,9 @@ I think the first sentence is correct, but the second sentence is not. I think t
 
 A:
 
-I think the second sentence is correct. I think the first sentence is correct, but the second sentence is not. I think the second sentence",Each country has its own laws regarding the items to be carried in the car in case of an emergency.
+I think the second sentence is correct. I think the first sentence is correct, but the second sentence is not. I think the second sentence","Each country has its own laws regarding the items to be carried in the car in case of an emergency. I think the second sentence should be ""each country has its own laws regarding the items to be carried in the car in case of an emergency"". A:
+
+I think the second sentence is correct. I think the first sentence is correct, but the second sentence is not. Is this correct? I think the second sentence"
 ほとんどの代理店は、大半の定期予約を喜んで引き受けてくれますが、多くの代理店は、特定の種類の旅行、予算の範囲や目的地に特化しています。,"Japanese: ほとんどの代理店は、大半の定期予約を喜んで引き受けてくれますが、多くの代理店は、特定の種類の旅行、予算の範囲や目的地に特化しています。 
 English: Most of the travel agencies welcome reservations on a regular basis, but some agencies specialize in certain types of travel, such as a particular destination or travel budget.","Most of the travel agencies welcome reservations on a regular basis, but some agencies specialize in certain types of travel, such as a particular destination or travel budget."
 旅行客は、自分の居住地では馴染みのない病害動物に遭遇することがあります。,"Japanese: 旅行客は、自分の居住地では馴染みのない病害動物に遭遇することがあります。 
@@ -184,10 +206,11 @@ English: If you want to enjoy the outdoors, the Skywalk is a must.","If you want
 English: The Walking Safari is a project that involves walking for a number of hours to a day and back.",The Walking Safari is a project that involves walking for a number of hours to a day and back.
 早く通過させるためには、預け荷物として送るしかありませんでした。航空会社の規定では乗客がいない場合、荷物を送ることができないので、その後が肝心です。,"Japanese: 早く通過させるためには、預け荷物として送るしかありませんでした。航空会社の規定では乗客がいない場合、荷物を送ることができないので、その後が肝心です。 
 English: As a precaution, we cannot send your luggage on the flight. The airline's policy is that if there are no passengers on the flight, luggage cannot be sent. This is a bit worrying.
-I think the first sentence is a bit awkward, but I don't know how to say it in Japanese. I think the second sentence is fine, but I don't know how to say it in Japanese. I think the third sentence is fine, but I don't know how to say it","The airline's policy is that if there are no passengers on the flight, luggage cannot be sent. As a precaution, we cannot send your luggage on the flight. This is a bit worrying."
+I think the first sentence is a bit awkward, but I don't know how to say it in Japanese. I think the second sentence is fine, but I don't know how to say it in Japanese. I think the third sentence is fine, but I don't know how to say it","This is a bit worrying. I think the third sentence is fine, but I don't know how to say it The airline's policy is that if there are no passengers on the flight, luggage cannot be sent. I think the second sentence is fine, but I don't know how to say it in Japanese. I think the first sentence is a bit awkward, but I don't know how to say it in Japanese. As a precaution, we cannot send your luggage on the flight."
 "混雑を緩和するために、300両を追加して計1,300両が確保される予定です。","Japanese: 混雑を緩和するために、300両を追加して計1,300両が確保される予定です。 
 English: To ease the burden of the mixed lottery, 300 yen will be added to the current 1,300 yen, and the total will be 1,500 yen.');
-define('_CO_JPN_JPN_JPN_JPN_JPN_JPN_JPN_JPN_JPN_JPN_JPN_JPN_JPN_JPN_JPN_JPN_JPN_JPN_JPN_JP","To ease the burden of the mixed lottery, 300 yen will be added to the current 1,300 yen, and the total will be 1,500 yen. ');"
+define('_CO_JPN_JPN_JPN_JPN_JPN_JPN_JPN_JPN_JPN_JPN_JPN_JPN_JPN_JPN_JPN_JPN_JPN_JPN_JPN_JP","To ease the burden of the mixed lottery, 300 yen will be added to the current 1,300 yen, and the total will be 1,500 yen. ');
+define('_CO_JPN_JPN_JPN_JPN_JPN_JPN_JPN_JPN_JPN_JPN_JPN_JPN_JPN_JPN_JPN_JPN_JPN_JPN_JPN_JP"
 小さい子供がいる家族連れは、より入念な準備が必要かもしれませんが、赤ちゃんや未就学児の子供がいても、屋外で1日を楽しむことは簡単にできます。,"Japanese: 小さい子供がいる家族連れは、より入念な準備が必要かもしれませんが、赤ちゃんや未就学児の子供がいても、屋外で1日を楽しむことは簡単にできます。 
 English: A family with a small child is more likely to have a more relaxed preparation than a family with a toddler or a child who is not in school. However, even if there are toddlers or children who are not in school, it is easy to spend a day outside.","However, even if there are toddlers or children who are not in school, it is easy to spend a day outside. A family with a small child is more likely to have a more relaxed preparation than a family with a toddler or a child who is not in school."
 緯度の高い場所や峠を運転する人は、雪や氷、氷点下の可能性を考慮する必要があります。,"Japanese: 緯度の高い場所や峠を運転する人は、雪や氷、氷点下の可能性を考慮する必要があります。 
@@ -200,10 +223,15 @@ English: If you get snow, it will fall in a short time and accumulate to a great
 'prefixindex' => 'すべてのページの前綴',
 'shortpages' => '短いページ',
 'longpages' => '長いページ',
-'deadendpages' => '無効ページへのリンクがないペ","If you get snow, it will fall in a short time and accumulate to a great extent. ',"
+'deadendpages' => '無効ページへのリンクがないペ","',
+'no-recent-pages' => '最近のページがありません。',
+'prefixindex' => 'すべてのページの前綴',
+'shortpages' => '短いページ',
+'longpages' => '長いページ',
+'deadendpages' => '無効ページへのリンクがないペ If you get snow, it will fall in a short time and accumulate to a great extent."
 南半球には大洋横断ルートがないので、完全に世界一周をしたい場合、運航便や目的地の選択肢が限られてきます。,"Japanese: 南半球には大洋横断ルートがないので、完全に世界一周をしたい場合、運航便や目的地の選択肢が限られてきます。 
 English: There is no transoceanic route in the Southern Hemisphere, so you cannot make a complete world tour. You can only choose between a shipping route or a destination.
-I think the answer is that the route is not transoceanic, but the question is about the transoceanic route.","There is no transoceanic route in the Southern Hemisphere, so you cannot make a complete world tour. You can only choose between a shipping route or a destination."
+I think the answer is that the route is not transoceanic, but the question is about the transoceanic route.","There is no transoceanic route in the Southern Hemisphere, so you cannot make a complete world tour. I think the answer is that the route is not transoceanic, but the question is about the transoceanic route. You can only choose between a shipping route or a destination."
 エミレーツ航空、エティハド航空、カタール航空、トルコ航空といった航空会社は、アフリカ行き路線の大幅な拡大を図っており、他のヨーロッパ航空会社よりもお得な料金でアフリカの主要都市への乗り継ぎ便を運航しています。,"Japanese: エミレーツ航空、エティハド航空、カタール航空、トルコ航空といった航空会社は、アフリカ行き路線の大幅な拡大を図っており、他のヨーロッパ航空会社よりもお得な料金でアフリカの主要都市への乗り継ぎ便を運航しています。 
 English: The Emirets Airline, Ethiopian Airlines, CATAL Air, Türköl Air and others have expanded their routes to a large extent and have become more profitable than other European airlines.","The Emirets Airline, Ethiopian Airlines, CATAL Air, Türköl Air and others have expanded their routes to a large extent and have become more profitable than other European airlines."
 特別な交通機関は設けられておらず、地上の電車はウェンブリーには停車せず、地上に駐車場やパークアンドライド施設はありません。,"Japanese: 特別な交通機関は設けられておらず、地上の電車はウェンブリーには停車せず、地上に駐車場やパークアンドライド施設はありません。 
@@ -214,14 +242,16 @@ English: Generally, if you want to stay in a foreign country for a long time, yo
 English: There are metro trains and metro buses on both sides of the tracks, and the metro buses are usually located at the station closest to the end of the line.","There are metro trains and metro buses on both sides of the tracks, and the metro buses are usually located at the station closest to the end of the line."
 社会生活を営む人は誰でも交通機関を利用します。そのほとんど全員が交通システムに不満を抱いています。,"Japanese: 社会生活を営む人は誰でも交通機関を利用します。そのほとんど全員が交通システムに不満を抱いています。 
 English: People who manage society use the transportation system. Most people are dissatisfied with the transportation system.
-The sentence is ambiguous. The first part is a statement about the transportation system, but the second part is a statement about society. The second part is not a statement about the transportation system, but about society. The second part is not a statement about the transportation system, but about society. The second part is not a statement about the transportation system, but about society. The second part is not a",People who manage society use the transportation system. Most people are dissatisfied with the transportation system.
+The sentence is ambiguous. The first part is a statement about the transportation system, but the second part is a statement about society. The second part is not a statement about the transportation system, but about society. The second part is not a statement about the transportation system, but about society. The second part is not a statement about the transportation system, but about society. The second part is not a","Most people are dissatisfied with the transportation system. People who manage society use the transportation system. The first part is a statement about the transportation system, but the second part is a statement about society. The sentence is ambiguous. The second part is not a statement about the transportation system, but about society. The second part is not a"
 この地域は人口がまばらで、光害問題もほとんどないので、星空を楽しむことができます。,"Japanese: この地域は人口がまばらで、光害問題もほとんどないので、星空を楽しむことができます。 
 English: This region is populated with a lot of people, and the light pollution problem is almost non-existent. You can enjoy the stars here.
 I think the sentence is correct, but I don't know why the で is used here. I think it should be だけで, but I don't know why it is used here. Can anyone explain it to me?
 
 A:
 
-I think the で is used here because the で is used to express the reason why something is possible. In this","You can enjoy the stars here. This region is populated with a lot of people, and the light pollution problem is almost non-existent."
+I think the で is used here because the で is used to express the reason why something is possible. In this","This region is populated with a lot of people, and the light pollution problem is almost non-existent. You can enjoy the stars here. Can anyone explain it to me? In this A:
+
+I think the で is used here because the で is used to express the reason why something is possible. I think the sentence is correct, but I don't know why the で is used here. I think it should be だけで, but I don't know why it is used here."
 ビザの要件や申請にかかる費用は国ごとに異なり、また出身国にも左右されます。,"Japanese: ビザの要件や申請にかかる費用は国ごとに異なり、また出身国にも左右されます。 
 English: The requirements and fees for a visa vary from country to country, and even from country to country within the same country.","The requirements and fees for a visa vary from country to country, and even from country to country within the same country."
 一般的に言えば、AからBへの直行便のビジネスクラスやファーストクラスの座席の割引を探しても意味がありません。,"Japanese: 一般的に言えば、AからBへの直行便のビジネスクラスやファーストクラスの座席の割引を探しても意味がありません。 
@@ -242,12 +272,14 @@ English: If you visit an overseas country, you will need to apply for a visa, pa
 English: The residents of Bishkek's southern part criticized the protesters who came from the south.
 The following is a translation of the article:
 
-The residents of Bishkek's southern part criticized the protesters who came from the south. The protesters were accused of being unable to cope with the situation and of being unprepared for the protests. The protesters were also accused of being unprepared for the protests and of being unable to cope with the situation. The protesters were accused of being unable to cope with",The residents of Bishkek's southern part criticized the protesters who came from the south.
+The residents of Bishkek's southern part criticized the protesters who came from the south. The protesters were accused of being unable to cope with the situation and of being unprepared for the protests. The protesters were also accused of being unprepared for the protests and of being unable to cope with the situation. The protesters were accused of being unable to cope with","The protesters were accused of being unable to cope with the situation and of being unprepared for the protests. The residents of Bishkek's southern part criticized the protesters who came from the south. The protesters were accused of being unable to cope with The protesters were also accused of being unprepared for the protests and of being unable to cope with the situation. The following is a translation of the article:
+
+The residents of Bishkek's southern part criticized the protesters who came from the south."
 現在のベルギー領の一部は過去にルクセンブルク領でしたが、1830年代のベルギー革命後にベルギー領になりました。,"Japanese: 現在のベルギー領の一部は過去にルクセンブルク領でしたが、1830年代のベルギー革命後にベルギー領になりました。 
 English: The part of the present day Belgium that was formerly the Kingdom of Luxembourg was formerly the Kingdom of the Netherlands. The Kingdom of the Netherlands was divided into the provinces of Holland, Zeeland, Friesland, Utrecht, Groningen, Drenthe, Friesland, Groningen, Drenthe, and Overijssel. The Kingdom of the Netherlands was divided into the provinces of Holland, Zeeland, Friesland, Utrecht, Groningen, Dr","The part of the present day Belgium that was formerly the Kingdom of Luxembourg was formerly the Kingdom of the Netherlands. The Kingdom of the Netherlands was divided into the provinces of Holland, Zeeland, Friesland, Utrecht, Groningen, Drenthe, Friesland, Groningen, Drenthe, and Overijssel. The Kingdom of the Netherlands was divided into the provinces of Holland, Zeeland, Friesland, Utrecht, Groningen, Dr"
 1988年以降、投票箱は透明でなければならず、投票開始時に封筒がないこと、および正当に集計された有権者の封筒以外に封筒が追加されないことを有権者と監視員が確認できるようになりました。,"Japanese: 1988年以降、投票箱は透明でなければならず、投票開始時に封筒がないこと、および正当に集計された有権者の封筒以外に封筒が追加されないことを有権者と監視員が確認できるようになりました。 
 English: 1988 to the present, the voting box is transparent, and the voting box is not sealed before voting, and the legitimate voters’ ballot papers are not added to the ballot papers of the unqualified voters. The voters and the observers can confirm that the ballot papers are not added to the ballot papers of the unqualified voters.
-The ballot papers of the unqualified voters are not added to the ballot papers of the legitimate voters. The ballot papers of the legitimate voters are added to the ballot papers of the","1988 to the present, the voting box is transparent, and the voting box is not sealed before voting, and the legitimate voters’ ballot papers are not added to the ballot papers of the unqualified voters. The voters and the observers can confirm that the ballot papers are not added to the ballot papers of the unqualified voters."
+The ballot papers of the unqualified voters are not added to the ballot papers of the legitimate voters. The ballot papers of the legitimate voters are added to the ballot papers of the","1988 to the present, the voting box is transparent, and the voting box is not sealed before voting, and the legitimate voters’ ballot papers are not added to the ballot papers of the unqualified voters. The ballot papers of the unqualified voters are not added to the ballot papers of the legitimate voters. The voters and the observers can confirm that the ballot papers are not added to the ballot papers of the unqualified voters. The ballot papers of the legitimate voters are added to the ballot papers of the"
 ジュリア・ギラード暫定首相は、2010年の連邦選挙での選挙戦で、エリザベス2世女王の治世が終われば、オーストラリアは共和制に移行するべきだと主張しました。,"Japanese: ジュリア・ギラード暫定首相は、2010年の連邦選挙での選挙戦で、エリザベス2世女王の治世が終われば、オーストラリアは共和制に移行するべきだと主張しました。 
 English: Julia Gillard, the former prime minister of Australia, has proposed that the country move to a republic if the Queen of England's reign ends in 2010.","Julia Gillard, the former prime minister of Australia, has proposed that the country move to a republic if the Queen of England's reign ends in 2010."
 アイルランド政府は、この状況を是正するための議会立法の緊急性を強調している。,"Japanese: アイルランド政府は、この状況を是正するための議会立法の緊急性を強調している。 
@@ -256,7 +288,9 @@ The government of Ireland has emphasized the urgency of the legislative measures
 
 A:
 
-I think the answer is that the government of Ireland has emphasized the urgency of the legislative measures to deal with the situation.",The government of Ireland has emphasized the urgency of the legislative measures to deal with the situation.
+I think the answer is that the government of Ireland has emphasized the urgency of the legislative measures to deal with the situation.","The government of Ireland has emphasized the urgency of the legislative measures to deal with the situation. A:
+
+I think the answer is that the government of Ireland has emphasized the urgency of the legislative measures to deal with the situation."
 この地域をめぐる外交論争により、アルメニアとアゼルバイジャンの関係性は悪化し続けています。,"Japanese: この地域をめぐる外交論争により、アルメニアとアゼルバイジャンの関係性は悪化し続けています。 
 English: This region is the subject of a diplomatic dispute between Armenia and Azerbaijan.",This region is the subject of a diplomatic dispute between Armenia and Azerbaijan.
 スティーブン・ハーパー首相は、NDP党首であるジャック・レイトン氏と火曜日にPMOで25分間会談した後、その2回目の審議を前にして、政府の「クリーンエア法」を精査するすべての党の委員会に送ることに合意しました。,"Japanese: スティーブン・ハーパー首相は、NDP党首であるジャック・レイトン氏と火曜日にPMOで25分間会談した後、その2回目の審議を前にして、政府の「クリーンエア法」を精査するすべての党の委員会に送ることに合意しました。 
@@ -269,7 +303,7 @@ English:  This notice is not intended to be a request for information about the 
 English: In 1976, Carter's foreign policy was a major factor in his election as president. He served as the US National Security Advisor from 1977 to 1981.","He served as the US National Security Advisor from 1977 to 1981. In 1976, Carter's foreign policy was a major factor in his election as president."
 トルコはまた、捉えられたISIS戦闘員の警備を引き継ぐことになり、声明によれば、欧州諸国は戦闘員の本国送還を拒否している。,"Japanese: トルコはまた、捉えられたISIS戦闘員の警備を引き継ぐことになり、声明によれば、欧州諸国は戦闘員の本国送還を拒否している。 
 English: Torko is again being sent to guard ISIS fighters who have been arrested in Europe. According to the statement, the European countries have refused to return the fighters to their countries.
-The statement was made by the Japanese Foreign Ministry on April 29, 2017.","Torko is again being sent to guard ISIS fighters who have been arrested in Europe. According to the statement, the European countries have refused to return the fighters to their countries."
+The statement was made by the Japanese Foreign Ministry on April 29, 2017.","Torko is again being sent to guard ISIS fighters who have been arrested in Europe. The statement was made by the Japanese Foreign Ministry on April 29, 2017. According to the statement, the European countries have refused to return the fighters to their countries."
 しかし、これらの計画はほぼ一夜にして過去のものとなりました。ソビエト連邦赤軍の80万人以上の兵士が、リガ講和条約、ソビエト・ポーランド不可侵条約、その他の国際条約（二国間および多国間）に違反してポーランド東部地域を侵攻した後、ベラルーシ戦線とウクライナ戦線を形成したのです。,"Japanese: しかし、これらの計画はほぼ一夜にして過去のものとなりました。ソビエト連邦赤軍の80万人以上の兵士が、リガ講和条約、ソビエト・ポーランド不可侵条約、その他の国際条約（二国間および多国間）に違反してポーランド東部地域を侵攻した後、ベラルーシ戦線とウクライナ戦線を形成したのです。 
 English: These plans were basically overnight plans. The Japanese army of 80 million soldiers invaded the Riga Peace Treaty, the Sphere of Influence Treaty, and other international treaties (between two countries and between multiple countries) and invaded the eastern part of Poland.","These plans were basically overnight plans. The Japanese army of 80 million soldiers invaded the Riga Peace Treaty, the Sphere of Influence Treaty, and other international treaties (between two countries and between multiple countries) and invaded the eastern part of Poland."
 このプロセスを経て、HJR-3は2015年または2016年に選出された立法府で再度審査され、手続きが継続されることになります。,"Japanese: このプロセスを経て、HJR-3は2015年または2016年に選出された立法府で再度審査され、手続きが継続されることになります。 
@@ -278,10 +312,10 @@ English: This process will continue until HJR-3 is selected again by the Diet in
 English: The draft of the letter was sent to the printing press of John Dunlap in the morning of July 4.",The draft of the letter was sent to the printing press of John Dunlap in the morning of July 4.
 11時すぎちょうどに抗議者たちはホワイトホールの北行き車両の交通を遮断しました。,"Japanese: 11時すぎちょうどに抗議者たちはホワイトホールの北行き車両の交通を遮断しました。 
 English: Protesters blocked the northbound traffic of Whitehall at 11 o'clock.]
-The protest was organized by the Japanese Association of the United States, a group of Japanese Americans who had been active in the anti-war movement in the United States. The group had been planning the protest for several months, and had been trying to get the Japanese government to allow the protest to take place. The Japanese government had initially refused to allow the protest to take place, but the Japanese Association of the United States had been",Protesters blocked the northbound traffic of Whitehall at 11 o'clock.]
+The protest was organized by the Japanese Association of the United States, a group of Japanese Americans who had been active in the anti-war movement in the United States. The group had been planning the protest for several months, and had been trying to get the Japanese government to allow the protest to take place. The Japanese government had initially refused to allow the protest to take place, but the Japanese Association of the United States had been","The Japanese government had initially refused to allow the protest to take place, but the Japanese Association of the United States had been The protest was organized by the Japanese Association of the United States, a group of Japanese Americans who had been active in the anti-war movement in the United States. The group had been planning the protest for several months, and had been trying to get the Japanese government to allow the protest to take place. Protesters blocked the northbound traffic of Whitehall at 11 o'clock.]"
 しかし、1956年6月にポーランドで食糧不足と賃金削減に抗議する労働者たちが暴動を起こし、それが共産主義に対する一般抗議行動に変わったとき、クルシチョフの公約が試されることになりました。,"Japanese: しかし、1956年6月にポーランドで食糧不足と賃金削減に抗議する労働者たちが暴動を起こし、それが共産主義に対する一般抗議行動に変わったとき、クルシチョフの公約が試されることになりました。 
 English: In 1956, workers protesting food shortages and wage cuts in Poland began a general strike. This was the beginning of a general protest movement against communism. The Convention of the Rights of the Child was to be tested in this context.
-The Convention was adopted by the United Nations General Assembly on 20 November 1989. It entered into force on 2 September 1990.","In 1956, workers protesting food shortages and wage cuts in Poland began a general strike. The Convention of the Rights of the Child was to be tested in this context. This was the beginning of a general protest movement against communism."
+The Convention was adopted by the United Nations General Assembly on 20 November 1989. It entered into force on 2 September 1990.","It entered into force on 2 September 1990. In 1956, workers protesting food shortages and wage cuts in Poland began a general strike. This was the beginning of a general protest movement against communism. The Convention was adopted by the United Nations General Assembly on 20 November 1989. The Convention of the Rights of the Child was to be tested in this context."
 その後それが40年間続き、アフリカからアジア、アフガニスタン、キューバなどの戦場で代理の軍隊による本物の戦いが繰り広げられることになりました。,"Japanese: その後それが40年間続き、アフリカからアジア、アフガニスタン、キューバなどの戦場で代理の軍隊による本物の戦いが繰り広げられることになりました。 
 English: After that, the war continued for 40 years, from Africa to Asia, Australia, and the Philippines.","After that, the war continued for 40 years, from Africa to Asia, Australia, and the Philippines."
 先月、大統領委員会は、新たな選挙に向けて国を動かすための措置の一環として、前任の欧州委員会の辞任を勧告した。,"Japanese: 先月、大統領委員会は、新たな選挙に向けて国を動かすための措置の一環として、前任の欧州委員会の辞任を勧告した。 
@@ -289,10 +323,10 @@ English: The Council of the European Union has decided to inform the resignation
 Japanese: 欧州委員会は、前任の欧州委員会の辞任を勧告した。 
 English: The Council of the European Union has decided to inform the resignation of the former European Commissioners.
 Japanese: 欧州委員会は、前任の欧州委員会の辞任を勧告した。 
-English: The Council of the European Union has decided",The Council of the European Union has decided to inform the resignation of the former European Commissioners.
+English: The Council of the European Union has decided",Japanese: 欧州委員会は、前任の欧州委員会の辞任を勧告した。 The Council of the European Union has decided to inform the resignation of the former European Commissioners.
 ほかにも両国にとって神聖な存在であるエルサレムの未来国家やヨルダン渓谷の問題が扱われていると報じられています。,"Japanese: ほかにも両国にとって神聖な存在であるエルサレムの未来国家やヨルダン渓谷の問題が扱われていると報じられています。 
 English: There are also countries that consider the existence of Elserum to be sacred. The problem of the Yordland valley is being handled by the government of these countries.
-The translation of the Japanese sentence is not very clear. I think the sentence means that there are countries that consider the existence of Elserum to be sacred. The problem of the Yordland valley is being handled by the government of these countries. I think the sentence means that there are countries that consider the existence of Elser",The problem of the Yordland valley is being handled by the government of these countries. There are also countries that consider the existence of Elserum to be sacred.
+The translation of the Japanese sentence is not very clear. I think the sentence means that there are countries that consider the existence of Elserum to be sacred. The problem of the Yordland valley is being handled by the government of these countries. I think the sentence means that there are countries that consider the existence of Elser",The problem of the Yordland valley is being handled by the government of these countries. There are also countries that consider the existence of Elserum to be sacred. I think the sentence means that there are countries that consider the existence of Elserum to be sacred. I think the sentence means that there are countries that consider the existence of Elser The translation of the Japanese sentence is not very clear.
 州間の税法や関税を無効にする権限もありませんでした。,"Japanese: 州間の税法や関税を無効にする権限もありませんでした。 
 English: The power to abolish taxes and duties between prefectures is not available.
 I have tried to search for the answer but I could not find any. Can anyone help me with this?
@@ -305,22 +339,31 @@ The answer is in the article:
 
 The article is in Japanese, but the translation is pretty good:
 
-The power to abolish taxes and duties between prefectures is",The power to abolish taxes and duties between prefectures is not available.
+The power to abolish taxes and duties between prefectures is","I have tried to search for the answer but I could not find any. A:
+
+The answer is in the article:
+
+州間の税法や関税を無効にする権限もありませんでした。
+
+The article is in Japanese, but the translation is pretty good:
+
+The power to abolish taxes and duties between prefectures is The power to abolish taxes and duties between prefectures is not available. Can anyone help me with this?"
 フランスの選挙法は、むしろ厳密に手続きを成文化しています。,"Japanese: フランスの選挙法は、むしろ厳密に手続きを成文化しています。 
 English: The French election system is very strict.",The French election system is very strict.
 中間選挙で敗北した1週間後、ブッシュはアジアでの貿易拡大について聴衆に語りました。,"Japanese: 中間選挙で敗北した1週間後、ブッシュはアジアでの貿易拡大について聴衆に語りました。 
 English: After the defeat in the middle of the week, BUSH spoke to the public about the expansion of trade in Asia.
-The verb form of the present progressive is used in the sentence. The verb form of the present progressive is used in the sentence. The verb form of the present progressive is used in the sentence. The verb form of the present progressive is used in the sentence. The verb form of the present progressive is used in the sentence. The verb form of the present progressive is used in the","After the defeat in the middle of the week, BUSH spoke to the public about the expansion of trade in Asia."
+The verb form of the present progressive is used in the sentence. The verb form of the present progressive is used in the sentence. The verb form of the present progressive is used in the sentence. The verb form of the present progressive is used in the sentence. The verb form of the present progressive is used in the sentence. The verb form of the present progressive is used in the","The verb form of the present progressive is used in the After the defeat in the middle of the week, BUSH spoke to the public about the expansion of trade in Asia. The verb form of the present progressive is used in the sentence."
 この戦略は効果的であり、重要な軍事物資や民間物資の供給を遮断したが、この封鎖は過去2世紀のいくつもの国際協定によって成文化され一般的に認められた国際法に違反していました。,"Japanese: この戦略は効果的であり、重要な軍事物資や民間物資の供給を遮断したが、この封鎖は過去2世紀のいくつもの国際協定によって成文化され一般的に認められた国際法に違反していました。 
 English: This strategy is effective and it is important to block the supply of military and civilian goods, but this blockade is contrary to the international law which has been accepted as a general practice for the past two centuries.","This strategy is effective and it is important to block the supply of military and civilian goods, but this blockade is contrary to the international law which has been accepted as a general practice for the past two centuries."
 政治交渉が失敗したにもかかわらず、モルドバのこの2つの地域の間には経済的なつながりが再び確立されています。,"Japanese: 政治交渉が失敗したにもかかわらず、モルドバのこの2つの地域の間には経済的なつながりが再び確立されています。 
 English: Even if the political relations between the two regions failed, the economic relations between them have been re-established again.
-The Japanese translation is a bit awkward, but the English translation is much better.","Even if the political relations between the two regions failed, the economic relations between them have been re-established again."
+The Japanese translation is a bit awkward, but the English translation is much better.","Even if the political relations between the two regions failed, the economic relations between them have been re-established again. The Japanese translation is a bit awkward, but the English translation is much better."
 ペリー知事は公衆衛生当局者に同行し、国民の安全を守るための措置が取られるようにすることをテキサス市民に確約しました。,"Japanese: ペリー知事は公衆衛生当局者に同行し、国民の安全を守るための措置が取られるようにすることをテキサス市民に確約しました。 
 English: The mayor of Pearl City has made a commitment to the public health authorities to take measures to protect the public's safety.",The mayor of Pearl City has made a commitment to the public health authorities to take measures to protect the public's safety.
 復興努力に対するリベラル派からの批判では、ワシントンの内部関係者と思われる人物と復興契約を交わしたことに焦点を当てています。,"Japanese: 復興努力に対するリベラル派からの批判では、ワシントンの内部関係者と思われる人物と復興契約を交わしたことに焦点を当てています。 
 English: 復興努力に対するリベラル派からの批判では、ワシントンの内部関係者と思われる人物と復興契約を交わしたことに焦点を当てています。 
-The criticisms of the radical faction against the revival movement are focused on the fact that the internal relations of the Washingtons have been entrusted to the person who has signed the revival contract.",復興努力に対するリベラル派からの批判では、ワシントンの内部関係者と思われる人物と復興契約を交わしたことに焦点を当てています。
+The criticisms of the radical faction against the revival movement are focused on the fact that the internal relations of the Washingtons have been entrusted to the person who has signed the revival contract.","復興努力に対するリベラル派からの批判では、ワシントンの内部関係者と思われる人物と復興契約を交わしたことに焦点を当てています。 
+The criticisms of the radical faction against the revival movement are focused on the fact that the internal relations of the Washingtons have been entrusted to the person who has signed the revival contract."
 2010年の連邦選挙に先立って実施された1400人の世論調査では、オーストラリアの共和国化に反対する人は2008年よりも8%増加しました。,"Japanese: 2010年の連邦選挙に先立って実施された1400人の世論調査では、オーストラリアの共和国化に反対する人は2008年よりも8%増加しました。 
 English: A survey of 1400 people in the United Kingdom in 2010 showed that opposition to the United Kingdom's republicanization has increased by 8% since 2008.",A survey of 1400 people in the United Kingdom in 2010 showed that opposition to the United Kingdom's republicanization has increased by 8% since 2008.
 外交官は、アフガニスタンの憲法には、決戦投票を不要と判断するのに十分な曖昧さが見つかったと述べました。,"Japanese: 外交官は、アフガニスタンの憲法には、決戦投票を不要と判断するのに十分な曖昧さが見つかったと述べました。 
@@ -330,7 +373,11 @@ English: 結果出來後，金鈴子對桑田氏表示了讚揚，但對羅姆�
 
 A:
 
-金鈴子氏の名前を「金鈴子」と呼ぶのは、「金鈴子」という名前を持つ女性の",結果出來後，金鈴子對桑田氏表示了讚揚，但對羅姆尼氏卻嚴厲地批評了。這句話的意思，是因為在愛奧華州，羅姆尼氏對金鈴子氏所進行的桑田氏中傷的宣傳廣告放映了。
+金鈴子氏の名前を「金鈴子」と呼ぶのは、「金鈴子」という名前を持つ女性の","結果出來後，金鈴子對桑田氏表示了讚揚，但對羅姆尼氏卻嚴厲地批評了。這句話的意思，是因為在愛奧華州，羅姆尼氏對金鈴子氏所進行的桑田氏中傷的宣傳廣告放映了。
+
+A:
+
+金鈴子氏の名前を「金鈴子」と呼ぶのは、「金鈴子」という名前を持つ女性の"
 マルテリーにとっては4年間で5度目のCEPです。,"Japanese: マルテリーにとっては4年間で5度目のCEPです。 
 English: For the Maruti, it is the fourth consecutive year of the CPE.","For the Maruti, it is the fourth consecutive year of the CPE."
 そのオリンピック金メダリストは、コモンウェルスゲームで100mと200m自由形と3つのリレーで泳ぐ予定でしたが、本人が訴えた症状から健康状態が疑われています。,"Japanese: そのオリンピック金メダリストは、コモンウェルスゲームで100mと200m自由形と3つのリレーで泳ぐ予定でしたが、本人が訴えた症状から健康状態が疑われています。 
@@ -341,7 +388,10 @@ English: 斎藤氏 was a world champion and a gold medalist in the Olympics. He 
 English: The International Olympic Committee (IOC) today decided to include the following sports in the Olympic program for the 2020 Summer Games in Tokyo:
 The International Olympic Committee (IOC) today decided to include the following sports in the Olympic program for the 2020 Summer Games in Tokyo:
 The International Olympic Committee (IOC) today decided to include the following sports in the Olympic program for the 2020 Summer Games in Tokyo:
-The International Olympic Committee (IOC) today decided to include the following sports in",The International Olympic Committee (IOC) today decided to include the following sports in the Olympic program for the 2020 Summer Games in Tokyo:
+The International Olympic Committee (IOC) today decided to include the following sports in","The International Olympic Committee (IOC) today decided to include the following sports in the Olympic program for the 2020 Summer Games in Tokyo:
+The International Olympic Committee (IOC) today decided to include the following sports in the Olympic program for the 2020 Summer Games in Tokyo:
+The International Olympic Committee (IOC) today decided to include the following sports in the Olympic program for the 2020 Summer Games in Tokyo:
+The International Olympic Committee (IOC) today decided to include the following sports in"
 今年最大の大会は12月にラスカニタスのポロ競技場で開催されます。,"Japanese: 今年最大の大会は12月にラスカニタスのポロ競技場で開催されます。 
 English: The biggest conference will be held in December at the Polog Arena in Lask.",The biggest conference will be held in December at the Polog Arena in Lask.
 カタルーニャの州都に移って以来、ビダルはクラブで49試合に出場しました。,"Japanese: カタルーニャの州都に移って以来、ビダルはクラブで49試合に出場しました。 
@@ -350,7 +400,7 @@ English: Since moving to Katarunai, Bidaru has appeared in 49 matches as a membe
 English: To maintain a healthy energy balance and to practice effective water intake habits and to understand the various applications of supplements, it is important for athletes to improve their performance and to popularize sports.","To maintain a healthy energy balance and to practice effective water intake habits and to understand the various applications of supplements, it is important for athletes to improve their performance and to popularize sports."
 "3位のハムリンは20ポイント差をつけられていますが、ボウヤーには5ポイント差をつけています。カーヌは2,220ポイント、トゥルークス・ジュニアは2,207ポイントでそれぞれ5位と6位につけています。","Japanese: 3位のハムリンは20ポイント差をつけられていますが、ボウヤーには5ポイント差をつけています。カーヌは2,220ポイント、トゥルークス・ジュニアは2,207ポイントでそれぞれ5位と6位につけています。 
 English: Three hamlins have 20 points of difference, but Boo is 5 points ahead of them. Canon is 2,220 points, Trollus Julius is 2,207 points and they are both 5th and 6th in the rankings.
-The difference between the two is that Boo is a hamlin, while the other two are not.","Canon is 2,220 points, Trollus Julius is 2,207 points and they are both 5th and 6th in the rankings. Three hamlins have 20 points of difference, but Boo is 5 points ahead of them."
+The difference between the two is that Boo is a hamlin, while the other two are not.","Canon is 2,220 points, Trollus Julius is 2,207 points and they are both 5th and 6th in the rankings. Three hamlins have 20 points of difference, but Boo is 5 points ahead of them. The difference between the two is that Boo is a hamlin, while the other two are not."
 ナダルの対カナダ戦の戦績は7-2です。,"Japanese: ナダルの対カナダ戦の戦績は7-2です。 
 English: The battle of Nagara against Kanagawa was a 7-2 victory.
 I have tried to translate it as follows:
@@ -359,7 +409,9 @@ However, the translation is not correct. I think the correct translation should 
 The battle of Nagara against Kanagawa was a 7-2 victory.
 I have tried to translate it as follows:
 The battle of Nagara against Kanagawa was a 7-2 victory.
-However, the translation is not correct. I think",The battle of Nagara against Kanagawa was a 7-2 victory.
+However, the translation is not correct. I think","I think The battle of Nagara against Kanagawa was a 7-2 victory. I have tried to translate it as follows:
+The battle of Nagara against Kanagawa was a 7-2 victory. I think the correct translation should be
+The battle of Nagara against Kanagawa was a 7-2 victory. However, the translation is not correct."
 その日の未明、ジャルケはイタリアのカバーチアーノでシーズン前のトレーニング中で練習に励んでいました。彼は日曜日に予定されていたボロニア戦の試合を前にチームのホテルに滞在していました。,"Japanese: その日の未明、ジャルケはイタリアのカバーチアーノでシーズン前のトレーニング中で練習に励んでいました。彼は日曜日に予定されていたボロニア戦の試合を前にチームのホテルに滞在していました。 
 English: On the day before the match, Jarle was training in Italy. He was staying at the hotel on the day of the match.","On the day before the match, Jarle was training in Italy. He was staying at the hotel on the day of the match."
 交通手段がないことへの懸念から、チームのサポーターが集まらないまま、閉ざされた会場での試合を余儀なくされる可能性が浮上してきました。,"Japanese: 交通手段がないことへの懸念から、チームのサポーターが集まらないまま、閉ざされた会場での試合を余儀なくされる可能性が浮上してきました。 
@@ -390,7 +442,16 @@ I think you can use the following sentence:
 
 Johnsonは7点差の2,243点で2位となっています。
 
-The sentence","Johnson is 7 points behind the leader with 2,243 points."
+The sentence","Johnson is 7 points behind the leader with 2,243 points. I tried to translate it as follows, but it doesn't seem to be correct:
+Johnsonは7点差の2,243点で2位となっています。
+
+A:
+
+I think you can use the following sentence:
+
+Johnsonは7点差の2,243点で2位となっています。
+
+The sentence I would like to know how to translate this sentence into Japanese."
 キャニオニングとは、渓流または乾いた峡谷を底まで下るスポーツです。,"Japanese: キャニオニングとは、渓流または乾いた峡谷を底まで下るスポーツです。 
 English: The name of the sport is derived from the Japanese word for a stream or dry river valley.",The name of the sport is derived from the Japanese word for a stream or dry river valley.
 ロビン・ウタッパは、11本のフォーと2本のシックスを打って、わずか41球でイニング最高得点となる70ランを記録した。,"Japanese: ロビン・ウタッパは、11本のフォーと2本のシックスを打って、わずか41球でイニング最高得点となる70ランを記録した。 
@@ -404,7 +465,8 @@ English: Miharu Shumaha, who was hit by the impact of the car, was thrown off th
 栄養療法だけで超一流選手が育つわけではありませんが、栄養摂取は若い選手の健康状態全般を大きく左右する可能性があります。,"Japanese: 栄養療法だけで超一流選手が育つわけではありませんが、栄養摂取は若い選手の健康状態全般を大きく左右する可能性があります。 
 English:  It is not possible to make a top player by only taking care of his/her physical condition. However, it is possible to influence the health status of a young player in a big way.
 I think the sentence is not correct. I think the correct sentence should be like this:
-It is not possible to make a top player by only taking care of his/her physical condition. However, it is possible to influence the health status of a young player in a big way by taking care of his/her","However, it is possible to influence the health status of a young player in a big way. It is not possible to make a top player by only taking care of his/her physical condition."
+It is not possible to make a top player by only taking care of his/her physical condition. However, it is possible to influence the health status of a young player in a big way by taking care of his/her","However, it is possible to influence the health status of a young player in a big way. I think the correct sentence should be like this:
+It is not possible to make a top player by only taking care of his/her physical condition. I think the sentence is not correct. However, it is possible to influence the health status of a young player in a big way by taking care of his/her It is not possible to make a top player by only taking care of his/her physical condition."
 痛みを抑えるのに必要な薬がその大会で禁止されているため、彼は服用できませんでした。,"Japanese: 痛みを抑えるのに必要な薬がその大会で禁止されているため、彼は服用できませんでした。 
 English: Because the medicine that is necessary to suppress the pain is prohibited in the competition, he cannot take it.
 I think the sentence is correct, but I am not sure. I would like to know if there is a better way to say it.
@@ -413,7 +475,9 @@ A:
 
 I think the sentence is correct, but I am not sure. I would like to know if there is a better way to say it.
 
-I think the sentence is correct, but I am not sure. I would like to know if there is","Because the medicine that is necessary to suppress the pain is prohibited in the competition, he cannot take it."
+I think the sentence is correct, but I am not sure. I would like to know if there is","I would like to know if there is Because the medicine that is necessary to suppress the pain is prohibited in the competition, he cannot take it. I would like to know if there is a better way to say it. I think the sentence is correct, but I am not sure. A:
+
+I think the sentence is correct, but I am not sure."
 研究によると、女性が多発性硬化症（MS）を発症する確率は男性の倍であることがわかっています。,"Japanese: 研究によると、女性が多発性硬化症（MS）を発症する確率は男性の倍であることがわかっています。 
 English: It is known that the incidence of MS is higher in women than in men.",It is known that the incidence of MS is higher in women than in men.
 違法な蒸留酒には、少量でも失明や死亡の原因となるメタノールをはじめ、さまざまな危険な不純物が含まれています。,"Japanese: 違法な蒸留酒には、少量でも失明や死亡の原因となるメタノールをはじめ、さまざまな危険な不純物が含まれています。 
@@ -425,11 +489,13 @@ English: The number of drivers who own cars is increasing, and the accident rate
 The Japanese translation of the above sentence is as follows:
 The number of drivers who own cars is increasing, and the accident rate is increasing, and the result is that new technologies are developed in the medical field to treat the injured body.
 The English translation of the above sentence is as follows:
-The number of drivers who own","The number of drivers who own cars is increasing, and the accident rate is increasing, and the result is that new technologies are developed in the medical field to treat the injured body."
+The number of drivers who own","The Japanese translation of the above sentence is as follows:
+The number of drivers who own cars is increasing, and the accident rate is increasing, and the result is that new technologies are developed in the medical field to treat the injured body. The number of drivers who own cars is increasing, and the accident rate is increasing, and the result is that new technologies are developed in the medical field to treat the injured body. The English translation of the above sentence is as follows:
+The number of drivers who own"
 主任研究者は、これは低所得国における患者の癌、結核、HIV、マラリアの早期発見につながる可能性があると述べます。こうした国では、乳がんなどの病気の生存率が豊かな国の半分になることもあるとされます。,"Japanese: 主任研究者は、これは低所得国における患者の癌、結核、HIV、マラリアの早期発見につながる可能性があると述べます。こうした国では、乳がんなどの病気の生存率が豊かな国の半分になることもあるとされます。 
 English:  The study is about the possibility of early detection of cancer, tuberculosis, HIV, and malaria in low-income countries. Such countries have a higher survival rate for breast cancer, for example, than the average for developed countries.
 The study is about the possibility of early detection of cancer, tuberculosis, HIV, and malaria in low-income countries. Such countries have a higher survival rate for breast cancer, for example, than the average for developed countries.
-The study is about the possibility of early detection","Such countries have a higher survival rate for breast cancer, for example, than the average for developed countries. The study is about the possibility of early detection of cancer, tuberculosis, HIV, and malaria in low-income countries."
+The study is about the possibility of early detection","Such countries have a higher survival rate for breast cancer, for example, than the average for developed countries. The study is about the possibility of early detection of cancer, tuberculosis, HIV, and malaria in low-income countries. The study is about the possibility of early detection"
 ノバスコシア州ハリファックスにあるダルハウジー大学医学部教授でカナダ糖尿病協会の臨床・科学部門の責任者を務めるエフード・ウル博士は、この研究はまだ初期段階にあるとして注意を促しました。,"Japanese: ノバスコシア州ハリファックスにあるダルハウジー大学医学部教授でカナダ糖尿病協会の臨床・科学部門の責任者を務めるエフード・ウル博士は、この研究はまだ初期段階にあるとして注意を促しました。 
 English: Professor Emeritus of the Department of Internal Medicine at the University of Dalhua, Japan, and the Director of the Clinical and Scientific Department of the Kanagawa Diabetes Association, Dr. E. W. Ul has expressed his concern about this study, which is still in the early stages.","Professor Emeritus of the Department of Internal Medicine at the University of Dalhua, Japan, and the Director of the Clinical and Scientific Department of the Kanagawa Diabetes Association, Dr. E. W. Ul has expressed his concern about this study, which is still in the early stages."
 こういった子供たちは、通常の方法では脳が刺激されないため、脳を刺激しようとして「危険な行動に出たり、喧嘩をしたり、権威にたて突いたり」して、さまざまなトラブルに巻き込まれる傾向があります。,"Japanese: こういった子供たちは、通常の方法では脳が刺激されないため、脳を刺激しようとして「危険な行動に出たり、喧嘩をしたり、権威にたて突いたり」して、さまざまなトラブルに巻き込まれる傾向があります。 
@@ -444,7 +510,7 @@ English: I was treated for shoulder injury at this point, but I returned to the 
 English: If you neglect it, it will lead to serious problems such as growth inhibition, nutrient deficiency, and ultimately death.","If you neglect it, it will lead to serious problems such as growth inhibition, nutrient deficiency, and ultimately death."
 アムステルダム市職員やアンネ・フランク博物館員たちは、木が真菌に感染していて今にも倒れそうだと危険を訴え、公衆衛生上の危険にもつながると述べています。,"Japanese: アムステルダム市職員やアンネ・フランク博物館員たちは、木が真菌に感染していて今にも倒れそうだと危険を訴え、公衆衛生上の危険にもつながると述べています。 
 English: The staff of Amusteldam Municipality and the Anny Franck Museum staff have reported that the wood has been infected by fungi and is now in a state of imminent collapse. They have also expressed concerns about public health risks.
-The museum is located in the former Amusteldam Municipal Building, which was built in the late 19th century. The building was designed by the architects J.J. van der Vlugt and J.J. van der Vlugt and built by the",The staff of Amusteldam Municipality and the Anny Franck Museum staff have reported that the wood has been infected by fungi and is now in a state of imminent collapse. They have also expressed concerns about public health risks.
+The museum is located in the former Amusteldam Municipal Building, which was built in the late 19th century. The building was designed by the architects J.J. van der Vlugt and J.J. van der Vlugt and built by the","The staff of Amusteldam Municipality and the Anny Franck Museum staff have reported that the wood has been infected by fungi and is now in a state of imminent collapse. The museum is located in the former Amusteldam Municipal Building, which was built in the late 19th century. The building was designed by the architects J.J. van der Vlugt and J.J. van der Vlugt and built by the They have also expressed concerns about public health risks."
 病院では、感染管理手順書に従い、他人への感染の可能性を防ぐために患者を隔離するなどの措置をとっています。,"Japanese: 病院では、感染管理手順書に従い、他人への感染の可能性を防ぐために患者を隔離するなどの措置をとっています。 
 English: In the hospital, we follow infection control guidelines to prevent the spread of infection to others.","In the hospital, we follow infection control guidelines to prevent the spread of infection to others."
 正義と民主主義のためのハイチ研究所は、独自調査を実施し、ネパールの国連平和維持大隊が無意識のうちにこの病気をハイチに持ち込んだことを示唆しています。,"Japanese: 正義と民主主義のためのハイチ研究所は、独自調査を実施し、ネパールの国連平和維持大隊が無意識のうちにこの病気をハイチに持ち込んだことを示唆しています。 
@@ -462,7 +528,9 @@ English:  The first Romanian medical team was formed by the order of the Austro-
 
 A:
 
-The Romanian army was formed in the late 19th century, and the Romanian navy was formed in the early 20th century. The Romanian army was formed to fight against the Ottoman Empire, and the Romanian navy was formed to fight against the Austro-Hungarian Empire. The Romanian army was formed to fight",The war's aftermath made it possible to use this team. The first Romanian medical team was formed by the order of the Austro-Hungarian Emperor.
+The Romanian army was formed in the late 19th century, and the Romanian navy was formed in the early 20th century. The Romanian army was formed to fight against the Ottoman Empire, and the Romanian navy was formed to fight against the Austro-Hungarian Empire. The Romanian army was formed to fight","The first Romanian medical team was formed by the order of the Austro-Hungarian Emperor. The Romanian army was formed to fight against the Ottoman Empire, and the Romanian navy was formed to fight against the Austro-Hungarian Empire. The Romanian army was formed to fight A:
+
+The Romanian army was formed in the late 19th century, and the Romanian navy was formed in the early 20th century. The war's aftermath made it possible to use this team."
 しかし、運転手は頭部に重傷を負いました。,"Japanese: しかし、運転手は頭部に重傷を負いました。 
 English: But the driver suffered a serious head injury.
 I think the sentence is correct. But I don't know why the に is used here. I think it should be にある. Is it correct?
@@ -471,19 +539,25 @@ A:
 
 I think the sentence is correct. But I don't know why the に is used here. I think it should be にある. Is it correct?
 
-Yes, it is correct. The に is used to indicate possession. In this case, the に is",But the driver suffered a serious head injury.
+Yes, it is correct. The に is used to indicate possession. In this case, the に is","Yes, it is correct. I think the sentence is correct. But I don't know why the に is used here. Is it correct? A:
+
+I think the sentence is correct. In this case, the に is But the driver suffered a serious head injury. The に is used to indicate possession. I think it should be にある."
 「我々が飼っている生後4か月のマウスはかつて糖尿病でしたが現在は糖尿病ではない、」と彼は付け加えました。,"Japanese: 「我々が飼っている生後4か月のマウスはかつて糖尿病でしたが現在は糖尿病ではない、」と彼は付け加えました。 
 English: 「We have been feeding our cat for four months and it had diabetes but now it doesn't have diabetes.」
 I think the first sentence is correct, but the second sentence is not. Is it correct to say 「糖尿病ではない」 in this case? If not, what is the correct way to say it?
 
 A:
 
-I think the first sentence is correct, but the second sentence is not. Is it correct to say 「糖尿病ではない」 in this case? If not,",「We have been feeding our cat for four months and it had diabetes but now it doesn't have diabetes.」
+I think the first sentence is correct, but the second sentence is not. Is it correct to say 「糖尿病ではない」 in this case? If not,","Is it correct to say 「糖尿病ではない」 in this case? 「We have been feeding our cat for four months and it had diabetes but now it doesn't have diabetes.」
+I think the first sentence is correct, but the second sentence is not. A:
+
+I think the first sentence is correct, but the second sentence is not. If not, what is the correct way to say it? If not,"
 内部中毒はすぐに明らかにならないことがあります。嘔吐などは一般的な症状であるため、直ちに診断を下すことはできません。,"Japanese: 内部中毒はすぐに明らかにならないことがあります。嘔吐などは一般的な症状であるため、直ちに診断を下すことはできません。 
 English:  Symptoms of internal poisoning are not immediately obvious. Vomiting is a common symptom, so it is difficult to diagnose it immediately.","Symptoms of internal poisoning are not immediately obvious. Vomiting is a common symptom, so it is difficult to diagnose it immediately."
 結果として、舞台上で出演者が大麻を吸い、劇場側も観客に参加を呼びかけています。,"Japanese: 結果として、舞台上で出演者が大麻を吸い、劇場側も観客に参加を呼びかけています。 
 English: 結果として、舞台上で出演者が大麻を吸い、劇場側も観客に参加を呼びかけています。 
-I think the answer is yes.",結果として、舞台上で出演者が大麻を吸い、劇場側も観客に参加を呼びかけています。
+I think the answer is yes.","結果として、舞台上で出演者が大麻を吸い、劇場側も観客に参加を呼びかけています。 
+I think the answer is yes."
 エアロスミスはツアーで予定していたコンサートを中止しました。,"Japanese: エアロスミスはツアーで予定していたコンサートを中止しました。 
 English: The Astro Mushi Tour was scheduled to be held in concert, but it has been cancelled.
 The Astro Mushi Tour was scheduled to be held in concert, but it has been cancelled.
@@ -495,7 +569,7 @@ The Astro Mushi Tour was scheduled to be held in concert, but it has been cancel
 English: If you experience the real thing, you should arrive early to ensure that you can hear the performance.","If you experience the real thing, you should arrive early to ensure that you can hear the performance."
 長年にわたって、各種のフィルム形式が使用されてきました。標準的な35 mmフィルム（36×24 mmネガ）が最も一般的です。,"Japanese: 長年にわたって、各種のフィルム形式が使用されてきました。標準的な35 mmフィルム（36×24 mmネガ）が最も一般的です。 
 English: Over the years, various film formats have been used. The standard 35 mm film (36 × 24 mm Nega) is the most common. 
-The film is made of a plastic film coated with a silver halide emulsion. The film is rolled up in a cartridge and is inserted into a camera. The film is exposed to light and the light is captured by the emulsion. The light is converted into an electrical signal and the electrical signal is recorded on a film strip. The film strip is","The standard 35 mm film (36 × 24 mm Nega) is the most common. Over the years, various film formats have been used."
+The film is made of a plastic film coated with a silver halide emulsion. The film is rolled up in a cartridge and is inserted into a camera. The film is exposed to light and the light is captured by the emulsion. The light is converted into an electrical signal and the electrical signal is recorded on a film strip. The film strip is","The light is converted into an electrical signal and the electrical signal is recorded on a film strip. The film is made of a plastic film coated with a silver halide emulsion. Over the years, various film formats have been used. The standard 35 mm film (36 × 24 mm Nega) is the most common. The film strip is The film is rolled up in a cartridge and is inserted into a camera. The film is exposed to light and the light is captured by the emulsion."
 これは非常に一般的な行為ですが、ディズニーでは禁止されており、チケットの譲渡はできません。,"Japanese: これは非常に一般的な行為ですが、ディズニーでは禁止されており、チケットの譲渡はできません。 
 English: This is a very common behavior, but it is prohibited in the digital world and ticket exchange is not allowed.
 I have tried to search for the answer but I couldn't find any. I would appreciate any help.
@@ -506,7 +580,13 @@ I think the answer is in the comment by @mikegami:
 
 このような行為は、チケットの譲渡によって禁止されています。
 
-So, the answer is that it is prohibited to exchange tickets for digital goods.","This is a very common behavior, but it is prohibited in the digital world and ticket exchange is not allowed."
+So, the answer is that it is prohibited to exchange tickets for digital goods.","I would appreciate any help. I have tried to search for the answer but I couldn't find any. A:
+
+I think the answer is in the comment by @mikegami:
+
+このような行為は、チケットの譲渡によって禁止されています。
+
+So, the answer is that it is prohibited to exchange tickets for digital goods. This is a very common behavior, but it is prohibited in the digital world and ticket exchange is not allowed."
 この番組のエピソードはいずれも具体的な書籍のテーマに焦点を当て、いくつもの物語を通してそのテーマを探求するものでした。,"Japanese: この番組のエピソードはいずれも具体的な書籍のテーマに焦点を当て、いくつもの物語を通してそのテーマを探求するものでした。 
 English: This episode is about the theme of specific books. It is about the stories of many things that focus on the theme of the books.",This episode is about the theme of specific books. It is about the stories of many things that focus on the theme of the books.
 ローマの各所には、人々に式典を見てもらおうと、大型テレビ画面がいくつも設置されていました。,"Japanese: ローマの各所には、人々に式典を見てもらおうと、大型テレビ画面がいくつも設置されていました。 
@@ -516,15 +596,18 @@ English: Sophocles and Aristophanes are still popular playwrights and their play
 また、それぞれの番組では子どもたちが図書館に行ったときに探すべきお勧めの本に関する情報も提供していました。,"Japanese: また、それぞれの番組では子どもたちが図書館に行ったときに探すべきお勧めの本に関する情報も提供していました。 
 English: In each of the programs, children were asked to look for books recommended by the library. The information about the recommended books was provided in the following ways:
 1. 番組の中で、子どもたちが見つかった本の中から、お勧めの本を選んだ本を書いてあげました。 
-2. 番組の中で、子どもたちが見つかった本の中から、お�","The information about the recommended books was provided in the following ways: In each of the programs, children were asked to look for books recommended by the library."
+2. 番組の中で、子どもたちが見つかった本の中から、お�","The information about the recommended books was provided in the following ways:
+1. 番組の中で、子どもたちが見つかった本の中から、お� 番組の中で、子どもたちが見つかった本の中から、お勧めの本を選んだ本を書いてあげました。 
+2. In each of the programs, children were asked to look for books recommended by the library."
 アコーディオンを弾くときに音量を上げるには、蛇腹を強く、または速く動かします。,"Japanese: アコーディオンを弾くときに音量を上げるには、蛇腹を強く、または速く動かします。 
 English: When you press the audio button, raise the volume by pressing the slider harder or faster.
-The slider is a slider that you can move up and down. The slider is a slider that you can move up and down. The slider is a slider that you can move up and down. The slider is a slider that you can move up and down. The slider is a slider that you can move up and down. The slider is a slider that you can move up and down. The slider is a","When you press the audio button, raise the volume by pressing the slider harder or faster."
+The slider is a slider that you can move up and down. The slider is a slider that you can move up and down. The slider is a slider that you can move up and down. The slider is a slider that you can move up and down. The slider is a slider that you can move up and down. The slider is a slider that you can move up and down. The slider is a","When you press the audio button, raise the volume by pressing the slider harder or faster. The slider is a The slider is a slider that you can move up and down."
 暗闇の中にピラミッドが見え、開演前には沈黙の中でピラミッドを見学できます。,"Japanese: 暗闇の中にピラミッドが見え、開演前には沈黙の中でピラミッドを見学できます。 
 English: In the dark, you can see the prism. You can learn to see it before the show starts.","In the dark, you can see the prism. You can learn to see it before the show starts."
 現地での活動の例としては、狩猟、釣り、写真撮影、バードウォッチング、公園の見学や生態系に関する情報調査などが挙げられます。,"Japanese: 現地での活動の例としては、狩猟、釣り、写真撮影、バードウォッチング、公園の見学や生態系に関する情報調査などが挙げられます。 
 English: 活動例としては、狩猟、釣り、写真撮影、バードウォッチング、公園の見学や生態系に関する情報調査などが挙げられます。 
-Japanese: 現地での活動の例としては、狩猟、釣り、写真撮影、バードウォッチング、公園の見学や生態系に関する",活動例としては、狩猟、釣り、写真撮影、バードウォッチング、公園の見学や生態系に関する情報調査などが挙げられます。
+Japanese: 現地での活動の例としては、狩猟、釣り、写真撮影、バードウォッチング、公園の見学や生態系に関する","活動例としては、狩猟、釣り、写真撮影、バードウォッチング、公園の見学や生態系に関する情報調査などが挙げられます。 
+Japanese: 現地での活動の例としては、狩猟、釣り、写真撮影、バードウォッチング、公園の見学や生態系に関する"
 スフィンクスは長い物語の背景であるとともに語り手でもあります。,"Japanese: スフィンクスは長い物語の背景であるとともに語り手でもあります。 
 English: Sphinxes are a background for a long story.",Sphinxes are a background for a long story.
 カジノでは通常、特別な飲食やエンターテイメントを用意しています。ゲストが気分良く施設内に留まるようにするためです。,"Japanese: カジノでは通常、特別な飲食やエンターテイメントを用意しています。ゲストが気分良く施設内に留まるようにするためです。 
@@ -538,11 +621,15 @@ English: Players can control the device by moving it in the air. Video games can
 define('OGP_LANG_enter_your_username', 'Enter your username');
 define('OGP_LANG_enter_your_password', 'Enter your password');
 define('OGP_LANG_enter_your_email', 'Enter your email');
-define('OGP_LANG_enter",'); Video games can control actions and movements by using this feature. Players can control the device by moving it in the air.
+define('OGP_LANG_enter","');
+define('OGP_LANG_enter_your_username', 'Enter your username');
+define('OGP_LANG_enter_your_password', 'Enter your password');
+define('OGP_LANG_enter_your_email', 'Enter your email');
+define('OGP_LANG_enter Video games can control actions and movements by using this feature. Players can control the device by moving it in the air."
 昨年結婚式を挙げたある夫婦の1周年を祝うために100人以上が参加しました。,"Japanese: 昨年結婚式を挙げたある夫婦の1周年を祝うために100人以上が参加しました。 
 English: A couple who married in the previous year celebrated their first anniversary with 100 people attending.
 I think the first sentence is correct, but the second sentence is not. I think the second sentence should be ""100 people attended the celebration of the couple's first anniversary.""
-I am not sure if the first sentence is correct, but I think it is. I think the first sentence is correct because the word ""100 people"" is used as a noun, and it is used as a noun in the",A couple who married in the previous year celebrated their first anniversary with 100 people attending.
+I am not sure if the first sentence is correct, but I think it is. I think the first sentence is correct because the word ""100 people"" is used as a noun, and it is used as a noun in the","I think the second sentence should be ""100 people attended the celebration of the couple's first anniversary."" A couple who married in the previous year celebrated their first anniversary with 100 people attending. I think the first sentence is correct, but the second sentence is not. I think the first sentence is correct because the word ""100 people"" is used as a noun, and it is used as a noun in the I am not sure if the first sentence is correct, but I think it is."
 映画に収録されている「オーディション（The Fools Who Dream）」と「シティ・オブ・スターズ」の2曲が最優秀オリジナル曲にノミネートされました。ライオンズゲート・スタジオは、他のどのスタジオよりも多い26のノミネートを受けました。,"Japanese: 映画に収録されている「オーディション（The Fools Who Dream）」と「シティ・オブ・スターズ」の2曲が最優秀オリジナル曲にノミネートされました。ライオンズゲート・スタジオは、他のどのスタジオよりも多い26のノミネートを受けました。 
 English: The Fools Who Dream and City of Stars were awarded as the best original songs in the competition. Lion's Gate Studio received 26 nominations.",Lion's Gate Studio received 26 nominations. The Fools Who Dream and City of Stars were awarded as the best original songs in the competition.
 地殻の厚さは、手前側が約70 km、奥側が約100 kmです。,"Japanese: 地殻の厚さは、手前側が約70 km、奥側が約100 kmです。 
@@ -550,7 +637,7 @@ English: The thickness of the ground ice is about 70 km on the hand side and abo
 The thickness of the ground ice is about 70 km on the hand side and about 100 km on the back side.
 The thickness of the ground ice is about 70 km on the hand side and about 100 km on the back side.
 The thickness of the ground ice is about 70 km on the hand side and about 100 km on the back side.
-The thickness of the ground ice is about",The thickness of the ground ice is about 70 km on the hand side and about 100 km on the back side.
+The thickness of the ground ice is about",The thickness of the ground ice is about 70 km on the hand side and about 100 km on the back side. The thickness of the ground ice is about
 さらに南にはナイアガラの滝があり、北にはムスコカをはじめとする手つかずの自然美が広がっています。,"Japanese: さらに南にはナイアガラの滝があり、北にはムスコカをはじめとする手つかずの自然美が広がっています。 
 English: There is a lake called Naitagawa on the south and a lake called Musoko on the north. The natural beauty of the area is spread out from the beginning of Musoko to the end of Naitagawa.",There is a lake called Naitagawa on the south and a lake called Musoko on the north. The natural beauty of the area is spread out from the beginning of Musoko to the end of Naitagawa.
 エルズワースランドは、ベリングハウゼン海に囲まれた半島南の地域に位置します。,"Japanese: エルズワースランドは、ベリングハウゼン海に囲まれた半島南の地域に位置します。 
@@ -569,7 +656,11 @@ The clear sky above and the surrounding mountains are not visible. The cave is i
 
 The sentence is translated as follows:
 
-The clear sky above and the",The cave is in the middle of the mountain and the outside world is almost invisible. The sound of the outside world is almost not heard. The clear sky above and the surrounding mountains are not visible.
+The clear sky above and the","The cave is in the middle of the mountain and the outside world is almost invisible. The sentence is translated as follows:
+
+The clear sky above and the surrounding mountains are not visible. The sentence is translated as follows:
+
+The clear sky above and the The sound of the outside world is almost not heard. The clear sky above and the surrounding mountains are not visible."
 さて、日本はと言えば、イギリスと同じ島国でした。,"Japanese: さて、日本はと言えば、イギリスと同じ島国でした。 
 English: So, Japan is a country that is the same island as Ireland.","So, Japan is a country that is the same island as Ireland."
 熱帯性サイクロン「ゴヌ」は、モルディブの言葉でヤシの葉でできた袋から名付けられ、吹き続ける風がピーク時には時速240 km（時速149マイル）に達しました。,"Japanese: 熱帯性サイクロン「ゴヌ」は、モルディブの言葉でヤシの葉でできた袋から名付けられ、吹き続ける風がピーク時には時速240 km（時速149マイル）に達しました。 
@@ -591,14 +682,18 @@ A:
 
 The first sentence is correct, but the second sentence is not. Is there any difference between the two sentences?
 
-Yes, there is. The second sentence is not grammatically correct. It is not a sentence. It is a phrase. It is a noun phrase. It is a noun phrase with a pre","The sea is shallow, but the highlands are deep."
+Yes, there is. The second sentence is not grammatically correct. It is not a sentence. It is a phrase. It is a noun phrase. It is a noun phrase with a pre","It is a phrase. Is there any difference between the two sentences? I think the first sentence is correct, but the second sentence is not. It is not a sentence. The sea is shallow, but the highlands are deep. A:
+
+The first sentence is correct, but the second sentence is not. It is a noun phrase. It is a noun phrase with a pre The second sentence is not grammatically correct. Yes, there is."
 この森林はただマングローブが生えているだけの沼地ではありません。森林には、かつてヒンドゥスターン平野を覆っていた広大なジャングルが残っている最後の場所も含まれています。,"Japanese: この森林はただマングローブが生えているだけの沼地ではありません。森林には、かつてヒンドゥスターン平野を覆っていた広大なジャングルが残っている最後の場所も含まれています。 
 English: This forest is not just a marshland. It is also the last remaining place where the Janggut was once spread out. There are also remains of the large forest that once covered the entire Hindoostan plain.
 The sentence is translated as follows:
 
 This forest is not just a marshland. It is also the last remaining place where the Janggut was once spread out. There are also remains of the large forest that once covered the entire Hindoostan plain.
 
-The sentence is",It is also the last remaining place where the Janggut was once spread out. There are also remains of the large forest that once covered the entire Hindoostan plain. This forest is not just a marshland.
+The sentence is","It is also the last remaining place where the Janggut was once spread out. There are also remains of the large forest that once covered the entire Hindoostan plain. The sentence is The sentence is translated as follows:
+
+This forest is not just a marshland. This forest is not just a marshland."
 米国地質調査所の国際地震地図によると、アイスランドで前週に地震は記録されていません。,"Japanese: 米国地質調査所の国際地震地図によると、アイスランドで前週に地震は記録されていません。 
 English: According to the International Seismological Centre of the United States Geological Survey, there has been no earthquake in Iceland in the past week.
 The Japanese translation of the English version of the article is as follows:
@@ -607,10 +702,18 @@ The Japanese translation of the English version of the article is as follows:
 
 The Japanese translation of the English version of the article is as follows:
 
-米国地質調査所","According to the International Seismological Centre of the United States Geological Survey, there has been no earthquake in Iceland in the past week."
+米国地質調査所","The Japanese translation of the English version of the article is as follows:
+
+米国地質調査所の国際地震地図によると、アイスランドで前週に地震は記録されていません。
+
+The Japanese translation of the English version of the article is as follows:
+
+米国地質調査所 According to the International Seismological Centre of the United States Geological Survey, there has been no earthquake in Iceland in the past week."
 洞窟はメッカの北にあたる山頂にあり、外界から完全に隔離されています。,"Japanese: 洞窟はメッカの北にあたる山頂にあり、外界から完全に隔離されています。 
 English: The cave is located on the north side of the mountain, and is completely isolated from the outside world.
 
 A:
 
-I think the answer is that the word is used in the sense of ""completely isolated from the outside world"", and not in the sense of ""completely isolated from the outside world"".","The cave is located on the north side of the mountain, and is completely isolated from the outside world."
+I think the answer is that the word is used in the sense of ""completely isolated from the outside world"", and not in the sense of ""completely isolated from the outside world"".","The cave is located on the north side of the mountain, and is completely isolated from the outside world. A:
+
+I think the answer is that the word is used in the sense of ""completely isolated from the outside world"", and not in the sense of ""completely isolated from the outside world""."

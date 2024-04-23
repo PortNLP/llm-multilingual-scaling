@@ -10,7 +10,11 @@ English: The object is not visible to the user."");
 define('OBJECT_NOT_AVAILABLE', 'Object not available.');
 define('OBJECT_NOT_AVAILABLE_EXPLAIN', 'Object not available.');
 define('OBJECT_NOT_AVAILABLE_EXPLAIN_EXPLAIN', 'The object is not available.');
-define('OBJECT_NOT_AVAILABLE_EXPLAIN_EXPLAIN',","The object is not visible to the user. "");"
+define('OBJECT_NOT_AVAILABLE_EXPLAIN_EXPLAIN',","The object is not visible to the user. ');
+define('OBJECT_NOT_AVAILABLE_EXPLAIN_EXPLAIN', 'The object is not available. "");
+define('OBJECT_NOT_AVAILABLE', 'Object not available. ');
+define('OBJECT_NOT_AVAILABLE_EXPLAIN_EXPLAIN', ');
+define('OBJECT_NOT_AVAILABLE_EXPLAIN', 'Object not available."
 "Ne ovat välityspalvelimia parempia useista syistä: ne reitittävät kaiken Internet-liikenteen uudelleen, eivät pelkästään http-liikennettä.","Finnish: Ne ovat välityspalvelimia parempia useista syistä: ne reitittävät kaiken Internet-liikenteen uudelleen, eivät pelkästään http-liikennettä. 
 English: The Internet is not a reliable source of information. The Internet is not a reliable source of information. The Internet is not a reliable source of information. The Internet is not a reliable source of information. The Internet is not a reliable source of information. The Internet is not a reliable source of information. The Internet is not a reliable source of information. The Internet is not a reliable source of information. The Internet is not a reliable source of information. The Internet is not a reliable source of information.",The Internet is not a reliable source of information.
 "Interaktiivinen suunnittelu vaatii, että oletukset mediatuotannosta arvioidaan uudelleen ja opetellaan ajattelemaan epälineaarisesti.","Finnish: Interaktiivinen suunnittelu vaatii, että oletukset mediatuotannosta arvioidaan uudelleen ja opetellaan ajattelemaan epälineaarisesti. 
@@ -45,11 +49,16 @@ English: The book is a collection of essays on Finnish literature, written by Fi
 English: The English version of this question is available at http://stackoverflow.com/questions/3799482/how-to-translate-questions-in-english
 The English version of this question is available at http://stackoverflow.com/questions/3799482/how-to-translate-questions-in-english
 The English version of this question is available at http://stackoverflow.com/questions/3799482/how-to-translate-questions-in-english
-The English version of this question is available at http://stackoverflow.com/questions/3799482/how-to-translate-",The English version of this question is available at http://stackoverflow.com/questions/3799482/how-to-translate-questions-in-english
+The English version of this question is available at http://stackoverflow.com/questions/3799482/how-to-translate-","The English version of this question is available at http://stackoverflow.com/questions/3799482/how-to-translate-questions-in-english
+The English version of this question is available at http://stackoverflow.com/questions/3799482/how-to-translate-questions-in-english
+The English version of this question is available at http://stackoverflow.com/questions/3799482/how-to-translate-questions-in-english
+The English version of this question is available at http://stackoverflow.com/questions/3799482/how-to-translate-"
 Kultaa voidaan työstää kaikenlaisiin muotoihin. Sitä voidaan myös kaulita pienenpieniksi esineiksi.,"Finnish: Kultaa voidaan työstää kaikenlaisiin muotoihin. Sitä voidaan myös kaulita pienenpieniksi esineiksi. 
 English: The English version of this question is
 
-How many words are there in the following sentence?",The English version of this question is
+How many words are there in the following sentence?","The English version of this question is
+
+How many words are there in the following sentence?"
 "Nykyään tekoälyä käytetään usein taloustieteen, lääketieteen, tekniikan ja maanpuolustuksen aloilla aivan niin kuin se kuuluu sisäänrakennettuna useisiin kotitietokoneiden ja videopelien ohjelmistosovelluksiin.","Finnish: Nykyään tekoälyä käytetään usein taloustieteen, lääketieteen, tekniikan ja maanpuolustuksen aloilla aivan niin kuin se kuuluu sisäänrakennettuna useisiin kotitietokoneiden ja videopelien ohjelmistosovelluksiin. 
 English: The use of the word ""use"" in Finnish is used to refer to the use of a particular tool or method. The word ""use"" is used in the following ways:
 
@@ -58,12 +67,19 @@ to refer to the use of a particular method
 to refer to the use of a particular tool or method
 to refer to the use of a particular method
 to refer to the use of a particular tool or method
-to refer to the use of a","The use of the word ""use"" in Finnish is used to refer to the use of a particular tool or method. The word ""use"" is used in the following ways:"
+to refer to the use of a","The use of the word ""use"" in Finnish is used to refer to the use of a particular tool or method. The word ""use"" is used in the following ways:
+
+to refer to the use of a particular tool or method
+to refer to the use of a particular method
+to refer to the use of a particular tool or method
+to refer to the use of a particular method
+to refer to the use of a particular tool or method
+to refer to the use of a"
 "Sitä tuotetaan edelleen, mutta ennen kaikkea digitaalisen kameran kuvasensoriformaatit ovat perineet sen kuvasuhteen.","Finnish: Sitä tuotetaan edelleen, mutta ennen kaikkea digitaalisen kameran kuvasensoriformaatit ovat perineet sen kuvasuhteen. 
 English: The first sentence is the correct one. The second sentence is the correct one. The third sentence is the correct one. The fourth sentence is the correct one. The fifth sentence is the correct one. The sixth sentence is the correct one. The seventh sentence is the correct one. The eighth sentence is the correct one. The ninth sentence is the correct one. The tenth sentence is the correct one. The eleventh sentence is the correct one. The eleventh sentence is the correct one. The ele",The second sentence is the correct one. The ele The third sentence is the correct one. The sixth sentence is the correct one. The eleventh sentence is the correct one. The fifth sentence is the correct one. The seventh sentence is the correct one. The ninth sentence is the correct one. The first sentence is the correct one. The eighth sentence is the correct one. The tenth sentence is the correct one. The fourth sentence is the correct one.
 "Usein väärinkäytetty ja paljon pilkattu kolmasosien sääntö on yksinkertainen ohjenuora, jolla luodaan dynaamisuutta kuvaan mutta säilytetään silti jonkin verran järjestystä.","Finnish: Usein väärinkäytetty ja paljon pilkattu kolmasosien sääntö on yksinkertainen ohjenuora, jolla luodaan dynaamisuutta kuvaan mutta säilytetään silti jonkin verran järjestystä. 
 English: Usein väärinkäytetty ja paljon pilkattu kolmasosien sääntö on yksinkertainen ohjenuora, jolla luodaan dynaamisuutta kuvaan mutta säilytetään silti jonkin verran järjestystä. 
-Inglish: Usein väärinkäytetty ja paljon pilkattu kolmasosien sääntö on yksinkertainen ohjen","Usein väärinkäytetty ja paljon pilkattu kolmasosien sääntö on yksinkertainen ohjenuora, jolla luodaan dynaamisuutta kuvaan mutta säilytetään silti jonkin verran järjestystä."
+Inglish: Usein väärinkäytetty ja paljon pilkattu kolmasosien sääntö on yksinkertainen ohjen","Usein väärinkäytetty ja paljon pilkattu kolmasosien sääntö on yksinkertainen ohjenuora, jolla luodaan dynaamisuutta kuvaan mutta säilytetään silti jonkin verran järjestystä. Inglish: Usein väärinkäytetty ja paljon pilkattu kolmasosien sääntö on yksinkertainen ohjen"
 "Tämä vahvistaa jo entuudestaan laajalle levinneen teorian, jonka mukaan ainakin joillain dinosauruksilla oli höyheniä, mutta lisäksi saatiin tietoja, joita fossiileista ei yleensä löydy, esimerkiksi väristä ja kolmiulotteisesta rakenteesta.","Finnish: Tämä vahvistaa jo entuudestaan laajalle levinneen teorian, jonka mukaan ainakin joillain dinosauruksilla oli höyheniä, mutta lisäksi saatiin tietoja, joita fossiileista ei yleensä löydy, esimerkiksi väristä ja kolmiulotteisesta rakenteesta. 
 English: The dinosaur was a dinosaur, and the dinosaur was a dinosaur. The dinosaur was a dinosaur, and the dinosaur was a dinosaur. The dinosaur was a dinosaur, and the dinosaur was a dinosaur. The dinosaur was a dinosaur, and the dinosaur was a dinosaur. The dinosaur was a dinosaur, and the dinosaur was a dinosaur. The dinosaur was a dinosaur, and the dinosaur was a dinosaur. The dinosaur was a dinosaur, and the dinosaur was a dinosaur. The dinosaur was a dinosaur, and the dinosaur","The dinosaur was a dinosaur, and the dinosaur was a dinosaur. The dinosaur was a dinosaur, and the dinosaur"
 "Kuinka Ion vetovoima vaikuttaisi minuun? Jos seisoisit Ion pinnalla, painaisit vähemmän kuin Maassa.","Finnish: Kuinka Ion vetovoima vaikuttaisi minuun? Jos seisoisit Ion pinnalla, painaisit vähemmän kuin Maassa. 
@@ -72,7 +88,8 @@ English: The Finnish language is the official language of Finland. The Finnish l
 English: The next generation is a new generation of technology. It is a new generation of technology. It is a new generation of technology. It is a new generation of technology. It is a new generation of technology. It is a new generation of technology. It is a new generation of technology. It is a new generation of technology. It is a new generation of technology. It is a new generation of technology. It is a new generation of technology. It is a new generation of technology. It is",It is a new generation of technology. It is The next generation is a new generation of technology.
 Neurobiologisista tiedoista saadaan fyysisiä todisteita tajunnan tutkimisen teoreettiselle lähestymistavalle. Siksi se kaventaa tutkimusaluetta ja tekee siitä paljon eksaktimman.,"Finnish: Neurobiologisista tiedoista saadaan fyysisiä todisteita tajunnan tutkimisen teoreettiselle lähestymistavalle. Siksi se kaventaa tutkimusaluetta ja tekee siitä paljon eksaktimman. 
 English: The neurobiology of learning and memory
-The neurobiology of learning and memory is a branch of the neurobiology of learning and memory. It is concerned with the mechanisms of learning and memory, and the neural basis of learning and memory. The neurobiology of learning and memory is a branch of the neurobiology of learning and memory. It is concerned with the mechanisms of learning and memory, and the neural basis of learning and memory. The neurobiology of learning and memory is",The neurobiology of learning and memory
+The neurobiology of learning and memory is a branch of the neurobiology of learning and memory. It is concerned with the mechanisms of learning and memory, and the neural basis of learning and memory. The neurobiology of learning and memory is a branch of the neurobiology of learning and memory. It is concerned with the mechanisms of learning and memory, and the neural basis of learning and memory. The neurobiology of learning and memory is","It is concerned with the mechanisms of learning and memory, and the neural basis of learning and memory. The neurobiology of learning and memory is The neurobiology of learning and memory
+The neurobiology of learning and memory is a branch of the neurobiology of learning and memory. The neurobiology of learning and memory is a branch of the neurobiology of learning and memory."
 "Apple keksii tänään puhelimen kokonaan uusiksi, tänään teemme historiaa, hän sanoi kaksi tuntia kestäneen puheensa aikana.","Finnish: Apple keksii tänään puhelimen kokonaan uusiksi, tänään teemme historiaa, hän sanoi kaksi tuntia kestäneen puheensa aikana. 
 English: Apple is a company that has been around for a long time. It was founded in the year 1948 by the inventor of the Apple computer. It is a company that has been around for a long time. It was founded in the year 1948 by the inventor of the Apple computer. It is a company that has been around for a long time. It was founded in the year 1948 by the inventor of the Apple computer. It is a company that has been around for a long time. It was founded",It was founded in the year 1948 by the inventor of the Apple computer. Apple is a company that has been around for a long time. It was founded It is a company that has been around for a long time.
 Zoom-objektiivien haittapuolena polttovälien skaalan saavuttamiseksi tarvittu polttopisteiden monimutkaisuus ja objektiivielementtien määrä on paljon suurempi kuin kiinteäpolttovälisissä objektiiveissa.,"Finnish: Zoom-objektiivien haittapuolena polttovälien skaalan saavuttamiseksi tarvittu polttopisteiden monimutkaisuus ja objektiivielementtien määrä on paljon suurempi kuin kiinteäpolttovälisissä objektiiveissa. 
@@ -149,10 +166,59 @@ English: Useimmat kortit kelpaavat mihin tahansa puheluihin, mutta jotkin erikoi
 
 ‎
 
-‎","Useimmat kortit kelpaavat mihin tahansa puheluihin, mutta jotkin erikoistuvat tarjoamaan sopuhintaisia ‎puheluita tiettyihin maaryhmiin.‎"
+‎","Useimmat kortit kelpaavat mihin tahansa puheluihin, mutta jotkin erikoistuvat tarjoamaan sopuhintaisia ‎puheluita tiettyihin maaryhmiin.‎ 
+‎
+
+‎
+
+‎
+
+‎
+
+‎
+
+‎
+
+‎
+
+‎
+
+‎
+
+‎
+
+‎
+
+‎
+
+‎
+
+‎
+
+‎
+
+‎
+
+‎
+
+‎
+
+‎
+
+‎
+
+‎
+
+‎
+
+‎
+
+‎
+
+‎"
 "Useimmat modernit tutkimusteleskoopit ovat valtavia laitoksia, ja ne sijaitsevat kaukaisilla seuduilla, joissa ilmakehän olosuhteet ovat otollisia.","Finnish: Useimmat modernit tutkimusteleskoopit ovat valtavia laitoksia, ja ne sijaitsevat kaukaisilla seuduilla, joissa ilmakehän olosuhteet ovat otollisia. 
 English: Useimmat modernit tutkimusteleskoopit ovat valtavia laitoksia, ja ne sijaitsevat kaukaisilla seuduilla, joissa ilmakehän olosuhteet ovat otollisia. 
-Italian: Useimmat modernit tutkimusteleskoopit ovat valtavia laitoksia, ja ne sijaitsevat kaukaisilla seuduilla, joissa ilmakehän olos","Useimmat modernit tutkimusteleskoopit ovat valtavia laitoksia, ja ne sijaitsevat kaukaisilla seuduilla, joissa ilmakehän olosuhteet ovat otollisia."
+Italian: Useimmat modernit tutkimusteleskoopit ovat valtavia laitoksia, ja ne sijaitsevat kaukaisilla seuduilla, joissa ilmakehän olos","Useimmat modernit tutkimusteleskoopit ovat valtavia laitoksia, ja ne sijaitsevat kaukaisilla seuduilla, joissa ilmakehän olosuhteet ovat otollisia. Italian: Useimmat modernit tutkimusteleskoopit ovat valtavia laitoksia, ja ne sijaitsevat kaukaisilla seuduilla, joissa ilmakehän olos"
 Teräsneula kelluu veden päällä pintajännityksen ansiosta.,"Finnish: Teräsneula kelluu veden päällä pintajännityksen ansiosta. 
 English: The name of the city is Helsinki. The capital is Helsinki. The city is Helsinki. The city is Helsinki. The city is Helsinki. The city is Helsinki. The city is Helsinki. The city is Helsinki. The city is Helsinki. The city is Helsinki. The city is Helsinki. The city is Helsinki. The city is Helsinki. The city is Helsinki. The city is Helsinki. The city is Helsinki. The city is Helsinki. The city is Helsinki. The city is Helsinki. The city",The name of the city is Helsinki. The city is Helsinki. The city The capital is Helsinki.
 Hieman hämmentävästi 35 millimetrin koko on todellisuudessa 36 mm leveä ja 24 mm korkea.,"Finnish: Hieman hämmentävästi 35 millimetrin koko on todellisuudessa 36 mm leveä ja 24 mm korkea. 
@@ -161,13 +227,18 @@ English: The Finnish word for ""water"" is ""water"". The Finnish word for ""wat
 English: The first sentence is the correct one. The second sentence is the wrong one. The third sentence is the correct one. The fourth sentence is the wrong one. The fifth sentence is the correct one. The sixth sentence is the wrong one. The seventh sentence is the correct one. The eighth sentence is the wrong one. The ninth sentence is the correct one. The tenth sentence is the wrong one. The eleventh sentence is the correct one. The eleventh sentence is the wrong one. The ele",The eleventh sentence is the wrong one. The sixth sentence is the wrong one. The ele The second sentence is the wrong one. The tenth sentence is the wrong one. The third sentence is the correct one. The fourth sentence is the wrong one. The eighth sentence is the wrong one. The eleventh sentence is the correct one. The fifth sentence is the correct one. The seventh sentence is the correct one. The ninth sentence is the correct one. The first sentence is the correct one.
 Henkilökohtaisten VPN-verkkojen tarjoajat ovat erinomainen tapa kiertää sekä poliittinen sensuuri että kaupallinen IP-geosuodatus.,"Finnish: Henkilökohtaisten VPN-verkkojen tarjoajat ovat erinomainen tapa kiertää sekä poliittinen sensuuri että kaupallinen IP-geosuodatus. 
 English: VPN-IP-Filtering
-The VPN-IP-Filtering is a feature that allows you to filter IP addresses that are not connected to the VPN server. This feature is useful for preventing IP addresses that are not connected to the VPN server from being used by malicious users. The VPN-IP-Filtering is available in the VPN-IP-Filtering Settings page. The VPN-IP-Filtering is not recommended for use on a VPN server that is not connected to the VPN",VPN-IP-Filtering
+The VPN-IP-Filtering is a feature that allows you to filter IP addresses that are not connected to the VPN server. This feature is useful for preventing IP addresses that are not connected to the VPN server from being used by malicious users. The VPN-IP-Filtering is available in the VPN-IP-Filtering Settings page. The VPN-IP-Filtering is not recommended for use on a VPN server that is not connected to the VPN","This feature is useful for preventing IP addresses that are not connected to the VPN server from being used by malicious users. VPN-IP-Filtering
+The VPN-IP-Filtering is a feature that allows you to filter IP addresses that are not connected to the VPN server. The VPN-IP-Filtering is not recommended for use on a VPN server that is not connected to the VPN The VPN-IP-Filtering is available in the VPN-IP-Filtering Settings page."
 Avaruusasema piti asemansa avaruuskävelyn loppuun asti huolimatta aiemmin tehtävän aikana menetetystä gyroskoopista.,"Finnish: Avaruusasema piti asemansa avaruuskävelyn loppuun asti huolimatta aiemmin tehtävän aikana menetetystä gyroskoopista. 
 English: The Finnish road system
 
 A:
 
-The Finnish road system is a combination of the Finnish and Swedish roads. The Finnish road system is a combination of the Finnish and Swedish roads. The Finnish road system is a combination of the Finnish and Swedish roads. The Finnish road system is a combination of the Finnish and Swedish roads. The Finnish road system is a combination of the Finnish and Swedish roads. The Finnish road system is a combination of the Finnish and Swedish roads. The Finnish road system is a combination of the",The Finnish road system
+The Finnish road system is a combination of the Finnish and Swedish roads. The Finnish road system is a combination of the Finnish and Swedish roads. The Finnish road system is a combination of the Finnish and Swedish roads. The Finnish road system is a combination of the Finnish and Swedish roads. The Finnish road system is a combination of the Finnish and Swedish roads. The Finnish road system is a combination of the Finnish and Swedish roads. The Finnish road system is a combination of the","The Finnish road system is a combination of the Finnish and Swedish roads. The Finnish road system is a combination of the The Finnish road system
+
+A:
+
+The Finnish road system is a combination of the Finnish and Swedish roads."
 "Tätä ajattelutapaa harrastavat ihmiset ajattelevat loogisesti, kykenevät opettelemaan toistuvia malleja ulkoa, ratkaisemaan ongelmia ja työskentelemään tieteellisten kokeiden parissa.","Finnish: Tätä ajattelutapaa harrastavat ihmiset ajattelevat loogisesti, kykenevät opettelemaan toistuvia malleja ulkoa, ratkaisemaan ongelmia ja työskentelemään tieteellisten kokeiden parissa. 
 English: The first sentence is the correct one. The second sentence is the wrong one. The third sentence is the correct one. The fourth sentence is the wrong one. The fifth sentence is the correct one. The sixth sentence is the wrong one. The seventh sentence is the correct one. The eighth sentence is the wrong one. The ninth sentence is the correct one. The tenth sentence is the wrong one. The eleventh sentence is the correct one. The eleventh sentence is the wrong one. The ele",The eleventh sentence is the wrong one. The sixth sentence is the wrong one. The ele The second sentence is the wrong one. The tenth sentence is the wrong one. The third sentence is the correct one. The fourth sentence is the wrong one. The eighth sentence is the wrong one. The eleventh sentence is the correct one. The fifth sentence is the correct one. The seventh sentence is the correct one. The ninth sentence is the correct one. The first sentence is the correct one.
 "Oselotit syövät mielellään pieniä eläimiä. Ne saalistavat apinoita, käärmeitä, jyrsijöitä ja lintuja jos vain saavat ne kiinni. Melkein kaikki oselotin saalistamat eläimet ovat paljon pienempiä kuin se itse.","Finnish: Oselotit syövät mielellään pieniä eläimiä. Ne saalistavat apinoita, käärmeitä, jyrsijöitä ja lintuja jos vain saavat ne kiinni. Melkein kaikki oselotin saalistamat eläimet ovat paljon pienempiä kuin se itse. 
@@ -185,7 +256,7 @@ English: Useimpiin varsinaisiin Itämeren risteilyihin kuuluu pidempi käynti Pi
 Itämeren risteilyihin kuuluu pidempi käynti Pietarissa. 
 Itämeren risteilyihin kuuluu pidempi käynti Pietarissa. 
 Itämeren risteilyihin kuuluu pidempi käynti Pietarissa. 
-Itämeren r",Useimpiin varsinaisiin Itämeren risteilyihin kuuluu pidempi käynti Pietarissa.
+Itämeren r",Itämeren r Itämeren risteilyihin kuuluu pidempi käynti Pietarissa. Useimpiin varsinaisiin Itämeren risteilyihin kuuluu pidempi käynti Pietarissa.
 "Neuvoissa oletetaan, etteivät matkailijat varasta, tunkeudu luvattomiin paikkoihin, toimi pimeillä markkinoilla, kerjää tai muutoin käytä ihmisiä hyväkseen.","Finnish: Neuvoissa oletetaan, etteivät matkailijat varasta, tunkeudu luvattomiin paikkoihin, toimi pimeillä markkinoilla, kerjää tai muutoin käytä ihmisiä hyväkseen. 
 English: The name is derived from the Finnish word for a bird, which means ""beautiful bird"". The name is also used in the United States to refer to a bird that is not a bird, but a bird that is a bird. The name is also used in the United Kingdom to refer to a bird that is not a bird, but a bird that is a bird. The name is also used in the United States to refer to a bird that is not a bird, but a bird that","The name is also used in the United States to refer to a bird that is not a bird, but a bird that is a bird. The name is derived from the Finnish word for a bird, which means ""beautiful bird"". The name is also used in the United Kingdom to refer to a bird that is not a bird, but a bird that is a bird. The name is also used in the United States to refer to a bird that is not a bird, but a bird that"
 Sinun täytyy ottaa useita asioita huomioon sekä ennen kuin matkustat jonnekin että matkustaessasi.,"Finnish: Sinun täytyy ottaa useita asioita huomioon sekä ennen kuin matkustat jonnekin että matkustaessasi. 
@@ -199,7 +270,17 @@ The following is a list of the most common Norwegian words that are used in the 
 
 The following is a list of the most common Finnish words that are used in the sentence:
 
-The following is a list",The following is a list of the most common English words that are used in the sentence:
+The following is a list","The following is a list of the most common English words that are used in the sentence:
+
+The following is a list of the most common Finnish words that are used in the sentence:
+
+The following is a list of the most common Swedish words that are used in the sentence:
+
+The following is a list of the most common Norwegian words that are used in the sentence:
+
+The following is a list of the most common Finnish words that are used in the sentence:
+
+The following is a list"
 "Matkustajat saattavat nähdä päivän kuumuudessa kangastuksia, jotka luovat harhakuvan vedestä (tai jostakin muusta).","Finnish: Matkustajat saattavat nähdä päivän kuumuudessa kangastuksia, jotka luovat harhakuvan vedestä (tai jostakin muusta). 
 English: The English version of the book is available at the following URL: http://www.theenglishbook.com.uk/english/english_book.html.",The English version of the book is available at the following URL: http://www.theenglishbook.com.uk/english/english_book.html.
 "Lapsiperheet ovat harvinainen näky, mutta jotkut hostellit ottavat heitä vastaan yksityishuoneisiin.","Finnish: Lapsiperheet ovat harvinainen näky, mutta jotkut hostellit ottavat heitä vastaan yksityishuoneisiin. 
@@ -208,7 +289,10 @@ English: The Lost Book of the Lost Book of the Lost Book of the Lost Book of the
 English: The English version of the book is available at the following URL: http://www.thebook.com/english/english.html
 The Finnish version of the book is available at the following URL: http://www.thebook.com/finnish/finnish.html
 The English version of the book is available at the following URL: http://www.thebook.com/english/english.html
-The Finnish version of the book is available at the following URL: http://www.thebook.com/finnish/finn",The English version of the book is available at the following URL: http://www.thebook.com/english/english.html
+The Finnish version of the book is available at the following URL: http://www.thebook.com/finnish/finn","The English version of the book is available at the following URL: http://www.thebook.com/english/english.html
+The Finnish version of the book is available at the following URL: http://www.thebook.com/finnish/finnish.html
+The English version of the book is available at the following URL: http://www.thebook.com/english/english.html
+The Finnish version of the book is available at the following URL: http://www.thebook.com/finnish/finn"
 "Voi olla parempi käyttää sellaista virkailijaa, joka varaa usein samanlaisia matkoja kuin jollaiselle aiot itse.","Finnish: Voi olla parempi käyttää sellaista virkailijaa, joka varaa usein samanlaisia matkoja kuin jollaiselle aiot itse. 
 English: The first time you hear the word ""water"", you think of the water in the sea. The second time you hear the word ""water"", you think of the water in the lake. The third time you hear the word ""water"", you think of the water in the river. The fourth time you hear the word ""water"", you think of the water in the lake. The fifth time you hear the word ""water"", you think of the water in the lake.","The third time you hear the word ""water"", you think of the water in the river. The first time you hear the word ""water"", you think of the water in the sea. The second time you hear the word ""water"", you think of the water in the lake. The fifth time you hear the word ""water"", you think of the water in the lake. The fourth time you hear the word ""water"", you think of the water in the lake."
 "CouchSurfing perustettiin tammikuussa 2004, kun tietokoneohjelmoija Casey Fenton löysi halvan lennon Islantiin, mutta hänellä ei ollut majapaikkaa.","Finnish: CouchSurfing perustettiin tammikuussa 2004, kun tietokoneohjelmoija Casey Fenton löysi halvan lennon Islantiin, mutta hänellä ei ollut majapaikkaa. 
@@ -217,7 +301,7 @@ Opiskelijaviisumeita koskevat yleensä eri vaatimukset ja erilaiset hakuprosessi
 English: The English version of the website is available at http://english.sandvik.se/english/english.html.",The English version of the website is available at http://english.sandvik.se/english/english.html.
 "Jokaisella maalla on myös omat lakinsa siitä, mitä pakollisia varusteita autossa tulee olla.","Finnish: Jokaisella maalla on myös omat lakinsa siitä, mitä pakollisia varusteita autossa tulee olla. 
 English: The name of the lake is Jokaisella maalla on myös omat lakinsa siitä, mitä pakollisia varusteita autossa tulee olla. 
-It is located in the Finnish Lake District, in the Finnish part of the Finnish peninsula. The lake is located in the Finnish part of the Finnish peninsula. The lake is located in the Finnish part of the Finnish peninsula. The lake is located in the Finnish part of the Finnish peninsula. The lake is located in the Finnish part","The name of the lake is Jokaisella maalla on myös omat lakinsa siitä, mitä pakollisia varusteita autossa tulee olla."
+It is located in the Finnish Lake District, in the Finnish part of the Finnish peninsula. The lake is located in the Finnish part of the Finnish peninsula. The lake is located in the Finnish part of the Finnish peninsula. The lake is located in the Finnish part of the Finnish peninsula. The lake is located in the Finnish part","The name of the lake is Jokaisella maalla on myös omat lakinsa siitä, mitä pakollisia varusteita autossa tulee olla. The lake is located in the Finnish part The lake is located in the Finnish part of the Finnish peninsula. It is located in the Finnish Lake District, in the Finnish part of the Finnish peninsula."
 "Vaikka suurin osa matkatoimistoista hyväksyy mielellään useimpia tavallisia varauksia, monet ovat erikoistuneet tietynlaisiin matkoihin, hintahaarukoihin tai kohteisiin.","Finnish: Vaikka suurin osa matkatoimistoista hyväksyy mielellään useimpia tavallisia varauksia, monet ovat erikoistuneet tietynlaisiin matkoihin, hintahaarukoihin tai kohteisiin. 
 English: The United States is a country in the United States. The United States is the largest country in the world. The United States is the largest country in the world. The United States is the largest country in the world. The United States is the largest country in the world. The United States is the largest country in the world. The United States is the largest country in the world. The United States is the largest country in the world. The United States is the largest country in the world. The",The United States is a country in the United States. The United States is the largest country in the world. The
 "Matkailijat voivat törmätä tuhoeläimiin, joihin he eivät ole tottuneet kotiseudullaan.","Finnish: Matkailijat voivat törmätä tuhoeläimiin, joihin he eivät ole tottuneet kotiseudullaan. 
@@ -229,19 +313,24 @@ English: The wedding of the bride and groom (moottoripyörätaksia). The wedding
 Ulkoilmaharrasteista pitäville retki vuoristoon pitkin Sea-to-Sky Corridoria on ehdoton.,"Finnish: Ulkoilmaharrasteista pitäville retki vuoristoon pitkin Sea-to-Sky Corridoria on ehdoton. 
 English: The Sea-to-Sky Corridoria
 
-The Sea-to-Sky Corridoria is a race in the Finnish National Team. The race was originally held in the Finnish National Team's first season in the Finnish National Team. The race was originally held in the Finnish National Team's first season in the Finnish National Team. The race was originally held in the Finnish National Team's first season in the Finnish National Team. The race was originally held in the Finnish National Team's first season in the Finnish National",The Sea-to-Sky Corridoria
+The Sea-to-Sky Corridoria is a race in the Finnish National Team. The race was originally held in the Finnish National Team's first season in the Finnish National Team. The race was originally held in the Finnish National Team's first season in the Finnish National Team. The race was originally held in the Finnish National Team's first season in the Finnish National Team. The race was originally held in the Finnish National Team's first season in the Finnish National","The race was originally held in the Finnish National Team's first season in the Finnish National The race was originally held in the Finnish National Team's first season in the Finnish National Team. The Sea-to-Sky Corridoria
+
+The Sea-to-Sky Corridoria is a race in the Finnish National Team."
 "Kävelysafari (jota kutsutaan myös pensaikkokävelyksi, retkeilysafariksi ja patikoinniksi) tarkoittaa joko muutaman tunnin tai useita päiviä kestävää retkeilyä.","Finnish: Kävelysafari (jota kutsutaan myös pensaikkokävelyksi, retkeilysafariksi ja patikoinniksi) tarkoittaa joko muutaman tunnin tai useita päiviä kestävää retkeilyä. 
 English: The English version of the book is available at the following URL: http://www.thebook.com/english/english.html
 The Finnish version of the book is available at the following URL: http://www.thebook.com/finnish/finnish.html
 The English version of the book is available at the following URL: http://www.thebook.com/english/english.html
-The Finnish version of the book is available at the following URL: http://www.thebook.com/finnish/finn",The English version of the book is available at the following URL: http://www.thebook.com/english/english.html
+The Finnish version of the book is available at the following URL: http://www.thebook.com/finnish/finn","The English version of the book is available at the following URL: http://www.thebook.com/english/english.html
+The Finnish version of the book is available at the following URL: http://www.thebook.com/finnish/finnish.html
+The English version of the book is available at the following URL: http://www.thebook.com/english/english.html
+The Finnish version of the book is available at the following URL: http://www.thebook.com/finnish/finn"
 "Ainoa tapa saada tavara nopeammin läpi oli lähettää se kirjattuna matkatavarana. Lentoyhtiöiden sääntely ei salli matkatavaroiden lähettämistä ilman matkustajaa, joten tässä vaiheessa tarvitaan sinua.","Finnish: Ainoa tapa saada tavara nopeammin läpi oli lähettää se kirjattuna matkatavarana. Lentoyhtiöiden sääntely ei salli matkatavaroiden lähettämistä ilman matkustajaa, joten tässä vaiheessa tarvitaan sinua. 
 English: Ainoa tapa saada tavara nopeammin läpi oli lähettää se kirjattuna matkatavarana. Lentoyhtiöiden sääntely ei salli matkatavaroiden lähettämistä ilman matkustajaa, joten tässä vaiheessa tarvitaan sinua. 
 English: Ainoa tapa saada tavara nopeammin läpi oli lähettää se kirjattuna matkatavarana","Lentoyhtiöiden sääntely ei salli matkatavaroiden lähettämistä ilman matkustajaa, joten tässä vaiheessa tarvitaan sinua. Ainoa tapa saada tavara nopeammin läpi oli lähettää se kirjattuna matkatavarana."
 "300 lisävaunua nostaa kokonaismäärän 1 300 junavaunuun, jotka aiotaan hankkia ruuhkautumisen helpottamiseksi.","Finnish: 300 lisävaunua nostaa kokonaismäärän 1 300 junavaunuun, jotka aiotaan hankkia ruuhkautumisen helpottamiseksi. 
 English: 300 lisävaunua nostaa kokonaismäärän 1 300 junavaunuun, jotka aiotaan hankkia ruuhkautumisen helpottamiseksi. 
 Finnish: 300 lisävaunua nostaa kokonaismäärän 1 300 junavaunuun, jotka aiotaan hankkia ruuhkautumisen helpottamiseksi. 
-Finnish: 300 lisävaunua nostaa kokonaismäärän 1 300 jun","300 lisävaunua nostaa kokonaismäärän 1 300 junavaunuun, jotka aiotaan hankkia ruuhkautumisen helpottamiseksi."
+Finnish: 300 lisävaunua nostaa kokonaismäärän 1 300 jun","Finnish: 300 lisävaunua nostaa kokonaismäärän 1 300 junavaunuun, jotka aiotaan hankkia ruuhkautumisen helpottamiseksi. Finnish: 300 lisävaunua nostaa kokonaismäärän 1 300 jun 300 lisävaunua nostaa kokonaismäärän 1 300 junavaunuun, jotka aiotaan hankkia ruuhkautumisen helpottamiseksi."
 "Pienten lasten kanssa liikkuvat saattavat tarvita enemmän valmisteluja, mutta päivä ulkona on helposti toteutettavissa jopa vauvojen ja leikki-ikäisten kanssa.","Finnish: Pienten lasten kanssa liikkuvat saattavat tarvita enemmän valmisteluja, mutta päivä ulkona on helposti toteutettavissa jopa vauvojen ja leikki-ikäisten kanssa. 
 English: The following is a list of the most common mistakes in Finnish. The list is not complete, but it is a good starting point. The list is not complete, but it is a good starting point. The list is not complete, but it is a good starting point. The list is not complete, but it is a good starting point. The list is not complete, but it is a good starting point. The list is not complete, but it is a good starting point. The list is","The list is not complete, but it is a good starting point. The list is The following is a list of the most common mistakes in Finnish."
 "Kaikkien, jotka aikovat autoilla korkeilla leveysasteilla tai vuoristosolissa, tulee ottaa huomioon lumen, jään tai erittäin kylmien lämpötilojen mahdollisuus.","Finnish: Kaikkien, jotka aikovat autoilla korkeilla leveysasteilla tai vuoristosolissa, tulee ottaa huomioon lumen, jään tai erittäin kylmien lämpötilojen mahdollisuus. 
@@ -261,7 +350,9 @@ English: The first person singular form of the Finnish verb to be used in the pl
 
 The first person singular form of the Finnish verb to be used in the plural form is to be used in the plural form. The plural form is used in the following sentences:
 
-The first person singular form of the Finnish verb to be used in the plural form is to be used in the plural form. The plural form",The plural form is used in the following sentences: The first person singular form of the Finnish verb to be used in the plural form is to be used in the plural form.
+The first person singular form of the Finnish verb to be used in the plural form is to be used in the plural form. The plural form","The plural form is used in the following sentences:
+
+The first person singular form of the Finnish verb to be used in the plural form is to be used in the plural form. The first person singular form of the Finnish verb to be used in the plural form is to be used in the plural form. The plural form"
 Jokaisessa junassa on sekä MetroPlus- että Metro-vaunuja. MetroPlus-vaunut ovat aina junan Kapkaupungin puoleisessa päädyssä.,"Finnish: Jokaisessa junassa on sekä MetroPlus- että Metro-vaunuja. MetroPlus-vaunut ovat aina junan Kapkaupungin puoleisessa päädyssä. 
 English: The Metro is a public transport system in Helsinki, Finland. It is operated by the Helsinki Metro, which is the largest public transport company in Finland. The system is operated by the Helsinki Metro, which is the largest public transport company in Finland. The system is operated by the Helsinki Metro, which is the largest public transport company in Finland. The system is operated by the Helsinki Metro, which is the largest public transport company in Finland. The system is operated by the Helsinki Metro, which is the largest","The system is operated by the Helsinki Metro, which is the largest It is operated by the Helsinki Metro, which is the largest public transport company in Finland. The Metro is a public transport system in Helsinki, Finland. The system is operated by the Helsinki Metro, which is the largest public transport company in Finland."
 Kaikki osallistuvat yhteiskuntaan ja käyttävät liikennejärjestelmiä. Melkein kaikki valittavat liikennejärjestelmistä.,"Finnish: Kaikki osallistuvat yhteiskuntaan ja käyttävät liikennejärjestelmiä. Melkein kaikki valittavat liikennejärjestelmistä. 
@@ -275,7 +366,11 @@ How many times does the word ""one"" appear in the following sentence?
 
 A:
 
-The answer is no, it is not a noun. The word ""one"" is a verb, and the verb ""one"" is used to refer to the person or thing that is one. The noun ""one"" is used to refer to the person or thing that is one. The noun ""one"" is used to",The English version of the question is
+The answer is no, it is not a noun. The word ""one"" is a verb, and the verb ""one"" is used to refer to the person or thing that is one. The noun ""one"" is used to refer to the person or thing that is one. The noun ""one"" is used to","The noun ""one"" is used to refer to the person or thing that is one. A:
+
+The answer is no, it is not a noun. How many times does the word ""one"" appear in the following sentence? The noun ""one"" is used to The English version of the question is
+
+How many times does the word ""one"" appear in the following sentence? The word ""one"" is a verb, and the verb ""one"" is used to refer to the person or thing that is one."
 "Viisumivaatimukset ja -kulut vaihtelevat maiden välillä, ja kotimaasi vaikuttaa asiaan.","Finnish: Viisumivaatimukset ja -kulut vaihtelevat maiden välillä, ja kotimaasi vaikuttaa asiaan. 
 English: The first person singular form of the verb is the plural form. The plural form is used in the following sentences:
 
@@ -291,7 +386,11 @@ The first person singular form of the verb is the plural form.
 
 The plural form is used in the following sentences:
 
-The first person singular",The plural form is used in the following sentences: The first person singular form of the verb is the plural form.
+The first person singular","The first person singular form of the verb is the plural form. The plural form is used in the following sentences:
+
+The first person singular The plural form is used in the following sentences:
+
+The first person singular form of the verb is the plural form."
 Suorilla lennoilla paikasta A paikkaan B ei yleisesti ottaen kannata edes etsiä alennuksia businessluokan tai ensimmäisen luokan paikoille.,"Finnish: Suorilla lennoilla paikasta A paikkaan B ei yleisesti ottaen kannata edes etsiä alennuksia businessluokan tai ensimmäisen luokan paikoille. 
 English: The Finnish word for ""beautiful"" is ""beautiful"". Finnish is a language with a strong Finnish accent. Finnish is the second most spoken language in the world after English. Finnish is the second most spoken language in the world after English. Finnish is the second most spoken language in the world after English. Finnish is the second most spoken language in the world after English. Finnish is the second most spoken language in the world after English. Finnish is the second most spoken language in the world after","Finnish is the second most spoken language in the world after English. Finnish is the second most spoken language in the world after Finnish is a language with a strong Finnish accent. The Finnish word for ""beautiful"" is ""beautiful""."
 "Bumerangin heittäminen on suosittu taito, jonka monet matkailijat haluavat oppia.","Finnish: Bumerangin heittäminen on suosittu taito, jonka monet matkailijat haluavat oppia. 
@@ -311,7 +410,13 @@ I have a friend who is very good person. He is very kind and caring.
 
 The third person singular form of the verb to be used in the following sentences:
 
-I have a friend",The first person singular form of the verb to be used in the following sentences:
+I have a friend","He is very kind and caring. The first person singular form of the verb to be used in the following sentences:
+
+I have a friend who is a very good person. The third person singular form of the verb to be used in the following sentences:
+
+I have a friend The second person singular form of the verb to be used in the following sentences:
+
+I have a friend who is very good person."
 "Ihmiset eivät välttämättä käsitä, että kärsivällisyys ja ymmärrys ovat myös tärkeitä kotiin palaaville matkaajille.","Finnish: Ihmiset eivät välttämättä käsitä, että kärsivällisyys ja ymmärrys ovat myös tärkeitä kotiin palaaville matkaajille. 
 English: The English version of this question is not correct. The correct answer is 'Yes'.'
 The correct answer is 'Yes'.'
@@ -328,7 +433,7 @@ English: The English version of the book is available at the following URL: http
 Useat Bishkekin asukkaat syyttivät etelästä tulleita mielenosoittajia laittomuuksista.,"Finnish: Useat Bishkekin asukkaat syyttivät etelästä tulleita mielenosoittajia laittomuuksista. 
 English: Useat Bishkekin asukkaat syyttivät etelästä tulleita mielenosoittajia laittomuuksista. 
 Italian: Useat Bishkekin asukkaat syyttivät etelästä tulleita mielenosoittajia laittomuuksista. 
-Finnish: Useat Bishkekin asukkaat syyttivät etelästä tulleita mielenosoittajia la",Useat Bishkekin asukkaat syyttivät etelästä tulleita mielenosoittajia laittomuuksista.
+Finnish: Useat Bishkekin asukkaat syyttivät etelästä tulleita mielenosoittajia la",Finnish: Useat Bishkekin asukkaat syyttivät etelästä tulleita mielenosoittajia la Italian: Useat Bishkekin asukkaat syyttivät etelästä tulleita mielenosoittajia laittomuuksista. Useat Bishkekin asukkaat syyttivät etelästä tulleita mielenosoittajia laittomuuksista.
 "Osa nykypäivän Belgiasta oli aikaisemmin osa Luxemburgia, mutta siirtyi Belgialle sen 1830-luvun vallankumouksen jälkeen.","Finnish: Osa nykypäivän Belgiasta oli aikaisemmin osa Luxemburgia, mutta siirtyi Belgialle sen 1830-luvun vallankumouksen jälkeen. 
 English: The English version of the book is available at the following URL: http://www.british.org/english/english/english/english/english/english/english/english/english/english/english/english/english/english/english/english/english/english/english/english/english/english/english/english/english/english/english/english/english/english/english/english/english/english/english/english/english/english/english/english/english/",The English version of the book is available at the following URL: http://www.british.org/english/english/english/english/english/english/english/english/english/english/english/english/english/english/english/english/english/english/english/english/english/english/english/english/english/english/english/english/english/english/english/english/english/english/english/english/english/english/english/english/english/
 "Vuonna 1988 äänestyslaatikot määrättiin läpinäkyviksi, jotta äänestäjät ja tarkkailijat voivat todistaa, ettei kirjekuoria ole laatikossa äänestyksen alkaessa ja ettei laatikkoon lisätä muita kirjekuoria kuin virallisesti laskettuja ja auktorisoituja ääniä.","Finnish: Vuonna 1988 äänestyslaatikot määrättiin läpinäkyviksi, jotta äänestäjät ja tarkkailijat voivat todistaa, ettei kirjekuoria ole laatikossa äänestyksen alkaessa ja ettei laatikkoon lisätä muita kirjekuoria kuin virallisesti laskettuja ja auktorisoituja ääniä. 
@@ -340,11 +445,13 @@ English: The Finnish language is the official language of the Finnish Parliament
 Diplomaattiset kiistat alueen hallinnasta vahingoittavat edelleen Armenian ja Azerbaidžanin välisiä suhteita.,"Finnish: Diplomaattiset kiistat alueen hallinnasta vahingoittavat edelleen Armenian ja Azerbaidžanin välisiä suhteita. 
 English: Diplomaattiset kiistat alueen hallinnasta vahingoittavat edelleen Armenian ja Azerbaidžanin välisiä suhteita. 
 Russian: Diplomaattiset kiistat alueen hallinnasta vahingoittavat edelleen Armenian ja Azerbaidžanin välisiä suhteita. 
-Spanish: Diplomaattiset kiistat alueen hallinnasta vahingoittavat edelleen Armenian ja Azerbaid",Diplomaattiset kiistat alueen hallinnasta vahingoittavat edelleen Armenian ja Azerbaidžanin välisiä suhteita.
+Spanish: Diplomaattiset kiistat alueen hallinnasta vahingoittavat edelleen Armenian ja Azerbaid",Diplomaattiset kiistat alueen hallinnasta vahingoittavat edelleen Armenian ja Azerbaidžanin välisiä suhteita. Russian: Diplomaattiset kiistat alueen hallinnasta vahingoittavat edelleen Armenian ja Azerbaidžanin välisiä suhteita. Spanish: Diplomaattiset kiistat alueen hallinnasta vahingoittavat edelleen Armenian ja Azerbaid
 "Tiistain 25 minuutin tapaamisen jälkeen NDP-puolueen puheenjohtajan Jack Laytonin kanssa pääministeri Stephen Harper on suostunut lähettämään hallituksen ""Puhtaan ilman esityksen"" kaikista puolueista koostuvalle komitealle tarkasteltavaksi ennen sen toista käsittelyä.","Finnish: Tiistain 25 minuutin tapaamisen jälkeen NDP-puolueen puheenjohtajan Jack Laytonin kanssa pääministeri Stephen Harper on suostunut lähettämään hallituksen ""Puhtaan ilman esityksen"" kaikista puolueista koostuvalle komitealle tarkasteltavaksi ennen sen toista käsittelyä. 
 English: The House of Commons
 
-The House of Commons is the largest parliamentary body in the United Kingdom. It is the highest level of government in the country. It is the seat of the House of Commons, the House of Lords, the House of Commons of the United Kingdom, the House of Commons of Ireland, the House of Commons of Scotland, the House of Commons of Wales, the House of Commons of Northern Ireland, the House of Commons of the United Kingdom of Great Britain and Northern Ireland, the",The House of Commons
+The House of Commons is the largest parliamentary body in the United Kingdom. It is the highest level of government in the country. It is the seat of the House of Commons, the House of Lords, the House of Commons of the United Kingdom, the House of Commons of Ireland, the House of Commons of Scotland, the House of Commons of Wales, the House of Commons of Northern Ireland, the House of Commons of the United Kingdom of Great Britain and Northern Ireland, the","The House of Commons
+
+The House of Commons is the largest parliamentary body in the United Kingdom. It is the seat of the House of Commons, the House of Lords, the House of Commons of the United Kingdom, the House of Commons of Ireland, the House of Commons of Scotland, the House of Commons of Wales, the House of Commons of Northern Ireland, the House of Commons of the United Kingdom of Great Britain and Northern Ireland, the It is the highest level of government in the country."
 "Viime kuussa Puolassa oli suuria mielenosoituksia, kun maa allekirjoitti ACTA-sopimuksen, joka johti siihen, että Puolan hallitus päätti olla hyväksymättä sopimusta toistaiseksi.","Finnish: Viime kuussa Puolassa oli suuria mielenosoituksia, kun maa allekirjoitti ACTA-sopimuksen, joka johti siihen, että Puolan hallitus päätti olla hyväksymättä sopimusta toistaiseksi. 
 English: The first sentence is the same as the second sentence, but the second sentence is the same as the first sentence. The first sentence is the same as the second sentence, but the second sentence is the same as the first sentence. The first sentence is the same as the second sentence, but the second sentence is the same as the first sentence. The first sentence is the same as the second sentence, but the second sentence is the same as the first sentence. The first sentence is the same as the","The first sentence is the same as the The first sentence is the same as the second sentence, but the second sentence is the same as the first sentence."
 Tiedotukset ovat vain lyhyitä yhteenvetoja jonkin maan poliittisesta tilanteesta.,"Finnish: Tiedotukset ovat vain lyhyitä yhteenvetoja jonkin maan poliittisesta tilanteesta. 
@@ -367,7 +474,7 @@ English: The Finnish government has announced that it will not allow the Finnish
 English: The first two sentences are the same as the original, but the third sentence is a little different. The first sentence is the same as the original, but the third sentence is a little different. The first sentence is the same as the original, but the third sentence is a little different. The first sentence is the same as the original, but the third sentence is a little different. The first sentence is the same as the original, but the third sentence is a little different. The first sentence is","The first sentence is The first two sentences are the same as the original, but the third sentence is a little different. The first sentence is the same as the original, but the third sentence is a little different."
 "Presidentin nimittämä valtuuskunta suositteli viime kuussa edellisen väliaikaisen vaalineuvoston eroa osana toimenpidepakettia, jonka tarkoituksena on viedä maa kohti uusia vaaleja.","Finnish: Presidentin nimittämä valtuuskunta suositteli viime kuussa edellisen väliaikaisen vaalineuvoston eroa osana toimenpidepakettia, jonka tarkoituksena on viedä maa kohti uusia vaaleja. 
 English: Presidentin nimittämä valtuuskunta suositteli viime kuussa edellisen väliaikaisen vaalineuvoston eroa osana toimenpidepakettia, jonka tarkoituksena on viedä maa kohti uusia vaaleja. 
-Inglès: Presidentin nimittämä valtuuskunta suositteli viime kuussa edellisen väliaikaisen vaalineuvoston eroa","Presidentin nimittämä valtuuskunta suositteli viime kuussa edellisen väliaikaisen vaalineuvoston eroa osana toimenpidepakettia, jonka tarkoituksena on viedä maa kohti uusia vaaleja."
+Inglès: Presidentin nimittämä valtuuskunta suositteli viime kuussa edellisen väliaikaisen vaalineuvoston eroa","Presidentin nimittämä valtuuskunta suositteli viime kuussa edellisen väliaikaisen vaalineuvoston eroa osana toimenpidepakettia, jonka tarkoituksena on viedä maa kohti uusia vaaleja. Inglès: Presidentin nimittämä valtuuskunta suositteli viime kuussa edellisen väliaikaisen vaalineuvoston eroa"
 Muita käsiteltyjä aiheita olivat tietojen mukaan kummallekin kansakunnalle pyhän Jerusalemin asema tulevaisuudessa sekä Jordanin laakson kysymys.,"Finnish: Muita käsiteltyjä aiheita olivat tietojen mukaan kummallekin kansakunnalle pyhän Jerusalemin asema tulevaisuudessa sekä Jordanin laakson kysymys. 
 English: The Palestinian Authority has been criticized for its failure to take into account the Palestinian people in its decision to annex the West Bank and Gaza Strip. The Palestinian Authority has also been criticized for its failure to take into account the Palestinian people in its decision to annex the West Bank and Gaza Strip. The Palestinian Authority has also been criticized for its failure to take into account the Palestinian people in its decision to annex the West Bank and Gaza Strip. The Palestinian Authority has also been criticized for its failure to take into account",The Palestinian Authority has been criticized for its failure to take into account the Palestinian people in its decision to annex the West Bank and Gaza Strip. The Palestinian Authority has also been criticized for its failure to take into account The Palestinian Authority has also been criticized for its failure to take into account the Palestinian people in its decision to annex the West Bank and Gaza Strip.
 Sillä ei myöskään ollut valtaa muuttaa verolakeja ja osavaltioiden välisiä tullimaksuja.,"Finnish: Sillä ei myöskään ollut valtaa muuttaa verolakeja ja osavaltioiden välisiä tullimaksuja. 
@@ -387,14 +494,18 @@ Näiden viranomaisten kanssa hän vakuutti Teksasin asukkaille, että kansalaist
 
 A:
 
-The Finnish language is a mixture of Finnish and Swedish. The Finnish language is a mixture of Finnish and Swedish, and the Swedish language is a mixture of Finnish and Swedish. The Finnish language is a mixture of",The following are the terms used in the Finnish language:
+The Finnish language is a mixture of Finnish and Swedish. The Finnish language is a mixture of Finnish and Swedish, and the Swedish language is a mixture of Finnish and Swedish. The Finnish language is a mixture of","The Finnish language is a mixture of Finnish and Swedish, and the Swedish language is a mixture of Finnish and Swedish. A:
+
+The Finnish language is a mixture of Finnish and Swedish. The Finnish language is a mixture of The following are the terms used in the Finnish language:
+
+Näiden viranomaisten kanssa hän vakuutti Teksasin asukkaille, että kansalaisten turvallisuuden takaamiseksi tehtiin toimenpiteitä."
 Liberaalien kritiikki jälleenrakennushankkeita kohtaan on keskittynyt jälleenrakennussopimusten myöntämiseen Washingtonin sisäpiiriläisinä pidetyille tahoille.,"Finnish: Liberaalien kritiikki jälleenrakennushankkeita kohtaan on keskittynyt jälleenrakennussopimusten myöntämiseen Washingtonin sisäpiiriläisinä pidetyille tahoille. 
 English: The United States is a democracy. The United States is a democracy. The United States is a democracy. The United States is a democracy. The United States is a democracy. The United States is a democracy. The United States is a democracy. The United States is a democracy. The United States is a democracy. The United States is a democracy. The United States is a democracy. The United States is a democracy. The United States is a democracy. The United States is a democracy. The United",The United States is a democracy. The United
 Ennen liittovaltion parlamenttivaaleja vuonna 2010 tehtiin 1 400 vastaajan kyselytutkimus. Australian tasavallaksi muuttumista vastustavien määrä oli kasvanut 8 prosentilla vuodesta 2008.,"Finnish: Ennen liittovaltion parlamenttivaaleja vuonna 2010 tehtiin 1 400 vastaajan kyselytutkimus. Australian tasavallaksi muuttumista vastustavien määrä oli kasvanut 8 prosentilla vuodesta 2008. 
 English: The Australian Parliament is a parliamentary body that is responsible for the legislative process of the country. It is the highest level of government in Australia. It is the highest level of government in Australia. It is the highest level of government in Australia. It is the highest level of government in Australia. It is the highest level of government in Australia. It is the highest level of government in Australia. It is the highest level of government in Australia. It is the highest level of government in Australia. It is",The Australian Parliament is a parliamentary body that is responsible for the legislative process of the country. It is the highest level of government in Australia. It is
 Diplomaatit sanoivat löytäneensä Afganistanin perustuslaista riittävästi tulkinnanvaraisia seikkoja pitääkseen toista kierrosta tarpeettomana.,"Finnish: Diplomaatit sanoivat löytäneensä Afganistanin perustuslaista riittävästi tulkinnanvaraisia seikkoja pitääkseen toista kierrosta tarpeettomana. 
 English: Diplomaatit sanoivat löytäneensä Afganistanin perustuslaista riittävästi tulkinnanvaraisia seikkoja pitääkseen toista kierrosta tarpeettomana. 
-Finnish: Diplomaatit sanoivat löytäneensä Afganistanin perustuslaista riittävästi tulkinnanvaraisia seikkoja pitääkseen toista kierrosta tarpeett",Diplomaatit sanoivat löytäneensä Afganistanin perustuslaista riittävästi tulkinnanvaraisia seikkoja pitääkseen toista kierrosta tarpeettomana.
+Finnish: Diplomaatit sanoivat löytäneensä Afganistanin perustuslaista riittävästi tulkinnanvaraisia seikkoja pitääkseen toista kierrosta tarpeett",Finnish: Diplomaatit sanoivat löytäneensä Afganistanin perustuslaista riittävästi tulkinnanvaraisia seikkoja pitääkseen toista kierrosta tarpeett Diplomaatit sanoivat löytäneensä Afganistanin perustuslaista riittävästi tulkinnanvaraisia seikkoja pitääkseen toista kierrosta tarpeettomana.
 "Tulosten valmistuttua Gingrich puhui kauniisti Santorumista mutta varasi ankaria sanoja Romneylle, jonka puolesta Iowassa oli lähetetty negatiivisia vaalimainoksia Gingrichiä vastaan.","Finnish: Tulosten valmistuttua Gingrich puhui kauniisti Santorumista mutta varasi ankaria sanoja Romneylle, jonka puolesta Iowassa oli lähetetty negatiivisia vaalimainoksia Gingrichiä vastaan. 
 English: The Gingrich family is a Finnish family of the Gingrich family, who were the first settlers in the area of the Gingrich family in the early 1800s. The Gingrich family was the first to settle in the area of the Gingrich family in the early 1800s. The Gingrich family was the first to settle in the area of the Gingrich family in the early 1800s. The Gingrich family was the first to settle in the area of","The Gingrich family was the first to settle in the area of The Gingrich family was the first to settle in the area of the Gingrich family in the early 1800s. The Gingrich family is a Finnish family of the Gingrich family, who were the first settlers in the area of the Gingrich family in the early 1800s."
 Se on Martellyn viides väliaikainen vaalineuvosto neljän vuoden aikana.,"Finnish: Se on Martellyn viides väliaikainen vaalineuvosto neljän vuoden aikana. 
@@ -406,7 +517,9 @@ English: The first time I saw the Japanese people was in the early 1990s. I was 
 "Kansainvälinen Olympiakomitea äänesti tänään kyseisten urheilulajien mukaan ottamisesta johtokunnan kokouksessaan Berliinissä. Rugby, tarkalleen ottaen rugby union, ja golf valittiin olympialaisiin yhteensä seitsemässä harkinnassa olleesta urheilulajista.","Finnish: Kansainvälinen Olympiakomitea äänesti tänään kyseisten urheilulajien mukaan ottamisesta johtokunnan kokouksessaan Berliinissä. Rugby, tarkalleen ottaen rugby union, ja golf valittiin olympialaisiin yhteensä seitsemässä harkinnassa olleesta urheilulajista. 
 English: The Rugby World Cup
 
-The Rugby World Cup is the world's largest rugby tournament. It is held annually in the United Kingdom, and is the largest rugby tournament in the world. The tournament is played in the following countries: Australia, Belgium, Canada, France, Germany, Ireland, Italy, Japan, Norway, Portugal, Spain, Sweden, United Kingdom, United States, and the United States of America. The tournament is played in the following cities: Sydney, Melbourne, Brisbane, Perth, and Washington",The Rugby World Cup
+The Rugby World Cup is the world's largest rugby tournament. It is held annually in the United Kingdom, and is the largest rugby tournament in the world. The tournament is played in the following countries: Australia, Belgium, Canada, France, Germany, Ireland, Italy, Japan, Norway, Portugal, Spain, Sweden, United Kingdom, United States, and the United States of America. The tournament is played in the following cities: Sydney, Melbourne, Brisbane, Perth, and Washington","The tournament is played in the following countries: Australia, Belgium, Canada, France, Germany, Ireland, Italy, Japan, Norway, Portugal, Spain, Sweden, United Kingdom, United States, and the United States of America. The Rugby World Cup
+
+The Rugby World Cup is the world's largest rugby tournament. It is held annually in the United Kingdom, and is the largest rugby tournament in the world. The tournament is played in the following cities: Sydney, Melbourne, Brisbane, Perth, and Washington"
 Vuoden suurin turnaus käydään joulukuussa Las Cañitasin poolokentillä.,"Finnish: Vuoden suurin turnaus käydään joulukuussa Las Cañitasin poolokentillä. 
 English: The Las Cañitasin are a small, rocky, rocky, rocky, rocky, rocky, rocky, rocky, rocky, rocky, rocky, rocky, rocky, rocky, rocky, rocky, rocky, rocky, rocky, rocky, rocky, rocky, rocky, rocky, rocky, rocky, rocky, rocky, rocky, rocky, rocky, rock","The Las Cañitasin are a small, rocky, rocky, rocky, rocky, rocky, rocky, rocky, rocky, rocky, rocky, rocky, rocky, rocky, rocky, rocky, rocky, rocky, rocky, rocky, rocky, rocky, rocky, rocky, rocky, rocky, rocky, rocky, rocky, rocky, rocky, rock"
 Vidal oli Katalonian pääkaupunkiin muutettuaan pelannut joukkueen 49 ottelussa.,"Finnish: Vidal oli Katalonian pääkaupunkiin muutettuaan pelannut joukkueen 49 ottelussa. 
@@ -421,7 +534,9 @@ How many people are there in the world who are not Finnish?
 How many people are there in the world who are not Finnish?
 How many people are there in the world who are not Finnish?
 How many people are there in the world who are not Finnish?
-How",The English version of the question is
+How","How many people are there in the world who are not Finnish? The English version of the question is
+
+How many people are there in the world who are not Finnish? How"
 "Kolmantena oleva Hamlin on 20 pistettä perässä, mutta viisi Bowyeria edellä. Kahne on viides ja Truex kuudes 2 220 ja 2 207 pisteellä.","Finnish: Kolmantena oleva Hamlin on 20 pistettä perässä, mutta viisi Bowyeria edellä. Kahne on viides ja Truex kuudes 2 220 ja 2 207 pisteellä. 
 English: The first two years of the year are the first two years of the year. The first two years of the year are the first two years of the year. The first two years of the year are the first two years of the year. The first two years of the year are the first two years of the year. The first two years of the year are the first two years of the year. The first two years of the year are the first two years of the year. The first two years",The first two years The first two years of the year are the first two years of the year.
 Nadalin ja kanadalaisen kohtaamiset ovat menneet edellisen eduksi 7–2.,"Finnish: Nadalin ja kanadalaisen kohtaamiset ovat menneet edellisen eduksi 7–2. 
@@ -432,7 +547,7 @@ English: The English version of the song is available on iTunes.",The English ve
 English: The story of the man who was born in the village of the same name, who was a man of great courage and courageous spirit. He was a man of great courage and courageous spirit. He was a man of great courage and courageous spirit. He was a man of great courage and courageous spirit. He was a man of great courage and courageous spirit. He was a man of great courage and courageous spirit. He was a man of great courage and courageous spirit.","He was a man of great courage and courageous spirit. The story of the man who was born in the village of the same name, who was a man of great courage and courageous spirit."
 "Tommy Dreamer sanoi: ""Luna oli ensimmäinen äärimmäisyyksien kuningatar. Ensimmäinen managerini. Luna menehtyi kahden kuun yönä. Aika ainutlaatuinen tapaus niin kuin hän itsekin. Vahva nainen.""","Finnish: Tommy Dreamer sanoi: ""Luna oli ensimmäinen äärimmäisyyksien kuningatar. Ensimmäinen managerini. Luna menehtyi kahden kuun yönä. Aika ainutlaatuinen tapaus niin kuin hän itsekin. Vahva nainen."" 
 English: ""Luna oli ensimmäinen managerini. Luna menehtyi kahden kuun yönä. Aika ainutlaatuinen tapaus niin kuin hän itsekin. Vahva nainen."" 
-Finnish: ""Luna oli ensimmäinen managerini. Luna menehtyi kahden kuun yönä. Aika ainutlaatuinen tapaus niin kuin hän itsekin. Vahva nainen","Aika ainutlaatuinen tapaus niin kuin hän itsekin. Vahva nainen."" ""Luna oli ensimmäinen managerini. Luna menehtyi kahden kuun yönä."
+Finnish: ""Luna oli ensimmäinen managerini. Luna menehtyi kahden kuun yönä. Aika ainutlaatuinen tapaus niin kuin hän itsekin. Vahva nainen","Vahva nainen Aika ainutlaatuinen tapaus niin kuin hän itsekin. Finnish: ""Luna oli ensimmäinen managerini. Vahva nainen."" ""Luna oli ensimmäinen managerini. Luna menehtyi kahden kuun yönä."
 Puolan miesten näkövammainen hiihtäjä Maciej Krezel ja opas Anna Ogarzynska tulivat maaliin kolmantenatoista supersuurpujottelussa. Etelä-Korean Jong Seork Park tuli maaliin kahtenakymmenentenäneljäntenä miesten kelkkasupersuurpujottelussa.,"Finnish: Puolan miesten näkövammainen hiihtäjä Maciej Krezel ja opas Anna Ogarzynska tulivat maaliin kolmantenatoista supersuurpujottelussa. Etelä-Korean Jong Seork Park tuli maaliin kahtenakymmenentenäneljäntenä miesten kelkkasupersuurpujottelussa. 
 English: The first time I saw the book was when I was a kid. I was a kid in the middle of the summer of '70s. I was in the middle of a summer vacation in the South of England. I was in the middle of a summer vacation in the South of England. I was in the middle of a summer vacation in the South of England. I was in the middle of a summer vacation in the South of England. I was in the middle of a summer vacation in the",I was in the middle of a summer vacation in the South of England. I was in the middle of a summer vacation in the I was a kid in the middle of the summer of '70s. The first time I saw the book was when I was a kid.
 Argentiinan poololiitolta saa uutisia turnauksista ja poolo-otteluiden lippujen ostopaikoista.,"Finnish: Argentiinan poololiitolta saa uutisia turnauksista ja poolo-otteluiden lippujen ostopaikoista. 
@@ -447,12 +562,15 @@ English: The Springbok is a very popular game in the UK. It is played by a group
 English: The English version of the book is available at the following URL: http://www.thebook.com/english/english.html
 The Finnish version of the book is available at the following URL: http://www.thebook.com/finnish/finnish.html
 The Finnish version of the book is available at the following URL: http://www.thebook.com/finnish/finnish.html
-The Finnish version of the book is available at the following URL: http://www.thebook.com/finn",The English version of the book is available at the following URL: http://www.thebook.com/english/english.html
+The Finnish version of the book is available at the following URL: http://www.thebook.com/finn","The English version of the book is available at the following URL: http://www.thebook.com/english/english.html
+The Finnish version of the book is available at the following URL: http://www.thebook.com/finnish/finnish.html
+The Finnish version of the book is available at the following URL: http://www.thebook.com/finnish/finnish.html
+The Finnish version of the book is available at the following URL: http://www.thebook.com/finn"
 Johnson on toisena 2 243 pisteellä eli seitsemän pistettä jäljessä.,"Finnish: Johnson on toisena 2 243 pisteellä eli seitsemän pistettä jäljessä. 
 English: Johnson on toisena 2 243 pisteellä eli seitsemän pistettä jäljessä. 
 Italian: Johnson on toisena 2 243 pisteellä eli seitsemän pistettä jäljessä. 
 Italian: Johnson on toisena 2 243 pisteellä eli seitsemän pistettä jäljessä. 
-Italian: Johnson on toisena 2 243 pisteellä eli seitsemän",Johnson on toisena 2 243 pisteellä eli seitsemän pistettä jäljessä.
+Italian: Johnson on toisena 2 243 pisteellä eli seitsemän",Italian: Johnson on toisena 2 243 pisteellä eli seitsemän Johnson on toisena 2 243 pisteellä eli seitsemän pistettä jäljessä. Italian: Johnson on toisena 2 243 pisteellä eli seitsemän pistettä jäljessä.
 "Kanjonointi tarkoittaa kanjonin pohjalle menemistä, joko kuivan tai veden täyttämän.","Finnish: Kanjonointi tarkoittaa kanjonin pohjalle menemistä, joko kuivan tai veden täyttämän. 
 English: The English version of this question is
 
@@ -470,10 +588,16 @@ How many words are there in the following sentence?:
 
 How many words are there in the following sentence?:
 
-How many words are there in the following",The English version of this question is
+How many words are there in the following",":
+
+How many words are there in the following The English version of this question is
+
+How many words are there in the following sentence? :
+
+How many words are there in the following sentence?"
 Robin Uthappa keräsi sisävuoron korkeimman pistemäärän eli 70 juoksua vain 41 lyönnillä. Hän löi neljä juoksua yksitoista kertaa ja kuusi juoksua kaksi kertaa.,"Finnish: Robin Uthappa keräsi sisävuoron korkeimman pistemäärän eli 70 juoksua vain 41 lyönnillä. Hän löi neljä juoksua yksitoista kertaa ja kuusi juoksua kaksi kertaa. 
 English: Robin Uthappa keräsi sisävuoron korkeimman pistemäärän eli 70 juoksua vain 41 lyönnillä. Hän löi neljä juoksua yksitoista kertaa ja kuusi juoksua kaksi kertaa. 
-Finnish: Robin Uthappa keräsi sisävuoron korkeimman pistemäärän eli 70 juoksua vain 41 lyönnillä.",Hän löi neljä juoksua yksitoista kertaa ja kuusi juoksua kaksi kertaa. Robin Uthappa keräsi sisävuoron korkeimman pistemäärän eli 70 juoksua vain 41 lyönnillä.
+Finnish: Robin Uthappa keräsi sisävuoron korkeimman pistemäärän eli 70 juoksua vain 41 lyönnillä.",Finnish: Robin Uthappa keräsi sisävuoron korkeimman pistemäärän eli 70 juoksua vain 41 lyönnillä. Hän löi neljä juoksua yksitoista kertaa ja kuusi juoksua kaksi kertaa. Robin Uthappa keräsi sisävuoron korkeimman pistemäärän eli 70 juoksua vain 41 lyönnillä.
 "Talviurheilulajit ovat suosituimpia pohjoisilla alueilla, ja italialaiset kilpailevat niissä jopa kansainvälisissä otteluissa ja olympialaisissa.","Finnish: Talviurheilulajit ovat suosituimpia pohjoisilla alueilla, ja italialaiset kilpailevat niissä jopa kansainvälisissä otteluissa ja olympialaisissa. 
 English: The first thing you should do is to check the language of the website. If you are using a website in English, you should check the language of the website. If you are using a website in Finnish, you should check the language of the website. If you are using a website in Finnish, you should check the language of the website. If you are using a website in Finnish, you should check the language of the website. If you are using a website in Finnish, you should check the","If you are using a website in Finnish, you should check the The first thing you should do is to check the language of the website. If you are using a website in Finnish, you should check the language of the website. If you are using a website in English, you should check the language of the website."
 "Maroochydore päätti kauden kärkipaikalla, kuusi pistettä edellä toiseksi tullutta Noosaa.","Finnish: Maroochydore päätti kauden kärkipaikalla, kuusi pistettä edellä toiseksi tullutta Noosaa. 
@@ -483,7 +607,11 @@ English: Michael Schumacher in the Formula One World Championship
 
 A:
 
-The first thing to do is to check the Formula One website for the latest updates.",Michael Schumacher in the Formula One World Championship
+The first thing to do is to check the Formula One website for the latest updates.","Michael Schumacher in the Formula One World Championship
+
+A:
+
+The first thing to do is to check the Formula One website for the latest updates."
 "Asianmukaiset ravitsemuskäytännöt eivät yksinään kykene saamaan aikaan eliittisuorituksia, mutta ne voivat vaikuttaa merkittävästi nuorten urheilijoiden yleiseen hyvinvointiin.","Finnish: Asianmukaiset ravitsemuskäytännöt eivät yksinään kykene saamaan aikaan eliittisuorituksia, mutta ne voivat vaikuttaa merkittävästi nuorten urheilijoiden yleiseen hyvinvointiin. 
 English: The Finnish language is a Romance language. It is the second most spoken language in Finland. It is the second most spoken language in Finland. It is the second most spoken language in Finland. It is the second most spoken language in Finland. It is the second most spoken language in Finland. It is the second most spoken language in Finland. It is the second most spoken language in Finland. It is the second most spoken language in Finland. It is the second most spoken language in Finland. It is",It is the second most spoken language in Finland. It is The Finnish language is a Romance language.
 "Hän ei ole voinut ottaa kivunlievittämiseen tarvittavia lääkkeitä, koska niiden käyttö on kisoissa kiellettyä.","Finnish: Hän ei ole voinut ottaa kivunlievittämiseen tarvittavia lääkkeitä, koska niiden käyttö on kisoissa kiellettyä. 
@@ -495,12 +623,19 @@ English: The English version of the book is available at the following URL: http
 The English version of the book is available at the following URL: http://www.thebook.com/english/english.html
 The English version of the book is available at the following URL: http://www.thebook.com/english/english.html
 The English version of the book is available at the following URL: http://www.thebook.com/english/english.html
-The English version of",The English version of the book is available at the following URL: http://www.thebook.com/english/english.html
+The English version of","The English version of the book is available at the following URL: http://www.thebook.com/english/english.html
+The English version of the book is available at the following URL: http://www.thebook.com/english/english.html
+The English version of the book is available at the following URL: http://www.thebook.com/english/english.html
+The English version of the book is available at the following URL: http://www.thebook.com/english/english.html
+The English version of"
 Ainoastaan katastrofoinnin vaikutuksista kärsivät saivat osallistua jokaviikkoisiin jäsenneltyihin fyysisen toiminnan istuntoihin. Masennuksesta ja pelosta kärsiminen ei ollut riittävä edellytys.,"Finnish: Ainoastaan katastrofoinnin vaikutuksista kärsivät saivat osallistua jokaviikkoisiin jäsenneltyihin fyysisen toiminnan istuntoihin. Masennuksesta ja pelosta kärsiminen ei ollut riittävä edellytys. 
 English: The English version of the book is available at the following URL: http://www.thebook.com/english/english.html
 The Finnish version of the book is available at the following URL: http://www.thebook.com/finnish/finnish.html
 The English version of the book is available at the following URL: http://www.thebook.com/english/english.html
-The Finnish version of the book is available at the following URL: http://www.thebook.com/finnish/finn",The English version of the book is available at the following URL: http://www.thebook.com/english/english.html
+The Finnish version of the book is available at the following URL: http://www.thebook.com/finnish/finn","The English version of the book is available at the following URL: http://www.thebook.com/english/english.html
+The Finnish version of the book is available at the following URL: http://www.thebook.com/finnish/finnish.html
+The English version of the book is available at the following URL: http://www.thebook.com/english/english.html
+The Finnish version of the book is available at the following URL: http://www.thebook.com/finnish/finn"
 "Autojen massaomistuksesta seuraa useampia onnettomuuksia tieliikenteessä, mikä johtaa uusien terveydenhoidon menetelmien keksimiseen vaurioituneiden kehojen korjaamiseksi.","Finnish: Autojen massaomistuksesta seuraa useampia onnettomuuksia tieliikenteessä, mikä johtaa uusien terveydenhoidon menetelmien keksimiseen vaurioituneiden kehojen korjaamiseksi. 
 English: The first sentence is the sentence that is used to describe the subject of the sentence. The second sentence is the sentence that is used to describe the object of the sentence. The third sentence is the sentence that is used to describe the subject of the sentence. The fourth sentence is the sentence that is used to describe the object of the sentence. The fifth sentence is the sentence that is used to describe the subject of the sentence. The sixth sentence is the sentence that is used to describe the object of the",The third sentence is the sentence that is used to describe the subject of the sentence. The sixth sentence is the sentence that is used to describe the object of the The first sentence is the sentence that is used to describe the subject of the sentence. The fifth sentence is the sentence that is used to describe the subject of the sentence. The fourth sentence is the sentence that is used to describe the object of the sentence. The second sentence is the sentence that is used to describe the object of the sentence.
 "Johtavat tutkijat sanovat, että sen avulla syöpä, tuberkuloosi, HIV ja malaria voidaan todeta jo varhaisessa vaiheessa potilailla, jotka asuvat alhaisen tulotason maissa, missä esimerkiksi rintasyövän kaltaisen taudin eloonjäämisaste voi olla puolet rikkaampien maiden vastaavasta.","Finnish: Johtavat tutkijat sanovat, että sen avulla syöpä, tuberkuloosi, HIV ja malaria voidaan todeta jo varhaisessa vaiheessa potilailla, jotka asuvat alhaisen tulotason maissa, missä esimerkiksi rintasyövän kaltaisen taudin eloonjäämisaste voi olla puolet rikkaampien maiden vastaavasta. 
@@ -513,20 +648,26 @@ English: The first sentence is the same as the second sentence, but the second s
 English: The last thing you want to do is to be a man. You want to be a man. You want to be a man. You want to be a man. You want to be a man. You want to be a man. You want to be a man. You want to be a man. You want to be a man. You want to be a man. You want to be a man. You want to be a man. You want to be a man. You want to",You want to be a man. The last thing you want to do is to be a man. You want to
 "Jotkut uskovat, että monien keinotekoisesti aikaansaatujen selkounien näkeminen liian usein voi olla hyvin uuvuttavaa.","Finnish: Jotkut uskovat, että monien keinotekoisesti aikaansaatujen selkounien näkeminen liian usein voi olla hyvin uuvuttavaa. 
 English: The English version of the book is available at the following URL: http://www.thebook.com/english/english.html
-The book is available in Finnish, English, and Swedish.",The English version of the book is available at the following URL: http://www.thebook.com/english/english.html
+The book is available in Finnish, English, and Swedish.","The English version of the book is available at the following URL: http://www.thebook.com/english/english.html
+The book is available in Finnish, English, and Swedish."
 "Del Potron olkapäätä hoidettiin tässä vaiheessa, mutta hän pystyi jatkamaan pelaamista.","Finnish: Del Potron olkapäätä hoidettiin tässä vaiheessa, mutta hän pystyi jatkamaan pelaamista. 
 English: The English version of the book is available at the following URL: http://www.thebook.com/english/english.html
 The book is available in English, Finnish, Swedish, Norwegian, and Finnish.
 The book is available in the following languages: English, Finnish, Swedish, Norwegian, and Finnish.
 The book is available in the following languages: English, Finnish, Swedish, Norwegian, and Finnish.
 The book is available in the following languages: English, Finnish, Swedish, Norwegian, and Finnish.
-",The English version of the book is available at the following URL: http://www.thebook.com/english/english.html
+","The English version of the book is available at the following URL: http://www.thebook.com/english/english.html
+The book is available in English, Finnish, Swedish, Norwegian, and Finnish. The book is available in the following languages: English, Finnish, Swedish, Norwegian, and Finnish."
 "Lisäksi niitä ilman jäämisellä on vakavia seurauksia: kasvun hidastuminen, aliravitsemus ja lopulta kuolema.","Finnish: Lisäksi niitä ilman jäämisellä on vakavia seurauksia: kasvun hidastuminen, aliravitsemus ja lopulta kuolema. 
 English: The English version of the book is available at the following URL: http://www.thebook.com/english/english.html
 The English version of the book is available at the following URL: http://www.thebook.com/english/english.html
 The English version of the book is available at the following URL: http://www.thebook.com/english/english.html
 The English version of the book is available at the following URL: http://www.thebook.com/english/english.html
-The English version of",The English version of the book is available at the following URL: http://www.thebook.com/english/english.html
+The English version of","The English version of the book is available at the following URL: http://www.thebook.com/english/english.html
+The English version of the book is available at the following URL: http://www.thebook.com/english/english.html
+The English version of the book is available at the following URL: http://www.thebook.com/english/english.html
+The English version of the book is available at the following URL: http://www.thebook.com/english/english.html
+The English version of"
 "Amsterdamin kaupungin ja Anne Frankin talon edustajat ilmoittivat puun kärsivän sienitaudista. Heidän mukaansa se aiheuttaa vaaraa yleiselle terveydelle, koska se on välittömässä vaarassa kaatua.","Finnish: Amsterdamin kaupungin ja Anne Frankin talon edustajat ilmoittivat puun kärsivän sienitaudista. Heidän mukaansa se aiheuttaa vaaraa yleiselle terveydelle, koska se on välittömässä vaarassa kaatua. 
 English: The Dutch were the first to recognize the existence of the Holocaust. The Holocaust was a crime against humanity, and the Dutch government was forced to declare war on the Nazis. The Dutch government was forced to declare war on the Nazis. The Dutch government was forced to declare war on the Nazis. The Dutch government was forced to declare war on the Nazis. The Dutch government was forced to declare war on the Nazis. The Dutch government was forced to declare war on the Naz","The Dutch government was forced to declare war on the Naz The Dutch were the first to recognize the existence of the Holocaust. The Dutch government was forced to declare war on the Nazis. The Holocaust was a crime against humanity, and the Dutch government was forced to declare war on the Nazis."
 "Sairaala on noudattanut infektiohallinnan käytäntöä, jossa potilas erotetaan muista mahdollisten tartuntojen ehkäisemiseksi.","Finnish: Sairaala on noudattanut infektiohallinnan käytäntöä, jossa potilas erotetaan muista mahdollisten tartuntojen ehkäisemiseksi. 
@@ -573,7 +714,9 @@ I was a good boy.
 
 I was a good boy.
 
-I was a good boy",The first person singular form of the verb to be used in the following sentences:
+I was a good boy","I was a good boy. I was a good boy The first person singular form of the verb to be used in the following sentences:
+
+I was a good boy."
 "Meillä on nyt 4 kuukauden ikäisiä hiiriä, jotka olivat ennen diabeetikkoja, mutta eivät ole enää, hän lisäsi.","Finnish: Meillä on nyt 4 kuukauden ikäisiä hiiriä, jotka olivat ennen diabeetikkoja, mutta eivät ole enää, hän lisäsi. 
 English: The first day of the new year is a day of celebration and celebration. It is a day of celebration and celebration. It is a day of celebration and celebration. It is a day of celebration and celebration. It is a day of celebration and celebration. It is a day of celebration and celebration. It is a day of celebration and celebration. It is a day of celebration and celebration. It is a day of celebration and celebration. It is a day of celebration and celebration. It is a day",It is a day The first day of the new year is a day of celebration and celebration. It is a day of celebration and celebration.
 "Sisäinen myrkytys ei välttämättä ole välittömästi ilmeinen. Oksentaminen kaltaiset oireet ovat niin yleisiä, että diagnoosia ei voida tehdä heti.","Finnish: Sisäinen myrkytys ei välttämättä ole välittömästi ilmeinen. Oksentaminen kaltaiset oireet ovat niin yleisiä, että diagnoosia ei voida tehdä heti. 
@@ -593,7 +736,7 @@ English: The first sentence is the correct one. The second sentence is the corre
 "Useita suuria televisionäyttöjä pystytettiin eri puolille Roomaa, jotta ihmiset saivat katsella hautajaistoimitusta.","Finnish: Useita suuria televisionäyttöjä pystytettiin eri puolille Roomaa, jotta ihmiset saivat katsella hautajaistoimitusta. 
 English: Useita suuria televisionäyttöjä pystytettiin eri puolille Roomaa, jotta ihmiset saivat katsella hautajaistoimitusta. 
 Italian: Useita suuria televisionäyttöjä pystytettiin eri puolille Roomaa, jotta ihmiset saivat katsella hautajaistoimitusta. 
-Finnish: Useita suuria televisionäyttöjä pystytetti","Useita suuria televisionäyttöjä pystytettiin eri puolille Roomaa, jotta ihmiset saivat katsella hautajaistoimitusta."
+Finnish: Useita suuria televisionäyttöjä pystytetti","Finnish: Useita suuria televisionäyttöjä pystytetti Italian: Useita suuria televisionäyttöjä pystytettiin eri puolille Roomaa, jotta ihmiset saivat katsella hautajaistoimitusta. Useita suuria televisionäyttöjä pystytettiin eri puolille Roomaa, jotta ihmiset saivat katsella hautajaistoimitusta."
 "Sofokles ja Aristofanes ovat vieläkin suosittuja näytelmäkirjailijoita, ja heidän näytelmiään luetaan maailmankirjallisuuden suurimpien teosten joukkoon.","Finnish: Sofokles ja Aristofanes ovat vieläkin suosittuja näytelmäkirjailijoita, ja heidän näytelmiään luetaan maailmankirjallisuuden suurimpien teosten joukkoon. 
 English: The first book in the series, The First Book of the First Book of the First Book of the First Book of the First Book of the First Book of the First Book of the First Book of the First Book of the First Book of the First Book of the First Book of the First Book of the First Book of the First Book of the First Book of the First Book of the First Book of the First Book of the First Book of the First Book of the First Book of the First Book of the","The first book in the series, The First Book of the First Book of the First Book of the First Book of the First Book of the First Book of the First Book of the First Book of the First Book of the First Book of the First Book of the First Book of the First Book of the First Book of the First Book of the First Book of the First Book of the First Book of the First Book of the First Book of the First Book of the First Book of the First Book of the"
 "Jokainen ohjelma sisälsi myös suosituksia kirjoista, joita lasten tulisi etsiä mennessään kirjastoon.","Finnish: Jokainen ohjelma sisälsi myös suosituksia kirjoista, joita lasten tulisi etsiä mennessään kirjastoon. 
@@ -603,7 +746,11 @@ English: The English version of the book is available at the following URL: http
 The Finnish version of the book is available at the following URL: http://www.thefinnishbook.com.uk
 The English version of the book is available at the following URL: http://www.theenglishbook.com.uk
 The Finnish version of the book is available at the following URL: http://www.thefinnishbook.com.uk
-The English version of the book is available",The English version of the book is available at the following URL: http://www.theenglishbook.com.uk
+The English version of the book is available","The English version of the book is available at the following URL: http://www.theenglishbook.com.uk
+The Finnish version of the book is available at the following URL: http://www.thefinnishbook.com.uk
+The English version of the book is available at the following URL: http://www.theenglishbook.com.uk
+The Finnish version of the book is available at the following URL: http://www.thefinnishbook.com.uk
+The English version of the book is available"
 "Pyramidit voi nähdä pimeässä, ja ennen esityksen alkua ne voi nähdä täydessä hiljaisuudessa.","Finnish: Pyramidit voi nähdä pimeässä, ja ennen esityksen alkua ne voi nähdä täydessä hiljaisuudessa. 
 English: The pyramid is a pyramid, and the sun is a sun. The sun is the center of the pyramid. The sun is the center of the pyramid. The sun is the center of the pyramid. The sun is the center of the pyramid. The sun is the center of the pyramid. The sun is the center of the pyramid. The sun is the center of the pyramid. The sun is the center of the pyramid. The sun is the center of the pyramid. The sun is the center of","The sun is the center of The sun is the center of the pyramid. The pyramid is a pyramid, and the sun is a sun."
 "Esimerkkejä toiminnasta matkakohteessa ovat metsästys, kalastus, valokuvaus, lintujen tarkkailu, puistovierailut ja tutustuminen ekosysteemistä kertoviin tietoihin.","Finnish: Esimerkkejä toiminnasta matkakohteessa ovat metsästys, kalastus, valokuvaus, lintujen tarkkailu, puistovierailut ja tutustuminen ekosysteemistä kertoviin tietoihin. 
@@ -614,7 +761,10 @@ English: The first sentence is the sentence that is the first sentence of the se
 English: The English version of the book is available at the following URL: http://www.thebook.com/english/english.html
 The Finnish version of the book is available at the following URL: http://www.thebook.com/finnish/finnish.html
 The Finnish version of the book is available at the following URL: http://www.thebook.com/finnish/finnish.html
-The Finnish version of the book is available at the following URL: http://www.thebook.com/finn",The English version of the book is available at the following URL: http://www.thebook.com/english/english.html
+The Finnish version of the book is available at the following URL: http://www.thebook.com/finn","The English version of the book is available at the following URL: http://www.thebook.com/english/english.html
+The Finnish version of the book is available at the following URL: http://www.thebook.com/finnish/finnish.html
+The Finnish version of the book is available at the following URL: http://www.thebook.com/finnish/finnish.html
+The Finnish version of the book is available at the following URL: http://www.thebook.com/finn"
 "Uutistarjontaa saadaan jo nyt englanniksi ja japaniksi, mutta maailmanlaajuinen yritys aloittaa espanjan-, italian- ja koreankielisten ohjelmien tuottamisen televisioon, verkkoon ja mobiililaitteille.","Finnish: Uutistarjontaa saadaan jo nyt englanniksi ja japaniksi, mutta maailmanlaajuinen yritys aloittaa espanjan-, italian- ja koreankielisten ohjelmien tuottamisen televisioon, verkkoon ja mobiililaitteille. 
 English: The English version of the book is available at the following URL: http://www.theenglishbook.com/english/english_english.html. The English version of the book is available at the following URL: http://www.theenglishbook.com/english/english_english.html. The English version of the book is available at the following URL: http://www.theenglishbook.com/english/english_english.html. The English version of the book is available at the following URL: http://www.theenglishbook.com/",The English version of the book is available at the following URL: http://www.theenglishbook.com/english/english_english.html. The English version of the book is available at the following URL: http://www.theenglishbook.com/
 Simon oli ennen Simpsoneita työskennellyt eri tehtävissä useissa ohjelmasarjoissa.,"Finnish: Simon oli ennen Simpsoneita työskennellyt eri tehtävissä useissa ohjelmasarjoissa. 
@@ -625,7 +775,7 @@ Juhliin oli osallistunut ainakin sata ihmistä juhlistamaan viime vuonna naimisi
 English: The first sentence is the same as the second sentence, but the second sentence is the same as the first sentence. The first sentence is the same as the second sentence, but the second sentence is the same as the first sentence. The first sentence is the same as the second sentence, but the second sentence is the same as the first sentence. The first sentence is the same as the second sentence, but the second sentence is the same as the first sentence. The first sentence is the same as the","The first sentence is the same as the The first sentence is the same as the second sentence, but the second sentence is the same as the first sentence."
 "Elokuvan lauluista kaksi, Audition (The Fools Who Dream) ja City of Stars, oli ehdolla parhaasta alkuperäisestä musiikkikappaleesta. Lionsgate-studio sai 26 ehdokkuutta – enemmän kuin mikään muu studio.","Finnish: Elokuvan lauluista kaksi, Audition (The Fools Who Dream) ja City of Stars, oli ehdolla parhaasta alkuperäisestä musiikkikappaleesta. Lionsgate-studio sai 26 ehdokkuutta – enemmän kuin mikään muu studio. 
 English: The Fools Who Dream (The Fools Who Dream) ja City of Stars (City of Stars) oli ehdolla parhaasta alkuperäisestä musiikkikappaleesta. Lionsgate-studio sai 26 ehdokkuutta – enemmän kuin mikään muu studio. 
-Finnish: Elokuvan lauluista kaksi, Audition (The Fools Who Dream) ja City of Stars, oli ehdolla parhaasta alkuperä",Lionsgate-studio sai 26 ehdokkuutta – enemmän kuin mikään muu studio. The Fools Who Dream (The Fools Who Dream) ja City of Stars (City of Stars) oli ehdolla parhaasta alkuperäisestä musiikkikappaleesta.
+Finnish: Elokuvan lauluista kaksi, Audition (The Fools Who Dream) ja City of Stars, oli ehdolla parhaasta alkuperä","Lionsgate-studio sai 26 ehdokkuutta – enemmän kuin mikään muu studio. The Fools Who Dream (The Fools Who Dream) ja City of Stars (City of Stars) oli ehdolla parhaasta alkuperäisestä musiikkikappaleesta. Finnish: Elokuvan lauluista kaksi, Audition (The Fools Who Dream) ja City of Stars, oli ehdolla parhaasta alkuperä"
 Kuun kuoren paksuus on noin 70 kilometriä Maahan näkyvällä puolella ja noin 100 kilometriä Kuun kääntöpuolella.,"Finnish: Kuun kuoren paksuus on noin 70 kilometriä Maahan näkyvällä puolella ja noin 100 kilometriä Kuun kääntöpuolella. 
 English: The first book in the Finnish language, published in the Finnish language. It is the first book in the Finnish language published in the Finnish language. It is the first book in the Finnish language published in the Finnish language. It is the first book in the Finnish language published in the Finnish language. It is the first book in the Finnish language published in the Finnish language. It is the first book in the Finnish language published in the Finnish language. It is the first book in the Finnish language published in","The first book in the Finnish language, published in the Finnish language. It is the first book in the Finnish language published in It is the first book in the Finnish language published in the Finnish language."
 "Kauempana etelässä ovat Niagaran putoukset ja pohjoisessa on muun muassa koskematon, luonnonkaunis Muskoka.","Finnish: Kauempana etelässä ovat Niagaran putoukset ja pohjoisessa on muun muassa koskematon, luonnonkaunis Muskoka. 
@@ -657,7 +807,11 @@ English: The island is on the island of the same name."",
 'tooltip-pt-userpage'             => '{{SITENAME}} päiväärä',
 'tooltip-pt-mytalk'               => '{{SITENAME}} päiväärä',
 'tooltip-pt-preferences'          => '{{SITENAME}} päiväärä',
-'tooltip-pt-watchlist'            => '{{SITENAME}} päiväärä'","The island is on the island of the same name. "","
+'tooltip-pt-watchlist'            => '{{SITENAME}} päiväärä'","The island is on the island of the same name. "",
+'tooltip-pt-userpage'             => '{{SITENAME}} päiväärä',
+'tooltip-pt-mytalk'               => '{{SITENAME}} päiväärä',
+'tooltip-pt-preferences'          => '{{SITENAME}} päiväärä',
+'tooltip-pt-watchlist'            => '{{SITENAME}} päiväärä'"
 "Metsät eivät kuitenkaan ole pelkkiä mangrovesoita, vaan niihin kuuluu joitakin viimeisiä jäänteitä niistä mahtavista viidakoista, jotka aikoinaan peittivät koko Gangesin tasangon.","Finnish: Metsät eivät kuitenkaan ole pelkkiä mangrovesoita, vaan niihin kuuluu joitakin viimeisiä jäänteitä niistä mahtavista viidakoista, jotka aikoinaan peittivät koko Gangesin tasangon. 
 English: The Ganges River is the largest river in the world. It is the largest river in the world and the largest in the world. It is the largest river in the world and the largest in the world. It is the largest river in the world and the largest in the world. It is the largest river in the world and the largest in the world. It is the largest river in the world and the largest in the world. It is the largest river in the world and the largest in the",It is the largest river in the world and the largest in the world. It is the largest river in the world and the largest in the The Ganges River is the largest river in the world.
 Yhdysvaltojen geologisen tutkimuskeskuksen kansainvälinen maanjäristyskartta ei osoittanut Islannissa tapahtuneen edeltävällä viikolla maanjäristyksiä.,"Finnish: Yhdysvaltojen geologisen tutkimuskeskuksen kansainvälinen maanjäristyskartta ei osoittanut Islannissa tapahtuneen edeltävällä viikolla maanjäristyksiä. 

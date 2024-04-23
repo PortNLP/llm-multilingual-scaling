@@ -10,7 +10,7 @@ The old variation is removed from the existing variation.
 The old variation is removed from the existing variation.
 The old variation is removed from the existing variation.
 The old variation is removed from the existing variation.
-The old variation is removed from the existing variation",
+The old variation is removed from the existing variation",The old variation is removed from the existing variation The old variation is removed from the existing variation. The new variation is added to the existing variation.
 Bonm fisyon an fonksyone sou prensip li dwe gen enèji pou rasanble yon nwayo avèk plizyè pwoton ak netwon.,"Haitian Creole: Bonm fisyon an fonksyone sou prensip li dwe gen enèji pou rasanble yon nwayo avèk plizyè pwoton ak netwon. 
 English:
 The Haitian Creole:
@@ -27,12 +27,26 @@ The Haitian Creole:
 The Haitian Creole:
 The Haitian Creole:
 The Haitian Creole:
-The",
+The","The Haitian Creole:
+The Haitian Creole:
+The Haitian Creole:
+The Haitian Creole:
+The Haitian Creole:
+The Haitian Creole:
+The Haitian Creole:
+The Haitian Creole:
+The Haitian Creole:
+The Haitian Creole:
+The Haitian Creole:
+The Haitian Creole:
+The Haitian Creole:
+The Haitian Creole:
+The"
 Nwayo a fòme ak de patikil - netwon yo ak pwoton yo.,"Haitian Creole: Nwayo a fòme ak de patikil - netwon yo ak pwoton yo. 
 English: I am a Haitian Creole, I am a Haitian Creole, I am a Haitian Creole, I am a Haitian Creole, I am a Haitian Creole, I am a Haitian Creole, I am a Haitian Creole, I am a Haitian Creole, I am a Haitian Creole, I am a Haitian Creole, I am a Haitian Creole, I am a Haitian Creole, I am a Hait","I am a Haitian Creole, I am a Haitian Creole, I am a Haitian Creole, I am a Haitian Creole, I am a Haitian Creole, I am a Haitian Creole, I am a Haitian Creole, I am a Haitian Creole, I am a Haitian Creole, I am a Haitian Creole, I am a Haitian Creole, I am a Haitian Creole, I am a Hait"
 Sa te pèmèt objektiv zoum yo pwodwi imaj ki gen yon kalite konparab ak sa nou jwenn avèk objektif ki gen longè fokal fiks yo.,"Haitian Creole: Sa te pèmèt objektiv zoum yo pwodwi imaj ki gen yon kalite konparab ak sa nou jwenn avèk objektif ki gen longè fokal fiks yo. 
 English:
-I have a question about the Haitian Creole language. I have seen that the Haitian Creole language is a dialect of French, but I don't know if it is a language or a dialect. I have seen that the Haitian Creole language is a dialect of French, but I don't know if it is a language or a dialect. I have seen that the Haitian Creole language is a dialect of French, but I don't know if it is a language or a dialect.",
+I have a question about the Haitian Creole language. I have seen that the Haitian Creole language is a dialect of French, but I don't know if it is a language or a dialect. I have seen that the Haitian Creole language is a dialect of French, but I don't know if it is a language or a dialect. I have seen that the Haitian Creole language is a dialect of French, but I don't know if it is a language or a dialect.","I have a question about the Haitian Creole language. I have seen that the Haitian Creole language is a dialect of French, but I don't know if it is a language or a dialect."
 "Yo siperyè ak proxy web pou plizyè rezon: Yo oryante ankò tout trafik entènèt la, pa sèlman http a.","Haitian Creole: Yo siperyè ak proxy web pou plizyè rezon: Yo oryante ankò tout trafik entènèt la, pa sèlman http a. 
 English: I am a proxy web for you to use the following URL: 
 http://www.example.com/
@@ -47,10 +61,23 @@ $(document).ready(function() {
     });
 });
 
-The above code will alert the URL of the page",I am a proxy web for you to use the following URL:
+The above code will alert the URL of the page","I am a proxy web for you to use the following URL: 
+http://www.example.com/
+
+A:
+
+You can use the following code to get the URL of the page you want to access:
+$(document).ready(function() {
+    $('#myButton').click(function() {
+        var url = $(this).attr('href');
+        alert(url);
+    });
+});
+
+The above code will alert the URL of the page"
 Konsepsyon entèraktif la egzije pou ta reevalye ipotèz sou pwodiksyon medya yo epi tou aprann panse yon fason non lineyè.,"Haitian Creole: Konsepsyon entèraktif la egzije pou ta reevalye ipotèz sou pwodiksyon medya yo epi tou aprann panse yon fason non lineyè. 
 English:
-The Haitian Creole is a language spoken in Haiti. It is a member of the Creole family, which includes French, Spanish, and Portuguese. It is the official language of Haiti, and is spoken by about one-third of the population. It is also spoken by some Haitians in the Dominican Republic, and by some Haitians in the United States. The Creole is a dialect of Haitian Creole, which is a dialect of French Creole. The Creole is a",
+The Haitian Creole is a language spoken in Haiti. It is a member of the Creole family, which includes French, Spanish, and Portuguese. It is the official language of Haiti, and is spoken by about one-third of the population. It is also spoken by some Haitians in the Dominican Republic, and by some Haitians in the United States. The Creole is a dialect of Haitian Creole, which is a dialect of French Creole. The Creole is a","The Creole is a dialect of Haitian Creole, which is a dialect of French Creole. It is a member of the Creole family, which includes French, Spanish, and Portuguese. The Haitian Creole is a language spoken in Haiti. It is the official language of Haiti, and is spoken by about one-third of the population. The Creole is a It is also spoken by some Haitians in the Dominican Republic, and by some Haitians in the United States."
 "Sa te vin yon pratik nòmal, men fè a te lakoz plis pwoblèm sou kawoutchou an bwa wagon yo.","Haitian Creole: Sa te vin yon pratik nòmal, men fè a te lakoz plis pwoblèm sou kawoutchou an bwa wagon yo. 
 English: I am a Haitian Creole, and I am a good cook. I can cook a lot of food. I can cook a lot of food.","I can cook a lot of food. I am a Haitian Creole, and I am a good cook."
 "Fyète yo fèt ak twa mal granmoun nan menm fanmi, epi yon trantèn femèl ak ti ous yo.","Haitian Creole: Fyète yo fèt ak twa mal granmoun nan menm fanmi, epi yon trantèn femèl ak ti ous yo. 
@@ -70,7 +97,17 @@ I am a Haitian Creole:
 I am a Haitian Creole:
 I am a Haitian Creole:
 I am a Haitian Creole:
-",
+","I am a Haitian Creole:
+I am a Haitian Creole:
+I am a Haitian Creole:
+I am a Haitian Creole:
+I am a Haitian Creole:
+I am a Haitian Creole:
+I am a Haitian Creole:
+I am a Haitian Creole:
+I am a Haitian Creole:
+I am a Haitian Creole:
+I am a Haitian Creole:"
 "Yon telefòn satelit nòmalman pa ranplase yon telefòn pòtab, paske ou dwe rete deyò epi jwenn yon bon vizyon sou satelit la pou fè yon apèl telefonik.","Haitian Creole: Yon telefòn satelit nòmalman pa ranplase yon telefòn pòtab, paske ou dwe rete deyò epi jwenn yon bon vizyon sou satelit la pou fè yon apèl telefonik. 
 English: Yon satellite phone number is not available, because you have a satellite phone.","Yon satellite phone number is not available, because you have a satellite phone."
 "Menmsi charyo yo te fèt sèlman ak planch bwa paralèl, yo te pèmèt chwal ki tap trennen yo a atenn pi gwo vitès epi pote pi gwo chay nan wout ki difisil pandan jounen an.","Haitian Creole: Menmsi charyo yo te fèt sèlman ak planch bwa paralèl, yo te pèmèt chwal ki tap trennen yo a atenn pi gwo vitès epi pote pi gwo chay nan wout ki difisil pandan jounen an. 
@@ -84,10 +121,10 @@ I can speak Haitian Creole, but I can't understand English.
 I can speak Haitian Creole, but I can't understand English.
 I can speak Haitian Creole, but I can't understand English.
 I can speak Haitian Creole, but I can't understand English.
-I",
+I","I can speak English, but I can't understand Haitian Creole. I I can speak Haitian Creole, but I can't understand English."
 Kawoutchou te chanje mond lan yon fason enkwayab. Pi gwo bagay kawoutchou a te fè pou nou se ban nou yon transpò ki pi fasil epi pi rapid.,"Haitian Creole: Kawoutchou te chanje mond lan yon fason enkwayab. Pi gwo bagay kawoutchou a te fè pou nou se ban nou yon transpò ki pi fasil epi pi rapid. 
 English:
-I am a Haitian Creole, and I am a man of action. I am a man of action, and I am a man of action. I am a man of action, and I am a man of action. I am a man of action, and I am a man of action. I am a man of action, and I am a man of action. I am a man of action, and I am a man of action. I am a man of action, and",
+I am a Haitian Creole, and I am a man of action. I am a man of action, and I am a man of action. I am a man of action, and I am a man of action. I am a man of action, and I am a man of action. I am a man of action, and I am a man of action. I am a man of action, and I am a man of action. I am a man of action, and","I am a man of action, and I am a man of action, and I am a man of action. I am a Haitian Creole, and I am a man of action."
 Sa fèt pou asire imaj la kouvri tout ekran an. Se sa nou rele overscan lan.,"Haitian Creole: Sa fèt pou asire imaj la kouvri tout ekran an. Se sa nou rele overscan lan. 
 English: I wish to make a good impression on everyone. If I make a bad impression, I will be blamed for it.","If I make a bad impression, I will be blamed for it. I wish to make a good impression on everyone."
 Sou maren alman yo te rele U-Boats. Alman yo te fò nan navigasyon anpil ak fonksyonnman sou maren yo a.,"Haitian Creole: Sou maren alman yo te rele U-Boats. Alman yo te fò nan navigasyon anpil ak fonksyonnman sou maren yo a. 
@@ -110,7 +147,21 @@ The Haitian Creole:
 The Haitian Creole:
 The Haitian Creole:
 The Haitian Creole:
-The",
+The","The Haitian Creole:
+The Haitian Creole:
+The Haitian Creole:
+The Haitian Creole:
+The Haitian Creole:
+The Haitian Creole:
+The Haitian Creole:
+The Haitian Creole:
+The Haitian Creole:
+The Haitian Creole:
+The Haitian Creole:
+The Haitian Creole:
+The Haitian Creole:
+The Haitian Creole:
+The"
 Youn nan pwoblèm yo souvan konfwonte lè konvèsyon yon fim nan fòma DVD se pwoblèm overscan lan.,"Haitian Creole: Youn nan pwoblèm yo souvan konfwonte lè konvèsyon yon fim nan fòma DVD se pwoblèm overscan lan. 
 English: I am a man who has been in prison for a long time. I have been in prison for a long time. I have been in prison for a long time. I have been in prison for a long time. I have been in prison for a long time. I have been in prison for a long time. I have been in prison for a long time. I have been in prison for a long time. I have been in prison for a long time. I have been in prison for",I have been in prison for I am a man who has been in prison for a long time. I have been in prison for a long time.
 "An patikilye, yo pretann yo ka wè si yon moun ap bay manti lè yo fè entèpretasyon mikwo ekspresyon yo korèkteman.","Haitian Creole: An patikilye, yo pretann yo ka wè si yon moun ap bay manti lè yo fè entèpretasyon mikwo ekspresyon yo korèkteman. 
@@ -123,7 +174,7 @@ English: The system is based on the economic, medical, and military systems of t
 English: I am a Haitian Creole, and I am a man who has been told that he is a man who has been told that he is a man who has been told that he is a man who has been told that he is a man who has been told that he is a man who has been told that he is a man who has been told that he is a man who has been told that he is a man who has been told that he is a man who has been told that he","I am a Haitian Creole, and I am a man who has been told that he is a man who has been told that he is a man who has been told that he is a man who has been told that he is a man who has been told that he is a man who has been told that he is a man who has been told that he is a man who has been told that he is a man who has been told that he is a man who has been told that he"
 "Règ twazyèm yo, malmennen anpil epi souvan ridikilize se yon senp liy direktris ki kreye rit lan tout pandan l kenbe kèk lòd nan yon imaj.","Haitian Creole: Règ twazyèm yo, malmennen anpil epi souvan ridikilize se yon senp liy direktris ki kreye rit lan tout pandan l kenbe kèk lòd nan yon imaj. 
 English:
-I am a Haitian Creole, and I am a man who has been living in Haiti for many years. I have been working in the field of education for many years. I have been teaching in schools, and I have been working in the field of education for many years. I have been teaching in schools, and I have been working in the field of education for many years. I have been teaching in schools, and I have been working in the field of education for many years.",
+I am a Haitian Creole, and I am a man who has been living in Haiti for many years. I have been working in the field of education for many years. I have been teaching in schools, and I have been working in the field of education for many years. I have been teaching in schools, and I have been working in the field of education for many years. I have been teaching in schools, and I have been working in the field of education for many years.","I have been teaching in schools, and I have been working in the field of education for many years. I am a Haitian Creole, and I am a man who has been living in Haiti for many years. I have been working in the field of education for many years."
 "Sa konfime pa sèlman omwen kèk dinozò te gen plim, yon teyori ki deja gaye anpil, men bay detay fosil yo pa kapab jeneralman bay, tankou koulè ak dispozisyon tridimansyonèl.","Haitian Creole: Sa konfime pa sèlman omwen kèk dinozò te gen plim, yon teyori ki deja gaye anpil, men bay detay fosil yo pa kapab jeneralman bay, tankou koulè ak dispozisyon tridimansyonèl. 
 English: The Haitian Creole is a language spoken in Haiti. It is the official language of the Republic of Haiti. It is the language of the Haitian Creole community, and is spoken by about one million people. It is the language of the Haitian Creole School, and is taught in the schools of the Haitian Creole community. It is also the language of the Haitian Creole Association, and is taught in the schools of the Haitian Creole Association. It is also","It is the official language of the Republic of Haiti. The Haitian Creole is a language spoken in Haiti. It is the language of the Haitian Creole community, and is spoken by about one million people. It is also the language of the Haitian Creole Association, and is taught in the schools of the Haitian Creole Association. It is also It is the language of the Haitian Creole School, and is taught in the schools of the Haitian Creole community."
 "Kòman gravite Io a te atire m? Si ou mete w nan sifas Io a, w ap peze mwens pwa pase sou Tè a.","Haitian Creole: Kòman gravite Io a te atire m? Si ou mete w nan sifas Io a, w ap peze mwens pwa pase sou Tè a. 
@@ -136,20 +187,22 @@ English: I am a newcomer to the island. I have been here for a few days. I have 
 English: ""Apple pral reyenvante telefòn nan, nou pral antre nan listwa jodi a"".","""Apple pral reyenvante telefòn nan, nou pral antre nan listwa jodi a""."
 Andikap zoum yo se difikilte fokalizasyon an ak kantite eleman obligatwa pou jwenn yon gam distans fokal ki pi enpòtan pou objektif prensipal yo.,"Haitian Creole: Andikap zoum yo se difikilte fokalizasyon an ak kantite eleman obligatwa pou jwenn yon gam distans fokal ki pi enpòtan pou objektif prensipal yo. 
 English:
-I am a Haitian Creole and I am a Haitian Creole. I am a Haitian Creole and I am a Haitian Creole. I am a Haitian Creole and I am a Haitian Creole. I am a Haitian Creole and I am a Haitian Creole. I am a Haitian Creole and I am a Haitian Creole. I am a Haitian Creole and I am a Haitian Creole. I am a",
+I am a Haitian Creole and I am a Haitian Creole. I am a Haitian Creole and I am a Haitian Creole. I am a Haitian Creole and I am a Haitian Creole. I am a Haitian Creole and I am a Haitian Creole. I am a Haitian Creole and I am a Haitian Creole. I am a Haitian Creole and I am a Haitian Creole. I am a",I am a Haitian Creole and I am a Haitian Creole. I am a
 "Sanble ak yon remòt televizyon, kontwolè a itilize de kaptè plase tou prè televizè itilizatè a pou triyangile pozisyon l nan espas tridimansyonèl la.","Haitian Creole: Sanble ak yon remòt televizyon, kontwolè a itilize de kaptè plase tou prè televizè itilizatè a pou triyangile pozisyon l nan espas tridimansyonèl la. 
 English: Haitian Creole: Sanble ak yon remòt televizyon, kontwolè a itilize de kaptè plase tou prè televizè itilizatè a pou triyangile pozisyon l nan espas tridimansyonèl la.","Haitian Creole: Sanble ak yon remòt televizyon, kontwolè a itilize de kaptè plase tou prè televizè itilizatè a pou triyangile pozisyon l nan espas tridimansyonèl la."
 . Syantifik yo di plimaj animal sa te mawon chaten sou anlè epi koulè pal oswa kawotenoyid sou anba.,"Haitian Creole:. Syantifik yo di plimaj animal sa te mawon chaten sou anlè epi koulè pal oswa kawotenoyid sou anba. 
 English:. I am a man who loves animals and I am a man who loves to cook. I am a man who loves to cook and I am a man who loves to cook and I am a man who loves to cook and I am a man who loves to cook and I am a man who loves to cook and I am a man who loves to cook and I am a man who loves to cook and I am a man who loves to cook and I am a man who loves to cook and I",I am a man who loves animals and I am a man who loves to cook. . I am a man who loves to cook and I am a man who loves to cook and I am a man who loves to cook and I am a man who loves to cook and I am a man who loves to cook and I am a man who loves to cook and I am a man who loves to cook and I am a man who loves to cook and I am a man who loves to cook and I
 "De konpoze yo reyaji youn avèk lòt pou fòme kristal yo ki kapab bloke fonksyon renal la, se sa kèk chèchè nan inivèsite a te deklare..","Haitian Creole: De konpoze yo reyaji youn avèk lòt pou fòme kristal yo ki kapab bloke fonksyon renal la, se sa kèk chèchè nan inivèsite a te deklare.. 
 English:
-I have a kidney stone and I need to know if I can get a kidney stone removed. I have been told that I can get a kidney stone removed if I have a kidney stone. I have been told that I can get a kidney stone removed if I have a kidney stone. I have been told that I can get a kidney stone removed if I have a kidney stone. I have been told that I can get a kidney stone removed if I have a kidney stone. I have been told",
+I have a kidney stone and I need to know if I can get a kidney stone removed. I have been told that I can get a kidney stone removed if I have a kidney stone. I have been told that I can get a kidney stone removed if I have a kidney stone. I have been told that I can get a kidney stone removed if I have a kidney stone. I have been told that I can get a kidney stone removed if I have a kidney stone. I have been told",I have a kidney stone and I need to know if I can get a kidney stone removed. I have been told that I can get a kidney stone removed if I have a kidney stone. I have been told
 Sa bay yon rezolisyon prèske kat fwa siperyè ak pa yon negatif 35 mm (3136 mm2 kont 864).,"Haitian Creole: Sa bay yon rezolisyon prèske kat fwa siperyè ak pa yon negatif 35 mm (3136 mm2 kont 864). 
 English:
 
 A:
 
-The answer is that the French word for ""water"" is ""eau"", and the word for ""water"" in Haitian Creole is ""sa bay"".",
+The answer is that the French word for ""water"" is ""eau"", and the word for ""water"" in Haitian Creole is ""sa bay"".","A:
+
+The answer is that the French word for ""water"" is ""eau"", and the word for ""water"" in Haitian Creole is ""sa bay""."
 "Gras ak lyen kab fib optik anba lanmè nan Ewòp ak satelit bande, Greenland byen konekte ak 93% nan popilasyon an ki gen aksè entènèt.","Haitian Creole: Gras ak lyen kab fib optik anba lanmè nan Ewòp ak satelit bande, Greenland byen konekte ak 93% nan popilasyon an ki gen aksè entènèt. 
 English:
 The Haitian Creole:
@@ -160,7 +213,8 @@ The Haitian Creole:
 The Greenlandic language is spoken by about 90% of the population.
 The Haitian Creole:
 The Greenlandic language is spoken by about 90% of the population.
-The Haitian Creole:",
+The Haitian Creole:","The Haitian Creole: The Haitian Creole:
+The Greenlandic language is spoken by about 90% of the population. The Greenlandic language is spoken by about 90% of the population."
 "Youn nan aplikasyon ki pi enpòtan nan kategori sa se Google Translate, ki pèmèt tradiksyon san pa an liy aprè w fin telechaje done lengistik ou swete yo.","Haitian Creole: Youn nan aplikasyon ki pi enpòtan nan kategori sa se Google Translate, ki pèmèt tradiksyon san pa an liy aprè w fin telechaje done lengistik ou swete yo. 
 English: I have a translation that is not available in Google Translate, which is not available in English.","I have a translation that is not available in Google Translate, which is not available in English."
 "Li gen menm estrikti molekilè, ke yon gaz, yon likid oubyen solid.","Haitian Creole: Li gen menm estrikti molekilè, ke yon gaz, yon likid oubyen solid. 
@@ -172,10 +226,10 @@ It is not possible to have a conversation with someone who is not familiar with 
 It is not possible to have a conversation with someone who is not familiar with the language.
 It is not possible to have a conversation with someone who is not familiar with the language.
 It is not possible to have a conversation with someone who is not familiar with the language.
-It is not possible to have a conversation with",
+It is not possible to have a conversation with",It is not possible to have a conversation with someone who is not familiar with the language. It is not possible to have a conversation with
 Lòm fabrike epi itilize lantiy pou agrandisman depi plizyè milye lane.,"Haitian Creole: Lòm fabrike epi itilize lantiy pou agrandisman depi plizyè milye lane. 
 English:
-The Haitian Creole language is a Creole language spoken in Haiti. It is the official language of Haiti and is the language of the Haitian Creole community. It is the language of the Haitian Creole people. It is the language of the Haitian Creole community. It is the language of the Haitian Creole community. It is the language of the Haitian Creole community. It is the language of the Haitian Creole community. It is the language of",
+The Haitian Creole language is a Creole language spoken in Haiti. It is the official language of Haiti and is the language of the Haitian Creole community. It is the language of the Haitian Creole people. It is the language of the Haitian Creole community. It is the language of the Haitian Creole community. It is the language of the Haitian Creole community. It is the language of the Haitian Creole community. It is the language of",It is the language of It is the language of the Haitian Creole community. It is the language of the Haitian Creole people. The Haitian Creole language is a Creole language spoken in Haiti. It is the official language of Haiti and is the language of the Haitian Creole community.
 "An fèt li pa fini, eksperimantasyon ak eksperyans se yon tès ki pèmèt nou elimine yonn ou plizyè ipotèz posib, poze kesyon ak fè obsèvasyon ede tou nan rechèch syantifik.","Haitian Creole: An fèt li pa fini, eksperimantasyon ak eksperyans se yon tès ki pèmèt nou elimine yonn ou plizyè ipotèz posib, poze kesyon ak fè obsèvasyon ede tou nan rechèch syantifik. 
 English: The end of the year, the experience of the past, the new experience of the future, the new experience of the past, the new experience of the future, the new experience of the past, the new experience of the future, the new experience of the past, the new experience of the future, the new experience of the past, the new experience of the future, the new experience of the past, the new experience of the future, the new experience of the past, the new experience of","The end of the year, the experience of the past, the new experience of the future, the new experience of the past, the new experience of the future, the new experience of the past, the new experience of the future, the new experience of the past, the new experience of the future, the new experience of the past, the new experience of the future, the new experience of the past, the new experience of the future, the new experience of the past, the new experience of"
 "Finalman, kawoutchou an bwa yo te ranplase pa kawoutchou an fè yo. An 1767, premye ray an fè yo te parèt.","Haitian Creole: Finalman, kawoutchou an bwa yo te ranplase pa kawoutchou an fè yo. An 1767, premye ray an fè yo te parèt. 
@@ -186,25 +240,26 @@ Pi fò teleskòp rechèch modèn yo son pakèt bann enstalasyon nan yon bann rej
 English:
 The Haitian Creole:
 Pi fò teleskòp rechèch modèn yo son pakèt bann enstalasyon nan yon bann rejyon lwen ki favorab ak kondisyon atmosferik.
-",
+","The Haitian Creole:
+Pi fò teleskòp rechèch modèn yo son pakèt bann enstalasyon nan yon bann rejyon lwen ki favorab ak kondisyon atmosferik."
 Egwi an asye a ap flote sou dlo a akoz tansyon sifas la.,"Haitian Creole: Egwi an asye a ap flote sou dlo a akoz tansyon sifas la. 
 English: I am a man of the sea, and I am a man of the land.
 French: Je suis un homme de la mer, et je suis un homme de la terre.
 Spanish: Yo soy un hombre de la mar, y yo soy un hombre de la tierra.
 Italian: Mi nome è un hombre da la mar, e mi nome è un hombre da la terra.
 Polish: My name is a man of the sea, and my name is a man of the land.
-Portugu","I am a man of the sea, and I am a man of the land."
+Portugu","Italian: Mi nome è un hombre da la mar, e mi nome è un hombre da la terra. Polish: My name is a man of the sea, and my name is a man of the land. French: Je suis un homme de la mer, et je suis un homme de la terre. I am a man of the sea, and I am a man of the land. Portugu Spanish: Yo soy un hombre de la mar, y yo soy un hombre de la tierra."
 "Fòma aktyèlman an se 35mm, yon ti jan konfizyon, 36mm nan lajè pa 24mm nan wotè.","Haitian Creole: Fòma aktyèlman an se 35mm, yon ti jan konfizyon, 36mm nan lajè pa 24mm nan wotè. 
 English: The 35mm film is the standard for most of the world, and the standard for most of the world is the 35mm film. The 35mm film is the standard for most of the world, and the standard for most of the world is the 35mm film. The 35mm film is the standard for most of the world, and the standard for most of the world is the 35mm film. The 35mm film is the standard for most of the world, and the standard for most of","The 35mm film is the standard for most of the world, and the standard for most of The 35mm film is the standard for most of the world, and the standard for most of the world is the 35mm film."
 "Selil yo tèlman fondamantal epi esansyèl nan etid lavi, an reyalite yo rele yo souvan ""eleman konstitif lavi yo"".","Haitian Creole: Selil yo tèlman fondamantal epi esansyèl nan etid lavi, an reyalite yo rele yo souvan ""eleman konstitif lavi yo"". 
 English: The Haitian Creole is a language spoken in Haiti. It is the official language of the Republic of Haiti. It is the language of the Haitian Creole community, and is also spoken by some Haitians who are not Creoles. It is the language of the Haitian Creole community, and is also spoken by some Haitians who are not Creoles. It is the language of the Haitian Creole community, and is also spoken by some Haitians who are not Creoles","It is the language of the Haitian Creole community, and is also spoken by some Haitians who are not Creoles. It is the official language of the Republic of Haiti. It is the language of the Haitian Creole community, and is also spoken by some Haitians who are not Creoles The Haitian Creole is a language spoken in Haiti."
 Founisè VPN (rezo prive vityèl) pèsonèl yo se yon bon mwayen pou kontoune alafwa restriksyon politik la ak jewofiltraj IP komèsyal la.,"Haitian Creole: Founisè VPN (rezo prive vityèl) pèsonèl yo se yon bon mwayen pou kontoune alafwa restriksyon politik la ak jewofiltraj IP komèsyal la. 
 English:
-Founisè VPN (private virtual network) is a VPN that allows you to connect to a private network without revealing your IP address. This is useful for accessing a private network from a public network, or for accessing a private network from a public network that is not accessible to the public network.",
+Founisè VPN (private virtual network) is a VPN that allows you to connect to a private network without revealing your IP address. This is useful for accessing a private network from a public network, or for accessing a private network from a public network that is not accessible to the public network.","Founisè VPN (private virtual network) is a VPN that allows you to connect to a private network without revealing your IP address. This is useful for accessing a private network from a public network, or for accessing a private network from a public network that is not accessible to the public network."
 "Estasyon an te kenbe atitid li, malgre pèt yon jiwoskòp avan nan misyon estasyon espasyal la, jiska fen sòti nan lespas la.","Haitian Creole: Estasyon an te kenbe atitid li, malgre pèt yon jiwoskòp avan nan misyon estasyon espasyal la, jiska fen sòti nan lespas la. 
 English: I am not afraid of the law, but I am afraid of the people.""
 
-The Haitian Creole is a dialect of the Creole spoken in Haiti. It is a dialect of the Creole spoken in Haiti. It is a dialect of the Creole spoken in Haiti. It is a dialect of the Creole spoken in Haiti. It is a dialect of the Creole spoken in Haiti. It is a dialect of the Creole spoken in Haiti. It is a dialect of the","I am not afraid of the law, but I am afraid of the people."""
+The Haitian Creole is a dialect of the Creole spoken in Haiti. It is a dialect of the Creole spoken in Haiti. It is a dialect of the Creole spoken in Haiti. It is a dialect of the Creole spoken in Haiti. It is a dialect of the Creole spoken in Haiti. It is a dialect of the Creole spoken in Haiti. It is a dialect of the","It is a dialect of the It is a dialect of the Creole spoken in Haiti. The Haitian Creole is a dialect of the Creole spoken in Haiti. I am not afraid of the law, but I am afraid of the people."""
 "Moun yo ki gen tip panse sa gen yon panse lojik, yo kapab memorize modèl yo, rezoud pwoblèm yo epi travay sou tès syantifik yo.","Haitian Creole: Moun yo ki gen tip panse sa gen yon panse lojik, yo kapab memorize modèl yo, rezoud pwoblèm yo epi travay sou tès syantifik yo. 
 English: I can memorize the model, but I can't remember the words.","I can memorize the model, but I can't remember the words."
 "Oselo yo renmen manje ti bèt yo. Yo atrap makak yo, sèpan yo, wonjè yo ak zwazo yo si yo kapab. Prèske tout bèt oselo chase yo pi piti pase li.","Haitian Creole: Oselo yo renmen manje ti bèt yo. Yo atrap makak yo, sèpan yo, wonjè yo ak zwazo yo si yo kapab. Prèske tout bèt oselo chase yo pi piti pase li. 
@@ -212,7 +267,7 @@ English: I am a man who is not afraid of anything. I am not afraid of anything. 
 "Kèk kamera mwayen fòma itilize yon fòma 6 pa 6 cm, pou egzateman yon negatif 56 pa 56 mm.","Haitian Creole: Kèk kamera mwayen fòma itilize yon fòma 6 pa 6 cm, pou egzateman yon negatif 56 pa 56 mm. 
 English:
 Kèk kamera mwayen fòma itilize yon fòma 6 pa 6 cm, pou egzateman yon negatif 56 pa 56 mm.
-",
+","Kèk kamera mwayen fòma itilize yon fòma 6 pa 6 cm, pou egzateman yon negatif 56 pa 56 mm."
 Vwayajè yo konseye avèk fòs pou yo konsyan tout ris move tan nan rejyon yo a paske sa kapab afekte pwojè vwayaj yo.,"Haitian Creole: Vwayajè yo konseye avèk fòs pou yo konsyan tout ris move tan nan rejyon yo a paske sa kapab afekte pwojè vwayaj yo. 
 English: I am not sure if I can help you with this. I have not been able to find a way to help you. I have not been able to find a way to help you.",I am not sure if I can help you with this. I have not been able to find a way to help you.
 "Bis yo kite ga woutyè entè-distri a (sou lòt bò rivyè a) pandan tout jounen an, espesyalman sa ki prale nan lès ak Jakar/Bumthang kite ant 6è 30 ak 7è 30.","Haitian Creole: Bis yo kite ga woutyè entè-distri a (sou lòt bò rivyè a) pandan tout jounen an, espesyalman sa ki prale nan lès ak Jakar/Bumthang kite ant 6è 30 ak 7è 30. 
@@ -239,44 +294,59 @@ The Haitian Creole:
 The Haitian Creole:
 The Haitian Creole:
 The Haitian Creole:
-The",
+The","The Haitian Creole:
+The Haitian Creole:
+The Haitian Creole:
+The Haitian Creole:
+The Haitian Creole:
+The Haitian Creole:
+The Haitian Creole:
+The Haitian Creole:
+The Haitian Creole:
+The Haitian Creole:
+The Haitian Creole:
+The Haitian Creole:
+The Haitian Creole:
+The Haitian Creole:
+The"
 "Nan chalè jounen an, vwayajè yo kapab viv kèk miraj ki bay enpresyon dlo (oubyen lòt bagay).","Haitian Creole: Nan chalè jounen an, vwayajè yo kapab viv kèk miraj ki bay enpresyon dlo (oubyen lòt bagay). 
 English: I am a man who has been working in the field for many years. I have been working in the field for many years. I have been working in the field for many years. I have been working in the field for many years. I have been working in the field for many years. I have been working in the field for many years. I have been working in the field for many years. I have been working in the field for many years. I have been working in the field for",I am a man who has been working in the field for many years. I have been working in the field for I have been working in the field for many years.
 "Fanmi ki gen timoun yo pa anpil, men kèk pansyon otorize yo nan chanm prive yo.","Haitian Creole: Fanmi ki gen timoun yo pa anpil, men kèk pansyon otorize yo nan chanm prive yo. 
 English: I am not a member of the Haitian Creole community, but I am a member of the Haitian Creole community.
 Haitian Creole: Fanmi ki gen timoun yo pa anpil, men kèk pansyon otorize yo nan chanm prive yo. English translation: I am not a member of the Haitian Creole community, but I am a member of the Haitian Creole community.
-Haitian Creole: Fanmi ki gen timo","I am not a member of the Haitian Creole community, but I am a member of the Haitian Creole community."
+Haitian Creole: Fanmi ki gen timo","English translation: I am not a member of the Haitian Creole community, but I am a member of the Haitian Creole community. Haitian Creole: Fanmi ki gen timoun yo pa anpil, men kèk pansyon otorize yo nan chanm prive yo. I am not a member of the Haitian Creole community, but I am a member of the Haitian Creole community. Haitian Creole: Fanmi ki gen timo"
 "Pa egzanp, vizite chato nan vale Loire la, vale Rhin an oswa fè yon kwazyè pou ale nan espas entèresan sa yo sou Danube oswa fè bato ale nan wout kanal Erie a.","Haitian Creole: Pa egzanp, vizite chato nan vale Loire la, vale Rhin an oswa fè yon kwazyè pou ale nan espas entèresan sa yo sou Danube oswa fè bato ale nan wout kanal Erie a. 
 English:
-The French language is a complex language, with many dialects. The French language is divided into three main dialects, the Normandy, the Provence, and the Languedoc. The Normandy dialect is spoken in the south of France, the Provence dialect is spoken in the south of France, and the Languedoc dialect is spoken in the south of France. The Normandy dialect is spoken in the south of France, the Provence dialect is spoken in the south of France, and the Languedoc dialect is",
+The French language is a complex language, with many dialects. The French language is divided into three main dialects, the Normandy, the Provence, and the Languedoc. The Normandy dialect is spoken in the south of France, the Provence dialect is spoken in the south of France, and the Languedoc dialect is spoken in the south of France. The Normandy dialect is spoken in the south of France, the Provence dialect is spoken in the south of France, and the Languedoc dialect is","The Normandy dialect is spoken in the south of France, the Provence dialect is spoken in the south of France, and the Languedoc dialect is spoken in the south of France. The French language is a complex language, with many dialects. The Normandy dialect is spoken in the south of France, the Provence dialect is spoken in the south of France, and the Languedoc dialect is The French language is divided into three main dialects, the Normandy, the Provence, and the Languedoc."
 Li preferab pou kontakte yon ajan ki konn souvan fè rezèvasyon vwayaj tankou paw la.,"Haitian Creole: Li preferab pou kontakte yon ajan ki konn souvan fè rezèvasyon vwayaj tankou paw la. 
 English: I prefer to talk to you if you are willing to listen to my story.",I prefer to talk to you if you are willing to listen to my story.
 Couchsurfing te fonde an janvye 2004 aprè pwogramè enfòmatik Casey Fenton te twouve yon vòl bon mache pou Islann men li pat gen kote pou rete.,"Haitian Creole: Couchsurfing te fonde an janvye 2004 aprè pwogramè enfòmatik Casey Fenton te twouve yon vòl bon mache pou Islann men li pat gen kote pou rete. 
 English:
 Couchsurfing is a non-profit organization that provides free accommodation and support to people who are traveling to and from other countries. The organization is based in New York City and has offices in Paris, London, and Washington, D.C. Couchsurfing is a non-profit organization that provides free accommodation and support to people who are traveling to and from other countries. The organization is based in New York City and has offices in Paris, London, and Washington, D.C.
-C",
+C","The organization is based in New York City and has offices in Paris, London, and Washington, D.C.
+C The organization is based in New York City and has offices in Paris, London, and Washington, D.C. Couchsurfing is a non-profit organization that provides free accommodation and support to people who are traveling to and from other countries. Couchsurfing is a non-profit organization that provides free accommodation and support to people who are traveling to and from other countries."
 "Jeneralman, viza etidyan yo gen kondisyon ak pwosedi aplikasyon ki diferan de viza nòmal pou touris oswa biznis.","Haitian Creole: Jeneralman, viza etidyan yo gen kondisyon ak pwosedi aplikasyon ki diferan de viza nòmal pou touris oswa biznis. 
 English: Generalman, viza and the difference between viza and the name of the town.
 ","Generalman, viza and the difference between viza and the name of the town."
 Chak peyo gen tou pwòp lwa yo ki egzije atik ijans yo twouve nan machin lan.,"Haitian Creole: Chak peyo gen tou pwòp lwa yo ki egzije atik ijans yo twouve nan machin lan. 
 English:
-I am a Haitian Creole, and I am a man who has been working in the city for many years. I have been working in the city for many years. I have been working in the city for many years. I have been working in the city for many years. I have been working in the city for many years. I have been working in the city for many years. I have been working in the city for many years. I have been working in the city for many",
+I am a Haitian Creole, and I am a man who has been working in the city for many years. I have been working in the city for many years. I have been working in the city for many years. I have been working in the city for many years. I have been working in the city for many years. I have been working in the city for many years. I have been working in the city for many years. I have been working in the city for many","I have been working in the city for many I am a Haitian Creole, and I am a man who has been working in the city for many years. I have been working in the city for many years."
 "Menmsi plizyè ajans prè pou pran tout rezèvasyon yo, anpil ajan espesyalize nan tip vwayaj patikilye sa yo, selon lajè bidjè ouswa destinasyon.","Haitian Creole: Menmsi plizyè ajans prè pou pran tout rezèvasyon yo, anpil ajan espesyalize nan tip vwayaj patikilye sa yo, selon lajè bidjè ouswa destinasyon. 
 English:
-I am a Haitian Creole, and I am a Haitian Creole. I am a Haitian Creole. I am a Haitian Creole. I am a Haitian Creole. I am a Haitian Creole. I am a Haitian Creole. I am a Haitian Creole. I am a Haitian Creole. I am a Haitian Creole. I am a Haitian Creole. I am a Haitian Creole. I am",
+I am a Haitian Creole, and I am a Haitian Creole. I am a Haitian Creole. I am a Haitian Creole. I am a Haitian Creole. I am a Haitian Creole. I am a Haitian Creole. I am a Haitian Creole. I am a Haitian Creole. I am a Haitian Creole. I am a Haitian Creole. I am a Haitian Creole. I am","I am a Haitian Creole. I am I am a Haitian Creole, and I am a Haitian Creole."
 Vwayajè yo kapab rankontre kèk bèt nwizib yo pa konnen nan rejyon orijin yo.,"Haitian Creole: Vwayajè yo kapab rankontre kèk bèt nwizib yo pa konnen nan rejyon orijin yo. 
 English: I am not sure if I can help you, but I am sure I can help you.","I am not sure if I can help you, but I am sure I can help you."
 "Nan nò a toujou, vizite gran Sanktyè Nòtdam Fatima (Sanktyè), yon kote ki selèb mondyal pou aparisyon Mari.","Haitian Creole: Nan nò a toujou, vizite gran Sanktyè Nòtdam Fatima (Sanktyè), yon kote ki selèb mondyal pou aparisyon Mari. 
 English:
 Nan nò a toujou, vizite gran Sanktyè Nòtdam Fatima (Sanktyè), yon kote ki selèb mondyal pou aparisyon Mari.
 Nan nò a toujou, vizite gran Sanktyè Nòtdam Fatima (Sanktyè), yon kote ki selèb mondyal pou aparisyon Mari.
-Nan nò a toujou, vizite gran Sanktyè Nòtd",
+Nan nò a toujou, vizite gran Sanktyè Nòtd","Nan nò a toujou, vizite gran Sanktyè Nòtdam Fatima (Sanktyè), yon kote ki selèb mondyal pou aparisyon Mari. Nan nò a toujou, vizite gran Sanktyè Nòtd"
 Ou kapab itilize boda-boda (taksi moto) pou w deplase nan Goma. Pri nòmal (lokal) la se ~500 Fran Konglolè pou yon ti bout trajè.,"Haitian Creole: Ou kapab itilize boda-boda (taksi moto) pou w deplase nan Goma. Pri nòmal (lokal) la se ~500 Fran Konglolè pou yon ti bout trajè. 
 English:
-I have a taxi for you to take you to the airport. I will be waiting for you at the airport. I will be waiting for you at the airport. I will be waiting for you at the airport. I will be waiting for you at the airport. I will be waiting for you at the airport. I will be waiting for you at the airport. I will be waiting for you at the airport. I will be waiting for you at the airport. I will be waiting for you",
+I have a taxi for you to take you to the airport. I will be waiting for you at the airport. I will be waiting for you at the airport. I will be waiting for you at the airport. I will be waiting for you at the airport. I will be waiting for you at the airport. I will be waiting for you at the airport. I will be waiting for you at the airport. I will be waiting for you at the airport. I will be waiting for you",I will be waiting for you at the airport. I have a taxi for you to take you to the airport. I will be waiting for you
 "Pou tout moun ki renmen aktivite deyò yo, yon pwomennen nan koulwa Sea to Sky lan endispansab.","Haitian Creole: Pou tout moun ki renmen aktivite deyò yo, yon pwomennen nan koulwa Sea to Sky lan endispansab. 
 English:
-I am a young man who loves to travel and explore the world. I am a man who loves to travel and explore the world. I am a man who loves to travel and explore the world. I am a man who loves to travel and explore the world. I am a man who loves to travel and explore the world. I am a man who loves to travel and explore the world. I am a man who loves to travel and explore the world. I am a man who loves to",
+I am a young man who loves to travel and explore the world. I am a man who loves to travel and explore the world. I am a man who loves to travel and explore the world. I am a man who loves to travel and explore the world. I am a man who loves to travel and explore the world. I am a man who loves to travel and explore the world. I am a man who loves to travel and explore the world. I am a man who loves to",I am a young man who loves to travel and explore the world. I am a man who loves to travel and explore the world. I am a man who loves to
 "Yon safari a pye (ke yo rele tou «1»mach touf bwa«2», «3» safari randone«4», oubyen ale «5»a pye») la pou li fè randone pandan kèk èd tan oubyen plizyè jou.","Haitian Creole: Yon safari a pye (ke yo rele tou «1»mach touf bwa«2», «3» safari randone«4», oubyen ale «5»a pye») la pou li fè randone pandan kèk èd tan oubyen plizyè jou. 
 English: The safari is a great adventure. It is a great adventure. It is a great adventure.",The safari is a great adventure. It is a great adventure.
 "Sèl fason pou fè l pase pi rapid se te voye l tankou bwat ki anrejistre. Règlemantasyon konpayi ayeryèn yo pa pèmèt yo voye yon bwat san pasaje, sa vle di san ou pa deplase.","Haitian Creole: Sèl fason pou fè l pase pi rapid se te voye l tankou bwat ki anrejistre. Règlemantasyon konpayi ayeryèn yo pa pèmèt yo voye yon bwat san pasaje, sa vle di san ou pa deplase. 
@@ -290,17 +360,19 @@ I am going to take you to the airport.
 I am going to take you to the airport.
 I am going to take you to the airport.
 I am going to take you to the airport.
-I am going to take you to the airport",
+I am going to take you to the airport",I am going to take you to the airport I am going to take you to the airport.
 "300 se sa yo dwe mete anplis pou fè total lan pase ak 1,300 wagon yon fason pou soulage sipopilasyon an.","Haitian Creole: 300 se sa yo dwe mete anplis pou fè total lan pase ak 1,300 wagon yon fason pou soulage sipopilasyon an. 
 English:
 The Haitian Creole: 300 se sa yo dwe mete anplis pou fè total lan passe ak 1,300 wagon yon fason pou soulage sipopilasyon an. 
 French:
 Le Haitian Creole: 300 se sa yo dwe mete anplis pou fè total lan passe ak 1,300 wagon yon fason pou soulage sipopilasyon an. 
 Spanish:
-El Haitian Creole: 300 se sa yo d",
+El Haitian Creole: 300 se sa yo d","Spanish:
+El Haitian Creole: 300 se sa yo d French:
+Le Haitian Creole: 300 se sa yo dwe mete anplis pou fè total lan passe ak 1,300 wagon yon fason pou soulage sipopilasyon an. The Haitian Creole: 300 se sa yo dwe mete anplis pou fè total lan passe ak 1,300 wagon yon fason pou soulage sipopilasyon an."
 "Fanmi ki gen jèn timoun yo kapab gen bezwen pi plis preparasyon, men yon jounen deyò posib byen fasil, menm avèk bebe yo epi timoun ki nan laj preskolè yo.","Haitian Creole: Fanmi ki gen jèn timoun yo kapab gen bezwen pi plis preparasyon, men yon jounen deyò posib byen fasil, menm avèk bebe yo epi timoun ki nan laj preskolè yo. 
 English:
-I am a Haitian Creole, and I am a teacher, and I am a teacher, and I am a teacher, and I am a teacher, and I am a teacher, and I am a teacher, and I am a teacher, and I am a teacher, and I am a teacher, and I am a teacher, and I am a teacher, and I am a teacher, and I am a teacher, and I am a teacher, and I am a teacher, and",
+I am a Haitian Creole, and I am a teacher, and I am a teacher, and I am a teacher, and I am a teacher, and I am a teacher, and I am a teacher, and I am a teacher, and I am a teacher, and I am a teacher, and I am a teacher, and I am a teacher, and I am a teacher, and I am a teacher, and I am a teacher, and I am a teacher, and","I am a Haitian Creole, and I am a teacher, and I am a teacher, and I am a teacher, and I am a teacher, and I am a teacher, and I am a teacher, and I am a teacher, and I am a teacher, and I am a teacher, and I am a teacher, and I am a teacher, and I am a teacher, and I am a teacher, and I am a teacher, and I am a teacher, and"
 "Nenpòt moun ki pral grenpe on kote ki wo oubyen sou kòl mòn yo dwe anvizaje posibilite pou nèj, glas ak tanperati glasyal.","Haitian Creole: Nenpòt moun ki pral grenpe on kote ki wo oubyen sou kòl mòn yo dwe anvizaje posibilite pou nèj, glas ak tanperati glasyal. 
 English: I am not sure if I can help you, but I have a friend who is a Haitian Creole. He is a good friend, but he is not a good teacher. He is not a good teacher because he is not a good teacher because he is not a good teacher because he is not a good teacher because he is not a good teacher because he is not a good teacher because he is not a good teacher because he is not a good teacher because he is not a good teacher because","He is not a good teacher because he is not a good teacher because he is not a good teacher because he is not a good teacher because he is not a good teacher because he is not a good teacher because he is not a good teacher because he is not a good teacher because he is not a good teacher because He is a good friend, but he is not a good teacher. I am not sure if I can help you, but I have a friend who is a Haitian Creole."
 "Jodi a, Tonmbouktou se yon vil pòv, menm si repitasyon l fè l yon atraksyon touristik, epi li gen yon ayopò.","Haitian Creole: Jodi a, Tonmbouktou se yon vil pòv, menm si repitasyon l fè l yon atraksyon touristik, epi li gen yon ayopò. 
@@ -309,24 +381,26 @@ Jodi a, Tonmbouktou se yon vil pòv, menm si repitasyon l fè l yon atraksyon to
 French:
 Jodi a, Tonmbouktou se yon vil pòv, menm si repitasyon l fè l yon atraksyon touristik, epi li gen yon ayopò. 
 Spanish:
-Jodi a, Ton",
+Jodi a, Ton","Jodi a, Tonmbouktou se yon vil pòv, menm si repitasyon l fè l yon atraksyon touristik, epi li gen yon ayopò. French:
+Jodi a, Tonmbouktou se yon vil pòv, menm si repitasyon l fè l yon atraksyon touristik, epi li gen yon ayopò. Spanish:
+Jodi a, Ton"
 "Pandan tanpèt nèj yo, ka gen ase nèj ki tonbe pou bloke w nan yon ti kras tan.","Haitian Creole: Pandan tanpèt nèj yo, ka gen ase nèj ki tonbe pou bloke w nan yon ti kras tan. 
 English: I don't know, but I think it is a good idea to keep the book in the library.","I don't know, but I think it is a good idea to keep the book in the library."
 "Si ou swete fè yon tou mond lan konplè nan emisfè sid lan, chwa vòl yo epi destinasyon yo limite an rezon absans wout transoseyanik yo.","Haitian Creole: Si ou swete fè yon tou mond lan konplè nan emisfè sid lan, chwa vòl yo epi destinasyon yo limite an rezon absans wout transoseyanik yo. 
 English: If you are not satisfied with the result of the election, you can appeal to the Supreme Court.","If you are not satisfied with the result of the election, you can appeal to the Supreme Court."
 "Liy ayeryèn tankou Emirat, Etihad Eweyz, Kata Eweyz & Liy ayeryèn Tik te byen etann sèvis yo an Afrik, epi pèmèt wayaj nan yon pakèt bann gwo vil Afriken nan yon pri ki pi konpetitf ke lot Liy ayeryèn Ewopeyen yo.","Haitian Creole: Liy ayeryèn tankou Emirat, Etihad Eweyz, Kata Eweyz & Liy ayeryèn Tik te byen etann sèvis yo an Afrik, epi pèmèt wayaj nan yon pakèt bann gwo vil Afriken nan yon pri ki pi konpetitf ke lot Liy ayeryèn Ewopeyen yo. 
 English:
-The name of the airline is Etihad Airways. The airline is a subsidiary of the Abu Dhabi National Oil Company (ADNOC). The airline is based in Abu Dhabi, United Arab Emirates. The airline is a member of the World Travel and Tourism Council (WTTC). The airline is a member of the World Travel and Tourism Council (WTTC). The airline is a member of the World Travel and Tourism Council (WTTC). The airline is a member of the World Travel and",
+The name of the airline is Etihad Airways. The airline is a subsidiary of the Abu Dhabi National Oil Company (ADNOC). The airline is based in Abu Dhabi, United Arab Emirates. The airline is a member of the World Travel and Tourism Council (WTTC). The airline is a member of the World Travel and Tourism Council (WTTC). The airline is a member of the World Travel and Tourism Council (WTTC). The airline is a member of the World Travel and","The airline is based in Abu Dhabi, United Arab Emirates. The airline is a member of the World Travel and The airline is a member of the World Travel and Tourism Council (WTTC). The airline is a subsidiary of the Abu Dhabi National Oil Company (ADNOC). The name of the airline is Etihad Airways."
 "Okenn transpò anplis pat mete an plas epi tren sifas yi p ap rete nan Wembley, epi pakin yo ak pak relè yo pa disponib nan rechose a.","Haitian Creole: Okenn transpò anplis pat mete an plas epi tren sifas yi p ap rete nan Wembley, epi pakin yo ak pak relè yo pa disponib nan rechose a. 
 English:
-I am a Haitian Creole, and I am a member of the Wembley Club. I am a member of the Wembley Club because I am a member of the Wembley Club. I am a member of the Wembley Club because I am a member of the Wembley Club. I am a member of the Wembley Club because I am a member of the Wembley Club. I am a member of the Wembley Club because I am",
+I am a Haitian Creole, and I am a member of the Wembley Club. I am a member of the Wembley Club because I am a member of the Wembley Club. I am a member of the Wembley Club because I am a member of the Wembley Club. I am a member of the Wembley Club because I am a member of the Wembley Club. I am a member of the Wembley Club because I am","I am a member of the Wembley Club because I am I am a Haitian Creole, and I am a member of the Wembley Club. I am a member of the Wembley Club because I am a member of the Wembley Club."
 "An prensip pou rete nan yon peyi etranje pandan yon bon tan, fòk ou gen yon viza davans.","Haitian Creole: An prensip pou rete nan yon peyi etranje pandan yon bon tan, fòk ou gen yon viza davans. 
 English: Haitian Creole: A prensip pou rete nan yon peyi etranje pandan yon bon tan, fòk ou gen yon viza davans. 
 French: Haitian Creole: Une prensip pou rete nan yon peyi etranje pandan yon bon tan, fòk ou gen yon viza davans. 
-Spanish: Haitian Creole: Una prensip pou rete nan yon peyi etranje","Haitian Creole: A prensip pou rete nan yon peyi etranje pandan yon bon tan, fòk ou gen yon viza davans."
+Spanish: Haitian Creole: Una prensip pou rete nan yon peyi etranje","French: Haitian Creole: Une prensip pou rete nan yon peyi etranje pandan yon bon tan, fòk ou gen yon viza davans. Spanish: Haitian Creole: Una prensip pou rete nan yon peyi etranje Haitian Creole: A prensip pou rete nan yon peyi etranje pandan yon bon tan, fòk ou gen yon viza davans."
 Chak tren ki gen ladanl machin MetroPlus yo epi machin Metro yo; machin MetroPlus yo toujou nan pwent tren an pi pwòch Cap la.,"Haitian Creole: Chak tren ki gen ladanl machin MetroPlus yo epi machin Metro yo; machin MetroPlus yo toujou nan pwent tren an pi pwòch Cap la. 
 English:
-MetroPlus is a new generation of mobile phone that is designed to be used in the Metro system. It is a compact, lightweight, and easy to use phone that is compatible with the Metro system. It is a phone that can be used in the Metro system and can be used in any Metro system. It is a phone that can be used in any Metro system and can be used in any Metro system. It is a phone that can be used in any Metro system and can be used",
+MetroPlus is a new generation of mobile phone that is designed to be used in the Metro system. It is a compact, lightweight, and easy to use phone that is compatible with the Metro system. It is a phone that can be used in the Metro system and can be used in any Metro system. It is a phone that can be used in any Metro system and can be used in any Metro system. It is a phone that can be used in any Metro system and can be used","It is a phone that can be used in any Metro system and can be used MetroPlus is a new generation of mobile phone that is designed to be used in the Metro system. It is a compact, lightweight, and easy to use phone that is compatible with the Metro system. It is a phone that can be used in any Metro system and can be used in any Metro system. It is a phone that can be used in the Metro system and can be used in any Metro system."
 Tout moun patisipe nan sosyete a epi itilize sistèm transpò yo. Prèske tout moun ap plenyen pou sistèm transpò yo.,"Haitian Creole: Tout moun patisipe nan sosyete a epi itilize sistèm transpò yo. Prèske tout moun ap plenyen pou sistèm transpò yo. 
 English:
 The system is not working properly. Please try again later.
@@ -339,7 +413,8 @@ Le systèm est pas ben marche. Pouvez-vou essayer de nouveau plus tard.
 English:
 The system is not working properly. Please try again later.
 Haitian Creole:
-",
+","The system is not working properly. Haitian Creole:
+Le systèm est pas ben marche. Pouvez-vou essayer de nouveau plus tard. Please try again later."
 "Kòm zòn yo pa gen anpil moun epi polisyon limyè a pa toutan yon pwoblèm, wap kapab pwofite de etwal yo tou.","Haitian Creole: Kòm zòn yo pa gen anpil moun epi polisyon limyè a pa toutan yon pwoblèm, wap kapab pwofite de etwal yo tou. 
 English: I am not a member of the political party, but I am a member of the community. I am a member of the community because I am a member of the political party. I am a member of the political party because I am a member of the community.","I am a member of the community because I am a member of the political party. I am a member of the political party because I am a member of the community. I am not a member of the political party, but I am a member of the community."
 Egzijans yo ak pri viza yo varye sòti nan peyi pou rive nan yon lòt epi yo enfliyanse pa peyi kote ou orijinè a.,"Haitian Creole: Egzijans yo ak pri viza yo varye sòti nan peyi pou rive nan yon lòt epi yo enfliyanse pa peyi kote ou orijinè a. 
@@ -353,7 +428,13 @@ The following is a list of the names of the ships of the French fleet in the Bat
 
 The following is a list of the names of the ships of the French fleet in the Battle of the Nile:
 
-The following is a list of the names of the ships of","General, he is the commander of the army, and he is the commander of the fleet."
+The following is a list of the names of the ships of","General, he is the commander of the army, and he is the commander of the fleet. The following is a list of the names of the ships of the French fleet in the Battle of the Nile:
+
+The following is a list of the names of the ships of the French fleet in the Battle of the Nile:
+
+The following is a list of the names of the ships of the French fleet in the Battle of the Nile:
+
+The following is a list of the names of the ships of"
 Lanse Boomerang se yon konpetans popilè ke anpil touris ta renmen genyen.,"Haitian Creole: Lanse Boomerang se yon konpetans popilè ke anpil touris ta renmen genyen. 
 English: Lanse Boomerang is a song by the Haitian Creole band Lanse Boomerang. It was released on the album Lanse Boomerang (2006). The song was written by the band's lead singer, Jean Pierre. The song was released on the album Lanse Boomerang (2006). The song was released on the album Lanse Boomerang (2006). The song was released on the album Lanse Boomerang (2006). The song was released on the","Lanse Boomerang is a song by the Haitian Creole band Lanse Boomerang. The song was released on the album Lanse Boomerang (2006). The song was written by the band's lead singer, Jean Pierre. The song was released on the It was released on the album Lanse Boomerang (2006)."
 Vòl sa pa sèl opsyon si ou vle evite Pasifik Sid la epi kot lwès Amerik di Sid la. (gade anba a),"Haitian Creole: Vòl sa pa sèl opsyon si ou vle evite Pasifik Sid la epi kot lwès Amerik di Sid la. (gade anba a) 
@@ -366,10 +447,10 @@ Moun yo pa atann yo petèt pasyans ak konpreyansyon an dwe nesesè tou pou vwaya
 English: I don't know how to speak Haitian Creole, but I know that I can speak English.
 Haitian Creole: Moun yo pa atann yo petèt pasyans ak konpreyansyon an dwe nesesè tou pou vwayajè k ap rantre lakay yo. 
 English: I don't know how to speak Haitian Creole, but I know that I can speak English.
-Haitian Creole: Moun yo pa atann yo","I don't know how to speak Haitian Creole, but I know that I can speak English."
+Haitian Creole: Moun yo pa atann yo","Haitian Creole: Moun yo pa atann yo petèt pasyans ak konpreyansyon an dwe nesesè tou pou vwayajè k ap rantre lakay yo. I don't know how to speak Haitian Creole, but I know that I can speak English."
 "Pa bliye ajoute depans anplis viza yo, taks depa yo, transpò tèrès yo, elatriye pou tout kote sa yo an deyò Lafrik.","Haitian Creole: Pa bliye ajoute depans anplis viza yo, taks depa yo, transpò tèrès yo, elatriye pou tout kote sa yo an deyò Lafrik. 
 English:
-I am a Haitian Creole, I am a Haitian Creole, I am a Haitian Creole, I am a Haitian Creole, I am a Haitian Creole, I am a Haitian Creole, I am a Haitian Creole, I am a Haitian Creole, I am a Haitian Creole, I am a Haitian Creole, I am a Haitian Creole, I am a Haitian Creole, I am a",
+I am a Haitian Creole, I am a Haitian Creole, I am a Haitian Creole, I am a Haitian Creole, I am a Haitian Creole, I am a Haitian Creole, I am a Haitian Creole, I am a Haitian Creole, I am a Haitian Creole, I am a Haitian Creole, I am a Haitian Creole, I am a Haitian Creole, I am a","I am a Haitian Creole, I am a Haitian Creole, I am a Haitian Creole, I am a Haitian Creole, I am a Haitian Creole, I am a Haitian Creole, I am a Haitian Creole, I am a Haitian Creole, I am a Haitian Creole, I am a Haitian Creole, I am a Haitian Creole, I am a Haitian Creole, I am a"
 Plizyè abitan Bichkèk te akize manifestan ki soti nan sid yo kòm responsab anachi an.,"Haitian Creole: Plizyè abitan Bichkèk te akize manifestan ki soti nan sid yo kòm responsab anachi an. 
 English: The Haitian Creole: The Haitian Creole: The Haitian Creole: The Haitian Creole: The Haitian Creole: The Haitian Creole: The Haitian Creole: The Haitian Creole: The Haitian Creole: The Haitian Creole: The Haitian Creole: The Haitian Creole: The Haitian Creole: The Haitian Creole: The Haitian Creole: The Haitian Creole: The Haitian Cre",The Haitian Creole: The Haitian Creole: The Haitian Creole: The Haitian Creole: The Haitian Creole: The Haitian Creole: The Haitian Creole: The Haitian Creole: The Haitian Creole: The Haitian Creole: The Haitian Creole: The Haitian Creole: The Haitian Creole: The Haitian Creole: The Haitian Creole: The Haitian Creole: The Haitian Cre
 Rejyon aktyèl Bèljik yo te fè oparavan pati Lizanmbou men yo te vin bèlj aprè Revolisyon bèlj nan lane 1830 yo.,"Haitian Creole: Rejyon aktyèl Bèljik yo te fè oparavan pati Lizanmbou men yo te vin bèlj aprè Revolisyon bèlj nan lane 1830 yo. 
@@ -380,10 +461,11 @@ The Haitian Creole:
 Depi 1988, in yo dwe transparent pou elektè yo ak obsèvatè yo kapab konstate okenn anvlòp pa prezante nan kòmansman vòt la epi okenn anvlòp pat adds sof pa elektè yo regilyèman konte epi otorize. 
 English:
 The Haitian Creole:
-Depi 1988, in yo dwe transparent pou elektè yo ak obsè",
+Depi 1988, in yo dwe transparent pou elektè yo ak obsè","The Haitian Creole:
+Depi 1988, in yo dwe transparent pou elektè yo ak obsèvatè yo kapab konstate okenn anvlòp pa prezante nan kòmansman vòt la epi okenn anvlòp pat adds sof pa elektè yo regilyèman konte epi otorize."
 Premye Minis pwovizwa Julia Gillard te deklare pandan kanpay eleksyon federal 2010 yo li te panse Ostrali te dwe in yon repiblik nan fen rèy rèn Elizabèt II a.,"Haitian Creole: Premye Minis pwovizwa Julia Gillard te deklare pandan kanpay eleksyon federal 2010 yo li te panse Ostrali te dwe in yon repiblik nan fen rèy rèn Elizabèt II a. 
 English:
-President Julia Gillard has announced that the federal election will be held on 7 May 2010. The election will be held in the same way as the last federal election, with the exception that the winner of the last election will be the candidate who receives the most votes in the first round of voting. The winner of the first round of voting will be the candidate who receives the most votes in the second round of voting. The winner of the second round of voting will be the candidate who receives the most",
+President Julia Gillard has announced that the federal election will be held on 7 May 2010. The election will be held in the same way as the last federal election, with the exception that the winner of the last election will be the candidate who receives the most votes in the first round of voting. The winner of the first round of voting will be the candidate who receives the most votes in the second round of voting. The winner of the second round of voting will be the candidate who receives the most","The winner of the second round of voting will be the candidate who receives the most President Julia Gillard has announced that the federal election will be held on 7 May 2010. The election will be held in the same way as the last federal election, with the exception that the winner of the last election will be the candidate who receives the most votes in the first round of voting. The winner of the first round of voting will be the candidate who receives the most votes in the second round of voting."
 Gouvènman ilandè ensiste sou ijans yon lejislasyon palmantè pou refktifye sitiyasyon an.,"Haitian Creole: Gouvènman ilandè ensiste sou ijans yon lejislasyon palmantè pou refktifye sitiyasyon an. 
 English: Haitian Creole: Gouvènman ilandè ensiste sou ijans yon lejislasyon palmantè pou refktifye sitiyasyon an.",Haitian Creole: Gouvènman ilandè ensiste sou ijans yon lejislasyon palmantè pou refktifye sitiyasyon an.
 Diskisyon diplomatik yo sou rejyon an ap kontinye nwi relasyon yo ant Ameni ak Azèbayidjan.,"Haitian Creole: Diskisyon diplomatik yo sou rejyon an ap kontinye nwi relasyon yo ant Ameni ak Azèbayidjan. 
@@ -395,7 +477,7 @@ I now give the floor to the representative of the United States of America.
 Mr. McNally (United States of America): I have the honour to speak on behalf of the United States on behalf of the Group of 77 and China.
 
 The Group of 77 and China are deeply concerned about the situation in Haiti and the impact of the recent earthquake on the lives of the people of Haiti.
-We are also deeply",
+We are also deeply",The President: I declare open the twenty-third plenary meeting of the General Assembly. We are also deeply I now give the floor to the representative of the United States of America. Mr. McNally (United States of America): I have the honour to speak on behalf of the United States on behalf of the Group of 77 and China. The Group of 77 and China are deeply concerned about the situation in Haiti and the impact of the recent earthquake on the lives of the people of Haiti.
 "Premye Minis Stephen Harper te aksepte voye 'Lwa sou Kalite Lè a' gouvènman an bay yon komite plizyè pati pou analiz, avan dezyèm lekti li an, aprè reyinyon 25 minit lan madi avèk chèf NDP a, Jack Layton nan PMO a.","Haitian Creole: Premye Minis Stephen Harper te aksepte voye 'Lwa sou Kalite Lè a' gouvènman an bay yon komite plizyè pati pou analiz, avan dezyèm lekti li an, aprè reyinyon 25 minit lan madi avèk chèf NDP a, Jack Layton nan PMO a. 
 English:
 The Prime Minister has accepted the invitation to come to the House of Commons to answer questions from the House of Commons. The Prime Minister will be answering questions from the House of Commons on the following topics:
@@ -403,7 +485,8 @@ The Prime Minister has accepted the invitation to come to the House of Commons t
 2. The Government's response to the crisis in the Dominican Republic.
 3. The Government's response to the crisis in the Central American Republics.
 4. The Government's response to the crisis in the Caribbean.
-5. The Government's response to the",
+5. The Government's response to the","The Government's response to the crisis in the Caribbean. The Government's response to the crisis in the Central American Republics. 4. 3. The Government's response to the crisis in Haiti. 5. The Prime Minister will be answering questions from the House of Commons on the following topics:
+1. The Prime Minister has accepted the invitation to come to the House of Commons to answer questions from the House of Commons. 2. The Government's response to the crisis in the Dominican Republic. The Government's response to the"
 "Mwa pase a, te gen gwo manifestasyon nan Polòy lè peyi sa te siyen ACTA, sa ki te pouse gouvenman pa ratifye akò an, pou kounye a.","Haitian Creole: Mwa pase a, te gen gwo manifestasyon nan Polòy lè peyi sa te siyen ACTA, sa ki te pouse gouvenman pa ratifye akò an, pou kounye a. 
 English:
 The Act of the Haitian Creole:
@@ -415,7 +498,16 @@ The Act of the Haitian Creole:
 The Act of the Haitian Creole:
 The Act of the Haitian Creole:
 The Act of the Haitian Creole:
-The Act of the Haitian Creole:",
+The Act of the Haitian Creole:","The Act of the Haitian Creole:
+The Act of the Haitian Creole:
+The Act of the Haitian Creole:
+The Act of the Haitian Creole:
+The Act of the Haitian Creole:
+The Act of the Haitian Creole:
+The Act of the Haitian Creole:
+The Act of the Haitian Creole:
+The Act of the Haitian Creole:
+The Act of the Haitian Creole:"
 Enfòmasyon yo se yon brèf rezime sitiyasyon politik yon peyi.,"Haitian Creole: Enfòmasyon yo se yon brèf rezime sitiyasyon politik yon peyi. 
 English: I am a Haitian Creole, and I know that politics is a very important thing in Haiti.","I am a Haitian Creole, and I know that politics is a very important thing in Haiti."
 "Lè seleksyon 1976 yo, li te konseye Carter nan kesyon politik etranjè, epi te konseye sekirite nasyonal (NSA) ant 1977 ak 1981, ranplasan Henry Kissinger.","Haitian Creole: Lè seleksyon 1976 yo, li te konseye Carter nan kesyon politik etranjè, epi te konseye sekirite nasyonal (NSA) ant 1977 ak 1981, ranplasan Henry Kissinger. 
@@ -425,7 +517,8 @@ English: I am a Haitian Creole, I am a Haitian Creole, I am a Haitian Creole, I 
 "Sepandan, plan sa yo te rann ekspire prèske jodi ak deme, lè plis pase 800,000 sòlda lame wouj Inyon sovyetik la te antre epi kreye fwontyè belarisyèn ak ikrenyèn lan aprè yo te anvayi rejyon oryantal Polòy yo an vyolasyon trete lapè Riga a, pak non agresyon sovyeto polonè ak lòt trete entènasyonal yo, bilateral ak miltilateral yo.","Haitian Creole: Sepandan, plan sa yo te rann ekspire prèske jodi ak deme, lè plis pase 800,000 sòlda lame wouj Inyon sovyetik la te antre epi kreye fwontyè belarisyèn ak ikrenyèn lan aprè yo te anvayi rejyon oryantal Polòy yo an vyolasyon trete lapè Riga a, pak non agresyon sovyeto polonè ak lòt trete entènasyonal yo, bilateral ak miltilateral yo. 
 English:
 The Haitian Creole:
-Sepandan, plan sa yo te rann ekspire prèske jodi ak deme, lè plis passe 800,000 solda lame wouj Inyon sovyetik la te antre epi kreye fwontyè belarisyèn ak ikrenyèn lan aprè yo te anvayi rejyon oryantal Polòy yo an vyolasyon trete lapè Riga a, pak non agresyon sovy",
+Sepandan, plan sa yo te rann ekspire prèske jodi ak deme, lè plis passe 800,000 solda lame wouj Inyon sovyetik la te antre epi kreye fwontyè belarisyèn ak ikrenyèn lan aprè yo te anvayi rejyon oryantal Polòy yo an vyolasyon trete lapè Riga a, pak non agresyon sovy","The Haitian Creole:
+Sepandan, plan sa yo te rann ekspire prèske jodi ak deme, lè plis passe 800,000 solda lame wouj Inyon sovyetik la te antre epi kreye fwontyè belarisyèn ak ikrenyèn lan aprè yo te anvayi rejyon oryantal Polòy yo an vyolasyon trete lapè Riga a, pak non agresyon sovy"
 "Aprè pwosesis sa, HJR-3 a pral egzamine ankò pa pwochen lejislati eli a an 2015 oswa 2016 pou rete an aktivite.","Haitian Creole: Aprè pwosesis sa, HJR-3 a pral egzamine ankò pa pwochen lejislati eli a an 2015 oswa 2016 pou rete an aktivite. 
 English:
 The Haitian Creole:
@@ -442,29 +535,43 @@ The Haitian Creole:
 The Haitian Creole:
 The Haitian Creole:
 The Haitian Creole:
-The",
+The","The Haitian Creole:
+The Haitian Creole:
+The Haitian Creole:
+The Haitian Creole:
+The Haitian Creole:
+The Haitian Creole:
+The Haitian Creole:
+The Haitian Creole:
+The Haitian Creole:
+The Haitian Creole:
+The Haitian Creole:
+The Haitian Creole:
+The Haitian Creole:
+The Haitian Creole:
+The"
 "Aprè kongrè a te fin adoptel 4 jiyè, yon pwojè maniskri ke Prezidan Palman Djonn Hankok ak sekretè a Chal Tonmsonn te ale nan biznis pou enprime Djonn Denlap ki apre kèk riyèl.","Haitian Creole: Aprè kongrè a te fin adoptel 4 jiyè, yon pwojè maniskri ke Prezidan Palman Djonn Hankok ak sekretè a Chal Tonmsonn te ale nan biznis pou enprime Djonn Denlap ki apre kèk riyèl. 
 English:
-I am the President of the Republic of Haiti. I am the first President of Haiti since independence. I am the first President of Haiti since independence. I am the first President of Haiti since independence. I am the first President of Haiti since independence. I am the first President of Haiti since independence. I am the first President of Haiti since independence. I am the first President of Haiti since independence. I am the first President of Haiti since independence. I am the first President of Haiti since independence",
+I am the President of the Republic of Haiti. I am the first President of Haiti since independence. I am the first President of Haiti since independence. I am the first President of Haiti since independence. I am the first President of Haiti since independence. I am the first President of Haiti since independence. I am the first President of Haiti since independence. I am the first President of Haiti since independence. I am the first President of Haiti since independence. I am the first President of Haiti since independence",I am the first President of Haiti since independence I am the first President of Haiti since independence. I am the President of the Republic of Haiti.
 "Jis aprè 11:00, manifestan yo te bloke trafik sou cha nò nan Waytol.","Haitian Creole: Jis aprè 11:00, manifestan yo te bloke trafik sou cha nò nan Waytol. 
 English: I am blocking traffic on the way to Waytol.",I am blocking traffic on the way to Waytol.
 """Antouka, nan mwa jen 1956, promes Krushchev yo te pase yon tès la emèt an Polòy nan, kote travayè yo tap fè pwotestasyon kont kantite manje ki pat genyen epi kòb yo tap peye yo nan travay yo ki t ap vin pi piti sa ki te vin transfòme nan yon pwotestasyon jeneral kont rejim kominis lan. La compatibilité du lecteur d'écran est activée.""","Haitian Creole: ""Antouka, nan mwa jen 1956, promes Krushchev yo te pase yon tès la emèt an Polòy nan, kote travayè yo tap fè pwotestasyon kont kantite manje ki pat genyen epi kòb yo tap peye yo nan travay yo ki t ap vin pi piti sa ki te vin transfòme nan yon pwotestasyon jeneral kont rejim kominis lan. La compatibilité du lecteur d'écran est activée."" 
 English: ""Antouka, in 1956, the Soviet leader Nikita Khrushchev gave the order to send the troops to Haiti, where they would be stationed for the next two years. The troops were to be stationed in the capital, Port-au-Prince, and the army would be stationed in the countryside. The army would be stationed in the countryside. The army would be stationed in the countryside."" 
-French: ""Antouka, en 1956, Nikita Khr","The army would be stationed in the countryside."" ""Antouka, in 1956, the Soviet leader Nikita Khrushchev gave the order to send the troops to Haiti, where they would be stationed for the next two years. The army would be stationed in the countryside. The troops were to be stationed in the capital, Port-au-Prince, and the army would be stationed in the countryside."
+French: ""Antouka, en 1956, Nikita Khr","""Antouka, in 1956, the Soviet leader Nikita Khrushchev gave the order to send the troops to Haiti, where they would be stationed for the next two years. The army would be stationed in the countryside."" French: ""Antouka, en 1956, Nikita Khr The army would be stationed in the countryside. The troops were to be stationed in the capital, Port-au-Prince, and the army would be stationed in the countryside."
 "Sa te dwe dire 40 pwochenn lane yo, pou lame yo, sou chan batay depi Afrik pou rive Azi, nan peyi Afganistan, Kiba ak plizyè lòt kote.","Haitian Creole: Sa te dwe dire 40 pwochenn lane yo, pou lame yo, sou chan batay depi Afrik pou rive Azi, nan peyi Afganistan, Kiba ak plizyè lòt kote. 
 English: I want to say 40 years ago, when I was young, I was told that I was going to be a slave in Africa, but I was told that I was going to be a slave in Africa, but I was told that I was going to be a slave in Africa, but I was told that I was going to be a slave in Africa, but I was told that I was going to be a slave in Africa, but I was told that I was going to be a slave in","I want to say 40 years ago, when I was young, I was told that I was going to be a slave in Africa, but I was told that I was going to be a slave in Africa, but I was told that I was going to be a slave in Africa, but I was told that I was going to be a slave in Africa, but I was told that I was going to be a slave in Africa, but I was told that I was going to be a slave in"
 Mwa pase a yon komisyon prezidansyèl rekòmande demisyon KEP kom mezi pou fe avanse peyi an pou nouvel eleksyon yo.,"Haitian Creole: Mwa pase a yon komisyon prezidansyèl rekòmande demisyon KEP kom mezi pou fe avanse peyi an pou nouvel eleksyon yo. 
 English:
 President of the Republic of Haiti, Mr. Michel Martelly, has the honour to invite you to the opening of the meeting of the General Assembly of the United Nations on the occasion of the fiftieth anniversary of the United Nations.
 I would like to express my sincere gratitude to the Secretary-General for his invitation and for the opportunity to participate in this historic event.
-I would also like to thank the Secretary-General for his report on the work of the Organization (A/50/1) and for his statement on the",
+I would also like to thank the Secretary-General for his report on the work of the Organization (A/50/1) and for his statement on the","President of the Republic of Haiti, Mr. Michel Martelly, has the honour to invite you to the opening of the meeting of the General Assembly of the United Nations on the occasion of the fiftieth anniversary of the United Nations. I would like to express my sincere gratitude to the Secretary-General for his invitation and for the opportunity to participate in this historic event. I would also like to thank the Secretary-General for his report on the work of the Organization (A/50/1) and for his statement on the"
 "Lòt sijè yo te abòde, tankou fiti Leta Jewizalèm ki sakre pou de nasyon yo epi kesyon vale Jouden an.","Haitian Creole: Lòt sijè yo te abòde, tankou fiti Leta Jewizalèm ki sakre pou de nasyon yo epi kesyon vale Jouden an. 
 English: I am the one who has been waiting for you, I am the one who has been waiting for you, I am the one who has been waiting for you, I am the one who has been waiting for you, I am the one who has been waiting for you, I am the one who has been waiting for you, I am the one who has been waiting for you, I am the one who has been waiting for you, I am the one who has been waiting for you, I","I am the one who has been waiting for you, I am the one who has been waiting for you, I am the one who has been waiting for you, I am the one who has been waiting for you, I am the one who has been waiting for you, I am the one who has been waiting for you, I am the one who has been waiting for you, I am the one who has been waiting for you, I am the one who has been waiting for you, I"
 Li non plis pa gen otorite pase sou desizyon lwa ak taks ant leta.,"Haitian Creole: Li non plis pa gen otorite pase sou desizyon lwa ak taks ant leta. 
 English: I don't want to be a slave to the law, but I don't want to be a slave to the law.""
 The Haitian Creole: Li non plis pa gen otorite passe sou desizyon lwa ak taks ant leta. 
 English: I don't want to be a slave to the law, but I don't want to be a slave to the law.""
-The Haitian Creole: Li non plis pa gen otorite passe sou desizyon lwa","I don't want to be a slave to the law, but I don't want to be a slave to the law."""
+The Haitian Creole: Li non plis pa gen otorite passe sou desizyon lwa","I don't want to be a slave to the law, but I don't want to be a slave to the law."" The Haitian Creole: Li non plis pa gen otorite passe sou desizyon lwa ak taks ant leta."
 lwa elektoral fransè ofisyalize pwosedi yo yon mannyè sevè anpil.,"Haitian Creole: lwa elektoral fransè ofisyalize pwosedi yo yon mannyè sevè anpil. 
 English:
 The Haitian Creole:
@@ -474,7 +581,12 @@ Le Haitian Creole:
 lwa elektoral fransè ofisyalize pwosedi yo yon mannyè sevè anpil.
 Spanish:
 El Haitian Creole:
-lwa elektoral fransè ofisyalize pwosedi yo yon",
+lwa elektoral fransè ofisyalize pwosedi yo yon","The Haitian Creole:
+lwa elektoral fransè ofisyalize pwosedi yo yon mannyè sevè anpil. French:
+Le Haitian Creole:
+lwa elektoral fransè ofisyalize pwosedi yo yon mannyè sevè anpil. Spanish:
+El Haitian Creole:
+lwa elektoral fransè ofisyalize pwosedi yo yon"
 "Apre li fin fè yon semèn ap pèdi nan yon eleksyon mi-manda a, Bouch pale odyans la sou ekspansyon komès la nan Lazi.","Haitian Creole: Apre li fin fè yon semèn ap pèdi nan yon eleksyon mi-manda a, Bouch pale odyans la sou ekspansyon komès la nan Lazi. 
 English: The Haitian Creole is a language spoken in Haiti. It is the official language of the Haitian government and is used by the Haitian people. It is also used by the Haitian diaspora in the United States, Canada, and the Caribbean. It is also used by the Haitian diaspora in the United Kingdom, France, and Germany. It is also used by the Haitian diaspora in the United States, Canada, and the Caribbean. It is also used by the Haitian diaspora in","It is the official language of the Haitian government and is used by the Haitian people. The Haitian Creole is a language spoken in Haiti. It is also used by the Haitian diaspora in the United States, Canada, and the Caribbean. It is also used by the Haitian diaspora in the United Kingdom, France, and Germany. It is also used by the Haitian diaspora in"
 "Estrateji sa te revele efikas, koupe livrezon militè yo ak sivil vital yo, menm si blokis sa te vyole dwa entènasyonal la jeneralman aksepte epi kodifye pa plizyè akò entènasyonal yo de dènye syèk yo.","Haitian Creole: Estrateji sa te revele efikas, koupe livrezon militè yo ak sivil vital yo, menm si blokis sa te vyole dwa entènasyonal la jeneralman aksepte epi kodifye pa plizyè akò entènasyonal yo de dènye syèk yo. 
@@ -483,26 +595,27 @@ Lyen ekonomik yo te retabli ant de pati sa yo nan Mòldavi echèk negosyasyon po
 English: The Haitian Creole language is now restored to its former position as the official language of the Republic of Haiti.",The Haitian Creole language is now restored to its former position as the official language of the Republic of Haiti.
 "Pandan l ak ofisyèl yo, li te asire sitwayen Tekzas yo ke yo t ap pran divès mezi pou pwoteje sekirite piblik la.","Haitian Creole: Pandan l ak ofisyèl yo, li te asire sitwayen Tekzas yo ke yo t ap pran divès mezi pou pwoteje sekirite piblik la. 
 English:
-I am a Haitian Creole, and I am a Haitian Creole. I am a Haitian Creole. I am a Haitian Creole. I am a Haitian Creole. I am a Haitian Creole. I am a Haitian Creole. I am a Haitian Creole. I am a Haitian Creole. I am a Haitian Creole. I am a Haitian Creole. I am a Haitian Creole. I am",
+I am a Haitian Creole, and I am a Haitian Creole. I am a Haitian Creole. I am a Haitian Creole. I am a Haitian Creole. I am a Haitian Creole. I am a Haitian Creole. I am a Haitian Creole. I am a Haitian Creole. I am a Haitian Creole. I am a Haitian Creole. I am a Haitian Creole. I am","I am a Haitian Creole. I am I am a Haitian Creole, and I am a Haitian Creole."
 kritik liberal efò rekonstriksyon an te baze sou atribisyon kontra rekonstriksyon pou yon gwoup inisye washinntonn.,"Haitian Creole: kritik liberal efò rekonstriksyon an te baze sou atribisyon kontra rekonstriksyon pou yon gwoup inisye washinntonn. 
 English: critique of liberalism and reconstruction of Haiti's past.
 
-The Haitian Creole is a literary language that is spoken in Haiti. It is a dialect of the Creole language, and is the official language of Haiti. It is also the language of the Haitian Creole Writers Association, which was founded in the late 1990s. The Creole language is a member of the Creole family of languages, and is closely related to the French language. The Creole language is a member of the",critique of liberalism and reconstruction of Haiti's past.
+The Haitian Creole is a literary language that is spoken in Haiti. It is a dialect of the Creole language, and is the official language of Haiti. It is also the language of the Haitian Creole Writers Association, which was founded in the late 1990s. The Creole language is a member of the Creole family of languages, and is closely related to the French language. The Creole language is a member of the","It is also the language of the Haitian Creole Writers Association, which was founded in the late 1990s. The Haitian Creole is a literary language that is spoken in Haiti. The Creole language is a member of the Creole family of languages, and is closely related to the French language. critique of liberalism and reconstruction of Haiti's past. The Creole language is a member of the It is a dialect of the Creole language, and is the official language of Haiti."
 "Sou 1,400 moun entèwoje avan eleksyon federal 2010 yo, sa ki opoze pou Ostrali vin yon repiblik la te ogmante de 8 pou san depi 2008.","Haitian Creole: Sou 1,400 moun entèwoje avan eleksyon federal 2010 yo, sa ki opoze pou Ostrali vin yon repiblik la te ogmante de 8 pou san depi 2008. 
 English:
-The Haitian Creole is a language spoken in Haiti. It is the official language of the Republic of Haiti. It is the language of the Haitian Creole Association, which is a non-profit organization that promotes the Haitian Creole language and culture. The Haitian Creole Association is a member of the International Creole Language Association (ICLA). The Haitian Creole Association is a member of the International Creole Language Association (ICLA). The Haitian Creole Association is",
+The Haitian Creole is a language spoken in Haiti. It is the official language of the Republic of Haiti. It is the language of the Haitian Creole Association, which is a non-profit organization that promotes the Haitian Creole language and culture. The Haitian Creole Association is a member of the International Creole Language Association (ICLA). The Haitian Creole Association is a member of the International Creole Language Association (ICLA). The Haitian Creole Association is","It is the language of the Haitian Creole Association, which is a non-profit organization that promotes the Haitian Creole language and culture. It is the official language of the Republic of Haiti. The Haitian Creole is a language spoken in Haiti. The Haitian Creole Association is The Haitian Creole Association is a member of the International Creole Language Association (ICLA)."
 Diplomat yo te deklare yo pat twouve konfizyon sifizan nan konstitisyon afgàn lan pou detèmine debòdman an te initil.,"Haitian Creole: Diplomat yo te deklare yo pat twouve konfizyon sifizan nan konstitisyon afgàn lan pou detèmine debòdman an te initil. 
 English: I will tell you the truth, I have no confidence in the constitution of the country, because it is not in my power to change it. 
 French: Je te dis la vérité, je n'ai pas confiance dans la constitution du pays, parce que je ne suis pas en mesure de la changer. 
 Spanish: Yo te digo la verdad, no tengo confianza en la constitución del país, porque no soy en condiciones de cambiarla. 
-Italian: Tuoi diritto, tu non confienze la con","I will tell you the truth, I have no confidence in the constitution of the country, because it is not in my power to change it."
+Italian: Tuoi diritto, tu non confienze la con","Spanish: Yo te digo la verdad, no tengo confianza en la constitución del país, porque no soy en condiciones de cambiarla. Italian: Tuoi diritto, tu non confienze la con I will tell you the truth, I have no confidence in the constitution of the country, because it is not in my power to change it. French: Je te dis la vérité, je n'ai pas confiance dans la constitution du pays, parce que je ne suis pas en mesure de la changer."
 "Apre rezilta tonbe, Grengritch te glorifye Santowòm, men gen mo difisil pou Womey, ki te resevwa move piblisite pou kanpay li te fè nan Ayowa kont Grengrich.","Haitian Creole: Apre rezilta tonbe, Grengritch te glorifye Santowòm, men gen mo difisil pou Womey, ki te resevwa move piblisite pou kanpay li te fè nan Ayowa kont Grengrich. 
 English:
 I pray you, Lord, that you will glorify me, and that you will make me a witness to you, that you will not leave me alone, but will come to me. Amen.
 Haitian Creole:
 Je prie, Seigneur, que vous fassiez de moi un témoin de vous, que vous ne me laissiez pas seul, mais que vous veniez à moi. Amen.
 English:
-I pray you, Lord, that you will glorify me, and",
+I pray you, Lord, that you will glorify me, and","I pray you, Lord, that you will glorify me, and that you will make me a witness to you, that you will not leave me alone, but will come to me. Amen. Haitian Creole:
+Je prie, Seigneur, que vous fassiez de moi un témoin de vous, que vous ne me laissiez pas seul, mais que vous veniez à moi."
 Se senkyèm KEP Martelly nan kat lane.,"Haitian Creole: Se senkyèm KEP Martelly nan kat lane. 
 English:
 The Haitian Creole:
@@ -518,13 +631,19 @@ Senkyèm KEP Martelly nan kat lane.
 Spanish:
 El Haitiano Creole:
 Senkyèm KEP Martelly nan kat lane.
-Portugu",
+Portugu","The Haitian Creole:
+Senkyèm KEP Martelly nan kat lane. French:
+Le Haitian Creole:
+Senkyèm KEP Martelly nan kat lane. Portuguese:
+Senkyèm KEP Martelly nan kat lane. Portugu Spanish:
+El Haitiano Creole:
+Senkyèm KEP Martelly nan kat lane."
 "Meday lò olenmpik an te dwe naje 100m ak 200m naje lib epi nan twa relè nan Jwèt Commonwealth yo, men akoz plent li yo, mete kondisyon fizik li an dout.","Haitian Creole: Meday lò olenmpik an te dwe naje 100m ak 200m naje lib epi nan twa relè nan Jwèt Commonwealth yo, men akoz plent li yo, mete kondisyon fizik li an dout. 
 English:
-I am a member of the Haitian Creole community, and I am a member of the Jwèt Commonwealth. I am a member of the Haitian Creole community, and I am a member of the Jwèt Commonwealth. I am a member of the Haitian Creole community, and I am a member of the Jwèt Commonwealth. I am a member of the Haitian Creole community, and I am a member of the Jwèt Commonwealth. I am a",
+I am a member of the Haitian Creole community, and I am a member of the Jwèt Commonwealth. I am a member of the Haitian Creole community, and I am a member of the Jwèt Commonwealth. I am a member of the Haitian Creole community, and I am a member of the Jwèt Commonwealth. I am a member of the Haitian Creole community, and I am a member of the Jwèt Commonwealth. I am a","I am a member of the Haitian Creole community, and I am a member of the Jwèt Commonwealth. I am a"
 "An plis li se yon ansyen chanpyon olenpik mondyal, Saito se te prezidan komite antrenman Federasyon Japonèz Jido nan dènye moman li.","Haitian Creole: An plis li se yon ansyen chanpyon olenpik mondyal, Saito se te prezidan komite antrenman Federasyon Japonèz Jido nan dènye moman li. 
 English:
-The Haitian Creole is a language spoken in Haiti. It is a member of the Creole family, which includes the French Creole, the English Creole, and the Haitian Creole. The Haitian Creole is a language of the Haitian Creole language family, which is a member of the Creole family, which includes the French Creole, the English Creole, and the Haitian Creole. The Haitian Creole is a language of the Creole",
+The Haitian Creole is a language spoken in Haiti. It is a member of the Creole family, which includes the French Creole, the English Creole, and the Haitian Creole. The Haitian Creole is a language of the Haitian Creole language family, which is a member of the Creole family, which includes the French Creole, the English Creole, and the Haitian Creole. The Haitian Creole is a language of the Creole","The Haitian Creole is a language of the Haitian Creole language family, which is a member of the Creole family, which includes the French Creole, the English Creole, and the Haitian Creole. It is a member of the Creole family, which includes the French Creole, the English Creole, and the Haitian Creole. The Haitian Creole is a language of the Creole The Haitian Creole is a language spoken in Haiti."
 "Komite entènasyonal olenmpik la te vote an favè enklizyon espò sa yo pandan reyinyon konsèy administrasyon li an nan Bèlen jodi a. Rugby, pi klè rugby kolektif la ak gòlf te chwazi pami senk lòt espò pou yo konsidere yo tankou patisipan nan Jwèt olenmpik yo.","Haitian Creole: Komite entènasyonal olenmpik la te vote an favè enklizyon espò sa yo pandan reyinyon konsèy administrasyon li an nan Bèlen jodi a. Rugby, pi klè rugby kolektif la ak gòlf te chwazi pami senk lòt espò pou yo konsidere yo tankou patisipan nan Jwèt olenmpik yo. 
 English: The National Rugby Union is a professional rugby union association based in England. It is the governing body of the English Rugby Union. The association is the governing body of the English Rugby Union. The association is the governing body of the English Rugby Union. The association is the governing body of the English Rugby Union. The association is the governing body of the English Rugby Union. The association is the governing body of the English Rugby Union. The association is the governing body of the English Rugby Union. The association is",The association is the governing body of the English Rugby Union. It is the governing body of the English Rugby Union. The National Rugby Union is a professional rugby union association based in England. The association is
 Pi gwo tounwa ane a ap dewoule an desanm sou teren polo yo nan Las Cañitas.,"Haitian Creole: Pi gwo tounwa ane a ap dewoule an desanm sou teren polo yo nan Las Cañitas. 
@@ -537,12 +656,15 @@ Depi arive l nan kapital katalàn nan, Vidal te jwe 49 match pou klèb la.
 Spanish:
 Depi arive l nan kapital katalàn nan, Vidal te jwe 49 match pou klèb la. 
 Portuguese:
-Depi arive l nan kapital katalàn nan, Vidal te jwe 49 match pou kl",
+Depi arive l nan kapital katalàn nan, Vidal te jwe 49 match pou kl","French:
+Depi arive l nan kapital katalàn nan, Vidal te jwe 49 match pou klèb la. Portuguese:
+Depi arive l nan kapital katalàn nan, Vidal te jwe 49 match pou kl Spanish:
+Depi arive l nan kapital katalàn nan, Vidal te jwe 49 match pou klèb la. Depi arive l nan kapital katalàn nan, Vidal te jwe 49 match pou klèb la."
 "Kenbe yon balans eneji ki sen, pratik abitid pou idrate ko an, ak konprann aspè sa yo divès kalite nan pratik sipleman ka ede atlèt amelyore pèfòmans yo ak ogmante plezi yo nan espò a.","Haitian Creole: Kenbe yon balans eneji ki sen, pratik abitid pou idrate ko an, ak konprann aspè sa yo divès kalite nan pratik sipleman ka ede atlèt amelyore pèfòmans yo ak ogmante plezi yo nan espò a. 
 English:
 Kenbe andon balans eneji ki sen, pratik abitid pou idrate ko an, ak konprann aspè sa yo divès kalite nan pratik sipleman ka ede atlèt amelyore pèfòmans yo ak ogmante plezi yo nan espò a. 
 English:
-Kenbe andon balans eneji ki sen, pratik abitid pou idrate ko an, ak konprann aspè sa yo divès kal",
+Kenbe andon balans eneji ki sen, pratik abitid pou idrate ko an, ak konprann aspè sa yo divès kal","Kenbe andon balans eneji ki sen, pratik abitid pou idrate ko an, ak konprann aspè sa yo divès kalite nan pratik sipleman ka ede atlèt amelyore pèfòmans yo ak ogmante plezi yo nan espò a."
 "An twazyèm pozisyon Hamlin gen ven pwen deyè, men senk devan Bowyer, Kahne ak Truex Jr yo senkyèm ak sizyèm ak 2,220 epi 2,207 pwen.","Haitian Creole: An twazyèm pozisyon Hamlin gen ven pwen deyè, men senk devan Bowyer, Kahne ak Truex Jr yo senkyèm ak sizyèm ak 2,220 epi 2,207 pwen. 
 English: The Haitian Creole is a language spoken in Haiti. It is the official language of the Haitian government and is used by the Haitian people. It is also used by the Haitian diaspora in the United States, Canada, and the Caribbean. It is also used by the Haitian diaspora in the United Kingdom, Ireland, and the United States. It is also used by the Haitian diaspora in the United States, Canada, and the Caribbean. It is also used by the Haitian","It is also used by the Haitian diaspora in the United Kingdom, Ireland, and the United States. It is the official language of the Haitian government and is used by the Haitian people. The Haitian Creole is a language spoken in Haiti. It is also used by the Haitian It is also used by the Haitian diaspora in the United States, Canada, and the Caribbean."
 Rekò fas a fas Nadal kont Kanadyen an se 7–2.,"Haitian Creole: Rekò fas a fas Nadal kont Kanadyen an se 7–2. 
@@ -551,29 +673,30 @@ Jark tap antrene pandan antrenman avan sezon an nan peyi itali pi bonè nan joun
 English:
 Jark tap antrene pandan antrenman avan sezon an nan peyi itali pi bonè nan jounen an. Li te rete nan otèl ekip la avan yon match ki te dwe jwe nan dimanch kont ekip Bolonya. 
 English:
-Jark tap antrene pandan antrenman avan sezon an nan peyi itali pi bonè nan jounen an. Li te rete nan otèl ekip la avan",
+Jark tap antrene pandan antrenman avan sezon an nan peyi itali pi bonè nan jounen an. Li te rete nan otèl ekip la avan",Jark tap antrene pandan antrenman avan sezon an nan peyi itali pi bonè nan jounen an. Li te rete nan otèl ekip la avan yon match ki te dwe jwe nan dimanch kont ekip Bolonya.
 "Laperèz pou mank mwayen transpò te kreye posibilite pou match la ta oblije jwe ak pòt fèmen, san sipòtè ekip la.","Haitian Creole: Laperèz pou mank mwayen transpò te kreye posibilite pou match la ta oblije jwe ak pòt fèmen, san sipòtè ekip la. 
 English:
-I am a Haitian Creole, and I am a Haitian Creole, and I am a Haitian Creole, and I am a Haitian Creole, and I am a Haitian Creole, and I am a Haitian Creole, and I am a Haitian Creole, and I am a Haitian Creole, and I am a Haitian Creole, and I am a Haitian Creole, and I am a Haitian Creole, and",
+I am a Haitian Creole, and I am a Haitian Creole, and I am a Haitian Creole, and I am a Haitian Creole, and I am a Haitian Creole, and I am a Haitian Creole, and I am a Haitian Creole, and I am a Haitian Creole, and I am a Haitian Creole, and I am a Haitian Creole, and I am a Haitian Creole, and","I am a Haitian Creole, and I am a Haitian Creole, and I am a Haitian Creole, and I am a Haitian Creole, and I am a Haitian Creole, and I am a Haitian Creole, and I am a Haitian Creole, and I am a Haitian Creole, and I am a Haitian Creole, and I am a Haitian Creole, and I am a Haitian Creole, and"
 "Tommy Dreamer te deklare ""Luna te premye rèn ekstrèm lan. Premye manadjè m nan. Luna te mouri lannwit de lalin yo. Ase inik, menm jan avè l. Yon fanm vanyan.""","Haitian Creole: Tommy Dreamer te deklare ""Luna te premye rèn ekstrèm lan. Premye manadjè m nan. Luna te mouri lannwit de lalin yo. Ase inik, menm jan avè l. Yon fanm vanyan."" 
 English: Tommy Dreamer te deklare ""Luna te premye rèn ekstrèm lan. Premye manadjè m nan. Luna te mouri lannwit de lalin yo. Ase inik, menm jan avè l. Yon fanm vanyan."" 
-Spanish: Tommy Dreamer te deklare ""Luna te premye rèn ekstrèm lan. Premye manadjè m nan. Luna te mouri lannwit de lalin yo. Ase in","Tommy Dreamer te deklare ""Luna te premye rèn ekstrèm lan. Premye manadjè m nan. Ase inik, menm jan avè l. Yon fanm vanyan."" Luna te mouri lannwit de lalin yo."
+Spanish: Tommy Dreamer te deklare ""Luna te premye rèn ekstrèm lan. Premye manadjè m nan. Luna te mouri lannwit de lalin yo. Ase in","Spanish: Tommy Dreamer te deklare ""Luna te premye rèn ekstrèm lan. Premye manadjè m nan. Tommy Dreamer te deklare ""Luna te premye rèn ekstrèm lan. Ase inik, menm jan avè l. Yon fanm vanyan."" Ase in Luna te mouri lannwit de lalin yo."
 Eskyè polonè ki pa wè a Maciej Krezel ak gid li an Anna Ogarzynska te tèmine nan trèzyèm plas Super-G a. Pak Jong Seork Kore di Sid la te tèmine nan venn katriyèm plas Super-G chita maskilen an.,"Haitian Creole: Eskyè polonè ki pa wè a Maciej Krezel ak gid li an Anna Ogarzynska te tèmine nan trèzyèm plas Super-G a. Pak Jong Seork Kore di Sid la te tèmine nan venn katriyèm plas Super-G chita maskilen an. 
 English:
-The Super-G is a new type of mask that is designed to be worn by the Super-Germs. It is made of a special material that is extremely strong and durable. It is made of a special material that is extremely strong and durable. It is made of a special material that is extremely strong and durable. It is made of a special material that is extremely strong and durable. It is made of a special material that is extremely strong and durable. It is made of a special material",
+The Super-G is a new type of mask that is designed to be worn by the Super-Germs. It is made of a special material that is extremely strong and durable. It is made of a special material that is extremely strong and durable. It is made of a special material that is extremely strong and durable. It is made of a special material that is extremely strong and durable. It is made of a special material that is extremely strong and durable. It is made of a special material",It is made of a special material The Super-G is a new type of mask that is designed to be worn by the Super-Germs. It is made of a special material that is extremely strong and durable.
 "Pou jwenn enfòmasyon sou tounwa yo epi konnen kote pou achte tikè pou match polo yo, konsilte sit Asosyasyon Polo Ajanti la.","Haitian Creole: Pou jwenn enfòmasyon sou tounwa yo epi konnen kote pou achte tikè pou match polo yo, konsilte sit Asosyasyon Polo Ajanti la. 
 English:
-I am a Haitian Creole, and I am a professional polo player. I am a professional polo player. I am a professional polo player. I am a professional polo player. I am a professional polo player. I am a professional polo player. I am a professional polo player. I am a professional polo player. I am a professional polo player. I am a professional polo player. I am a professional polo player. I am a professional polo player. I am a professional polo player",
+I am a Haitian Creole, and I am a professional polo player. I am a professional polo player. I am a professional polo player. I am a professional polo player. I am a professional polo player. I am a professional polo player. I am a professional polo player. I am a professional polo player. I am a professional polo player. I am a professional polo player. I am a professional polo player. I am a professional polo player. I am a professional polo player","I am a Haitian Creole, and I am a professional polo player. I am a professional polo player. I am a professional polo player"
 "Jwèt yo te kòmanse ak 10zè nan maten avèk yon bèl tan epi, apa bwouya ki te gen pandan maten an ki te vin byen rapid ale, sa te yon jounen pafè pou rugby ak 7 la.","Haitian Creole: Jwèt yo te kòmanse ak 10zè nan maten avèk yon bèl tan epi, apa bwouya ki te gen pandan maten an ki te vin byen rapid ale, sa te yon jounen pafè pou rugby ak 7 la. 
 English:
-I am a Haitian Creole, and I am a rugby player. I am a young man, and I am a young man who is a young man who is a young man who is a young man who is a young man who is a young man who is a young man who is a young man who is a young man who is a young man who is a young man who is a young man who is a young man who is a young man who is a young man who is",
+I am a Haitian Creole, and I am a rugby player. I am a young man, and I am a young man who is a young man who is a young man who is a young man who is a young man who is a young man who is a young man who is a young man who is a young man who is a young man who is a young man who is a young man who is a young man who is a young man who is a young man who is","I am a young man, and I am a young man who is a young man who is a young man who is a young man who is a young man who is a young man who is a young man who is a young man who is a young man who is a young man who is a young man who is a young man who is a young man who is a young man who is a young man who is I am a Haitian Creole, and I am a rugby player."
 Meksiken Ali Velaskès te fini 15yèm nan Sipè-G chita gason yo. Neyo Zelandè a Adan Al te fini nan 9yèm plas nan  Sipè-G kanpe gason yo.,"Haitian Creole: Meksiken Ali Velaskès te fini 15yèm nan Sipè-G chita gason yo. Neyo Zelandè a Adan Al te fini nan 9yèm plas nan  Sipè-G kanpe gason yo. 
 English:
 The Haitian Creole:
 Meksiken Ali Velaskès is finishing his 15th year at Sipè-G. He is going to be 15 years old in September. Zelandè Adan Al is finishing his 9th year at Sipè-G. He is going to be 9 years old in September.
 English:
 The Haitian Creole:
-Meksiken Ali Velaskès is finishing his 15th year at Sipè-G. He is going to be 15 years old in September",
+Meksiken Ali Velaskès is finishing his 15th year at Sipè-G. He is going to be 15 years old in September","He is going to be 9 years old in September. The Haitian Creole:
+Meksiken Ali Velaskès is finishing his 15th year at Sipè-G. Zelandè Adan Al is finishing his 9th year at Sipè-G. He is going to be 15 years old in September."
 "Dènye match seri a pral fèt nan Ellis Park nan Johannesburg semèn pwochèn, lè Springboks pral afwonte Ostrali.","Haitian Creole: Dènye match seri a pral fèt nan Ellis Park nan Johannesburg semèn pwochèn, lè Springboks pral afwonte Ostrali. 
 English: The Springboks won the series by a score of 9-0.",The Springboks won the series by a score of 9-0.
 Nan bon kondisyon wap ka kouvri plis distans ke mache – men wap atenn vitès de fond yo ke rarman siw pa gen yon sak a do lou sou yon pis prepare.,"Haitian Creole: Nan bon kondisyon wap ka kouvri plis distans ke mache – men wap atenn vitès de fond yo ke rarman siw pa gen yon sak a do lou sou yon pis prepare. 
@@ -581,14 +704,16 @@ English:
 I have a question about the Haitian Creole:
 Nan bon kondisyon wap ka kouvri plis distans ke mache – men wap atenn vitès de fond yo ke rarman siw pa gen yon sak a do lou sou yon pis prepare. 
 I have a question about the Haitian Creole:
-Nan bon kondisyon wap ka kouvri plis distans ke mache – men wap atenn vitès de fond yo",
+Nan bon kondisyon wap ka kouvri plis distans ke mache – men wap atenn vitès de fond yo","I have a question about the Haitian Creole:
+Nan bon kondisyon wap ka kouvri plis distans ke mache – men wap atenn vitès de fond yo I have a question about the Haitian Creole:
+Nan bon kondisyon wap ka kouvri plis distans ke mache – men wap atenn vitès de fond yo ke rarman siw pa gen yon sak a do lou sou yon pis prepare."
 "Sèt pwen dèyè, Johnson dezyèm avèk 2,243.","Haitian Creole: Sèt pwen dèyè, Johnson dezyèm avèk 2,243. 
 English: The first recorded use of the word was in the 1720s, when it was used to describe the French colony of Saint-Domingue. It was used to describe the French colony of Saint-Domingue in the 1720s, when it was used to describe the French colony of Saint-Domingue in the 1720s, when it was used to describe the French colony of Saint-Domingue in the 1720s, when it was used to describe the French colony of Saint-D","The first recorded use of the word was in the 1720s, when it was used to describe the French colony of Saint-Domingue. It was used to describe the French colony of Saint-Domingue in the 1720s, when it was used to describe the French colony of Saint-Domingue in the 1720s, when it was used to describe the French colony of Saint-Domingue in the 1720s, when it was used to describe the French colony of Saint-D"
 "Canyoning (oswa Canyoning) siyifi ale nan fon yon canyon, swa ki sèch swa ki plen dlo ladanl.","Haitian Creole: Canyoning (oswa Canyoning) siyifi ale nan fon yon canyon, swa ki sèch swa ki plen dlo ladanl. 
 English: Canyoning (oswa Canyoning) siyifi ale nan fon yon canyon, swa ki sèch swa ki plen dlo ladanl. 
 French: Canyoning (oswa Canyoning) siyifi ale nan fon yon canyon, swa ki sèch swa ki plen dlo ladanl. 
 Spanish: Canyoning (oswa Canyoning) siyifi ale nan fon yon canyon, swa ki sèch swa ki plen dlo ladanl. 
-","Canyoning (oswa Canyoning) siyifi ale nan fon yon canyon, swa ki sèch swa ki plen dlo ladanl."
+","Canyoning (oswa Canyoning) siyifi ale nan fon yon canyon, swa ki sèch swa ki plen dlo ladanl. Spanish: Canyoning (oswa Canyoning) siyifi ale nan fon yon canyon, swa ki sèch swa ki plen dlo ladanl. French: Canyoning (oswa Canyoning) siyifi ale nan fon yon canyon, swa ki sèch swa ki plen dlo ladanl."
 "Robin Uthappa te reyalize pi bon eskò manch lan, 70 runs an sèlman 41 balls an pandan li t ap frape 11 kat epi 2 sis.","Haitian Creole: Robin Uthappa te reyalize pi bon eskò manch lan, 70 runs an sèlman 41 balls an pandan li t ap frape 11 kat epi 2 sis. 
 English: Robin Uthappa is the first African-American to be elected to the United States House of Representatives. He was elected to the House of Representatives in the United States House of Representatives in the United States House of Representatives in the United States House of Representatives in the United States House of Representatives in the United States House of Representatives in the United States House of Representatives in the United States House of Representatives in the United States House of Representatives in the United States House of Representatives in the United States House of Representatives in the",He was elected to the House of Representatives in the United States House of Representatives in the United States House of Representatives in the United States House of Representatives in the United States House of Representatives in the United States House of Representatives in the United States House of Representatives in the United States House of Representatives in the United States House of Representatives in the United States House of Representatives in the United States House of Representatives in the Robin Uthappa is the first African-American to be elected to the United States House of Representatives.
 "Espò ivè yo pi popilè nan rejyon Nò yo, kote italyen yo ap patisipe nan jwèt entènasyonal yo epi nan manifestasyon olenmpik yo.","Haitian Creole: Espò ivè yo pi popilè nan rejyon Nò yo, kote italyen yo ap patisipe nan jwèt entènasyonal yo epi nan manifestasyon olenmpik yo. 
@@ -600,7 +725,7 @@ English: Michael Schumacher is finished with Alonso, but he still has the chance
 Spanish: Michael Schumacher está acabado con Alonso, pero aún tiene la posibilidad de ganar la carrera. 
 Italian: Michael Schumacher è stato finisito con Alonso, ma è stato ancora possibile di vèncer la prova. 
 Italian: Michael Schumacher è stato finisito con Alonso, ma è stato ancora possibile di vèncer la prova. 
-Italian: Michael Schumacher è st","Michael Schumacher is finished with Alonso, but he still has the chance to win the race."
+Italian: Michael Schumacher è st","Michael Schumacher is finished with Alonso, but he still has the chance to win the race. Italian: Michael Schumacher è stato finisito con Alonso, ma è stato ancora possibile di vèncer la prova. Spanish: Michael Schumacher está acabado con Alonso, pero aún tiene la posibilidad de ganar la carrera. Italian: Michael Schumacher è st"
 "Bon pratik alimantè pa kapab sèl yo menm pwodwi pèfòmans elit yo, men yo kapab gen yon enpak enpòtan sou byennèt jeneral jèn atlèt yo.","Haitian Creole: Bon pratik alimantè pa kapab sèl yo menm pwodwi pèfòmans elit yo, men yo kapab gen yon enpak enpòtan sou byennèt jeneral jèn atlèt yo. 
 English: I am a good cook, but I am not a good general.","I am a good cook, but I am not a good general."
 Li pa kapab pran medikaman nesesè yo pou soulaje doulè l la paske yo te entèdi yo nan jwèt yo.,"Haitian Creole: Li pa kapab pran medikaman nesesè yo pou soulaje doulè l la paske yo te entèdi yo nan jwèt yo. 
@@ -611,16 +736,16 @@ English: I show you my love for you by showing you my love for the people of Hai
 English: I am a man who has been in the water for a long time, and I know how to swim. I can swim up to a hundred meters. I can swim up to a hundred meters. I can swim up to a hundred meters. I can swim up to a hundred meters. I can swim up to a hundred meters. I can swim up to a hundred meters. I can swim up to a hundred meters. I can swim up to a hundred meters. I can swim up to a","I can swim up to a I can swim up to a hundred meters. I am a man who has been in the water for a long time, and I know how to swim."
 "Sèlman efè egzajerasyon yo, non pa depresyon ak laperèz, te kondisyone seyans AP estriktire ki fèt regilyèman chak semèn yo.","Haitian Creole: Sèlman efè egzajerasyon yo, non pa depresyon ak laperèz, te kondisyone seyans AP estriktire ki fèt regilyèman chak semèn yo. 
 English:
-I am not depressed, I am not in pain, I am not in fear, I am not in anger, I am not in sadness, I am not in anger, I am not in fear, I am not in sadness, I am not in anger, I am not in fear, I am not in sadness, I am not in anger, I am not in fear, I am not in sadness, I am not in anger, I am not in fear,",
+I am not depressed, I am not in pain, I am not in fear, I am not in anger, I am not in sadness, I am not in anger, I am not in fear, I am not in sadness, I am not in anger, I am not in fear, I am not in sadness, I am not in anger, I am not in fear, I am not in sadness, I am not in anger, I am not in fear,","I am not depressed, I am not in pain, I am not in fear, I am not in anger, I am not in sadness, I am not in anger, I am not in fear, I am not in sadness, I am not in anger, I am not in fear, I am not in sadness, I am not in anger, I am not in fear, I am not in sadness, I am not in anger, I am not in fear,"
 "Anpil moun gen machin sa ki lakoz ogmantasyon aksidan sou wout la, sa ki vin fe ke yo envante nouvo teknik swen sante pou repare ko ki andomaje.","Haitian Creole: Anpil moun gen machin sa ki lakoz ogmantasyon aksidan sou wout la, sa ki vin fe ke yo envante nouvo teknik swen sante pou repare ko ki andomaje. 
 English:
-I am a Haitian Creole, and I am a doctor. I am a doctor because I have been working in Haiti for the last 20 years. I have been working in Haiti for the last 20 years because I have been working in Haiti for the last 20 years because I have been working in Haiti for the last 20 years because I have been working in Haiti for the last 20 years because I have been working in Haiti for the last 20 years because I have been working in Haiti for the",
+I am a Haitian Creole, and I am a doctor. I am a doctor because I have been working in Haiti for the last 20 years. I have been working in Haiti for the last 20 years because I have been working in Haiti for the last 20 years because I have been working in Haiti for the last 20 years because I have been working in Haiti for the last 20 years because I have been working in Haiti for the last 20 years because I have been working in Haiti for the","I am a doctor because I have been working in Haiti for the last 20 years. I am a Haitian Creole, and I am a doctor. I have been working in Haiti for the last 20 years because I have been working in Haiti for the last 20 years because I have been working in Haiti for the last 20 years because I have been working in Haiti for the last 20 years because I have been working in Haiti for the last 20 years because I have been working in Haiti for the"
 "Chèchè yo di ke sa ka yon deteksyon prekos de kanse, tibekiloz, VIH ak palidism kay pasyan nan peyi sou devlope yo kote siviv pou maladi tankou kansè nan tete ka mwatye sa yo ki nan peyi ki pi rich.","Haitian Creole: Chèchè yo di ke sa ka yon deteksyon prekos de kanse, tibekiloz, VIH ak palidism kay pasyan nan peyi sou devlope yo kote siviv pou maladi tankou kansè nan tete ka mwatye sa yo ki nan peyi ki pi rich. 
 English:
-I have been diagnosed with HIV and am on antiretroviral therapy. I have been told that I have a high risk of developing AIDS. I have been told that I have a high risk of developing AIDS. I have been told that I have a high risk of developing AIDS. I have been told that I have a high risk of developing AIDS. I have been told that I have a high risk of developing AIDS. I have been told that I have a high risk of developing AIDS.",
+I have been diagnosed with HIV and am on antiretroviral therapy. I have been told that I have a high risk of developing AIDS. I have been told that I have a high risk of developing AIDS. I have been told that I have a high risk of developing AIDS. I have been told that I have a high risk of developing AIDS. I have been told that I have a high risk of developing AIDS. I have been told that I have a high risk of developing AIDS.",I have been told that I have a high risk of developing AIDS. I have been diagnosed with HIV and am on antiretroviral therapy.
 "Doktè Ehud Ur, pwofesè medsin nan inivèsite Dalhousie de Halifax, Nouvèl Ekòs ak prezidan divizyon klinik syantifik asosyasyon kanadyèn dyabèt, te avèti rechèch la toujou nan kòmansman l.","Haitian Creole: Doktè Ehud Ur, pwofesè medsin nan inivèsite Dalhousie de Halifax, Nouvèl Ekòs ak prezidan divizyon klinik syantifik asosyasyon kanadyèn dyabèt, te avèti rechèch la toujou nan kòmansman l. 
 English:
-Dr. Ehud Ur, a professor of medicine at the University of Halifax, Nova Scotia, Canada, has been awarded the prestigious International Medical Honorary Doctorate by the International Medical Honorary Doctorate Society. The International Medical Honorary Doctorate Society is a non-profit organization that recognizes outstanding medical professionals who have made outstanding contributions to the advancement of medical science and medicine. Dr. Ur is the first Haitian to receive this honorary doctorate. Dr. Ur is a member",
+Dr. Ehud Ur, a professor of medicine at the University of Halifax, Nova Scotia, Canada, has been awarded the prestigious International Medical Honorary Doctorate by the International Medical Honorary Doctorate Society. The International Medical Honorary Doctorate Society is a non-profit organization that recognizes outstanding medical professionals who have made outstanding contributions to the advancement of medical science and medicine. Dr. Ur is the first Haitian to receive this honorary doctorate. Dr. Ur is a member","Dr. Ur is the first Haitian to receive this honorary doctorate. The International Medical Honorary Doctorate Society is a non-profit organization that recognizes outstanding medical professionals who have made outstanding contributions to the advancement of medical science and medicine. Dr. Ehud Ur, a professor of medicine at the University of Halifax, Nova Scotia, Canada, has been awarded the prestigious International Medical Honorary Doctorate by the International Medical Honorary Doctorate Society. Dr. Ur is a member"
 "Timoun sa yo gen tandans atire anpil pwoblèm, paske yo ""adopte kèk konpòtman riske, batay epi defye otorite"" pou devlope sèvo yo, paske sa p ap kapab devlope pa metòd nòmal yo.","Haitian Creole: Timoun sa yo gen tandans atire anpil pwoblèm, paske yo ""adopte kèk konpòtman riske, batay epi defye otorite"" pou devlope sèvo yo, paske sa p ap kapab devlope pa metòd nòmal yo. 
 English: I am a Haitian Creole, and I am not afraid of the police, because I am a person who has a risk of being arrested, and because I am a person who can develop a new way of life.","I am a Haitian Creole, and I am not afraid of the police, because I am a person who has a risk of being arrested, and because I am a person who can develop a new way of life."
 Moun yo kapab afekte pandan y ap respire nan dlo kontamine transpòte nan lè pa van an epi vag yo.,"Haitian Creole: Moun yo kapab afekte pandan y ap respire nan dlo kontamine transpòte nan lè pa van an epi vag yo. 
@@ -632,15 +757,15 @@ I am a Haitian Creole, and I am a Haitian Creole.
 I am a Haitian Creole, and I am a Haitian Creole.
 I am a Haitian Creole, and I am a Haitian Creole.
 I am a Haitian Creole, and I am a Haitian Creole.
-I am a Haitian Creole, and I am a Haitian",
+I am a Haitian Creole, and I am a Haitian","I am a Haitian Creole, and I am a Haitian I am a Haitian Creole, and I am a Haitian Creole."
 "Potro te resevwa yon tretman nan zepòl nan moman sa la, men li te reyisi reprann jwèt la.","Haitian Creole: Potro te resevwa yon tretman nan zepòl nan moman sa la, men li te reyisi reprann jwèt la. 
 English: The man who has been in jail for a long time is now free. He has been in jail for a long time and now he is free.",The man who has been in jail for a long time is now free. He has been in jail for a long time and now he is free.
 "Anplis, non respè règ sa ap gen gwo konsekans: depresyon kwasans, malnitrisyon, epi menm lanmò.","Haitian Creole: Anplis, non respè règ sa ap gen gwo konsekans: depresyon kwasans, malnitrisyon, epi menm lanmò. 
 English:
-The Haitian Creole language is a Creole language spoken in Haiti. It is the official language of Haiti and is the language of the Haitian Creole national movement. It is also the language of the Haitian Creole language movement. It is the language of the Haitian Creole language movement. It is the language of the Haitian Creole language movement. It is the language of the Haitian Creole language movement. It is the language of the Haitian Creole language",
+The Haitian Creole language is a Creole language spoken in Haiti. It is the official language of Haiti and is the language of the Haitian Creole national movement. It is also the language of the Haitian Creole language movement. It is the language of the Haitian Creole language movement. It is the language of the Haitian Creole language movement. It is the language of the Haitian Creole language movement. It is the language of the Haitian Creole language",It is the official language of Haiti and is the language of the Haitian Creole national movement. The Haitian Creole language is a Creole language spoken in Haiti. It is the language of the Haitian Creole language It is the language of the Haitian Creole language movement. It is also the language of the Haitian Creole language movement.
 Responsab vil Amsterdam yo ak Mize Anne Frank lan te deklare pyebwa te enfekte pa yon chanpiyon epi li reprezante yon danje pou sante piblik la paske yo pretann li te an danje pou tonbe yon mannyè rapid.,"Haitian Creole: Responsab vil Amsterdam yo ak Mize Anne Frank lan te deklare pyebwa te enfekte pa yon chanpiyon epi li reprezante yon danje pou sante piblik la paske yo pretann li te an danje pou tonbe yon mannyè rapid. 
 English:
-I am Anne Frank, a Dutch girl who was taken from her family by the Nazis. I was taken to a concentration camp in the Netherlands. I was tortured and killed by the Nazis. I was buried in a grave in the Netherlands. I am Anne Frank, a Dutch girl who was taken from her family by the Nazis. I was taken to a concentration camp in the Netherlands. I was tortured and killed by the Nazis. I was buried in a grave in",
+I am Anne Frank, a Dutch girl who was taken from her family by the Nazis. I was taken to a concentration camp in the Netherlands. I was tortured and killed by the Nazis. I was buried in a grave in the Netherlands. I am Anne Frank, a Dutch girl who was taken from her family by the Nazis. I was taken to a concentration camp in the Netherlands. I was tortured and killed by the Nazis. I was buried in a grave in","I was buried in a grave in I am Anne Frank, a Dutch girl who was taken from her family by the Nazis. I was tortured and killed by the Nazis. I was taken to a concentration camp in the Netherlands. I was buried in a grave in the Netherlands."
 "Lopital la te swiv pwotokòl kontwòl enfeksyon yo, tankou separe pasyan an de lòt yo pou prevni enfeksyon posib lòt moun .","Haitian Creole: Lopital la te swiv pwotokòl kontwòl enfeksyon yo, tankou separe pasyan an de lòt yo pou prevni enfeksyon posib lòt moun. 
 English: I have a friend who is a Haitian Creole. He is a good friend, but he is not a good teacher. He is not a good teacher because he is not a good friend. He is not a good friend because he is not a good teacher. He is not a good teacher because he is not a good friend. He is not a good teacher because he is not a good friend. He is not a good teacher because he is not a good friend. He is not a","He is not a I have a friend who is a Haitian Creole. He is not a good friend because he is not a good teacher. He is a good friend, but he is not a good teacher. He is not a good teacher because he is not a good friend."
 Enstiti ayisyen pou jistis ak demokrasi te fè referans ak etid endepandan yo ki sijere batayon nepalè a retablisman lapè nan ONI te pote maladi a san yo pat konnen.,"Haitian Creole: Enstiti ayisyen pou jistis ak demokrasi te fè referans ak etid endepandan yo ki sijere batayon nepalè a retablisman lapè nan ONI te pote maladi a san yo pat konnen. 
@@ -659,7 +784,21 @@ The Haitian Creole:
 The Haitian Creole:
 The Haitian Creole:
 The Haitian Creole:
-The",
+The","The Haitian Creole:
+The Haitian Creole:
+The Haitian Creole:
+The Haitian Creole:
+The Haitian Creole:
+The Haitian Creole:
+The Haitian Creole:
+The Haitian Creole:
+The Haitian Creole:
+The Haitian Creole:
+The Haitian Creole:
+The Haitian Creole:
+The Haitian Creole:
+The Haitian Creole:
+The"
 "Maladi enfektyèz yo, bèt danjere ki kapab touye oubyen blese moun pa lafòs pa konsidere generalman kòm nwizib","Haitian Creole: Maladi enfektyèz yo, bèt danjere ki kapab touye oubyen blese moun pa lafòs pa konsidere generalman kòm nwizib 
 English: I am not sure if I can help you, but I am sure that you can help yourself. I am not sure if I can help you, but I am sure that you can help yourself. I am not sure if I can help you, but I am sure that you can help yourself. I am not sure if I can help you, but I am sure that you can help yourself. I am not sure if I can help you, but I am sure that you can help yourself.","I am not sure if I can help you, but I am sure that you can help yourself."
 "Timoun ki gen TDA yo gen pwoblèm pou konsantre yo sou bagay tankou travay lekòl yo, men yo kapab konsantre yo sou bagay yo renmen fè tankou jwe avèk jwèt oswa gade tikomik prefere yo oswa ekri fraz san siy ponktyasyon.","Haitian Creole: Timoun ki gen TDA yo gen pwoblèm pou konsantre yo sou bagay tankou travay lekòl yo, men yo kapab konsantre yo sou bagay yo renmen fè tankou jwe avèk jwèt oswa gade tikomik prefere yo oswa ekri fraz san siy ponktyasyon. 
@@ -670,7 +809,7 @@ English: I don't know, but I think it is a good idea to keep it in the house for
 English: I have been told that you have been injured by a car accident. You will be given a 40-day leave of absence. You will be allowed to return to work after the 40-day period.",You will be given a 40-day leave of absence. You will be allowed to return to work after the 40-day period. I have been told that you have been injured by a car accident.
 Medsen yo te kòmanse rekrite pa anperè Auguste epi yo te menm fòme premye kò medikal women ki te destine pou itilize nan demen aprè batay yo.,"Haitian Creole: Medsen yo te kòmanse rekrite pa anperè Auguste epi yo te menm fòme premye kò medikal women ki te destine pou itilize nan demen aprè batay yo. 
 English:
-I am not sure if this is the right place to ask this question, but I am looking for a way to get a list of all the Haitian Creole words that are used in the medical field. I am looking for a list of all the words that are used in the medical field that are not in the Haitian Creole dictionary. I am looking for a list of all the words that are used in the medical field that are not in the Haitian Creole dictionary that are",
+I am not sure if this is the right place to ask this question, but I am looking for a way to get a list of all the Haitian Creole words that are used in the medical field. I am looking for a list of all the words that are used in the medical field that are not in the Haitian Creole dictionary. I am looking for a list of all the words that are used in the medical field that are not in the Haitian Creole dictionary that are","I am looking for a list of all the words that are used in the medical field that are not in the Haitian Creole dictionary that are I am looking for a list of all the words that are used in the medical field that are not in the Haitian Creole dictionary. I am not sure if this is the right place to ask this question, but I am looking for a way to get a list of all the Haitian Creole words that are used in the medical field."
 "Sepandan, chofè a te sibi gwo blese nan tèt.","Haitian Creole: Sepandan, chofè a te sibi gwo blese nan tèt. 
 English:
 I am a Haitian Creole, and I am a Haitian Creole.
@@ -678,7 +817,7 @@ I am a Haitian Creole, and I am a Haitian Creole.
 I am a Haitian Creole, and I am a Haitian Creole.
 I am a Haitian Creole, and I am a Haitian Creole.
 I am a Haitian Creole, and I am a Haitian Creole.
-I am a Haitian Creole, and I am a Haitian",
+I am a Haitian Creole, and I am a Haitian","I am a Haitian Creole, and I am a Haitian I am a Haitian Creole, and I am a Haitian Creole."
 """Nou gen kounya kèk sourit ki gen 4 mwa ki pa fè sik, men ki te fè l,"" li te ajoute.","Haitian Creole: ""Nou gen kounya kèk sourit ki gen 4 mwa ki pa fè sik, men ki te fè l,"" li te ajoute. 
 English: ""When I was a child, I used to play with my friends and I used to play with my friends and I used to play with my friends.""
 
@@ -686,22 +825,26 @@ A:
 
 The word ""pa"" is a noun, and the word ""ki"" is a verb. The verb ""pa"" is used to describe a person, and the noun ""ki"" is used to describe a thing. So, the sentence is
 
-When I was a child, I used to play with my friends and I","""When I was a child, I used to play with my friends and I used to play with my friends and I used to play with my friends."""
+When I was a child, I used to play with my friends and I","The verb ""pa"" is used to describe a person, and the noun ""ki"" is used to describe a thing. ""When I was a child, I used to play with my friends and I used to play with my friends and I used to play with my friends."" So, the sentence is
+
+When I was a child, I used to play with my friends and I A:
+
+The word ""pa"" is a noun, and the word ""ki"" is a verb."
 Anpwazonman entèn gendwa pa vizib imedyatman. Sentom tankou vomisman ase frekan ke yon dyagnostik imedya pa ka fèt.,"Haitian Creole: Anpwazonman entèn gendwa pa vizib imedyatman. Sentom tankou vomisman ase frekan ke yon dyagnostik imedya pa ka fèt. 
 English: The Haitian Creole is a dialect of Haitian Creole spoken in the Haitian islands of the Lesser Antilles. It is the official language of the Haitian government and is used by the Haitian diaspora. It is also used by the Haitian diaspora in the United States, Canada, and the Caribbean. It is also used by the Haitian diaspora in the United Kingdom, Ireland, and the United States. It is also used by the Haitian diaspora in the United States, Canada,","The Haitian Creole is a dialect of Haitian Creole spoken in the Haitian islands of the Lesser Antilles. It is also used by the Haitian diaspora in the United Kingdom, Ireland, and the United States. It is also used by the Haitian diaspora in the United States, Canada, and the Caribbean. It is also used by the Haitian diaspora in the United States, Canada, It is the official language of the Haitian government and is used by the Haitian diaspora."
 "kòm konsekans, atis yo fimen jwen kanabis sou sèn nan, epi teyat la ankò ankouraje piblik la pou vin jwenn yo.","Haitian Creole: kòm konsekans, atis yo fimen jwen kanabis sou sèn nan, epi teyat la ankò ankouraje piblik la pou vin jwenn yo. 
 English:
-I am a Haitian Creole, and I am a Haitian Creole. I am a Haitian Creole. I am a Haitian Creole. I am a Haitian Creole. I am a Haitian Creole. I am a Haitian Creole. I am a Haitian Creole. I am a Haitian Creole. I am a Haitian Creole. I am a Haitian Creole. I am a Haitian Creole. I am",
+I am a Haitian Creole, and I am a Haitian Creole. I am a Haitian Creole. I am a Haitian Creole. I am a Haitian Creole. I am a Haitian Creole. I am a Haitian Creole. I am a Haitian Creole. I am a Haitian Creole. I am a Haitian Creole. I am a Haitian Creole. I am a Haitian Creole. I am","I am a Haitian Creole. I am I am a Haitian Creole, and I am a Haitian Creole."
 Ayerosmit te anile rès konsè nan toune li a.,"Haitian Creole: Ayerosmit te anile rès konsè nan toune li a. 
 English: I am not sure what you mean by that.",I am not sure what you mean by that.
 "Si ou vle pwòch aksyon an, ou pral bezwen gen yon kanpin pwòch mizik lan.","Haitian Creole: Si ou vle pwòch aksyon an, ou pral bezwen gen yon kanpin pwòch mizik lan. 
 English: If you are going to be late, you must be prepared to be late.","If you are going to be late, you must be prepared to be late."
 Gen anpil fòma fim diferan ki te itilize pandan kèk lane. Fim òdinè a 35 mm (negatif 36 pa 24 mm) komen anpil.,"Haitian Creole: Gen anpil fòma fim diferan ki te itilize pandan kèk lane. Fim òdinè a 35 mm (negatif 36 pa 24 mm) komen anpil. 
 English:
-The film is made in 35 mm (negative 36 mm) and 24 mm (positive 24 mm). The film is made in 35 mm (negative 36 mm) and 24 mm (positive 24 mm). The film is made in 35 mm (negative 36 mm) and 24 mm (positive 24 mm). The film is made in 35 mm (negative 36 mm) and 24 mm (positive 24 mm). The film is made in 35 mm (negative 36 mm) and 24 mm (positive 24 mm",
+The film is made in 35 mm (negative 36 mm) and 24 mm (positive 24 mm). The film is made in 35 mm (negative 36 mm) and 24 mm (positive 24 mm). The film is made in 35 mm (negative 36 mm) and 24 mm (positive 24 mm). The film is made in 35 mm (negative 36 mm) and 24 mm (positive 24 mm). The film is made in 35 mm (negative 36 mm) and 24 mm (positive 24 mm",The film is made in 35 mm (negative 36 mm) and 24 mm (positive 24 mm). The film is made in 35 mm (negative 36 mm) and 24 mm (positive 24 mm
 "Menm si aktivite sa trè pòpilè, li entèdi pa Disney: tike yo pa transferab.","Haitian Creole: Menm si aktivite sa trè pòpilè, li entèdi pa Disney: tike yo pa transferab. 
 English:
-The movie is about a young man who is a member of a gang of criminals. He is a member of the gang because he is a good man. He is a member of the gang because he is a good man. He is a member of the gang because he is a good man. He is a member of the gang because he is a good man. He is a member of the gang because he is a good man. He is a member of the gang because he is a good",
+The movie is about a young man who is a member of a gang of criminals. He is a member of the gang because he is a good man. He is a member of the gang because he is a good man. He is a member of the gang because he is a good man. He is a member of the gang because he is a good man. He is a member of the gang because he is a good man. He is a member of the gang because he is a good",He is a member of the gang because he is a good man. The movie is about a young man who is a member of a gang of criminals. He is a member of the gang because he is a good
 Chak epizòd emisyon an te konsantre sou yon tèm nan yon liv espesifik epi te eksplore aprè tèm sa atravè plizyè listwa.,"Haitian Creole: Chak epizòd emisyon an te konsantre sou yon tèm nan yon liv espesifik epi te eksplore aprè tèm sa atravè plizyè listwa. 
 English:
 The Haitian Creole:
@@ -718,7 +861,21 @@ The Haitian Creole:
 The Haitian Creole:
 The Haitian Creole:
 The Haitian Creole:
-The",
+The","The Haitian Creole:
+The Haitian Creole:
+The Haitian Creole:
+The Haitian Creole:
+The Haitian Creole:
+The Haitian Creole:
+The Haitian Creole:
+The Haitian Creole:
+The Haitian Creole:
+The Haitian Creole:
+The Haitian Creole:
+The Haitian Creole:
+The Haitian Creole:
+The Haitian Creole:
+The"
 Plizyè gwo ekran televizyon te enstale nan diferan kote nan Wòm pou pèmèt moun yo gade seremoni an.,"Haitian Creole: Plizyè gwo ekran televizyon te enstale nan diferan kote nan Wòm pou pèmèt moun yo gade seremoni an. 
 English: The Haitian Creole is a language spoken in Haiti. It is the official language of the Republic of Haiti. It is the language of the Haitian Creole television and radio stations. It is also the language of the Haitian Creole newspapers. It is also the language of the Haitian Creole radio and television stations. It is also the language of the Haitian Creole newspapers. It is also the language of the Haitian Creole radio and television stations. It is also the",It is also the It is also the language of the Haitian Creole radio and television stations. It is the official language of the Republic of Haiti. It is the language of the Haitian Creole television and radio stations. The Haitian Creole is a language spoken in Haiti. It is also the language of the Haitian Creole newspapers.
 Sofòkl ak Aristofan se dramatik popilè yo e pyès teyat yo konsidere pami pi gwo travay nan literati mondyal la.,"Haitian Creole: Sofòkl ak Aristofan se dramatik popilè yo e pyès teyat yo konsidere pami pi gwo travay nan literati mondyal la. 
@@ -737,7 +894,21 @@ The Haitian Creole:
 The Haitian Creole:
 The Haitian Creole:
 The Haitian Creole:
-The",
+The","The Haitian Creole:
+The Haitian Creole:
+The Haitian Creole:
+The Haitian Creole:
+The Haitian Creole:
+The Haitian Creole:
+The Haitian Creole:
+The Haitian Creole:
+The Haitian Creole:
+The Haitian Creole:
+The Haitian Creole:
+The Haitian Creole:
+The Haitian Creole:
+The Haitian Creole:
+The"
 Chak emisyon ap bay rekòmandasyon tou yo sou liv timoun dwe chèche lè yo pral nan bibliyotèk.,"Haitian Creole: Chak emisyon ap bay rekòmandasyon tou yo sou liv timoun dwe chèche lè yo pral nan bibliyotèk. 
 English:
 The Haitian Creole:
@@ -754,7 +925,21 @@ The Haitian Creole:
 The Haitian Creole:
 The Haitian Creole:
 The Haitian Creole:
-The",
+The","The Haitian Creole:
+The Haitian Creole:
+The Haitian Creole:
+The Haitian Creole:
+The Haitian Creole:
+The Haitian Creole:
+The Haitian Creole:
+The Haitian Creole:
+The Haitian Creole:
+The Haitian Creole:
+The Haitian Creole:
+The Haitian Creole:
+The Haitian Creole:
+The Haitian Creole:
+The"
 "Sou akòdeyon an, pou jwenn yon volim anplis, w ap itilize souflèt avèk plis presyon oswa vitès.","Haitian Creole: Sou akòdeyon an, pou jwenn yon volim anplis, w ap itilize souflèt avèk plis presyon oswa vitès. 
 English: I am not sure, but I think that the people of the village are very happy, because they have a lot of food to eat.","I am not sure, but I think that the people of the village are very happy, because they have a lot of food to eat."
 Ou kapab wè piramid yo nan fènwa epi ou kapab wè yo an silans avan kòmansman espektak lan.,"Haitian Creole: Ou kapab wè piramid yo nan fènwa epi ou kapab wè yo an silans avan kòmansman espektak lan. 
@@ -765,7 +950,9 @@ Lacha, pèche, photograph, obsessions, zwazo, yo, visit pak, yo ak etid enfòmas
 French:
 Lacha, pèche, photographie, obsessions, zwazo, vous, visitez, pak, vous avez, enfômasyon yo sou ekosistèm lan se egzanp aktivite sou plas yo. 
 Spanish:
-Lacha",
+Lacha","Spanish:
+Lacha Lacha, pèche, photograph, obsessions, zwazo, yo, visit pak, yo ak etid enfòmasyon yo sou ekosistèm lan se egzanp aktivite sou plas yo. French:
+Lacha, pèche, photographie, obsessions, zwazo, vous, visitez, pak, vous avez, enfômasyon yo sou ekosistèm lan se egzanp aktivite sou plas yo."
 Sphinx lan se yon etwal nan fon epi naratè yon long istwa.,"Haitian Creole: Sphinx lan se yon etwal nan fon epi naratè yon long istwa. 
 English: The Sphinx is a large, black, and beautiful creature, with a long neck and a large head. It is a symbol of the power of the sun and the sun itself. It is also a symbol of the power of the sea and the sea itself. It is also a symbol of the power of the earth and the earth itself. It is also a symbol of the power of the sky and the sky itself. It is also a symbol of the power of the air and the air itself","The Sphinx is a large, black, and beautiful creature, with a long neck and a large head. It is also a symbol of the power of the air and the air itself It is a symbol of the power of the sun and the sun itself. It is also a symbol of the power of the sky and the sky itself. It is also a symbol of the power of the sea and the sea itself. It is also a symbol of the power of the earth and the earth itself."
 "Yo pwopoze jeneralman kèk òf espesyal manje ak bwason epi divètisman, pou kenbe envite yo nan yon bon anbyans epi fè yo rete sou plas.","Haitian Creole: Yo pwopoze jeneralman kèk òf espesyal manje ak bwason epi divètisman, pou kenbe envite yo nan yon bon anbyans epi fè yo rete sou plas. 
@@ -781,10 +968,11 @@ Haitian Creole: Anvan The Simpsons Simon te jwe divès espektak nan divès wòl.
 English: The Simpsons
 Haitian Creole: Anvan The Simpsons Simon te jwe divès espektak nan divès wòl. 
 English: The Simpsons
-",The Simpsons
+","The Simpsons
+Haitian Creole: Anvan The Simpsons Simon te jwe divès espektak nan divès wòl."
 Sa pral pèmèt jwè yo kontwole aksyon yo ak mouvman yo nan jwèt videyo yo pandan y ap deplase aparèy la anlè.,"Haitian Creole: Sa pral pèmèt jwè yo kontwole aksyon yo ak mouvman yo nan jwèt videyo yo pandan y ap deplase aparèy la anlè. 
 English:
-I am a Haitian Creole, and I am a Haitian Creole. I am a Haitian Creole. I am a Haitian Creole. I am a Haitian Creole. I am a Haitian Creole. I am a Haitian Creole. I am a Haitian Creole. I am a Haitian Creole. I am a Haitian Creole. I am a Haitian Creole. I am a Haitian Creole. I am",
+I am a Haitian Creole, and I am a Haitian Creole. I am a Haitian Creole. I am a Haitian Creole. I am a Haitian Creole. I am a Haitian Creole. I am a Haitian Creole. I am a Haitian Creole. I am a Haitian Creole. I am a Haitian Creole. I am a Haitian Creole. I am a Haitian Creole. I am","I am a Haitian Creole. I am I am a Haitian Creole, and I am a Haitian Creole."
 "O mwen te gen 100 moun nan fèt la, pou yo te ka selebre premye anivèsè koup ki te marye ane pase a.","Haitian Creole: O mwen te gen 100 moun nan fèt la, pou yo te ka selebre premye anivèsè koup ki te marye ane pase a. 
 English: I am 100 years old and I am still alive. I am still able to walk. I am still able to talk. I am still able to read. I am still able to write. I am still able to read. I am still able to write. I am still able to read. I am still able to write. I am still able to read. I am still able to write. I am still able to read. I am still able to write. I am still able to",I am 100 years old and I am still alive. I am still able to write. I am still able to I am still able to walk. I am still able to read. I am still able to talk.
 "De chanson fim Audition (The Fools Who Dream) ak City of Stars, te nomine pou meyè chanson orijinal. Estidyo Lionsgate te resevwa 26 nominasyon — plis pase tout lòt estidyo.","Haitian Creole: De chanson fim Audition (The Fools Who Dream) ak City of Stars, te nomine pou meyè chanson orijinal. Estidyo Lionsgate te resevwa 26 nominasyon — plis pase tout lòt estidyo. 
@@ -805,7 +993,23 @@ The Fools Who Dream
 The Fools Who Dream
 The Fools Who Dream
 The Fools Who Dream
-The Fools",
+The Fools","The Fools Who Dream
+The Fools Who Dream
+The Fools Who Dream
+The Fools Who Dream
+The Fools Who Dream
+The Fools Who Dream
+The Fools Who Dream
+The Fools Who Dream
+The Fools Who Dream
+The Fools Who Dream
+The Fools Who Dream
+The Fools Who Dream
+The Fools Who Dream
+The Fools Who Dream
+The Fools Who Dream
+The Fools Who Dream
+The Fools"
 Kwout la gen yon epesè apeprè 70 km sou bò tou pre ak 100 km sou bò lwen an.,"Haitian Creole: Kwout la gen yon epesè apeprè 70 km sou bò tou pre ak 100 km sou bò lwen an. 
 English:
 The Haitian Creole:
@@ -815,16 +1019,21 @@ Le créole haïtien:
 Kwout la gen yon epesè apeprè 70 km sou bò tou pre ak 100 km sou bò lwen an.
 Spanish:
 El criollo haitiano:
-Kwout la gen yon epesè apeprè 70 km sou bò tou",
+Kwout la gen yon epesè apeprè 70 km sou bò tou","French:
+Le créole haïtien:
+Kwout la gen yon epesè apeprè 70 km sou bò tou pre ak 100 km sou bò lwen an. Spanish:
+El criollo haitiano:
+Kwout la gen yon epesè apeprè 70 km sou bò tou The Haitian Creole:
+Kwout la gen yon epesè apeprè 70 km sou bò tou pre ak 100 km sou bò lwen an."
 "Plis nan sid gen kaskad Niagara ak nan nò, bote natirèl ki pa eksplwate nan rejyon Muskoka a ak piwo.","Haitian Creole: Plis nan sid gen kaskad Niagara ak nan nò, bote natirèl ki pa eksplwate nan rejyon Muskoka a ak piwo. 
 English:
-I am a Haitian Creole, and I am not going to be satisfied with the current situation. I am going to be a part of the solution. I am going to be a part of the solution. I am going to be a part of the solution. I am going to be a part of the solution. I am going to be a part of the solution. I am going to be a part of the solution. I am going to be a part of the solution. I",
+I am a Haitian Creole, and I am not going to be satisfied with the current situation. I am going to be a part of the solution. I am going to be a part of the solution. I am going to be a part of the solution. I am going to be a part of the solution. I am going to be a part of the solution. I am going to be a part of the solution. I am going to be a part of the solution. I","I I am a Haitian Creole, and I am not going to be satisfied with the current situation. I am going to be a part of the solution."
 "Ellsworth Land se rejyon sitiye nan sid penisil, delimite pa lanmè Bellingshausen.","Haitian Creole: Ellsworth Land se rejyon sitiye nan sid penisil, delimite pa lanmè Bellingshausen. 
 English: The island is located in the southwestern part of the Bahamas, about 20 miles (32 km) south of the Bahamas Strait. The island is about 1,000 m (3,000 ft) long and about 500 m (1,000 ft) wide. The island is surrounded by the Bahamas Strait, which is about 1,000 m (3,000 ft) wide. The island is about 1,000 m (3,000 ","The island is located in the southwestern part of the Bahamas, about 20 miles (32 km) south of the Bahamas Strait. The island is about 1,000 m (3,000 The island is surrounded by the Bahamas Strait, which is about 1,000 m (3,000 ft) wide. The island is about 1,000 m (3,000 ft) long and about 500 m (1,000 ft) wide."
 Travès (oswa otowout) pol sid la se yon pis 1600 km ki rive nan estasyon McMurdo a sou lanmè Ross la jous nan pol la.,"Haitian Creole: Travès (oswa otowout) pol sid la se yon pis 1600 km ki rive nan estasyon McMurdo a sou lanmè Ross la jous nan pol la. 
 English: Through (oswa otowout) pol sid la se yon pis 1600 km ki rive nan estasyon McMurdo a sou lanmè Ross la jous nan pol la. 
 French: Travers (oswa otowout) pol sid la se yon pis 1600 km ki rive nan estasyon McMurdo a sou lanmè Ross la jous nan pol la. 
-Spanish: A través (oswa otowout) pol sid la se yon pis 1600 km ki rive",Through (oswa otowout) pol sid la se yon pis 1600 km ki rive nan estasyon McMurdo a sou lanmè Ross la jous nan pol la.
+Spanish: A través (oswa otowout) pol sid la se yon pis 1600 km ki rive",French: Travers (oswa otowout) pol sid la se yon pis 1600 km ki rive nan estasyon McMurdo a sou lanmè Ross la jous nan pol la. Through (oswa otowout) pol sid la se yon pis 1600 km ki rive nan estasyon McMurdo a sou lanmè Ross la jous nan pol la. Spanish: A través (oswa otowout) pol sid la se yon pis 1600 km ki rive
 "Mòn a pik sa k ap domine pati nò Machu Picchu an, sèvi souvan yon kad pou anpil foto vestij yo.","Haitian Creole: Mòn a pik sa k ap domine pati nò Machu Picchu an, sèvi souvan yon kad pou anpil foto vestij yo. 
 English: I am a man who has been living in the mountains for many years. I have seen many people and have seen many things. I have seen the people who live in the mountains and I have seen the people who live in the cities. I have seen the people who live in the mountains and I have seen the people who live in the cities. I have seen the people who live in the mountains and I have seen the people who live in the cities. I have seen the people who live in",I am a man who has been living in the mountains for many years. I have seen many people and have seen many things. I have seen the people who live in the mountains and I have seen the people who live in the cities. I have seen the people who live in
 Anselad se objè ki pi briye nan sistèm solè a. Li briye anviwon 90% limyè solèy la ki frape sou li.,"Haitian Creole: Anselad se objè ki pi briye nan sistèm solè a. Li briye anviwon 90% limyè solèy la ki frape sou li. 
@@ -833,17 +1042,19 @@ Nou pa kapab wè anyen ke syèl klè epi ki bèl la ki antoure nou ak anpil mòn
 English:
 I have no idea what you mean by ""anyen ke syèl klè epi ki bèl la ki antoure nou ak anpil mòn ki antoure l.""
 I have no idea what you mean by ""anyen ke syèl klè epi ki bèl la ki antoure nou ak anpil mòn ki antoure l.""
-I have no idea what you mean by ""anyen ke syèl klè epi ki bèl la ki antoure",
+I have no idea what you mean by ""anyen ke syèl klè epi ki bèl la ki antoure","I have no idea what you mean by ""anyen ke syèl klè epi ki bèl la ki antoure nou ak anpil mòn ki antoure l.""
+I have no idea what you mean by ""anyen ke syèl klè epi ki bèl la ki antoure nou ak anpil mòn ki antoure l.""
+I have no idea what you mean by ""anyen ke syèl klè epi ki bèl la ki antoure"
 Pase kounya nan Japon. Japon te yon peyi izole menm jan ak Grand Bretay.,"Haitian Creole: Pase kounya nan Japon. Japon te yon peyi izole menm jan ak Grand Bretay. 
 English: I am a Japanese. I am a British. I am a French. I am a German. I am a Spanish. I am a Portuguese. I am a Russian. I am a Chinese. I am a Korean. I am a Vietnamese. I am a Thai. I am a Malay. I am a Chinese. I am a Japanese. I am a British. I am a French. I am a German. I am a Spanish. I am a Portuguese. I am a Russian.",I am a Korean. I am a Japanese. I am a Spanish. I am a Vietnamese. I am a British. I am a French. I am a Malay. I am a Thai. I am a German. I am a Russian. I am a Chinese. I am a Portuguese.
 "Nan le li te pi wo a, siklòn Gonu, ki rele konsa daprè yon sak fèy palmye nan lang Maldiv, te vini ak yon van 240 kilomèt a lè (149 miles a lè).","Haitian Creole: Nan le li te pi wo a, siklòn Gonu, ki rele konsa daprè yon sak fèy palmye nan lang Maldiv, te vini ak yon van 240 kilomèt a lè (149 miles a lè). 
 English: The island is a small, isolated, and remote place. It is a small, isolated, and remote place. It is a small, isolated, and remote place. It is a small, isolated, and remote place. It is a small, isolated, and remote place. It is a small, isolated, and remote place. It is a small, isolated, and remote place. It is a small, isolated, and remote place. It is a small, isolated, and remote place.","The island is a small, isolated, and remote place. It is a small, isolated, and remote place."
 "Sipèfisi Tiki, lak yo ladanl se 783,562 kilomèt kare (300,948 sq mi), pami 755,688 kilomèt kare (291,773 sq mi) an Azi di Sidwès ak 23,764 kilomèt kare (9,174 sq mi) an Ewòp.","Haitian Creole: Sipèfisi Tiki, lak yo ladanl se 783,562 kilomèt kare (300,948 sq mi), pami 755,688 kilomèt kare (291,773 sq mi) an Azi di Sidwès ak 23,764 kilomèt kare (9,174 sq mi) an Ewòp. 
 English: Haitian Creole: Sipèfisi Tiki, lak yo ladanl se 783,562 kilomèt kare (300,948 sq mi), pami 755,688 kilomèt kare (291,773 sq mi) an Azi di Sidwès ak 23,764 kilomèt kare (9,174 sq mi) an Ewòp. 
-French: Haitian Creole: Sipèfisi Tiki, lak yo ladanl se 783,562 kilomèt kare (300","Haitian Creole: Sipèfisi Tiki, lak yo ladanl se 783,562 kilomèt kare (300,948 sq mi), pami 755,688 kilomèt kare (291,773 sq mi) an Azi di Sidwès ak 23,764 kilomèt kare (9,174 sq mi) an Ewòp."
+French: Haitian Creole: Sipèfisi Tiki, lak yo ladanl se 783,562 kilomèt kare (300","French: Haitian Creole: Sipèfisi Tiki, lak yo ladanl se 783,562 kilomèt kare (300 Haitian Creole: Sipèfisi Tiki, lak yo ladanl se 783,562 kilomèt kare (300,948 sq mi), pami 755,688 kilomèt kare (291,773 sq mi) an Azi di Sidwès ak 23,764 kilomèt kare (9,174 sq mi) an Ewòp."
 "Zile sid Chetlann yo ke yo dekouvri nan lane 1819 gen plizyè nasyon ki revandike yo epi yo genyen plis baz, ak sèz ki aktif an 2020.","Haitian Creole: Zile sid Chetlann yo ke yo dekouvri nan lane 1819 gen plizyè nasyon ki revandike yo epi yo genyen plis baz, ak sèz ki aktif an 2020. 
 English:
-The Haitian Creole language is a language of the Caribbean, spoken by the Creoles of Haiti, the Dominican Republic, and the Dominican Republic's neighboring countries. It is the official language of the Republic of Haiti, and is also spoken by the Dominican Republic and the Dominican Republic's neighboring countries. The Haitian Creole language is a member of the Creole family, which includes the Creole languages of the Dominican Republic, the Dominican Republic's neighboring countries, and the Caribbean. The Hait",
+The Haitian Creole language is a language of the Caribbean, spoken by the Creoles of Haiti, the Dominican Republic, and the Dominican Republic's neighboring countries. It is the official language of the Republic of Haiti, and is also spoken by the Dominican Republic and the Dominican Republic's neighboring countries. The Haitian Creole language is a member of the Creole family, which includes the Creole languages of the Dominican Republic, the Dominican Republic's neighboring countries, and the Caribbean. The Hait","The Hait The Haitian Creole language is a member of the Creole family, which includes the Creole languages of the Dominican Republic, the Dominican Republic's neighboring countries, and the Caribbean. The Haitian Creole language is a language of the Caribbean, spoken by the Creoles of Haiti, the Dominican Republic, and the Dominican Republic's neighboring countries. It is the official language of the Republic of Haiti, and is also spoken by the Dominican Republic and the Dominican Republic's neighboring countries."
 "Apia se kapital Samoa. Vil lan sou il Upolu epi li gen yon popilasyon ki pi piti ke 40,000 moun.","Haitian Creole: Apia se kapital Samoa. Vil lan sou il Upolu epi li gen yon popilasyon ki pi piti ke 40,000 moun. 
 English: The island of Apia is the capital of Samoa. It is the largest island in the Pacific Ocean and is home to the largest population of the island. The population of Apia is about 40,000. The island is divided into two parts, the capital city of Apia and the rest of the island. The capital city is located on the west coast of the island and is the largest city in Samoa. The capital city is surrounded by a large number of small islands. The capital city is","The capital city is surrounded by a large number of small islands. The island of Apia is the capital of Samoa. The island is divided into two parts, the capital city of Apia and the rest of the island. The capital city is It is the largest island in the Pacific Ocean and is home to the largest population of the island. The population of Apia is about 40,000. The capital city is located on the west coast of the island and is the largest city in Samoa."
 "Kòm tanpèt lwen pou li touche tè a, li difisil pou evalye enpak potansyèl sou Etazini oubyen Karayib la.","Haitian Creole: Kòm tanpèt lwen pou li touche tè a, li difisil pou evalye enpak potansyèl sou Etazini oubyen Karayib la. 
@@ -854,13 +1065,16 @@ French: Je suis un homme de la haute-Loire, et je suis un homme de la basse-Loir
 Spanish: Yo soy un hombre de la alta y baja monta.
 Italian: Mi è un hombre di alta e baja monta.
 Polish: Mi jest jednostki zmianowanych w zmianach zmianowanych.
-Portuguese: Eu sou um","I am a man of the highlands, and I am a man of the lowlands."
+Portuguese: Eu sou um","I am a man of the highlands, and I am a man of the lowlands. Portuguese: Eu sou um French: Je suis un homme de la haute-Loire, et je suis un homme de la basse-Loire. Spanish: Yo soy un hombre de la alta y baja monta. Italian: Mi è un hombre di alta e baja monta. Polish: Mi jest jednostki zmianowanych w zmianach zmianowanych."
 "Men forè yo pa sèlman mangwov, yo gen ladan yo kèk dènye vestij gwo jeng yo ki te kouvri lontan plèn Gange lan.","Haitian Creole: Men forè yo pa sèlman mangwov, yo gen ladan yo kèk dènye vestij gwo jeng yo ki te kouvri lontan plèn Gange lan. 
 English: I am a man, I am a man, I am a man, I am a man, I am a man, I am a man, I am a man, I am a man, I am a man, I am a man, I am a man, I am a man, I am a man, I am a man, I am a man, I am a man, I am a man, I am a man, I am a man, I am a man,","I am a man, I am a man, I am a man, I am a man, I am a man, I am a man, I am a man, I am a man, I am a man, I am a man, I am a man, I am a man, I am a man, I am a man, I am a man, I am a man, I am a man, I am a man, I am a man, I am a man,"
 Kat entènasyonal tranbleman tè de United States Geological Survey pat montre okenn tranbleman tè an Islann semèn pase a.,"Haitian Creole: Kat entènasyonal tranbleman tè de United States Geological Survey pat montre okenn tranbleman tè an Islann semèn pase a. 
 English: Kat entènasyonal tranbleman tè de United States Geological Survey pat montre okenn tranbleman tè an Islann semèn passe a. 
 French: Kat entènasyonal tranbleman tè de United States Geological Survey pat montre okenn tranbleman tè an Islann semèn passe a. 
 Spanish: Kat entènasyonal tranbleman tè de United States Geological Survey pat montre okenn tranbleman tè an Islann semèn passe a. 
-Italian: Kat entèn",Kat entènasyonal tranbleman tè de United States Geological Survey pat montre okenn tranbleman tè an Islann semèn passe a.
+Italian: Kat entèn","Kat entènasyonal tranbleman tè de United States Geological Survey pat montre okenn tranbleman tè an Islann semèn passe a. 
+French: Kat entènasyonal tranbleman tè de United States Geological Survey pat montre okenn tranbleman tè an Islann semèn passe a. 
+Spanish: Kat entènasyonal tranbleman tè de United States Geological Survey pat montre okenn tranbleman tè an Islann semèn passe a. 
+Italian: Kat entèn"
 "Repoze sou tèt yon mòn nan nò Mèk, gwòt la konplètman izole ak rès mond lan.","Haitian Creole: Repoze sou tèt yon mòn nan nò Mèk, gwòt la konplètman izole ak rès mond lan. 
 English: I am the man who is the man who is the man who is the man who is the man who is the man who is the man who is the man who is the man who is the man who is the man who is the man who is the man who is the man who is the man who is the man who is the man who is the man who is the man who is the man who is the man who is the man who is the man who is the man who is the man",I am the man who is the man who is the man who is the man who is the man who is the man who is the man who is the man who is the man who is the man who is the man who is the man who is the man who is the man who is the man who is the man who is the man who is the man who is the man who is the man who is the man who is the man who is the man who is the man who is the man

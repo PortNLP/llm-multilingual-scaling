@@ -2,7 +2,9 @@ text,translated_text,clean_output
 "Ang mutasyon nagdungag og bag-ong pagkalainlain sa genetiko, ug ang pagpili magkuha niini gikan sa linaw nga nagkalainlaing puntos.","Cebuano: Ang mutasyon nagdungag og bag-ong pagkalainlain sa genetiko, ug ang pagpili magkuha niini gikan sa linaw nga nagkalainlaing puntos. 
 English: The English version of the question is
 
-How many points are there in a circle of radius 5? How many points are there in a circle of radius 5? How many points are there in a circle of radius 5? How many points are there in a circle of radius 5? How many points are there in a circle of radius 5? How many points are there in a circle of radius 5? How many points are there in a circle of radius 5? How many points are there in a circle",The English version of the question is
+How many points are there in a circle of radius 5? How many points are there in a circle of radius 5? How many points are there in a circle of radius 5? How many points are there in a circle of radius 5? How many points are there in a circle of radius 5? How many points are there in a circle of radius 5? How many points are there in a circle of radius 5? How many points are there in a circle","How many points are there in a circle of radius 5? How many points are there in a circle The English version of the question is
+
+How many points are there in a circle of radius 5?"
 Ang bomba nga fission kay mogana sa prinsipyo nga kinahanglan kini og enerhiya alang makatigom og nucleus nga adunay daghang proton ug neutron.,"Cebuano: Ang bomba nga fission kay mogana sa prinsipyo nga kinahanglan kini og enerhiya alang makatigom og nucleus nga adunay daghang proton ug neutron. 
 English: The bomb exploded in the city of Cebuana, Mexico, killing at least 20 people and injuring more than 100. The explosion was blamed on a nuclear reactor that was damaged by a fire in the city of Cebuana, Mexico, killing at least 20 people and injuring more than 100. The explosion was blamed on a nuclear reactor that was damaged by a fire in the city of Cebuana, Mexico, killing at least 20 people and injuring more than 100. The explosion was blamed on","The explosion was blamed on The bomb exploded in the city of Cebuana, Mexico, killing at least 20 people and injuring more than 100. The explosion was blamed on a nuclear reactor that was damaged by a fire in the city of Cebuana, Mexico, killing at least 20 people and injuring more than 100."
 Ang necleus gilangkoban sa duha ka mga partikulo - mga neutron ug proton.,"Cebuano: Ang necleus gilangkoban sa duha ka mga partikulo - mga neutron ug proton. 
@@ -17,7 +19,13 @@ $.ajax({
     url: '/api/get',
     dataType: 'json',
     success: function(data) {
-        $('#result').html(data);","Sila kay mas labaw sa mga web proxy sa ubay-ubay nga rason: Ilahang ipaagi sa lain nga ruta ang tanang trapiko sa internet, dili lang sa http."
+        $('#result').html(data);","I am using the following code to get the URL of the page that I am trying to access:
+$.ajax({
+    type: 'POST',
+    url: '/api/get',
+    dataType: 'json',
+    success: function(data) {
+        $('#result').html(data); Sila kay mas labaw sa mga web proxy sa ubay-ubay nga rason: Ilahang ipaagi sa lain nga ruta ang tanang trapiko sa internet, dili lang sa http."
 Kinahanglan sa interaktibo nga disenyo nga imong susihon pag-usab ang imong mga pangagpas bahin sa paghimo sa media ug matun-an ang paghunahuna sa mga dili tul-id nga pamaagi.,"Cebuano: Kinahanglan sa interaktibo nga disenyo nga imong susihon pag-usab ang imong mga pangagpas bahin sa paghimo sa media ug matun-an ang paghunahuna sa mga dili tul-id nga pamaagi. 
 English: The book is a collection of stories about the lives of the people of the Philippines. It is a collection of stories about the lives of the people of the Philippines. It is a collection of stories about the lives of the people of the Philippines. It is a collection of stories about the lives of the people of the Philippines. It is a collection of stories about the lives of the people of the Philippines. It is a collection of stories about the lives of the people of the Philippines. It is a",It is a collection of stories about the lives of the people of the Philippines. The book is a collection of stories about the lives of the people of the Philippines. It is a
 "Sagad na kini nga buhat, apan hinungdan ang puthaw sa mas pagkadaut sa mga ligid nga kahoy sa mga bagon.","Cebuano: Sagad na kini nga buhat, apan hinungdan ang puthaw sa mas pagkadaut sa mga ligid nga kahoy sa mga bagon. 
@@ -32,7 +40,7 @@ English: Ang aspect ratio ani nga pormat (pagbahin sa napulog duha aron makuha a
 English: Ang aspect",Ang aspect ratio ani nga pormat (pagbahin sa napulog duha aron makuha ang labing yano nga tibuuk nga numero nga ratio) kay busa giingon nga 3: 2.
 "Ang usa ka satellite nga telepono dili kasagarang pampuli alang sa usa ka mobile phone, tungod kay kinahanglan nga naa ka sa gawas sa imong panimalay ug kinahanglang adunay tin-aw nga linya sa panan-aw sa satellite aron makatawag.","Cebuano: Ang usa ka satellite nga telepono dili kasagarang pampuli alang sa usa ka mobile phone, tungod kay kinahanglan nga naa ka sa gawas sa imong panimalay ug kinahanglang adunay tin-aw nga linya sa panan-aw sa satellite aron makatawag. 
 English: Ang uses satellite phone nga nga phone, tungod kay kinahanglan nga naa ka sa gawas sa imong panimalay ug kinahanglang adunay tin-aw nga linya sa panan-aw sa satellite aron makatawag. 
-Inglish: Ang uses satellite phone nga nga phone, tungod kay kinahanglan nga naa ka sa gawas sa imong panimalay ug kinahanglang adunay tin-aw nga linya sa panan-aw sa satellite ar","Ang uses satellite phone nga nga phone, tungod kay kinahanglan nga naa ka sa gawas sa imong panimalay ug kinahanglang adunay tin-aw nga linya sa panan-aw sa satellite aron makatawag."
+Inglish: Ang uses satellite phone nga nga phone, tungod kay kinahanglan nga naa ka sa gawas sa imong panimalay ug kinahanglang adunay tin-aw nga linya sa panan-aw sa satellite ar","Inglish: Ang uses satellite phone nga nga phone, tungod kay kinahanglan nga naa ka sa gawas sa imong panimalay ug kinahanglang adunay tin-aw nga linya sa panan-aw sa satellite ar Ang uses satellite phone nga nga phone, tungod kay kinahanglan nga naa ka sa gawas sa imong panimalay ug kinahanglang adunay tin-aw nga linya sa panan-aw sa satellite aron makatawag."
 "Maski na ang mga wagonway kay naglangkob sa samang mga tabla sa kahoy, nagtabang kini sa mga kabayo nga nagabira nila aron mas mopaspas ang dagan ug makabira og mas bug-at nga mga palas-anon sa mga medyo mas lisud nga mga kadalanan sa maong adlaw.","Cebuano: Maski na ang mga wagonway kay naglangkob sa samang mga tabla sa kahoy, nagtabang kini sa mga kabayo nga nagabira nila aron mas mopaspas ang dagan ug makabira og mas bug-at nga mga palas-anon sa mga medyo mas lisud nga mga kadalanan sa maong adlaw. 
 English: The first time I saw the map of the Philippines, I was amazed. It was a beautiful map, with a lot of detail. I was amazed at the number of islands and the number of people. I was amazed at the number of people who live in the islands. I was amazed at the number of people who live in the islands. I was amazed at the number of people who live in the islands. I was amazed at the number of people who live in","I was amazed at the number of islands and the number of people. I was amazed at the number of people who live in It was a beautiful map, with a lot of detail. The first time I saw the map of the Philippines, I was amazed. I was amazed at the number of people who live in the islands."
 "Nahibal-an sa mga tawo ang bahin sa mga sukaranang elementong kemikal sama sa bulawan, pilak, ug tumbaga gikan sa kakaraanan, tungod kay kining tanan makit-an sa kinaiyahan sa lumad nga porma ug medyo yano nga minahon gamit ang mga kinaraang himan.","Cebuano: Nahibal-an sa mga tawo ang bahin sa mga sukaranang elementong kemikal sama sa bulawan, pilak, ug tumbaga gikan sa kakaraanan, tungod kay kining tanan makit-an sa kinaiyahan sa lumad nga porma ug medyo yano nga minahon gamit ang mga kinaraang himan. 
@@ -40,7 +48,9 @@ English: The English version of the book is available at the following URL: http
 Ang ligid nakapabag-o sa kalibutan sa dili katuohang pamaagi. Ang pinakadakong butang nga nabuhat sa ligid para nato mao ang paghatag nato og mas sayon ug mas dali nga transportasyon.,"Cebuano: Ang ligid nakapabag-o sa kalibutan sa dili katuohang pamaagi. Ang pinakadakong butang nga nabuhat sa ligid para nato mao ang paghatag nato og mas sayon ug mas dali nga transportasyon. 
 English: The English translation of the title page is
 
-The book is a collection of essays on the history of the United States, written by the author of the book, John F. Kennedy. The essays are written in the form of a series of essays, each of which is a chapter in the book. The essays are written in the form of a series of essays, each of which is a chapter in the book. The essays are written in the form of a series of",The English translation of the title page is
+The book is a collection of essays on the history of the United States, written by the author of the book, John F. Kennedy. The essays are written in the form of a series of essays, each of which is a chapter in the book. The essays are written in the form of a series of essays, each of which is a chapter in the book. The essays are written in the form of a series of","The essays are written in the form of a series of essays, each of which is a chapter in the book. The English translation of the title page is
+
+The book is a collection of essays on the history of the United States, written by the author of the book, John F. Kennedy. The essays are written in the form of a series of"
 Gibuhat kini aron masiguro nga ang hulagway maigo sa tibuok iskrin. Gitawag kana nga overscan.,"Cebuano: Gibuhat kini aron masiguro nga ang hulagway maigo sa tibuok iskrin. Gitawag kana nga overscan. 
 English: The name of the city is Gitawag. The name of the city is Gitawag. The name of the city is Gitawag. The name of the city is Gitawag. The name of the city is Gitawag. The name of the city is Gitawag. The name of the city is Gitawag. The name of the city is Gitawag. The name of the city is Gitawag. The name of the city is Gitawag.",The name of the city is Gitawag.
 Ang mga Aleman nga submarino kay gitawag nga mga U-Boat. Ang mga Aleman maayo kaayo sa paglawig ug pagpadagan sa ilang mga submarino.,"Cebuano: Ang mga Aleman nga submarino kay gitawag nga mga U-Boat. Ang mga Aleman maayo kaayo sa paglawig ug pagpadagan sa ilang mga submarino. 
@@ -68,7 +78,25 @@ DVD to PDF Converter
 DVD to PDF Converter
 DVD to PDF Converter
 DVD to PDF Converter
-DVD to",Use the following format to convert a DVD to a PDF:
+DVD to","Use the following format to convert a DVD to a PDF:
+DVD to PDF Converter
+DVD to PDF Converter
+DVD to PDF Converter
+DVD to PDF Converter
+DVD to PDF Converter
+DVD to PDF Converter
+DVD to PDF Converter
+DVD to PDF Converter
+DVD to PDF Converter
+DVD to PDF Converter
+DVD to PDF Converter
+DVD to PDF Converter
+DVD to PDF Converter
+DVD to PDF Converter
+DVD to PDF Converter
+DVD to PDF Converter
+DVD to PDF Converter
+DVD to"
 "Sa partikular, giangkon nga ang usa makamatikod kung ang tawo namakak pinaagi sa saktog paghuad sa mga gagmayng pagpahayag.","Cebuano: Sa partikular, giangkon nga ang usa makamatikod kung ang tawo namakak pinaagi sa saktog paghuad sa mga gagmayng pagpahayag. 
 English: The name of the place where the Buddha was buried. The name is derived from the Sanskrit word for ""place of death"", which means ""place of death"". The name is also derived from the Sanskrit word for ""place of death"", which means ""place of death"". The name is also derived from the Sanskrit word for ""place of death"", which means ""place of death"". The name is also derived from the Sanskrit word for ""place of death"", which means","The name is also derived from the Sanskrit word for ""place of death"", which means ""place of death"". The name is also derived from the Sanskrit word for ""place of death"", which means The name of the place where the Buddha was buried. The name is derived from the Sanskrit word for ""place of death"", which means ""place of death""."
 Ang bulawan mahimong mabuhat sa tanang mga matang sa porma. Mahimo kining ilukot aron mahimong gagmay nga mga porma.,"Cebuano: Ang bulawan mahimong mabuhat sa tanang mga matang sa porma. Mahimo kining ilukot aron mahimong gagmay nga mga porma. 
@@ -76,7 +104,7 @@ English: The first time I saw the word ""banana"" was in the book ""Man of the W
 Spanish: La primera vez que vi el nombre de ""banana"" fue en el libro ""El Mundo"".
 Italian: La primera vez que vi el nombre de ""banana"" fue en el libro ""El Mundo"".
 Italian: La primera vez que vi el nombre de ""banana"" fue en el libro ""El Mundo"".
-Italian: La primera vez que vi el nombre de ""ban","The first time I saw the word ""banana"" was in the book ""Man of the World."""
+Italian: La primera vez que vi el nombre de ""ban","Italian: La primera vez que vi el nombre de ""banana"" fue en el libro ""El Mundo"". The first time I saw the word ""banana"" was in the book ""Man of the World."" Spanish: La primera vez que vi el nombre de ""banana"" fue en el libro ""El Mundo"". Italian: La primera vez que vi el nombre de ""ban"
 "Ang sistema sa AI karon kanunay nga gigamit sa mga natad sa ekonomiya, medisina, inhenyeriya ug sa kasundalohang militar, sama sa gibuhat sa daghang kompyuter sa balay ug software application sa video game.","Cebuano: Ang sistema sa AI karon kanunay nga gigamit sa mga natad sa ekonomiya, medisina, inhenyeriya ug sa kasundalohang militar, sama sa gibuhat sa daghang kompyuter sa balay ug software application sa video game. 
 English: The system is not able to work properly in English. The system is not able to work properly in English. The system is not able to work properly in English. The system is not able to work properly in English. The system is not able to work properly in English. The system is not able to work properly in English. The system is not able to work properly in English. The system is not able to work properly in English. The system is not able to work properly in English. The",The system is not able to work properly in English. The
 "Ginahimo gihapon kani karun, apan ang importante kay ang aspect ratio niini kay gikan sa digital camera image sensor nga mga format.","Cebuano: Ginahimo gihapon kani karun, apan ang importante kay ang aspect ratio niini kay gikan sa digital camera image sensor nga mga format. 
@@ -88,10 +116,10 @@ English: The fossil remains of a dinosaur were discovered in the area of the Kul
 "Unsaon pagbira sa kabutaran sa Io sa akoa? Kon mobarog ka sa surface sa Io, mas gaan imong gibug-aton kaysa sa Kalibutan.","Cebuano: Unsaon pagbira sa kabutaran sa Io sa akoa? Kon mobarog ka sa surface sa Io, mas gaan imong gibug-aton kaysa sa Kalibutan. 
 English: Asaon ka sa surface sa Io sa akoa? Kon mobarog ka sa surface sa Io, mas gaan imong gibug-aton kaysa sa Kalibutan. 
 Inglish: Asaon ka sa surface sa Io sa akoa? Kon mobarog ka sa surface sa Io, mas gaan imong gibug-aton kaysa sa Kalibutan. 
-Icelandic (Icelandic): Asaon ka sa surface sa Io sa akoa?","Kon mobarog ka sa surface sa Io, mas gaan imong gibug-aton kaysa sa Kalibutan. Asaon ka sa surface sa Io sa akoa?"
+Icelandic (Icelandic): Asaon ka sa surface sa Io sa akoa?","Icelandic (Icelandic): Asaon ka sa surface sa Io sa akoa? Kon mobarog ka sa surface sa Io, mas gaan imong gibug-aton kaysa sa Kalibutan. Asaon ka sa surface sa Io sa akoa? Inglish: Asaon ka sa surface sa Io sa akoa?"
 Ang NextGen kay usa ka sistema nga giangkon sa FAA nga magtugot sa mga eroplanong makalupad og mas mubong mga ruta ug makatipig og milyon-milyon nga mga galon sa gasolina matag tuig ug mopaubos sa mga karbon nga binuga.,"Cebuano: Ang NextGen kay usa ka sistema nga giangkon sa FAA nga magtugot sa mga eroplanong makalupad og mas mubong mga ruta ug makatipig og milyon-milyon nga mga galon sa gasolina matag tuig ug mopaubos sa mga karbon nga binuga. 
 English: Ang NextGen kay usa ka system nga giangkon sa FAA nga magtugot sa mga eroplanong makalupad og mas mubong mga ruta ug makatipig og milyon-milyon nga mga galon sa gasolina matag tuig ug mopaubos sa mga karbon nga binuga. 
-Ang NextGen kay usa ka system nga giangkon sa FAA nga magtugot sa mga eroplanong makalupad og mas mubong mga",Ang NextGen kay usa ka system nga giangkon sa FAA nga magtugot sa mga eroplanong makalupad og mas mubong mga ruta ug makatipig og milyon-milyon nga mga galon sa gasolina matag tuig ug mopaubos sa mga karbon nga binuga.
+Ang NextGen kay usa ka system nga giangkon sa FAA nga magtugot sa mga eroplanong makalupad og mas mubong mga",Ang NextGen kay usa ka system nga giangkon sa FAA nga magtugot sa mga eroplanong makalupad og mas mubong mga Ang NextGen kay usa ka system nga giangkon sa FAA nga magtugot sa mga eroplanong makalupad og mas mubong mga ruta ug makatipig og milyon-milyon nga mga galon sa gasolina matag tuig ug mopaubos sa mga karbon nga binuga.
 Ang mga datos sa neurobiological naghatag og pisikal nga ebidensya para sa teoretikal nga pamaagi sa pag-imbestiga sa panghunahuna. Busa kini nagpagamay sa panukiduki nga bahin ug gihimo kining mas tukma.,"Cebuano: Ang mga datos sa neurobiological naghatag og pisikal nga ebidensya para sa teoretikal nga pamaagi sa pag-imbestiga sa panghunahuna. Busa kini nagpagamay sa panukiduki nga bahin ug gihimo kining mas tukma. 
 English: The neurobiological basis of the pain syndrome. The pain syndrome is a neurobiological disorder that is characterized by pain, dysesthesia, and dysphagia. The pain syndrome is a neurobiological disorder that is characterized by pain, dysesthesia, and dysphagia. The pain syndrome is a neurobiological disorder that is characterized by pain, dysesthesia, and dysphagia. The pain syndrome is a neurobiological disorder that is characterized by pain, dysesthesia","The pain syndrome is a neurobiological disorder that is characterized by pain, dysesthesia, and dysphagia. The neurobiological basis of the pain syndrome. The pain syndrome is a neurobiological disorder that is characterized by pain, dysesthesia"
 "Sa panahon sa iyang duha ka oras nga pakigpulong gipahayag niya nga ""Karon usabon og imbento sa Apple ang telepono, Maghimo kami kasaysayan karon"".","Cebuano: Sa panahon sa iyang duha ka oras nga pakigpulong gipahayag niya nga ""Karon usabon og imbento sa Apple ang telepono, Maghimo kami kasaysayan karon"". 
@@ -108,10 +136,13 @@ English: The name of the compound is a compound of the following elements:
 Cebuano: Ang duha ka compound ni-react sa matag usa aron moporma og mga kristal nga pwede mobabag sa paggana sa bato, ingon ang mga tagapanukiduki sa unibersidad.
 English: The name of the compound is a compound of the following elements:
 
-Cebuano: Ang duha ka compound ni-react sa matag usa aron mopor",The name of the compound is a compound of the following elements:
+Cebuano: Ang duha ka compound ni-react sa matag usa aron mopor","The name of the compound is a compound of the following elements:
+
+Cebuano: Ang duha ka compound ni-react sa matag usa aron moporma og mga kristal nga pwede mobabag sa paggana sa bato, ingon ang mga tagapanukiduki sa unibersidad."
 Naghatag kini og resolution nga hapit upat kataas kaysa sa 35 mm nga negative (3136 mm2 kontra sa 864).,"Cebuano: Naghatag kini og resolution nga hapit upat kataas kaysa sa 35 mm nga negative (3136 mm2 kontra sa 864). 
 English: The Narrowest Telescope in the World
-The Narrowest Telescope in the World (NTT) adalah sebuah observatory di Jepang yang terletak di Tokyo, Jepang. NTT adalah observatory terbesar di Jepang, dengan luas sekitar 1.000 meter persegi. NTT memiliki panjang sekitar 1.000 meter persegi, dan memiliki antena yang panjang sekitar 1.000 meter persegi. NTT memiliki antena yang panjang sekitar 1.000 meter persegi. NTT memiliki antena yang panjang sekitar 1.000 meter persegi",The Narrowest Telescope in the World
+The Narrowest Telescope in the World (NTT) adalah sebuah observatory di Jepang yang terletak di Tokyo, Jepang. NTT adalah observatory terbesar di Jepang, dengan luas sekitar 1.000 meter persegi. NTT memiliki panjang sekitar 1.000 meter persegi, dan memiliki antena yang panjang sekitar 1.000 meter persegi. NTT memiliki antena yang panjang sekitar 1.000 meter persegi. NTT memiliki antena yang panjang sekitar 1.000 meter persegi","NTT memiliki antena yang panjang sekitar 1.000 meter persegi NTT adalah observatory terbesar di Jepang, dengan luas sekitar 1.000 meter persegi. NTT memiliki panjang sekitar 1.000 meter persegi, dan memiliki antena yang panjang sekitar 1.000 meter persegi. The Narrowest Telescope in the World
+The Narrowest Telescope in the World (NTT) adalah sebuah observatory di Jepang yang terletak di Tokyo, Jepang. NTT memiliki antena yang panjang sekitar 1.000 meter persegi."
 "Salamat sa undersea fiber optic, ang mga kable nakonekta sa Europa ug broadband satellite, ang Greenland konektado pag-ayo sa 93% sa populasyon ang adunay access sa internet.","Cebuano: Salamat sa undersea fiber optic, ang mga kable nakonekta sa Europa ug broadband satellite, ang Greenland konektado pag-ayo sa 93% sa populasyon ang adunay access sa internet. 
 English: The government of the Philippines has announced that it will be installing a satellite in the Philippines to provide broadband access to the island nation. The satellite will be installed at the Philippine National Space Center (PNSC), located in the city of Manila. The satellite will be used to provide internet access to the island nation. The satellite will be installed at the Philippine National Space Center (PNSC), located in the city of Manila. The satellite will be used to provide internet access to the island nation.","The satellite will be used to provide internet access to the island nation. The government of the Philippines has announced that it will be installing a satellite in the Philippines to provide broadband access to the island nation. The satellite will be installed at the Philippine National Space Center (PNSC), located in the city of Manila."
 "Usa sa labing iladong mga app sa kani nga kategorya mao ang Google Translate, diin nagatugot sa paghubad bisan walay internet paghuman og download sa gusto nga datos sa linggwahe.","Cebuano: Usa sa labing iladong mga app sa kani nga kategorya mao ang Google Translate, diin nagatugot sa paghubad bisan walay internet paghuman og download sa gusto nga datos sa linggwahe. 
@@ -120,7 +151,7 @@ English: Use Google Translate to translate your content. You can also use Google
 English: Aduna is now parehas nga istraktura sa molekula bisan pa kon now gas, liquid o solid. 
 Inglish: Aduna is now parehas nga istraktura sa molekula bisan pa kon now gas, liquid o solid. 
 Icelandic (Icelandic): Aduna is now parehas nga istraktura sa molekula bisan pa kon now gas, liquid o solid. 
-Icelandic (Icelandic): Aduna is now","Aduna is now parehas nga istraktura sa molekula bisan pa kon now gas, liquid o solid."
+Icelandic (Icelandic): Aduna is now","Aduna is now parehas nga istraktura sa molekula bisan pa kon now gas, liquid o solid. Icelandic (Icelandic): Aduna is now Inglish: Aduna is now parehas nga istraktura sa molekula bisan pa kon now gas, liquid o solid. Icelandic (Icelandic): Aduna is now parehas nga istraktura sa molekula bisan pa kon now gas, liquid o solid."
 "Nagresulta ang paggamit og video recording sa mga importanteng pagkaplag sa interpretasyon sa ginagmay nga ekspresyon, mga lihok sa nawong nga magdugay lang og pipila ka segundo.","Cebuano: Nagresulta ang paggamit og video recording sa mga importanteng pagkaplag sa interpretasyon sa ginagmay nga ekspresyon, mga lihok sa nawong nga magdugay lang og pipila ka segundo. 
 English: The English version of the article is available at http://www.cambridge.org/core/terms. https://doi.org/10.1017/S0022-0784(2019)003214.",The English version of the article is available at http://www.cambridge.org/core/terms. https://doi.org/10.1017/S0022-0784(2019)003214.
 Nagabuhat ug nagagamit na ang mga tawo og mga lente alang sa pagpadako sa view sa libo-libo nang mga katuigan.,"Cebuano: Nagabuhat ug nagagamit na ang mga tawo og mga lente alang sa pagpadako sa view sa libo-libo nang mga katuigan. 
@@ -136,7 +167,19 @@ The following are the terms used in the English version of this document:
 
 The following are the terms used in the English version of this document:
 
-The following are the terms used in the English version",The following are the terms used in the English version of this document:
+The following are the terms used in the English version","The following are the terms used in the English version of this document:
+
+The following are the terms used in the English version of this document:
+
+The following are the terms used in the English version of this document:
+
+The following are the terms used in the English version of this document:
+
+The following are the terms used in the English version of this document:
+
+The following are the terms used in the English version of this document:
+
+The following are the terms used in the English version"
 "Wala hinuon kini nag-inusara, ang pag-eksperimento, ug ang eksperimento kay usa ka pagsulay nga ginagamit aron wagtangon ang usa o daghang posibilidad nga pagpanaghap, naggiya usab sa siyentipikong panukiduki ang pagpangutana ug paghimo og mga obserbasyon.","Cebuano: Wala hinuon kini nag-inusara, ang pag-eksperimento, ug ang eksperimento kay usa ka pagsulay nga ginagamit aron wagtangon ang usa o daghang posibilidad nga pagpanaghap, naggiya usab sa siyentipikong panukiduki ang pagpangutana ug paghimo og mga obserbasyon. 
 English: The Wala Hinuon is a traditional Japanese traditional medicine. It is used to treat a variety of diseases, including cancer, arthritis, and diabetes. It is also used to treat a variety of other diseases, including arthritis, diabetes, and cancer. It is also used to treat a variety of other diseases, including arthritis, diabetes, and cancer. It is also used to treat a variety of other diseases, including arthritis, diabetes, and cancer. It is also used to treat a variety of","It is used to treat a variety of diseases, including cancer, arthritis, and diabetes. It is also used to treat a variety of other diseases, including arthritis, diabetes, and cancer. The Wala Hinuon is a traditional Japanese traditional medicine. It is also used to treat a variety of"
 "Sa ulahi, ang mga ligid nga kahoy gipulihan sa mga ligid nga puthaw. Niadtong 1767, gipaila ang unang riles nga puro puthaw.","Cebuano: Sa ulahi, ang mga ligid nga kahoy gipulihan sa mga ligid nga puthaw. Niadtong 1767, gipaila ang unang riles nga puro puthaw. 
@@ -148,7 +191,9 @@ English: The Sky is the Same - The Sky is the Same - The Sky is the Same - The S
 Ang asero nga dagom kay makalutaw sa ibabaw sa tubig tungod sa tensyon sa ibabaw.,"Cebuano: Ang asero nga dagom kay makalutaw sa ibabaw sa tubig tungod sa tensyon sa ibabaw. 
 English: The following are the terms used in the English Wikipedia article:
 
-The term ""ang asero"" is used to refer to the angled shape of the body. Ang asero is also used to refer to the shape of the body in the form of a triangle. Ang asero is also used to refer to the shape of the body in the form of a triangle. Ang asero is also used to refer to the shape of the body in the form of a triangle. Ang asero is",The following are the terms used in the English Wikipedia article:
+The term ""ang asero"" is used to refer to the angled shape of the body. Ang asero is also used to refer to the shape of the body in the form of a triangle. Ang asero is also used to refer to the shape of the body in the form of a triangle. Ang asero is also used to refer to the shape of the body in the form of a triangle. Ang asero is","Ang asero is also used to refer to the shape of the body in the form of a triangle. The following are the terms used in the English Wikipedia article:
+
+The term ""ang asero"" is used to refer to the angled shape of the body. Ang asero is"
 "Sa tinuod, ang 35 milimetrong format kay, medyo makalibog, 36 milimetros ang gilapdon ug 24 milimetros ang gitas-on.","Cebuano: Sa tinuod, ang 35 milimetrong format kay, medyo makalibog, 36 milimetros ang gilapdon ug 24 milimetros ang gitas-on. 
 English:  The first edition of the book was published in the United States in the year of the publication of the book in the United Kingdom in the year of the publication of the book in the United States in the year of the publication of the book in the United Kingdom in the year of the publication of the book in the United States in the year of the publication of the book in the United Kingdom in the year of the publication of the book in the United States in the year of the publication of the book",The first edition of the book was published in the United States in the year of the publication of the book in the United Kingdom in the year of the publication of the book in the United States in the year of the publication of the book in the United Kingdom in the year of the publication of the book in the United States in the year of the publication of the book in the United Kingdom in the year of the publication of the book in the United States in the year of the publication of the book
 "Ang mga selyula kay sukaranan ug kritikal sa pagtuon sa kinabuhi, sa matuod lang, kanunay kining ginatawag nga ""mga blokeng igtutukod sa kinabuhi"".","Cebuano: Ang mga selyula kay sukaranan ug kritikal sa pagtuon sa kinabuhi, sa matuod lang, kanunay kining ginatawag nga ""mga blokeng igtutukod sa kinabuhi"". 
@@ -157,7 +202,7 @@ Ang mga provider sa Personal VPN (virtual private network) usa ka maayong pamaag
 English: The provider sa Personal VPN (virtual private network) uses a personal IP geofilter to block IP addresses from being used by political censorship. The IP geofilter is used to block IP addresses from being used by commercial IP geofiltering. The IP geofilter is used to block IP addresses from being used by political censorship. The IP geofilter is used to block IP addresses from being used by political censorship. The IP geofilter is used to block IP addresses from",The IP geofilter is used to block IP addresses from The provider sa Personal VPN (virtual private network) uses a personal IP geofilter to block IP addresses from being used by political censorship. The IP geofilter is used to block IP addresses from being used by political censorship. The IP geofilter is used to block IP addresses from being used by commercial IP geofiltering.
 "Gipadayon sa istasyon ang kinaiya niini, bisan sa pagkawala sa usa ka giroskopyo sa sayong bahin sa misyon sa estasyon sa kawanangan, hangtod sa katapusan sa paglakaw sa kawanangan.","Cebuano: Gipadayon sa istasyon ang kinaiya niini, bisan sa pagkawala sa usa ka giroskopyo sa sayong bahin sa misyon sa estasyon sa kawanangan, hangtod sa katapusan sa paglakaw sa kawanangan. 
 English: Gipadayon sa istasyon ang kinaiya niini, bisan sa pagkawala sa usa ka giroskopyo sa sayong bahin sa misyon sa estasyon sa kawanangan, hangtod sa katapusan sa paglakaw sa kawanangan. 
-Spanish: Gipadayon sa istasyon ang kinaiya niini, bisan sa pagkawala sa usa ka giroskopyo sa sayong bahin sa misyon sa estasyon sa kawanangan","Gipadayon sa istasyon ang kinaiya niini, bisan sa pagkawala sa usa ka giroskopyo sa sayong bahin sa misyon sa estasyon sa kawanangan, hangtod sa katapusan sa paglakaw sa kawanangan."
+Spanish: Gipadayon sa istasyon ang kinaiya niini, bisan sa pagkawala sa usa ka giroskopyo sa sayong bahin sa misyon sa estasyon sa kawanangan","Gipadayon sa istasyon ang kinaiya niini, bisan sa pagkawala sa usa ka giroskopyo sa sayong bahin sa misyon sa estasyon sa kawanangan, hangtod sa katapusan sa paglakaw sa kawanangan. Spanish: Gipadayon sa istasyon ang kinaiya niini, bisan sa pagkawala sa usa ka giroskopyo sa sayong bahin sa misyon sa estasyon sa kawanangan"
 "Ang mga tawo nga ingon ani og huna-huna kay adunay lohikal nga panghuna-huna, makahinumdum og mga pattern, makasulbad og mga problema ug makabuhat og mga siyentipiko nga pagsulay.","Cebuano: Ang mga tawo nga ingon ani og huna-huna kay adunay lohikal nga panghuna-huna, makahinumdum og mga pattern, makasulbad og mga problema ug makabuhat og mga siyentipiko nga pagsulay. 
 English: The problem is that the language is not the same in the two countries. The English language is used in the Philippines, while the Philippine language is used in the United States. The Philippine language is used in the United States, while the English language is used in the Philippines. The Philippine language is used in the United States, while the English language is used in the Philippines. The Philippine language is used in the United States, while the English language is used in the Philippines. The Philippine language is used","The English language is used in the Philippines, while the Philippine language is used in the United States. The Philippine language is used The problem is that the language is not the same in the two countries. The Philippine language is used in the United States, while the English language is used in the Philippines."
 "Ganahan ang mga ocelot mokaon og gagmay nga mga hayop. Mangdakop sila og mga unggoy, bitin, ilaga ug langgam kon mahimo nila. Halos tanang hayop nga ginapangayam sa ocelot kay labing mas gamay niini.","Cebuano: Ganahan ang mga ocelot mokaon og gagmay nga mga hayop. Mangdakop sila og mga unggoy, bitin, ilaga ug langgam kon mahimo nila. Halos tanang hayop nga ginapangayam sa ocelot kay labing mas gamay niini. 
@@ -174,7 +219,13 @@ The following is a list of the most common English words in the article:
 The following is a list of the most common English words in the article:
 The following is a list of the most common English words in the article:
 The following is a list of the most common English words in the article:
-The following is",
+The following is","The following is a list of the most common English words in the article:
+The following is a list of the most common English words in the article:
+The following is a list of the most common English words in the article:
+The following is a list of the most common English words in the article:
+The following is a list of the most common English words in the article:
+The following is a list of the most common English words in the article:
+The following is"
 Naghatag sila og labi nga kalig-on alang sa nagsakay apan mahimong adunay mga kabalaka sa kahilwasan tungod sa potensyal nga ang mga tiil sa nagsakay maipit niini.,"Cebuano: Naghatag sila og labi nga kalig-on alang sa nagsakay apan mahimong adunay mga kabalaka sa kahilwasan tungod sa potensyal nga ang mga tiil sa nagsakay maipit niini. 
 English: The name of the city is Naghatag sila og labi nga kalig-on alang sa nagsakay apan mahimong adunay mga kabalaka sa kahilwasan tungod sa potensyal nga ang mga tiil sa nagsakay maipit niini. English: The name of the city is Naghatag sila og labi nga kalig-on alang sa nagsakay apan mahimong adunay mga kabalaka sa kahil",The name of the city is Naghatag sila og labi nga kalig-on alang sa nagsakay apan mahimong adunay mga kabalaka sa kahilwasan tungod sa potensyal nga ang mga tiil sa nagsakay maipit niini.
 Kadaghanan sa mga talagsaong Baltic nga mga Paglawig naglakip og dugay nga pagpuyo sa St. Petersburg sa Rusya.,"Cebuano: Kadaghanan sa mga talagsaong Baltic nga mga Paglawig naglakip og dugay nga pagpuyo sa St. Petersburg sa Rusya. 
@@ -220,7 +271,31 @@ The English version of the article is
 
 The English version of the article is
 
-The English version of",The English version of the article is
+The English version of","The English version of the article is
+
+The English version of the article is
+
+The English version of the article is
+
+The English version of the article is
+
+The English version of the article is
+
+The English version of the article is
+
+The English version of the article is
+
+The English version of the article is
+
+The English version of the article is
+
+The English version of the article is
+
+The English version of the article is
+
+The English version of the article is
+
+The English version of"
 "Bisan kon kadaghanan sa mga ahensya andam modawat sa mga regular nga pag-book, daghang mga ahente ang naga-pokus sa mga pihong matang sa pagbiyahe ug mga nagkadaiyang badyet o mga destinasyon.","Cebuano: Bisan kon kadaghanan sa mga ahensya andam modawat sa mga regular nga pag-book, daghang mga ahente ang naga-pokus sa mga pihong matang sa pagbiyahe ug mga nagkadaiyang badyet o mga destinasyon. 
 English: The book is a collection of stories about the life of the Buddha. It is a collection of stories about the life of the Buddha. It is a collection of stories about the life of the Buddha. It is a collection of stories about the life of the Buddha. It is a collection of stories about the life of the Buddha. It is a collection of stories about the life of the Buddha. It is a collection of stories about the life of the Buddha. It is a collection of stories about the",It is a collection of stories about the life of the Buddha. The book is a collection of stories about the life of the Buddha. It is a collection of stories about the
 Ang mga magbibyahe mahimong maka-engkuwentro og mga peste sa hayop nga dili sila pamilya sa ilang mga gigikanang rehiyon.,"Cebuano: Ang mga magbibyahe mahimong maka-engkuwentro og mga peste sa hayop nga dili sila pamilya sa ilang mga gigikanang rehiyon. 
@@ -242,7 +317,9 @@ I was a student at the University of California, Berkeley, and I was a member of
 
 I was a student at the University of California, Berkeley, and I was a member of the Berkeley chapter of the National Association of Colleges and Schools of Business.
 
-I was a student at the University of California, Berkeley,",The following is a list of the most common English words that are used in the following sentences:
+I was a student at the University of California, Berkeley,","I was a student at the University of California, Berkeley, The following is a list of the most common English words that are used in the following sentences:
+
+I was a student at the University of California, Berkeley, and I was a member of the Berkeley chapter of the National Association of Colleges and Schools of Business. I was a student at the University of California, Berkeley, and I was a member of the Berkeley chapter of the National Association of Colleges and Schools of Business."
 "Ang mga pamilya nga adunay gagmay nga mga bata posibleng magkinahanglan og dugang pagpangandam, apan ang usa ka adlaw sa gawas dali ra mahimo bisan kauban ang mga masuso ug wala pa magtunghang mga bata.","Cebuano: Ang mga pamilya nga adunay gagmay nga mga bata posibleng magkinahanglan og dugang pagpangandam, apan ang usa ka adlaw sa gawas dali ra mahimo bisan kauban ang mga masuso ug wala pa magtunghang mga bata. 
 English: The Philippines is a small island nation located in the Pacific Ocean, approximately 150 miles (220 km) southwest of the Philippines' capital Manila. It is the largest island nation in the Philippines and the second largest in the archipelago. It is the largest island nation in the archipelago and the second largest in the Philippines. It is the largest island nation in the archipelago and the second largest in the Philippines. It is the largest island nation in the archipelago and the second","It is the largest island nation in the archipelago and the second It is the largest island nation in the archipelago and the second largest in the Philippines. The Philippines is a small island nation located in the Pacific Ocean, approximately 150 miles (220 km) southwest of the Philippines' capital Manila. It is the largest island nation in the Philippines and the second largest in the archipelago."
 "Bisan kinsa nga magmaneho sa hatag-as nga latitude o sa ibabaw sa mga agianan sa bukid kinahanglan nga hunahunaon ang posibilidad sa niyebe, yelo, ug tugnaw nga temperatura.","Cebuano: Bisan kinsa nga magmaneho sa hatag-as nga latitude o sa ibabaw sa mga agianan sa bukid kinahanglan nga hunahunaon ang posibilidad sa niyebe, yelo, ug tugnaw nga temperatura. 
@@ -250,7 +327,7 @@ English: The temperature is below freezing. The temperature is below freezing. T
 "Karon, ang Timbuktu usa ka kabus nga lungsod, apan ang reputasyon niini naghimo niini nga pangdani sa turista, ug kini adunay airport.","Cebuano: Karon, ang Timbuktu usa ka kabus nga lungsod, apan ang reputasyon niini naghimo niini nga pangdani sa turista, ug kini adunay airport. 
 English: Karon, ang Timbuktu uses ka kabus nga lungsod, apan ang reputasyon niini naghimo niini nga pangdani sa turista, ug kini adunay airport. 
 Karon: Karon, ang Timbuktu uses ka kabus nga lungsod, apan ang reputasyon niini naghimo niini nga pangdani sa turista, ug kini adunay airport. 
-Karon: Karon, ang Timbuktu uses ka kabus nga lungsod","Karon, ang Timbuktu uses ka kabus nga lungsod, apan ang reputasyon niini naghimo niini nga pangdani sa turista, ug kini adunay airport."
+Karon: Karon, ang Timbuktu uses ka kabus nga lungsod","Karon, ang Timbuktu uses ka kabus nga lungsod, apan ang reputasyon niini naghimo niini nga pangdani sa turista, ug kini adunay airport. Karon: Karon, ang Timbuktu uses ka kabus nga lungsod, apan ang reputasyon niini naghimo niini nga pangdani sa turista, ug kini adunay airport. Karon: Karon, ang Timbuktu uses ka kabus nga lungsod"
 "Sa panahon sa bagyo sa niyebe, posibleng matagak ang igoigong niyebe sa diyutay ra kaayong panahon nga mahimong makatanggong nimo.","Cebuano: Sa panahon sa bagyo sa niyebe, posibleng matagak ang igoigong niyebe sa diyutay ra kaayong panahon nga mahimong makatanggong nimo. 
 English: The best way to get a good price is to buy the best product. The best product is the one that is the best for you. The best product is the one that is the best for you. The best product is the one that is the best for you. The best product is the one that is the best for you. The best product is the one that is the best for you. The best product is the one that is the best for you. The best product is the one that",The best product is the one that The best product is the one that is the best for you. The best way to get a good price is to buy the best product.
 "Kon gusto ka molupad sa tibuuk kalibutan sa Habagatang Hemisphere, ang kapilian sa paglupad ug destinasyon limitado tungod sa kakuwang sa mga ruta labang sa kadagatan.","Cebuano: Kon gusto ka molupad sa tibuuk kalibutan sa Habagatang Hemisphere, ang kapilian sa paglupad ug destinasyon limitado tungod sa kakuwang sa mga ruta labang sa kadagatan. 
@@ -258,7 +335,7 @@ English: I am sorry, but I am not allowed to speak English. Please speak English
 Kibang: I am sorry, but I am not allowed to speak English. Please speak English in the lobby.
 Kibang: I am sorry, but I am not allowed to speak English. Please speak English in the lobby.
 Kibang: I am sorry, but I am not allowed to speak English. Please speak English in the lobby.
-Kibang: I am sorry,","I am sorry, but I am not allowed to speak English. Please speak English in the lobby."
+Kibang: I am sorry,","Kibang: I am sorry, but I am not allowed to speak English. I am sorry, but I am not allowed to speak English. Please speak English in the lobby. Kibang: I am sorry,"
 "Ang mga airline sama sa Emirates, Etihad Airways, Qatar Airways ug Turkish Airlines labi nga gipalapdan ang ilang mga serbisyo sa Africa, ug nagtanyag og mga koneksyon sa daghang pangunang syudad sa Africa sa mas makakompetensya nga presyo kaysa sa ubang mga airline sa Europa.","Cebuano: Ang mga airline sama sa Emirates, Etihad Airways, Qatar Airways ug Turkish Airlines labi nga gipalapdan ang ilang mga serbisyo sa Africa, ug nagtanyag og mga koneksyon sa daghang pangunang syudad sa Africa sa mas makakompetensya nga presyo kaysa sa ubang mga airline sa Europa. 
 English: The airline is Emirates, Etihad Airways, Qatar Airways, Turkish Airlines, and the airline is Emirates, Etihad Airways, Qatar Airways, and the airline is Emirates, Etihad Airways, Qatar Airways, and the airline is Emirates, Etihad Airways, Qatar Airways, and the airline is Emirates, Etihad Airways, Qatar Airways, and the airline is Emirates, Etihad Airways, Qatar Airways, and the airline is Emirates, Etihad Airways, Qatar Airways, and the airline is Emirates, Et","The airline is Emirates, Etihad Airways, Qatar Airways, Turkish Airlines, and the airline is Emirates, Etihad Airways, Qatar Airways, and the airline is Emirates, Etihad Airways, Qatar Airways, and the airline is Emirates, Etihad Airways, Qatar Airways, and the airline is Emirates, Etihad Airways, Qatar Airways, and the airline is Emirates, Etihad Airways, Qatar Airways, and the airline is Emirates, Etihad Airways, Qatar Airways, and the airline is Emirates, Et"
 "Walay gibutang nga dugang transportasyon ug ang mga tren dili usab mohunong sa Wembley, ug ang pagparking sa awto ug park-and-ride nga mga pasilidad dili magamit ingon sa higayon.","Cebuano: Walay gibutang nga dugang transportasyon ug ang mga tren dili usab mohunong sa Wembley, ug ang pagparking sa awto ug park-and-ride nga mga pasilidad dili magamit ingon sa higayon. 
@@ -275,7 +352,14 @@ define('IN_CEBUANO', 2);
 define('IN_TAX', 3);
 define('IN_CEBUANO', 4);
 define('IN_TAX', 5);
-define('IN_CEBUANO'","The system is not working properly. ""); Please check the system settings."
+define('IN_CEBUANO'","The system is not working properly. Please check the system settings. "");
+define('IN_CEBUANO', 1);
+define('IN_TAX', 1);
+define('IN_CEBUANO', 2);
+define('IN_TAX', 3);
+define('IN_CEBUANO', 4);
+define('IN_TAX', 5);
+define('IN_CEBUANO'"
 "Tungod kay ang mga lugar gamay ra ang populasyon, ug ingon man wala kaayo polusyon busa kanunay nga walay problema, ug mahimo kang malingaw usab sa pagtan-aw sa mga bituon.","Cebuano: Tungod kay ang mga lugar gamay ra ang populasyon, ug ingon man wala kaayo polusyon busa kanunay nga walay problema, ug mahimo kang malingaw usab sa pagtan-aw sa mga bituon. 
 English: The problem is that the government is not able to provide the necessary infrastructure to support the development of the economy. The government is not able to provide the necessary infrastructure to support the development of the economy. The government is not able to provide the necessary infrastructure to support the development of the economy. The government is not able to provide the necessary infrastructure to support the development of the economy. The government is not able to provide the necessary infrastructure to support the development of the economy. The government is not able to",The problem is that the government is not able to provide the necessary infrastructure to support the development of the economy. The government is not able to provide the necessary infrastructure to support the development of the economy. The government is not able to
 Nagkalain-lain sa matag nasod ang mga kinahanglanon ug gastos alang sa bisa ug kini maapektuhan depende sa nasod na imong gigikanan.,"Cebuano: Nagkalain-lain sa matag nasod ang mga kinahanglanon ug gastos alang sa bisa ug kini maapektuhan depende sa nasod na imong gigikanan. 
@@ -305,7 +389,9 @@ English: The Queen Elizabeth II is the first female Prime Minister of the United
 Gipahimug-atan sa gobyerno sa Ireland ang pagpadali sa parliyamentaryong balaod aron matul-id ang sitwasyon.,"Cebuano: Gipahimug-atan sa gobyerno sa Ireland ang pagpadali sa parliyamentaryong balaod aron matul-id ang sitwasyon. 
 English: The Irish Parliamentary Assembly
 
-The Irish Parliamentary Assembly is the legislative body of the Irish Republic. It is the highest legislative body in the country and is the seat of the Irish Parliament. It is the seat of the Irish Parliamentary Assembly, the Irish Parliamentary Council, the Irish Parliamentary Commission, the Irish Parliamentary Commission for the Defence of the Irish Nation, the Irish Parliamentary Commission for the Defence of the Irish Nation, the Irish Parliamentary Commission for the Defence of the Irish Nation,",The Irish Parliamentary Assembly
+The Irish Parliamentary Assembly is the legislative body of the Irish Republic. It is the highest legislative body in the country and is the seat of the Irish Parliament. It is the seat of the Irish Parliamentary Assembly, the Irish Parliamentary Council, the Irish Parliamentary Commission, the Irish Parliamentary Commission for the Defence of the Irish Nation, the Irish Parliamentary Commission for the Defence of the Irish Nation, the Irish Parliamentary Commission for the Defence of the Irish Nation,","It is the highest legislative body in the country and is the seat of the Irish Parliament. The Irish Parliamentary Assembly
+
+The Irish Parliamentary Assembly is the legislative body of the Irish Republic. It is the seat of the Irish Parliamentary Assembly, the Irish Parliamentary Council, the Irish Parliamentary Commission, the Irish Parliamentary Commission for the Defence of the Irish Nation, the Irish Parliamentary Commission for the Defence of the Irish Nation, the Irish Parliamentary Commission for the Defence of the Irish Nation,"
 Ang mga diplomatikong argumento sa rehiyon nagpadayon sa pagdaot sa relasyon taliwala sa Armenia ug Azerbaijan.,"Cebuano: Ang mga diplomatikong argumento sa rehiyon nagpadayon sa pagdaot sa relasyon taliwala sa Armenia ug Azerbaijan. 
 English: The United States has been criticized for its support for the Armenian genocide in Azerbaijan. The United States has also been criticized for its support for the Armenian genocide in Azerbaijan. The United States has also been criticized for its support for the Armenian genocide in Azerbaijan. The United States has also been criticized for its support for the Armenian genocide in Azerbaijan. The United States has also been criticized for its support for the Armenian genocide in Azerbaijan. The United States has also been criticized for its support for the Armenian genocide in Azerbaijan",The United States has also been criticized for its support for the Armenian genocide in Azerbaijan The United States has also been criticized for its support for the Armenian genocide in Azerbaijan. The United States has been criticized for its support for the Armenian genocide in Azerbaijan.
 "Niuyon ang Punong Ministro nga si Stephen Harper nga ipadala ang 'Balaud sa Limpyong Hangin"" sa gobyerno sa komite nga mogikan sa tanang partido aron kini marebyu, sa wala pa ang ikaduhang pagbasa niini, inig human sa 25 minuto nga miting sa Martes kauban ang lider sa NDP nga si Jack Layton sa PMO.","Cebuano: Niuyon ang Punong Ministro nga si Stephen Harper nga ipadala ang 'Balaud sa Limpyong Hangin"" sa gobyerno sa komite nga mogikan sa tanang partido aron kini marebyu, sa wala pa ang ikaduhang pagbasa niini, inig human sa 25 minuto nga miting sa Martes kauban ang lider sa NDP nga si Jack Layton sa PMO. 
@@ -327,7 +413,8 @@ English: The process of the HJR-3 is as follows:
 3. The computer sends the processed image to the user.
 4. The computer sends the processed image to the user.
 5. The computer sends the processed image to the user.
-6. The computer sends the processed",The process of the HJR-3 is as follows:
+6. The computer sends the processed","6. 4. The computer then sends the processed image to the user. 3. 5. The HJR-3 is scanned by a scanner and the scanned image is sent to the computer for processing. The computer sends the processed 2. The computer sends the processed image to the user. The process of the HJR-3 is as follows:
+1."
 "Human kini gidawat sa Kongreso niadtong Hulyo 4, usa ka sinulat sa kamot nga laraw sa kasabotan ang gipirmahan sa Presidente sa Kongreso nga si John Hancock ug Sekretaryo nga si Charles Thomson ang dayon gipadala ngadto sa imprintahanan ni John Dunlap pipila ka bloke ang gilay-on.","Cebuano: Human kini gidawat sa Kongreso niadtong Hulyo 4, usa ka sinulat sa kamot nga laraw sa kasabotan ang gipirmahan sa Presidente sa Kongreso nga si John Hancock ug Sekretaryo nga si Charles Thomson ang dayon gipadala ngadto sa imprintahanan ni John Dunlap pipila ka bloke ang gilay-on. 
 English: The President of the United States of America, John Hancock, has been appointed as the new Secretary of State for Foreign Affairs. He will be responsible for the administration of the United States' foreign policy, including the development of international relations, the defense of the United States' interests, and the maintenance of international peace and security. He will also be responsible for the administration of the United States' foreign policy, including the development of international relations, the defense of the United States' interests, and the","The President of the United States of America, John Hancock, has been appointed as the new Secretary of State for Foreign Affairs. He will also be responsible for the administration of the United States' foreign policy, including the development of international relations, the defense of the United States' interests, and the He will be responsible for the administration of the United States' foreign policy, including the development of international relations, the defense of the United States' interests, and the maintenance of international peace and security."
 "Pagkahuman gyud sa 11:00, ang mga ningprotesta nibabag sa trapiko sa karwaheng nagpadulong sa habagatang bahin sa Whitehall.","Cebuano: Pagkahuman gyud sa 11:00, ang mga ningprotesta nibabag sa trapiko sa karwaheng nagpadulong sa habagatang bahin sa Whitehall. 
@@ -349,7 +436,9 @@ English: The US government has been trying to get the US to stop the US from usi
 "Ang estratehiya napamatud-ang epektibo, pagputol sa mahinungdanong suplay sa militar ug sibilyan, bisan pang kini nga pagbabag nakalapas sa gidawat sa kadaghanang internasyonal nga balaod nga gilansang sa ubay-ubay nga mga internasyonal nga kasabutan sa niaging duha ka siglo.","Cebuano: Ang estratehiya napamatud-ang epektibo, pagputol sa mahinungdanong suplay sa militar ug sibilyan, bisan pang kini nga pagbabag nakalapas sa gidawat sa kadaghanang internasyonal nga balaod nga gilansang sa ubay-ubay nga mga internasyonal nga kasabutan sa niaging duha ka siglo. 
 English: The War of the Philippines
 
-The Philippines is a small island nation in the Pacific Ocean, located in the Philippine Sea. It is the largest island nation in the world, with an area of approximately 1,000 square miles (2,000 km²). The island is located in the Philippine Sea, and is surrounded by the Philippine Islands, the Philippines Islands, and the Philippine Sea Islands. The island is also the largest island nation in the world, with an area of approximately 1,000 square miles",The War of the Philippines
+The Philippines is a small island nation in the Pacific Ocean, located in the Philippine Sea. It is the largest island nation in the world, with an area of approximately 1,000 square miles (2,000 km²). The island is located in the Philippine Sea, and is surrounded by the Philippine Islands, the Philippines Islands, and the Philippine Sea Islands. The island is also the largest island nation in the world, with an area of approximately 1,000 square miles","The island is located in the Philippine Sea, and is surrounded by the Philippine Islands, the Philippines Islands, and the Philippine Sea Islands. The War of the Philippines
+
+The Philippines is a small island nation in the Pacific Ocean, located in the Philippine Sea. It is the largest island nation in the world, with an area of approximately 1,000 square miles (2,000 km²). The island is also the largest island nation in the world, with an area of approximately 1,000 square miles"
 Natukod usab ang mga kalabutan sa ekonomiya taliwala niining duha ka bahin sa Moldova bisan pa sa pagkapakyas sa mga negosasyon sa politika.,"Cebuano: Natukod usab ang mga kalabutan sa ekonomiya taliwala niining duha ka bahin sa Moldova bisan pa sa pagkapakyas sa mga negosasyon sa politika. 
 English: The Economic and Social Commission for Asia and the Pacific (ESCAP) is a regional intergovernmental organization that promotes economic and social development in Asia and the Pacific. The ESCAP is a member of the Economic and Social Commission for Latin America and the Caribbean (ESCALC), the Economic and Social Commission for Western Asia (ESCWA), the Economic and Social Commission for Asia and the Pacific (ESCAP), the Economic and Social Commission for Western Asia (ESCWA), the Economic and Social Commission for Asia and","The Economic and Social Commission for Asia and the Pacific (ESCAP) is a regional intergovernmental organization that promotes economic and social development in Asia and the Pacific. The ESCAP is a member of the Economic and Social Commission for Latin America and the Caribbean (ESCALC), the Economic and Social Commission for Western Asia (ESCWA), the Economic and Social Commission for Asia and the Pacific (ESCAP), the Economic and Social Commission for Western Asia (ESCWA), the Economic and Social Commission for Asia and"
 "Kauban ang pipila ka mga opisyales, gipasaligan niya ang mga lumulupyo sa Texas nga adunay mga lakang nga ginabuhat aron maprotektahan ang kaluwasan sa publiko.","Cebuano: Kauban ang pipila ka mga opisyales, gipasaligan niya ang mga lumulupyo sa Texas nga adunay mga lakang nga ginabuhat aron maprotektahan ang kaluwasan sa publiko. 
@@ -361,7 +450,13 @@ A:
 
 I don't know if this is the right place to ask, but I think the answer is yes. The answer is in the article:
 
-The United States of America is a country that is divided into three regions: the South, the Midwest, and the North. The South is the largest region, with an estimated population of over 1.2 billion. The Midwest is the smallest region, with an estimated population of less than 1.2 billion.",The United States of America
+The United States of America is a country that is divided into three regions: the South, the Midwest, and the North. The South is the largest region, with an estimated population of over 1.2 billion. The Midwest is the smallest region, with an estimated population of less than 1.2 billion.","The Midwest is the smallest region, with an estimated population of less than 1.2 billion. The United States of America
+
+A:
+
+I don't know if this is the right place to ask, but I think the answer is yes. The South is the largest region, with an estimated population of over 1.2 billion. The answer is in the article:
+
+The United States of America is a country that is divided into three regions: the South, the Midwest, and the North."
 "Gikan sa 1,400 ka mga tawong gisurbi sa wala pa ang 2010 nga nasudnong eleksyon, misaka sa 8 ka porsyento ang kadtong nagasupak nga mamahimong republika ang Australia sukad sa 2008.","Cebuano: Gikan sa 1,400 ka mga tawong gisurbi sa wala pa ang 2010 nga nasudnong eleksyon, misaka sa 8 ka porsyento ang kadtong nagasupak nga mamahimong republika ang Australia sukad sa 2008. 
 English: The first known human remains were found in the area of the present-day town of Gikan, in the province of Gikan, in the northwestern part of the island of Sulawesi, Indonesia. The remains were found in the area of the present-day town of Gikan, in the province of Gikan, in the northwestern part of the island of Sulawesi, Indonesia. The remains were found in the area of the present-day town of Gikan, in the province of Gikan, in the","The remains were found in the area of the present-day town of Gikan, in the province of Gikan, in the northwestern part of the island of Sulawesi, Indonesia. The remains were found in the area of the present-day town of Gikan, in the province of Gikan, in the The first known human remains were found in the area of the present-day town of Gikan, in the province of Gikan, in the northwestern part of the island of Sulawesi, Indonesia."
 Giingon sa mga diplomat nga nakakita sila og daghang dili klaro sa konstitusyon sa Afghan aron matino nga dili na kinahanglan ang runoff.,"Cebuano: Giingon sa mga diplomat nga nakakita sila og daghang dili klaro sa konstitusyon sa Afghan aron matino nga dili na kinahanglan ang runoff. 
@@ -377,7 +472,7 @@ Klik pada gambar dibawah ini untuk melihat detailnya.
 Klik pada gambar dibawah ini untuk melihat detailnya.
 Klik pada gambar dibawah ini untuk melihat detailnya.
 Klik pada gambar dibawah ini untuk melihat detailnya.
-Klik pada",Mao na kini ang ikalimang CEP ni Martelly sulod sa upat ka tuig.
+Klik pada",Klik pada gambar dibawah ini untuk melihat detailnya. Mao na kini ang ikalimang CEP ni Martelly sulod sa upat ka tuig. Klik pada
 "Ang Olympic gold medalist mulangoy unta sa 100m ug 200m nga freestyle ug sa tulo ka relay sa Commonwealth Games, apan tungod sa iyang mga reklamo, gidudahan ang iyang kabaskog.","Cebuano: Ang Olympic gold medalist mulangoy unta sa 100m ug 200m nga freestyle ug sa tulo ka relay sa Commonwealth Games, apan tungod sa iyang mga reklamo, gidudahan ang iyang kabaskog. 
 English: Ang Olympic gold medalist mulangoy unta sa 100m ug 200m nga freestyle ug sa tulo ka relay sa Commonwealth Games, apan tungod sa iyang mga reklamo, gidudahan ang iyang kabaskog. 
 English: Ang Olympic gold medalist mulangoy unta sa 100m ug 200m nga freestyle ug sa tulo ka relay sa Commonwealth Games, apan tungod sa iyang mga reklamo, gidudahan ang iyang kabask","Ang Olympic gold medalist mulangoy unta sa 100m ug 200m nga freestyle ug sa tulo ka relay sa Commonwealth Games, apan tungod sa iyang mga reklamo, gidudahan ang iyang kabaskog."
@@ -385,7 +480,7 @@ English: Ang Olympic gold medalist mulangoy unta sa 100m ug 200m nga freestyle u
 English: The Japanese government has announced that the Japanese Olympic Committee will not be able to hold the Tokyo 2020 Games until the end of the year. The decision was made after the Japanese government announced that the Games would be postponed until the end of the year. The decision was made after the Japanese government announced that the Games would be postponed until the end of the year. The decision was made after the Japanese government announced that the Games would be postponed until the end of the year. The decision was made after the Japanese",The decision was made after the Japanese The Japanese government has announced that the Japanese Olympic Committee will not be able to hold the Tokyo 2020 Games until the end of the year. The decision was made after the Japanese government announced that the Games would be postponed until the end of the year.
 "Ang International Olympic Committee mibotar sa pag-apil sa dula sa ilang ehekutibong panagtigum sa hunta sa Berlin karong adlawa. Ang Ragbi, o mas pihong panaghiusa sa ragbi, ug golf ang napili sa lima ka lain pang dula nga gikonsidera nga i-apil sa Olympic.","Cebuano: Ang International Olympic Committee mibotar sa pag-apil sa dula sa ilang ehekutibong panagtigum sa hunta sa Berlin karong adlawa. Ang Ragbi, o mas pihong panaghiusa sa ragbi, ug golf ang napili sa lima ka lain pang dula nga gikonsidera nga i-apil sa Olympic. 
 English: Ang International Olympic Committee mibotar sa pag-apil sa dula sa ilang ehekutibong panagtigum sa hunta sa Berlin karong adlawa. Ang Ragbi, o mas pihong panaghiusa sa ragbi, ug golf ang napili sa lima ka lain pang dula nga gikonsidera nga i-apil sa Olympic. 
-Ang Ragbi, o mas pihong panaghiusa sa ragbi, ug golf ang napili sa","Ang Ragbi, o mas pihong panaghiusa sa ragbi, ug golf ang napili sa lima ka lain pang dula nga gikonsidera nga i-apil sa Olympic. Ang International Olympic Committee mibotar sa pag-apil sa dula sa ilang ehekutibong panagtigum sa hunta sa Berlin karong adlawa."
+Ang Ragbi, o mas pihong panaghiusa sa ragbi, ug golf ang napili sa","Ang Ragbi, o mas pihong panaghiusa sa ragbi, ug golf ang napili sa lima ka lain pang dula nga gikonsidera nga i-apil sa Olympic. Ang Ragbi, o mas pihong panaghiusa sa ragbi, ug golf ang napili sa Ang International Olympic Committee mibotar sa pag-apil sa dula sa ilang ehekutibong panagtigum sa hunta sa Berlin karong adlawa."
 Ang pinakadakong sangka sa tuig mahitabo sa Disyembre sa mga polo field sa Las Cañitas.,"Cebuano: Ang pinakadakong sangka sa tuig mahitabo sa Disyembre sa mga polo field sa Las Cañitas. 
 English: The first time I saw the city of Cebuano was in the early 1900s. I was in the city of Cebuano when I was a kid. I was in the city of Cebuano when I was a kid. I was in the city of Cebuano when I was a kid. I was in the city of Cebuano when I was a kid. I was in the city of Cebuano when I was a kid. I was in the city of Cebuano when I was a kid",I was in the city of Cebuano when I was a kid The first time I saw the city of Cebuano was in the early 1900s. I was in the city of Cebuano when I was a kid.
 "Sukad nga mibalhin sa Catalan-capital, si Vidal nakadula og 49 ka higayon alang sa club.","Cebuano: Sukad nga mibalhin sa Catalan-capital, si Vidal nakadula og 49 ka higayon alang sa club. 
@@ -410,10 +505,11 @@ Korean: ""Est-ce que tu penses?""
 Greek: ""Est-ce que tu penses?""
 Hebrew: ""Est-ce que tu penses?""
 Hebrew: ""Est-ce que tu penses?""
-Hebrew: ""Est-ce que tu penses?""","""So, what do you think?"""
+Hebrew: ""Est-ce que tu penses?""","Korean: ""Est-ce que tu penses?"" French: ""Est-ce que tu penses?"" Spanish: ""¿Tú crees?"" Italian: ""¿Tú crees?"" Japanese: ""Est-ce que tu penses?"" Greek: ""Est-ce que tu penses?"" Hebrew: ""Est-ce que tu penses?"" ""So, what do you think?"""
 Nakahuman sa ikanapulo ug tulo sa Super-G ang tig-iski nga adunay diperensya sa panan-aw nga representante sa mga lalaki sa Poland nga si Maciej Krezel ug giyang si Anna Ogarzynska. Nahuman usab si Jong Seork Park sa South Korea sa baynte sa ikakawhaag-upat sa panlalaking nagtindog nga Super-G.,"Cebuano: Nakahuman sa ikanapulo ug tulo sa Super-G ang tig-iski nga adunay diperensya sa panan-aw nga representante sa mga lalaki sa Poland nga si Maciej Krezel ug giyang si Anna Ogarzynska. Nahuman usab si Jong Seork Park sa South Korea sa baynte sa ikakawhaag-upat sa panlalaking nagtindog nga Super-G. 
 English: Nakahuman sa ikanapulo ug tulo sa Super-G ang tig-iski nga adunay diperensya sa panan-aw nga representante sa mga lalaki sa Poland nga si Maciej Krezel ug giyang si Anna Ogarzynska. Nahuman usab si Jong Seork Park sa South Korea sa baynte sa ikakawhaag-upat sa panlalaking nagtindog nga Super-G. 
-Nakahuman sa ikanapulo ug tulo sa",Nahuman usab si Jong Seork Park sa South Korea sa baynte sa ikakawhaag-upat sa panlalaking nagtindog nga Super-G. Nakahuman sa ikanapulo ug tulo sa Super-G ang tig-iski nga adunay diperensya sa panan-aw nga representante sa mga lalaki sa Poland nga si Maciej Krezel ug giyang si Anna Ogarzynska.
+Nakahuman sa ikanapulo ug tulo sa","Nakahuman sa ikanapulo ug tulo sa Super-G ang tig-iski nga adunay diperensya sa panan-aw nga representante sa mga lalaki sa Poland nga si Maciej Krezel ug giyang si Anna Ogarzynska. Nahuman usab si Jong Seork Park sa South Korea sa baynte sa ikakawhaag-upat sa panlalaking nagtindog nga Super-G. 
+Nakahuman sa ikanapulo ug tulo sa"
 "Alang sa mga balita sa mga torneyo ug kon asa makapalit og mga tiket para sa mga polo match, susiha ang Asociacion Argentina de Polo.","Cebuano: Alang sa mga balita sa mga torneyo ug kon asa makapalit og mga tiket para sa mga polo match, susiha ang Asociacion Argentina de Polo. 
 English: The American Polo Association (AAP) is a professional organization that promotes the professionalization of the sport of polo. The AAP is a member of the American Polo Association (APA), the American Polo Federation (APF), the American Polo Federation (APF), the American Polo Federation (APF), the American Polo Federation (APF), the American Polo Federation (APF), the American Polo Federation (APF), the American Polo Federation (APF), the American Polo Federation (APF),","The AAP is a member of the American Polo Association (APA), the American Polo Federation (APF), the American Polo Federation (APF), the American Polo Federation (APF), the American Polo Federation (APF), the American Polo Federation (APF), the American Polo Federation (APF), the American Polo Federation (APF), the American Polo Federation (APF), The American Polo Association (AAP) is a professional organization that promotes the professionalization of the sport of polo."
 "Ang mga dula gisugdan sa alas 10:00 sa buntag nga adunay maayong panahon, walay apil ang pagtaligsik tunga-tunga sa buntag nga dali nahanaw, kini usa ka hingpit nga adlaw alang sa 7 nga rugby.","Cebuano: Ang mga dula gisugdan sa alas 10:00 sa buntag nga adunay maayong panahon, walay apil ang pagtaligsik tunga-tunga sa buntag nga dali nahanaw, kini usa ka hingpit nga adlaw alang sa 7 nga rugby. 
@@ -426,13 +522,13 @@ Sa mga nindot nga panahon mahimo nimong makuha ang mga halayong distansiya kaysa
 English: The English version of the book is available at the following URL: http://www.amazon.com/ebooks/ebooks/ebooks/ebook_english.html?id=174937&hl=en&id=174937&id=174937&id=174937&id=174937&id=174937&id=174937&id=174937&id=174937&id=174937&id=174937&id=174937&id=174937&id=1749",The English version of the book is available at the following URL: http://www.amazon.com/ebooks/ebooks/ebooks/ebook_english.html?id=174937&hl=en&id=174937&id=174937&id=174937&id=174937&id=174937&id=174937&id=174937&id=174937&id=174937&id=174937&id=174937&id=174937&id=1749
 "Anaa sa ikaduha si Johnson nga adunay 2,243 nga puntos ug pito ka puntos ang biya.","Cebuano: Anaa sa ikaduha si Johnson nga adunay 2,243 nga puntos ug pito ka puntos ang biya. 
 English: Anaa sa ikaduha si Johnson nga adunay 2,243 nga points ug pito ka points ang biya. 
-I am not sure if this is the correct way to write this. I am not sure if this is the correct way to write this. I am not sure if this is the correct way to write this. I am not sure if this is the correct way to write this. I am not sure if this is the correct way to write this. I am not sure if","Anaa sa ikaduha si Johnson nga adunay 2,243 nga points ug pito ka points ang biya."
+I am not sure if this is the correct way to write this. I am not sure if this is the correct way to write this. I am not sure if this is the correct way to write this. I am not sure if this is the correct way to write this. I am not sure if this is the correct way to write this. I am not sure if","Anaa sa ikaduha si Johnson nga adunay 2,243 nga points ug pito ka points ang biya. I am not sure if I am not sure if this is the correct way to write this."
 "Ang kanyoning (o: kanyonering) kay mahitungod sa pag-adto sa ubos sa canyon, nga posibleng uga o puno sa tubig.","Cebuano: Ang kanyoning (o: kanyonering) kay mahitungod sa pag-adto sa ubos sa canyon, nga posibleng uga o puno sa tubig. 
 English: The kay kay (or kay kay) is a traditional kayaking sport in the Philippines. It is a traditional kayaking sport in the Philippines. It is a traditional kayaking sport in the Philippines. It is a traditional kayaking sport in the Philippines. It is a traditional kayaking sport in the Philippines. It is a traditional kayaking sport in the Philippines. It is a traditional kayaking sport in the Philippines. It is a traditional kayaking sport in the Philippines. It is a traditional kay",It is a traditional kayaking sport in the Philippines. The kay kay (or kay kay) is a traditional kayaking sport in the Philippines. It is a traditional kay
 "Si Robin Uthappa ang adunay kinatas-ang puntos sa mga inning, 70 ka dagan sa 41 lamang ka bola pinaagi sa pag-igo sa 11 nga upat ug 2 ka unom.","Cebuano: Si Robin Uthappa ang adunay kinatas-ang puntos sa mga inning, 70 ka dagan sa 41 lamang ka bola pinaagi sa pag-igo sa 11 nga upat ug 2 ka unom. 
 English: If Robin Uthappa ang adunay kinatas-ang points sa mga inning, 70 ka dagan sa 41 lamang ka bola pinaagi sa pag-igo sa 11 nga upat ug 2 ka unom. 
 Inglish: If Robin Uthappa ang adunay kinatas-ang points sa mga inning, 70 ka dagan sa 41 lamang ka bola pinaagi sa pag-igo sa 11 nga upat ug 2 ka unom. 
-Inglish: If Robin","If Robin Uthappa ang adunay kinatas-ang points sa mga inning, 70 ka dagan sa 41 lamang ka bola pinaagi sa pag-igo sa 11 nga upat ug 2 ka unom."
+Inglish: If Robin","Inglish: If Robin Inglish: If Robin Uthappa ang adunay kinatas-ang points sa mga inning, 70 ka dagan sa 41 lamang ka bola pinaagi sa pag-igo sa 11 nga upat ug 2 ka unom. If Robin Uthappa ang adunay kinatas-ang points sa mga inning, 70 ka dagan sa 41 lamang ka bola pinaagi sa pag-igo sa 11 nga upat ug 2 ka unom."
 "Pinakasikat ang mga winter sport sa aminahang mga rehiyon, maong ang mga Italyano makig-indigay sa internasyonal nga dula ug sa Olympics.","Cebuano: Pinakasikat ang mga winter sport sa aminahang mga rehiyon, maong ang mga Italyano makig-indigay sa internasyonal nga dula ug sa Olympics. 
 English: The English version of the game is called the World Cup of Sports. The game is played in the United Kingdom, and is played in the English language. The game is played in the English language. The game is played in the English language. The game is played in the English language. The game is played in the English language. The game is played in the English language. The game is played in the English language. The game is played in the English language. The game is played in the","The game is played in the United Kingdom, and is played in the English language. The English version of the game is called the World Cup of Sports. The game is played in the The game is played in the English language."
 "Nagtapos ang Maroochydore nga una sa listahan, labaw og unom ka puntos sa Noosa nga ikaduha.","Cebuano: Nagtapos ang Maroochydore nga una sa listahan, labaw og unom ka puntos sa Noosa nga ikaduha. 
@@ -458,7 +554,7 @@ English: If Dr. John H. Ur, director of the Canadian Diabetes Association, sa Ha
 "Kini nga mga bata sagad nga makasugamak og daghang problema, tungod kay ""mag-apil sa peligrosong mga buhat, makig-away, ug mohagit sa awtoridad"" aron mapukaw ang ilang utok, tungod kay ang ilang utok dili mapalihok sa mga naandan nga pamaagi.","Cebuano: Kini nga mga bata sagad nga makasugamak og daghang problema, tungod kay ""mag-apil sa peligrosong mga buhat, makig-away, ug mohagit sa awtoridad"" aron mapukaw ang ilang utok, tungod kay ang ilang utok dili mapalihok sa mga naandan nga pamaagi. 
 English:
 The following is a list of the most common mistakes in English. If you have any other mistakes, please let us know.
-1. The word ""be"" is used in the sentence ""be careful"". The word ""be"" is used in the sentence ""be careful"". The word ""be"" is used in the sentence ""be careful"". The word ""be"" is used in the sentence ""be careful"". The word ""be"" is used in the sentence ""be",
+1. The word ""be"" is used in the sentence ""be careful"". The word ""be"" is used in the sentence ""be careful"". The word ""be"" is used in the sentence ""be careful"". The word ""be"" is used in the sentence ""be careful"". The word ""be"" is used in the sentence ""be","The word ""be"" is used in the sentence ""be 1. The following is a list of the most common mistakes in English. The word ""be"" is used in the sentence ""be careful"". If you have any other mistakes, please let us know."
 Mahimong maapektuhan ang mga tawo sa pag-ginhawa sa apektadong tubig nga gidala sa hangin ug mga balod.,"Cebuano: Mahimong maapektuhan ang mga tawo sa pag-ginhawa sa apektadong tubig nga gidala sa hangin ug mga balod. 
 English: The English version of the article is
 
@@ -484,7 +580,31 @@ The English version of the article is
 
 The English version of the article is
 
-The English version of",The English version of the article is
+The English version of","The English version of the article is
+
+The English version of the article is
+
+The English version of the article is
+
+The English version of the article is
+
+The English version of the article is
+
+The English version of the article is
+
+The English version of the article is
+
+The English version of the article is
+
+The English version of the article is
+
+The English version of the article is
+
+The English version of the article is
+
+The English version of the article is
+
+The English version of"
 Ang ubang tawo nagtoo nga ang makasinati ug artipisyal nga pag-aghat sa linaw nga mga damgo kay kasagaran sakto ra nga makapakapoy.,"Cebuano: Ang ubang tawo nagtoo nga ang makasinati ug artipisyal nga pag-aghat sa linaw nga mga damgo kay kasagaran sakto ra nga makapakapoy. 
 English: The following are the terms used in the English version of this article:
 
@@ -498,7 +618,19 @@ The following are the terms used in the English version of this article:
 
 The following are the terms used in the English version of this article:
 
-The following are the terms used in the English version",The following are the terms used in the English version of this article:
+The following are the terms used in the English version","The following are the terms used in the English version of this article:
+
+The following are the terms used in the English version of this article:
+
+The following are the terms used in the English version of this article:
+
+The following are the terms used in the English version of this article:
+
+The following are the terms used in the English version of this article:
+
+The following are the terms used in the English version of this article:
+
+The following are the terms used in the English version"
 Gitambalan ang abaga ni Potro niing puntoha apan nakabalik ra gihapon siya sa dula.,"Cebuano: Gitambalan ang abaga ni Potro niing puntoha apan nakabalik ra gihapon siya sa dula. 
 English: Gitambalan ang abaga ni Potro niing puntoha apan nakabalik ra gihapon siya sa dula.",Gitambalan ang abaga ni Potro niing puntoha apan nakabalik ra gihapon siya sa dula.
 "Dugang pa, kung dili kini mabuhat, adunay peligrosong mga sangpotanan: depresyon sa pagtubo, malnutrisyon, ug sa katapusan kamatayon.","Cebuano: Dugang pa, kung dili kini mabuhat, adunay peligrosong mga sangpotanan: depresyon sa pagtubo, malnutrisyon, ug sa katapusan kamatayon. 
@@ -531,7 +663,9 @@ How many of the following words are correct in the following sentence?
 
 How many of the following words are correct in the following sentence?
 
-How",The English version of this question is
+How","How many of the following words are correct in the following sentence? How The English version of this question is
+
+How many of the following words are correct in the following sentence?"
 "Kon kanus-a naundang ang away kahuman gidala ang mga samaran sa ospital, mga 40 sa uban nga mga nabiling piniriso ang nagpabilin sa nataran ug nagdumili nga mobalik sa ilang mga bilangguan.","Cebuano: Kon kanus-a naundang ang away kahuman gidala ang mga samaran sa ospital, mga 40 sa uban nga mga nabiling piniriso ang nagpabilin sa nataran ug nagdumili nga mobalik sa ilang mga bilangguan. 
 English: The patient is being treated at the hospital. The 40 patients are being treated at the hospital. The 40 patients are being treated at the hospital. The 40 patients are being treated at the hospital. The 40 patients are being treated at the hospital. The 40 patients are being treated at the hospital. The 40 patients are being treated at the hospital. The 40 patients are being treated at the hospital. The 40 patients are being treated at the hospital. The 40 patients are being treated at the hospital. The",The 40 patients are being treated at the hospital. The patient is being treated at the hospital. The
 Ang mga doktor gisugdan sa pagrekluta ni Emapanr Augustus ug gihimo pa ang unang Roman Medical Corps aron magamit pagkahuman sa mga panagsangka.,"Cebuano: Ang mga doktor gisugdan sa pagrekluta ni Emapanr Augustus ug gihimo pa ang unang Roman Medical Corps aron magamit pagkahuman sa mga panagsangka. 
@@ -544,14 +678,17 @@ Nigerian: ""At the end of the day, we are not afraid of the day.""
 Nigeria: ""At the end of the day, we are not afraid of the day."" 
 Nigeria: ""At the end of the day, we are not afraid of the day."" 
 Nigeria: ""At the end of the day, we are not afraid of the day."" 
-","""At the end of the day, we are not afraid of the day."""
+","Nigerian: ""At the end of the day, we are not afraid of the day."" ""At the end of the day, we are not afraid of the day."" Nigeria: ""At the end of the day, we are not afraid of the day."""
 "Ang pagkahilo sa sulod tingali dili dayon makita. Ang mga simtomas, sama sa pagsukasuka kay kasagarang gakahitabo mao nga ang dinaliang pangagpas sa sakit dili mahimo.","Cebuano: Ang pagkahilo sa sulod tingali dili dayon makita. Ang mga simtomas, sama sa pagsukasuka kay kasagarang gakahitabo mao nga ang dinaliang pangagpas sa sakit dili mahimo. 
 English: Ang pagsukasuka kay kasagarang gakahitabo mao nga ang dinaliang pangagpas sa sakit dili mahimo. Ang mga simtomas, sama sa pagsukasuka kay kasagarang gakahitabo mao nga ang dinaliang pangagpas sa sakit dili mahimo. Ang mga simtomas, sama sa pagsukasuka kay kasagarang gakahitabo mao nga ang dinaliang pangagpas sa sakit d","Ang mga simtomas, sama sa pagsukasuka kay kasagarang gakahitabo mao nga ang dinaliang pangagpas sa sakit d Ang mga simtomas, sama sa pagsukasuka kay kasagarang gakahitabo mao nga ang dinaliang pangagpas sa sakit dili mahimo. Ang pagsukasuka kay kasagarang gakahitabo mao nga ang dinaliang pangagpas sa sakit dili mahimo."
 "Ingon usa ka sangputanan, ang mga nagpasundayag nagsigarilyo og marijuana sa entablado, ug ang teatro mismo ang nagdasig sa mga tumatan-aw nga moapil.","Cebuano: Ingon usa ka sangputanan, ang mga nagpasundayag nagsigarilyo og marijuana sa entablado, ug ang teatro mismo ang nagdasig sa mga tumatan-aw nga moapil. 
 English: The English version of the book is available at the following URL: http://www.cebuano.com/english/english.html
 The English version of the book is available at the following URL: http://www.cebuano.com/english/english.html
 The English version of the book is available at the following URL: http://www.cebuano.com/english/english.html
-The English version of the book is available at the following URL: http://www.cebuano.com/english/",The English version of the book is available at the following URL: http://www.cebuano.com/english/english.html
+The English version of the book is available at the following URL: http://www.cebuano.com/english/","The English version of the book is available at the following URL: http://www.cebuano.com/english/english.html
+The English version of the book is available at the following URL: http://www.cebuano.com/english/english.html
+The English version of the book is available at the following URL: http://www.cebuano.com/english/english.html
+The English version of the book is available at the following URL: http://www.cebuano.com/english/"
 Gikansela sa Aerosmith ang ilang mga nahibiling mga konserto sa ilang panaw.,"Cebuano: Gikansela sa Aerosmith ang ilang mga nahibiling mga konserto sa ilang panaw. 
 English: The Aerosmith band is a band of rock and roll music. The band was founded in the late 1970s by the late drummer and guitarist, Gikansela Sa Aerosmith. The band was formed by Sa Aerosmith, who was a member of the band's first album, The Aerosmith (1970). The band was formed in the late 1970s by the late drummer and guitarist, Gikansela Sa Aerosmith. The band was formed in the","The band was formed in the The band was founded in the late 1970s by the late drummer and guitarist, Gikansela Sa Aerosmith. The band was formed in the late 1970s by the late drummer and guitarist, Gikansela Sa Aerosmith. The band was formed by Sa Aerosmith, who was a member of the band's first album, The Aerosmith (1970). The Aerosmith band is a band of rock and roll music."
 Kon gusto kang mahiduol sa kalihokan kinahanglan nimong moadto og sayo aron makakuha og pwesto sa kampinganan nga duol sa musika.,"Cebuano: Kon gusto kang mahiduol sa kalihokan kinahanglan nimong moadto og sayo aron makakuha og pwesto sa kampinganan nga duol sa musika. 
@@ -580,7 +717,10 @@ English: The Sphinx is a beautiful sculpture of the Sphinx, a goddess of the sea
 English: The following is a list of the most common English words that are used in the Philippines:
 
 Bingo
-Bingo is a game of cards played in the Philippines. It is played in the Philippines by the Philippine government and is played in the Philippines by the Philippine government and is played in the Philippines by the Philippine government and is played in the Philippines by the Philippine government and is played in the Philippines by the Philippine government and is played in the Philippines by the Philippine government and is played in the Philippines",The following is a list of the most common English words that are used in the Philippines:
+Bingo is a game of cards played in the Philippines. It is played in the Philippines by the Philippine government and is played in the Philippines by the Philippine government and is played in the Philippines by the Philippine government and is played in the Philippines by the Philippine government and is played in the Philippines by the Philippine government and is played in the Philippines by the Philippine government and is played in the Philippines","It is played in the Philippines by the Philippine government and is played in the Philippines by the Philippine government and is played in the Philippines by the Philippine government and is played in the Philippines by the Philippine government and is played in the Philippines by the Philippine government and is played in the Philippines by the Philippine government and is played in the Philippines The following is a list of the most common English words that are used in the Philippines:
+
+Bingo
+Bingo is a game of cards played in the Philippines."
 "Nagtaho na sa Ingles ug Hapon, ang organisasyon sa kalibutan naglansad og Kinatsila, Italyano, ug Koreanong sinultian nga mga programa, alang sa telebisyon, sa web, ug mga mobile device.","Cebuano: Nagtaho na sa Ingles ug Hapon, ang organisasyon sa kalibutan naglansad og Kinatsila, Italyano, ug Koreanong sinultian nga mga programa, alang sa telebisyon, sa web, ug mga mobile device. 
 English: The English version of the website is available at http://www.cebuano.com/english/. The English version of the website is available at http://www.cebuano.com/english/. The English version of the website is available at http://www.cebuano.com/english/. The English version of the website is available at http://www.cebuano.com/english/. The English version of the website is available at http://www.cebuano.com/english/.",The English version of the website is available at http://www.cebuano.com/english/.
 "Sa wala pa The Simpsons, nagtrabaho na si Simon sa daghang mga programa nga lain-lain ang posisyon.","Cebuano: Sa wala pa The Simpsons, nagtrabaho na si Simon sa daghang mga programa nga lain-lain ang posisyon. 
@@ -588,12 +728,12 @@ English: The Simpsons, nagtrabaho na si Simon sa daghang mga programa nga lain-l
 Gitugutan niini ang pagkontrol sa mga player sa mga aksyon ug paglihok sa mga video game pinaagi sa paglihok sa gadyet sa hangin.,"Cebuano: Gitugutan niini ang pagkontrol sa mga player sa mga aksyon ug paglihok sa mga video game pinaagi sa paglihok sa gadyet sa hangin. 
 English: Gitugutan niini ang pagkontrol sa mga player sa mga aksyon ug paglihok sa mga video game pinaagi sa paglihok sa gadyet sa hangin. 
 Inglish: Gitugutan niini ang pagkontrol sa mga player sa mga aksyon ug paglihok sa mga video game pinaagi sa paglihok sa gadyet sa hangin. 
-Inglish: Gitugutan niini ang pagkontrol sa",Gitugutan niini ang pagkontrol sa mga player sa mga aksyon ug paglihok sa mga video game pinaagi sa paglihok sa gadyet sa hangin.
+Inglish: Gitugutan niini ang pagkontrol sa",Inglish: Gitugutan niini ang pagkontrol sa Inglish: Gitugutan niini ang pagkontrol sa mga player sa mga aksyon ug paglihok sa mga video game pinaagi sa paglihok sa gadyet sa hangin. Gitugutan niini ang pagkontrol sa mga player sa mga aksyon ug paglihok sa mga video game pinaagi sa paglihok sa gadyet sa hangin.
 "Dili muobos sa 100 ka mga tawo ang mitambong sa party, aron saulogon ang unang anibersaryo sa usa ka magtiayon kinsang kasal gipahigayon sa miaging tuig.","Cebuano: Dili muobos sa 100 ka mga tawo ang mitambong sa party, aron saulogon ang unang anibersaryo sa usa ka magtiayon kinsang kasal gipahigayon sa miaging tuig. 
 English: The first person singular of the verb to be used as a noun is the subject of the sentence. The verb to be used as a noun is the subject of the sentence. The verb to be used as a noun is the subject of the sentence. The verb to be used as a noun is the subject of the sentence. The verb to be used as a noun is the subject of the sentence. The verb to be used as a noun is the subject of the sentence. The verb to be used",The first person singular of the verb to be used as a noun is the subject of the sentence. The verb to be used as a noun is the subject of the sentence. The verb to be used
 "Ang duha ka mga kanta gikan sa salida, Audition (The Fools Who Dream) ug City of Stars, nakadawat og nominasyon alang sa pinakamaayong orihinal nga kanta. Ang estudyo sa Lionsgate nakadawat og 26 ka nga mga nominasyon — mas labaw pa sa bisan unsa nga estudyo.","Cebuano: Ang duha ka mga kanta gikan sa salida, Audition (The Fools Who Dream) ug City of Stars, nakadawat og nominasyon alang sa pinakamaayong orihinal nga kanta. Ang estudyo sa Lionsgate nakadawat og 26 ka nga mga nominasyon — mas labaw pa sa bisan unsa nga estudyo. 
 English: Ang duha ka mga kanta gikan sa salida, Audition (The Fools Who Dream) ug City of Stars, nakadawat og nominasyon alang sa pinakamaayong orihinal nga kanta. Ang estudyo sa Lionsgate nakadawat og 26 ka nga mga nominasyon — mas labaw pa sa bisan unsa nga estudyo. 
-Ang duha ka mga kanta gikan sa salida, Audition (The Fools Who Dream) ug","Ang duha ka mga kanta gikan sa salida, Audition (The Fools Who Dream) ug City of Stars, nakadawat og nominasyon alang sa pinakamaayong orihinal nga kanta. Ang estudyo sa Lionsgate nakadawat og 26 ka nga mga nominasyon — mas labaw pa sa bisan unsa nga estudyo."
+Ang duha ka mga kanta gikan sa salida, Audition (The Fools Who Dream) ug","Ang duha ka mga kanta gikan sa salida, Audition (The Fools Who Dream) ug City of Stars, nakadawat og nominasyon alang sa pinakamaayong orihinal nga kanta. Ang duha ka mga kanta gikan sa salida, Audition (The Fools Who Dream) ug Ang estudyo sa Lionsgate nakadawat og 26 ka nga mga nominasyon — mas labaw pa sa bisan unsa nga estudyo."
 Ang crust kay mga 70 kilometros ang gibag-on sa duol nga kilid ug 100 kilometros ang gibag-on sa halayong kilid.,"Cebuano: Ang crust kay mga 70 kilometros ang gibag-on sa duol nga kilid ug 100 kilometros ang gibag-on sa halayong kilid. 
 English: Ang kiliang mga 70 kilometros ang gibag-on sa duol nga kilid ug 100 kilometros ang gibag-on sa halayong kilid. Ang kiliang mga 70 kilometros ang gibag-on sa duol nga kilid ug 100 kilometros ang gibag-on sa halayong kilid. Ang kiliang mga 70 kilometros ang gibag-on sa duol nga kilid ug 100 kilometros ang gibag-on sa halayong kilid. Ang",Ang kiliang mga 70 kilometros ang gibag-on sa duol nga kilid ug 100 kilometros ang gibag-on sa halayong kilid. Ang
 "Sa layo nga habagatan anaa ang Niagara Falls, ug sa amihan makita ang natural na kagwapa sa Muskoka ug uban pa.","Cebuano: Sa layo nga habagatan anaa ang Niagara Falls, ug sa amihan makita ang natural na kagwapa sa Muskoka ug uban pa. 
@@ -612,12 +752,12 @@ English: The following is a list of the most common mistakes in English. If you 
 English: Karon, alang na sad sa Japan. Ang Japan usa ka isla nga nasod, sama sa Britanya. 
 Karon: Karon, alang na sad sa Japan. Ang Japan usa ka isla nga nasod, sama sa Britanya. 
 Karon: Karon, alang na sad sa Japan. Ang Japan usa ka isla nga nasod, sama sa Britanya. 
-Karon: Karon, alang na sad sa Japan. Ang Japan usa ka isla nga nasod,","Ang Japan usa ka isla nga nasod, sama sa Britanya. Karon, alang na sad sa Japan."
+Karon: Karon, alang na sad sa Japan. Ang Japan usa ka isla nga nasod,","Ang Japan usa ka isla nga nasod, sama sa Britanya. Ang Japan usa ka isla nga nasod, Karon, alang na sad sa Japan. Karon: Karon, alang na sad sa Japan."
 "Sa pinakataas niini, ang Tropical Cyclone Gonu, ginganlan alang sa usa ka bag nga dahon sa palma sa pinulongan sa Maldives, nakaabot sa padayon nga hangin sa 240 kilometros matag oras (149 milya matag oras).","Cebuano: Sa pinakataas niini, ang Tropical Cyclone Gonu, ginganlan alang sa usa ka bag nga dahon sa palma sa pinulongan sa Maldives, nakaabot sa padayon nga hangin sa 240 kilometros matag oras (149 milya matag oras). 
 English: The tropical cyclone Gonu, which has hit the Maldives, has killed at least four people and injured at least 100. The cyclone, which is expected to continue for the next few days, is expected to reach the Maldives by the evening. The cyclone is expected to be the second tropical cyclone to hit the Maldives since the cyclone that hit the Maldives in December last year. The cyclone is expected to be the second tropical cyclone to hit the Maldives since the cyclone that hit the Maldives in December last year.","The tropical cyclone Gonu, which has hit the Maldives, has killed at least four people and injured at least 100. The cyclone is expected to be the second tropical cyclone to hit the Maldives since the cyclone that hit the Maldives in December last year. The cyclone, which is expected to continue for the next few days, is expected to reach the Maldives by the evening."
 "Ang lugar sa Turkey, apil ang mga lanaw naglangkob sa 783,562 kilometro kwadrado (300,948 sq mi), diin 755,688 kilometro kwadrado anaa sa habagatang kasadpan sa Asya ug 23,764 kilometro kwadrado (9,174 sq mi) sa Europa.","Cebuano: Ang lugar sa Turkey, apil ang mga lanaw naglangkob sa 783,562 kilometro kwadrado (300,948 sq mi), diin 755,688 kilometro kwadrado anaa sa habagatang kasadpan sa Asya ug 23,764 kilometro kwadrado (9,174 sq mi) sa Europa. 
 English: Ang place sa Turkey, apil ang mga lanaw naglangkob sa 783,562 kilometro kwadrado (300,948 sq mi), diin 755,688 kilometro kwadrado anaa sa habagatang kasadpan sa Asya ug 23,764 kilometro kwadrado (9,174 sq mi) sa Europa. 
-Italian: Ang place sa Turkey, apil ang mga lanaw naglangkob sa 783,562 kilometro kwadrado (300,948 sq","Ang place sa Turkey, apil ang mga lanaw naglangkob sa 783,562 kilometro kwadrado (300,948 sq mi), diin 755,688 kilometro kwadrado anaa sa habagatang kasadpan sa Asya ug 23,764 kilometro kwadrado (9,174 sq mi) sa Europa."
+Italian: Ang place sa Turkey, apil ang mga lanaw naglangkob sa 783,562 kilometro kwadrado (300,948 sq","Italian: Ang place sa Turkey, apil ang mga lanaw naglangkob sa 783,562 kilometro kwadrado (300,948 sq Ang place sa Turkey, apil ang mga lanaw naglangkob sa 783,562 kilometro kwadrado (300,948 sq mi), diin 755,688 kilometro kwadrado anaa sa habagatang kasadpan sa Asya ug 23,764 kilometro kwadrado (9,174 sq mi) sa Europa."
 "Ang South Shetland Islands, nga nadiskubre niadtong 1819, kay giangkon sa daghang nasod ug anaay pinakadaghang base, kon asa desisayis ang aktibo niadtong 2020.","Cebuano: Ang South Shetland Islands, nga nadiskubre niadtong 1819, kay giangkon sa daghang nasod ug anaay pinakadaghang base, kon asa desisayis ang aktibo niadtong 2020. 
 English: Ang South Shetland Islands, nga nadiskubre niadtong 1819, kay giangkon sa daghang nasod ug anaay pinakadaghang base, kon asa desisayis ang aktibo niadtong 2020.","Ang South Shetland Islands, nga nadiskubre niadtong 1819, kay giangkon sa daghang nasod ug anaay pinakadaghang base, kon asa desisayis ang aktibo niadtong 2020."
 "Ang Apia ang kapital sa Samoa. Kining lungsora naa sa isla sa Upolu ug adunay populasyon nga ubos ra sa 40,000.","Cebuano: Ang Apia ang kapital sa Samoa. Kining lungsora naa sa isla sa Upolu ug adunay populasyon nga ubos ra sa 40,000. 

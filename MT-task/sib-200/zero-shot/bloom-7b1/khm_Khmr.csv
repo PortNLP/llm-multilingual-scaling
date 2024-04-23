@@ -8,7 +8,7 @@ English: The nucleus is from the center of the cell and is the most important pa
 French: Le noyau est de la cellule et est le plus important de la cellule.
 Italian: Il nucleo è di la cellule e è il più importante della cellule.
 Polish: Nucleo jest z własnymi celami i jest najlepszym elementem celu.
-Russian: Нуклеопроцессор является центром с",The nucleus is from the center of the cell and is the most important part of the cell.
+Russian: Нуклеопроцессор является центром с",French: Le noyau est de la cellule et est le plus important de la cellule. Russian: Нуклеопроцессор является центром с Italian: Il nucleo è di la cellule e è il più importante della cellule. Polish: Nucleo jest z własnymi celami i jest najlepszym elementem celu. The nucleus is from the center of the cell and is the most important part of the cell.
 ការនេះបានធ្វើឱ្យលែនពង្រីកនៃម៉ាស៊ីនថត ថតបាននូវរូបភាពដែលមានគុណភាពល្អបើធៀបទៅនឹងរូបថតដែលបានថតដោយប្រើម៉ាស៊ីនថតដែលគ្មានលែនពង្រីក។,"Khmer: ការនេះបានធ្វើឱ្យលែនពង្រីកនៃម៉ាស៊ីនថត ថតបាននូវរូបភាពដែលមានគុណភាពល្អបើធៀបទៅនឹងរូបថតដែលបានថតដោយប្រើម៉ាស៊ីនថតដែលគ្មានលែនពង្រីក។ 
 English: This is a list of the most popular websites in Cambodia. The websites are ranked by the number of hits they receive. The websites are sorted by the number of hits they receive. The websites are sorted by the number of hits they receive. The websites are sorted by the number of hits they receive. The websites are sorted by the number of hits they receive. The websites are sorted by the number of hits they receive. The websites are sorted by the number of hits they receive. The websites are sorted",This is a list of the most popular websites in Cambodia. The websites are sorted by the number of hits they receive. The websites are sorted The websites are ranked by the number of hits they receive.
 ពួកវាមានលក្ខណៈលើសពីសេវាប្រហ្គស៊ី (proxies) របស់គេហទំព័រដោយសារមូលហេតុមួយចំនួន៖ ពួកវារៀបចំបណ្តាយផ្លូវអ៊ីនធឺណិតឡើងវិញ មិនត្រឹមតែបណ្តាញ http តែមួយនោះទេ។,"Khmer: ពួកវាមានលក្ខណៈលើសពីសេវាប្រហ្គស៊ី (proxies) របស់គេហទំព័រដោយសារមូលហេតុមួយចំនួន៖ ពួកវារៀបចំបណ្តាយផ្លូវអ៊ីនធឺណិតឡើងវិញ មិនត្រឹមតែបណ្តាញ http តែមួយនោះទេ។ 
@@ -17,7 +17,12 @@ http://example.com/
 http://example.com/foo/bar/
 http://example.com/foo/bar/foo/
 http://example.com/foo/bar/foo/bar/
-http://example.com/foo/bar/foo/bar/foo/bar/foo/bar/foo/bar/foo/bar/foo/bar/foo/bar/foo/bar/foo/bar/foo/bar",The following proxies are configured to handle requests for the following URLs:
+http://example.com/foo/bar/foo/bar/foo/bar/foo/bar/foo/bar/foo/bar/foo/bar/foo/bar/foo/bar/foo/bar/foo/bar","The following proxies are configured to handle requests for the following URLs:
+http://example.com/
+http://example.com/foo/bar/
+http://example.com/foo/bar/foo/
+http://example.com/foo/bar/foo/bar/
+http://example.com/foo/bar/foo/bar/foo/bar/foo/bar/foo/bar/foo/bar/foo/bar/foo/bar/foo/bar/foo/bar/foo/bar"
 ការ​រចនា​អន្តរកម្ម​ទាមទារ​ឱ្យ​អ្នក​វាយតម្លៃ​ការ​សន្មត​របស់​អ្នក​ឡើង​វិញ​អំពី​ការផលិត​ប្រព័ន្ធ​ផ្សព្វផ្សាយ និង​រៀន​គិត​ក្នុង​របៀប​ដែល​មិនមែន​កើត​ឡើង​ជា​ប្រក្រតី។,"Khmer: ការ​រចនា​អន្តរកម្ម​ទាមទារ​ឱ្យ​អ្នក​វាយតម្លៃ​ការ​សន្មត​របស់​អ្នក​ឡើង​វិញ​អំពី​ការផលិត​ប្រព័ន្ធ​ផ្សព្វផ្សាយ និង​រៀន​គិត​ក្នុង​របៀប​ដែល​មិនមែន​កើត​ឡើង​ជា​ប្រក្រតី។ 
 English: You can use the following commands to change your name and avatar: 
 Commands: 
@@ -32,12 +37,25 @@ Commands:
 /setname <newname>
 /setavatar <newavatar>
 /setname <newname>
-/",You can use the following commands to change your name and avatar:
+/","You can use the following commands to change your name and avatar: 
+Commands: 
+/setname <newname>
+/setavatar <newavatar>
+/setname <newname>
+/setavatar <newavatar>
+/setname <newname>
+/setavatar <newavatar>
+/setname <newname>
+/setavatar <newavatar>
+/setname <newname>
+/setavatar <newavatar>
+/setname <newname>
+/"
 នេះបានក្លាយជាទម្លាប់ធម្មតាប៉ុន្តែដែកបានបំផ្លាញដោយវាជ្រេសស៊ីកង់ឈើរបស់រទេះ។,"Khmer: នេះបានក្លាយជាទម្លាប់ធម្មតាប៉ុន្តែដែកបានបំផ្លាញដោយវាជ្រេសស៊ីកង់ឈើរបស់រទេះ។ 
 English: This is the answer to the question that you asked. You have to answer the question again.
 French: Cette réponse est la bonne réponse à la question que vous avez posée. Vous devez répondre à la question une nouvelle fois.
 Italian: Questa risposta è la buona risposta alla domanda che hai fatto. Hai bisogno di rispondere alla domanda una nuova volta.
-Polish: Tę odpowiedź jest odpowiedź zadania, k",You have to answer the question again. This is the answer to the question that you asked.
+Polish: Tę odpowiedź jest odpowiedź zadania, k","French: Cette réponse est la bonne réponse à la question que vous avez posée. Vous devez répondre à la question une nouvelle fois. Polish: Tę odpowiedź jest odpowiedź zadania, k Hai bisogno di rispondere alla domanda una nuova volta. You have to answer the question again. This is the answer to the question that you asked. Italian: Questa risposta è la buona risposta alla domanda che hai fatto."
 មួយក្រុមគ្រួសារសត្វត្រូវបានបង្កើតឡើងដោយមានសមាជិកសត្វឈ្មោលពេញវ័យដែលមានទំនាក់ទំនងនឹងគ្នាពីមួយទៅបីក្បាលរួមជាមួយសត្វញីនិងកូនតូចរបស់វាចំនួនសាមសិបក្បាល។,"Khmer: មួយក្រុមគ្រួសារសត្វត្រូវបានបង្កើតឡើងដោយមានសមាជិកសត្វឈ្មោលពេញវ័យដែលមានទំនាក់ទំនងនឹងគ្នាពីមួយទៅបីក្បាលរួមជាមួយសត្វញីនិងកូនតូចរបស់វាចំនួនសាមសិបក្បាល។ 
 English: A list of all the possible combinations of the following parameters has been created. The list is sorted by the number of possible combinations. The first entry is the number of possible combinations for the given parameter. The second entry is the number of possible combinations for the given parameter with the given value. The third entry is the number of possible combinations for the given parameter with the given value and the given parameter. The fourth entry is the number of possible combinations for the given parameter with the given value and the given",The first entry is the number of possible combinations for the given parameter. The second entry is the number of possible combinations for the given parameter with the given value. The third entry is the number of possible combinations for the given parameter with the given value and the given parameter. The fourth entry is the number of possible combinations for the given parameter with the given value and the given The list is sorted by the number of possible combinations. A list of all the possible combinations of the following parameters has been created.
 បើ​ទោះ​បី​ជា​ AI មាន​ការកំណត់​ន័យ​ខ្លាំងទៅ​លើ​ប្រលោម​លោក​វិទ្យាសាស្រ្ត​ក៏​ពិត​មែន​ ក៏​ប៉ុន្តែ​ AI បង្កើត​បាន​ជា​មែក​ធាង​យ៉ាង​សំខាន់មួយ​នៅ​ក្នុងផ្នែក​វិទ្យាសាស្រ្តកុំព្យូទ័រ​ ដោយ​ធ្វើ​ការ​សិក្សា​ពី​ការ​សម្របសម្រួល​ដល់​ផ្នែក​អាកប្បកិរិយា ការ​សិក្សា​រៀន​សូត្រ​ និង​បញ្ញាញាណ​នៅ​ក្នុង​ម៉ាស៊ីន​។,"Khmer: បើ​ទោះ​បី​ជា​ AI មាន​ការកំណត់​ន័យ​ខ្លាំងទៅ​លើ​ប្រលោម​លោក​វិទ្យាសាស្រ្ត​ក៏​ពិត​មែន​ ក៏​ប៉ុន្តែ​ AI បង្កើត​បាន​ជា​មែក​ធាង​យ៉ាង​សំខាន់មួយ​នៅ​ក្នុងផ្នែក​វិទ្យាសាស្រ្តកុំព្យូទ័រ​ ដោយ​ធ្វើ​ការ​សិក្សា​ពី​ការ​សម្របសម្រួល​ដល់​ផ្នែក​អាកប្បកិរិយា ការ​សិក្សា​រៀន​សូត្រ​ និង​បញ្ញាញាណ​នៅ​ក្នុង​ម៉ាស៊ីន​។ 
@@ -48,7 +66,7 @@ English: The number of people who have been vaccinated against polio in Cambodia
 English: You can use the search box to find the answer to the question. If you don't know the answer, you can use the search box to find the answer. If you don't know the answer, you can use the search box to find the answer. If you don't know the answer, you can use the search box to find the answer. If you don't know the answer, you can use the search box to find the answer. If you don't know the answer, you can use the search box to","If you don't know the answer, you can use the search box to You can use the search box to find the answer to the question. If you don't know the answer, you can use the search box to find the answer."
 ទោះបីជាផ្លូវរទេះក្រាល​ឈើ​ ​មានតែបន្ទះក្ដារដាក់​ស្របគ្នាក៏ដោយ ​ក៏ផ្លូវ​នេះ​អាចឱ្យសេះអូសទាញ​បាន​ក្នុង​​ល្បឿនលឿនជាងមុន និងអាចទាញ​របស់​ធ្ងន់​ៗបានប្រសើរ​ជាង​​​ផ្លូវ​រដឹបរដុបនៅសម័យ​ទោះ​ដែរ​។,"Khmer: ទោះបីជាផ្លូវរទេះក្រាល​ឈើ​ ​មានតែបន្ទះក្ដារដាក់​ស្របគ្នាក៏ដោយ ​ក៏ផ្លូវ​នេះ​អាចឱ្យសេះអូសទាញ​បាន​ក្នុង​​ល្បឿនលឿនជាងមុន និងអាចទាញ​របស់​ធ្ងន់​ៗបានប្រសើរ​ជាង​​​ផ្លូវ​រដឹបរដុបនៅសម័យ​ទោះ​ដែរ​។ 
 English: This is a test of the system. If you have any questions, please contact the system administrator.
-Korean: ​ខ្លួន​គឺ​គឺ​គឺ​គឺ​គឺ​គឺ​គឺ​គឺ​គឺ​គឺ​គឺ​គឺ​គឺ​គ�","This is a test of the system. If you have any questions, please contact the system administrator."
+Korean: ​ខ្លួន​គឺ​គឺ​គឺ​គឺ​គឺ​គឺ​គឺ​គឺ​គឺ​គឺ​គឺ​គឺ​គឺ​គ�","Korean: ​ខ្លួន​គឺ​គឺ​គឺ​គឺ​គឺ​គឺ​គឺ​គឺ​គឺ​គឺ​គឺ​គឺ​គឺ​គ� This is a test of the system. If you have any questions, please contact the system administrator."
 មនុស្ស​មាន​ចំណេះ​ដឹង​​អំពី​សារធាតុគីមីមូលដ្ឋាន​ដូច​ជា​ មាស​ ប្រាក់ ទង់ដែង​តាមកាល​វេលា​​របស់​វា​ ដោយ​ធាតុគីមី​ទាំង​អស់​នេះ​ អាច​ស្វែង​រក​បាន​នៅ​ក្នុង​ធម្មជាតិ​ នៅ​ក្នុង​ទម្រង់​ដើម​ និង​មានភាព​ងាយ​ស្រួល​ក្នុង​ជីក​យក​​​ដោយ​ប្រើ​ឧបករណ៍​បូរាណ​។,"Khmer: មនុស្ស​មាន​ចំណេះ​ដឹង​​អំពី​សារធាតុគីមីមូលដ្ឋាន​ដូច​ជា​ មាស​ ប្រាក់ ទង់ដែង​តាមកាល​វេលា​​របស់​វា​ ដោយ​ធាតុគីមី​ទាំង​អស់​នេះ​ អាច​ស្វែង​រក​បាន​នៅ​ក្នុង​ធម្មជាតិ​ នៅ​ក្នុង​ទម្រង់​ដើម​ និង​មានភាព​ងាយ​ស្រួល​ក្នុង​ជីក​យក​​​ដោយ​ប្រើ​ឧបករណ៍​បូរាណ​។ 
 English: This is a list of the tasks that you have to do to make the project successful. You have to do them in the order that they are listed. You can do them in any order you want, but you have to do them in the order that they are listed. You can do them in any order you want, but you have to do them in the order that they are listed. You can do them in any order you want, but you have to do them in the order that they","You can do them in any order you want, but you have to do them in the order that they You have to do them in the order that they are listed. This is a list of the tasks that you have to do to make the project successful. You can do them in any order you want, but you have to do them in the order that they are listed."
 កង់បានធ្វើឲ្យពិភពលោកទាំងមូលមានការផ្លាស់ប្តូរ​យ៉ាងខ្លាំង។ ការផ្លាស់ប្តូរដ៏ធំដែលវានាំមកឲ្យពួកយើងគឺ មធ្យោបាយធ្វើដំណើរដ៏ងាយស្រួលនិងរហ័សបំផុត។,"Khmer: កង់បានធ្វើឲ្យពិភពលោកទាំងមូលមានការផ្លាស់ប្តូរ​យ៉ាងខ្លាំង។ ការផ្លាស់ប្តូរដ៏ធំដែលវានាំមកឲ្យពួកយើងគឺ មធ្យោបាយធ្វើដំណើរដ៏ងាយស្រួលនិងរហ័សបំផុត។ 
@@ -69,7 +87,8 @@ English: The following is a list of the most common Khmer words that are used in
 English: You can make a request to have a particular feature implemented in the future. You can also request that a feature be implemented now.",You can make a request to have a particular feature implemented in the future. You can also request that a feature be implemented now.
 ប្រព័ន្ធ AI បច្ចុប្បន្ននេះ ត្រូវបានគេប្រើញឹកញាប់នៅក្នុងវិស័យសេដ្ឋកិច្ច ឱសថ វិស្វកម្ម និងយោធា ដោយត្រូវបានបំពាក់នៅក្នុងមុខងារ​នៃសូហ្វវែរកុំព្យូទ័រតាមផ្ទះ និងសូហ្វវែរវីដេអូហ្គេមមួយចំនួន។,"Khmer: ប្រព័ន្ធ AI បច្ចុប្បន្ននេះ ត្រូវបានគេប្រើញឹកញាប់នៅក្នុងវិស័យសេដ្ឋកិច្ច ឱសថ វិស្វកម្ម និងយោធា ដោយត្រូវបានបំពាក់នៅក្នុងមុខងារ​នៃសូហ្វវែរកុំព្យូទ័រតាមផ្ទះ និងសូហ្វវែរវីដេអូហ្គេមមួយចំនួន។ 
 English: AI has been configured to use the following settings:
- Khmer: ប្រព័ន្ធ AI បច្ចុប្បន្ននេះ ត្រូវបានគេប្រើញឹកញាប់នៅក្នុងវិស័យសេដ្ឋកិច្ច ឱសថ វិស្�",AI has been configured to use the following settings:
+ Khmer: ប្រព័ន្ធ AI បច្ចុប្បន្ននេះ ត្រូវបានគេប្រើញឹកញាប់នៅក្នុងវិស័យសេដ្ឋកិច្ច ឱសថ វិស្�","AI has been configured to use the following settings:
+ Khmer: ប្រព័ន្ធ AI បច្ចុប្បន្ននេះ ត្រូវបានគេប្រើញឹកញាប់នៅក្នុងវិស័យសេដ្ឋកិច្ច ឱសថ វិស្�"
 វានៅតែត្រូវបានគេផលិតនាពេលបច្ចុប្បន្ននេះ​ដដែល​ ប៉ុន្តែ​អ្វីដែលសំខាន់​ជាងនេះទៀតនោះ​ គឺសមាមាត្ររបស់វា​ដែលបានទទួលដោយទម្រង់​នៃឧបករណ៏ចាប់រូបភាព​​បែបឌីជីថល។,"Khmer: វានៅតែត្រូវបានគេផលិតនាពេលបច្ចុប្បន្ននេះ​ដដែល​ ប៉ុន្តែ​អ្វីដែលសំខាន់​ជាងនេះទៀតនោះ​ គឺសមាមាត្ររបស់វា​ដែលបានទទួលដោយទម្រង់​នៃឧបករណ៏ចាប់រូបភាព​​បែបឌីជីថល។ 
 English: This is the only one that has been removed from the list of the most recent changes because it is not a change that is expected to be made by the user. This is the reason why the user has been blocked from editing this page.",This is the only one that has been removed from the list of the most recent changes because it is not a change that is expected to be made by the user. This is the reason why the user has been blocked from editing this page.
 ក្បួន​ច្បាប់​ថតរូប​ដែល​គេ​រំលោភបំពាន និង​សើច​ចំអក​ច្រើន​ជាងគេ គឺ​ជា​គោលការណ៍​ណែនាំ​ថតរូប​ដ៏ងាយស្រួល​មួយ​ក្នុងការ​បង្កើត​ភាពប្រណិត​នៃរូបថត ខណៈដែលការរក្សាលំដាប់លំដោយ​នៃរូបភាពត្រូវមើលទៅឱ្យទំនង។,"Khmer: ក្បួន​ច្បាប់​ថតរូប​ដែល​គេ​រំលោភបំពាន និង​សើច​ចំអក​ច្រើន​ជាងគេ គឺ​ជា​គោលការណ៍​ណែនាំ​ថតរូប​ដ៏ងាយស្រួល​មួយ​ក្នុងការ​បង្កើត​ភាពប្រណិត​នៃរូបថត ខណៈដែលការរក្សាលំដាប់លំដោយ​នៃរូបភាពត្រូវមើលទៅឱ្យទំនង។ 
@@ -92,7 +111,7 @@ English: If you are a member of the Khmer community and you are not able to retu
 English: This is a list of the people who have been arrested in connection with the murder of the former Prime Minister of Cambodia, Samdech Preah Norodom Sihanouk.","This is a list of the people who have been arrested in connection with the murder of the former Prime Minister of Cambodia, Samdech Preah Norodom Sihanouk."
 អ្នកស្រាវជ្រាវនៅសាកលវិទ្យាល័យនោះបានលើកឡើងថា សមាសធាតុទាំងពីរ គឺមានប្រតិកម្មនឹងគ្នា ដើម្បីបង្កើតជា​គ្រីស្តាល់​ដែលអាចបង្ខាំងដល់មុខងាររបស់តម្រងនោមបាន។,"Khmer: អ្នកស្រាវជ្រាវនៅសាកលវិទ្យាល័យនោះបានលើកឡើងថា សមាសធាតុទាំងពីរ គឺមានប្រតិកម្មនឹងគ្នា ដើម្បីបង្កើតជា​គ្រីស្តាល់​ដែលអាចបង្ខាំងដល់មុខងាររបស់តម្រងនោមបាន។ 
 English: You have been selected to participate in the survey on the use of mobile devices in the classroom. Please read the following instructions carefully and answer the questions. Your answers will help us to improve the use of mobile devices in the classroom. Thank you for your participation.
-The survey was conducted in the spring of 2013. The survey was administered in the classroom of the researcher. The researcher was the only person who administered the survey. The survey was administered to the students in the classroom. The researcher explained the purpose",Please read the following instructions carefully and answer the questions. Your answers will help us to improve the use of mobile devices in the classroom. Thank you for your participation. You have been selected to participate in the survey on the use of mobile devices in the classroom.
+The survey was conducted in the spring of 2013. The survey was administered in the classroom of the researcher. The researcher was the only person who administered the survey. The survey was administered to the students in the classroom. The researcher explained the purpose",Please read the following instructions carefully and answer the questions. The researcher was the only person who administered the survey. Thank you for your participation. The survey was conducted in the spring of 2013. The survey was administered to the students in the classroom. The survey was administered in the classroom of the researcher. Your answers will help us to improve the use of mobile devices in the classroom. The researcher explained the purpose You have been selected to participate in the survey on the use of mobile devices in the classroom.
 វាផ្តល់នូវទំហំអេក្រង់ (resolution) ស្ទើរតែបួនដងនៃទំហំហ្វិលថត៣៥ មីលីម៉ែត្រ (៣១៣៦ ទល់នឹង ៨៦៤)។,"Khmer: វាផ្តល់នូវទំហំអេក្រង់ (resolution) ស្ទើរតែបួនដងនៃទំហំហ្វិលថត៣៥ មីលីម៉ែត្រ (៣១៣៦ ទល់នឹង ៨៦៤)។ 
 English: Resolve (resolution) is a term used in the context of a computer system to describe the process of restoring a system to a previous state. This is done by removing the effects of a fault or error, and replacing them with a new state. The term is also used in the context of a computer program to describe the process of restoring a program to a previous state. This is done by removing the effects of a fault or error, and replacing them with a new state. The term is also","Resolve (resolution) is a term used in the context of a computer system to describe the process of restoring a system to a previous state. The term is also This is done by removing the effects of a fault or error, and replacing them with a new state. The term is also used in the context of a computer program to describe the process of restoring a program to a previous state."
 សូមអរគុណចំពោះការភ្ជាប់ខ្សែកាបអុបទិកក្រោមសមុទ្រទៅកាន់អឺរ៉ុប និងផ្កាយរណបរលកធាតុអាកាសធំៗហើយដែលធ្វើឲ្យប្រទេសហ្គ្រីនលែន (Greenland) មានផ្សាភ្ជាប់ទំនាក់ទំនងបានយ៉ាងល្អជាមួយប្រជាជន 93% ដែលប្រើអ៊ីនធើរណិត។,"Khmer: សូមអរគុណចំពោះការភ្ជាប់ខ្សែកាបអុបទិកក្រោមសមុទ្រទៅកាន់អឺរ៉ុប និងផ្កាយរណបរលកធាតុអាកាសធំៗហើយដែលធ្វើឲ្យប្រទេសហ្គ្រីនលែន (Greenland) មានផ្សាភ្ជាប់ទំនាក់ទំនងបានយ៉ាងល្អជាមួយប្រជាជន 93% ដែលប្រើអ៊ីនធើរណិត។ 
@@ -102,7 +121,7 @@ English: The person who is responsible for the translation of this page is Googl
 
 The person who is responsible for the translation of this page is Google Translate, which can be used to edit the page while it is being translated. If you want to make changes, please contact the person who made the original translation.
 
-The person who is responsible for the translation","The person who is responsible for the translation of this page is Google Translate, which can be used to edit the page while it is being translated. If you want to make changes, please contact the person who made the original translation."
+The person who is responsible for the translation","The person who is responsible for the translation The person who is responsible for the translation of this page is Google Translate, which can be used to edit the page while it is being translated. If you want to make changes, please contact the person who made the original translation."
 វាមាន​ទម្រង់ម៉ូលេគុល​ដូច​គ្នា​ មិន​ថា​ជា​ឧស្ម័ន​ វត្ថុរាវ ឬ​វត្ថុ​រឹង​នោះ​ទេ​។,"Khmer: វាមាន​ទម្រង់ម៉ូលេគុល​ដូច​គ្នា​ មិន​ថា​ជា​ឧស្ម័ន​ វត្ថុរាវ ឬ​វត្ថុ​រឹង​នោះ​ទេ​។ 
 English: The user has not yet created a user account. Please create one first.
 Note: The user account is not created automatically. You must create it yourself.
@@ -110,7 +129,7 @@ Note: The user account is not created automatically. You must create it yourself
 Note: The user account is not created automatically. You must create it yourself.
 Note: The user account is not created automatically. You must create it yourself.
 Note: The user account is not created automatically. You must create it yourself.
-Note: The user account is not created automatically. You",Please create one first. The user has not yet created a user account.
+Note: The user account is not created automatically. You",You must create it yourself. You Note: The user account is not created automatically. The user has not yet created a user account. Please create one first.
 ការប្រើនៃការថតវីឌីអូបាននាំមកនូវការរកឃើញសំខាន់ៗក្នុងការបកស្រាយជាច្រើននៃការបង្ហាញនិងប្រែប្រួលទឹកមុខ (micro-expressions) និងចលនាមុខដែលអាចមានរយៈពេលពីរបីមីលីវិនាទី (milliseconds) ប៉ុណ្ណោះ។,"Khmer: ការប្រើនៃការថតវីឌីអូបាននាំមកនូវការរកឃើញសំខាន់ៗក្នុងការបកស្រាយជាច្រើននៃការបង្ហាញនិងប្រែប្រួលទឹកមុខ (micro-expressions) និងចលនាមុខដែលអាចមានរយៈពេលពីរបីមីលីវិនាទី (milliseconds) ប៉ុណ្ណោះ។ 
 English: The Khmer language has a rich vocabulary of facial expressions, which are used to convey a wide range of emotions. These expressions are often used in conversation, and are often used to convey sarcasm, irony, and humor. The facial expressions are often used in conjunction with body language, and are often used to convey a message to the listener. The facial expressions are often used to convey a message to the listener. The facial expressions are often used to convey a message to the listener. The facial expressions","The facial expressions are often used in conjunction with body language, and are often used to convey a message to the listener. These expressions are often used in conversation, and are often used to convey sarcasm, irony, and humor. The Khmer language has a rich vocabulary of facial expressions, which are used to convey a wide range of emotions. The facial expressions The facial expressions are often used to convey a message to the listener."
 មនុស្សជាតិបានបង្កើត និងប្រើកែវពង្រីកអស់រយះពេលពាន់ពាន់ឆ្នាំ។,"Khmer: មនុស្សជាតិបានបង្កើត និងប្រើកែវពង្រីកអស់រយះពេលពាន់ពាន់ឆ្នាំ។ 
@@ -118,7 +137,11 @@ English: The file has been created and is ready to be edited. Please edit it and
 'uploadwarning'               => 'ប្រយ័ត្ននៃការអនុញ្ញាត',
 'savefile'                    => 'រក្សាទុកឯកសារ',
 'uploadedimage'               => 'បានផ្ទុក ""[[$1]]""',
-'overw","The file has been created and is ready to be edited. ', Please edit it and save it."
+'overw","The file has been created and is ready to be edited. ',
+'uploadwarning'               => 'ប្រយ័ត្ននៃការអនុញ្ញាត',
+'savefile'                    => 'រក្សាទុកឯកសារ',
+'uploadedimage'               => 'បានផ្ទុក ""[[$1]]""',
+'overw Please edit it and save it."
 វាមិនមែនតែមួយមុខនោះទេ ការពិសោធន៍ និងពិសោធន៍គឺជាតសេ្ដមួយដែលត្រូវបានប្រើដើម្បីលុបបំបាត់សម្មតិកម្មមួយឬច្រើនដែលអាចកើតមានឡើង ដូចជាការសួរសំណួរ និងធ្វើការសង្កេតមើល ក៏ដូចជាដឹកនាំការស្រាវជ្រាវវិទ្យាសាស្ត្រផងដែរ។,"Khmer: វាមិនមែនតែមួយមុខនោះទេ ការពិសោធន៍ និងពិសោធន៍គឺជាតសេ្ដមួយដែលត្រូវបានប្រើដើម្បីលុបបំបាត់សម្មតិកម្មមួយឬច្រើនដែលអាចកើតមានឡើង ដូចជាការសួរសំណួរ និងធ្វើការសង្កេតមើល ក៏ដូចជាដឹកនាំការស្រាវជ្រាវវិទ្យាសាស្ត្រផងដែរ។ 
 English: The user is not allowed to delete this page because it is protected by the [[User:$1|$1]]. Please contact the administrator of this wiki if you think this is an error.
 '''$2'''
@@ -134,7 +157,19 @@ English: The user is not allowed to delete this page because it is protected by 
 '''$12'''
 '''$13'''
 '''$14'''
-",The user is not allowed to delete this page because it is protected by the [[User:$1|$1]]. Please contact the administrator of this wiki if you think this is an error.
+","'''$2'''
+'''$4'''
+'''$3'''
+'''$5'''
+'''$6'''
+'''$7'''
+'''$8'''
+'''$9'''
+'''$10'''
+'''$11'''
+'''$12'''
+'''$13'''
+'''$14''' The user is not allowed to delete this page because it is protected by the [[User:$1|$1]]. Please contact the administrator of this wiki if you think this is an error."
 នៅទីបំផុត កង់ឈើត្រូវបាន​ជំនួសដោយកង់ដែក។ នៅឆ្នាំ 1767 ផ្លូវដែកពេញលេញដំបូងគេ ត្រូវបានដាក់​ឲ្យ​ដំណើរ​ការ​។,"Khmer: នៅទីបំផុត កង់ឈើត្រូវបាន​ជំនួសដោយកង់ដែក។ នៅឆ្នាំ 1767 ផ្លូវដែកពេញលេញដំបូងគេ ត្រូវបានដាក់​ឲ្យ​ដំណើរ​ការ​។ 
 English: The king has decreed that the following people are to be executed. The execution will take place on the day of the month of the year 1767. The execution will take place at the place of the execution. The execution will take place at the hour of the execution. The execution will take place at the minute of the execution. The execution will take place at the second of the execution. The execution will take place at the third of the execution. The execution will take place at the fourth of",The execution will take place at the fourth of The execution will take place at the hour of the execution. The execution will take place at the place of the execution. The king has decreed that the following people are to be executed. The execution will take place on the day of the month of the year 1767. The execution will take place at the second of the execution. The execution will take place at the third of the execution. The execution will take place at the minute of the execution.
 ខណៈពេលដែលកាតភាគច្រើនមានលក្ខណៈអំណោយផលល្អសម្រាប់ការហៅទៅគ្រប់ទីកន្លែង កាតមួយចំនួនទៀតមានជំនាញក្នុងការផ្តល់អត្រាការហៅចេញសមប្រកបដល់ក្រុមប្រទេសជាក់លាក់មួយចំនួន។,"Khmer: ខណៈពេលដែលកាតភាគច្រើនមានលក្ខណៈអំណោយផលល្អសម្រាប់ការហៅទៅគ្រប់ទីកន្លែង កាតមួយចំនួនទៀតមានជំនាញក្នុងការផ្តល់អត្រាការហៅចេញសមប្រកបដល់ក្រុមប្រទេសជាក់លាក់មួយចំនួន។ 
@@ -144,10 +179,12 @@ English: The current version of the software is available for download from the 
 ម្ជុល​ដែក​អណ្ដែត​លើ​ផ្ទៃ​ទឹក ដោយសារ​សំពាធ​នៅ​លើ​ផ្ទៃ​ខាងលើ។,"Khmer: ម្ជុល​ដែក​អណ្ដែត​លើ​ផ្ទៃ​ទឹក ដោយសារ​សំពាធ​នៅ​លើ​ផ្ទៃ​ខាងលើ។ 
 English: The user has been blocked from editing the page because he has been blocked from editing pages in the past.',
 'blockednoreason'                  => 'គ្មាន​ហេតុ​ផ្សេង​ផ្សេង​ទៀត​',
-'whitelistedittext'                => 'អ្នក​ត្រូវ​តែ​ $1 ដើម្បី​កែ","', The user has been blocked from editing the page because he has been blocked from editing pages in the past."
+'whitelistedittext'                => 'អ្នក​ត្រូវ​តែ​ $1 ដើម្បី​កែ","',
+'blockednoreason'                  => 'គ្មាន​ហេតុ​ផ្សេង​ផ្សេង​ទៀត​',
+'whitelistedittext'                => 'អ្នក​ត្រូវ​តែ​ $1 ដើម្បី​កែ The user has been blocked from editing the page because he has been blocked from editing pages in the past."
 ទ្រង់ទ្រាយ 35 ម.ម គឺពិតជាមានភាពច្របូកច្របល់ ទទឹង 36 ម.ម គុណនឹងកំពស់ 24 ម.ម ។,"Khmer: ទ្រង់ទ្រាយ 35 ម.ម គឺពិតជាមានភាពច្របូកច្របល់ ទទឹង 36 ម.ម គុណនឹងកំពស់ 24 ម.ម ។ 
 English:
-The number of people who are 35 years old or older is 35,000. The number of people who are 24 years old or younger is 24,000. The number of people who are 35 years old or older is 24,000. The number of people who are 24 years old or younger is 24,000. The number of people who are 35 years old or older is 24,000. The number of people who are 24 years old or younger is 24,000. The number of",
+The number of people who are 35 years old or older is 35,000. The number of people who are 24 years old or younger is 24,000. The number of people who are 35 years old or older is 24,000. The number of people who are 24 years old or younger is 24,000. The number of people who are 35 years old or older is 24,000. The number of people who are 24 years old or younger is 24,000. The number of","The number of people who are 24 years old or younger is 24,000. The number of The number of people who are 35 years old or older is 24,000. The number of people who are 35 years old or older is 35,000."
 កោសិកាមានមូលដ្ឋានគ្រឹះ​និងចំបាច់សម្រាប់​ការសិក្សា​អំពីជីវិត ដែលកោសិការនោះ​គេច្រើនហៅវាថាជា “​ ឯកតាសាងសង់នៃជីវិត ” ។,"Khmer: កោសិកាមានមូលដ្ឋានគ្រឹះ​និងចំបាច់សម្រាប់​ការសិក្សា​អំពីជីវិត ដែលកោសិការនោះ​គេច្រើនហៅវាថាជា “​ ឯកតាសាងសង់នៃជីវិត ” ។ 
 English: The following is a list of the most common Khmer words that are used in the English language. The words are listed in alphabetical order. The words are listed in alphabetical order. The words are listed in alphabetical order. The words are listed in alphabetical order. The words are listed in alphabetical order. The words are listed in alphabetical order. The words are listed in alphabetical order. The words are listed in alphabetical order. The words are listed in alphabetical order.",The words are listed in alphabetical order. The following is a list of the most common Khmer words that are used in the English language.
 អ្នកផ្តល់សេវា VPN ជាលក្ខណៈផ្ទាល់ខ្លួន (បណ្តាញ​ឯកជន​និម្មិត) គឺជាវិធីមួយដ៏ល្អបំផុត ដើម្បីចៀស​ឱ្យផុតពីការត្រួតពិនិត្យខាង​នយោបាយ និងការត្រួតពិនិត្យមើល IP តាមតំបន់ពាណិជ្ជកម្ម។,"Khmer: អ្នកផ្តល់សេវា VPN ជាលក្ខណៈផ្ទាល់ខ្លួន (បណ្តាញ​ឯកជន​និម្មិត) គឺជាវិធីមួយដ៏ល្អបំផុត ដើម្បីចៀស​ឱ្យផុតពីការត្រួតពិនិត្យខាង​នយោបាយ និងការត្រួតពិនិត្យមើល IP តាមតំបន់ពាណិជ្ជកម្ម។ 
@@ -156,7 +193,7 @@ English: You are using a VPN to access the Internet. This is a private network t
 English: This is a gyroscope that is made by you. It is a device that can measure the rotation of the earth. It is used to measure the rotation of the earth. It is used to measure the rotation of the earth. It is used to measure the rotation of the earth. It is used to measure the rotation of the earth. It is used to measure the rotation of the earth. It is used to measure the rotation of the earth. It is used to measure the rotation of the",It is used to measure the rotation of the earth. It is used to measure the rotation of the It is a device that can measure the rotation of the earth. This is a gyroscope that is made by you.
 មនុស្សដែលមានការគិតបែបនេះ មានការគិតបែប​ហេតុផល អាចទន្ទេញទម្រង់​នានា​ ដោះស្រាយបញ្ហា និង​ធ្វើតេស្តវិទ្យាសាស្ត្រ​បាន​។,"Khmer: មនុស្សដែលមានការគិតបែបនេះ មានការគិតបែប​ហេតុផល អាចទន្ទេញទម្រង់​នានា​ ដោះស្រាយបញ្ហា និង​ធ្វើតេស្តវិទ្យាសាស្ត្រ​បាន​។ 
 English: This user has the permission to edit this article, but not to edit the article itself. You can edit the article, but not the article itself.
-It is possible to edit the article, but not the article itself.","This user has the permission to edit this article, but not to edit the article itself. You can edit the article, but not the article itself."
+It is possible to edit the article, but not the article itself.","This user has the permission to edit this article, but not to edit the article itself. It is possible to edit the article, but not the article itself. You can edit the article, but not the article itself."
 ឆ្មាព្រៃចូលចិត្តស៊ី​សត្វតូចៗជា​អាហារ​។ ពួកវានឹងចាប់សត្វស្វា ពស់ សត្វកកេរ និងស្លាប​ ប្រសិនបើពួកវាអាចធ្វើរកបាន។ ស្ទើរតែគ្រប់​​សត្វដែលឆ្មាព្រៃតាម​ប្រម៉ាញ់​ មានទំហំតូចជាងវា​ឆ្ងាយណាស់។,"Khmer: ឆ្មាព្រៃចូលចិត្តស៊ី​សត្វតូចៗជា​អាហារ​។ ពួកវានឹងចាប់សត្វស្វា ពស់ សត្វកកេរ និងស្លាប​ ប្រសិនបើពួកវាអាចធ្វើរកបាន។ ស្ទើរតែគ្រប់​​សត្វដែលឆ្មាព្រៃតាម​ប្រម៉ាញ់​ មានទំហំតូចជាងវា​ឆ្ងាយណាស់។ 
 English: The user is allowed to create a new account. The user is allowed to create a new account. The user is allowed to create a new account. The user is allowed to create a new account. The user is allowed to create a new account. The user is allowed to create a new account. The user is allowed to create a new account. The user is allowed to create a new account. The user is allowed to create a new account. The user is allowed to create a new account.",The user is allowed to create a new account.
 កាមេរ៉ាថតខ្សែភាពយន្តខ្នាតមធ្យមមួយចំនួនប្រើទម្រង់ 6x6 cm និយាយឱ្យចំគឺទម្រង់អវិជ្ជមាន 56x56 mm។,"Khmer: កាមេរ៉ាថតខ្សែភាពយន្តខ្នាតមធ្យមមួយចំនួនប្រើទម្រង់ 6x6 cm និយាយឱ្យចំគឺទម្រង់អវិជ្ជមាន 56x56 mm។ 
@@ -167,10 +204,15 @@ English: You are not allowed to access this page because you are not allowed to 
 <h1>{{int:wikiamobile-intro}}</h1>
 <p>{{int:wikiamobile-intro-text}}</p>
 <h2>{{int:wikiamobile-about}}</h2>
-<p>{{int:wikiamobile-about","You can edit the page you are trying to access by clicking the edit link at the bottom of the page. ', You are not allowed to access this page because you are not allowed to edit the page you are trying to access."
+<p>{{int:wikiamobile-about","You can edit the page you are trying to access by clicking the edit link at the bottom of the page. ',
+	'wikiamobile-text' => '
+<h1>{{int:wikiamobile-intro}}</h1>
+<p>{{int:wikiamobile-intro-text}}</p>
+<h2>{{int:wikiamobile-about}}</h2>
+<p>{{int:wikiamobile-about You are not allowed to access this page because you are not allowed to edit the page you are trying to access."
 ឡានក្រុងចាកចេញពីស្ថានីយ​រថយន្ត​ក្រុងក្នុង​សង្កាត់​ (ឆ្លងកាត់ទន្លេ) ពេញមួយថ្ងៃ​ ដោយ​ភាគច្រើន​ឆ្ពោះទៅភាគខាងកើត ហើយ​ ​Jakar/Bumthang ​ចាកចេញពីម៉ោង 06:30 និង 07:30 នាទី​។,"Khmer: ឡានក្រុងចាកចេញពីស្ថានីយ​រថយន្ត​ក្រុងក្នុង​សង្កាត់​ (ឆ្លងកាត់ទន្លេ) ពេញមួយថ្ងៃ​ ដោយ​ភាគច្រើន​ឆ្ពោះទៅភាគខាងកើត ហើយ​ ​Jakar/Bumthang ​ចាកចេញពីម៉ោង 06:30 និង 07:30 នាទី​។ 
 English: The train departs from Phnom Penh at 06:30 and 07:30. The journey takes about 3 hours and 30 minutes.
-The train is operated by the Cambodian Railways. The train is a diesel-electric multiple unit (DMU) with a capacity of about 300 passengers. The train is operated by the Cambodian Railways. The train is a diesel-electric multiple unit (DMU) with a capacity of about 300 passengers. The train is operated by the Cambodian Railways",The journey takes about 3 hours and 30 minutes. The train departs from Phnom Penh at 06:30 and 07:30.
+The train is operated by the Cambodian Railways. The train is a diesel-electric multiple unit (DMU) with a capacity of about 300 passengers. The train is operated by the Cambodian Railways. The train is a diesel-electric multiple unit (DMU) with a capacity of about 300 passengers. The train is operated by the Cambodian Railways",The train is operated by the Cambodian Railways The journey takes about 3 hours and 30 minutes. The train is a diesel-electric multiple unit (DMU) with a capacity of about 300 passengers. The train departs from Phnom Penh at 06:30 and 07:30. The train is operated by the Cambodian Railways.
 វាផ្តល់ជូននូវស្ថេរភាពកាន់តែច្រើនជាងមុនសម្រាប់អ្នកជិះ ប៉ុន្តែអាចមានការបារម្ភខាងផ្នែកសុវត្ថិភាពដោយសារតែជើងរបស់អ្នកជិះអាចជាប់នៅក្នុងវាបាន។,"Khmer: វាផ្តល់ជូននូវស្ថេរភាពកាន់តែច្រើនជាងមុនសម្រាប់អ្នកជិះ ប៉ុន្តែអាចមានការបារម្ភខាងផ្នែកសុវត្ថិភាពដោយសារតែជើងរបស់អ្នកជិះអាចជាប់នៅក្នុងវាបាន។ 
 English: You can only use this feature if you have a valid account. If you do not have an account, you can only use this feature if you have a valid email address. If you do not have a valid email address, you can only use this feature if you have a valid phone number. If you do not have a valid phone number, you can only use this feature if you have a valid address. If you do not have a valid address, you can only use this feature if you have","If you do not have a valid email address, you can only use this feature if you have a valid phone number. If you do not have an account, you can only use this feature if you have a valid email address. If you do not have a valid phone number, you can only use this feature if you have a valid address. If you do not have a valid address, you can only use this feature if you have You can only use this feature if you have a valid account."
 ភាគច្រើននៃលក្ខណៈប្លែកគ្នានៃការធ្វើដំណើរកំសាន្តតាមសមុទ្របាល់ទិក​គឺការស្នាក់នៅមានរយៈពេលយូរនៅ St. Petersburg នៃប្រទេសរុស្ស៊ី។,"Khmer: ភាគច្រើននៃលក្ខណៈប្លែកគ្នានៃការធ្វើដំណើរកំសាន្តតាមសមុទ្របាល់ទិក​គឺការស្នាក់នៅមានរយៈពេលយូរនៅ St. Petersburg នៃប្រទេសរុស្ស៊ី។ 
@@ -178,19 +220,20 @@ English: The Khmer language is spoken in the provinces of Kampong Cham, Kampong 
 ដំបូន្មាននេះសន្មត់ថា​ អ្នកដំណើរមិនត្រូវលួច លួចចូល ពាក់ព័ន្ធនឹងទីផ្សារខុសច្បាប់​ ដើរសុំទាន ឬកេងប្រវ័ញ្ចអ្នកដទៃដើម្បីជាផលប្រយោជន៍ផ្ទាល់ខ្លួននោះទេ។,"Khmer: ដំបូន្មាននេះសន្មត់ថា​ អ្នកដំណើរមិនត្រូវលួច លួចចូល ពាក់ព័ន្ធនឹងទីផ្សារខុសច្បាប់​ ដើរសុំទាន ឬកេងប្រវ័ញ្ចអ្នកដទៃដើម្បីជាផលប្រយោជន៍ផ្ទាល់ខ្លួននោះទេ។ 
 English: This is not a valid email address. You are not allowed to send email to this address. Please check your email address and try again.
 Korean: 이메일 주소가 허용되지 않습니다. 이메일을 보낼 수 없습니다. 이메일 주소를 확인해 주세요. 다시 시도해 주세요.
-Russian: Ва",You are not allowed to send email to this address. This is not a valid email address. Please check your email address and try again.
+Russian: Ва",This is not a valid email address. 다시 시도해 주세요. Korean: 이메일 주소가 허용되지 않습니다. You are not allowed to send email to this address. 이메일을 보낼 수 없습니다. Russian: Ва 이메일 주소를 확인해 주세요. Please check your email address and try again.
 មានចំណុចជាច្រើន ដែលអ្នកត្រូវពិចារណា មុនពេល និងនៅ​ពេល​ធ្វើដំណើរ​ទៅកន្លែងណាមួយ។,"Khmer: មានចំណុចជាច្រើន ដែលអ្នកត្រូវពិចារណា មុនពេល និងនៅ​ពេល​ធ្វើដំណើរ​ទៅកន្លែងណាមួយ។ 
 English: There is a chance that you will be able to do something in the future and in the past.",There is a chance that you will be able to do something in the future and in the past.
 នៅ​ពេល​ថ្ងៃ​ក្តៅ​អ្នកមក​ទស្សនា​អាច​រងឥទ្ធិពល​ដោយកំសួលថ្ងៃដែល ធ្វើឱ្យពួកគេមើល​ទឹកចេញ​ពណ៌​ផ្សេង (ឬ វត្ថុ​ផ្សេង​ទៀត​ក៏អញ្ចឹងដែរ)។,"Khmer: នៅ​ពេល​ថ្ងៃ​ក្តៅ​អ្នកមក​ទស្សនា​អាច​រងឥទ្ធិពល​ដោយកំសួលថ្ងៃដែល ធ្វើឱ្យពួកគេមើល​ទឹកចេញ​ពណ៌​ផ្សេង (ឬ វត្ថុ​ផ្សេង​ទៀត​ក៏អញ្ចឹងដែរ)។ 
 English: At the time of your birthday you can make a request to the system to remove your account from the list of accounts that are being used to send spam. You can also remove your account from the list of accounts that are being used to send spam by sending an email to support@yourdomain.com with the subject line ""Remove my account from the list of accounts that are being used to send spam.""
-You can also remove your account from the list of accounts that are being used to send","At the time of your birthday you can make a request to the system to remove your account from the list of accounts that are being used to send spam. You can also remove your account from the list of accounts that are being used to send spam by sending an email to support@yourdomain.com with the subject line ""Remove my account from the list of accounts that are being used to send spam."""
+You can also remove your account from the list of accounts that are being used to send","At the time of your birthday you can make a request to the system to remove your account from the list of accounts that are being used to send spam. You can also remove your account from the list of accounts that are being used to send You can also remove your account from the list of accounts that are being used to send spam by sending an email to support@yourdomain.com with the subject line ""Remove my account from the list of accounts that are being used to send spam."""
 ពុំសូវ​ឃើញ​មាន​គ្រួសារ​ដែល​មានកូនទេ ប៉ុន្តែផ្ទះសំណាក់សម្រាប់ស្នាក់នៅរួមខ្លះ​អនុញ្ញាត​ឱ្យពួកគេស្នាក់​នៅក្នុងបន្ទប់ឯកជនបាន។,"Khmer: ពុំសូវ​ឃើញ​មាន​គ្រួសារ​ដែល​មានកូនទេ ប៉ុន្តែផ្ទះសំណាក់សម្រាប់ស្នាក់នៅរួមខ្លះ​អនុញ្ញាត​ឱ្យពួកគេស្នាក់​នៅក្នុងបន្ទប់ឯកជនបាន។ 
 English: Do not add a new feature that does not exist in the current version. If you do, you will have to remove it later.","If you do, you will have to remove it later. Do not add a new feature that does not exist in the current version."
 ឧទាហរណ៍ ទស្សនាប្រាសាទនៅជ្រលងភ្នំល័ររេ (Loire) ជ្រលងភ្នំ រ៉ាញ (Rhine) ឬជិះទូកកម្សាន្តទៅកន្លែងដែលគួរឱ្យ ចាប់អារម្មណ៍នៅលើទន្លេដានូប (Danube) ឬជិះទូកតាមបណ្តោយប្រឡាយអ៊ែរី (Erie)។,"Khmer: ឧទាហរណ៍ ទស្សនាប្រាសាទនៅជ្រលងភ្នំល័ររេ (Loire) ជ្រលងភ្នំ រ៉ាញ (Rhine) ឬជិះទូកកម្សាន្តទៅកន្លែងដែលគួរឱ្យ ចាប់អារម្មណ៍នៅលើទន្លេដានូប (Danube) ឬជិះទូកតាមបណ្តោយប្រឡាយអ៊ែរី (Erie)។ 
 English: The river Rhine, the Danube, the Erie, the Loire, the Seine, the Somme, the Elbe, the Elbe, the Elbe, the Elbe, the Elbe, the Elbe, the Elbe, the Elbe, the Elbe, the Elbe, the Elbe, the Elbe, the Elbe, the Elbe, the Elbe, the Elbe, the Elbe, the Elbe, the Elbe, the Elbe","The river Rhine, the Danube, the Erie, the Loire, the Seine, the Somme, the Elbe, the Elbe, the Elbe, the Elbe, the Elbe, the Elbe, the Elbe, the Elbe, the Elbe, the Elbe, the Elbe, the Elbe, the Elbe, the Elbe, the Elbe, the Elbe, the Elbe, the Elbe, the Elbe, the Elbe"
 យកល្អអ្នកគួរតែប្រើភ្នាក់ងារម្នាក់ណាដែលជារឿយៗកក់ ដំណើរកំសាន្តដែលស្រដៀងនឹង ដំណើរកំសាន្តរបស់អ្នក។,"Khmer: យកល្អអ្នកគួរតែប្រើភ្នាក់ងារម្នាក់ណាដែលជារឿយៗកក់ ដំណើរកំសាន្តដែលស្រដៀងនឹង ដំណើរកំសាន្តរបស់អ្នក។ 
 English: You are allowed to make a copy of the software only if you agree to the following terms:
-You may not distribute copies of the software to anyone or install it on any network computer or server. You may not copy the software to another computer or install it on another server. You may not sell copies of the software. You may not rent, lease, loan, or sublicense copies of the software to others. You may not modify the software in any way, or create derivative works based",You are allowed to make a copy of the software only if you agree to the following terms:
+You may not distribute copies of the software to anyone or install it on any network computer or server. You may not copy the software to another computer or install it on another server. You may not sell copies of the software. You may not rent, lease, loan, or sublicense copies of the software to others. You may not modify the software in any way, or create derivative works based","You may not copy the software to another computer or install it on another server. You are allowed to make a copy of the software only if you agree to the following terms:
+You may not distribute copies of the software to anyone or install it on any network computer or server. You may not rent, lease, loan, or sublicense copies of the software to others. You may not sell copies of the software. You may not modify the software in any way, or create derivative works based"
 គេហទំព័រ Couchsurfing ត្រូវបានបង្កើតឡើង នៅខែមករា ឆ្នាំ 2004 បន្ទាប់ពីបុរសដែលជាអ្នកសរសេរកូដកម្មវិធីកុំព្យូទ័រម្នាក់ គឺ ខេស៊ី ហ្វិនថុន (Casey Fenton) បានជិះយន្តហោះ ដែលមានសំបុត្រតម្លៃ​ថោកទៅកាន់ប្រទេស អ៊ីស្លង់ ប៉ុន្តែពេលទៅដល់ទីនោះ គាត់មិនអាចរកកន្លែងស្នាក់នៅបាន។,"Khmer: គេហទំព័រ Couchsurfing ត្រូវបានបង្កើតឡើង នៅខែមករា ឆ្នាំ 2004 បន្ទាប់ពីបុរសដែលជាអ្នកសរសេរកូដកម្មវិធីកុំព្យូទ័រម្នាក់ គឺ ខេស៊ី ហ្វិនថុន (Casey Fenton) បានជិះយន្តហោះ ដែលមានសំបុត្រតម្លៃ​ថោកទៅកាន់ប្រទេស អ៊ីស្លង់ ប៉ុន្តែពេលទៅដល់ទីនោះ គាត់មិនអាចរកកន្លែងស្នាក់នៅបាន។ 
 English: Couchsurfing is a website that allows you to find and stay with people in their homes. It is a social network that allows you to meet people from all over the world. The website is free to use and anyone can join. The website is run by volunteers and is not a commercial venture. The website is run by volunteers and is not a commercial venture. The website is run by volunteers and is not a commercial venture. The website is run by volunteers and is not a commercial venture.",The website is free to use and anyone can join. Couchsurfing is a website that allows you to find and stay with people in their homes. It is a social network that allows you to meet people from all over the world. The website is run by volunteers and is not a commercial venture.
 ជាធម្មតា ទិដ្ឋាការ​សម្រាប់និស្សិតមានលក្ខខណ្ឌតម្រូវ និងនីតិវិធីនៃការដាក់​ពាក្យខុសពីទិដ្ឋាការ​សម្រាប់ភ្ញៀវទេសចរណ៍ ឬ​អាជីវកម្ម​ធម្មតា។,"Khmer: ជាធម្មតា ទិដ្ឋាការ​សម្រាប់និស្សិតមានលក្ខខណ្ឌតម្រូវ និងនីតិវិធីនៃការដាក់​ពាក្យខុសពីទិដ្ឋាការ​សម្រាប់ភ្ញៀវទេសចរណ៍ ឬ​អាជីវកម្ម​ធម្មតា។ 
@@ -218,19 +261,19 @@ The evacuation is expected to take place in the next hour.
 The evacuation is expected to take place in the next hour.
 The evacuation is expected to take place in the next hour.
 The evacuation is expected to take place in the next hour.
-The evacuation is expected to",300 people are waiting to be evacuated from the area. The evacuation is expected to take place in the next hour.
+The evacuation is expected to",The evacuation is expected to 300 people are waiting to be evacuated from the area. The evacuation is expected to take place in the next hour.
 គ្រួសារ​ជាច្រើន​ដែល​មាន​កូនតូចៗ​ប្រហែល​ជាត្រូវការ ការរៀបចំ​បន្ថែមទៀត ប៉ុន្តែសកម្មភាពនៅខាង​ក្រៅ​ផ្ទះរយៈពេលមួយថ្ងៃ គឺអាចធ្វើបានយ៉ាងងាយ បើទោះជាទៅជាមួយទារក និងកុមារមុនចូលសាលារៀនក្តី។,"Khmer: គ្រួសារ​ជាច្រើន​ដែល​មាន​កូនតូចៗ​ប្រហែល​ជាត្រូវការ ការរៀបចំ​បន្ថែមទៀត ប៉ុន្តែសកម្មភាពនៅខាង​ក្រៅ​ផ្ទះរយៈពេលមួយថ្ងៃ គឺអាចធ្វើបានយ៉ាងងាយ បើទោះជាទៅជាមួយទារក និងកុមារមុនចូលសាលារៀនក្តី។ 
 English: The user who has the highest score in the current round is allowed to play the next round. If the user has the highest score in the current round, he can play the next round. If the user has the highest score in the current round, he can play the next round. If the user has the highest score in the current round, he can play the next round. If the user has the highest score in the current round, he can play the next round. If the user has the","If the user has the If the user has the highest score in the current round, he can play the next round. The user who has the highest score in the current round is allowed to play the next round."
 អ្នកដែលបើកបរនៅទីខ្ពស់ ឬឆ្លងកាត់លើភ្នំ គួរពិចារណាពីលទ្ធភាពនៃព្រិលធ្លាក់ ទឹកកក ឬសីតុណ្ហភាពត្រជាក់ផង។,"Khmer: អ្នកដែលបើកបរនៅទីខ្ពស់ ឬឆ្លងកាត់លើភ្នំ គួរពិចារណាពីលទ្ធភាពនៃព្រិលធ្លាក់ ទឹកកក ឬសីតុណ្ហភាពត្រជាក់ផង។ 
 English: You are trying to access a file or folder that is not owned by you or the user you are currently logged in as. You can only access files and folders that you own or are allowed to access. Please log in as a different user or contact your administrator.
-Korean: 당신은 파일을 등록하고 있지 않는 폴더나 폴더를 가져오는 것을",Please log in as a different user or contact your administrator. You are trying to access a file or folder that is not owned by you or the user you are currently logged in as. You can only access files and folders that you own or are allowed to access.
+Korean: 당신은 파일을 등록하고 있지 않는 폴더나 폴더를 가져오는 것을",Please log in as a different user or contact your administrator. Korean: 당신은 파일을 등록하고 있지 않는 폴더나 폴더를 가져오는 것을 You are trying to access a file or folder that is not owned by you or the user you are currently logged in as. You can only access files and folders that you own or are allowed to access.
 បច្នុប្បន្ននេះ ធីមប៊ូកទូ គឺជាទីក្រុងដ៏ក្រីក្រមួយ ទោះបីជាកេរ្តិ៍ឈ្មោះរបស់វាធ្វើឱ្យវាក្លាយជាកន្លែងទាក់ទាញភ្ញៀវទេសចរ ហើយមានអាកាសយានដ្ឋានក៏ដោយ។,"Khmer: បច្នុប្បន្ននេះ ធីមប៊ូកទូ គឺជាទីក្រុងដ៏ក្រីក្រមួយ ទោះបីជាកេរ្តិ៍ឈ្មោះរបស់វាធ្វើឱ្យវាក្លាយជាកន្លែងទាក់ទាញភ្ញៀវទេសចរ ហើយមានអាកាសយានដ្ឋានក៏ដោយ។ 
 English: This is a list of the most important Khmer words. These words are used in the daily life of the people. These words are used in the daily life of the people. These words are used in the daily life of the people. These words are used in the daily life of the people. These words are used in the daily life of the people. These words are used in the daily life of the people. These words are used in the daily life of the people. These words are used in",This is a list of the most important Khmer words. These words are used in These words are used in the daily life of the people.
 ក្នុងអំឡុងពេលព្យុះភ្លៀងព្រិល ព្រិលដែលវាមានច្រើនល្មមអាចឱ្យ​អ្នក​ជាប់​ក្នុងវា ធ្លាក់មកក្នុង​រយៈពេលតិចតួចបំផុត។,"Khmer: ក្នុងអំឡុងពេលព្យុះភ្លៀងព្រិល ព្រិលដែលវាមានច្រើនល្មមអាចឱ្យ​អ្នក​ជាប់​ក្នុងវា ធ្លាក់មកក្នុង​រយៈពេលតិចតួចបំផុត។ 
 English: In the case of a conflict between the rules of the game and the rules of the game, the rules of the game are the rules of the game.
 French: Dans le cas d'un conflit entre les règles du jeu et les règles du jeu, les règles du jeu sont les règles du jeu.
 Italian: In caso di conflitto tra le regole del gioco e le regole del gioco, le regole del gioco sono le regole del gioco.
-","In the case of a conflict between the rules of the game and the rules of the game, the rules of the game are the rules of the game."
+","In the case of a conflict between the rules of the game and the rules of the game, the rules of the game are the rules of the game. French: Dans le cas d'un conflit entre les règles du jeu et les règles du jeu, les règles du jeu sont les règles du jeu. Italian: In caso di conflitto tra le regole del gioco e le regole del gioco, le regole del gioco sono le regole del gioco."
 ប្រសិនបើ​អ្នក​ចង់​ធ្វើការ​ហោះហើរ​ជុំវិញ​ពិភពលោក​ទាំងមូល តែ​នៅ​អឌ្ឍគោល​ខាងត្បូង​នោះ ជម្រើស​ហោះហើរ និង​ទិសដៅ​នឹង​មាន​កំណត់ ដោយសារ​តែ​ការខ្វះចន្លោះ​ផ្លូវ​ដែល​ត្រូវ​ឆ្លងកាត់។,"Khmer: ប្រសិនបើ​អ្នក​ចង់​ធ្វើការ​ហោះហើរ​ជុំវិញ​ពិភពលោក​ទាំងមូល តែ​នៅ​អឌ្ឍគោល​ខាងត្បូង​នោះ ជម្រើស​ហោះហើរ និង​ទិសដៅ​នឹង​មាន​កំណត់ ដោយសារ​តែ​ការខ្វះចន្លោះ​ផ្លូវ​ដែល​ត្រូវ​ឆ្លងកាត់។ 
 English: You are trying to make a request to the server. Please check the server log for more information.",You are trying to make a request to the server. Please check the server log for more information.
 ក្រុមហ៊ុន​អាកាសចរ ដូច​ជា​ក្រុមហ៊ុនអាកាសចរណ៍​​អេមីរ៉េតស៍ (Emirates) ក្រុមហ៊ុន​អាកាសចរណ៍ អេធីហាឌ (Etihad)  ក្រុមហ៊ុនអាកាសចរណ៍ ហ្គាថា (Qatar) និងក្រុមហ៊ុន​អាកាសចរណ៍​ទួរគី (Turkish Airlines) បាន​ពង្រីក​សេវា​របស់​ពួកគេ​យ៉ាង​ខ្លាំង​ទៅកាន់​ទ្វីប​អាហ្វ្រិក​ និង​ផ្ដល់​ការ​ភ្ជាប់​ជើងហោះ​ហើរ​ទៅកាន់​ទីក្រុង​សំខាន់​ៗ​នៅ​ក្នុង​ទ្វីប​អាហ្វ្រិក​ក្នុង​អត្រាតម្លៃ​ប្រកួតប្រជែង​គ្នា​ជាង​ក្រុមហ៊ុន​អាកាសចរ​ផ្សេង​ទៀត​នៅ​ទ្វី​ប​អឺ​រ៉ុប​។,"Khmer: ក្រុមហ៊ុន​អាកាសចរ ដូច​ជា​ក្រុមហ៊ុនអាកាសចរណ៍​​អេមីរ៉េតស៍ (Emirates) ក្រុមហ៊ុន​អាកាសចរណ៍ អេធីហាឌ (Etihad)  ក្រុមហ៊ុនអាកាសចរណ៍ ហ្គាថា (Qatar) និងក្រុមហ៊ុន​អាកាសចរណ៍​ទួរគី (Turkish Airlines) បាន​ពង្រីក​សេវា​របស់​ពួកគេ​យ៉ាង​ខ្លាំង​ទៅកាន់​ទ្វីប​អាហ្វ្រិក​ និង​ផ្ដល់​ការ​ភ្ជាប់​ជើងហោះ​ហើរ​ទៅកាន់​ទីក្រុង​សំខាន់​ៗ​នៅ​ក្នុង​ទ្វីប​អាហ្វ្រិក​ក្នុង​អត្រាតម្លៃ​ប្រកួតប្រជែង​គ្នា​ជាង​ក្រុមហ៊ុន​អាកាសចរ​ផ្សេង​ទៀត​នៅ​ទ្វី​ប​អឺ​រ៉ុប​។ 
@@ -254,7 +297,15 @@ English: You are not allowed to delete or move any of the following pages:
 * [[Special:ActiveUsers|your active users]]
 * [[Special:Contributions|your contributions]]
 * [[Special:BlockList|your blocked IP addresses]]
-* [[Special",You are not allowed to delete or move any of the following pages:
+* [[Special","You are not allowed to delete or move any of the following pages:
+* [[Special:ListUsers/sysop|administrator]]
+* [[Special:Preferences|your user preferences]]
+* [[Special:RecentChanges|your recent changes]]
+* [[Special:Log|your log]]
+* [[Special:ActiveUsers|your active users]]
+* [[Special:Contributions|your contributions]]
+* [[Special:BlockList|your blocked IP addresses]]
+* [[Special"
 បើនិយាយជាទូទៅ វាគ្មានហេតុផលណាមួយដែលត្រូវស្វែងរកការបញ្ចុះតម្លៃសម្រាប់កៅអីលំដាប់ថ្នាក់ទីមួយ ឬកៅអីធុរៈកិច្ចចំពោះជើងហោះហើរផ្ទាល់ដោយគ្មានការឈប់ប្តូរជើងយន្តហោះពី A ទៅ B ឡើយ។,"Khmer: បើនិយាយជាទូទៅ វាគ្មានហេតុផលណាមួយដែលត្រូវស្វែងរកការបញ្ចុះតម្លៃសម្រាប់កៅអីលំដាប់ថ្នាក់ទីមួយ ឬកៅអីធុរៈកិច្ចចំពោះជើងហោះហើរផ្ទាល់ដោយគ្មានការឈប់ប្តូរជើងយន្តហោះពី A ទៅ B ឡើយ។ 
 English: The following is a list of the most common types of people in the world. The list is not exhaustive, but it is a good starting point. The list is not intended to be a complete list of all types of people in the world. The list is not intended to be a complete list of all types of people in the world. The list is not intended to be a complete list of all types of people in the world. The list is not intended to be a complete list of all types","The list is not intended to be a complete list of all types of people in the world. The following is a list of the most common types of people in the world. The list is not intended to be a complete list of all types The list is not exhaustive, but it is a good starting point."
 កីឡាចោលដំបងប៊ូមម័ររាំង (Boomerang) គឺជាកីឡា​ដ៏ពេញ​និយម​មួយ​ដែល​ភ្ញៀវទេសចរ​ជាច្រើន​ចង់លេង។,"Khmer: កីឡាចោលដំបងប៊ូមម័ររាំង (Boomerang) គឺជាកីឡា​ដ៏ពេញ​និយម​មួយ​ដែល​ភ្ញៀវទេសចរ​ជាច្រើន​ចង់លេង។ 
@@ -264,18 +315,18 @@ English: You can only make a request for a new feature if you are the maintainer
 ទីក្រុងសាន់ហ្វ្រាន់ស៊ីស្កូ បានសាងសង់នូវហេដ្ឋារចនាសម្ព័ន្ធ​ទេសចរណ៍យ៉ាងសម្បើម ដោយមានសណ្ឋាគារ ភោជនីយដ្ឋាន និងអគារផ្សារទំនើបលំដាប់ប្រណីតៗជាច្រើន។,"Khmer: ទីក្រុងសាន់ហ្វ្រាន់ស៊ីស្កូ បានសាងសង់នូវហេដ្ឋារចនាសម្ព័ន្ធ​ទេសចរណ៍យ៉ាងសម្បើម ដោយមានសណ្ឋាគារ ភោជនីយដ្ឋាន និងអគារផ្សារទំនើបលំដាប់ប្រណីតៗជាច្រើន។ 
 English: The following information is not available for this user because the user has not yet created a profile. Please contact the administrator of this site if you need any assistance.
 Korean: 당신은 이미 프로필을 만들어 주지 않았습니다. 프로필을 만들어 주려면 프로필을 만들어 주세요.
-Russian (Russia): В",Please contact the administrator of this site if you need any assistance. The following information is not available for this user because the user has not yet created a profile.
+Russian (Russia): В",프로필을 만들어 주려면 프로필을 만들어 주세요. The following information is not available for this user because the user has not yet created a profile. Russian (Russia): В Korean: 당신은 이미 프로필을 만들어 주지 않았습니다. Please contact the administrator of this site if you need any assistance.
 ការធ្វើ​ការងារ​ស្ម័គ្រចិត្ត​ក្នុង​កំឡុង​ពេល​កំពុង​ធ្វើដំណើរ​កំសាន្ត គឺជាវិធី​ដ៏​ប្រសើរ​មួយ ដើម្បី​ធ្វើ​ឱ្យ​មាន​ភាព​ប្លែក​ជា​វិជ្ជមាន ប៉ុន្តែ​នេះ​មិន​មែន​ត្រឹមតែ​ជា​ការ​ផ្តល់​ឱ្យ​សម្រាប់​អ្នកដទៃ​ប៉ុណ្ណោះ​នោះ​ទេ។,"Khmer: ការធ្វើ​ការងារ​ស្ម័គ្រចិត្ត​ក្នុង​កំឡុង​ពេល​កំពុង​ធ្វើដំណើរ​កំសាន្ត គឺជាវិធី​ដ៏​ប្រសើរ​មួយ ដើម្បី​ធ្វើ​ឱ្យ​មាន​ភាព​ប្លែក​ជា​វិជ្ជមាន ប៉ុន្តែ​នេះ​មិន​មែន​ត្រឹមតែ​ជា​ការ​ផ្តល់​ឱ្យ​សម្រាប់​អ្នកដទៃ​ប៉ុណ្ណោះ​នោះ​ទេ។ 
 English: To make sure that the user is not able to edit the content of the page during the editing process, the user is not allowed to edit the page until the page is saved. This is to prevent the user from editing the page while the page is being edited. This is to prevent the user from editing the page while the page is being edited. This is to prevent the user from editing the page while the page is being edited. This is to prevent the user from editing the page while the page","To make sure that the user is not able to edit the content of the page during the editing process, the user is not allowed to edit the page until the page is saved. This is to prevent the user from editing the page while the page is being edited. This is to prevent the user from editing the page while the page"
 មនុស្សអាច​មិន​មាន​ការ​អត់​ធ្មត់បែបនេះ​ទេ ដូច្នេះ​ ការ​យោគ​យល់​អធ្យាស្រ័យ​គ្នា​ គឺ​មាន​ការ​ចាំ​បាច់​សម្រាប់​អ្នក​ធ្វើ​ដំណើរ​ត្រឡប់​ទៅ​ផ្ទះ​វិញ​។​,"Khmer: មនុស្សអាច​មិន​មាន​ការ​អត់​ធ្មត់បែបនេះ​ទេ ដូច្នេះ​ ការ​យោគ​យល់​អធ្យាស្រ័យ​គ្នា​ គឺ​មាន​ការ​ចាំ​បាច់​សម្រាប់​អ្នក​ធ្វើ​ដំណើរ​ត្រឡប់​ទៅ​ផ្ទះ​វិញ​។​ 
 English: You cannot create a new account with this email address. Please check your email address and try again.
 Korean: 당신은 이메일 주소를 입력하지 않았습니다. 확인해 주세요. 재생성 해 주세요.
-Russian: Вы не можете создать новую учетную запись с этим именем. П",You cannot create a new account with this email address. Please check your email address and try again.
+Russian: Вы не можете создать новую учетную запись с этим именем. П",확인해 주세요. П You cannot create a new account with this email address. Korean: 당신은 이메일 주소를 입력하지 않았습니다. Russian: Вы не можете создать новую учетную запись с этим именем. 재생성 해 주세요. Please check your email address and try again.
 សូមកុំភ្លេច​បន្ថែម​ថ្លៃ​ចំណាយ​លើ​ទិដ្ឋការ​បន្ថែម​ ពន្ធ​នៃ​ការ​ចាក​ចេញ​ ការ​ដឹកជញ្ជូន​តាម​ផ្លូវ​គោក ។ល។ សម្រាប់​គ្រប់​កន្លែង​ទាំង​អស់​នៅ​ក្រៅ​ទ្វី​ប​អាហ្វ្រិក​។​,"Khmer: សូមកុំភ្លេច​បន្ថែម​ថ្លៃ​ចំណាយ​លើ​ទិដ្ឋការ​បន្ថែម​ ពន្ធ​នៃ​ការ​ចាក​ចេញ​ ការ​ដឹកជញ្ជូន​តាម​ផ្លូវ​គោក ។ល។ សម្រាប់​គ្រប់​កន្លែង​ទាំង​អស់​នៅ​ក្រៅ​ទ្វី​ប​អាហ្វ្រិក​។​ 
 English: Please make sure you have selected the correct answer for the question above. If you have not, please click on the button below to make a new selection. If you have made a mistake, please click on the button below to correct it. If you have made a mistake, please click on the button below to correct it. If you have made a mistake, please click on the button below to correct it. If you have made a mistake, please click on the button below to correct it. If","If you have made a mistake, please click on the button below to correct it. If If you have not, please click on the button below to make a new selection. Please make sure you have selected the correct answer for the question above."
 អ្នកស្រុកប៊ីស្ហខឹក (Bishkek) បីបួននាក់បានស្តីបន្ទោសក្រុមអ្នកតវ៉ាមកពីភាគខាងត្បូងចំពោះភាពគ្មានច្បាប់ទម្លាប់។,"Khmer: អ្នកស្រុកប៊ីស្ហខឹក (Bishkek) បីបួននាក់បានស្តីបន្ទោសក្រុមអ្នកតវ៉ាមកពីភាគខាងត្បូងចំពោះភាពគ្មានច្បាប់ទម្លាប់។ 
 English: You are about to leave the Bishkek International Airport. Please be aware that the airport is closed for the next 30 minutes. Thank you for your understanding.
-Kyrgyz: អ្នកស្រុកប៊ីស្ហខឹក (Bishkek) បីបួននាក់បានស្តីបន្ទោសក្រុមអ្នកតវ៉ាមក�",Thank you for your understanding. You are about to leave the Bishkek International Airport. Please be aware that the airport is closed for the next 30 minutes.
+Kyrgyz: អ្នកស្រុកប៊ីស្ហខឹក (Bishkek) បីបួននាក់បានស្តីបន្ទោសក្រុមអ្នកតវ៉ាមក�",Thank you for your understanding. You are about to leave the Bishkek International Airport. Please be aware that the airport is closed for the next 30 minutes. Kyrgyz: អ្នកស្រុកប៊ីស្ហខឹក (Bishkek) បីបួននាក់បានស្តីបន្ទោសក្រុមអ្នកតវ៉ាមក�
 បច្ចុប្បន្ន​នេះ​ ផ្នែក​ខ្លះ​នៃ​ប្រទេស​ប៊ែលស៊ិក​ជា​ផ្នែក​របស់​ប្រទេស​លុចចសំបួរ​ កាល​ពី​អតីតកាល ប៉ុន្តែ​បាន​ក្លាយ​ជា​កម្មសិទ្ធិ​របស់​ប៊ែលសិក​ក្រោយ​​បដិវដ្ដ​ប៊ែលស៊ិក​ទសវត្សរ៍​ឆ្នាំ​1830។,"Khmer: បច្ចុប្បន្ន​នេះ​ ផ្នែក​ខ្លះ​នៃ​ប្រទេស​ប៊ែលស៊ិក​ជា​ផ្នែក​របស់​ប្រទេស​លុចចសំបួរ​ កាល​ពី​អតីតកាល ប៉ុន្តែ​បាន​ក្លាយ​ជា​កម្មសិទ្ធិ​របស់​ប៊ែលសិក​ក្រោយ​​បដិវដ្ដ​ប៊ែលស៊ិក​ទសវត្សរ៍​ឆ្នាំ​1830។ 
 English: This is a list of the most important people in the Kingdom of Cambodia. The list is not exhaustive, but it is a good starting point for anyone interested in the history of Cambodia. The list is not chronological, but it is arranged by the order of their importance. The list is not exhaustive, but it is a good starting point for anyone interested in the history of Cambodia. The list is not chronological, but it is arranged by the order of their importance. The list is not exhaustive","The list is not exhaustive The list is not exhaustive, but it is a good starting point for anyone interested in the history of Cambodia. The list is not chronological, but it is arranged by the order of their importance. This is a list of the most important people in the Kingdom of Cambodia."
 តាំងពី​ឆ្នាំ 1988 មក​ប្រអប់បោះឆ្នោតត្រូវតែមានតម្លាភាព ដើម្បីឱ្យអ្នកបោះឆ្នោត និងអ្នក​សង្កេតការណ៍បោះឆ្នោត អាចធ្វើការ​បញ្ជាក់​បានថា នៅពេលចាប់ផ្តើមបោះឆ្នោត ពិតជា​គ្មានស្រោមសំបុត្រណាមួយទេ ហើយគ្មានការបន្ថែមស្រោមសំបុត្រណាមួយឡើយ លើកលែង​តែសន្លឹកឆ្នោត ដែលត្រូវបានរាប់ត្រឹមត្រូវ និងអ្នកបោះឆ្នោតដែលគេអនុញ្ញាត។,"Khmer: តាំងពី​ឆ្នាំ 1988 មក​ប្រអប់បោះឆ្នោតត្រូវតែមានតម្លាភាព ដើម្បីឱ្យអ្នកបោះឆ្នោត និងអ្នក​សង្កេតការណ៍បោះឆ្នោត អាចធ្វើការ​បញ្ជាក់​បានថា នៅពេលចាប់ផ្តើមបោះឆ្នោត ពិតជា​គ្មានស្រោមសំបុត្រណាមួយទេ ហើយគ្មានការបន្ថែមស្រោមសំបុត្រណាមួយឡើយ លើកលែង​តែសន្លឹកឆ្នោត ដែលត្រូវបានរាប់ត្រឹមត្រូវ និងអ្នកបោះឆ្នោតដែលគេអនុញ្ញាត។ 
@@ -285,7 +336,9 @@ English: The Prime Minister of Australia Julia Gillard has been appointed as the
 រដ្ឋាភិបាល​ប្រទេសអៀរឡង់ កំពុង​បញ្ជាក់​អំពីភាពចាំបាច់​បន្ទាន់​នៃ​ច្បាប់របស់រដ្ឋសភា ដើម្បីស្រោចស្រង់ស្ថានការណ៍នេះ​។,"Khmer: រដ្ឋាភិបាល​ប្រទេសអៀរឡង់ កំពុង​បញ្ជាក់​អំពីភាពចាំបាច់​បន្ទាន់​នៃ​ច្បាប់របស់រដ្ឋសភា ដើម្បីស្រោចស្រង់ស្ថានការណ៍នេះ​។ 
 English: The following information is available about the route between Phnom Penh and Siem Reap:
 
-The route is about 100 km long and passes through the provinces of Kampong Cham, Kampong Speu, Takeo, and Siem Reap. The route is divided into two sections: the first section is from Phnom Penh to Kampong Cham, and the second section is from Kampong Cham to Siem Reap. The first section is about 80 km long and passes",The following information is available about the route between Phnom Penh and Siem Reap:
+The route is about 100 km long and passes through the provinces of Kampong Cham, Kampong Speu, Takeo, and Siem Reap. The route is divided into two sections: the first section is from Phnom Penh to Kampong Cham, and the second section is from Kampong Cham to Siem Reap. The first section is about 80 km long and passes","The first section is about 80 km long and passes The route is divided into two sections: the first section is from Phnom Penh to Kampong Cham, and the second section is from Kampong Cham to Siem Reap. The following information is available about the route between Phnom Penh and Siem Reap:
+
+The route is about 100 km long and passes through the provinces of Kampong Cham, Kampong Speu, Takeo, and Siem Reap."
 ជម្លោះការទូតចំពោះតំបន់នេះបន្តបំផ្លាញទំនាក់ទំនងរវាង ប្រទេសអាមេនី និងអាស៊ែបៃហ្សង់។,"Khmer: ជម្លោះការទូតចំពោះតំបន់នេះបន្តបំផ្លាញទំនាក់ទំនងរវាង ប្រទេសអាមេនី និងអាស៊ែបៃហ្សង់។ 
 English: This is a test of the answer key for the exam. Please check your answers and correct them if necessary. If you have any questions, please ask them in the comments section below. Thank you for your time and effort.","This is a test of the answer key for the exam. Please check your answers and correct them if necessary. If you have any questions, please ask them in the comments section below. Thank you for your time and effort."
 នាយករដ្ឋមន្រ្តី លោក Stephen Harper (ស្តេហ្វឹន ហាភើ) បានយល់ព្រមក្នុងការបញ្ជូនច្បាប់ស្តី​ពី 'Clean Air Act (ខ្យល់​អាកាស​បរិសុទ្ធ)' របស់​រដ្ឋាភិបាល ទៅដល់​គណៈកម្មាធិការ​គណបក្ស​ទាំងអស់ ដើម្បី​ពិនិត្យឡើងវិញ មុនពេលអានជាលើកទីពីរ បន្ទាប់ពីមានការប្រជុំជាមួយនឹងមេដឹកនាំ NDP គឺលោក Jack Layton (ជែក ឡេតុន) នៅឯ PMO អស់រយៈពេល 25 នាទីកាលពី​ថ្ងៃ​អង្គារ។,"Khmer: នាយករដ្ឋមន្រ្តី លោក Stephen Harper (ស្តេហ្វឹន ហាភើ) បានយល់ព្រមក្នុងការបញ្ជូនច្បាប់ស្តី​ពី 'Clean Air Act (ខ្យល់​អាកាស​បរិសុទ្ធ)' របស់​រដ្ឋាភិបាល ទៅដល់​គណៈកម្មាធិការ​គណបក្ស​ទាំងអស់ ដើម្បី​ពិនិត្យឡើងវិញ មុនពេលអានជាលើកទីពីរ បន្ទាប់ពីមានការប្រជុំជាមួយនឹងមេដឹកនាំ NDP គឺលោក Jack Layton (ជែក ឡេតុន) នៅឯ PMO អស់រយៈពេល 25 នាទីកាលពី​ថ្ងៃ​អង្គារ។ 
@@ -297,7 +350,11 @@ a. The government will implement the agreement in the following manner:
 i. The government will implement the agreement in the following manner:
 a. The government will implement the agreement in the following manner:
 i. The government will implement the agreement in the following manner:
-a",The Khmer government has decided to implement the ACTA agreement from the year of 2011. The agreement is to be implemented in the following manner:
+a","The government will implement the agreement in the following manner:
+a The government will implement the agreement in the following manner:
+i. The government will implement the agreement in the following manner:
+a. The Khmer government has decided to implement the ACTA agreement from the year of 2011. The agreement is to be implemented in the following manner:
+1."
 សេចក្តីប្រកាសជាបម្រាមគឺគ្រាន់តែជាសេចក្តីសង្ខេបខ្លីនៃស្ថានភាពនយោបាយនៅក្នុងប្រទេសមួយប៉ុណ្ណោះ។,"Khmer: សេចក្តីប្រកាសជាបម្រាមគឺគ្រាន់តែជាសេចក្តីសង្ខេបខ្លីនៃស្ថានភាពនយោបាយនៅក្នុងប្រទេសមួយប៉ុណ្ណោះ។ 
 English: To make a copy of a document, click on the ""copy"" button. To make a copy of a document, click on the ""copy"" button. To make a copy of a document, click on the ""copy"" button. To make a copy of a document, click on the ""copy"" button. To make a copy of a document, click on the ""copy"" button. To make a copy of a document, click on the ""copy"" button. To make a copy","To make a copy To make a copy of a document, click on the ""copy"" button."
 ក្នុងកំឡុងការបោះឆ្នោតឆ្នាំ 1976 បេក្ខជនជ័យលាភី Henry Kissinger ធ្លាប់ផ្តល់យោបល់ដល់ Carter អំពីគោល នយោបាយបរទេស បន្ទាប់មកគាត់បម្រើរការជាទីប្រឹក្សា សន្តិសុខថ្នាក់ជាតិ (NSA) ពីឆ្នាំ 1977 ដល់ 1981។,"Khmer: ក្នុងកំឡុងការបោះឆ្នោតឆ្នាំ 1976 បេក្ខជនជ័យលាភី Henry Kissinger ធ្លាប់ផ្តល់យោបល់ដល់ Carter អំពីគោល នយោបាយបរទេស បន្ទាប់មកគាត់បម្រើរការជាទីប្រឹក្សា សន្តិសុខថ្នាក់ជាតិ (NSA) ពីឆ្នាំ 1977 ដល់ 1981។ 
@@ -322,19 +379,24 @@ English: From the year 2000, the postal code is used to identify the residence o
 English: The land of the Khmers, which was part of the Kingdom of Siam, was annexed by the Kingdom of Cambodia in 1767. The area was later divided into the provinces of Battambang, Kampong Cham, Kampong Speu, and Siem Reap. The area was annexed by the Kingdom of Thailand in 1953. The area was annexed by the Kingdom of Cambodia in 1993. The area was annexed by the Kingdom of Thailand in 1997. The area was annexed","The area was later divided into the provinces of Battambang, Kampong Cham, Kampong Speu, and Siem Reap. The area was annexed by the Kingdom of Thailand in 1997. The area was annexed The area was annexed by the Kingdom of Cambodia in 1993. The area was annexed by the Kingdom of Thailand in 1953. The land of the Khmers, which was part of the Kingdom of Siam, was annexed by the Kingdom of Cambodia in 1767."
 វា​ក៏​ពុំ​មាន​សិទ្ធិអំណាច ដើម្បីបដិសេធច្បាប់ពន្ធ និង​ពន្ធគយ​រវាង​រដ្ឋ​នីមួយ​ៗ​នោះដែរ។,"Khmer: វា​ក៏​ពុំ​មាន​សិទ្ធិអំណាច ដើម្បីបដិសេធច្បាប់ពន្ធ និង​ពន្ធគយ​រវាង​រដ្ឋ​នីមួយ​ៗ​នោះដែរ។ 
 English: You have no permission to edit this page because you do not have the required permissions to edit pages. Please contact the administrator of this wiki if you would like to edit this page.',
-'noarticletext'                    => 'គ្មាន​អត្ថបទ​ចំពោះ​នេះ​។ អ្នក​អាច​អភិបាល​ចំណាត់ថ","You have no permission to edit this page because you do not have the required permissions to edit pages. ', Please contact the administrator of this wiki if you would like to edit this page."
+'noarticletext'                    => 'គ្មាន​អត្ថបទ​ចំពោះ​នេះ​។ អ្នក​អាច​អភិបាល​ចំណាត់ថ","You have no permission to edit this page because you do not have the required permissions to edit pages. Please contact the administrator of this wiki if you would like to edit this page. ',
+'noarticletext'                    => 'គ្មាន​អត្ថបទ​ចំពោះ​នេះ​។ អ្នក​អាច​អភិបាល​ចំណាត់ថ"
 ច្បាប់បោះឆ្នោតបារាំងមានការកំណត់និតិវិធីយ៉ាង​តឹងរឹង។,"Khmer: ច្បាប់បោះឆ្នោតបារាំងមានការកំណត់និតិវិធីយ៉ាង​តឹងរឹង។ 
 English: The user has not yet created any users.',
 'createacct-emailrequired' => 'អាសយដ្ឋានអ៊ីមែល',
 'createacct-emailoptional' => 'អាសយដ្ឋានអ៊ីមែល (ច្រើនជាមួយ)',
-'createacct-email-ph' => 'អាសយ�","The user has not yet created any users. ',"
+'createacct-email-ph' => 'អាសយ�","The user has not yet created any users. ',
+'createacct-emailrequired' => 'អាសយដ្ឋានអ៊ីមែល',
+'createacct-emailoptional' => 'អាសយដ្ឋានអ៊ីមែល (ច្រើនជាមួយ)',
+'createacct-email-ph' => 'អាសយ�"
 បន្ទាប់ពី​ចាញ់​ការបោះឆ្នោតពាក់កណ្តាល​អាណត្តិ​បាន​មួយ​សប្តាហ៍ លោកBushបានប្រាប់ទៅពួកអ្នកស្តាប់​អំពីការពង្រីក​ពាណិជ្ជកម្ម​នៅ​អាស៊ី។,"Khmer: បន្ទាប់ពី​ចាញ់​ការបោះឆ្នោតពាក់កណ្តាល​អាណត្តិ​បាន​មួយ​សប្តាហ៍ លោកBushបានប្រាប់ទៅពួកអ្នកស្តាប់​អំពីការពង្រីក​ពាណិជ្ជកម្ម​នៅ​អាស៊ី។ 
 English: The United States has decided to withdraw its troops from Cambodia. The decision was made after a long and difficult process. The withdrawal will take place in stages. The first stage will be completed by the end of this year. The second stage will begin in January of next year. The third stage will begin in February of next year. The fourth stage will begin in March of next year. The fifth stage will begin in April of next year. The sixth stage will begin in May of next year. The",The sixth stage will begin in May of next year. The withdrawal will take place in stages. The fifth stage will begin in April of next year. The fourth stage will begin in March of next year. The The third stage will begin in February of next year. The decision was made after a long and difficult process. The second stage will begin in January of next year. The United States has decided to withdraw its troops from Cambodia. The first stage will be completed by the end of this year.
 យុទ្ធសាស្ត្រនេះត្រូវបានគេបញ្ជាក់ថាមានប្រសិទ្ធិភាព ដោយវាកាត់ផ្តាច់ការផ្គត់ផ្គង់ផ្នែកយោធា និងស៊ីវិលដែលសំខាន់ ទោះបីជាការបិទបង្ខាំងនេះ វាបានរំលោភលើច្បាប់អន្តរជាតិ ដែលត្រូវបានគេទទួលស្គាល់ជាទូទៅ និងដែលបានកំណត់ដោយកិច្ចព្រមព្រៀងអន្តរជាតិជាច្រើនកាលពីពីរសតវត្សរ៍មុនក៏ដោយ។,"Khmer: យុទ្ធសាស្ត្រនេះត្រូវបានគេបញ្ជាក់ថាមានប្រសិទ្ធិភាព ដោយវាកាត់ផ្តាច់ការផ្គត់ផ្គង់ផ្នែកយោធា និងស៊ីវិលដែលសំខាន់ ទោះបីជាការបិទបង្ខាំងនេះ វាបានរំលោភលើច្បាប់អន្តរជាតិ ដែលត្រូវបានគេទទួលស្គាល់ជាទូទៅ និងដែលបានកំណត់ដោយកិច្ចព្រមព្រៀងអន្តរជាតិជាច្រើនកាលពីពីរសតវត្សរ៍មុនក៏ដោយ។ 
 English: The following information is available for the following languages: Khmer: យុទ្ធសាស្ត្រនេះត្រូវបានគេបញ្ជាក់ថាមានប្រសិទ្ធិភាព ដោយវាកាត់ផ្តាច់ការផ្គត់ផ្គង់ផ្ន",The following information is available for the following languages: Khmer: យុទ្ធសាស្ត្រនេះត្រូវបានគេបញ្ជាក់ថាមានប្រសិទ្ធិភាព ដោយវាកាត់ផ្តាច់ការផ្គត់ផ្គង់ផ្ន
 តំណភ្ជាប់​សេដ្ឋកិច្ច​ ត្រូវ​បាន​បង្កើត​ឡើង​នៅរវាង​ផ្នែក​ពីរ​នៃ​ប្រទេសម៉ុលដូវ៉ា បើ​ទោះ​បី​ជា​មាន​ការ​បរាជ័យ​ក្នុង​ការ​ចចារ​នយោបាយ​ក៏​ពិត​មែន​។,"Khmer: តំណភ្ជាប់​សេដ្ឋកិច្ច​ ត្រូវ​បាន​បង្កើត​ឡើង​នៅរវាង​ផ្នែក​ពីរ​នៃ​ប្រទេសម៉ុលដូវ៉ា បើ​ទោះ​បី​ជា​មាន​ការ​បរាជ័យ​ក្នុង​ការ​ចចារ​នយោបាយ​ក៏​ពិត​មែន​។ 
 English: The following file has been created:
-/var/www/example.com/public_html/example.com/example.com/example.com/example.com/example.com/example.com/example.com/example.com/example.com/example.com/example.com/example.com/example.com/example.com/example.com/example.com/example.com/example.com/example.com/example.com/example.com/example.com/example.com/example.com/example.com/example.com/example.com/example",The following file has been created:
+/var/www/example.com/public_html/example.com/example.com/example.com/example.com/example.com/example.com/example.com/example.com/example.com/example.com/example.com/example.com/example.com/example.com/example.com/example.com/example.com/example.com/example.com/example.com/example.com/example.com/example.com/example.com/example.com/example.com/example.com/example","The following file has been created:
+/var/www/example.com/public_html/example.com/example.com/example.com/example.com/example.com/example.com/example.com/example.com/example.com/example.com/example.com/example.com/example.com/example.com/example.com/example.com/example.com/example.com/example.com/example.com/example.com/example.com/example.com/example.com/example.com/example.com/example.com/example"
 ដោយមានការអមដំណើរពីមន្រ្តីទាំងនោះ លោកបានធានាដល់ពលរដ្ឋនៅរដ្ឋតិចសាស់ថា កំពុងមានការចាត់វិធានការ ដើម្បីការពារសុវត្ថិភាពសាធារណៈ។,"Khmer: ដោយមានការអមដំណើរពីមន្រ្តីទាំងនោះ លោកបានធានាដល់ពលរដ្ឋនៅរដ្ឋតិចសាស់ថា កំពុងមានការចាត់វិធានការ ដើម្បីការពារសុវត្ថិភាពសាធារណៈ។ 
 English: You have a request to leave the country. You have been granted permission to leave the country. Please leave the country immediately.",You have a request to leave the country. Please leave the country immediately. You have been granted permission to leave the country.
 ការរិះគន់បែបសេរីលើការប្រឹងប្រែងកសាងឡើងវិញ បានផ្តោតទៅ លើការផ្តល់ កិច្ចសន្យា កសាងឡើងវិញ ទៅដល់អ្នកដែលដឹងកិច្ចការ ផ្ទៃក្នុងនៅទីក្រុង វ៉ាស៊ីនតោន។,"Khmer: ការរិះគន់បែបសេរីលើការប្រឹងប្រែងកសាងឡើងវិញ បានផ្តោតទៅ លើការផ្តល់ កិច្ចសន្យា កសាងឡើងវិញ ទៅដល់អ្នកដែលដឹងកិច្ចការ ផ្ទៃក្នុងនៅទីក្រុង វ៉ាស៊ីនតោន។ 
@@ -357,7 +419,16 @@ Phnom Penh National Stadium
 Phnom Penh National Stadium
 Phnom Penh National Stadium
 Phnom Penh National Stadium
-Ph",The government of Cambodia has decided to hold the National Games in Phnom Penh in the year of 2008. The games will be held in the following venues: The games will be held in the month of August.
+Ph","The games will be held in the following venues:
+Phnom Penh Stadium
+Phnom Penh National Stadium
+Phnom Penh National Stadium
+Phnom Penh National Stadium
+Phnom Penh National Stadium
+Phnom Penh National Stadium
+Phnom Penh National Stadium
+Phnom Penh National Stadium
+Ph The government of Cambodia has decided to hold the National Games in Phnom Penh in the year of 2008. The games will be held in the month of August."
 មិន​គ្រាន់តែ​ជា​អតីត​ម្ចាស់​ជើង​ឯក​កីឡា​អូឡាំពិក និង​ពិភពលោក លោក Saito (សៃតូ) ក៏​ធ្លាប់​ជា​ប្រធាន​គណៈកម្មាធិការ​បណ្តុះបណ្តាល​សហព័ន្ធ​យូដូ​ជប៉ុន នៅ​ពេល​លោក​ទទួល​មរណភាព។,"Khmer: មិន​គ្រាន់តែ​ជា​អតីត​ម្ចាស់​ជើង​ឯក​កីឡា​អូឡាំពិក និង​ពិភពលោក លោក Saito (សៃតូ) ក៏​ធ្លាប់​ជា​ប្រធាន​គណៈកម្មាធិការ​បណ្តុះបណ្តាល​សហព័ន្ធ​យូដូ​ជប៉ុន នៅ​ពេល​លោក​ទទួល​មរណភាព។ 
 English: It is not possible to make a complete list of all the possible meanings of the word. The following is a list of the most common meanings of the word. The list is not exhaustive. The meanings are not necessarily the same as the meanings of the word in other languages. The meanings are not necessarily the same as the meanings of the word in other languages. The meanings are not necessarily the same as the meanings of the word in other languages. The meanings are not necessarily the same as the meanings of",It is not possible to make a complete list of all the possible meanings of the word. The list is not exhaustive. The meanings are not necessarily the same as the meanings of the word in other languages. The following is a list of the most common meanings of the word. The meanings are not necessarily the same as the meanings of
 គណៈកម្មាធិការ​អូឡាំពិក​អន្តរជាតិ បាន​បោះឆ្នោត​ដាក់​បញ្ចូល​កីឡា​នៅក្នុង​ការប្រជុំ​ក្រុម​ប្រឹក្សា​ប្រតិបត្តិ​របស់​ខ្លួន​នៅ​ទីក្រុង​ប៊ែរឡាំង​ថ្ងៃនេះ។ កីឡា​បាល់​ឱប ជា​ពិសេស​សហជីព​កីឡា​បាល់​ឱប និង​កីឡា​វាយ​កូនគោល​ត្រូវ​បាន​ជ្រើសរើស​ក្នុង​ចំណោម​កីឡា​ចំនួនប្រាំ ផ្សេងទៀត ដែល​ត្រូវ​បាន​ពិចារណា​ឱ្យ​ចូលរួម​ក្នុង​ព្រឹត្តិការណ៍​កីឡា​អូឡាំពិក។,"Khmer: គណៈកម្មាធិការ​អូឡាំពិក​អន្តរជាតិ បាន​បោះឆ្នោត​ដាក់​បញ្ចូល​កីឡា​នៅក្នុង​ការប្រជុំ​ក្រុម​ប្រឹក្សា​ប្រតិបត្តិ​របស់​ខ្លួន​នៅ​ទីក្រុង​ប៊ែរឡាំង​ថ្ងៃនេះ។ កីឡា​បាល់​ឱប ជា​ពិសេស​សហជីព​កីឡា​បាល់​ឱប និង​កីឡា​វាយ​កូនគោល​ត្រូវ​បាន​ជ្រើសរើស​ក្នុង​ចំណោម​កីឡា​ចំនួនប្រាំ ផ្សេងទៀត ដែល​ត្រូវ​បាន​ពិចារណា​ឱ្យ​ចូលរួម​ក្នុង​ព្រឹត្តិការណ៍​កីឡា​អូឡាំពិក។ 
@@ -429,7 +500,57 @@ Team members
 
 Team members
 
-Team","The team of the Super-G race of the 2017 World Championships in Pyeongchang, South Korea, consists of the following members:"
+Team","The team of the Super-G race of the 2017 World Championships in Pyeongchang, South Korea, consists of the following members:
+
+Team members
+
+Team members
+
+Team members
+
+Team members
+
+Team members
+
+Team members
+
+Team members
+
+Team members
+
+Team members
+
+Team members
+
+Team members
+
+Team members
+
+Team members
+
+Team members
+
+Team members
+
+Team members
+
+Team members
+
+Team members
+
+Team members
+
+Team members
+
+Team members
+
+Team members
+
+Team members
+
+Team members
+
+Team"
 សម្រាប់ព័ត៌មានស្តីពីការប្រកួតនិងកន្លែងដែលត្រូវទិញ​សំបុត្រសម្រាប់ការប្រកួតប៉ូឡូ សូមពិនិត្យមើលសមាគមន៍ Asociacion Argentina de Polo។,"Khmer: សម្រាប់ព័ត៌មានស្តីពីការប្រកួតនិងកន្លែងដែលត្រូវទិញ​សំបុត្រសម្រាប់ការប្រកួតប៉ូឡូ សូមពិនិត្យមើលសមាគមន៍ Asociacion Argentina de Polo។ 
 English: Association of Argentine Polo (AAP) is a non-profit organization that promotes polo in Argentina. The organization was founded in Buenos Aires in 1928 and is the oldest polo organization in the world. The organization is based in the city of Palermo, Buenos Aires Province. The organization is affiliated with the International Polo Federation (FIP). The organization is also affiliated with the Argentine Polo Federation (APF). The organization is the official organizer of the Argentine Polo Championship. The organization is also the official organiz","The organization is also affiliated with the Argentine Polo Federation (APF). The organization is based in the city of Palermo, Buenos Aires Province. The organization was founded in Buenos Aires in 1928 and is the oldest polo organization in the world. The organization is affiliated with the International Polo Federation (FIP). The organization is also the official organiz The organization is the official organizer of the Argentine Polo Championship. Association of Argentine Polo (AAP) is a non-profit organization that promotes polo in Argentina."
 ការប្រកួតបានចាប់ផ្តើមនៅម៉ោង 10:00 ព្រឹកដោយមានអាកាសធាតុល្អ ហើយក្រោយពីមានរលឹមពេលពាក់កណ្តាលព្រឹកបន្តិចមក វាជាថ្ងៃដ៏ល្អឥតខ្ចោះសម្រាប់ការលេងកីឡា 7’s rugby។,"Khmer: ការប្រកួតបានចាប់ផ្តើមនៅម៉ោង 10:00 ព្រឹកដោយមានអាកាសធាតុល្អ ហើយក្រោយពីមានរលឹមពេលពាក់កណ្តាលព្រឹកបន្តិចមក វាជាថ្ងៃដ៏ល្អឥតខ្ចោះសម្រាប់ការលេងកីឡា 7’s rugby។ 
@@ -443,7 +564,7 @@ English: You can make a request to the court to have a hearing on a matter that 
 "ដោយចាញ់គេប្រាំពីរពិន្ទុ ចនសុនស្ថិតនៅលំដាប់ទីពីរ ដោយមានពិន្ទុ 2,243។","Khmer: ដោយចាញ់គេប្រាំពីរពិន្ទុ ចនសុនស្ថិតនៅលំដាប់ទីពីរ ដោយមានពិន្ទុ 2,243។ 
 English: The Khmer Rouge executed 2,243 people in the period from 1975 to 1979.
 
-The Khmer Rouge executed at least 1,000 people in the period from 1975 to 1979. The exact number is unknown, as many people were executed in secret. The Khmer Rouge executed at least 1,000 people in the period from 1975 to 1979. The exact number is unknown, as many people were executed in secret. The Khmer Rouge executed at least 1,000 people in the period from 1975 to 1979. The exact","The Khmer Rouge executed 2,243 people in the period from 1975 to 1979."
+The Khmer Rouge executed at least 1,000 people in the period from 1975 to 1979. The exact number is unknown, as many people were executed in secret. The Khmer Rouge executed at least 1,000 people in the period from 1975 to 1979. The exact number is unknown, as many people were executed in secret. The Khmer Rouge executed at least 1,000 people in the period from 1975 to 1979. The exact","The exact The exact number is unknown, as many people were executed in secret. The Khmer Rouge executed at least 1,000 people in the period from 1975 to 1979. The Khmer Rouge executed 2,243 people in the period from 1975 to 1979."
 ការ​ដើរផ្សងព្រេងក្នុង​ជម្លង​ភ្នំ (ឬ៖ ការ​រុករក​ក្នុងជម្លងភ្នំ) គឺជាការចូលទៅក្នុងបាតជ្រលងមួយ មិន​ថា​មានទឹក​ឬស្ងួត​ទេ។,"Khmer: ការ​ដើរផ្សងព្រេងក្នុង​ជម្លង​ភ្នំ (ឬ៖ ការ​រុករក​ក្នុងជម្លងភ្នំ) គឺជាការចូលទៅក្នុងបាតជ្រលងមួយ មិន​ថា​មានទឹក​ឬស្ងួត​ទេ។ 
 English: to move to a higher rank in the military hierarchy (or to a higher rank in the military hierarchy); to move to a higher rank in the military hierarchy (or to a higher rank in the military hierarchy); to move to a higher rank in the military hierarchy (or to a higher rank in the military hierarchy); to move to a higher rank in the military hierarchy (or to a higher rank in the military hierarchy); to move to a higher rank in the military hierarchy (or",to move to a higher rank in the military hierarchy (or to a higher rank in the military hierarchy); to move to a higher rank in the military hierarchy (or to a higher rank in the military hierarchy); to move to a higher rank in the military hierarchy (or to a higher rank in the military hierarchy); to move to a higher rank in the military hierarchy (or to a higher rank in the military hierarchy); to move to a higher rank in the military hierarchy (or
 កីឡាករលេងគ្រីឃីតលោក រ៉ប់ប៊ីន យូថាផា (Robin Uthappa) បានវាយ​គ្រាប់​គ្រីឃីតបានពិន្ទុខ្ពស់ជាងគេ គឺបាន 70 ពិន្ទុ (រ៉ាន់) ដោយកូនគ្រាប់បាល់ 41គ្រាប់ប៉ុណ្ណោះ ដោយវាយបាន11ដងនៃពិន្ទុបួន ហើយនិង2ដងនៃពិន្ទុប្រាំមួយ ។,"Khmer: កីឡាករលេងគ្រីឃីតលោក រ៉ប់ប៊ីន យូថាផា (Robin Uthappa) បានវាយ​គ្រាប់​គ្រីឃីតបានពិន្ទុខ្ពស់ជាងគេ គឺបាន 70 ពិន្ទុ (រ៉ាន់) ដោយកូនគ្រាប់បាល់ 41គ្រាប់ប៉ុណ្ណោះ ដោយវាយបាន11ដងនៃពិន្ទុបួន ហើយនិង2ដងនៃពិន្ទុប្រាំមួយ ។ 
@@ -463,7 +584,7 @@ English: The person who is responsible for the maintenance of the building has b
 ការប្រើប្រាស់មិនបានត្រឹមត្រូវអាចបណ្តាលឱ្យមានគ្រោះថ្នាក់ជាច្រើនរួមមាន មេតាណុល ដែលអាចបណ្តាលឱ្យខ្វាក់ភ្នែកឬអាចដល់ស្លាប់ បើទោះជាបានប្រើប្រាស់តិចតួចក៏ដោយ។,"Khmer: ការប្រើប្រាស់មិនបានត្រឹមត្រូវអាចបណ្តាលឱ្យមានគ្រោះថ្នាក់ជាច្រើនរួមមាន មេតាណុល ដែលអាចបណ្តាលឱ្យខ្វាក់ភ្នែកឬអាចដល់ស្លាប់ បើទោះជាបានប្រើប្រាស់តិចតួចក៏ដោយ។ 
 English: The user is not allowed to perform this action because the user is not allowed to perform this action or the user is not allowed to perform this action because the user is not allowed to perform this action.
 The user is not allowed to perform this action because the user is not allowed to perform this action or the user is not allowed to perform this action because the user is not allowed to perform this action.
-The user is not allowed to perform this action because the user is not allowed to perform this action or",The user is not allowed to perform this action because the user is not allowed to perform this action or the user is not allowed to perform this action because the user is not allowed to perform this action.
+The user is not allowed to perform this action because the user is not allowed to perform this action or",The user is not allowed to perform this action because the user is not allowed to perform this action or The user is not allowed to perform this action because the user is not allowed to perform this action or the user is not allowed to perform this action because the user is not allowed to perform this action.
 មាន​តែ​ផល​ប៉ះពាល់​នៃ​មហន្តរាយ​មិនមែន​ការ​ធ្លាក់ទឹកចិត្ត និង​ភាព​ភ័យខ្លាច​ទេ ដែល​មាន​លក្ខខណ្ឌ​នៃ​វគ្គ PA ដែល​មាន​រចនាសម្ព័ន្ធ​ទៀតទាត់​ប្រចាំ​សប្តាហ៍។,"Khmer: មាន​តែ​ផល​ប៉ះពាល់​នៃ​មហន្តរាយ​មិនមែន​ការ​ធ្លាក់ទឹកចិត្ត និង​ភាព​ភ័យខ្លាច​ទេ ដែល​មាន​លក្ខខណ្ឌ​នៃ​វគ្គ PA ដែល​មាន​រចនាសម្ព័ន្ធ​ទៀតទាត់​ប្រចាំ​សប្តាហ៍។ 
 English: There is no way to remove the default language of the program. You can only change the language of the program by changing the language of the program. You can also change the language of the program by changing the language of the program. You can also change the language of the program by changing the language of the program. You can also change the language of the program by changing the language of the program. You can also change the language of the program by changing the language of the program. You can",There is no way to remove the default language of the program. You can You can only change the language of the program by changing the language of the program. You can also change the language of the program by changing the language of the program.
 ការ​ដែល​មាន​រថយន្តជាទ្រង់ទ្រាយធំក៏វានាំឱ្យមានឧប្បត្តិហេតុ ឬគ្រោះថ្នាក់ច្រើនជាងមុន​នៅលើដងផ្លូវដែរ ដែលនាំឱ្យមាន​ការបង្កើតបច្ចេកទេស ថែទាំដ៏ថ្មីមួយសម្រាប់​ការជួសជុល​ដងខ្លួនរថយន្តដែលខូចខាត។,"Khmer: ការ​ដែល​មាន​រថយន្តជាទ្រង់ទ្រាយធំក៏វានាំឱ្យមានឧប្បត្តិហេតុ ឬគ្រោះថ្នាក់ច្រើនជាងមុន​នៅលើដងផ្លូវដែរ ដែលនាំឱ្យមាន​ការបង្កើតបច្ចេកទេស ថែទាំដ៏ថ្មីមួយសម្រាប់​ការជួសជុល​ដងខ្លួនរថយន្តដែលខូចខាត។ 
@@ -485,21 +606,31 @@ If you want to remove the file from the repository, you can use the following co
 git rm --cached <file>
 
 If you want to remove the file from the repository, you can use the following command:
-git rm",You can also use the following command to remove the current version of the file from the repository:
+git rm","You can also use the following command to remove the current version of the file from the repository:
+git rm --cached <file>
+
+If you want to remove the file from the repository, you can use the following command:
+git rm --cached <file>
+
+If you want to remove the file from the repository, you can use the following command:
+git rm --cached <file>
+
+If you want to remove the file from the repository, you can use the following command:
+git rm"
 មនុស្សមួយចំនួនជឿថា​ ការយល់សប្ដិ​រវើរវាយ​ច្រើន បង្កឲ្យ​​មានការ​យល់សប្តិ​មិន​ច្បាស់លា​ស់ ដែល​ជា​ទូទៅ​ គ្រប់​គ្រាន់​នឹងធ្វើឲ្យ​​មានភាពនឿយហត់បាន។,"Khmer: មនុស្សមួយចំនួនជឿថា​ ការយល់សប្ដិ​រវើរវាយ​ច្រើន បង្កឲ្យ​​មានការ​យល់សប្តិ​មិន​ច្បាស់លា​ស់ ដែល​ជា​ទូទៅ​ គ្រប់​គ្រាន់​នឹងធ្វើឲ្យ​​មានភាពនឿយហត់បាន។ 
 English: The number of people who are not able to read and write is increasing. This is because there is no way to teach them how to read and write. This is because there is no way to teach them how to read and write. This is because there is no way to teach them how to read and write. This is because there is no way to teach them how to read and write. This is because there is no way to teach them how to read and write. This is because there is",This is because there is The number of people who are not able to read and write is increasing. This is because there is no way to teach them how to read and write.
 ភេត្រូ (Petro) បានទទួលការព្យាបាលនៅស្មារបស់គាត់​នៅ​ចំណុចនេះ ប៉ុន្តែបានចាត់ចែងអោយវិលត្រឡប់​ទៅកាន់ការប្រកួតវិញ។,"Khmer: ភេត្រូ (Petro) បានទទួលការព្យាបាលនៅស្មារបស់គាត់​នៅ​ចំណុចនេះ ប៉ុន្តែបានចាត់ចែងអោយវិលត្រឡប់​ទៅកាន់ការប្រកួតវិញ។ 
 English: The petroleum has been transferred to the petroleum company. The company has been asked to transfer the petroleum to the petroleum storage tank.
 The petroleum has been transferred to the petroleum company. The company has been asked to transfer the petroleum to the petroleum storage tank.
 The petroleum has been transferred to the petroleum company. The company has been asked to transfer the petroleum to the petroleum storage tank.
-The petroleum has been transferred to the petroleum company. The",The petroleum has been transferred to the petroleum company. The company has been asked to transfer the petroleum to the petroleum storage tank.
+The petroleum has been transferred to the petroleum company. The",The petroleum has been transferred to the petroleum company. The company has been asked to transfer the petroleum to the petroleum storage tank. The
 ជាងនេះ​ទៀតនោះ ការ​ខកខាន​មិន​បាន​ធ្វើ​បែប​នេះ​ មាន​ផលវិបាកយ៉ាងធ្ងន់ធ្ងរដូចជា៖ ភាព​រំខាន​ដល់​ការ​លូតលាស់​ធំធាត់​ កង្វះ​អាហារូបត្ថម្ភ​ និង​ចុងក្រោយ អាច​ដល់​ស្លាប់​បាត់​បង់ជីវិត​។,"Khmer: ជាងនេះ​ទៀតនោះ ការ​ខកខាន​មិន​បាន​ធ្វើ​បែប​នេះ​ មាន​ផលវិបាកយ៉ាងធ្ងន់ធ្ងរដូចជា៖ ភាព​រំខាន​ដល់​ការ​លូតលាស់​ធំធាត់​ កង្វះ​អាហារូបត្ថម្ភ​ និង​ចុងក្រោយ អាច​ដល់​ស្លាប់​បាត់​បង់ជីវិត​។ 
 English: This is not a valid email address. Please check the address and try again.
 Kannada: ಈ ವಿಳಾಸವು ಸರಿಯಾದ ವಿಳಾಸವಲ್ಲ. ದಯವಿಟ್ಟು ವಿಳಾಸವನ್ನು ಪರೀಕ್ಷಿಸಿ ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ.
 Malay: Alamat ini tidak valid. Silakan periksa kembali alamat ಮತ್ತು ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ.
 Polish: Adres nie jest prawidłowym. Spróbuj ponownie.
 Portuguese: Este endereço de e-mail não é válido. Por favor, verifique o endereço e tente novamente.
-",This is not a valid email address. Please check the address and try again.
+","This is not a valid email address. Portuguese: Este endereço de e-mail não é válido. Kannada: ಈ ವಿಳಾಸವು ಸರಿಯಾದ ವಿಳಾಸವಲ್ಲ. Silakan periksa kembali alamat ಮತ್ತು ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ. Polish: Adres nie jest prawidłowym. Please check the address and try again. Por favor, verifique o endereço e tente novamente. ದಯವಿಟ್ಟು ವಿಳಾಸವನ್ನು ಪರೀಕ್ಷಿಸಿ ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ. Malay: Alamat ini tidak valid. Spróbuj ponownie."
 មន្ត្រីតំណាង​ទី​ក្រុង​អាំ​ស្ទើដាំ និង​សារមន្ទីរ​ Anne Frank បាន​លើ​ក​ឡើ​ង​ថា​ រុក្ខជាតិ​ គឺទទួល​រង​ការ​ឆ្លងជំងឺ​ផ្សិត​ និង​បង្ក​គ្រោះ​ថ្នាក់​សុខភាព​ធ្ងន់ធ្ងរ​ ដោយសារ​ពួក​វា​ជា​គ្រោះ​ថ្នាក់ ដែលអាច​កើត​មាន​ឡើង​បាន​ពីការបាក់​ដួលនៃ​រុក្ខ​ជាតិ​ទាំង​នោះ​។,"Khmer: មន្ត្រីតំណាង​ទី​ក្រុង​អាំ​ស្ទើដាំ និង​សារមន្ទីរ​ Anne Frank បាន​លើ​ក​ឡើ​ង​ថា​ រុក្ខជាតិ​ គឺទទួល​រង​ការ​ឆ្លងជំងឺ​ផ្សិត​ និង​បង្ក​គ្រោះ​ថ្នាក់​សុខភាព​ធ្ងន់ធ្ងរ​ ដោយសារ​ពួក​វា​ជា​គ្រោះ​ថ្នាក់ ដែលអាច​កើត​មាន​ឡើង​បាន​ពីការបាក់​ដួលនៃ​រុក្ខ​ជាតិ​ទាំង​នោះ​។ 
 English: The book is a diary of Anne Frank, a Jewish girl who lived in Amsterdam during the Nazi occupation of the Netherlands. The diary was written in the diary by Anne Frank, a Jewish girl who lived in Amsterdam during the Nazi occupation of the Netherlands. The diary was written in the diary by Anne Frank, a Jewish girl who lived in Amsterdam during the Nazi occupation of the Netherlands. The diary was written in the diary by Anne Frank, a Jewish girl who lived in","The diary was written in the diary by Anne Frank, a Jewish girl who lived in Amsterdam during the Nazi occupation of the Netherlands. The diary was written in the diary by Anne Frank, a Jewish girl who lived in The book is a diary of Anne Frank, a Jewish girl who lived in Amsterdam during the Nazi occupation of the Netherlands."
 មន្ទីរពេទ្យបានអនុវត្តតាមពិធីសារគ្រប់គ្រងការចម្លងរោគ ដោយរួមមានការដាក់អ្នកជំងឺឱ្យនៅដាច់ពីគ្នាដើម្បីការពារការចម្លងរោគដែលអាចកើតមានដល់អ្នកដទៃទៀត។,"Khmer: មន្ទីរពេទ្យបានអនុវត្តតាមពិធីសារគ្រប់គ្រងការចម្លងរោគ ដោយរួមមានការដាក់អ្នកជំងឺឱ្យនៅដាច់ពីគ្នាដើម្បីការពារការចម្លងរោគដែលអាចកើតមានដល់អ្នកដទៃទៀត។ 
@@ -531,7 +662,25 @@ User Last Activity Country:
 User Last Activity Language:
 User Last Activity User Name:
 User Last Activity User Email:
-User Last",The following information is available for the following user(s):
+User Last","The following information is available for the following user(s):
+Name:
+User ID:
+User Name:
+User Email:
+User Password:
+User Language:
+User Country:
+User IP Address:
+User Last Login:
+User Last Logout Time:
+User Last Activity Time:
+User Last Activity Date:
+User Last Activity IP Address:
+User Last Activity Country:
+User Last Activity Language:
+User Last Activity User Name:
+User Last Activity User Email:
+User Last"
 អធិរាជអុកហ្គឺសស្ទើស (Augustus) បានចាប់ផ្ដើមជ្រើស​រើស​វេជ្ជបណ្ឌិត ហើយ​ថែម​ទាំងបានបង្កើតអង្គភាព​ពេទ្យរ៉ូម៉ាំង​ដំបូង​គេ​សម្រាប់​ប្រើ​បន្ទាប់​ពី​ការប្រយុទ្ធ។,"Khmer: អធិរាជអុកហ្គឺសស្ទើស (Augustus) បានចាប់ផ្ដើមជ្រើស​រើស​វេជ្ជបណ្ឌិត ហើយ​ថែម​ទាំងបានបង្កើតអង្គភាព​ពេទ្យរ៉ូម៉ាំង​ដំបូង​គេ​សម្រាប់​ប្រើ​បន្ទាប់​ពី​ការប្រយុទ្ធ។ 
 English: Augustus was born in the year of the Ox, the fifth year of the reign of Tiberius, the first year of the reign of Caligula, the first year of the reign of Claudius, the first year of the reign of Nero, the first year of the reign of Domitian, the first year of the reign of Trajan, the first year of the reign of Hadrian, the first year of the reign of Antoninus Pius, the first year of the reign of","Augustus was born in the year of the Ox, the fifth year of the reign of Tiberius, the first year of the reign of Caligula, the first year of the reign of Claudius, the first year of the reign of Nero, the first year of the reign of Domitian, the first year of the reign of Trajan, the first year of the reign of Hadrian, the first year of the reign of Antoninus Pius, the first year of the reign of"
 ទោះយ៉ាងជាណាក្តី អ្នកបើកបរបានរងរបួសចំក្បាលយ៉ាងធ្ងន់ធ្ងរ។,"Khmer: ទោះយ៉ាងជាណាក្តី អ្នកបើកបរបានរងរបួសចំក្បាលយ៉ាងធ្ងន់ធ្ងរ។ 
@@ -540,17 +689,22 @@ English: You have successfully completed the verification process. You can now l
 
 # Change password dialog
 'resetpass' => 'ផ្លាស់ប្ដូរការកំណត់គណនី',
-'resetpass_announce' => 'អ្នកបានកត់ឈ្ម�","', You can now login to your account. You have successfully completed the verification process."
+'resetpass_announce' => 'អ្នកបានកត់ឈ្ម�","',
+'loginlanguagelabel' => 'ភាសា៖ $1',
+
+# Change password dialog
+'resetpass' => 'ផ្លាស់ប្ដូរការកំណត់គណនី',
+'resetpass_announce' => 'អ្នកបានកត់ឈ្ម� You can now login to your account. You have successfully completed the verification process."
 """គាត់​បាន​បន្ថែម​ថា បច្ចុប្បន្ន​នេះ យើង​មាន​កណ្ដុរ​ដែល​មាន​អាយុ 4 ខែ ដែល​គ្មាន​ជំងឺ​ទឹក​នោ​ម​ផ្អែម ដែល​ពីមុន​វា​ធ្លាប់​មាន​ជំងឺ​ទឹកនោមផ្អែម។ ""","Khmer: ""គាត់​បាន​បន្ថែម​ថា បច្ចុប្បន្ន​នេះ យើង​មាន​កណ្ដុរ​ដែល​មាន​អាយុ 4 ខែ ដែល​គ្មាន​ជំងឺ​ទឹក​នោ​ម​ផ្អែម ដែល​ពីមុន​វា​ធ្លាប់​មាន​ជំងឺ​ទឹកនោមផ្អែម។ "" 
 English: ""Your account has been created. You will receive an email with your login details."" 
-Kannada: ""រក្សាទុកគណនីរបស់អ្នករួចជាអ្នកបានបង្កើតគណនីរបស់អ្នករួចជាអ្នកបានបង្កើតគណន","""Your account has been created. You will receive an email with your login details."""
+Kannada: ""រក្សាទុកគណនីរបស់អ្នករួចជាអ្នកបានបង្កើតគណនីរបស់អ្នករួចជាអ្នកបានបង្កើតគណន","""Your account has been created. Kannada: ""រក្សាទុកគណនីរបស់អ្នករួចជាអ្នកបានបង្កើតគណនីរបស់អ្នករួចជាអ្នកបានបង្កើតគណន You will receive an email with your login details."""
 ការបំពុលពីខាងក្នុងប្រហែលជាមិនត្រូវបានគេបង្ហាញឱ្យឃើញភ្លាមៗនោះទេ។ ជាទូទៅរោគសញ្ញាដូចជាក្អួតចង្អោរគឺមិនអាចធ្វើរោគវិនិច្ឆ័យបានភ្លាមៗនោះទេ។,"Khmer: ការបំពុលពីខាងក្នុងប្រហែលជាមិនត្រូវបានគេបង្ហាញឱ្យឃើញភ្លាមៗនោះទេ។ ជាទូទៅរោគសញ្ញាដូចជាក្អួតចង្អោរគឺមិនអាចធ្វើរោគវិនិច្ឆ័យបានភ្លាមៗនោះទេ។ 
 English: The following is a list of the languages that are not supported by the current version of the application. The list is not exhaustive and may be updated in the future. The languages are sorted alphabetically. The list is not exhaustive and may be updated in the future. The languages are sorted alphabetically.",The list is not exhaustive and may be updated in the future. The following is a list of the languages that are not supported by the current version of the application. The languages are sorted alphabetically.
 ជាលទ្ធផល អ្នកសម្ដែងបានជក់បារីកញ្ជានៅលើឆាក ហើយរោងល្ខោននេះផ្ទាល់កំពុងតែលើកទឹកចិត្តឱ្យទស្សនិកជនចូលរួម។,"Khmer: ជាលទ្ធផល អ្នកសម្ដែងបានជក់បារីកញ្ជានៅលើឆាក ហើយរោងល្ខោននេះផ្ទាល់កំពុងតែលើកទឹកចិត្តឱ្យទស្សនិកជនចូលរួម។ 
 English: You have been sent a message from the server. Please check your email for further instructions.
 French: Un message vous a été envoyé par le serveur. Veuillez vérifier votre messagerie pour plus d'informations.
 Italian: Un messaggio è stato inviato dal server. Per ulteriori informazioni si prega di verificare la vostra messaggistica.
-Polish: Wysłanie zostało wysłane z serwerem. Proszę sprawdzi",Please check your email for further instructions. You have been sent a message from the server.
+Polish: Wysłanie zostało wysłane z serwerem. Proszę sprawdzi",Please check your email for further instructions. Proszę sprawdzi Polish: Wysłanie zostało wysłane z serwerem. Veuillez vérifier votre messagerie pour plus d'informations. French: Un message vous a été envoyé par le serveur. Per ulteriori informazioni si prega di verificare la vostra messaggistica. You have been sent a message from the server. Italian: Un messaggio è stato inviato dal server.
 ក្រុម​ Aerosmith (អ៊ែររ៉ូ​ស៊្មីដ) បានលុបចោលការប្រគុំតន្រ្តី​ដែលនៅសេសសល់​ទាំងប៉ុន្មានរបស់ខ្លួនក្នុង​ដំណើរកម្សាន្តប្រគុំ​តន្ត្រីរបស់ពួកគេ។,"Khmer: ក្រុម​ Aerosmith (អ៊ែររ៉ូ​ស៊្មីដ) បានលុបចោលការប្រគុំតន្រ្តី​ដែលនៅសេសសល់​ទាំងប៉ុន្មានរបស់ខ្លួនក្នុង​ដំណើរកម្សាន្តប្រគុំ​តន្ត្រីរបស់ពួកគេ។ 
 English: Aerosmith (Aerosmith) has been removed from the list of people who have been banned from entering the country because of their involvement in the war in Cambodia. The ban was lifted on March 1, 1993.
 
@@ -558,10 +712,12 @@ The ban was lifted on March 1, 1993.","Aerosmith (Aerosmith) has been removed fr
 ប្រសិនបើ​អ្នក​ចង់​ឱ្យ​ជោគជ័យនឹងសកម្មភាពនេះ អ្នក​នឹង​ត្រូវចាប់ផ្តើម​ធ្វើឱ្យ​បាន​កាន់តែឆាប់កាន់តែល្អ ដើម្បីទទួលបាន​កន្លែង​បោះជំរំ ដែល​នៅក្បែរ​តន្ត្រី។,"Khmer: ប្រសិនបើ​អ្នក​ចង់​ឱ្យ​ជោគជ័យនឹងសកម្មភាពនេះ អ្នក​នឹង​ត្រូវចាប់ផ្តើម​ធ្វើឱ្យ​បាន​កាន់តែឆាប់កាន់តែល្អ ដើម្បីទទួលបាន​កន្លែង​បោះជំរំ ដែល​នៅក្បែរ​តន្ត្រី។ 
 English: You are trying to access a page that is not available. You are allowed to access this page only if you have been granted access to the page. Please go to the page and grant access to it. You can also change the page's access level by clicking on the ""Change access level"" link.',
 	'info_acces_interdit' => 'ការពារចូលដោយគ្មាន',
-	'info_","You are trying to access a page that is not available. You are allowed to access this page only if you have been granted access to the page. You can also change the page's access level by clicking on the ""Change access level"" link. Please go to the page and grant access to it. ',"
+	'info_","',
+	'info_acces_interdit' => 'ការពារចូលដោយគ្មាន',
+	'info_ You are trying to access a page that is not available. You are allowed to access this page only if you have been granted access to the page. You can also change the page's access level by clicking on the ""Change access level"" link. Please go to the page and grant access to it."
 មានទម្រង់ខ្សែភាពយន្តខុសៗគ្នាជាច្រើនដែលត្រូវបានប្រើក្នុងរយៈកាលជាច្រើនឆ្នាំមក។ ខ្សែភាពយន្ត 35 mm ស្តង់ដារ (36x24 mm) គឺជាទម្រង់ខ្សែភាពយន្តទូទៅបំផុត។,"Khmer: មានទម្រង់ខ្សែភាពយន្តខុសៗគ្នាជាច្រើនដែលត្រូវបានប្រើក្នុងរយៈកាលជាច្រើនឆ្នាំមក។ ខ្សែភាពយន្ត 35 mm ស្តង់ដារ (36x24 mm) គឺជាទម្រង់ខ្សែភាពយន្តទូទៅបំផុត។ 
 English: There is a photograph of a man who is a member of the Khmer Rouge. He is 35 mm in size and 36x24 mm in size. This photograph is taken in the year of 1975.
-The photograph is taken in the year of 1975. The man is wearing a khmer red shirt. He is holding a rifle. He is standing in front of a wall. The wall is covered with a red banner. The man is looking at the camera. The man is wearing a khmer red",He is 35 mm in size and 36x24 mm in size. This photograph is taken in the year of 1975. There is a photograph of a man who is a member of the Khmer Rouge.
+The photograph is taken in the year of 1975. The man is wearing a khmer red shirt. He is holding a rifle. He is standing in front of a wall. The wall is covered with a red banner. The man is looking at the camera. The man is wearing a khmer red",He is 35 mm in size and 36x24 mm in size. The man is looking at the camera. The photograph is taken in the year of 1975. The man is wearing a khmer red This photograph is taken in the year of 1975. The man is wearing a khmer red shirt. The wall is covered with a red banner. He is standing in front of a wall. He is holding a rifle. There is a photograph of a man who is a member of the Khmer Rouge.
 ទោបីះជា​សកម្មភាពនេះមានភាពសាមញ្ញជាខ្លាំងក៏ដោយ​ វា​ត្រូវ​បាន​ហាម​ឃាត់​ដោយ​ក្រុមហ៊ុន​ Disney៖ សំបុត្រ​មិន​អាច​ផ្ទេរ​បាន​ទេ​។,"Khmer: ទោបីះជា​សកម្មភាពនេះមានភាពសាមញ្ញជាខ្លាំងក៏ដោយ​ វា​ត្រូវ​បាន​ហាម​ឃាត់​ដោយ​ក្រុមហ៊ុន​ Disney៖ សំបុត្រ​មិន​អាច​ផ្ទេរ​បាន​ទេ​។ 
 English: The Disney character has no animation. You can only use the character in the game if you have the Disney Character Pack.",You can only use the character in the game if you have the Disney Character Pack. The Disney character has no animation.
 វគ្គ​នីមួយៗ​នៃ​កម្មវិធី​នឹង​ផ្តោតលើផ្ទៃរឿង​នៅ​ក្នុង​សៀវភៅ​ជាក់លាក់​មួយ ហើយបន្ទាប់មក​ស្វែងរក​ផ្ទៃរឿង​នោះ តាម​រយៈ​សាច់រឿងជាច្រើន​ទៀត។,"Khmer: វគ្គ​នីមួយៗ​នៃ​កម្មវិធី​នឹង​ផ្តោតលើផ្ទៃរឿង​នៅ​ក្នុង​សៀវភៅ​ជាក់លាក់​មួយ ហើយបន្ទាប់មក​ស្វែងរក​ផ្ទៃរឿង​នោះ តាម​រយៈ​សាច់រឿងជាច្រើន​ទៀត។ 
@@ -575,7 +731,9 @@ English: The number of people who are registered as voters in the current electi
 ដើម្បីបានកម្រិត​សំឡងពិសេសនៅលើអាគ័រឌីអុងនេះ ​អ្នកត្រូវប្រើប្រដាប់ផ្លុំខ្យល់​ដើម្បីបន្ថែម​សម្ពាធ ឬល្បឿន។,"Khmer: ដើម្បីបានកម្រិត​សំឡងពិសេសនៅលើអាគ័រឌីអុងនេះ ​អ្នកត្រូវប្រើប្រដាប់ផ្លុំខ្យល់​ដើម្បីបន្ថែម​សម្ពាធ ឬល្បឿន។ 
 English: To make sure that the selected item is correctly linked to the current page, you need to make sure that the item is linked to the current page. To do this, click on the link to the current page.',
 	'info_liens_syndiques_3' => 'ចំណោះចំណងជើង',
-	'info_liens_syndiques_4' => 'ត្រូវបានផ","To make sure that the selected item is correctly linked to the current page, you need to make sure that the item is linked to the current page. To do this, click on the link to the current page. ',"
+	'info_liens_syndiques_4' => 'ត្រូវបានផ","To make sure that the selected item is correctly linked to the current page, you need to make sure that the item is linked to the current page. ',
+	'info_liens_syndiques_3' => 'ចំណោះចំណងជើង',
+	'info_liens_syndiques_4' => 'ត្រូវបានផ To do this, click on the link to the current page."
 អ្នកអាចមើលឃើញប្រាសាទ​ពីរ៉ាមីតនៅពេលមេឃងងឹតបាន ហើយអ្នក​អាច​មើលឃើញវា ដោយភាពស្ងៀមស្ងាត់ មុនពេលកម្មវិធីចាប់ផ្តើម។,"Khmer: អ្នកអាចមើលឃើញប្រាសាទ​ពីរ៉ាមីតនៅពេលមេឃងងឹតបាន ហើយអ្នក​អាច​មើលឃើញវា ដោយភាពស្ងៀមស្ងាត់ មុនពេលកម្មវិធីចាប់ផ្តើម។ 
 English: You can find out the current time from the clock on the wall. You can also find out the current time from the clock on the computer. You can also find out the current time from the clock on the mobile phone. You can also find out the current time from the clock on the watch. You can also find out the current time from the clock on the clock. You can also find out the current time from the clock on the clock. You can also find out the current time from the",You can also find out the current time from the clock on the mobile phone. You can also find out the current time from the clock on the clock. You can also find out the current time from the clock on the computer. You can find out the current time from the clock on the wall. You can also find out the current time from the You can also find out the current time from the clock on the watch.
 តួយ៉ាងនៃសកម្មភាពនៅនឹងកន្លែងមានដូចជា ការបរបាញ់សត្វ ការនេសាទត្រី ការថតរូប ការទស្សនាសត្វស្លាប និងការទស្សនាឧទ្យាននានា ក៏ដូចជាការសិក្សាស្វែងយល់អំពីប្រព័ន្ធបរិស្ថានផងដែរ។,"Khmer: តួយ៉ាងនៃសកម្មភាពនៅនឹងកន្លែងមានដូចជា ការបរបាញ់សត្វ ការនេសាទត្រី ការថតរូប ការទស្សនាសត្វស្លាប និងការទស្សនាឧទ្យាននានា ក៏ដូចជាការសិក្សាស្វែងយល់អំពីប្រព័ន្ធបរិស្ថានផងដែរ។ 
@@ -584,14 +742,15 @@ English: The user has the right to edit the article, but not to move it or to pr
 English: The Sphinx is a puzzle that is solved by the player. The Sphinx is a puzzle that is solved by the player. The Sphinx is a puzzle that is solved by the player. The Sphinx is a puzzle that is solved by the player. The Sphinx is a puzzle that is solved by the player. The Sphinx is a puzzle that is solved by the player. The Sphinx is a puzzle that is solved by the player. The Sphinx is a puzzle that is solved",The Sphinx is a puzzle that is solved by the player. The Sphinx is a puzzle that is solved
 ជាធម្មតាពួកគេមានអាហារពិសេស ភេសជ្ជៈ និងការផ្តល់ជូនការកម្សាន្តដើម្បីធ្វើឲ្យភ្ញៀវមានអារម្មណ៍ស្រស់ស្រាយនិងពេញចិត្តនៅទីកន្លែងនោះ។,"Khmer: ជាធម្មតាពួកគេមានអាហារពិសេស ភេសជ្ជៈ និងការផ្តល់ជូនការកម្សាន្តដើម្បីធ្វើឲ្យភ្ញៀវមានអារម្មណ៍ស្រស់ស្រាយនិងពេញចិត្តនៅទីកន្លែងនោះ។ 
 English: The following are the most important rules for the use of the Khmer language:
-1. The Khmer language is a tonal language. The tone is indicated by the pitch of the voice. The tone is indicated by the pitch of the voice. The tone is indicated by the pitch of the voice. The tone is indicated by the pitch of the voice. The tone is indicated by the pitch of the voice. The tone is indicated by the pitch of the voice. The tone is indicated by the pitch of",The following are the most important rules for the use of the Khmer language:
+1. The Khmer language is a tonal language. The tone is indicated by the pitch of the voice. The tone is indicated by the pitch of the voice. The tone is indicated by the pitch of the voice. The tone is indicated by the pitch of the voice. The tone is indicated by the pitch of the voice. The tone is indicated by the pitch of the voice. The tone is indicated by the pitch of","The following are the most important rules for the use of the Khmer language:
+1. The tone is indicated by the pitch of The tone is indicated by the pitch of the voice. The Khmer language is a tonal language."
 ការរាយការណ៍បាន​ធ្វើ​ឡើង​​ជាភាសាអង់គ្លេស​និងភាសា​ជប៉ុន​​រួចរាល់ហើយ​ អង្គការពិភពលោក កំពុងដំណើរការកម្មវិធី​ភាសាអេស្ប៉ាញ ភាសាអ៊ីតាលី និងភាសាកូរ៉េ​សម្រាប់ទូរទស្សន៍ ​គេហទំព័រ ​និងឧបករណ៍ចល័ត។,"Khmer: ការរាយការណ៍បាន​ធ្វើ​ឡើង​​ជាភាសាអង់គ្លេស​និងភាសា​ជប៉ុន​​រួចរាល់ហើយ​ អង្គការពិភពលោក កំពុងដំណើរការកម្មវិធី​ភាសាអេស្ប៉ាញ ភាសាអ៊ីតាលី និងភាសាកូរ៉េ​សម្រាប់ទូរទស្សន៍ ​គេហទំព័រ ​និងឧបករណ៍ចល័ត។ 
 English: The project is in the process of being developed and will be completed in the near future. The project will be implemented by the Ministry of Education, Youth and Sports, the Ministry of Culture, the Ministry of Foreign Affairs, the Ministry of Planning and Investment, the Ministry of Economy and Finance, the Ministry of Agriculture, Forestry and Fisheries, the Ministry of Health, the Ministry of Labor and Social Welfare, the Ministry of Transport, the Ministry of Communication, the Ministry of Industry and Trade, the","The project will be implemented by the Ministry of Education, Youth and Sports, the Ministry of Culture, the Ministry of Foreign Affairs, the Ministry of Planning and Investment, the Ministry of Economy and Finance, the Ministry of Agriculture, Forestry and Fisheries, the Ministry of Health, the Ministry of Labor and Social Welfare, the Ministry of Transport, the Ministry of Communication, the Ministry of Industry and Trade, the The project is in the process of being developed and will be completed in the near future."
 heHeពី​មុន​មក​ Simpsons Simon បានធ្វើការក្នុង​កម្មវិធីជាច្រើន​ក្នុងមុខតំណែងផ្សេងៗ។,"Khmer: heHeពី​មុន​មក​ Simpsons Simon បានធ្វើការក្នុង​កម្មវិធីជាច្រើន​ក្នុងមុខតំណែងផ្សេងៗ។ 
 English: heHe from tomorrow, Simon, will be a member of the team of the organizers of the event.","heHe from tomorrow, Simon, will be a member of the team of the organizers of the event."
 នេះនឹងអនុញ្ញាតឱ្យអ្នកលេងគ្រប់​គ្រង​លើ​​​សកម្មភាពនិង​ចលនានៅក្នុងវីដេអូហ្គេមបាន ដោយផ្លាស់​ទីឧបករណ៍នៅ​ក្នុង​លំហ​។,"Khmer: នេះនឹងអនុញ្ញាតឱ្យអ្នកលេងគ្រប់​គ្រង​លើ​​​សកម្មភាពនិង​ចលនានៅក្នុងវីដេអូហ្គេមបាន ដោយផ្លាស់​ទីឧបករណ៍នៅ​ក្នុង​លំហ​។ 
 English: This is a test of your knowledge of the rules of the game and the rules of the tournament. Please answer the questions correctly. If you have any questions, please ask the moderator.
-Korean: 한국어에서는 당신이 한국어를 알고 있는지 한국어를 알고 있는지 한국어를 알고 있는지 한국어를 알","If you have any questions, please ask the moderator. This is a test of your knowledge of the rules of the game and the rules of the tournament. Please answer the questions correctly."
+Korean: 한국어에서는 당신이 한국어를 알고 있는지 한국어를 알고 있는지 한국어를 알고 있는지 한국어를 알","If you have any questions, please ask the moderator. This is a test of your knowledge of the rules of the game and the rules of the tournament. Korean: 한국어에서는 당신이 한국어를 알고 있는지 한국어를 알고 있는지 한국어를 알고 있는지 한국어를 알 Please answer the questions correctly."
 មាន​មនុស្ស​យ៉ាង​ហោច​ណាស់​ 100 នាក់​ បាន​ចូល​រួម​ក្នុង​កម្មវិធី​ជប់​លៀង​ ដើម្បី​អបអរ​ខួប​អាពាហ៍​ពិពាហ៍​លើកដំបូង​របស់​គូស្វាមី​ភរិយា​ ដែល​បាន​រៀប​ការ​កាល​ពី​ឆ្នាំ​មុន​។​,"Khmer: មាន​មនុស្ស​យ៉ាង​ហោច​ណាស់​ 100 នាក់​ បាន​ចូល​រួម​ក្នុង​កម្មវិធី​ជប់​លៀង​ ដើម្បី​អបអរ​ខួប​អាពាហ៍​ពិពាហ៍​លើកដំបូង​របស់​គូស្វាមី​ភរិយា​ ដែល​បាន​រៀប​ការ​កាល​ពី​ឆ្នាំ​មុន​។​ 
 English: There is a 100 dollar reward for anyone who can bring back the following items from the border of the Kingdom of Siam to the Kingdom of Cambodia. The items are as follows:
 1. A pair of shoes
@@ -602,14 +761,26 @@ English: There is a 100 dollar reward for anyone who can bring back the followin
 6. A pair of shorts
 7. A pair of trousers
 8. A pair of socks
-9. A pair of",There is a 100 dollar reward for anyone who can bring back the following items from the border of the Kingdom of Siam to the Kingdom of Cambodia. The items are as follows:
+9. A pair of","A pair of underwear
+6. A pair of shorts
+7. There is a 100 dollar reward for anyone who can bring back the following items from the border of the Kingdom of Siam to the Kingdom of Cambodia. A pair of socks
+5. A shirt
+4. The items are as follows:
+1. A pair of A pair of socks
+9. A pair of pants
+3. A pair of trousers
+8. A pair of shoes
+2."
 បទចំរៀងពីរបទដែលបានមកពីខ្សែភាពយន្ត សម្តែងសាក (Audition) (The Fools Who Dream (មនុស្សល្ងង់ដែលមានក្តីសុបិន្ត)) និង ទីក្រុងតារា (City of Stars) បានទទួលការស្នើសុំឱ្យដាក់ជាបទចម្រៀងដើមល្អបំផុត។ ស្ទូឌីយោ ឡាយអឹនស៍ហ្គេត (Lionsgate) ទទួលបានសំណើរគាំទ្រចំនួន 26 - ច្រើនជាងស្ទូឌីយោដទៃទៀត។,"Khmer: បទចំរៀងពីរបទដែលបានមកពីខ្សែភាពយន្ត សម្តែងសាក (Audition) (The Fools Who Dream (មនុស្សល្ងង់ដែលមានក្តីសុបិន្ត)) និង ទីក្រុងតារា (City of Stars) បានទទួលការស្នើសុំឱ្យដាក់ជាបទចម្រៀងដើមល្អបំផុត។ ស្ទូឌីយោ ឡាយអឹនស៍ហ្គេត (Lionsgate) ទទួលបានសំណើរគាំទ្រចំនួន 26 - ច្រើនជាងស្ទូឌីយោដទៃទៀត។ 
 English: The Fools Who Dream (The Fools Who Dream (មនុស្សល្ងង់ដែលមានក្តីសុបិន្ត)) is a film directed by the French filmmaker Michel Hazanavicius. It is a comedy film based on the novel of the same name by the French writer Jean Teulé. The film stars Jean Dujardin, Gérard Depardieu, and Benoît Poelvoorde. The film was","It is a comedy film based on the novel of the same name by the French writer Jean Teulé. The Fools Who Dream (The Fools Who Dream (មនុស្សល្ងង់ដែលមានក្តីសុបិន្ត)) is a film directed by the French filmmaker Michel Hazanavicius. The film stars Jean Dujardin, Gérard Depardieu, and Benoît Poelvoorde. The film was"
 សំបករបស់វាមានកម្រាស់ប្រហែលជា 70 គីឡូម៉ែត្រនៅផ្នែកជិត និង 100គីឡូម៉ែត្រនៅផ្នែកឆ្ងាយ។,"Khmer: សំបករបស់វាមានកម្រាស់ប្រហែលជា 70 គីឡូម៉ែត្រនៅផ្នែកជិត និង 100គីឡូម៉ែត្រនៅផ្នែកឆ្ងាយ។ 
 English: The maximum number of people allowed in the temple is 70 and 100 respectively. The maximum number of people allowed in the temple is 70 and 100 respectively.',
 'uploadwarning'               => 'ប្រយ័ត្ននៃការអាសយដ្ឋានឯកសារ',
 'savefile'                    => 'រក្សាទុកឯកសារ',
-'uploadedimage'               =>","', The maximum number of people allowed in the temple is 70 and 100 respectively."
+'uploadedimage'               =>","The maximum number of people allowed in the temple is 70 and 100 respectively. ',
+'uploadwarning'               => 'ប្រយ័ត្ននៃការអាសយដ្ឋានឯកសារ',
+'savefile'                    => 'រក្សាទុកឯកសារ',
+'uploadedimage'               =>"
 ទៅឆ្ងាយភាគខាងត្បូងទៀត គឺជាតំបន់ទឹកធ្លាក់ណាយហ្គារ៉ា (Niagara) និងខាង​ជើងជាជម្រកនៃសម្រស់ធម្មជាតិ ដែលនៅពុំទាន់ធ្វើអាជីវកម្ គឺ ម៉ាស់កូកា (Muskoka) និងទីកន្លែងដ៏អស្ចារ្យលើសហ្នឹងទៀត។,"Khmer: ទៅឆ្ងាយភាគខាងត្បូងទៀត គឺជាតំបន់ទឹកធ្លាក់ណាយហ្គារ៉ា (Niagara) និងខាង​ជើងជាជម្រកនៃសម្រស់ធម្មជាតិ ដែលនៅពុំទាន់ធ្វើអាជីវកម្ គឺ ម៉ាស់កូកា (Muskoka) និងទីកន្លែងដ៏អស្ចារ្យលើសហ្នឹងទៀត។ 
 English: From the north, the river flows into the Niagara River, which flows into Lake Ontario. From the south, the river flows into the Muskoka River, which flows into Lake Huron.","From the north, the river flows into the Niagara River, which flows into Lake Ontario. From the south, the river flows into the Muskoka River, which flows into Lake Huron."
 តំបន់ដីអ៊ែលស្វ័ដឡែន (Ellsworth Land) គឺជាតំបន់ភូមិភាគខាងត្បូងនៃកោះភែនីនស៊ូឡា (Peninsula) ដែលហ៊ុំព័ទ្ធទៅដោយសមុទ្រ ប៊ែលលីងហ្សោសិន (Bellingshausen) ។,"Khmer: តំបន់ដីអ៊ែលស្វ័ដឡែន (Ellsworth Land) គឺជាតំបន់ភូមិភាគខាងត្បូងនៃកោះភែនីនស៊ូឡា (Peninsula) ដែលហ៊ុំព័ទ្ធទៅដោយសមុទ្រ ប៊ែលលីងហ្សោសិន (Bellingshausen) ។ 
@@ -636,12 +807,13 @@ English: Apia (capital); Upolo (suburb); 40000 (population); (ISO 3166-1 alpha-2
 English: The Khmer language is a member of the Austronesian language family. It is spoken in Cambodia, Laos, Thailand, Vietnam, and the Republic of the Khmer. The Khmer language is written in the Khmer script, which is a modified version of the Chinese script. The Khmer language is written in the Khmer script, which is a modified version of the Chinese script. The Khmer language is written in the Khmer script, which is a modified version of the Chinese script. The Khmer language is written in the Khmer","The Khmer language is a member of the Austronesian language family. It is spoken in Cambodia, Laos, Thailand, Vietnam, and the Republic of the Khmer. The Khmer language is written in the Khmer The Khmer language is written in the Khmer script, which is a modified version of the Chinese script."
 នៅក្រោមសមុទ្រវាកាន់តែស្តើង ហើយនៅក្រោមតំបន់ខ្ពង់រាបវាកាន់តែក្រាស់។,"Khmer: នៅក្រោមសមុទ្រវាកាន់តែស្តើង ហើយនៅក្រោមតំបន់ខ្ពង់រាបវាកាន់តែក្រាស់។ 
 English: You can only edit your own posts. You can edit other people's posts if you have permission to edit them.',
-	'wiki:editwarning' => 'ប្រយ័ត្ន៖ អ្នកបានបង្កើតវិគីដែលមានប្រវត្តិចំណងជើងខ្លួនចំណាត់ថ្ន","You can edit other people's posts if you have permission to edit them. You can only edit your own posts. ',"
+	'wiki:editwarning' => 'ប្រយ័ត្ន៖ អ្នកបានបង្កើតវិគីដែលមានប្រវត្តិចំណងជើងខ្លួនចំណាត់ថ្ន","',
+	'wiki:editwarning' => 'ប្រយ័ត្ន៖ អ្នកបានបង្កើតវិគីដែលមានប្រវត្តិចំណងជើងខ្លួនចំណាត់ថ្ន You can edit other people's posts if you have permission to edit them. You can only edit your own posts."
 ព្រៃទាំងនោះមិនត្រឹមតែជាព្រៃកោងកាង ដែលស្ថិតក្នុងដីល្បាប់ប៉ុណ្ណោះនោះទ — ប៉ុន្តែវាក៏មានរួមបញ្ចូលនូវផ្នែកខ្លះនៃព្រៃល្បាតដ៏ច្រើនអស្ចារ្យដែលនៅសេះសល់ ដែលធ្លាប់គ្របដណ្តប់ដោយបាតទន្ទេកាងធីក (Gangetic)។,"Khmer: ព្រៃទាំងនោះមិនត្រឹមតែជាព្រៃកោងកាង ដែលស្ថិតក្នុងដីល្បាប់ប៉ុណ្ណោះនោះទ — ប៉ុន្តែវាក៏មានរួមបញ្ចូលនូវផ្នែកខ្លះនៃព្រៃល្បាតដ៏ច្រើនអស្ចារ្យដែលនៅសេះសល់ ដែលធ្លាប់គ្របដណ្តប់ដោយបាតទន្ទេកាងធីក (Gangetic)។ 
 English: The river is not a river of the Gangetic system. It is a river of the Indo-Gangetic system.",The river is not a river of the Gangetic system. It is a river of the Indo-Gangetic system.
 ផែនទីរញ្ជួយដីអន្តរជាតិរបស់ទីភ្នាក់ងារ ស្ទង់មតិភូមិសាស្ត្រសហរដ្ឋអាមេរិក បានបង្ហាញថា ពុំមានការរញ្ជួយណាកើតឡើងនៅអ៊ីស្លង់ (Iceland) កាលពីសប្តាហ៍មុននោះទេ។,"Khmer: ផែនទីរញ្ជួយដីអន្តរជាតិរបស់ទីភ្នាក់ងារ ស្ទង់មតិភូមិសាស្ត្រសហរដ្ឋអាមេរិក បានបង្ហាញថា ពុំមានការរញ្ជួយណាកើតឡើងនៅអ៊ីស្លង់ (Iceland) កាលពីសប្តាហ៍មុននោះទេ។ 
 English: The number of people in the world is 7.7 billion. Please do not use this number in your text. Please use the number of people in the world in the following format: 7.7 billion. Thank you.
 The number of people in the world is 7.7 billion. Please do not use this number in your text. Please use the number of people in the world in the following format: 7.7 billion. Thank you.
-The number of people in the world is 7.7 billion",The number of people in the world is 7.7 billion. Please use the number of people in the world in the following format: 7.7 billion. Please do not use this number in your text. Thank you.
+The number of people in the world is 7.7 billion",The number of people in the world is 7.7 billion The number of people in the world is 7.7 billion. Please use the number of people in the world in the following format: 7.7 billion. Thank you. Please do not use this number in your text.
 ដោយមានទីតាំងនៅលើកំពូលភ្នំមួយ​នៅ​ភាគ​ខាងជើង​នៃទីក្រុង​ Mecca ល្អាងនេះនៅដាច់ឆ្ងាយពីពិភពលោកយ៉ាងខ្លាំង។,"Khmer: ដោយមានទីតាំងនៅលើកំពូលភ្នំមួយ​នៅ​ភាគ​ខាងជើង​នៃទីក្រុង​ Mecca ល្អាងនេះនៅដាច់ឆ្ងាយពីពិភពលោកយ៉ាងខ្លាំង។ 
 English: There is a holy place in the middle of the earth, where the people of the world come to worship Allah. This holy place is called Mecca. This holy place is in the middle of the earth. This holy place is called Mecca. This holy place is in the middle of the earth. This holy place is called Mecca. This holy place is in the middle of the earth. This holy place is called Mecca. This holy place is in the middle of the earth. This","This holy place is in the middle of the earth. This This holy place is called Mecca. There is a holy place in the middle of the earth, where the people of the world come to worship Allah."
