@@ -1,0 +1,3048 @@
+text,actual_category,predicted_category,generated_text
+ሚውቴሽን አዲስ የዘረመል ልዩነትን ይጨምራል ፣ እናም ምርጫው ከተገለፀው የልዩነት ገንዳ ውስጥ ያስወግደዋል።,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ ሚውቴሽን አዲስ የዘረመል ልዩነትን ይጨምራል ፣ እናም ምርጫው ከተገለፀው የልዩነት ገንዳ ውስጥ ያስወግደዋል። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+The word"
+የፍንዳታ ቦንብ የሚሠራው ሁሉንም ኃይል በሚቻለው ፕሮቶን እና ኒውትሮን ወደ ኒውክለስ በመሰብሰብ በሚለው መመሪያ ነው።,science/technology,geography,"<|begin_of_text|>SENTENCE:
+ የፍንዳታ ቦንብ የሚሠራው ሁሉንም ኃይል በሚቻለው ፕሮቶን እና ኒውትሮን ወደ ኒውክለስ በመሰብሰብ በሚለው መመሪያ ነው። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+�"
+ኒውክለሱ ሁለት ፓርቲክሎች አሉት - ኒውትሮንስ እና ፕሮቶንስ ናቸው።,science/technology,politics,"<|begin_of_text|>SENTENCE:
+ ኒውክለሱ ሁለት ፓርቲክሎች አሉት - ኒውትሮንስ እና ፕሮቶንስ ናቸው። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+REASONING:
+The sentence"
+ይህ የዙም ሌንሶችን ውስን የትኩረት ርዝመት ካላቸው ሌንሶች ጋር ተመጣጣኝ የሆነ የምስሎች ጥራት እንዲያወጡ አስችሏቸዋል።,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ ይህ የዙም ሌንሶችን ውስን የትኩረት ርዝመት ካላቸው ሌንሶች ጋር ተመጣጣኝ የሆነ የምስሎች ጥራት እንዲያወጡ አስችሏቸዋል። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+This sentence"
+እነሱ በብዙ ምክንያቶች ከድር ፕሮክሲዎች የበለጡ ናቸው፥ እነሱ http ን ብቻ ሳይሆን ሁሉንም የበይነመረብ ትራፊክን አቅጣጫን ያስቀይራሉ።,science/technology,entertainment,"<|begin_of_text|>SENTENCE:
+ እነሱ በብዙ ምክንያቶች ከድር ፕሮክሲዎች የበለጡ ናቸው፥ እነሱ http ን ብቻ ሳይሆን ሁሉንም የበይነመረብ ትራፊክን አቅጣጫን ያስቀይራሉ። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+�"
+በይነተገናኝ ዲዛይን የሚዲያ ምርትን በተመለከተ ያለዎትን ግምቶች እንደገና እንዲገመግሙ እና መስመራዊ ባልሆኑ መንገዶች ማሰብን መማር ይጠይቃል።,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ በይነተገናኝ ዲዛይን የሚዲያ ምርትን በተመለከተ ያለዎትን ግምቶች እንደገና እንዲገመግሙ እና መስመራዊ ባልሆኑ መንገዶች ማሰብን መማር ይጠይቃል። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+The sentence"
+ይህ የተለመደ ተግባር ሆነ ፣ ግን ብረት በሠረገላዎቹ የእንጨት ጎማዎች ላይ የበለጠ የጉዳት ምክንያት ሆኗል።,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ ይህ የተለመደ ተግባር ሆነ ፣ ግን ብረት በሠረገላዎቹ የእንጨት ጎማዎች ላይ የበለጠ የጉዳት ምክንያት ሆኗል። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+The sentence"
+የአንበሳ መንጋዎች የሚመሰረቱት ከአንድ እስከ ሶስት ወጣት ወንዶች፣ ሰላሳ ከሚደርሱ ሴቶች እና ደቦሎች ነው።,science/technology,geography,"<|begin_of_text|>SENTENCE:
+ የአንበሳ መንጋዎች የሚመሰረቱት ከአንድ እስከ ሶስት ወጣት ወንዶች፣ ሰላሳ ከሚደርሱ ሴቶች እና ደቦሎች ነው። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+AI የሳይንሳዊ ልቦለድ ጠንካራ ምልከታ ቢኖረውም፣ AI በማሽን ውስጥ ስለ ባህሪይ፣ መማር እና ጉብዝና ማስለመድ የሚያጠና የኮምፒውተር ሳይንስ በጣም አስፈላጊ ክፍል ነው።,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ AI የሳይንሳዊ ልቦለድ ጠንካራ ምልከታ ቢኖረውም፣ AI በማሽን ውስጥ ስለ ባህሪይ፣ መማር እና ጉብዝና ማስለመድ የሚያጠና የኮምፒውተር ሳይንስ በጣም አስፈላጊ ክፍል ነው። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+The sentence"
+የዚህ ቅርጸት ምጥጥነ ገጽታ (በጣም ቀላሉን አጠቃላይ የቁጥር ሬሾ ለማግኘት በአስራ ሁለት በመክፈል) 3:2 ነው ይባላል።,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ የዚህ ቅርጸት ምጥጥነ ገጽታ (በጣም ቀላሉን አጠቃላይ የቁጥር ሬሾ ለማግኘት በአስራ ሁለት በመክፈል) 3:2 ነው ይባላል። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+The sentence"
+የሳተላይት ስልክ ደወል ስታደርግ ሳተላይቱን በቀጥታ መስመር ለማየት እንዲቻል ከቤት ውጭ ግልጽ ሆነው በሚታዩ መስመሮች ላይ መሆን ስላለብህ፣ በጠቅላላው የተንቀሳቃሽ ስልክ የተንቀሳቃሽ ስልክ መተኪያ አይደለም።,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ የሳተላይት ስልክ ደወል ስታደርግ ሳተላይቱን በቀጥታ መስመር ለማየት እንዲቻል ከቤት ውጭ ግልጽ ሆነው በሚታዩ መስመሮች ላይ መሆን ስላለብህ፣ በጠቅላላው የተንቀሳቃሽ ስልክ የተንቀሳቃሽ ስልክ መተኪያ አይደለም። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+The sentence"
+ምንም እንኳን ሰረገላዎቹ ትይዩ ጣውላዎችን ብቻ ያካተቱ ቢሆኑም፣ ፈረሶችን በበለጠ ፍጥነትን ለማሳካት የሚጎትቷቸው እና ከቀኑ ትንሽ አስቸጋሪ ከሆኑ መንገዶች ይልቅ ትላልቅ ጭነቶች መጎተትን ኣስቻሉ።,science/technology,politics,"<|begin_of_text|>SENTENCE:
+ ምንም እንኳን ሰረገላዎቹ ትይዩ ጣውላዎችን ብቻ ያካተቱ ቢሆኑም፣ ፈረሶችን በበለጠ ፍጥነትን ለማሳካት የሚጎትቷቸው እና ከቀኑ ትንሽ አስቸጋሪ ከሆኑ መንገዶች ይልቅ ትላልቅ ጭነቶች መጎተትን ኣስቻሉ። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+The sentence"
+ሰዎች ከጥንት ጀምሮ እንደ ወርቅ ፣ ብር እና ናስ ያሉ መሠረታዊ ኬሚካላዊ ንጥረ ነገሮችን ያውቃሉ ፣ እነዚህ ሁሉ በተፈጥሮ ውስጥ ሊገኙ ስለሚችሉ በጥንታዊ መሣሪያዎች ለማዕድን ቁፋሮ ቀላል ናቸው።,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ ሰዎች ከጥንት ጀምሮ እንደ ወርቅ ፣ ብር እና ናስ ያሉ መሠረታዊ ኬሚካላዊ ንጥረ ነገሮችን ያውቃሉ ፣ እነዚህ ሁሉ በተፈጥሮ ውስጥ ሊገኙ ስለሚችሉ በጥንታዊ መሣሪያዎች ለማዕድን ቁፋሮ ቀላል ናቸው። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science
+EXPLANATION:
+This sentence is about"
+መንኰራኩር ዓለምን በሚያስደንቅ ሁኔታ ለውጦታል። መንኮራኩሩ ለእኛ ያደረገው ትልቁ ነገር በጣም ቀላል እና ፈጣን መጓጓዣ ስለሰጠን ነው።,science/technology,travel,"<|begin_of_text|>SENTENCE:
+ መንኰራኩር ዓለምን በሚያስደንቅ ሁኔታ ለውጦታል። መንኮራኩሩ ለእኛ ያደረገው ትልቁ ነገር በጣም ቀላል እና ፈጣን መጓጓዣ ስለሰጠን ነው። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+መ"
+ይህ የተሠራው ምስሉ አጠቃላይ ማያ ገጹን እንዲሸፍን ለማድረግ ነው። ያ ኦቨር ስካን ይባላል።,science/technology,geography,"<|begin_of_text|>SENTENCE:
+ ይህ የተሠራው ምስሉ አጠቃላይ ማያ ገጹን እንዲሸፍን ለማድረግ ነው። ያ ኦቨር ስካን ይባላል። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+�"
+የጀርመን የባህር ስርጓጅ መርከቦች ዩ-ቦቶች ይባላሉ። ጀርመኖች ሰርጓጅ መረከቦቻቸውን መምራት እና ማሰራት ላይ በጣም ጎበዝ ነበሩ።,science/technology,geography,"<|begin_of_text|>SENTENCE:
+ የጀርመን የባህር ስርጓጅ መርከቦች ዩ-ቦቶች ይባላሉ። ጀርመኖች ሰርጓጅ መረከቦቻቸውን መምራት እና ማሰራት ላይ በጣም ጎበዝ ነበሩ። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+�"
+አካላዊ ሁኔታው ቢቀየርም፣ ኬሚካዊ ሁኔታው እንደነበረ ይቆያል።,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ አካላዊ ሁኔታው ቢቀየርም፣ ኬሚካዊ ሁኔታው እንደነበረ ይቆያል። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+The sentence"
+የ ውጫዊ ገጽ ውጥረት የሚከተሰው በውጫዊው የውሃው ገጽ ላይ የሚገኙት የውሃ ሞለኪውሎች በላያቸው ላይ ከሚገኙት ከአየር ሞለኪውሎች ይልቅ እርስ በእርሳቸው በጥብቅ ስለሚሳሳቡ ነው።,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ የ ውጫዊ ገጽ ውጥረት የሚከተሰው በውጫዊው የውሃው ገጽ ላይ የሚገኙት የውሃ ሞለኪውሎች በላያቸው ላይ ከሚገኙት ከአየር ሞለኪውሎች ይልቅ እርስ በእርሳቸው በጥብቅ ስለሚሳሳቡ ነው። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science
+EXPLANATION:
+This sentence is about"
+ፊልምን ወደ ዲቪዲ ቅርጸት ለመለወጥ ሲሞክሩ በጣም ከተለመዱት ችግሮች መካከል አንዱ እጅግ በጣም ከመጠን በላይ ነው።,science/technology,entertainment,"<|begin_of_text|>SENTENCE:
+ ፊልምን ወደ ዲቪዲ ቅርጸት ለመለወጥ ሲሞክሩ በጣም ከተለመዱት ችግሮች መካከል አንዱ እጅግ በጣም ከመጠን በላይ ነው። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+�"
+በተለይም፣ አንድ ሰው ጥቃቅን-አገላለጾችን በትክክል በመተርጎም አንድ ሰው መዋሸት አለመዋሸቱን ማረጋገጥ ይችላል ተብሎ ይታመናል።,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ በተለይም፣ አንድ ሰው ጥቃቅን-አገላለጾችን በትክክል በመተርጎም አንድ ሰው መዋሸት አለመዋሸቱን ማረጋገጥ ይችላል ተብሎ ይታመናል። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+The sentence"
+ወርቅ ወደ ሁሉም ዓይነት ቅርፆች መሰራት ይችላል። ወደ ትንንሽ ቀርፆች መጠቅለል ይችላል።,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ ወርቅ ወደ ሁሉም ዓይነት ቅርፆች መሰራት ይችላል። ወደ ትንንሽ ቀርፆች መጠቅለል ይችላል። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+The sentence"
+የሰው ሠራሽ ብልህነት ሥርዓት አሁን በኢኮኖሚክስ፣ ሕክምና ፣ ምህንድስና እና የውትድርና ዘርፎች ላይ በአብዛኛው ጥቅም ላይ ይውላል፤ በብዙ የቤት ኮምፒውተሮች እና የቪዲዮ ጨዋታ መተግበሪያዎች ላይም ተወህዶ ተሠርቷል።,science/technology,health,"<|begin_of_text|>SENTENCE:
+ የሰው ሠራሽ ብልህነት ሥርዓት አሁን በኢኮኖሚክስ፣ ሕክምና ፣ ምህንድስና እና የውትድርና ዘርፎች ላይ በአብዛኛው ጥቅም ላይ ይውላል፤ በብዙ የቤት ኮምፒውተሮች እና የቪዲዮ ጨዋታ መተግበሪያዎች ላይም ተወህዶ ተሠርቷል። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+health
+EXPLANATION:
+The sentence is"
+ዛሬ ድረስ ይመረታል ነገር ግን ምጥጥነ ዕይታው በዲጂታል ካሜራዎች ምስል ዳሳሽ ቅርጸቶች ተወርሷል።,science/technology,entertainment,"<|begin_of_text|>SENTENCE:
+ ዛሬ ድረስ ይመረታል ነገር ግን ምጥጥነ ዕይታው በዲጂታል ካሜራዎች ምስል ዳሳሽ ቅርጸቶች ተወርሷል። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+The"
+የተንገላታው እና የሚሳቅበት የሦስተኛ ወገን ደንብ በምስሉ ላይ የተወሰነ ደረጃን ጠብቆ በሚቆይበት ጊዜ ተለዋዋጭነትን ለመፍጠር ቀላል መመሪያ ነው።,science/technology,N/A,"<|begin_of_text|>SENTENCE:
+ የተንገላታው እና የሚሳቅበት የሦስተኛ ወገን ደንብ በምስሉ ላይ የተወሰነ ደረጃን ጠብቆ በሚቆይበት ጊዜ ተለዋዋጭነትን ለመፍጠር ቀላል መመሪያ ነው። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: None of the above 
+EXPLANATION:
+This"
+ይህ ዳይኖሰሮች ላባ እንደነበራቸው፣ የተስፋፋ ጽንሰ ሃሳብ፣ ብቻ ሳይሆን ነገር ግን ቅሪት አካላት ሊያቀርቡ የማይችሉትን እንደ ቀለም እና ባለ ሶስት ልኬት አቀማመጥ አይነት ዝርዝሮችንም ያረጋግጣል።,science/technology,entertainment,"<|begin_of_text|>SENTENCE:
+ ይህ ዳይኖሰሮች ላባ እንደነበራቸው፣ የተስፋፋ ጽንሰ ሃሳብ፣ ብቻ ሳይሆን ነገር ግን ቅሪት አካላት ሊያቀርቡ የማይችሉትን እንደ ቀለም እና ባለ ሶስት ልኬት አቀማመጥ አይነት ዝርዝሮችንም ያረጋግጣል። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+The"
+የአዮ የስበት ኃይል እንዴት ሊስበኝ ይችላል? በአዮ ላይ ከቆሙ ክብደትዎ በምድር ላይ ሊመዝኑ ከሚችሉት ክብደቱ ያንሳል፡፡,science/technology,geography,"<|begin_of_text|>SENTENCE:
+ የአዮ የስበት ኃይል እንዴት ሊስበኝ ይችላል? በአዮ ላይ ከቆሙ ክብደትዎ በምድር ላይ ሊመዝኑ ከሚችሉት ክብደቱ ያንሳል፡፡ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+�"
+NextGen፣ FAA አንድ አውሮፕላን በየዓመቱ ሚሊየን ጋሎን ነዳጅ እንዲቆጥብ እና የካርቦን ልቀትን እንዲቀንስ አጭር ጉዞዎችን እንዲያረግ ያስችላል ብሎ የሚያውጀው ሥርዓት ነው።,science/technology,travel,"<|begin_of_text|>SENTENCE:
+ NextGen፣ FAA አንድ አውሮፕላን በየዓመቱ ሚሊየን ጋሎን ነዳጅ እንዲቆጥብ እና የካርቦን ልቀትን እንዲቀንስ አጭር ጉዞዎችን እንዲያረግ ያስችላል ብሎ የሚያውጀው ሥርዓት ነው። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The sentence"
+ኒውሮባዮሎጂካል ውሂብ የመገንዘብ ምርመራን ቲዎሬቲካል አቀራረብ በተመለከተ አካላዊ ማስረጃ ይሰጣል። ስለዚህ የምርምር ስፋቱን ያጠበዋል እና የበለጠ ትክክለኛ ያደርገዋል።,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ ኒውሮባዮሎጂካል ውሂብ የመገንዘብ ምርመራን ቲዎሬቲካል አቀራረብ በተመለከተ አካላዊ ማስረጃ ይሰጣል። ስለዚህ የምርምር ስፋቱን ያጠበዋል እና የበለጠ ትክክለኛ ያደርገዋል። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+The sentence"
+"ለ2 ሰዐታት በቆየው ንግግሩ፣ ""በዛሬው ዕለት Apple ስልክን በድጋሚ የሚፈጥር ይሆናል፣ እኛም በዛሬው ዕለት ታሪክ እንሰራለን"" ሲል ተናግሯል።",science/technology,entertainment,"<|begin_of_text|>SENTENCE:
+ ለ2 ሰዐታት በቆየው ንግግሩ፣ ""በዛሬው ዕለት Apple ስልክን በድጋሚ የሚፈጥር ይሆናል፣ እኛም በዛሬው ዕለት ታሪክ እንሰራለን"" ሲል ተናግሯል። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+�"
+የማጉላት ሌንሶች ጉዳቶች የትኩረት ርዝመቶችን ለማድረስ የሚያስፈልጉ የትኩረት ውስብስብነት እና ብዛት የሌንስ ንጥረ ነገሮች ብዛት ከዋና ሌንሶች እጅግ የላቀ ነው።,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ የማጉላት ሌንሶች ጉዳቶች የትኩረት ርዝመቶችን ለማድረስ የሚያስፈልጉ የትኩረት ውስብስብነት እና ብዛት የሌንስ ንጥረ ነገሮች ብዛት ከዋና ሌንሶች እጅግ የላቀ ነው። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science
+EXPLANATION:
+This sentence is about"
+የቴሌቪዥን ሪሞት በመምሰል፣ መቆጣጠሪያው አቅጣጫውን በሶስት-ገፅታዊ ቦታ ለመከፋፈል ከተጠቃሚው ቴሌቪዥን አጠገብ የሚቀመጡ ሁለት ሴንሰሮችን ይጠቀማል።,science/technology,entertainment,"<|begin_of_text|>SENTENCE:
+ የቴሌቪዥን ሪሞት በመምሰል፣ መቆጣጠሪያው አቅጣጫውን በሶስት-ገፅታዊ ቦታ ለመከፋፈል ከተጠቃሚው ቴሌቪዥን አጠገብ የሚቀመጡ ሁለት ሴንሰሮችን ይጠቀማል። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+�"
+. የዚህ እንሰሳ የላባ ቀለም ደማቅ ቡናማ ከላይ እና ነጣ ወይም ብርትኳናማ ካታች ነው ብለዋል ተመራማሪዎች።,science/technology,geography,"<|begin_of_text|>SENTENCE:
+. የዚህ እንሰሳ የላባ ቀለም ደማቅ ቡናማ ከላይ እና ነጣ ወይም ብርትኳናማ ካታች ነው ብለዋል ተመራማሪዎች። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+�"
+ሁለቱ ውህዶች የኩላሊትን ስራ ሊያግድ የሚችሉ ክሪስታሎችን ለመስራት እርስ በርስ ይቀላቀላሉ፣ በዩኒቨርሲቲው ጥናት አድራጊዎች ተናገሩ።,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ ሁለቱ ውህዶች የኩላሊትን ስራ ሊያግድ የሚችሉ ክሪስታሎችን ለመስራት እርስ በርስ ይቀላቀላሉ፣ በዩኒቨርሲቲው ጥናት አድራጊዎች ተናገሩ። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+The sentence"
+ይህም የሚሰጠው የጥራት ሪዞሉሽን የ35 ሚሜ ኔጋቲቭ (3136ሚሜ2 ከ864) ከሚሰጠው የጥራት ሪዞሉሽን ወደ አራት እጥፍ የሚጠጋ ነው።,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ ይህም የሚሰጠው የጥራት ሪዞሉሽን የ35 ሚሜ ኔጋቲቭ (3136ሚሜ2 ከ864) ከሚሰጠው የጥራት ሪዞሉሽን ወደ አራት እጥፍ የሚጠጋ ነው። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+The sentence"
+ወደ አውሮፓ እና ወደ ብሮድባንድ ሳተላይት ለሚያገናኙ የባህር ስር ፋይበር ኦፕቲክ ሽቦዎች ምስጋና ይግባቸው፤ ግሪንላንድ 93% ህዝብ የበይነ መረብ አገልግሎት የሚያገኝበት በደንብ የተገናኘ ሀገር ነው።,science/technology,geography,"<|begin_of_text|>SENTENCE:
+ ወደ አውሮፓ እና ወደ ብሮድባንድ ሳተላይት ለሚያገናኙ የባህር ስር ፋይበር ኦፕቲክ ሽቦዎች ምስጋና ይግባቸው፤ ግሪንላንድ 93% ህዝብ የበይነ መረብ አገልግሎት የሚያገኝበት በደንብ የተገናኘ ሀገር ነው። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+�"
+በዚህ ምድብ ውስጥ ከስመጥር መተግበሪያች መካከል አንዱ፣ የሚፈለገውን ቋንቋ ውሂብ ካወረደ በኋላ ከመስመር ውጪ የትርጉም ስራ ለመስራት የሚያስችለው ጉግል ትራንስሌት ነው።,science/technology,geography,"<|begin_of_text|>SENTENCE:
+ በዚህ ምድብ ውስጥ ከስመጥር መተግበሪያች መካከል አንዱ፣ የሚፈለገውን ቋንቋ ውሂብ ካወረደ በኋላ ከመስመር ውጪ የትርጉም ስራ ለመስራት የሚያስችለው ጉግል ትራንስሌት ነው። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+ጋዝም፣ ፈሳሽም፣ ጠጣርም ቢሆን ተመሳሳይ ሞሎኪውላዊ መዋቅር አለው።,science/technology,geography,"<|begin_of_text|>SENTENCE:
+ ጋዝም፣ ፈሳሽም፣ ጠጣርም ቢሆን ተመሳሳይ ሞሎኪውላዊ መዋቅር አለው። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+�"
+የቪዲዮ ቀረፃ በጥቂት ሚሊ ሰከንዶች የሚቆይ ጥቃቅን መግለጫዎችን፣ የፊት እንቅስቃሴዎችን ለመተርጎም ወደ አስፈላጊ ግኝቶች መርተዋል።,science/technology,entertainment,"<|begin_of_text|>SENTENCE:
+ የቪዲዮ ቀረፃ በጥቂት ሚሊ ሰከንዶች የሚቆይ ጥቃቅን መግለጫዎችን፣ የፊት እንቅስቃሴዎችን ለመተርጎም ወደ አስፈላጊ ግኝቶች መርተዋል። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+�"
+ሰዎች በሺዎች ለሚቆጠሩ ዓመታት ሌንሶችን ለማጉላት እየሠሩ እና እየተጠቀሙባቸው ኖረዋል።,science/technology,travel,"<|begin_of_text|>SENTENCE:
+ ሰዎች በሺዎች ለሚቆጠሩ ዓመታት ሌንሶችን ለማጉላት እየሠሩ እና እየተጠቀሙባቸው ኖረዋል። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+travel
+EXPLANATION:
+The word """
+ብቻውን ግን አይደለም፣ መሞከር፣ እና ሙከራ አንድ ወይም ከዚያ በላይ መላ ምቶችን ለማስወገድ የሚጠቅም ፈተና ነው፣ ጥያቄዎችን መጠየቅ፣ እና ምልከታዎችን ማካሄድም ሳይንሳዊ ጥናትን ይመራሉ።,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ ብቻውን ግን አይደለም፣ መሞከር፣ እና ሙከራ አንድ ወይም ከዚያ በላይ መላ ምቶችን ለማስወገድ የሚጠቅም ፈተና ነው፣ ጥያቄዎችን መጠየቅ፣ እና ምልከታዎችን ማካሄድም ሳይንሳዊ ጥናትን ይመራሉ። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+The sentence"
+በመጨረሻም የእንጨት ጎማዎች በብረት ተተኩ። በ1767፣ የመጀመሪያዎቹ ሙሉ በሙሉ ብረት የሆኑ ሃዲዶች ተዋወቁ።,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ በመጨረሻም የእንጨት ጎማዎች በብረት ተተኩ። በ1767፣ የመጀመሪያዎቹ ሙሉ በሙሉ ብረት የሆኑ ሃዲዶች ተዋወቁ። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+The sentence"
+ብዙዎቹ ካርዶች የትም ለመደወል ጥሩ ቢሆኑም አንዳንዶቹ ለተወሰኑ የሀገር ስብስቦች የሚመች የመደወያ ዋጋ ማቅረብ ላይ የተለየ ትኩረት ይሰጣሉ።,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ ብዙዎቹ ካርዶች የትም ለመደወል ጥሩ ቢሆኑም አንዳንዶቹ ለተወሰኑ የሀገር ስብስቦች የሚመች የመደወያ ዋጋ ማቅረብ ላይ የተለየ ትኩረት ይሰጣሉ። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+The sentence"
+አብዛኛዎቹ ዘመናዊ የምርምር ቴሌስኮፖች ጥሩ የአየር ንብረት ሁኔታ ባላቸው ሩቅ አካባቢዎች ውስጥ የሚገኙ ግዙፍ ተቋማት ናቸው፡፡,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ አብዛኛዎቹ ዘመናዊ የምርምር ቴሌስኮፖች ጥሩ የአየር ንብረት ሁኔታ ባላቸው ሩቅ አካባቢዎች ውስጥ የሚገኙ ግዙፍ ተቋማት ናቸው፡፡ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+The sentence"
+በብረት መወጠር ምክንያት የብረት መርፌው በውሃው ላይ ይንሳፈፋል።,science/technology,geography,"<|begin_of_text|>SENTENCE:
+ በብረት መወጠር ምክንያት የብረት መርፌው በውሃው ላይ ይንሳፈፋል። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+የ 35 ሚሜ ቅርፀት በእውነቱ በተወሰነ መልኩ ግራ የሚያጋባ፣ 36 ሚሜ ስፋት በ 24 ሚሜ ቁመት ያለው ነበር።,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ የ 35 ሚሜ ቅርፀት በእውነቱ በተወሰነ መልኩ ግራ የሚያጋባ፣ 36 ሚሜ ስፋት በ 24 ሚሜ ቁመት ያለው ነበር። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+The sentence"
+"ህዋሶች ስለ ስነህይወት ለማጥናት መሰረታዊና አስፈላጊ ናቸው፣ ስለሆነም ነው፣ በእርግጥ፣ አብዛኛውን ጊዜ "" ህይወትን የሚገነቡ ጡቦች"" ተደርገው የሚጠቀሱት።",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ ህዋሶች ስለ ስነህይወት ለማጥናት መሰረታዊና አስፈላጊ ናቸው፣ ስለሆነም ነው፣ በእርግጥ፣ አብዛኛውን ጊዜ "" ህይወትን የሚገነቡ ጡቦች"" ተደርገው የሚጠቀሱት። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+The word"
+የግል VPN (የግል ቨርቹዋል አውታረ መረብ) አቅራቢዎች ሁለቱንም የፖለቲካ ሸፋን ማድረጊያ እና የንግድ አይፒ-አካባቢ-መሰረት ያደረገ ምስል ማጣሪያ ለማቋረጥ እጅግ በጣም ጥሩ መንገድ ናቸው።,science/technology,politics,"<|begin_of_text|>SENTENCE:
+ የግል VPN (የግል ቨርቹዋል አውታረ መረብ) አቅራቢዎች ሁለቱንም የፖለቲካ ሸፋን ማድረጊያ እና የንግድ አይፒ-አካባቢ-መሰረት ያደረገ ምስል ማጣሪያ ለማቋረጥ እጅግ በጣም ጥሩ መንገድ ናቸው። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+politics
+EXPLANATION:
+The sentence"
+በጠፈር ጣቢያ ተልእኮው ቀደም ሲል ጋይሮስኮፕ ጠፍቶ የነበረበት ቢሆንም፣ ጣቢያው አቋሙን ጠብቆ ነበር፣ እስከ ስፔስዋክ መጠናቀቂያ ድረስ።,science/technology,travel,"<|begin_of_text|>SENTENCE:
+ በጠፈር ጣቢያ ተልእኮው ቀደም ሲል ጋይሮስኮፕ ጠፍቶ የነበረበት ቢሆንም፣ ጣቢያው አቋሙን ጠብቆ ነበር፣ እስከ ስፔስዋክ መጠናቀቂያ ድረስ። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The sentence"
+እንደዚህ ዓይነት አስተሳሰብ ያላቸው ሰዎች የማገናዘብ አስተሳሰብ አላቸው እናም ድግግሞሾችን አስተውለው ችግሮችን ይፈታሉ፣ እና ሳይንሳዊ ፈተናዎች ላይ ይሠራሉ።,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ እንደዚህ ዓይነት አስተሳሰብ ያላቸው ሰዎች የማገናዘብ አስተሳሰብ አላቸው እናም ድግግሞሾችን አስተውለው ችግሮችን ይፈታሉ፣ እና ሳይንሳዊ ፈተናዎች ላይ ይሠራሉ። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+The sentence"
+ኦሴሎትስ/የበረሃ ድመቶች ትናንሽ እንስሳትን መብላት ይወዳሉ። ከቻሉ ዝንጀሮዎችን ፣ እባቦችን ፣ አይጥና ወፎችን ይይዛሉ። ኦሴሎትስ/የበረሃ ድመቶች የሚያድናቸው እንስሳት በሙሉ ማለት ይቻላል ከእነሱ እጅግ ያነሱ ናቸው።,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ ኦሴሎትስ/የበረሃ ድመቶች ትናንሽ እንስሳትን መብላት ይወዳሉ። ከቻሉ ዝንጀሮዎችን ፣ እባቦችን ፣ አይጥና ወፎችን ይይዛሉ። ኦሴሎትስ/የበረሃ ድመቶች የሚያድናቸው እንስሳት በሙሉ ማለት ይቻላል ከእነሱ እጅግ ያነሱ ናቸው። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+The sentence"
+አንዳንድ የመካከለኛ ፎርማት ያላቸው የፊልም ካሜራዎች የ 6 በ6ሴሜ ፎርማት፣ ይበልጥ በትክክለኛው የ56 በ 56 ሚሜ ኔጋቲቭ ይጠቀማሉ።,science/technology,entertainment,"<|begin_of_text|>SENTENCE:
+ አንዳንድ የመካከለኛ ፎርማት ያላቸው የፊልም ካሜራዎች የ 6 በ6ሴሜ ፎርማት፣ ይበልጥ በትክክለኛው የ56 በ 56 ሚሜ ኔጋቲቭ ይጠቀማሉ። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+�"
+ተጓዦች ከባድ አየር ሁኔታ ማንኛውንም የጉዞ እቅዶች ላይ ተፅእኖ ሊኖራቸው ስለሚችል አካባቢያቸው ላይ ተፅእኖ ከሚኖራቸው ከማንኛውም አደጋ እንዲጠነቀቁ በፅኑ ይመከራሉ።,travel,travel,"<|begin_of_text|>SENTENCE:
+ ተጓዦች ከባድ አየር ሁኔታ ማንኛውንም የጉዞ እቅዶች ላይ ተፅእኖ ሊኖራቸው ስለሚችል አካባቢያቸው ላይ ተፅእኖ ከሚኖራቸው ከማንኛውም አደጋ እንዲጠነቀቁ በፅኑ ይመከራሉ። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+travel
+EXPLANATION:
+The sentence is"
+አውቶቡሶች ቀኑን ሙሉ ከየአውራጃው የአውቶቡስ መናኸሪያ (ከወንዙ ማዶ) ይነሳሉ ፣ ምንም እንኳን አብዛኛዎቹ በተለይም ወደ ምስራቅ እና ጃካር/ቡምታን የሚጓዙት ከ 06:30 እስከ 07:30 ባለው ጊዜ ውስጥ ይነሳሉ።,travel,travel,"<|begin_of_text|>SENTENCE:
+ አውቶቡሶች ቀኑን ሙሉ ከየአውራጃው የአውቶቡስ መናኸሪያ (ከወንዙ ማዶ) ይነሳሉ ፣ ምንም እንኳን አብዛኛዎቹ በተለይም ወደ ምስራቅ እና ጃካር/ቡምታን የሚጓዙት ከ 06:30 እስከ 07:30 ባለው ጊዜ ውስጥ ይነሳሉ። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The sentence"
+ለአሽከርካሪው የበለጠ መረጋጋትን ይሰጣሉ ነገር ግን የ አሽከርካሪው እግር በእነሱ ውስጥ ሊጣበቅ ስለሚችል የደህንነት ስጋቶች ሊኖሩት ይችላል።,travel,N/A,"<|begin_of_text|>SENTENCE:
+ ለአሽከርካሪው የበለጠ መረጋጋትን ይሰጣሉ ነገር ግን የ አሽከርካሪው እግር በእነሱ ውስጥ ሊጣበቅ ስለሚችል የደህንነት ስጋቶች ሊኖሩት ይችላል። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: None of the above 
+EXPLANATION:
+This"
+አብዛኞቹ ልዩ የቦልቲክ መርከቦች በሩሲያ ኤስቲ ፒተርስበርግ የተራዘመ ቆይታ ይኖራቸዋል።,travel,geography,"<|begin_of_text|>SENTENCE:
+ አብዛኞቹ ልዩ የቦልቲክ መርከቦች በሩሲያ ኤስቲ ፒተርስበርግ የተራዘመ ቆይታ ይኖራቸዋል። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+�"
+ምክሩ ተጓዦች እንደማይሰርቁ፣ የተከለከሉ ቦታዎች እንደማይገቡ ፣ ህጋዊ ባልሆነ ገበያ እንደማይሳተፉ፣ እንደማይለምኑ ወይም ሌሎች ሰዎችን ለራሳቸው ጥቅም እንደማይበዘብዙ ያስባል።,travel,travel,"<|begin_of_text|>SENTENCE:
+ ምክሩ ተጓዦች እንደማይሰርቁ፣ የተከለከሉ ቦታዎች እንደማይገቡ ፣ ህጋዊ ባልሆነ ገበያ እንደማይሳተፉ፣ እንደማይለምኑ ወይም ሌሎች ሰዎችን ለራሳቸው ጥቅም እንደማይበዘብዙ ያስባል። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+travel
+EXPLANATION:
+This sentence is"
+ወደሌላ ቦታ ጉዞ ከመጀመርህ በፊትና ጉዞ ስትጀምርም ከግምት ውስጥ ማስገባት ያለብህ ብዙ ነገሮች አሉ።,travel,travel,"<|begin_of_text|>SENTENCE:
+ ወደሌላ ቦታ ጉዞ ከመጀመርህ በፊትና ጉዞ ስትጀምርም ከግምት ውስጥ ማስገባት ያለብህ ብዙ ነገሮች አሉ። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The word"
+በቀኑ ሙቀት ተጓዦች ከሩቅ ውሃ የሚመስሉ (ወይም ሌሎች ነገሮችን) ራእዮችን ሊያዩ ይችላሉ።,travel,travel,"<|begin_of_text|>SENTENCE:
+ በቀኑ ሙቀት ተጓዦች ከሩቅ ውሃ የሚመስሉ (ወይም ሌሎች ነገሮችን) ራእዮችን ሊያዩ ይችላሉ። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The word"
+ልጆች ያሏቸው ቤተሰቦች እምብዛም ያልተለመዱ ናቸው፣ ነገር ግን አንዳንድ ማረፊያ ቤቶች የግል ክፍሎች እንዲጠቀሙ ያስችላቸዋል።,travel,N/A,"<|begin_of_text|>SENTENCE:
+ ልጆች ያሏቸው ቤተሰቦች እምብዛም ያልተለመዱ ናቸው፣ ነገር ግን አንዳንድ ማረፊያ ቤቶች የግል ክፍሎች እንዲጠቀሙ ያስችላቸዋል። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: None of the above 
+EXPLANATION:
+This"
+ለምሳሌ በሎኢር ሸለቆ፣ በርሂን ሸለቆ የሚገኙ ቤተ መንግሥቶችን መጎብኘት ወይም ወደ በዳንዑብ የሚገኙ የሚማርኩ ከተሞች የጀልባ ጉዞ ማካሄድ ወይም በኤሪ ቦይ በኩል በጀልባ መሄድ።,travel,travel,"<|begin_of_text|>SENTENCE:
+ ለምሳሌ በሎኢር ሸለቆ፣ በርሂን ሸለቆ የሚገኙ ቤተ መንግሥቶችን መጎብኘት ወይም ወደ በዳንዑብ የሚገኙ የሚማርኩ ከተሞች የጀልባ ጉዞ ማካሄድ ወይም በኤሪ ቦይ በኩል በጀልባ መሄድ። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The sentence"
+የተሻለ ሊሆን የሚችለው ከአንተ ጉዞ ጋር ተመሳሳይ የሆኑ ጉዞዎችን በተደጋጋሚ የሚያስተናግድ ወኪልን መገልገል ነው።,travel,travel,"<|begin_of_text|>SENTENCE:
+ የተሻለ ሊሆን የሚችለው ከአንተ ጉዞ ጋር ተመሳሳይ የሆኑ ጉዞዎችን በተደጋጋሚ የሚያስተናግድ ወኪልን መገልገል ነው። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The word"
+ካውችሰርፊን የተገነኘው የኮምፒውተር ፕሮግራመሯ ኬሲ ፈንቶን ወደ አይስላንድ ነፃ የአየር ቲኬት አግኝታ ነገር ግን የምትቆይበት ቦታ ካጣች ቡኃላ በጃንዋሪ 2004 ነው።,travel,geography,"<|begin_of_text|>SENTENCE:
+ ካውችሰርፊን የተገነኘው የኮምፒውተር ፕሮግራመሯ ኬሲ ፈንቶን ወደ አይስላንድ ነፃ የአየር ቲኬት አግኝታ ነገር ግን የምትቆይበት ቦታ ካጣች ቡኃላ በጃንዋሪ 2004 ነው። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+�"
+የተማሪ ቪዛዎች በአጠቃላይ ከተለመደው የቱሪስት ወይም የንግድ ቪዛዎች የተለያዩ መስፈርቶች እና የማመልከቻ ሂደቶች አሏቸው።,travel,travel,"<|begin_of_text|>SENTENCE:
+ የተማሪ ቪዛዎች በአጠቃላይ ከተለመደው የቱሪስት ወይም የንግድ ቪዛዎች የተለያዩ መስፈርቶች እና የማመልከቻ ሂደቶች አሏቸው። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+travel
+EXPLANATION:
+The sentence is"
+እያንዳንዱ ሀገር የተለየ የሆኑ ህጎች ያሏቸው ሲሆን በመኪና ውስጥ የሚያስፈልጉ ምን ምን የአደጋ ጊዜ ቁሳቁሶች መያዝ እንዳለባቸው ይጠይቃሉ።,travel,geography,"<|begin_of_text|>SENTENCE:
+ እያንዳንዱ ሀገር የተለየ የሆኑ ህጎች ያሏቸው ሲሆን በመኪና ውስጥ የሚያስፈልጉ ምን ምን የአደጋ ጊዜ ቁሳቁሶች መያዝ እንዳለባቸው ይጠይቃሉ። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+�"
+ምንም እንኳን አብዛኛዎቹ ወኪሎች በብዛት መደበኛ የጉዞ ፍላጎቶች ወዳሉበት ስፍራዎች ለመሄድ ፍላጎት ቢኖራቸውም በርካታዎቹ ወኪሎች ግን ልዩ በሆኑ የጉዞ አይነቶች፣ የበጀት መጠኖችና የመዳረሻ ስፍራዎች ላይ በተለየ መልኩ ትኩረት ያደርጋሉ።,travel,travel,"<|begin_of_text|>SENTENCE:
+ ምንም እንኳን አብዛኛዎቹ ወኪሎች በብዛት መደበኛ የጉዞ ፍላጎቶች ወዳሉበት ስፍራዎች ለመሄድ ፍላጎት ቢኖራቸውም በርካታዎቹ ወኪሎች ግን ልዩ በሆኑ የጉዞ አይነቶች፣ የበጀት መጠኖችና የመዳረሻ ስፍራዎች ላይ በተለየ መልኩ ትኩረት ያደርጋሉ። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The sentence"
+ተጓዦች የትውልድ አካባቢዎቻቸው ውስጥ የማያውቋቸው የእንሰሳ ተባዮች ሊያጋጥሟቸው ይችላሉ።,travel,travel,"<|begin_of_text|>SENTENCE:
+ ተጓዦች የትውልድ አካባቢዎቻቸው ውስጥ የማያውቋቸው የእንሰሳ ተባዮች ሊያጋጥሟቸው ይችላሉ። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+travel
+EXPLANATION:
+This sentence is"
+ወደ ሰሜን ደግሞ በዓለም ዙሪያ ዝነኛ የማሪያ ስርዓቶች የሚደረጉበትን ቦታ፣ እመቤታችን ቅድስት ድንግል ማርያም (መቅደስ) ይጎብኙ።,travel,geography,"<|begin_of_text|>SENTENCE:
+ ወደ ሰሜን ደግሞ በዓለም ዙሪያ ዝነኛ የማሪያ ስርዓቶች የሚደረጉበትን ቦታ፣ እመቤታችን ቅድስት ድንግል ማርያም (መቅደስ) ይጎብኙ። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+geography
+EXPLANATION:
+The sentence"
+ወደ ጎማ ለመዞር ቦዳ-ቦዳ (የሞተር ብስክሌት ታክሲ) መጠቀም ይችላሉ። መደበኛው (አካባቢያዊ) ዋጋ ለአጭር ጉዞ ~ 500 የኮንጎ ፍራንክ ነው።,travel,travel,"<|begin_of_text|>SENTENCE:
+ ወደ ጎማ ለመዞር ቦዳ-ቦዳ (የሞተር ብስክሌት ታክሲ) መጠቀም ይችላሉ። መደበኛው (አካባቢያዊ) ዋጋ ለአጭር ጉዞ ~ 500 የኮንጎ ፍራንክ ነው። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The sentence"
+የቤት ውጭ እንቅስቃሴ ለሚያዝናናቸው፣ በSea to Sky ኮሪደር በኩል ወደላይ የሚደረግ የእግር ጉዞ በጣም ጠቃሚ ነው።,travel,travel,"<|begin_of_text|>SENTENCE:
+ የቤት ውጭ እንቅስቃሴ ለሚያዝናናቸው፣ በSea to Sky ኮሪደር በኩል ወደላይ የሚደረግ የእግር ጉዞ በጣም ጠቃሚ ነው። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The sentence"
+የእግር ጉዞ (“የቁጥቋጦ እርምጃ”፣ “የተራራ መውጣት ጉዞ” ወይም “በእግረኝነት” መሄድ ተብሎ ሚጠራው) ለጥቂት ሰአታት ወይም ብዙ ቀናት ተራራ መውጣትን ይጠቃልላል።,travel,travel,"<|begin_of_text|>SENTENCE:
+ የእግር ጉዞ (“የቁጥቋጦ እርምጃ”፣ “የተራራ መውጣት ጉዞ” ወይም “በእግረኝነት” መሄድ ተብሎ ሚጠራው) ለጥቂት ሰአታት ወይም ብዙ ቀናት ተራራ መውጣትን ይጠቃልላል። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The word"
+በፍጥነት እንዲያልፍ ለማድረግ ብቸኛው መንገድ እንደተረጋገጠ ጓዝ መላክ ነበር። የአየር መንገድ ደንብ ሻንጣ ያለ ተሳፋሪ እንዲልኩ አይፈቅድላቸውም፣ በዚህ ጊዜ ነው እርስዎ የሚያስፈልጉት።,travel,travel,"<|begin_of_text|>SENTENCE:
+ በፍጥነት እንዲያልፍ ለማድረግ ብቸኛው መንገድ እንደተረጋገጠ ጓዝ መላክ ነበር። የአየር መንገድ ደንብ ሻንጣ ያለ ተሳፋሪ እንዲልኩ አይፈቅድላቸውም፣ በዚህ ጊዜ ነው እርስዎ የሚያስፈልጉት። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+travel
+EXPLANATION:
+The sentence is"
+"አንድ የ300 ጭማሪ፣ መጨናነቅ ለማስታገስ መገኘት ያለበትን የተሸከርካሪዎች አጠቃላይ ድምር ወደ 1,300 ያደርሰዋል።",travel,geography,"<|begin_of_text|>SENTENCE:
+ አንድ የ300 ጭማሪ፣ መጨናነቅ ለማስታገስ መገኘት ያለበትን የተሸከርካሪዎች አጠቃላይ ድምር ወደ 1,300 ያደርሰዋል። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+�"
+ትናንሽ ልጆች ያሏቸው ቤተሰቦች ብዙ ዝግጅት የሚያስፈልጋቸው ሊሆን ይችላል፣ ነገር ግን ሕፃናት እና ለትምህርት ያልደረሱ ልጆች ጨምሮ ከቤት ውጭ ማሳለፍ በቀላሉ የሚቻል ነው።,travel,N/A,"<|begin_of_text|>SENTENCE:
+ ትናንሽ ልጆች ያሏቸው ቤተሰቦች ብዙ ዝግጅት የሚያስፈልጋቸው ሊሆን ይችላል፣ ነገር ግን ሕፃናት እና ለትምህርት ያልደረሱ ልጆች ጨምሮ ከቤት ውጭ ማሳለፍ በቀላሉ የሚቻል ነው። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: None of the above
+EXPLANATION:
+This"
+በከፍተኛ ኬክሮሶች ወይም በተራራ ማለፊያዎች ላይ የሚነዳ ማንም ሰው የበረዶ፣ በረዶ ወይም የሚያረጉ ልከ ሙቀቶች ሊኖሩ እንደሚችሉ ሊያስብ ይገባል።,travel,science/technology,"<|begin_of_text|>SENTENCE:
+ በከፍተኛ ኬክሮሶች ወይም በተራራ ማለፊያዎች ላይ የሚነዳ ማንም ሰው የበረዶ፣ በረዶ ወይም የሚያረጉ ልከ ሙቀቶች ሊኖሩ እንደሚችሉ ሊያስብ ይገባል። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science
+EXPLANATION:
+This sentence is about"
+ዛሬም፣ ቲምቡክቱ ምንም እንኳን ዝናዋ የቱሪስት መስህብ ቢያደርጋትም፣ እና አውሮፕላን ማረፊያ ቢኖራትም፣ ድሃ ከተማ ናት።,travel,geography,"<|begin_of_text|>SENTENCE:
+ ዛሬም፣ ቲምቡክቱ ምንም እንኳን ዝናዋ የቱሪስት መስህብ ቢያደርጋትም፣ እና አውሮፕላን ማረፊያ ቢኖራትም፣ ድሃ ከተማ ናት። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+ከፍተኛ ቅዝቃዜ ባለው በረዶ ጊዜ እንዳይንቀሳቀሱ ሊያደርጎት የሚችል በረዶ በጣም በአጭር ጊዜ ሊወርድ ይችላል።,travel,geography,"<|begin_of_text|>SENTENCE:
+ ከፍተኛ ቅዝቃዜ ባለው በረዶ ጊዜ እንዳይንቀሳቀሱ ሊያደርጎት የሚችል በረዶ በጣም በአጭር ጊዜ ሊወርድ ይችላል። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+�"
+ሙሉ በሙሉ በደቡባዊው ንፍቀ ክበብ ሆኖ በአለም ዙሪያ መብረር ከፈለጉ፣ በትራንስኦሺያን መንገዶች አለመኖር ምክንያት የበረራዎች እና የመድረሻዎች ምርጫ ውስን ነው።,travel,geography,"<|begin_of_text|>SENTENCE:
+ ሙሉ በሙሉ በደቡባዊው ንፍቀ ክበብ ሆኖ በአለም ዙሪያ መብረር ከፈለጉ፣ በትራንስኦሺያን መንገዶች አለመኖር ምክንያት የበረራዎች እና የመድረሻዎች ምርጫ ውስን ነው። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+geography
+EXPLANATION:
+The sentence"
+እንደ ኤሚሬትስ ፣ ኢትሃድ አየር መንገድ ፣ ኳታር አየር መንገድ እና ተርኪሽ አየር መንገድ ያሉ አየር መንገዶች አገልግሎታቸውን ወደ አፍሪካ በከፍተኛ ሁኔታ ያስፋፉ ሲሆን ከሌሎች የአውሮፓ አየር መንገዶች በተሻለ ከበርካታ ዋና-ዋና የአፍሪካ ከተሞች ጋር ግንኙነቶችን ይሰጣሉ።,travel,travel,"<|begin_of_text|>SENTENCE:
+ እንደ ኤሚሬትስ ፣ ኢትሃድ አየር መንገድ ፣ ኳታር አየር መንገድ እና ተርኪሽ አየር መንገድ ያሉ አየር መንገዶች አገልግሎታቸውን ወደ አፍሪካ በከፍተኛ ሁኔታ ያስፋፉ ሲሆን ከሌሎች የአውሮፓ አየር መንገዶች በተሻለ ከበርካታ ዋና-ዋና የአፍሪካ ከተሞች ጋር ግንኙነቶችን ይሰጣሉ። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The sentence"
+ተጨማሪ ጉዞ እየተጨመረ አይደለም እናም ከመሬት በላይ የሚሄዱ ባቡሮች ዌምብሌይ ላይ አይቆሙም፤ እናም መኪና ማቆሚያ እኛ አቁመው-ይጓዙ ተቋማት መሬት ላይ አይገኙም።,travel,travel,"<|begin_of_text|>SENTENCE:
+ ተጨማሪ ጉዞ እየተጨመረ አይደለም እናም ከመሬት በላይ የሚሄዱ ባቡሮች ዌምብሌይ ላይ አይቆሙም፤ እናም መኪና ማቆሚያ እኛ አቁመው-ይጓዙ ተቋማት መሬት ላይ አይገኙም። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The sentence"
+በአጠቃላይ፣ በማንኛውም የውጭ ሀገር ረዘም ላለ ጊዜ መቆየት፣ ቪዛ አስቀድመው እንዲያገኙ ያስገድዳል።,travel,travel,"<|begin_of_text|>SENTENCE:
+ በአጠቃላይ፣ በማንኛውም የውጭ ሀገር ረዘም ላለ ጊዜ መቆየት፣ ቪዛ አስቀድመው እንዲያገኙ ያስገድዳል። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The sentence"
+እያንዳንዱ ባቡር ሁለቱም ሜትሮፕላስ እና ሜትሮ ተሳቢዎች አሏቸው፤ ሜትሮፕላስ ተሳቢዎቹ ሁሌም ለኬፕ ታውን ቅርቡ የባቡር ጫፍ ላይ ናቸው።,travel,geography,"<|begin_of_text|>SENTENCE:
+ እያንዳንዱ ባቡር ሁለቱም ሜትሮፕላስ እና ሜትሮ ተሳቢዎች አሏቸው፤ ሜትሮፕላስ ተሳቢዎቹ ሁሌም ለኬፕ ታውን ቅርቡ የባቡር ጫፍ ላይ ናቸው። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+�"
+ሁሉም ሰው በኅብረተሰብ ውስጥ ይሳተፋል እና የትራንስፖርት ስርዓቶችን ይጠቀማል። ሁሉም ሰው ማለት ይቻላል ስለ መጓጓዣ ስርዓቶች ቅሬታ ያቀርባል።,travel,N/A,"<|begin_of_text|>SENTENCE:
+ ሁሉም ሰው በኅብረተሰብ ውስጥ ይሳተፋል እና የትራንስፖርት ስርዓቶችን ይጠቀማል። ሁሉም ሰው ማለት ይቻላል ስለ መጓጓዣ ስርዓቶች ቅሬታ ያቀርባል። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: None of the above 
+EXPLANATION:
+�"
+አከባቢዎቹ ጥቂት የሰፈሩ ሰዎች ስላሉበት፣ እና የብርሃን ብክለት ብዙውን ጊዜ ችግር ስለማይሆን፣ በከዋክብትም መደሰት ይችላሉ።,travel,geography,"<|begin_of_text|>SENTENCE:
+ አከባቢዎቹ ጥቂት የሰፈሩ ሰዎች ስላሉበት፣ እና የብርሃን ብክለት ብዙውን ጊዜ ችግር ስለማይሆን፣ በከዋክብትም መደሰት ይችላሉ። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+�"
+ቪዛ ሲጠየቅ የሚኖሩት መስፈርቶች እና ክፍያዎች ከሀገር ሀገር ልዩነት ያላቸው ሲሆን ከሚመጡበትም የሀገር እንዲሁ ተፅዕኖ ሊደርስብዎት ይችላል።,travel,geography,"<|begin_of_text|>SENTENCE:
+ ቪዛ ሲጠየቅ የሚኖሩት መስፈርቶች እና ክፍያዎች ከሀገር ሀገር ልዩነት ያላቸው ሲሆን ከሚመጡበትም የሀገር እንዲሁ ተፅዕኖ ሊደርስብዎት ይችላል። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+በአጠቃላይ ለመናገር ከኤ ወደ ቢ ለሚደረጉ ቀጥታ በረራዎች የቢዝነስ ወይም የመጀመሪያ ክፍል ወንበሮች ላይ ቅናሽ መፈለግ ሁላ ጥቅም የለውም።,travel,science/technology,"<|begin_of_text|>SENTENCE:
+ በአጠቃላይ ለመናገር ከኤ ወደ ቢ ለሚደረጉ ቀጥታ በረራዎች የቢዝነስ ወይም የመጀመሪያ ክፍል ወንበሮች ላይ ቅናሽ መፈለግ ሁላ ጥቅም የለውም። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+The sentence"
+የቡምራንግ ውርወራን ብዙ ቱሪስቶች ሊችሉት የሚፈልጉት ተወዳጅ ችሎታ ነው፡፡,travel,travel,"<|begin_of_text|>SENTENCE:
+ የቡምራንግ ውርወራን ብዙ ቱሪስቶች ሊችሉት የሚፈልጉት ተወዳጅ ችሎታ ነው፡፡ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The word"
+የደቡብ ፓስፊክን እና የደቡብ አሜሪካን ምዕራባዊ ጠረፍ ለመዝለል ከፈለጉ ይህ በረራ ብቸኛው አማራጭ አይደለም። (ከስር ይመልከቱ),travel,geography,"<|begin_of_text|>SENTENCE:
+ የደቡብ ፓስፊክን እና የደቡብ አሜሪካን ምዕራባዊ ጠረፍ ለመዝለል ከፈለጉ ይህ በረራ ብቸኛው አማራጭ አይደለም። (ከስር ይመልከቱ) 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+�"
+ሳንፍራንሲስኮ ብዙ ሆቴሎችን፣ ምግብ ቤቶችንና ከፍተኛ ደረጃ ያላቸው የሕንፃ መገልገያዎችን የያዘ ትልቅ የቱሪስት መሠረተ ልማት ሰርተዋል፡፡,travel,travel,"<|begin_of_text|>SENTENCE:
+ ሳንፍራንሲስኮ ብዙ ሆቴሎችን፣ ምግብ ቤቶችንና ከፍተኛ ደረጃ ያላቸው የሕንፃ መገልገያዎችን የያዘ ትልቅ የቱሪስት መሠረተ ልማት ሰርተዋል፡፡ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+travel
+EXPLANATION:
+The sentence is"
+በሚጓዙበት ወቅት በጎ ፈቃደኝነት ለውጥ ለማምጣት ጥሩ መንገድ ነው፣ ይህ ማለት ግን መስጠት ብቻ ማለት አይደለም።,travel,travel,"<|begin_of_text|>SENTENCE:
+ በሚጓዙበት ወቅት በጎ ፈቃደኝነት ለውጥ ለማምጣት ጥሩ መንገድ ነው፣ ይህ ማለት ግን መስጠት ብቻ ማለት አይደለም። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The sentence"
+ትዕግሥትና ማስተዋል ወደ አገራቸው ለሚመለሱ ተጓዦች አስፈላጊ መሆናቸውንም ሰዎች አይረዱም።,travel,travel,"<|begin_of_text|>SENTENCE:
+ ትዕግሥትና ማስተዋል ወደ አገራቸው ለሚመለሱ ተጓዦች አስፈላጊ መሆናቸውንም ሰዎች አይረዱም። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The word"
+ከአፍሪካ ውጭ ላሉት ሁሉም ቦታዎች ተጨማሪ ቪዛዎች ፣ የመነሻ ግብሮች ፣ የመሬት ትራንስፖርት ፣ ወዘተ ተጨማሪ ወጪዎች ውስጥ መጨመርዎን አይርሱ።,travel,geography,"<|begin_of_text|>SENTENCE:
+ ከአፍሪካ ውጭ ላሉት ሁሉም ቦታዎች ተጨማሪ ቪዛዎች ፣ የመነሻ ግብሮች ፣ የመሬት ትራንስፖርት ፣ ወዘተ ተጨማሪ ወጪዎች ውስጥ መጨመርዎን አይርሱ። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+�"
+በርካታ የቢሽከክ ነዋሪዎች የደቡብ ሰላማዊ ሰልፈኞችን ህግ ባለማክበራቸው ወቅሰዋቸዋል።,politics,politics,"<|begin_of_text|>SENTENCE:
+ በርካታ የቢሽከክ ነዋሪዎች የደቡብ ሰላማዊ ሰልፈኞችን ህግ ባለማክበራቸው ወቅሰዋቸዋል። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+politics
+EXPLANATION:
+This sentence"
+የዛሬዎቹ የቤልጅየም ክፍሎች ቀደም ሲል የሉክሰምበርግ አካል ነበሩ ግን ከ 1830 ዎቹ የቤልጂየም አብዮት በኋላ ቤልጅየም ሆነዋል።,politics,geography,"<|begin_of_text|>SENTENCE:
+ የዛሬዎቹ የቤልጅየም ክፍሎች ቀደም ሲል የሉክሰምበርግ አካል ነበሩ ግን ከ 1830 ዎቹ የቤልጂየም አብዮት በኋላ ቤልጅየም ሆነዋል። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+�"
+ከ1988 ጀምሮ፣ የምርጫ ኮሮጆዎች በምርጫው መጀመሪያ ላይ ምንም ፖስታዎች እንደሌሏቸው እና በምርጫው መጨረሻ ላይ ደግሞ ከተቆጠሩት እና ፍቃድ ከተሰጣቸው መራጮች ውጪ ሌሎች ፖስታዎች እንዳልገቡ መራጮች እና ታዛቢዎች እንዲያረጋግጡ ወደ ውስጥ የሚያሳዩ መሆን አለባቸው።,politics,politics,"<|begin_of_text|>SENTENCE:
+ ከ1988 ጀምሮ፣ የምርጫ ኮሮጆዎች በምርጫው መጀመሪያ ላይ ምንም ፖስታዎች እንደሌሏቸው እና በምርጫው መጨረሻ ላይ ደግሞ ከተቆጠሩት እና ፍቃድ ከተሰጣቸው መራጮች ውጪ ሌሎች ፖስታዎች እንዳልገቡ መራጮች እና ታዛቢዎች እንዲያረጋግጡ ወደ ውስጥ የሚያሳዩ መሆን አለባቸው። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+politics
+EXPLANATION:
+The sentence"
+ተጠባባቂ ጠቅላይ ሚኒስትር ጁሊያ ጊላርድ በ 2010 የፌዴራል ምርጫ ዘመቻ ወቅት ንግስት ኤልሳቤጥ II በንግሥና ማብቂያ አውስትራሊያ ሪፐብሊክ መሆን አለባት ብለው እንደሚያምኑ ተናግረዋል።,politics,politics,"<|begin_of_text|>SENTENCE:
+ ተጠባባቂ ጠቅላይ ሚኒስትር ጁሊያ ጊላርድ በ 2010 የፌዴራል ምርጫ ዘመቻ ወቅት ንግስት ኤልሳቤጥ II በንግሥና ማብቂያ አውስትራሊያ ሪፐብሊክ መሆን አለባት ብለው እንደሚያምኑ ተናግረዋል። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+politics
+EXPLANATION:
+The sentence"
+የአየርላንድ መንግሥት ሁኔታውን ለማስተካከል የፓርላሜንታዊ ሕግ አጣዳፊነትን በአጽንኦት እየገለጸ ነው።,politics,politics,"<|begin_of_text|>SENTENCE:
+ የአየርላንድ መንግሥት ሁኔታውን ለማስተካከል የፓርላሜንታዊ ሕግ አጣዳፊነትን በአጽንኦት እየገለጸ ነው። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+politics
+EXPLANATION:
+The sentence"
+በክልሉ ላይ የሚካሄዱ የዲፕሎማሲ ክርክሮች በአርሜኒያ እና በአዘርባጃን መካከል ግንኙነቶችን ማበላሸታቸውን ቀጥለዋል።,politics,geography,"<|begin_of_text|>SENTENCE:
+ በክልሉ ላይ የሚካሄዱ የዲፕሎማሲ ክርክሮች በአርሜኒያ እና በአዘርባጃን መካከል ግንኙነቶችን ማበላሸታቸውን ቀጥለዋል። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+ጠቅላይ ሚኒስትር ስቴፈን ሃርፐር የመንግስትን የ “ንፁህ አየር ሕግ”ን ከሁለተኛው ንባብ በፊት ከማክሰኞው ከጠቅላይ ሚንስትር ጃክ ሎይተን ጋር በPMO ላይ ከተደረገው የ25 ደቂቃ ስብሰባ በኋላ ለአጠቃላይ ፓርቲ ኮሚቴ እንዲገመገም ለመላክ ተስማምተዋል።,politics,politics,"<|begin_of_text|>SENTENCE:
+ ጠቅላይ ሚኒስትር ስቴፈን ሃርፐር የመንግስትን የ “ንፁህ አየር ሕግ”ን ከሁለተኛው ንባብ በፊት ከማክሰኞው ከጠቅላይ ሚንስትር ጃክ ሎይተን ጋር በPMO ላይ ከተደረገው የ25 ደቂቃ ስብሰባ በኋላ ለአጠቃላይ ፓርቲ ኮሚቴ እንዲገመገም ለመላክ ተስማምተዋል። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+politics
+EXPLANATION:
+The sentence"
+ባለፈው ወር፣ ያቺ ሀገር ኤ.ሲ.ቲ.ኤ ስ ስምምነት ፈረመች በኋላ፣ በፖላንድ ውስጥ ከፍተኛ የተቃውሞ ሰልፎች ተካሂደዋል፣ ይህም የፖላንድ መንግስት ለጊዜው ስምምነቱን እንዳያጸድቅ አድርጎታል።,politics,politics,"<|begin_of_text|>SENTENCE:
+ ባለፈው ወር፣ ያቺ ሀገር ኤ.ሲ.ቲ.ኤ ስ ስምምነት ፈረመች በኋላ፣ በፖላንድ ውስጥ ከፍተኛ የተቃውሞ ሰልፎች ተካሂደዋል፣ ይህም የፖላንድ መንግስት ለጊዜው ስምምነቱን እንዳያጸድቅ አድርጎታል። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+politics
+EXPLANATION:
+The sentence"
+መማክርት በአንድ ሃገር ውስጥ ያለ ፖለቲካዊ ሁኔታ አጭር ማጠቃለያ ብቻ ናቸው።,politics,politics,"<|begin_of_text|>SENTENCE:
+ መማክርት በአንድ ሃገር ውስጥ ያለ ፖለቲካዊ ሁኔታ አጭር ማጠቃለያ ብቻ ናቸው። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+መ"
+በ1976 ምርጫዎች ካርተርን በውጪ ፖሊሲ አማከረ፣ ከዚያን ሄንሪ ኪሲንገርን በመተካት ከ1977 እስከ 1981 እንደ ብሄራዊ የደህንነት አማካሩ(NSA) አገልግሏል።,politics,politics,"<|begin_of_text|>SENTENCE:
+ በ1976 ምርጫዎች ካርተርን በውጪ ፖሊሲ አማከረ፣ ከዚያን ሄንሪ ኪሲንገርን በመተካት ከ1977 እስከ 1981 እንደ ብሄራዊ የደህንነት አማካሩ(NSA) አገልግሏል። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+politics
+EXPLANATION:
+The sentence"
+የአውሮፓ አገራት ወደ ሀገራቸው ለመመለስ ፈቃደኛ ባልሆኑበት፣ መግለጫው ቱርክ የተያዙትን የአይ ኤስ ተዋጊዎችን ጥበቃም ትረከባለች ብሏል።,politics,politics,"<|begin_of_text|>SENTENCE:
+ የአውሮፓ አገራት ወደ ሀገራቸው ለመመለስ ፈቃደኛ ባልሆኑበት፣ መግለጫው ቱርክ የተያዙትን የአይ ኤስ ተዋጊዎችን ጥበቃም ትረከባለች ብሏል። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+The sentence"
+"ነገር ግን፣ ከሶቪዬት ህብረት ቀይ የጦር ኃይል 800,000 ወታደሮች ሪጋ የሰላም ውል፣ የሶቪዬት-ፖሊሽ ፀረ-ጠብ ስምምነት፣ እና ሌሎች የሁለት እና የብዙ ሃገራት አለምዓቀፍ ውሎችን በመጣስ የፖላንድን ምስራቃዊ ክልሎች ከወረሩ በኋላ ገብተው ቤላሩሲያዊ እና ዩክሬናዊ ግንባሮችን ሲፈጥሩ እነዚህ ዕቅዶች በአንድ ሌሊት ከሸፉ።",politics,politics,"<|begin_of_text|>SENTENCE:
+ ነገር ግን፣ ከሶቪዬት ህብረት ቀይ የጦር ኃይል 800,000 ወታደሮች ሪጋ የሰላም ውል፣ የሶቪዬት-ፖሊሽ ፀረ-ጠብ ስምምነት፣ እና ሌሎች የሁለት እና የብዙ ሃገራት አለምዓቀፍ ውሎችን በመጣስ የፖላንድን ምስራቃዊ ክልሎች ከወረሩ በኋላ ገብተው ቤላሩሲያዊ እና ዩክሬናዊ ግንባሮችን ሲፈጥሩ እነዚህ ዕቅዶች በአንድ ሌሊት ከሸፉ። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+politics
+EXPLANATION:
+The sentence"
+ሂደቱን በመከተል፣ በ2015 ወይም 2016 በሚደረገው ቀጣይ የሕግ ምርጫ ሂደቱ እንዲቆይ HJR-3 በድጋሚ ተመልሶ የሚታይ ይሆናል።,politics,politics,"<|begin_of_text|>SENTENCE:
+ ሂደቱን በመከተል፣ በ2015 ወይም 2016 በሚደረገው ቀጣይ የሕግ ምርጫ ሂደቱ እንዲቆይ HJR-3 በድጋሚ ተመልሶ የሚታይ ይሆናል። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+The sentence"
+ሐምሌ 4 ቀን በኮንግረስ ተቀባይነት ካገኘ በኋላ፣ በኮንግረስ ፕሬዝዳንት ጆን ሃንኮክ እና ጸሐፊው ቻርለስ ቶምሰን የተፈረመ በእጅ የተፃፈ ረቂቅ ከዚያ ጥቂት ረድፎች አለፍ ብሎ ወዳለው ማተሚያ ቤት እንዲወሰድ ተደረገ።,politics,politics,"<|begin_of_text|>SENTENCE:
+ ሐምሌ 4 ቀን በኮንግረስ ተቀባይነት ካገኘ በኋላ፣ በኮንግረስ ፕሬዝዳንት ጆን ሃንኮክ እና ጸሐፊው ቻርለስ ቶምሰን የተፈረመ በእጅ የተፃፈ ረቂቅ ከዚያ ጥቂት ረድፎች አለፍ ብሎ ወዳለው ማተሚያ ቤት እንዲወሰድ ተደረገ። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+politics
+EXPLANATION:
+The sentence"
+ከ11፡00 በኋላ፣ ተቃዋሚዎች በዋይትሆል ውስጥ ወደ ሰሜን በሚሄደው ጋሪ ላይ መንገድ ዘጉ።,politics,travel,"<|begin_of_text|>SENTENCE:
+ ከ11፡00 በኋላ፣ ተቃዋሚዎች በዋይትሆል ውስጥ ወደ ሰሜን በሚሄደው ጋሪ ላይ መንገድ ዘጉ። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The sentence"
+ሆኖም፣ በጁን 1956 በፖላንድ ውስጥ የተከሰተው ብጥብጥ እና የምግብ እጥረት እና የደመወዝ ቅነሳን በመቃወም ተቃውሟቸውን ሲያሰሙ የኮሩሺቭ ተስፋዎች ተፈትኖ ነበር የኮሚኒዝም አጠቃላይ ተቃውሞ።,politics,politics,"<|begin_of_text|>SENTENCE:
+ ሆኖም፣ በጁን 1956 በፖላንድ ውስጥ የተከሰተው ብጥብጥ እና የምግብ እጥረት እና የደመወዝ ቅነሳን በመቃወም ተቃውሟቸውን ሲያሰሙ የኮሩሺቭ ተስፋዎች ተፈትኖ ነበር የኮሚኒዝም አጠቃላይ ተቃውሞ። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+politics
+EXPLANATION:
+The sentence"
+ለቀጣዮቹ 40 ዓመታት የሚቆይ ነበር እናም ከአፍሪካ እስከ እስያ፣ በአፍጋኒስታን፣ ኩባ እና ሌሎች በርካታ ቦታዎች ባሉ የጦርነት ሜዳዎች በእውን ውጊያው ይካሄድ ነበር።,politics,geography,"<|begin_of_text|>SENTENCE:
+ ለቀጣዮቹ 40 ዓመታት የሚቆይ ነበር እናም ከአፍሪካ እስከ እስያ፣ በአፍጋኒስታን፣ ኩባ እና ሌሎች በርካታ ቦታዎች ባሉ የጦርነት ሜዳዎች በእውን ውጊያው ይካሄድ ነበር። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+geography
+EXPLANATION:
+The sentence"
+ያለፈው ወር ፕሬዝዳንታዊ ኮሚሽኑ ሀገሪቷን ወደ አዲሱ ምርጫ የሚወሰዷቸው እርምጃዎች ጥቅል አካል የሲኢፒን ቀድሞ መልቀቅን መክረዋል።,politics,politics,"<|begin_of_text|>SENTENCE:
+ ያለፈው ወር ፕሬዝዳንታዊ ኮሚሽኑ ሀገሪቷን ወደ አዲሱ ምርጫ የሚወሰዷቸው እርምጃዎች ጥቅል አካል የሲኢፒን ቀድሞ መልቀቅን መክረዋል። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+The sentence"
+ሌሎች የተሸፈኑ ርእሶች ሪፖርት እንደተደረገው ለሁለቱም ሀገራት እና ለዮርዳኖስ ሸለቆ ጉዳይ ቅዱስ የሆነ የወደፊቱን የኢየሩሳሌምን ሁኔታ ያካትታሉ።,politics,politics,"<|begin_of_text|>SENTENCE:
+ ሌሎች የተሸፈኑ ርእሶች ሪፖርት እንደተደረገው ለሁለቱም ሀገራት እና ለዮርዳኖስ ሸለቆ ጉዳይ ቅዱስ የሆነ የወደፊቱን የኢየሩሳሌምን ሁኔታ ያካትታሉ። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+politics
+EXPLANATION:
+The sentence"
+እንዲሁም በክልሎች መካከል የግብር ህጎችን እና ታሪፎችን የመሻር ስልጣን አልነበረውም።,politics,politics,"<|begin_of_text|>SENTENCE:
+ እንዲሁም በክልሎች መካከል የግብር ህጎችን እና ታሪፎችን የመሻር ስልጣን አልነበረውም። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+politics
+EXPLANATION:
+The sentence"
+የፈረንሣይ የምርጫ ሕግ ክርክሮችን በጥብቅ ይደግፋል።,politics,politics,"<|begin_of_text|>SENTENCE:
+ የፈረንሣይ የምርጫ ሕግ ክርክሮችን በጥብቅ ይደግፋል። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+The sentence"
+በአጋማሽ ምርጫው ከሳምንት ሽንፈት ቡሃላ፣ ቡሽ በእስያ ውስጥ ስላለው የንግድ ሥራ መስፋፋት ለታዳሚዎች ተናግሯል፡፡,politics,politics,"<|begin_of_text|>SENTENCE:
+ በአጋማሽ ምርጫው ከሳምንት ሽንፈት ቡሃላ፣ ቡሽ በእስያ ውስጥ ስላለው የንግድ ሥራ መስፋፋት ለታዳሚዎች ተናግሯል፡፡ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+The sentence"
+ምንም እንኳን ይህ እገታ ባለፉት ሁለት ምዕተ ዓመታት በበርካታ ዓለም አቀፍ ስምምነቶች የተቀናጀ በአጠቃላይ ተቀባይነት ያገኘ ዓለም አቀፍ ሕግን የጣሰ ቢሆንም ፣ አስፈላጊው ወታደራዊ እና ሲቪል አቅርቦቶችን በመቁረጥ ስልቱ ውጤታማ ሆኗል።,politics,politics,"<|begin_of_text|>SENTENCE:
+ ምንም እንኳን ይህ እገታ ባለፉት ሁለት ምዕተ ዓመታት በበርካታ ዓለም አቀፍ ስምምነቶች የተቀናጀ በአጠቃላይ ተቀባይነት ያገኘ ዓለም አቀፍ ሕግን የጣሰ ቢሆንም ፣ አስፈላጊው ወታደራዊ እና ሲቪል አቅርቦቶችን በመቁረጥ ስልቱ ውጤታማ ሆኗል። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+The sentence"
+የፖለቲካ ስምምነቶች ውድቀት እንዳለ ሆኖ በነዚያ ሁለት የሞልዶቫ ክፍሎች መካከል የኢኮኖሚ ግንኙነቶች ዳግም ተቋቁመዋል።,politics,politics,"<|begin_of_text|>SENTENCE:
+ የፖለቲካ ስምምነቶች ውድቀት እንዳለ ሆኖ በነዚያ ሁለት የሞልዶቫ ክፍሎች መካከል የኢኮኖሚ ግንኙነቶች ዳግም ተቋቁመዋል። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+The sentence"
+በነዚያ ባለሥልጣናት ታጅቦ፣ የህብረተሰቡን ደህንነት ለመጠበቅ እርምጃዎች እየተወሰዱ መሆኑን ለቴክሳስ ዜጎች አስታወቀ።,politics,politics,"<|begin_of_text|>SENTENCE:
+ በነዚያ ባለሥልጣናት ታጅቦ፣ የህብረተሰቡን ደህንነት ለመጠበቅ እርምጃዎች እየተወሰዱ መሆኑን ለቴክሳስ ዜጎች አስታወቀ። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+The sentence"
+በዳግም የመገንባት ጥረት ላይ ነጻ ትችት ለሚታዩት የዋሽንግተን ውስጣዊዎች የዳግም መገንባት ኮንትራቶችን መሸለም ላይ ትኩረት አድርጓል።,politics,geography,"<|begin_of_text|>SENTENCE:
+ በዳግም የመገንባት ጥረት ላይ ነጻ ትችት ለሚታዩት የዋሽንግተን ውስጣዊዎች የዳግም መገንባት ኮንትራቶችን መሸለም ላይ ትኩረት አድርጓል። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+"ከ2010 ፌደራላዊ ምርጫ በፊት ከመረጡት 1,400 ሰዎች ውስጥ፣ የአውስትራሊያን ሪፐብሊክ መሆን የሚቃወሙት ከ2008 አንስቶ በ8 በመቶ አደጉ።",politics,politics,"<|begin_of_text|>SENTENCE:
+ ከ2010 ፌደራላዊ ምርጫ በፊት ከመረጡት 1,400 ሰዎች ውስጥ፣ የአውስትራሊያን ሪፐብሊክ መሆን የሚቃወሙት ከ2008 አንስቶ በ8 በመቶ አደጉ። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+politics
+EXPLANATION:
+The sentence"
+ዲፕሎማቶች በአፍጋኒስታን ህገ-መንግስት ውስጥ ፣ የተካሄደውን ዙር አላስፈላጊ እንደሆነ ለመለየት በቂ የሆነ አጠራጣሪ ሁኔታ ማግኘታቸውን ተናግረዋል።,politics,politics,"<|begin_of_text|>SENTENCE:
+ ዲፕሎማቶች በአፍጋኒስታን ህገ-መንግስት ውስጥ ፣ የተካሄደውን ዙር አላስፈላጊ እንደሆነ ለመለየት በቂ የሆነ አጠራጣሪ ሁኔታ ማግኘታቸውን ተናግረዋል። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+politics
+EXPLANATION:
+The sentence"
+ውጤቱ ከመጣ በኋላ ጊንሪች ሳንቶረምን አድንቀዋል ፣ በአዮዋ ውስጥ አሉታዊ የዘመቻ ማስታወቂያዎች በተላለፉበት በሮምኒ ላይ ግን ከባድ ቃላት ወርውረዋል።,politics,geography,"<|begin_of_text|>SENTENCE:
+ ውጤቱ ከመጣ በኋላ ጊንሪች ሳንቶረምን አድንቀዋል ፣ በአዮዋ ውስጥ አሉታዊ የዘመቻ ማስታወቂያዎች በተላለፉበት በሮምኒ ላይ ግን ከባድ ቃላት ወርውረዋል። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+ይህ በአራት ዓመታት ውስጥ የማርቴሊ አምስተኛው CEP ነው።,politics,geography,"<|begin_of_text|>SENTENCE:
+ ይህ በአራት ዓመታት ውስጥ የማርቴሊ አምስተኛው CEP ነው። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+የኦሎምፒክ ወርቅ አሸናፊው በ100ሜ እና 200ሜ በነጻ የዋና ውድድር እኛ በኮመንዌልዝ ጨዋታዎች ላይ ሦስት ዱላ ቅብብሎሽ ነው ነገር ግን በቀሬታዎቹ ምክንያት የአካል ብቃቱ በጥርጣሬ ላይ ነበር።,sports,sports,"<|begin_of_text|>SENTENCE:
+ የኦሎምፒክ ወርቅ አሸናፊው በ100ሜ እና 200ሜ በነጻ የዋና ውድድር እኛ በኮመንዌልዝ ጨዋታዎች ላይ ሦስት ዱላ ቅብብሎሽ ነው ነገር ግን በቀሬታዎቹ ምክንያት የአካል ብቃቱ በጥርጣሬ ላይ ነበር። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+sports
+EXPLANATION:
+The sentence is"
+የቀድሞው የኦሎምፒክ እና የዓለም ሻምፒዮን ከመሆኑ ባለፈ፤ ሴይቶ በሞተበት ወቅት የሁሉም የጃፓን ጁዶ ፌዴሬሽን የሥልጠና ኮሚቴ ሊቀ መንበር ነበር፡፡,sports,politics,"<|begin_of_text|>SENTENCE:
+ የቀድሞው የኦሎምፒክ እና የዓለም ሻምፒዮን ከመሆኑ ባለፈ፤ ሴይቶ በሞተበት ወቅት የሁሉም የጃፓን ጁዶ ፌዴሬሽን የሥልጠና ኮሚቴ ሊቀ መንበር ነበር፡፡ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+politics
+REASONING:
+The sentence"
+ዓለም አቀፉ ኦሎምፒክ ኮሚቴ በርሊን ዛሬ በሥራ አስፈፃሚ ቦርድ ስብሰባው ውስጥ ሰፖርቶቹ እንዲካተት ድምፅ ሰጥቷል። ራግቢ፣ በተለይም የራግቢ ኅብረት እና ጎልፍ በኦሎምፒክ ውስጥ ለመሳተፍ ከአምስት ሌሎች ስፖርቶች ተመርጠዋል።,sports,travel,"<|begin_of_text|>SENTENCE:
+ ዓለም አቀፉ ኦሎምፒክ ኮሚቴ በርሊን ዛሬ በሥራ አስፈፃሚ ቦርድ ስብሰባው ውስጥ ሰፖርቶቹ እንዲካተት ድምፅ ሰጥቷል። ራግቢ፣ በተለይም የራግቢ ኅብረት እና ጎልፍ በኦሎምፒክ ውስጥ ለመሳተፍ ከአምስት ሌሎች ስፖርቶች ተመርጠዋል። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+travel
+EXPLANATION:
+The sentence is"
+የዓመቱ ታላቅ ውድድር በዲሴምበር ላስ ካኒታስ ውስጥ ፖሎ መስኮቹ ጋር ያካሄዳል።,sports,sports,"<|begin_of_text|>SENTENCE:
+ የዓመቱ ታላቅ ውድድር በዲሴምበር ላስ ካኒታስ ውስጥ ፖሎ መስኮቹ ጋር ያካሄዳል። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+sports
+EXPLANATION:
+The sentence is"
+ወደ ካታላን ዋና ከተዘዋወረ ጀምሮ፣ ቪዳል ለክለቡ 49 ጨዋታዎችን ተጫውቷል።,sports,sports,"<|begin_of_text|>SENTENCE:
+ ወደ ካታላን ዋና ከተዘዋወረ ጀምሮ፣ ቪዳል ለክለቡ 49 ጨዋታዎችን ተጫውቷል። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+sports
+EXPLANATION:
+The sentence is"
+ጤናማ የኃይል ሚዛን መጠበቅ፣ ውጤታማ የፈሳሽ አወሳሰድ ልምዶችን መተግበር እና የተለያዩ የማሟያ ልምዶች ሁኔታዎችን መረዳቱ አትሌቶች አፈጻጸማቸውን እንዲያሻሽሉ እና ስፖርቱን የበለጠ እንዲወዱት ይረዳቸዋል።,sports,health,"<|begin_of_text|>SENTENCE:
+ ጤናማ የኃይል ሚዛን መጠበቅ፣ ውጤታማ የፈሳሽ አወሳሰድ ልምዶችን መተግበር እና የተለያዩ የማሟያ ልምዶች ሁኔታዎችን መረዳቱ አትሌቶች አፈጻጸማቸውን እንዲያሻሽሉ እና ስፖርቱን የበለጠ እንዲወዱት ይረዳቸዋል። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+health
+EXPLANATION:
+This sentence is"
+"በሦስተኛ ደረጃ፣ ሃምሊን በሃያ ነጥቦች ከኋላ ነው፣ ግን ከቦውየር አምስት ወደፊት ነው። ካን እና ትሪክስ፣ ጁኒየር በ 2,220 እና 2,207 ነጥብ አምስተኛ እና ስድስተኛ ናቸው።",sports,science/technology,"<|begin_of_text|>SENTENCE:
+ በሦስተኛ ደረጃ፣ ሃምሊን በሃያ ነጥቦች ከኋላ ነው፣ ግን ከቦውየር አምስት ወደፊት ነው። ካን እና ትሪክስ፣ ጁኒየር በ 2,220 እና 2,207 ነጥብ አምስተኛ እና ስድስተኛ ናቸው። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+The sentence"
+ናዳል ከካናዳዊው ጋር ያለው የፍጥጫ ክብረ ወሰን 7-2 ነው።,sports,geography,"<|begin_of_text|>SENTENCE:
+ ናዳል ከካናዳዊው ጋር ያለው የፍጥጫ ክብረ ወሰን 7-2 ነው። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+�"
+ጃርኬ ያን ቀን ጠዋት ላይ በኮቨርሲአኖ ጣልያን ከወቅት-በፊት ስልጠናው ላይ እየተለማመደ ነበር። ከቦሎኛ ጋር እሁድ ለታሰበው ግጥሚያ በቡድኑ ሆቴል ውስጥ እየቆየ ነበር።,sports,entertainment,"<|begin_of_text|>SENTENCE:
+ ጃርኬ ያን ቀን ጠዋት ላይ በኮቨርሲአኖ ጣልያን ከወቅት-በፊት ስልጠናው ላይ እየተለማመደ ነበር። ከቦሎኛ ጋር እሁድ ለታሰበው ግጥሚያ በቡድኑ ሆቴል ውስጥ እየቆየ ነበር። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+The"
+የመጓጓዣ እጦት ፍርሃቶች ጨዋታው በተዘጉ በሮች ውስጥ ያለቡድኑ ደጋፊዎች እንዲካሄድ የመገደዱን ዕድል ጨመሩት።,sports,geography,"<|begin_of_text|>SENTENCE:
+ የመጓጓዣ እጦት ፍርሃቶች ጨዋታው በተዘጉ በሮች ውስጥ ያለቡድኑ ደጋፊዎች እንዲካሄድ የመገደዱን ዕድል ጨመሩት። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+"ቶሚ ድሪመር እንዳሉት “ሉና የመጀመሪያዋ የፅንፈኛ ንግሥት ነበረች። የእኔ የመጀመሪያ ሥራ አስኪያጅ። ሉና በሁለት ጨረቃዎች ምሽት አረፈች። ልክ እንደ እርሷ ልዩ ቆንጆ። ጠንካራ ሴት።""",sports,entertainment,"<|begin_of_text|>SENTENCE:
+ ቶሚ ድሪመር እንዳሉት “ሉና የመጀመሪያዋ የፅንፈኛ ንግሥት ነበረች። የእኔ የመጀመሪያ ሥራ አስኪያጅ። ሉና በሁለት ጨረቃዎች ምሽት አረፈች። ልክ እንደ እርሷ ልዩ ቆንጆ። ጠንካራ ሴት።"" 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+The"
+ማየት የተሳናቸው የፖላንድ ወንዶች የበረዶ ተንሸራታች ማኪጅ ክረዝል እና መሪው ኣና ኦጋርዝይንስካ ሱፐር-ጂ ላይ ዐሥራ ሦስተኛ ሆነው አጠናቀዋል። የሳውዝ ኮሪያው ሰኦርክ ፓርክ በወንዶች መቀመጫ ሱፐር-ጂ ሃያ አራተኛ ሆኖ አጠናቋል,sports,politics,"<|begin_of_text|>SENTENCE:
+ ማየት የተሳናቸው የፖላንድ ወንዶች የበረዶ ተንሸራታች ማኪጅ ክረዝል እና መሪው ኣና ኦጋርዝይንስካ ሱፐር-ጂ ላይ ዐሥራ ሦስተኛ ሆነው አጠናቀዋል። የሳውዝ ኮሪያው ሰኦርክ ፓርክ በወንዶች መቀመጫ ሱፐር-ጂ ሃያ አራተኛ ሆኖ አጠናቋል 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+politics
+EXPLANATION:
+The sentence"
+ለውድድሮች ዜናዎችና ለፖሎ ጨዋታዎች የት ትኬቶችን እንደሚገዙ አሶሴሽን አርጀንቲና ዲ ፖሎን ይመልከቱ።,sports,sports,"<|begin_of_text|>SENTENCE:
+ ለውድድሮች ዜናዎችና ለፖሎ ጨዋታዎች የት ትኬቶችን እንደሚገዙ አሶሴሽን አርጀንቲና ዲ ፖሎን ይመልከቱ። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+sports
+EXPLANATION:
+This sentence is"
+ጨዋታዎቹ ከቀኑ 10:00 ሰዓት ጀምሮ በታላቅ የአየር ሁኔታ ተጀምረዋል እና በፍጥነት ከጸዳው ከጠዋት አጋማሹ ካፊያ በስተቀር፣ ለ 7ቶቹ ራግቢዎች ጥሩ ቀን ነበር፡፡,sports,travel,"<|begin_of_text|>SENTENCE:
+ ጨዋታዎቹ ከቀኑ 10:00 ሰዓት ጀምሮ በታላቅ የአየር ሁኔታ ተጀምረዋል እና በፍጥነት ከጸዳው ከጠዋት አጋማሹ ካፊያ በስተቀር፣ ለ 7ቶቹ ራግቢዎች ጥሩ ቀን ነበር፡፡ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+ጨ"
+የሜክሲኮው አርሊ ቬላስከዝ በወንዶች የቁጭታ ሱፐር-ጂ አስራ አምስተኛ ሆኖ ጨርሷል። የኒው ዚላንዱ አዳም ሆል በወንዶቹ የቁም ሱፐር-ጂ ሆኖ ጨርሷል።,sports,geography,"<|begin_of_text|>SENTENCE:
+ የሜክሲኮው አርሊ ቬላስከዝ በወንዶች የቁጭታ ሱፐር-ጂ አስራ አምስተኛ ሆኖ ጨርሷል። የኒው ዚላንዱ አዳም ሆል በወንዶቹ የቁም ሱፐር-ጂ ሆኖ ጨርሷል። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+�"
+የስፕሪንግቦክስ አውስትራሊያ በሚገጥምበት ጊዜ፣ የተከታታይ የመጨረሻ ግጥሚያ በሚቀጥለው ሳምንት ጆሃንስበርግ ውስጥ በሚገኘው ኤሊስ ፓርክ ውስጥ ይካሄዳል።,sports,geography,"<|begin_of_text|>SENTENCE:
+ የስፕሪንግቦክስ አውስትራሊያ በሚገጥምበት ጊዜ፣ የተከታታይ የመጨረሻ ግጥሚያ በሚቀጥለው ሳምንት ጆሃንስበርግ ውስጥ በሚገኘው ኤሊስ ፓርክ ውስጥ ይካሄዳል። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+�"
+በጥሩ ሁኔታዎች ከእርምጃ በተወሰነ ደረጃ የበለጠ ርቀት ይሸፍኑ ይሆናል - ነገር ግን ከባድ ቦርሳ ሳይዙ በ ታረሰ መንገድ ላይ እምብዛም ሳይሆን አንዳንዴ የሀገር አቋራጭ ስኪ ፍጥነት ሊያገኙ ይችላሉ።,sports,geography,"<|begin_of_text|>SENTENCE:
+ በጥሩ ሁኔታዎች ከእርምጃ በተወሰነ ደረጃ የበለጠ ርቀት ይሸፍኑ ይሆናል - ነገር ግን ከባድ ቦርሳ ሳይዙ በ ታረሰ መንገድ ላይ እምብዛም ሳይሆን አንዳንዴ የሀገር አቋራጭ ስኪ ፍጥነት ሊያገኙ ይችላሉ። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+�"
+"በሰባት ነጥቦች ወደ ኋላ በመቅረት፣ ጆንሰን በ2,243 ሁለተኛ ነው።",sports,travel,"<|begin_of_text|>SENTENCE:
+ በሰባት ነጥቦች ወደ ኋላ በመቅረት፣ ጆንሰን በ2,243 ሁለተኛ ነው። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The sentence"
+የሸለቆ ጉዞ ወደ ደረቅ ወይም በውሃ የተሞላ ሊሆን ወደ የሚችለው ወደ ሸለቆው መጨረሻ መሄድ ነው።,sports,travel,"<|begin_of_text|>SENTENCE:
+ የሸለቆ ጉዞ ወደ ደረቅ ወይም በውሃ የተሞላ ሊሆን ወደ የሚችለው ወደ ሸለቆው መጨረሻ መሄድ ነው። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The sentence"
+ሮቢን ኡታፓ፣ በ41 ኳሶች በ11 ፎሮች እና በ 2 ሲክሶችን በመምታት፣ የኢኒንጉን ከፍተኛ ውጤት 70 ሩጫዎችን አስመዘገበ።,sports,entertainment,"<|begin_of_text|>SENTENCE:
+ ሮቢን ኡታፓ፣ በ41 ኳሶች በ11 ፎሮች እና በ 2 ሲክሶችን በመምታት፣ የኢኒንጉን ከፍተኛ ውጤት 70 ሩጫዎችን አስመዘገበ። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+�"
+ጣልያኖች በአለም አቀፋዊ ጨዋታዎች እና የኦሎምፒኮች ላይ እየተወዳደሩ ፣ የክረምት ስፖርቶች በጣም የሚታወቁት በሰሜናዊ አካባቢዎች ነው።,sports,geography,"<|begin_of_text|>SENTENCE:
+ ጣልያኖች በአለም አቀፋዊ ጨዋታዎች እና የኦሎምፒኮች ላይ እየተወዳደሩ ፣ የክረምት ስፖርቶች በጣም የሚታወቁት በሰሜናዊ አካባቢዎች ነው። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+�"
+ማሩሻይዶር በሁለተኛው ከኑሳ በሰሌዳው ላይ ስድስት ነጥቦችን ብልጫ አጠናቋል።,sports,geography,"<|begin_of_text|>SENTENCE:
+ ማሩሻይዶር በሁለተኛው ከኑሳ በሰሌዳው ላይ ስድስት ነጥቦችን ብልጫ አጠናቋል። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+�"
+ሚካኤል ሽማከር ውድድሩ ከአሎሶ ብዙም ሳይቆይ አቋርጧል፣ ምክንያቱም በውድድሩ ወቅት በነበሩት በርካታ ውጊያዎች ላይ በደረሰበት የሰስፔንሽን አደጋ ምክንያት።,sports,sports,"<|begin_of_text|>SENTENCE:
+ ሚካኤል ሽማከር ውድድሩ ከአሎሶ ብዙም ሳይቆይ አቋርጧል፣ ምክንያቱም በውድድሩ ወቅት በነበሩት በርካታ ውጊያዎች ላይ በደረሰበት የሰስፔንሽን አደጋ ምክንያት። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+sports
+EXPLANATION:
+The sentence is"
+አግባብ የሆኑ የተመጣጠነ ምግብን የመውሰድ ልማዶች ለብቻቸው የላቀ ውጤቶችን ማምጣት አይችሉም፣ ሆኖም ግን በወጣት አትሌቶች አጠቃላይ ደህንነት ላይ ከፍተኛ ተፅእኖ ሊያሳድሩ ይችላል።,sports,health,"<|begin_of_text|>SENTENCE:
+ አግባብ የሆኑ የተመጣጠነ ምግብን የመውሰድ ልማዶች ለብቻቸው የላቀ ውጤቶችን ማምጣት አይችሉም፣ ሆኖም ግን በወጣት አትሌቶች አጠቃላይ ደህንነት ላይ ከፍተኛ ተፅእኖ ሊያሳድሩ ይችላል። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+health
+EXPLANATION:
+This sentence is"
+ከጨዋታዎቹ የተከለከሉ በመሆናቸው ህመሙን ለመቋቋም የሚያስፈልጉትን መድኃኒቶች መውሰድ አልቻለም።,sports,health,"<|begin_of_text|>SENTENCE:
+ ከጨዋታዎቹ የተከለከሉ በመሆናቸው ህመሙን ለመቋቋም የሚያስፈልጉትን መድኃኒቶች መውሰድ አልቻለም። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+health
+EXPLANATION:
+The word �"
+ሴቶችን በኤምኤስ የመያዝ ዕድላቸው ከወንዶች በሁለት እጥፍ ያደገ እንደሆነ ምርምር አረጋግጧል።,health,science/technology,"<|begin_of_text|>SENTENCE:
+ ሴቶችን በኤምኤስ የመያዝ ዕድላቸው ከወንዶች በሁለት እጥፍ ያደገ እንደሆነ ምርምር አረጋግጧል። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+The word"
+ህገወጥ መጠጦች እንደ ሜታኖል ያሉ አደገኛ ንጥረ ነገሮችን የሚያካትቱ ሲሆን ይህም በትንሽ መጠን ለአይነ ስውርነትና ለሞት መንስኤ ሊሆኑ ይችላሉ።,health,science/technology,"<|begin_of_text|>SENTENCE:
+ ህገወጥ መጠጦች እንደ ሜታኖል ያሉ አደገኛ ንጥረ ነገሮችን የሚያካትቱ ሲሆን ይህም በትንሽ መጠን ለአይነ ስውርነትና ለሞት መንስኤ ሊሆኑ ይችላሉ። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+The sentence"
+ድብርት እና ፍርሃት ሳይሆኑ ትልቅ የሚያጠፋ ክስተት ይፈጠራል ብሎ የማሰብ ውጤቶች ብቻ በቋሚ ሳምንታዊ የተዋቀሩ የፒኤ ክፍለ ጊዜዎች  የሚወሰኑ ናችው።,health,science/technology,"<|begin_of_text|>SENTENCE:
+ ድብርት እና ፍርሃት ሳይሆኑ ትልቅ የሚያጠፋ ክስተት ይፈጠራል ብሎ የማሰብ ውጤቶች ብቻ በቋሚ ሳምንታዊ የተዋቀሩ የፒኤ ክፍለ ጊዜዎች  የሚወሰኑ ናችው። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+The sentence"
+የብዙ መኪና ባለቤት መሆን እንዲሁ በመንገድ ላይ ከፍተኛ የአደጋ አጋጣሚዎችን ያስከትላል፤ ይህም ጉዳት የደረሰባቸውን አካላት ለመጠገን አዳዲስ ቴክኒኮችን ወደ መፍጠር ያመራል።,health,N/A,"<|begin_of_text|>SENTENCE:
+ የብዙ መኪና ባለቤት መሆን እንዲሁ በመንገድ ላይ ከፍተኛ የአደጋ አጋጣሚዎችን ያስከትላል፤ ይህም ጉዳት የደረሰባቸውን አካላት ለመጠገን አዳዲስ ቴክኒኮችን ወደ መፍጠር ያመራል። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: None of the above 
+EXPLANATION:
+�"
+መሪ ተመራማሪዎች እንደ ጡት ካንሰር ላሉ በሽታዎች የመትረፍ መጠን ከሀብታሞች ሀገራት ግማሽ ለሆነት ዝቅተኛ ገቢ ሀገራት ይህ የካሰር፣ የንሳባ ነቀርሳ፣ HIV እና የወባ በሽታ ቀደም ብሎ ማወቅን ሊያመጣ ይችላል ይላሉ።,health,health,"<|begin_of_text|>SENTENCE:
+ መሪ ተመራማሪዎች እንደ ጡት ካንሰር ላሉ በሽታዎች የመትረፍ መጠን ከሀብታሞች ሀገራት ግማሽ ለሆነት ዝቅተኛ ገቢ ሀገራት ይህ የካሰር፣ የንሳባ ነቀርሳ፣ HIV እና የወባ በሽታ ቀደም ብሎ ማወቅን ሊያመጣ ይችላል ይላሉ። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+health
+EXPLANATION:
+The sentence is"
+ዶክተር ኢሁድ ኡር፣ በሃሊፉሽ፣ ኖቫስኮሽያ ውስጥ በሚገኘው በዳልሃውዚ ዩኒቨርሲቲ የህክምና ፕሮፌሰር፣ እና የካናዳዊ የስኳር ህመ ማህበር የክሊኒካዊ እና ሳይንሳዊ ክፍል ሊቀመንበር ጥናቱ ገና በጅማሬ ወቅቱ እንደሆነ አስታውቋል።,health,health,"<|begin_of_text|>SENTENCE:
+ ዶክተር ኢሁድ ኡር፣ በሃሊፉሽ፣ ኖቫስኮሽያ ውስጥ በሚገኘው በዳልሃውዚ ዩኒቨርሲቲ የህክምና ፕሮፌሰር፣ እና የካናዳዊ የስኳር ህመ ማህበር የክሊኒካዊ እና ሳይንሳዊ ክፍል ሊቀመንበር ጥናቱ ገና በጅማሬ ወቅቱ እንደሆነ አስታውቋል። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+health
+EXPLANATION:
+The sentence is"
+እነዚህ ልጆች በጣም ብዙ ችግር ውስጥ ለመግባት ይገፋፋሉ ምክንያቱም አይምሮአቸው በመደበኛ መንገዶች መነቃቃት ስለማይችል፣ ጭንቅላታቸውን ለማንቃት “በአደገኛ ባሕሪዎች ላይ ይሳተፋሉ፣ ድብድቦች ላይ ይገባሉ፣ እናም ቁጥጥርን ይፈትናሉ” ።,health,N/A,"<|begin_of_text|>SENTENCE:
+ እነዚህ ልጆች በጣም ብዙ ችግር ውስጥ ለመግባት ይገፋፋሉ ምክንያቱም አይምሮአቸው በመደበኛ መንገዶች መነቃቃት ስለማይችል፣ ጭንቅላታቸውን ለማንቃት “በአደገኛ ባሕሪዎች ላይ ይሳተፋሉ፣ ድብድቦች ላይ ይገባሉ፣ እናም ቁጥጥርን ይፈትናሉ” ። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: None of the above
+EXPLANATION:
+This"
+ሰዎች በነፋስ እና በማዕበል ወደ አየር በተወሰደ የተበከለ ውሃ በመተንፈስ ሊጎዱ ይችላሉ።,health,science/technology,"<|begin_of_text|>SENTENCE:
+ ሰዎች በነፋስ እና በማዕበል ወደ አየር በተወሰደ የተበከለ ውሃ በመተንፈስ ሊጎዱ ይችላሉ። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+This sentence"
+አንዳንድ ሰዎች በሰው ሠራሽ ስሜት የተሞሉ ብዙ ግልጽ ሕልሞችን ማየት በጣም አድካሚ ሊሆን ይችላል ብለው ያምናሉ።,health,entertainment,"<|begin_of_text|>SENTENCE:
+ አንዳንድ ሰዎች በሰው ሠራሽ ስሜት የተሞሉ ብዙ ግልጽ ሕልሞችን ማየት በጣም አድካሚ ሊሆን ይችላል ብለው ያምናሉ። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+�"
+ፖትሮ በዚህ ጊዜ ለትከሻው ሕክምና አገኘ ግን ወደ ጨዋታው ለመመለስ ቻለ።,health,health,"<|begin_of_text|>SENTENCE:
+ ፖትሮ በዚህ ጊዜ ለትከሻው ሕክምና አገኘ ግን ወደ ጨዋታው ለመመለስ ቻለ። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+health
+EXPLANATION:
+The word �"
+በተጨማሪ ይህንን ማድረግ አለመቻል ከባድ ውጤቶች አሉት፡ የመንፈስ ጭንቀት፣ የተመጣጠነ ምግብ እጥረት፣ እናም በስተመጨረሻ ሞት።,health,health,"<|begin_of_text|>SENTENCE:
+ በተጨማሪ ይህንን ማድረግ አለመቻል ከባድ ውጤቶች አሉት፡ የመንፈስ ጭንቀት፣ የተመጣጠነ ምግብ እጥረት፣ እናም በስተመጨረሻ ሞት። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+health
+EXPLANATION:
+This sentence is"
+የአምስተርዳም ከተማ እና የአና ፍራንክ ሙዚየም ባለሥልጣናት ዛፉ በፈንገስ ተይዞ የመውደቅ አደጋ ስለተጋረጠበት የህዝብ ጤናን አደጋ ላይ ይጥላሉ ብለው ይከራከራሉ።,health,health,"<|begin_of_text|>SENTENCE:
+ የአምስተርዳም ከተማ እና የአና ፍራንክ ሙዚየም ባለሥልጣናት ዛፉ በፈንገስ ተይዞ የመውደቅ አደጋ ስለተጋረጠበት የህዝብ ጤናን አደጋ ላይ ይጥላሉ ብለው ይከራከራሉ። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+health
+EXPLANATION:
+The sentence is"
+ሆስፒታሉ የኢንፌክሽን ቁጥጥርን ለመከላከል፣ ሊከሰቱ የሚችሉ ኢንፌክሽኖችን ለመከላከል በሽተኛውን ከሌሎች ጋር መለየትን ጨምሮ ፕሮቶኮልን የተከተለ ነበር።,health,science/technology,"<|begin_of_text|>SENTENCE:
+ ሆስፒታሉ የኢንፌክሽን ቁጥጥርን ለመከላከል፣ ሊከሰቱ የሚችሉ ኢንፌክሽኖችን ለመከላከል በሽተኛውን ከሌሎች ጋር መለየትን ጨምሮ ፕሮቶኮልን የተከተለ ነበር። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+The word"
+የሄይቲ የፍትህና የዴሞክራሲ ተቋም የኔፓል የተባበሩት መንግስታት የሰላም አስከባሪ ሻለቃ ባለማወቅ በሽታውን ወደ ሃይቲ ያመጣ መሆኑን የሚያመለክቱ ገለልተኛ ጥናቶችን ዋቢ አድርጓል።,health,politics,"<|begin_of_text|>SENTENCE:
+ የሄይቲ የፍትህና የዴሞክራሲ ተቋም የኔፓል የተባበሩት መንግስታት የሰላም አስከባሪ ሻለቃ ባለማወቅ በሽታውን ወደ ሃይቲ ያመጣ መሆኑን የሚያመለክቱ ገለልተኛ ጥናቶችን ዋቢ አድርጓል። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+politics
+EXPLANATION:
+The sentence"
+ተላላፊ በሽታዎች ራሳቸው ወይም በኃይል ሰውን ሊጎዱ ወይም ሊገድሉ የሚችሉ አደገኛ እንሰሳት፣ ብዙውን ጊዜ እንደ ተባይ አይቆጠሩም።,health,health,"<|begin_of_text|>SENTENCE:
+ ተላላፊ በሽታዎች ራሳቸው ወይም በኃይል ሰውን ሊጎዱ ወይም ሊገድሉ የሚችሉ አደገኛ እንሰሳት፣ ብዙውን ጊዜ እንደ ተባይ አይቆጠሩም። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+health
+EXPLANATION:
+This sentence is"
+ኤዲዲ ያለባቸው ህፃናት እንደ የትምህርት ስራ ያሉ ነገሮች ላይ ማተኮር ይቸገራሉ ነገር ግን እንደ ጨዋታዎችን መጫዎወት፣ የሚወዱትን ካርቶን ፊልም ማየት ወይም ያለ ስርዓተ ነጥብ አረፍተ ነገር መጻፍ ያሉ ማድረግ የሚወዷቸው ነገሮች ላይ ማተኮር ይችላሉ።,health,entertainment,"<|begin_of_text|>SENTENCE:
+ ኤዲዲ ያለባቸው ህፃናት እንደ የትምህርት ስራ ያሉ ነገሮች ላይ ማተኮር ይቸገራሉ ነገር ግን እንደ ጨዋታዎችን መጫዎወት፣ የሚወዱትን ካርቶን ፊልም ማየት ወይም ያለ ስርዓተ ነጥብ አረፍተ ነገር መጻፍ ያሉ ማድረግ የሚወዷቸው ነገሮች ላይ ማተኮር ይችላሉ። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+�"
+በአንድ ዓመት ጊዜ ውስጥ፣ የተጠቃ ሰው ከ10 እስከ 15 በቅርብ ያገኛቸውን ሰዎች ሊያስይዝ ይችላል።,health,N/A,"<|begin_of_text|>SENTENCE:
+ በአንድ ዓመት ጊዜ ውስጥ፣ የተጠቃ ሰው ከ10 እስከ 15 በቅርብ ያገኛቸውን ሰዎች ሊያስይዝ ይችላል። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: None of the above 
+EXPLANATION:
+�"
+ቁስለኞቹ ወደ ሆስፒታል ከተወሰዱ በኋላ ውጊያው ሲቆም፣ ከሌሎቹ እስረኞች መካከል ወደ 40 የሚሆኑት በግቢው ውስጥ ቆዩ እና ወደ ክፍላቸው ለመመለስ ፈቃደኛ አልሆኑም።,health,health,"<|begin_of_text|>SENTENCE:
+ ቁስለኞቹ ወደ ሆስፒታል ከተወሰዱ በኋላ ውጊያው ሲቆም፣ ከሌሎቹ እስረኞች መካከል ወደ 40 የሚሆኑት በግቢው ውስጥ ቆዩ እና ወደ ክፍላቸው ለመመለስ ፈቃደኛ አልሆኑም። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+health
+EXPLANATION:
+The sentence is"
+ዶክተሮች በንጉሠ ነገሥት አውጉስጦስ መመልመል ጀመሩ እና ከጦርነቶች በኋላም ጥቅም ላይ እንዲውሉ የመጀመሪያውን የሮማን ሜዲካል ኮርፕስ አቋቋሙ።,health,politics,"<|begin_of_text|>SENTENCE:
+ ዶክተሮች በንጉሠ ነገሥት አውጉስጦስ መመልመል ጀመሩ እና ከጦርነቶች በኋላም ጥቅም ላይ እንዲውሉ የመጀመሪያውን የሮማን ሜዲካል ኮርፕስ አቋቋሙ። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+The sentence"
+ሆኖም አሽከርካሪው በጭንቅላቱ ላይ ከባድ የአካል ጉዳት ደርሶበታል።,health,science/technology,"<|begin_of_text|>SENTENCE:
+ ሆኖም አሽከርካሪው በጭንቅላቱ ላይ ከባድ የአካል ጉዳት ደርሶበታል። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+The word"
+"""አሁን የስኳር በሽተኛ ያልነበሩ አሁን ግን የሆኑ የ4-ወር-ዕድሜ ያላቸው አይጦች አሉን፣ አለ። """,health,health,"<|begin_of_text|>SENTENCE:
+ ""አሁን የስኳር በሽተኛ ያልነበሩ አሁን ግን የሆኑ የ4-ወር-ዕድሜ ያላቸው አይጦች አሉን፣ አለ። "" 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+health
+REASONING:
+This sentence is"
+የውስጥ መመረዝ ወዲያውኑ ላይታይ ይችላል። እንደ ማስታወክ ያሉ ምልክቶች ፈጣን ምርመራ ሊደረግባቸው የማይችሉ በበቂ ሁኔታ አጠቃላይ ናቸው።,health,science/technology,"<|begin_of_text|>SENTENCE:
+ የውስጥ መመረዝ ወዲያውኑ ላይታይ ይችላል። እንደ ማስታወክ ያሉ ምልክቶች ፈጣን ምርመራ ሊደረግባቸው የማይችሉ በበቂ ሁኔታ አጠቃላይ ናቸው። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+The sentence"
+ስለዚህም አቅራቢዎቹ የሐሺሽ ጥቅሎችን በመድረክ ላይ ያጨሳሉ፣ ቲያትሩ እራሱ ሰዎች እንዲቀላቀሉ እያበረታታ ነው።,entertainment,geography,"<|begin_of_text|>SENTENCE:
+ ስለዚህም አቅራቢዎቹ የሐሺሽ ጥቅሎችን በመድረክ ላይ ያጨሳሉ፣ ቲያትሩ እራሱ ሰዎች እንዲቀላቀሉ እያበረታታ ነው። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+�"
+ኤሮስሚዝ በጉዞአቸው ላይ የነበሩትን ቀሪ ኮንሰርቶች ሰርዘዋል።,entertainment,travel,"<|begin_of_text|>SENTENCE:
+ ኤሮስሚዝ በጉዞአቸው ላይ የነበሩትን ቀሪ ኮንሰርቶች ሰርዘዋል። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The word"
+ለድርጊቱ ቅርብ መሆን ከፈለጉ ለሙዚቃ የቀረበ ስፍራ ለማግኘት ቀድመው መድረስ ይኖርቦታል።.,entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ ለድርጊቱ ቅርብ መሆን ከፈለጉ ለሙዚቃ የቀረበ ስፍራ ለማግኘት ቀድመው መድረስ ይኖርቦታል።. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+The"
+ባለፉት ዓመታት ያገለገሉ ብዙ የተለያዩ የፊልም ቅርፀቶች አሉ፡፡ መደበኛ 35 ሚሜ ፊልም (36 በ 24 ሚሜ ኔጌቲቭ) በጣም የተለመደው ነው።,entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ ባለፉት ዓመታት ያገለገሉ ብዙ የተለያዩ የፊልም ቅርፀቶች አሉ፡፡ መደበኛ 35 ሚሜ ፊልም (36 በ 24 ሚሜ ኔጌቲቭ) በጣም የተለመደው ነው። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+�"
+ይሄ የተለመደ ድርጊት ቢሆንም፣ በዲዝኒ የተከለከለ ነው: ትኬቶቹም የማይዘዋወሩ ናቸው።,entertainment,geography,"<|begin_of_text|>SENTENCE:
+ ይሄ የተለመደ ድርጊት ቢሆንም፣ በዲዝኒ የተከለከለ ነው: ትኬቶቹም የማይዘዋወሩ ናቸው። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+�"
+የቴለቪዥን ፕሮግራም ምዕራፉ በመጽሀፍ ውስጥ ባለ ጭብጥ ያተኩራል እና ያንን ጭብጥ በብዙ ታሪኮች ውስጥ ይስተዋላል።,entertainment,geography,"<|begin_of_text|>SENTENCE:
+ የቴለቪዥን ፕሮግራም ምዕራፉ በመጽሀፍ ውስጥ ባለ ጭብጥ ያተኩራል እና ያንን ጭብጥ በብዙ ታሪኮች ውስጥ ይስተዋላል። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+�"
+ሥነ ሥርዓቱን ህዝቡ እንዲከታተል በሮም የተለያዩ ቦታዎች በርካታ ትልልቅ የቴሌቪዥን ማያ ስክሪኖች ተተክለው ነበር።,entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ ሥነ ሥርዓቱን ህዝቡ እንዲከታተል በሮም የተለያዩ ቦታዎች በርካታ ትልልቅ የቴሌቪዥን ማያ ስክሪኖች ተተክለው ነበር። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+�"
+ሶፎክልስ እና አርስቶፋነስ አሁንም ተወዳጅ የትያትር ጸሃፊዎች ናቸው እናም የእነሱ ተውኔቶች ከዓለም ታላላቅ የሥነ-ጽሑፍ ሥራዎች መካከል እንደሆኑ ይታመናል።,entertainment,N/A,"<|begin_of_text|>SENTENCE:
+ ሶፎክልስ እና አርስቶፋነስ አሁንም ተወዳጅ የትያትር ጸሃፊዎች ናቸው እናም የእነሱ ተውኔቶች ከዓለም ታላላቅ የሥነ-ጽሑፍ ሥራዎች መካከል እንደሆኑ ይታመናል። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER:  None of the above 
+EXPLANATION:
+"
+እያንዳንዱ ትዕይንት ልጆች ወደ ቤተ መጽሀፍት ሲሄዱ ሊያነቧቸው የሚያስፈልጋቸው ለመጽሀፍቶች ምክርን ያቀርባል።,entertainment,geography,"<|begin_of_text|>SENTENCE:
+ እያንዳንዱ ትዕይንት ልጆች ወደ ቤተ መጽሀፍት ሲሄዱ ሊያነቧቸው የሚያስፈልጋቸው ለመጽሀፍቶች ምክርን ያቀርባል። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+�"
+አኮርዲዮን ላይ፣ ተጨማሪ የድምፅ መጠን ለማግኘት፣ ማጮኺያዎቹን በበለጠ ግፊት እና ፍጥነት ይጠቀሟቸዋል።,entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ አኮርዲዮን ላይ፣ ተጨማሪ የድምፅ መጠን ለማግኘት፣ ማጮኺያዎቹን በበለጠ ግፊት እና ፍጥነት ይጠቀሟቸዋል። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+�"
+ፒራሚዶቹን በጨለማ ሊያዩአቸው ይችላሉ እና ትርኢቱ ከመጀመሩ በፊት በፀጥታ ሊያዩአቸው ይችላሉ።,entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ ፒራሚዶቹን በጨለማ ሊያዩአቸው ይችላሉ እና ትርኢቱ ከመጀመሩ በፊት በፀጥታ ሊያዩአቸው ይችላሉ። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+The"
+በቦታው ላይ የተከናወኑ ተግባራት ምሳሌዎች አደን ፣ ዓሳ ማጥመድ ፣ ፎቶግራፍ ማንሳት ፣ ወፎችን መመልከት እና መናፈሻዎች መጎብኘት እና ስለ ሥነ ምህዳሩ መረጃን ማጥናት ናቸው።,entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ በቦታው ላይ የተከናወኑ ተግባራት ምሳሌዎች አደን ፣ ዓሳ ማጥመድ ፣ ፎቶግራፍ ማንሳት ፣ ወፎችን መመልከት እና መናፈሻዎች መጎብኘት እና ስለ ሥነ ምህዳሩ መረጃን ማጥናት ናቸው። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+�"
+ድብቁ ሰው እንደ በስተጀርባ ዳራ እና እንደ ረጅም ታሪክ ተራኪ የተሰራ ነው፡፡,entertainment,geography,"<|begin_of_text|>SENTENCE:
+ ድብቁ ሰው እንደ በስተጀርባ ዳራ እና እንደ ረጅም ታሪክ ተራኪ የተሰራ ነው፡፡ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+�"
+እነሱ ባብዛኛው እንግዶችን በጥሩ ስሜት እንዲቆዩና በመግቢያው ላይ እንዲቆዩ ልዩ ምግብ፣ መጠጥ እና መዝናኛ አቅርቦቶች አላቸው።,entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ እነሱ ባብዛኛው እንግዶችን በጥሩ ስሜት እንዲቆዩና በመግቢያው ላይ እንዲቆዩ ልዩ ምግብ፣ መጠጥ እና መዝናኛ አቅርቦቶች አላቸው። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+The"
+ቀድሞውኑ በእንግሊዝኛ እና በጃፓንኛ ሪፖርት በማድረግ ዓለም አቀፉ ድርጅት የስፔን ፣ የጣሊያን እና የኮሪያ ቋንቋ ፕሮግራሞችን ለቴሌቪዥን ፣ ለድር እና ለተንቀሳቃሽ መሣሪያዎች እየጀመረ ነው።,entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ ቀድሞውኑ በእንግሊዝኛ እና በጃፓንኛ ሪፖርት በማድረግ ዓለም አቀፉ ድርጅት የስፔን ፣ የጣሊያን እና የኮሪያ ቋንቋ ፕሮግራሞችን ለቴሌቪዥን ፣ ለድር እና ለተንቀሳቃሽ መሣሪያዎች እየጀመረ ነው። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+The"
+ከ ዘ ሲምፕሰንስ በፊት ሳይመን በተለያዩ ቦታዎች በበርካታ ትርኢቶች ላይ ሠርቶ ነበር።,entertainment,geography,"<|begin_of_text|>SENTENCE:
+ ከ ዘ ሲምፕሰንስ በፊት ሳይመን በተለያዩ ቦታዎች በበርካታ ትርኢቶች ላይ ሠርቶ ነበር። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+�"
+ይህ ተጫዋቾችን፤ በቪዲዮ ጨዋታዎች ላይ መሣሪያውን በአየር ላይ በማንቀሳቀስ ድርጊቶችን እና እንቅስቃሴዎችን እንዲቆጣጠሩ ያስችላቸዋል።,entertainment,sports,"<|begin_of_text|>SENTENCE:
+ ይህ ተጫዋቾችን፤ በቪዲዮ ጨዋታዎች ላይ መሣሪያውን በአየር ላይ በማንቀሳቀስ ድርጊቶችን እና እንቅስቃሴዎችን እንዲቆጣጠሩ ያስችላቸዋል። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+The word"
+ጥንዶቹ ከተጋቡ በኋላ ያሳለፉትን የመጀመሪያውን አመት ለማክበር በተደገሰው ድግስ ላይ ቢያንስ 100 ሰዎች ተገኝተው ነበር።,entertainment,geography,"<|begin_of_text|>SENTENCE:
+ ጥንዶቹ ከተጋቡ በኋላ ያሳለፉትን የመጀመሪያውን አመት ለማክበር በተደገሰው ድግስ ላይ ቢያንስ 100 ሰዎች ተገኝተው ነበር። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+�"
+ከፊሉ ሁለቱ ሙዚቃዎች፣ ኦዲሽን (ዘ ፉልስ ሁ ድሪም) እና ሲተ ኦፍ ስታርስ፣ ለምርጡ አዲስ ሙዚቃ እጩነት አግኝተዋል። ላየንስጌት ስቱዲዮ 26 እጩዎችን አገኝቷል — ከማንኛውም ስቱዲዮ የበለጠ።,entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ ከፊሉ ሁለቱ ሙዚቃዎች፣ ኦዲሽን (ዘ ፉልስ ሁ ድሪም) እና ሲተ ኦፍ ስታርስ፣ ለምርጡ አዲስ ሙዚቃ እጩነት አግኝተዋል። ላየንስጌት ስቱዲዮ 26 እጩዎችን አገኝቷል — ከማንኛውም ስቱዲዮ የበለጠ። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+�"
+ጠርዙ በአቅራቢያው በኩል 70 ኪሜ ውፍረት ያለው ሲሆን በርቀት በኩል ደግሞ 100 ኪሜ.ነው።,geography,travel,"<|begin_of_text|>SENTENCE:
+ ጠርዙ በአቅራቢያው በኩል 70 ኪሜ ውፍረት ያለው ሲሆን በርቀት በኩል ደግሞ 100 ኪሜ.ነው። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The sentence"
+በደቡብ በኩል የኒያጋራ ፎልስ የሚገኝ ሲሆን በስተ ሰሜን ደግሞ የሙስኮካ እና ከዚያ ወዲያ ያልተነካ የተፈጥሮ ውበት ይገኛል።,geography,geography,"<|begin_of_text|>SENTENCE:
+ በደቡብ በኩል የኒያጋራ ፎልስ የሚገኝ ሲሆን በስተ ሰሜን ደግሞ የሙስኮካ እና ከዚያ ወዲያ ያልተነካ የተፈጥሮ ውበት ይገኛል። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+geography
+EXPLANATION:
+The sentence"
+ኤሪስወርዝ ላንድ በ ቤሊንግሿሰን ባህር የተከበበ በደቡብ ፔኑንስላ የሚገኝ ግዛት ነው።,geography,geography,"<|begin_of_text|>SENTENCE:
+ ኤሪስወርዝ ላንድ በ ቤሊንግሿሰን ባህር የተከበበ በደቡብ ፔኑንስላ የሚገኝ ግዛት ነው። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+�"
+የደቡብ ዋልታ መሻገሪያ (ወይም አውራ ጎዳና) በሮዝ ባሕር እስከ ዋልታው ድረስ ከማክሙርዶ ጣቢያ 1600 ኪ.ሜ. ነው።,geography,geography,"<|begin_of_text|>SENTENCE:
+ የደቡብ ዋልታ መሻገሪያ (ወይም አውራ ጎዳና) በሮዝ ባሕር እስከ ዋልታው ድረስ ከማክሙርዶ ጣቢያ 1600 ኪ.ሜ. ነው። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+�"
+በMachu Picchu ሰሜናዊ ጫፍ ላይ ከፍ ብሎ የሚታይ ቀጥ ያለ ተራራ የሚገኝ ሲሆን ይህ ተራራም ከነፍርስረሰሾቹ በብዙ ፎቶዎች ጀርባ ላይ ይታያል።,geography,geography,"<|begin_of_text|>SENTENCE:
+ በMachu Picchu ሰሜናዊ ጫፍ ላይ ከፍ ብሎ የሚታይ ቀጥ ያለ ተራራ የሚገኝ ሲሆን ይህ ተራራም ከነፍርስረሰሾቹ በብዙ ፎቶዎች ጀርባ ላይ ይታያል። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+እንስላደስ በስራአተ-ፀሐይ ውስጥ እጅግ በጣም የሚያንፀባርቅ ነገር ነው ፣ ይህም የተንጸባረቀበትን የጸሃይ ብርሃን እስከ 90 በመቶ የሚያንፀባርቅ ነው።,geography,science/technology,"<|begin_of_text|>SENTENCE:
+ እንስላደስ በስራአተ-ፀሐይ ውስጥ እጅግ በጣም የሚያንፀባርቅ ነገር ነው ፣ ይህም የተንጸባረቀበትን የጸሃይ ብርሃን እስከ 90 በመቶ የሚያንፀባርቅ ነው። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+The sentence"
+ከብዙዎቹ ተራሮች ዙሪያ ካለው ግልጽ፣ ውብ ሰማይ በስተቀር ምንም አይታይም። ከዋሻው ውስጥ ማየት ወይም መስማት የሚቻለው የዚህን ዓለም በጣም ትንሽ የሆነውን ክፍል ነው።,geography,geography,"<|begin_of_text|>SENTENCE:
+ ከብዙዎቹ ተራሮች ዙሪያ ካለው ግልጽ፣ ውብ ሰማይ በስተቀር ምንም አይታይም። ከዋሻው ውስጥ ማየት ወይም መስማት የሚቻለው የዚህን ዓለም በጣም ትንሽ የሆነውን ክፍል ነው። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+geography
+EXPLANATION:
+The sentence"
+አሁን ለጃፓን። ጃፓን ልክ እንደ ብሪታንያ የደሴት አገር ነበረች።,geography,geography,"<|begin_of_text|>SENTENCE:
+ አሁን ለጃፓን። ጃፓን ልክ እንደ ብሪታንያ የደሴት አገር ነበረች። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+�"
+በማልዲቭስ ቋንቋ፣ የዘንባባ ቅጠል ሻንጣ (Tropical Cyclone Gonu) ተብሎ የተሰየመው ትሮፒካል ሳይክሎኔ ጎኑ፣ በሰዓት 240 ኪ.ሜ (በሰዓት 149 ማይል) ዘላቂ ነፋሶችን አገኘ።,geography,geography,"<|begin_of_text|>SENTENCE:
+ በማልዲቭስ ቋንቋ፣ የዘንባባ ቅጠል ሻንጣ (Tropical Cyclone Gonu) ተብሎ የተሰየመው ትሮፒካል ሳይክሎኔ ጎኑ፣ በሰዓት 240 ኪ.ሜ (በሰዓት 149 ማይል) ዘላቂ ነፋሶችን አገኘ። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+�"
+"የቱርክ አካባቢ ሐይቆችን ጨምሮ 783,562 ስኩዌር ኪ.ሜ. (300,948 ካሬ ኪ.ሜ.) ሲሆን ከዚህ ውስጥ 755,688 ስኩዌር ኪ.ሜ (291,773 ካሬ ኪ.ሜ) በደቡብ ምዕራብ እስያ እና 23,764 ካሬ ኪ.ሜ (9,174 ካሬ ኪ.ሜ) በአውሮፓ ይገኛሉ።",geography,geography,"<|begin_of_text|>SENTENCE:
+ የቱርክ አካባቢ ሐይቆችን ጨምሮ 783,562 ስኩዌር ኪ.ሜ. (300,948 ካሬ ኪ.ሜ.) ሲሆን ከዚህ ውስጥ 755,688 ስኩዌር ኪ.ሜ (291,773 ካሬ ኪ.ሜ) በደቡብ ምዕራብ እስያ እና 23,764 ካሬ ኪ.ሜ (9,174 ካሬ ኪ.ሜ) በአውሮፓ ይገኛሉ። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+geography
+EXPLANATION:
+The sentence"
+በ1819 የተገኙት፣ ደቡብ ሼትላንድ ደሴቶች፣ በብዙ ሀገራት የኔ ነው የሚባሉ እና በ2020 አስራ ስድስቱ የሚሰሩ የሆኑ፣ ብዙ ጣቢያዎች አሏቸው።,geography,geography,"<|begin_of_text|>SENTENCE:
+ በ1819 የተገኙት፣ ደቡብ ሼትላንድ ደሴቶች፣ በብዙ ሀገራት የኔ ነው የሚባሉ እና በ2020 አስራ ስድስቱ የሚሰሩ የሆኑ፣ ብዙ ጣቢያዎች አሏቸው። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+�"
+"አፒያ የሳሞአ ዋና ከተማ ናት። ከተማዋ በኡፖሉ ደሴት ላይ ናት እና ለትንሽ ከ40,000 ያነሰ የህዝብ ቁጥር አላት።",geography,geography,"<|begin_of_text|>SENTENCE:
+ አፒያ የሳሞአ ዋና ከተማ ናት። ከተማዋ በኡፖሉ ደሴት ላይ ናት እና ለትንሽ ከ40,000 ያነሰ የህዝብ ቁጥር አላት። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+�"
+አውሎ ነፋሱ ከመሬት ርቆ የሚገኝ በመሆኑ በዩናይትድ እስቴትስ ወይም በካሪቢያን ላይ ሊያስከትል የሚችለውን ተጽዕኖ ለመገምገም አሁንም አስቸጋሪ ነው።,geography,geography,"<|begin_of_text|>SENTENCE:
+ አውሎ ነፋሱ ከመሬት ርቆ የሚገኝ በመሆኑ በዩናይትድ እስቴትስ ወይም በካሪቢያን ላይ ሊያስከትል የሚችለውን ተጽዕኖ ለመገምገም አሁንም አስቸጋሪ ነው። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+�"
+በማሪው ሥር ቀጭን ነው ከደጋ ሥር ደግሞ ወፍራም ነው።,geography,geography,"<|begin_of_text|>SENTENCE:
+ በማሪው ሥር ቀጭን ነው ከደጋ ሥር ደግሞ ወፍራም ነው። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+geography
+EXPLANATION:
+�"
+ነገር ግን ደኖቹ የማንግሮቭ ረግረጋማዎች ብቻ አይደሉም - በአንድ ወቅት የጋንጌቲክ ሜዳን የሸፈኑትን አስፈሪ ጫካዎች የመጨረሻ ቀሪዎችን ያካትታሉ።,geography,geography,"<|begin_of_text|>SENTENCE:
+ ነገር ግን ደኖቹ የማንግሮቭ ረግረጋማዎች ብቻ አይደሉም - በአንድ ወቅት የጋንጌቲክ ሜዳን የሸፈኑትን አስፈሪ ጫካዎች የመጨረሻ ቀሪዎችን ያካትታሉ። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+�"
+የአሜሪካን የከርሰምድር ዳሰሳ የአለም አቀፍ የመሬት መንቀጥቀጥ ካርታ እንደሚያሳየው ቀደም ባለው ሳምንት በአይስላድ ምንም አይነት የመሬት መንቀጥቀጥ የለም።,geography,science/technology,"<|begin_of_text|>SENTENCE:
+ የአሜሪካን የከርሰምድር ዳሰሳ የአለም አቀፍ የመሬት መንቀጥቀጥ ካርታ እንደሚያሳየው ቀደም ባለው ሳምንት በአይስላድ ምንም አይነት የመሬት መንቀጥቀጥ የለም። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+The sentence"
+ከመካ በስተሰሜን በአንዱ ተራሮች አናት ላይ ማረፉ፣ ዋሻው ሙሉ በሙሉ ከሌላው ዓለም እንዲገለል አድርጓል።,geography,geography,"<|begin_of_text|>SENTENCE:
+ ከመካ በስተሰሜን በአንዱ ተራሮች አናት ላይ ማረፉ፣ ዋሻው ሙሉ በሙሉ ከሌላው ዓለም እንዲገለል አድርጓል። 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+geography
+EXPLANATION:
+The sentence"

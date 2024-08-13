@@ -1,0 +1,3033 @@
+text,actual_category,predicted_category,generated_text
+"Mutacio aldonas novan genan variadon, kaj selekto forigas ĝin el la grupo de videbla variado.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Mutacio aldonas novan genan variadon, kaj selekto forigas ĝin el la grupo de videbla variado. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: -science
+EXPLANATION:
+La vort"
+"La fisia bombo funkcias laŭ tia principo, ke bezonatas energio por kunmeti nukleon kun multaj protonoj kaj neŭtronoj.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ La fisia bombo funkcias laŭ tia principo, ke bezonatas energio por kunmeti nukleon kun multaj protonoj kaj neŭtronoj. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science
+EXPLANATION:
+This question requires in"
+La nukleo konsistas el du specoj de partikloj - neŭtronoj kaj protonoj.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ La nukleo konsistas el du specoj de partikloj - neŭtronoj kaj protonoj. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science
+EXPLANATION:
+This sentence is about"
+"Tio permesis al zomaj lensoj fari bildojn de kvalito, kiu kompareblas al tiu atingata per lensoj kun konstanta fokusa distanco.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Tio permesis al zomaj lensoj fari bildojn de kvalito, kiu kompareblas al tiu atingata per lensoj kun konstanta fokusa distanco. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+La v"
+"Ili estas pli bonaj ol retaj prokuriloj pro pluraj kialoj: ili redirektas la tutan interretan trafikon, ne nur HTTP-n.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Ili estas pli bonaj ol retaj prokuriloj pro pluraj kialoj: ili redirektas la tutan interretan trafikon, ne nur HTTP-n. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+The sentence"
+Interaga projektado devigas vin retaksi viajn supozojn pri media produktado kaj lernu pensi en nelineara maniero.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Interaga projektado devigas vin retaksi viajn supozojn pri media produktado kaj lernu pensi en nelineara maniero. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+This sentence"
+"Tio iĝis populara praktiko, sed fero kaŭzis pli rapidan eluziĝon de lignaj radoj de la vagonoj.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Tio iĝis populara praktiko, sed fero kaŭzis pli rapidan eluziĝon de lignaj radoj de la vagonoj. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+This sentence"
+Gregon konsistigas de unu ĝis tri parencaj plenkreskaj maskloj kaj multaj ĝis tridek inoj kaj idoj.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Gregon konsistigas de unu ĝis tri parencaj plenkreskaj maskloj kaj multaj ĝis tridek inoj kaj idoj. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+La v"
+"Kvankam AI havas fortan nuancon de scienca fikcio, AI formas tre gravan branĉon de komputoscienco, kiu okupiĝas pri lernado kaj intelegenta adaptiĝo en maŝino.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Kvankam AI havas fortan nuancon de scienca fikcio, AI formas tre gravan branĉon de komputoscienco, kiu okupiĝas pri lernado kaj intelegenta adaptiĝo en maŝino. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+This question"
+La proporcio de tiu ĉi formato (dividita je dek du por ricevi la plej simplan entjeran proporcion) estas do nomata 3:2.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ La proporcio de tiu ĉi formato (dividita je dek du por ricevi la plej simplan entjeran proporcion) estas do nomata 3:2. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+This sentence"
+"Satelita telefono ĝenerale ne estas anstataŭo por poŝtelefono, ĉar oni devas esti subĉiele ĉe klara vido de satelito por fari telefonvokon.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Satelita telefono ĝenerale ne estas anstataŭo por poŝtelefono, ĉar oni devas esti subĉiele ĉe klara vido de satelito por fari telefonvokon. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Satel"
+"Kvankam vagonvojoj simple konsistis el paralelaj lignaj tabuloj, ili permesis al la ĉevaloj tirantaj ilin atingi pliajn rapidojn kaj tiri pli pezajn ŝarĝojn, ol sur la iom pli malglataj vojoj de tiu tempo.",science/technology,travel,"<|begin_of_text|>SENTENCE:
+ Kvankam vagonvojoj simple konsistis el paralelaj lignaj tabuloj, ili permesis al la ĉevaloj tirantaj ilin atingi pliajn rapidojn kaj tiri pli pezajn ŝarĝojn, ol sur la iom pli malglataj vojoj de tiu tempo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+DEFINITION:
+Vagon"
+"Homoj sciis pri la bazaj kemiaj elementoj — kiel oro, arĝento kaj kupro — de antikveco, ĉar tiuj ĉi troveblas en naturo en baza formo kaj estas relative facile mineblaj per primitivaj iloj.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Homoj sciis pri la bazaj kemiaj elementoj — kiel oro, arĝento kaj kupro — de antikveco, ĉar tiuj ĉi troveblas en naturo en baza formo kaj estas relative facile mineblaj per primitivaj iloj. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science
+EXPLANATION:
+La vorto"
+"La rado ŝanĝis la mondon en nekredebla maniero. La plej granda afero ebligita de la rado, estas provizado de multe pli facila kaj rapida transportado.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ La rado ŝanĝis la mondon en nekredebla maniero. La plej granda afero ebligita de la rado, estas provizado de multe pli facila kaj rapida transportado. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+La r"
+"Tion oni faris por garantii, ke la bildo kovru la tutan ekranon. Tion oni nomas troskanado.",science/technology,politics,"<|begin_of_text|>SENTENCE:
+ Tion oni faris por garantii, ke la bildo kovru la tutan ekranon. Tion oni nomas troskanado. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+La v"
+Germanaj submarŝipoj nomiĝis U-boatoj. La germanoj estis tre lertaj pri navigado kaj uzado de siaj submarŝipoj.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Germanaj submarŝipoj nomiĝis U-boatoj. La germanoj estis tre lertaj pri navigado kaj uzado de siaj submarŝipoj. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+La v"
+"Kvankam ĝia fizika stato povas ŝanĝiĝi, ĝia kemia stato restas la sama.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Kvankam ĝia fizika stato povas ŝanĝiĝi, ĝia kemia stato restas la sama. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science
+EXPLANATION:
+La vorto"
+"Surfaca tensio okazas, ĉar molekuloj de la akvo ĉe la surfaco de la akvo forte kuntiriĝas unu kun la alia, pli ol kun la molekuloj de la aero super ili.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Surfaca tensio okazas, ĉar molekuloj de la akvo ĉe la surfaco de la akvo forte kuntiriĝas unu kun la alia, pli ol kun la molekuloj de la aero super ili. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: -science 
+-EXPLANATION:
+This sentence"
+Unu el la plej frekventaj problemoj ĉe konvertado de filmo al DVD-formato estas troskanado.,science/technology,entertainment,"<|begin_of_text|>SENTENCE:
+ Unu el la plej frekventaj problemoj ĉe konvertado de filmo al DVD-formato estas troskanado. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+La"
+"Speciale oni asertas, ke eblas diveni, ĉu persono mensogas, per ĝusta interpretado de mikroesprimoj.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Speciale oni asertas, ke eblas diveni, ĉu persono mensogas, per ĝusta interpretado de mikroesprimoj. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+This sentence"
+Oron oni povas formi en plej diversaj fasonoj. Ĝin oni povas rulplatigi ĝis maldikaj fasonoj.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Oron oni povas formi en plej diversaj fasonoj. Ĝin oni povas rulplatigi ĝis maldikaj fasonoj. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+This sentence"
+"Sistemoj de AI estas nun ofte uzataj en la branĉoj de ekonomiko, medicino, inĝenierarto kaj militado, ĝi ankaŭ estas enkorpigita en kelkaj hejmaj komputiloj kaj videoludaj softvaraj aplikaĵoj.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Sistemoj de AI estas nun ofte uzataj en la branĉoj de ekonomiko, medicino, inĝenierarto kaj militado, ĝi ankaŭ estas enkorpigita en kelkaj hejmaj komputiloj kaj videoludaj softvaraj aplikaĵoj. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+The SENT"
+"Ĝi estas plu produktata hodiaŭ, sed, kio pli gravas, ĝia proporcio estis heredita de la sensilaj formatoj de ciferecaj kameraoj.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Ĝi estas plu produktata hodiaŭ, sed, kio pli gravas, ĝia proporcio estis heredita de la sensilaj formatoj de ciferecaj kameraoj. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+This sentence"
+"La multe insultata kaj ofte priridata regulo de trionoj estas simple gvidlinio kreanta dinamismon, tenante mezuron de ordo en bildo.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ La multe insultata kaj ofte priridata regulo de trionoj estas simple gvidlinio kreanta dinamismon, tenante mezuron de ordo en bildo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+La v"
+"Tio ne nur konfirmas, ke almenaŭ iuj dinosaŭroj havis plumojn, kio estas jam disvastiĝinta teorio, sed ankaŭ provizas detalojn, kiujn la fosilioj ne povas doni, kiel koloro aŭ tri-dimensia aranĝo.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Tio ne nur konfirmas, ke almenaŭ iuj dinosaŭroj havis plumojn, kio estas jam disvastiĝinta teorio, sed ankaŭ provizas detalojn, kiujn la fosilioj ne povas doni, kiel koloro aŭ tri-dimensia aranĝo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science
+EXPLANATION:
+This question requires in"
+"Kiel gravito de Iono altirus min? Se vi starus sur la surfaco de Iono, via pezo estus malpli granda ol via pezo sur la Tero.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Kiel gravito de Iono altirus min? Se vi starus sur la surfaco de Iono, via pezo estus malpli granda ol via pezo sur la Tero. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+This sentence"
+"NextGen estas sistemo, kiu laŭ asertoj de FAA permesos al flugaparatoj flugi pli mallongajn itinerojn kaj savi milionojn da galjonoj da fuelo ĉiujare, ankaŭ malgrandigi eligojn de karbono.",science/technology,travel,"<|begin_of_text|>SENTENCE:
+ NextGen estas sistemo, kiu laŭ asertoj de FAA permesos al flugaparatoj flugi pli mallongajn itinerojn kaj savi milionojn da galjonoj da fuelo ĉiujare, ankaŭ malgrandigi eligojn de karbono. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+DEFINITION:
+NextGen"
+Neŭrobiologiaj datenoj liveras fizikan pruvon por teoria aliro al esplorado de kogno. Ĝi do malvastigas la esplorareon kaj faras ĝin pli preciza.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Neŭrobiologiaj datenoj liveras fizikan pruvon por teoria aliro al esplorado de kogno. Ĝi do malvastigas la esplorareon kaj faras ĝin pli preciza. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science
+EXPLANATION:
+This sentence is about"
+"Dum lia 2-hora parolado li deklaris, ke ""Hodiaŭ Apple reinventos telefonon, ni faros historion hodiaŭ"".",science/technology,entertainment,"<|begin_of_text|>SENTENCE:
+ Dum lia 2-hora parolado li deklaris, ke ""Hodiaŭ Apple reinventos telefonon, ni faros historion hodiaŭ"". 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+REASONING SKILL"
+"La malavantaĝo de zomaj lensoj estas, ke la fokusa komplikeco kaj la kvanto de lensaj elementoj bezonataj por atingi spektron de fokusaj distancoj estas multe pli granda ol per senmovaj lensoj.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ La malavantaĝo de zomaj lensoj estas, ke la fokusa komplikeco kaj la kvanto de lensaj elementoj bezonataj por atingi spektron de fokusaj distancoj estas multe pli granda ol per senmovaj lensoj. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science
+EXPLANATION:
+This question requires in"
+"Rememoriga pri teleregilo televida, la kontrolilo uzas du sensilojn lokitajn apud la televidilo de la uzanto por trianguli sian pozicion en tri-dimensia spaco.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Rememoriga pri teleregilo televida, la kontrolilo uzas du sensilojn lokitajn apud la televidilo de la uzanto por trianguli sian pozicion en tri-dimensia spaco. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+This sentence"
+"Sciencistoj diras, ke la plumaro de tiu ĉi animalo estis kaŝtan-bruna kun palaj aŭ karotenoido-koloraj malsupraj randoj.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Sciencistoj diras, ke la plumaro de tiu ĉi animalo estis kaŝtan-bruna kun palaj aŭ karotenoido-koloraj malsupraj randoj. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+TRANSLATION:
+ Scientists say"
+"La du komponantoj reagas unu kun la alia formante kristalojn, kiuj povas bloki funkciadon de renoj, diris esploristoj en la universitato.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ La du komponantoj reagas unu kun la alia formante kristalojn, kiuj povas bloki funkciadon de renoj, diris esploristoj en la universitato. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+La du"
+La sekva rezolucio estas preskaŭ kvarobla ol tiu de negativo de 35 mm (3136 mm² kontraŭ 864).,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ La sekva rezolucio estas preskaŭ kvarobla ol tiu de negativo de 35 mm (3136 mm² kontraŭ 864). 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+La sek"
+"Pro la submaraj ligoj al Eŭropo el optikfibra kablo kaj pro larĝbenda satelito, Grenlando estas bone konektita, kaj 93% de loĝantaro havas aliron al interreto.",science/technology,geography,"<|begin_of_text|>SENTENCE:
+ Pro la submaraj ligoj al Eŭropo el optikfibra kablo kaj pro larĝbenda satelito, Grenlando estas bone konektita, kaj 93% de loĝantaro havas aliron al interreto. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+This"
+"Unu el la plej elstaraj aplikaĵoj de tiu ĉi kategorio estas Google Translate, per kiu oni povas senkonekte traduki, elŝutinte la datumojn de la dezirata lingvo.",science/technology,N/A,"<|begin_of_text|>SENTENCE:
+ Unu el la plej elstaraj aplikaĵoj de tiu ĉi kategorio estas Google Translate, per kiu oni povas senkonekte traduki, elŝutinte la datumojn de la dezirata lingvo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- None of the above 
+EXPLANATION"
+"Ĝi havas la saman molekulan strukturon, tutegale ĉu ĝi estas gaso, likvo aŭ solido.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Ĝi havas la saman molekulan strukturon, tutegale ĉu ĝi estas gaso, likvo aŭ solido. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science
+EXPLANATION:
+This sentence is about"
+"La uzo de videoregistrado sekvigis gravajn malkovrojn en la interpretado de mikroesprimoj, moviĝoj de vizaĝo, kiuj daŭras kelkajn milisekundojn.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ La uzo de videoregistrado sekvigis gravajn malkovrojn en la interpretado de mikroesprimoj, moviĝoj de vizaĝo, kiuj daŭras kelkajn milisekundojn. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+La u"
+Homoj faradis kaj uzadis lensojn por pligrandigo dum kelkaj miloj da jaroj.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Homoj faradis kaj uzadis lensojn por pligrandigo dum kelkaj miloj da jaroj. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: -science
+EXPLANATION:
+La vort"
+"Ĝi tamen ne estas sola; ankaŭ eksperimento, kaj eksperimento estas testo uzata por forigi unu aŭ pli da eblaj hipotezoj, pridemandado kaj observado gvidas sciencan esploradon.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Ĝi tamen ne estas sola; ankaŭ eksperimento, kaj eksperimento estas testo uzata por forigi unu aŭ pli da eblaj hipotezoj, pridemandado kaj observado gvidas sciencan esploradon. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+science
+EXPLANATION:
+This sentence is"
+Fine oni anstataŭigis lignajn radojn per la feraj. En 1767 la unuaj tute feraj reloj estis prezentitaj.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Fine oni anstataŭigis lignajn radojn per la feraj. En 1767 la unuaj tute feraj reloj estis prezentitaj. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+The SENT"
+"La plimulto de la kartoj taŭgas por telefoni iun ajn lokon, sed kelkaj speciale celas provizi telefonvokajn tarifojn favorajn al specifaj grupoj de landoj.",science/technology,travel,"<|begin_of_text|>SENTENCE:
+ La plimulto de la kartoj taŭgas por telefoni iun ajn lokon, sed kelkaj speciale celas provizi telefonvokajn tarifojn favorajn al specifaj grupoj de landoj. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+This question"
+La plej modernaj teleskopoj por esplorado estas grandegaj instalaĵoj en malproksimaj lokoj sub favoraj atmosferaj kondiĉoj.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ La plej modernaj teleskopoj por esplorado estas grandegaj instalaĵoj en malproksimaj lokoj sub favoraj atmosferaj kondiĉoj. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+La ple"
+Ŝtala kudrilo flosas sur la akvo pro la surfaca tensio.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Ŝtala kudrilo flosas sur la akvo pro la surfaca tensio. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: -science
+EXPLANATION:
+La vort"
+"La formato 35 mm estas fakte, iom konfuze, 36 mm larĝa kaj 34 mm alta.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ La formato 35 mm estas fakte, iom konfuze, 36 mm larĝa kaj 34 mm alta. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+La formato"
+"Ĉeloj estas fakte tiel bazaj kaj gravegaj por esploro de vivo, ke ili ofte estas nomataj ""konstrublokoj de vivo"".",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Ĉeloj estas fakte tiel bazaj kaj gravegaj por esploro de vivo, ke ili ofte estas nomataj ""konstrublokoj de vivo"". 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science
+EXPLANATION:
+This sentence is about"
+Liverantoj de personaj virtualaj privataj retoj estas bonega maniero eviti kaj politikan cenzuron kaj negocan lokofiltradon de IP.,science/technology,politics,"<|begin_of_text|>SENTENCE:
+ Liverantoj de personaj virtualaj privataj retoj estas bonega maniero eviti kaj politikan cenzuron kaj negocan lokofiltradon de IP. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+La v"
+"La stacio konservis sian pozicion, malgraŭ la misfunkcio de giroskopo pli frue dum ĝia misio, ĝis la fino de la kosma promeno.",science/technology,travel,"<|begin_of_text|>SENTENCE:
+ La stacio konservis sian pozicion, malgraŭ la misfunkcio de giroskopo pli frue dum ĝia misio, ĝis la fino de la kosma promeno. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+La st"
+"Homoj ĉi-maniere pensantaj havas logikan pensmanieron, kapablas parkerigi ŝablonojn, solvi problemojn kaj fari sciencajn testojn.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Homoj ĉi-maniere pensantaj havas logikan pensmanieron, kapablas parkerigi ŝablonojn, solvi problemojn kaj fari sciencajn testojn. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+This sentence"
+"Ocelotoj ŝatas manĝi malgrandajn animalojn. Ili laŭeble kaptas simiojn, serpentojn, ronĝulojn kaj birdojn.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Ocelotoj ŝatas manĝi malgrandajn animalojn. Ili laŭeble kaptas simiojn, serpentojn, ronĝulojn kaj birdojn. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Ocel"
+"Kelkaj fotiloj de meza formato uzas formaton de 6×6 cm, pli precize negativon de 56×56 mm.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Kelkaj fotiloj de meza formato uzas formaton de 6×6 cm, pli precize negativon de 56×56 mm. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+This sentence"
+"Estas ege konsilinde, ke vojaĝantoj atentu ĉiuspecan riskon de severa vetero, kiu influas ilian areon, ĉar tio povas influi ajnajn vojaĝplanojn.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Estas ege konsilinde, ke vojaĝantoj atentu ĉiuspecan riskon de severa vetero, kiu influas ilian areon, ĉar tio povas influi ajnajn vojaĝplanojn. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+ REASONING SKILL:"
+"Busoj deiras de la interdistrikta busstacio (trans la rivero) la tutan tagon, sed la plimulto deiras inter la 6:30 kaj la 7:30, precipe tiuj veturantaj okcidente kaj al Jakar aŭ Bumthang.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Busoj deiras de la interdistrikta busstacio (trans la rivero) la tutan tagon, sed la plimulto deiras inter la 6:30 kaj la 7:30, precipe tiuj veturantaj okcidente kaj al Jakar aŭ Bumthang. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+DEFINITION:
+Busoj"
+"Ili havigas al la rajdanto pli grandan stabilecon, sed ili povas prezenti sekurecajn problemojn, ĉar la piedoj de la rajdanto eventuale povus kaptiĝi en ili.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Ili havigas al la rajdanto pli grandan stabilecon, sed ili povas prezenti sekurecajn problemojn, ĉar la piedoj de la rajdanto eventuale povus kaptiĝi en ili. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+La v"
+"La plimulto de la diversaj baltaj krozoŝipoj krome inkluzivas restadon en Sankt-Peterburgo, Rusujo.",travel,travel,"<|begin_of_text|>SENTENCE:
+ La plimulto de la diversaj baltaj krozoŝipoj krome inkluzivas restadon en Sankt-Peterburgo, Rusujo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+DEFINITION:
+La pl"
+"La konsiloj supozas, ke vojaĝantoj ne ŝtelas, krimas, partoprenas la nigran merkaton, almozas aŭ alikaze ekspluatas aliulojn por sia propra profito.",travel,travel,"<|begin_of_text|>SENTENCE:
+ La konsiloj supozas, ke vojaĝantoj ne ŝtelas, krimas, partoprenas la nigran merkaton, almozas aŭ alikaze ekspluatas aliulojn por sia propra profito. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+La k"
+Estas multe da konsiderindaj aferoj antaŭ kaj dum vojaĝo al iu loko.,travel,travel,"<|begin_of_text|>SENTENCE:
+ Estas multe da konsiderindaj aferoj antaŭ kaj dum vojaĝo al iu loko. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+La v"
+"Dum la taga varmego, vizitantoj povas sperti miraĝojn, kiuj kaŭzas iluzion de akvo (aŭ aliaj aferoj).",travel,travel,"<|begin_of_text|>SENTENCE:
+ Dum la taga varmego, vizitantoj povas sperti miraĝojn, kiuj kaŭzas iluzion de akvo (aŭ aliaj aferoj). 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+La v"
+"Kvankam familioj kun infanoj estas maloftaj, iuj gastejoj ja enlasas ilin en privatajn ĉambrojn.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Kvankam familioj kun infanoj estas maloftaj, iuj gastejoj ja enlasas ilin en privatajn ĉambrojn. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+La v"
+"Tiel eblus ekzemple viziti kastelojn en la Luarvalo aŭ la Rejnvalo, aŭ iri krozoŝipe al interesaj urboj ĉe Danubo aŭ per boato laŭ la kanalo Erie.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Tiel eblus ekzemple viziti kastelojn en la Luarvalo aŭ la Rejnvalo, aŭ iri krozoŝipe al interesaj urboj ĉe Danubo aŭ per boato laŭ la kanalo Erie. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+La v"
+"Preferindas uzi agenton, kiu ofte rezervas similajn vojaĝojn al tiu via.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Preferindas uzi agenton, kiu ofte rezervas similajn vojaĝojn al tiu via. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Prefer"
+"Couchsurfing estis fondita en Januaro 2004, kiam la programisto Casey Fenton, trovinte ĉipan flugon al Islando, ne havis tamen tranoktejon.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Couchsurfing estis fondita en Januaro 2004, kiam la programisto Casey Fenton, trovinte ĉipan flugon al Islando, ne havis tamen tranoktejon. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+DEFINITION:
+Couch"
+La kondiĉoj kaj aranĝado de studentaj vizoj ĝenerale estas malsamaj al tiuj de ordinaraj vizoj turismaj aŭ negocaj.,travel,travel,"<|begin_of_text|>SENTENCE:
+ La kondiĉoj kaj aranĝado de studentaj vizoj ĝenerale estas malsamaj al tiuj de ordinaraj vizoj turismaj aŭ negocaj. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+La kond"
+"Ĉiu lando ankaŭ havas apartajn leĝojn, kiuj postulas, kiaj krizokazaj iloj estas havendaj en la aŭto.",travel,politics,"<|begin_of_text|>SENTENCE:
+ Ĉiu lando ankaŭ havas apartajn leĝojn, kiuj postulas, kiaj krizokazaj iloj estas havendaj en la aŭto. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+This sentence"
+"Kvankam la plej multaj agentejoj volonte akceptas la plimulton de ordinaraj rezervoj, multaj agentoj estas specialiĝintaj pri specifaj specoj de vojaĝoj, disponeblaj buĝetoj aŭ cellokoj.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Kvankam la plej multaj agentejoj volonte akceptas la plimulton de ordinaraj rezervoj, multaj agentoj estas specialiĝintaj pri specifaj specoj de vojaĝoj, disponeblaj buĝetoj aŭ cellokoj. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+ REASONING SKILL:"
+"Vojaĝantoj povas trafi bestajn plagojn, kiuj estas nekonataj en siaj hejmaj regionoj.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Vojaĝantoj povas trafi bestajn plagojn, kiuj estas nekonataj en siaj hejmaj regionoj. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+La v"
+"Ankaŭ en la nordo vizitu la grandan Sanktejon de Nia Sinjorino de Fátima (sanktejon), kiu estas la loko de tutmonde famaj aperoj de Maria.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Ankaŭ en la nordo vizitu la grandan Sanktejon de Nia Sinjorino de Fátima (sanktejon), kiu estas la loko de tutmonde famaj aperoj de Maria. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The SENT"
+Vi povas uzi boda-boda-n (motorciklan taksion) por veturi tra Goma. La normala (loka) prezo estas ĉ. 500 kongaj frankoj por la mallonga vojaĝo.,travel,travel,"<|begin_of_text|>SENTENCE:
+ Vi povas uzi boda-boda-n (motorciklan taksion) por veturi tra Goma. La normala (loka) prezo estas ĉ. 500 kongaj frankoj por la mallonga vojaĝo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+This sentence"
+Ŝatantoj de eksterdomaj agadoj nepre marŝu laŭ la Sea-to-Sky Corridor.,travel,travel,"<|begin_of_text|>SENTENCE:
+ Ŝatantoj de eksterdomaj agadoj nepre marŝu laŭ la Sea-to-Sky Corridor. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The sentence"
+"Piedira safario (ankaŭ nomita “kampa marŝo”, “marŝa safario”, aŭ “piedirado”) konsistas el marŝado, ĉu dum kelkaj horoj, ĉu dum pluraj tagoj.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Piedira safario (ankaŭ nomita “kampa marŝo”, “marŝa safario”, aŭ “piedirado”) konsistas el marŝado, ĉu dum kelkaj horoj, ĉu dum pluraj tagoj. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+DEFINITION:
+Pied"
+"La ununura maniero plenumi tion pli rapide estis sendi aĵojn kiel registritajn pakaĵojn. Laŭ flugkompaniaj regularoj, oni ne povas sendi pakaĵon sen rilata pasaĝero, kaj jen vi kaptu la okazon.",travel,travel,"<|begin_of_text|>SENTENCE:
+ La ununura maniero plenumi tion pli rapide estis sendi aĵojn kiel registritajn pakaĵojn. Laŭ flugkompaniaj regularoj, oni ne povas sendi pakaĵon sen rilata pasaĝero, kaj jen vi kaptu la okazon. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+La un"
+Aldonaj 300 rezultigas totalon de 1 300 vagonoj aĉetotaj por faciligi troplenecon.,travel,geography,"<|begin_of_text|>SENTENCE:
+ Aldonaj 300 rezultigas totalon de 1 300 vagonoj aĉetotaj por faciligi troplenecon. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+The"
+"Familioj kun junaj infanoj eble bezonas pli da preparoj, sed tago sub la libera ĉielo estas facile ebla eĉ kun beboj kaj infanoj en la antaŭlerneja aĝo.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Familioj kun junaj infanoj eble bezonas pli da preparoj, sed tago sub la libera ĉielo estas facile ebla eĉ kun beboj kaj infanoj en la antaŭlerneja aĝo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The sentence"
+"Ĉiu, kiu stiros veturilon en altajn latitudojn aŭ trans montpasejojn, devus atenti tion, ke eble estos neĝo, glacio aŭ frosto.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Ĉiu, kiu stiros veturilon en altajn latitudojn aŭ trans montpasejojn, devus atenti tion, ke eble estos neĝo, glacio aŭ frosto. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The sentence"
+"Hodiaŭ Timbuktuo estas malriĉiĝinta urbo, sed ĝi estas turisma vidindaĵo pro sia reputacio kaj ĝi havas flughavenon.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Hodiaŭ Timbuktuo estas malriĉiĝinta urbo, sed ĝi estas turisma vidindaĵo pro sia reputacio kaj ĝi havas flughavenon. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+DEFINITION:
+Hodia"
+"Dum neĝoŝtormoj, la neĝokvanto kapabla bloki vin povas fali tre rapide.",travel,science/technology,"<|begin_of_text|>SENTENCE:
+ Dum neĝoŝtormoj, la neĝokvanto kapabla bloki vin povas fali tre rapide. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+This sentence"
+"Se vi volas ĉirkaŭflugi la mondon ĉiam en la suda hemisfero, la haveblaj flugoj kaj cellokoj estas limigitaj de la manko de transoceanaj itineroj.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Se vi volas ĉirkaŭflugi la mondon ĉiam en la suda hemisfero, la haveblaj flugoj kaj cellokoj estas limigitaj de la manko de transoceanaj itineroj. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+This question"
+"Flugkompanioj kiaj Emirates, Etihad Airways, Qatar Airways kaj Turkish Airlines vaste pliampleksigis siajn servojn al Afriko, proponante ligojn al multe da grandaj afrikaj urboj je prezoj kapablaj konkurenci kun eŭropaj flugkompanioj.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Flugkompanioj kiaj Emirates, Etihad Airways, Qatar Airways kaj Turkish Airlines vaste pliampleksigis siajn servojn al Afriko, proponante ligojn al multe da grandaj afrikaj urboj je prezoj kapablaj konkurenci kun eŭropaj flugkompanioj. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+DEFINITION:
+Flug"
+"Oni funkciigas nenion aldonan transporton, kaj la surteraj trajnoj ne haltos en Wembley, nek parkejoj nek parku-kaj-stiru-eblecoj troveblas en la loko.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Oni funkciigas nenion aldonan transporton, kaj la surteraj trajnoj ne haltos en Wembley, nek parkejoj nek parku-kaj-stiru-eblecoj troveblas en la loko. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+DEFINITION:
+Wemble"
+"En la plej oftaj kazoj, restado en ajna eksterlando dum longa tempo devigas vin akiri vizon anticipe.",travel,travel,"<|begin_of_text|>SENTENCE:
+ En la plej oftaj kazoj, restado en ajna eksterlando dum longa tempo devigas vin akiri vizon anticipe. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+La v"
+Ĉiu trajno havas vagonojn kaj de MetroPlus kaj de Metro; la vagonoj de MetroPlus ĉiam situas en la trajna ekstremo plej proksima al Kab-urbo.,travel,travel,"<|begin_of_text|>SENTENCE:
+ Ĉiu trajno havas vagonojn kaj de MetroPlus kaj de Metro; la vagonoj de MetroPlus ĉiam situas en la trajna ekstremo plej proksima al Kab-urbo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Ĉ"
+Ĉiu persono partoprenas en socio kaj uzas transportajn sistemojn. Preskaŭ ĉiu plendas pri transportaj sistemoj.,travel,travel,"<|begin_of_text|>SENTENCE:
+ Ĉiu persono partoprenas en socio kaj uzas transportajn sistemojn. Preskaŭ ĉiu plendas pri transportaj sistemoj. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+ REASONING SKILL:"
+"Vi povos ĝui ankaŭ la stelojn, ĉar tiuj regionoj estas maldense loĝataj kaj tial luma poluo kutime ne estas problemo.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Vi povos ĝui ankaŭ la stelojn, ĉar tiuj regionoj estas maldense loĝataj kaj tial luma poluo kutime ne estas problemo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The sentence"
+"Vizaj kondiĉoj kaj kostoj varias laŭ la regno kaj ili dependas de la lando, el kiu vi venas.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Vizaj kondiĉoj kaj kostoj varias laŭ la regno kaj ili dependas de la lando, el kiu vi venas. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+La v"
+"Ĝenerale, ne valoras la penon serĉi rabatojn por sidlokoj de negoca aŭ unua klaso por rektaj flugoj de A ĝis B.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Ĝenerale, ne valoras la penon serĉi rabatojn por sidlokoj de negoca aŭ unua klaso por rektaj flugoj de A ĝis B. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The sentence"
+"Ĵetado de bumerango estas admirata kapablo, kies akiron deziras multe da turistoj.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Ĵetado de bumerango estas admirata kapablo, kies akiron deziras multe da turistoj. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Ĵ"
+"Ĉi tiu flugo ne estas la sola ŝanco, se vi volas preterpasi Sud-Pacifikon kaj la okcidentan marbordon de Sud-Ameriko (vidu sube).",travel,travel,"<|begin_of_text|>SENTENCE:
+ Ĉi tiu flugo ne estas la sola ŝanco, se vi volas preterpasi Sud-Pacifikon kaj la okcidentan marbordon de Sud-Ameriko (vidu sube). 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+ REASONING SKILL:
+"
+"En San-Francisko disvolviĝis ega infrastrukturo por turismo, kiu inkluzivas multnombrajn hotelojn, restoraciojn kaj unuarangajn kongresejojn.",travel,travel,"<|begin_of_text|>SENTENCE:
+ En San-Francisko disvolviĝis ega infrastrukturo por turismo, kiu inkluzivas multnombrajn hotelojn, restoraciojn kaj unuarangajn kongresejojn. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+ REASONING:
+ This question"
+"Dumvojaĝa volontulado proponas aparte bonan manieron ŝanĝi la aferojn, sed ne temas nur pri donado.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Dumvojaĝa volontulado proponas aparte bonan manieron ŝanĝi la aferojn, sed ne temas nur pri donado. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+ REASONING SKILL:"
+"Homoj povas ne antaŭvidi, ke pacienco kaj komprenemo estas bezonataj ankaŭ rilate al la vojaĝantoj revenantaj hejmen.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Homoj povas ne antaŭvidi, ke pacienco kaj komprenemo estas bezonataj ankaŭ rilate al la vojaĝantoj revenantaj hejmen. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+This sentence"
+"Ne forgesu aldoni la kromkostojn de pliaj vizoj, eliraj impostoj, surtera transporto ktp por ĉiuj tiuj lokoj ekster Afriko.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Ne forgesu aldoni la kromkostojn de pliaj vizoj, eliraj impostoj, surtera transporto ktp por ĉiuj tiuj lokoj ekster Afriko. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The sentence"
+Kelkaj loĝantoj de Biŝkeko kulpigis la sud-devenajn protestantojn pro la senleĝeco.,politics,politics,"<|begin_of_text|>SENTENCE:
+ Kelkaj loĝantoj de Biŝkeko kulpigis la sud-devenajn protestantojn pro la senleĝeco. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+This sentence"
+"Hodiaŭaj partoj de Belgio apartenis al Luksemburgio en pasinteco, sed iĝis belgiaj post la Belga Revolucio de la 1830aj.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Hodiaŭaj partoj de Belgio apartenis al Luksemburgio en pasinteco, sed iĝis belgiaj post la Belga Revolucio de la 1830aj. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+This question"
+"Ekde 1988, balotujoj devas esti travideblaj, por ke la voĉdonantoj kaj observantoj povu atesti, ke forestas kovertoj antaŭ la komenco de la balotado kaj ke neniuj kovertoj estas aldonataj krom tiuj de la orde kalkulitaj kaj rajtigitaj voĉdonantoj.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Ekde 1988, balotujoj devas esti travideblaj, por ke la voĉdonantoj kaj observantoj povu atesti, ke forestas kovertoj antaŭ la komenco de la balotado kaj ke neniuj kovertoj estas aldonataj krom tiuj de la orde kalkulitaj kaj rajtigitaj voĉdonantoj. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+La v"
+"Portempa ĉefministro Julia Gillard asertis dum la kampanjo por la federaciaj elektoj de 2010, ke ŝi kredas, ke Aŭstralio devas iĝi respubliko en la fino de regado de reĝino Elizabeto la 2a.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Portempa ĉefministro Julia Gillard asertis dum la kampanjo por la federaciaj elektoj de 2010, ke ŝi kredas, ke Aŭstralio devas iĝi respubliko en la fino de regado de reĝino Elizabeto la 2a. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+politics
+EXPLANATION:
+La SENT"
+"La irlanda registaro emfazas, ke urĝas la bezono pri parlamenta leĝdonado por ripari la situacion.",politics,politics,"<|begin_of_text|>SENTENCE:
+ La irlanda registaro emfazas, ke urĝas la bezono pri parlamenta leĝdonado por ripari la situacion. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+La v"
+Diplomataj diskutoj koncerne la regionon malhelpadas interrilatojn de Armenujo kaj Azerbajĝano.,politics,politics,"<|begin_of_text|>SENTENCE:
+ Diplomataj diskutoj koncerne la regionon malhelpadas interrilatojn de Armenujo kaj Azerbajĝano. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+La v"
+"Ĉefministro Stephen Harper konsentis sendi al la tut-partia komitato por reviziado la proponitan de la registaro ""Leĝon pri Pura Aero"", antaŭ ĝia dua pridiskuto, post la marda 25-minuta renkontiĝo kun gvidanto de NDP Jack Layton en la ĉefministra oficejo.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Ĉefministro Stephen Harper konsentis sendi al la tut-partia komitato por reviziado la proponitan de la registaro ""Leĝon pri Pura Aero"", antaŭ ĝia dua pridiskuto, post la marda 25-minuta renkontiĝo kun gvidanto de NDP Jack Layton en la ĉefministra oficejo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+DEFINITION:
+Ĉ"
+"Pasintan monaton estis grandaj protestoj en Pollando, kiam tiu lando subskribis ACTA-n, sekve de kio la pola registaro decidis ne ratifi la interkonsenton, almenaŭ ne nun.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Pasintan monaton estis grandaj protestoj en Pollando, kiam tiu lando subskribis ACTA-n, sekve de kio la pola registaro decidis ne ratifi la interkonsenton, almenaŭ ne nun. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+DEFINITION:
+ACTA"
+Averto estas nur mallonga resumo pri la politika situacio de iu lando.,politics,politics,"<|begin_of_text|>SENTENCE:
+ Averto estas nur mallonga resumo pri la politika situacio de iu lando. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+La v"
+"Dum la elektoj de 1976 li konsilis Carter pri eksterlanda politiko, poste servis kiel Konsilanto pri nacia sekureco (KNS) de 1977 ĝis 1981, sekvante Henry Kissinger.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Dum la elektoj de 1976 li konsilis Carter pri eksterlanda politiko, poste servis kiel Konsilanto pri nacia sekureco (KNS) de 1977 ĝis 1981, sekvante Henry Kissinger. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+The SENT"
+"Turkio ankaŭ ekzorgos pri gardado de kaptitaj batalantoj de IŜIL, kiujn, laŭ la deklaro, eŭropaj landoj rifuzis reakcepti hejmen.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Turkio ankaŭ ekzorgos pri gardado de kaptitaj batalantoj de IŜIL, kiujn, laŭ la deklaro, eŭropaj landoj rifuzis reakcepti hejmen. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+This sentence"
+"Tamen tiuj ĉi planoj eksdatiĝis preskaŭ dum unu nokto, kiam pli ol 800 000 soldatoj de la sovetunia Ruĝa Armeo eniris kaj formis la Belarusan kaj la Ukrainan frontojn post invado de la orientaj regionoj de Pollando, rompinte la Rigan packontrakton, la Sovet-Polan pakton pri neagreso kaj aliajn internaciajn kontraktojn, kaj duflankajn kaj plurflankajn.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Tamen tiuj ĉi planoj eksdatiĝis preskaŭ dum unu nokto, kiam pli ol 800 000 soldatoj de la sovetunia Ruĝa Armeo eniris kaj formis la Belarusan kaj la Ukrainan frontojn post invado de la orientaj regionoj de Pollando, rompinte la Rigan packontrakton, la Sovet-Polan pakton pri neagreso kaj aliajn internaciajn kontraktojn, kaj duflankajn kaj plurflankajn. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+politics
+EXPLANATION:
+This sentence"
+"Sekvante la proceduron, HJR-3 estos inspektita denove de la sekva elektita leĝodona organo en 2015 aŭ 2016 por resti en la procezo.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Sekvante la proceduron, HJR-3 estos inspektita denove de la sekva elektita leĝodona organo en 2015 aŭ 2016 por resti en la procezo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+HJR"
+"Post kiam la Kongreso akceptis ĝin la 4an de julio, manskribita malnetaĵo subskribita de la kongresa prezidanto John Hancock kaj la sekretario Charles Thomson estis sendita al la presejo de John Dunlap, kelkajn kvartalojn for.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Post kiam la Kongreso akceptis ĝin la 4an de julio, manskribita malnetaĵo subskribita de la kongresa prezidanto John Hancock kaj la sekretario Charles Thomson estis sendita al la presejo de John Dunlap, kelkajn kvartalojn for. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+The sentence"
+"Tuj post la 11a, protestantoj blokis trafikon sur la vojo direktita norden, en Whitehall.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Tuj post la 11a, protestantoj blokis trafikon sur la vojo direktita norden, en Whitehall. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+The SENT"
+"Tamen en junio de la jaro 1956 promesoj de Ĥruŝĉov estis testitaj, kiam tumultoj en Pollando, kie laboristoj protestis kontraŭ deficito de manĝaĵo kaj malatigo de salajroj, rezultis ĝeneralan proteston kontraŭ komunismo.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Tamen en junio de la jaro 1956 promesoj de Ĥruŝĉov estis testitaj, kiam tumultoj en Pollando, kie laboristoj protestis kontraŭ deficito de manĝaĵo kaj malatigo de salajroj, rezultis ĝeneralan proteston kontraŭ komunismo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+DEFINITION:
+Ĥ"
+"̈Ĝi estis daŭronta la sekvajn 40 jarojn kaj havonta verajn batalojn, per anstataŭaj armeoj, en batalkampoj de Afriko ĝis Azio, en Afganio, Kubo kaj multaj aliaj lokoj.",politics,geography,"<|begin_of_text|>SENTENCE:
+ ̈Ĝi estis daŭronta la sekvajn 40 jarojn kaj havonta verajn batalojn, per anstataŭaj armeoj, en batalkampoj de Afriko ĝis Azio, en Afganio, Kubo kaj multaj aliaj lokoj. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+Lastan monaton prezidenta komisiono rekomendis eksiĝon de la antaŭa CEP kiel parton de rimedaro por antaŭenigi la landon al novaj elektoj.,politics,politics,"<|begin_of_text|>SENTENCE:
+ Lastan monaton prezidenta komisiono rekomendis eksiĝon de la antaŭa CEP kiel parton de rimedaro por antaŭenigi la landon al novaj elektoj. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+This sentence"
+"Aliaj koncernaj temoj, laŭdire, inkluzivos la estontan staton de Jerusalemo, kiu estas sankta por ambaŭ nacioj, kaj la problemon de Jordana valo.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Aliaj koncernaj temoj, laŭdire, inkluzivos la estontan staton de Jerusalemo, kiu estas sankta por ambaŭ nacioj, kaj la problemon de Jordana valo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics 
+-EXPLANATION:
+This"
+Ĝi ankaŭ ne rajtis superregi impostajn leĝojn kaj doganojn inter ŝtatoj.,politics,politics,"<|begin_of_text|>SENTENCE:
+ Ĝi ankaŭ ne rajtis superregi impostajn leĝojn kaj doganojn inter ŝtatoj. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+This sentence"
+Franca balotada leĝo sufiĉe strikte kodigas la proceduron.,politics,politics,"<|begin_of_text|>SENTENCE:
+ Franca balotada leĝo sufiĉe strikte kodigas la proceduron. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+The word"
+"Post semajno da malgajnoj en la kongresaj elektoj, Bush diris al publiko pri la vastigo de komerco en Azio.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Post semajno da malgajnoj en la kongresaj elektoj, Bush diris al publiko pri la vastigo de komerco en Azio. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+REASONING SKILL:
+"
+"La strategio pruvis sian efikecon, ĝi fortranĉis gravegajn militistajn kaj civilajn liverojn, kvankam tiu blokado rompis ĝenerale akceptitan internacian leĝon kodigitan de kelkaj internaciaj interkonsentoj de pasintaj du jarcentoj.",politics,politics,"<|begin_of_text|>SENTENCE:
+ La strategio pruvis sian efikecon, ĝi fortranĉis gravegajn militistajn kaj civilajn liverojn, kvankam tiu blokado rompis ĝenerale akceptitan internacian leĝon kodigitan de kelkaj internaciaj interkonsentoj de pasintaj du jarcentoj. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+DEFINITION:
+La strateg"
+"La ekonomiaj ligoj estis rekomencitaj inter tiuj ĉi du partoj de Moldavujo, kvankam politikaj intertraktadoj fiaskis.",politics,politics,"<|begin_of_text|>SENTENCE:
+ La ekonomiaj ligoj estis rekomencitaj inter tiuj ĉi du partoj de Moldavujo, kvankam politikaj intertraktadoj fiaskis. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+DEFINITION:
+La ekonom"
+"Akompanata de tiuj oficialuloj, li certigis teksasajn civitanojn, ke estis faritaj paŝoj al protektado de publika sekureco.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Akompanata de tiuj oficialuloj, li certigis teksasajn civitanojn, ke estis faritaj paŝoj al protektado de publika sekureco. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+This sentence"
+Liberala kritikado de la rekonstruaj klopodoj koncentriĝis sur la transdono de rekonstruaj kontraktoj al supozataj malfremduloj de Vaŝingtono.,politics,politics,"<|begin_of_text|>SENTENCE:
+ Liberala kritikado de la rekonstruaj klopodoj koncentriĝis sur la transdono de rekonstruaj kontraktoj al supozataj malfremduloj de Vaŝingtono. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+La v"
+"El 1400 homoj pridemanditaj antaŭ la federaciaj elektoj de 2010, kvanto de tiuj, kiuj kontraŭas, ke Aŭstralio iĝu respubliko, kreskis je 8 elcentoj ekde 2008.",politics,politics,"<|begin_of_text|>SENTENCE:
+ El 1400 homoj pridemanditaj antaŭ la federaciaj elektoj de 2010, kvanto de tiuj, kiuj kontraŭas, ke Aŭstralio iĝu respubliko, kreskis je 8 elcentoj ekde 2008. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics 
+-EXPLANATION:
+This"
+"Diplomatoj diris, ke ili trovis sufiĉan ambiguecon en la afgana konstitucio por determini, ke la dua fazo ne estis nepra.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Diplomatoj diris, ke ili trovis sufiĉan ambiguecon en la afgana konstitucio por determini, ke la dua fazo ne estis nepra. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+La SENT"
+"Kiam la rezultoj venis, Gingrich laŭdis Santorum, sed severe kritikis Romney, kiu estas malantaŭ kampanjo de negativa reklamo disaŭdigita en Iovao kontraŭ Gingrich.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Kiam la rezultoj venis, Gingrich laŭdis Santorum, sed severe kritikis Romney, kiu estas malantaŭ kampanjo de negativa reklamo disaŭdigita en Iovao kontraŭ Gingrich. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+ REASONING SKILL:
+"
+Estas la unua CEP de Martelly dum kvar jaroj.,politics,politics,"<|begin_of_text|>SENTENCE:
+ Estas la unua CEP de Martelly dum kvar jaroj. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+REASONING SKILL:
+"
+"La Olimpika ormedalulo devis naĝi 100 m kaj 200 m liberstile kaj en tri stafetkuroj ĉe Ludoj de la Komunumo, sed pro liaj plendoj oni dubis pri lia kapablo.",sports,sports,"<|begin_of_text|>SENTENCE:
+ La Olimpika ormedalulo devis naĝi 100 m kaj 200 m liberstile kaj en tri stafetkuroj ĉe Ludoj de la Komunumo, sed pro liaj plendoj oni dubis pri lia kapablo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+La O"
+"Krom esti iama Olimpika kaj Mond-ĉampiono, Saito ankaŭ prezidis la trejnistan komitaton de la Tut-Japana Ĵuda Federacio je la tempo de sia morto.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Krom esti iama Olimpika kaj Mond-ĉampiono, Saito ankaŭ prezidis la trejnistan komitaton de la Tut-Japana Ĵuda Federacio je la tempo de sia morto. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+The sentence"
+"La Internacia Olimpia Komitato voĉdonis por inkluzivi la sportojn, en sia estrarkunsido en Berlino hodiaŭ. Rugbeo, specife rugbeo 15, kaj golfo estis elektitaj prefere al kvin aliaj sportoj, konsideritaj por partopreni en la Olimpikoj.",sports,sports,"<|begin_of_text|>SENTENCE:
+ La Internacia Olimpia Komitato voĉdonis por inkluzivi la sportojn, en sia estrarkunsido en Berlino hodiaŭ. Rugbeo, specife rugbeo 15, kaj golfo estis elektitaj prefere al kvin aliaj sportoj, konsideritaj por partopreni en la Olimpikoj. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+DEFINITION:
+La Intern"
+La plej grava turniro en la jaro okazas en Decembro en la poloaj kampoj ĉe Las Cañitas.,sports,sports,"<|begin_of_text|>SENTENCE:
+ La plej grava turniro en la jaro okazas en Decembro en la poloaj kampoj ĉe Las Cañitas. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+REASONING SKILL:"
+Ekde sia translokiĝo al la kataluna ĉefurbo Vidal ludis 49 matĉojn por la klubo.,sports,sports,"<|begin_of_text|>SENTENCE:
+ Ekde sia translokiĝo al la kataluna ĉefurbo Vidal ludis 49 matĉojn por la klubo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+sports
+EXPLANATION:
+La vort"
+"Subtenado de sana energia ekvilibro, praktikado de efikaj kutimoj pri rehidratiĝo, kaj kompreno de diversaj aspektoj de kompensaj praktikoj povas helpi atletojn plibonigi sian plenumon kaj grandigi sian ĝuon de la sportumado.",sports,health,"<|begin_of_text|>SENTENCE:
+ Subtenado de sana energia ekvilibro, praktikado de efikaj kutimoj pri rehidratiĝo, kaj kompreno de diversaj aspektoj de kompensaj praktikoj povas helpi atletojn plibonigi sian plenumon kaj grandigi sian ĝuon de la sportumado. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health 
+-EXPLANATION:
+This question"
+"Sur la tria loko, Hamlin estas dudek poentojn malantaŭe, sed kvin antaŭ Bowyer. Kahne kaj Truex la Juna estas kvina kaj sesa respektive kun 2220 kaj 2207 poentoj.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Sur la tria loko, Hamlin estas dudek poentojn malantaŭe, sed kvin antaŭ Bowyer. Kahne kaj Truex la Juna estas kvina kaj sesa respektive kun 2220 kaj 2207 poentoj. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+La v"
+La plej bona registrita venko de Nadal super la kanadano estas 7-2.,sports,sports,"<|begin_of_text|>SENTENCE:
+ La plej bona registrita venko de Nadal super la kanadano estas 7-2. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+The SENT"
+"Jarque ekzercis sin dum antaŭsezona trejnado en Coverciano en Italio pli frue tiun tagon. Li loĝis en hotelo de la teamo antaŭ matĉo kontraŭ Bolonia, planita por dimanĉo.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Jarque ekzercis sin dum antaŭsezona trejnado en Coverciano en Italio pli frue tiun tagon. Li loĝis en hotelo de la teamo antaŭ matĉo kontraŭ Bolonia, planita por dimanĉo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+This sentence"
+"Timo pri manko de transportado altigis probablecon de tio, ke la ludo estos ludata devige malantaŭ fermitaj pordoj, sen subtenantoj de la teamo.",sports,entertainment,"<|begin_of_text|>SENTENCE:
+ Timo pri manko de transportado altigis probablecon de tio, ke la ludo estos ludata devige malantaŭ fermitaj pordoj, sen subtenantoj de la teamo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+The"
+"Tommy Dreamer diris: ""Luna estis la unua Reĝino de Ekstremo. Mia unua manaĝero. Luna forpasis en la nokto de du lunoj. Sufiĉe unika, kiel ŝi mem. Forta virino.""",sports,entertainment,"<|begin_of_text|>SENTENCE:
+ Tommy Dreamer diris: ""Luna estis la unua Reĝino de Ekstremo. Mia unua manaĝero. Luna forpasis en la nokto de du lunoj. Sufiĉe unika, kiel ŝi mem. Forta virino."" 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+La"
+Pollanda vidhandikapula skiisto Maciej Krezel kaj gvidanto Anna Ogarzynska finis la dektriaj en Super-G. Sud-koreia Jong Seork Park finis la dudekkvara en la vira sida Super-G.,sports,sports,"<|begin_of_text|>SENTENCE:
+ Pollanda vidhandikapula skiisto Maciej Krezel kaj gvidanto Anna Ogarzynska finis la dektriaj en Super-G. Sud-koreia Jong Seork Park finis la dudekkvara en la vira sida Super-G. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+ REASONING SKILL:
+"
+"Informiĝu ĉe Asociación Argentina de Polo pri novaĵoj de turniroj kaj pri tio, kie oni aĉetas biletojn de poloaj matĉoj.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Informiĝu ĉe Asociación Argentina de Polo pri novaĵoj de turniroj kaj pri tio, kie oni aĉetas biletojn de poloaj matĉoj. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+sports
+EXPLANATION:
+La vort"
+"La maĉoj komenciĝis je la 10a matene, kun tre bona vetero kaj, kvankam mallonge pluvetis matenmeze, estis perfekta tago por sepopa rugbeo.",sports,sports,"<|begin_of_text|>SENTENCE:
+ La maĉoj komenciĝis je la 10a matene, kun tre bona vetero kaj, kvankam mallonge pluvetis matenmeze, estis perfekta tago por sepopa rugbeo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+The sentence"
+Arly Velasquez de Meksiko finis la dekkvina en la vira sida Super-G. Nov-zelandano Adam Hall finis la naŭa en la vira stara Super-G.,sports,sports,"<|begin_of_text|>SENTENCE:
+ Arly Velasquez de Meksiko finis la dekkvina en la vira sida Super-G. Nov-zelandano Adam Hall finis la naŭa en la vira stara Super-G. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+The SENT"
+"La finala matĉo de la serio okazos en Ellis Park en Johanesburgo sekvan semajnon, kiam Springboks ludos kun Aŭstralio.",sports,sports,"<|begin_of_text|>SENTENCE:
+ La finala matĉo de la serio okazos en Ellis Park en Johanesburgo sekvan semajnon, kiam Springboks ludos kun Aŭstralio. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+La SENT"
+"En bonaj kondiĉoj vi povos trairi distancojn iom pli grandajn ol dum marŝado, sed nur tre malofte vi atingos la rapidecojn de skikurado sen peza dorsosako en prizorgitaj vojoj.",sports,travel,"<|begin_of_text|>SENTENCE:
+ En bonaj kondiĉoj vi povos trairi distancojn iom pli grandajn ol dum marŝado, sed nur tre malofte vi atingos la rapidecojn de skikurado sen peza dorsosako en prizorgitaj vojoj. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The sentence"
+"Sep poentojn malantaŭe, Johnson estas la dua kun 2243.",sports,N/A,"<|begin_of_text|>SENTENCE:
+ Sep poentojn malantaŭe, Johnson estas la dua kun 2243. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- None of the above 
+ REASONING"
+"Kanjonado (aŭ kanjonado) konsistas en tio, ke oni penetras kanjonon, ĉu sekan ĉu akvoplenan.",sports,travel,"<|begin_of_text|>SENTENCE:
+ Kanjonado (aŭ kanjonado) konsistas en tio, ke oni penetras kanjonon, ĉu sekan ĉu akvoplenan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+La v"
+"Robin Uthappa faris la plej altan poentaron pro transdonoj, 70 kurojn en nur 41 pilkoj, gajninte 11 kvarojn kaj 2 sesojn.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Robin Uthappa faris la plej altan poentaron pro transdonoj, 70 kurojn en nur 41 pilkoj, gajninte 11 kvarojn kaj 2 sesojn. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+ REASONING SKILL:
+"
+"Vintraj sportoj plej popularas en la nordaj regionoj, do italoj konkuras en internaciaj ludoj kaj Olimpikaj eventoj.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Vintraj sportoj plej popularas en la nordaj regionoj, do italoj konkuras en internaciaj ludoj kaj Olimpikaj eventoj. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+The SENT"
+"Maroochydore finiĝis en la pinto de la tabelo, ses poentojn for de Noosa en la dua loko.",sports,geography,"<|begin_of_text|>SENTENCE:
+ Maroochydore finiĝis en la pinto de la tabelo, ses poentojn for de Noosa en la dua loko. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+La"
+"Michael Schumacher finis la vetkuron nelonge post Alonso, pro la suspensio difektita en la multaj batiĝoj dum la vetkuro.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Michael Schumacher finis la vetkuron nelonge post Alonso, pro la suspensio difektita en la multaj batiĝoj dum la vetkuro. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports 
+EXPLANATION:
+This sentence"
+"Konvenaj manĝpraktikoj sole ne povas produkti elitulajn plenumojn, sed ili povas signife influi ĝeneralan bonfarton de junaj atletoj.",sports,health,"<|begin_of_text|>SENTENCE:
+ Konvenaj manĝpraktikoj sole ne povas produkti elitulajn plenumojn, sed ili povas signife influi ĝeneralan bonfarton de junaj atletoj. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health
+EXPLANATION:
+La vort"
+"Li ne povis uzi kuracilojn bezonatajn por travivi sian doloron, ĉar ili estas malpermesitaj en la Ludoj.",sports,health,"<|begin_of_text|>SENTENCE:
+ Li ne povis uzi kuracilojn bezonatajn por travivi sian doloron, ĉar ili estas malpermesitaj en la Ludoj. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health
+EXPLANATION:
+La vort"
+"Esploroj trovis, ke virinoj havas duoble pli altan probablecon ekhavi MS ol viroj.",health,health,"<|begin_of_text|>SENTENCE:
+ Esploroj trovis, ke virinoj havas duoble pli altan probablecon ekhavi MS ol viroj. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health
+EXPLANATION:
+La vort"
+"Neleĝaj alkoholaĵoj povas enhavi diversajn danĝerajn malpuraĵojn kiel metanolon, kiu povas kaŭzi blindiĝon aŭ morton eĉ per malgranda dozo.",health,health,"<|begin_of_text|>SENTENCE:
+ Neleĝaj alkoholaĵoj povas enhavi diversajn danĝerajn malpuraĵojn kiel metanolon, kiu povas kaŭzi blindiĝon aŭ morton eĉ per malgranda dozo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health
+EXPLANATION:
+This sentence is"
+"Nur la efikoj de emo al malbonaj atendoj, ne depresio kaj timo, estis kondiĉigitaj de regulaj semajnaj strukturitaj sesioj de fizika ekzercado.",health,health,"<|begin_of_text|>SENTENCE:
+ Nur la efikoj de emo al malbonaj atendoj, ne depresio kaj timo, estis kondiĉigitaj de regulaj semajnaj strukturitaj sesioj de fizika ekzercado. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health
+EXPLANATION:
+La vort"
+"Amasa posedado de aŭtoj kondukas ankaŭ al pli alta incidenco de akcidentoj sur la vojo, kio kondukas al la inventado de novaj sanzorgaj teknikoj por ripari damaĝitajn korpojn.",health,health,"<|begin_of_text|>SENTENCE:
+ Amasa posedado de aŭtoj kondukas ankaŭ al pli alta incidenco de akcidentoj sur la vojo, kio kondukas al la inventado de novaj sanzorgaj teknikoj por ripari damaĝitajn korpojn. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health
+ REASONING:
+This question requires"
+"Gvidaj esploristoj diras, ke tio povas sekvigi fruan malkaŝon de kancero, tuberkulozo, aidoso kaj malario ĉe pacientoj en landoj kun malaltaj enspezoj, kie indico de postvivo de tiaj malsanoj, kiel mamkancero, povas estis duono de tiu en pli riĉaj landoj.",health,health,"<|begin_of_text|>SENTENCE:
+ Gvidaj esploristoj diras, ke tio povas sekvigi fruan malkaŝon de kancero, tuberkulozo, aidoso kaj malario ĉe pacientoj en landoj kun malaltaj enspezoj, kie indico de postvivo de tiaj malsanoj, kiel mamkancero, povas estis duono de tiu en pli riĉaj landoj. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health 
+-EXPLANATION:
+This question"
+"D-ro Ehud Ur, profesoro pri medicino ĉe la Universitato Dalhousie en Halifax, Nova Skotlando, kaj estro de la klinika kaj scienca fako de la Kanada Diabeta Asocio, avertis, ke la esploro ankoraŭ estas en siaj fruaj tagoj.",health,health,"<|begin_of_text|>SENTENCE:
+ D-ro Ehud Ur, profesoro pri medicino ĉe la Universitato Dalhousie en Halifax, Nova Skotlando, kaj estro de la klinika kaj scienca fako de la Kanada Diabeta Asocio, avertis, ke la esploro ankoraŭ estas en siaj fruaj tagoj. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health
+ REASONING SKILL:
+ This"
+"Tiaj infanoj emas trafi multajn problemojn, ĉar ili ""engaĝas sin en riskaj kondutoj, partoprenas batalojn kaj defias aŭtoritatojn"" por stimuli sian cerbon, ĉar ilia cerbo ne povas esti stimulita en normalaj manieroj.",health,health,"<|begin_of_text|>SENTENCE:
+ Tiaj infanoj emas trafi multajn problemojn, ĉar ili ""engaĝas sin en riskaj kondutoj, partoprenas batalojn kaj defias aŭtoritatojn"" por stimuli sian cerbon, ĉar ilia cerbo ne povas esti stimulita en normalaj manieroj. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health
+EXPLANATION:
+La SENTEN"
+"Homoj povas suferi pro enspiro de poluita akvo, levita en la aeron per vento kaj ondoj.",health,health,"<|begin_of_text|>SENTENCE:
+ Homoj povas suferi pro enspiro de poluita akvo, levita en la aeron per vento kaj ondoj. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health
+EXPLANATION:
+La vort"
+"Iuj kredas, ke sperti multajn artefarite atingitajn lucidajn sonĝojn sufiĉe ofte povas esti tre laciga.",health,science/technology,"<|begin_of_text|>SENTENCE:
+ Iuj kredas, ke sperti multajn artefarite atingitajn lucidajn sonĝojn sufiĉe ofte povas esti tre laciga. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+This sentence"
+"Potro ricevis kuracadon al sia ŝultro en tiu momento, sed li sukcesis reveni al la ludo.",health,sports,"<|begin_of_text|>SENTENCE:
+ Potro ricevis kuracadon al sia ŝultro en tiu momento, sed li sukcesis reveni al la ludo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+sports
+EXPLANATION:
+La vort"
+"Aldone, fiasko fari tion havas gravajn sekvojn: malpliiĝon de kresko, subnutradon kaj fine morton.",health,science/technology,"<|begin_of_text|>SENTENCE:
+ Aldone, fiasko fari tion havas gravajn sekvojn: malpliiĝon de kresko, subnutradon kaj fine morton. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+\ science
+EXPLANATION:
+La v"
+"Oficialuloj de la urbo Amsterdamo kaj la Muzeo Anne Frank asertas, ke la arbo estas infektita de fungo kaj prezentas minacon al sano de homoj, insistante, ke ĝi estis falonta en ajna momento.",health,health,"<|begin_of_text|>SENTENCE:
+ Oficialuloj de la urbo Amsterdamo kaj la Muzeo Anne Frank asertas, ke la arbo estas infektita de fungo kaj prezentas minacon al sano de homoj, insistante, ke ĝi estis falonta en ajna momento. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health 
+EXPLANATION:
+The sentence is"
+"La malsanulejo sekvis protokolon por infekta kontrolo, inkluzive de apartigo de la paciento disde aliaj por malebligi eventualan infektiĝon de aliaj.",health,health,"<|begin_of_text|>SENTENCE:
+ La malsanulejo sekvis protokolon por infekta kontrolo, inkluzive de apartigo de la paciento disde aliaj por malebligi eventualan infektiĝon de aliaj. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health
+EXPLANATION:
+This sentence is"
+"La Haitia Instituto por Justeco kaj Demokratio referencis sendependajn studojn, kiuj sugestas, ke la nepala pacgarda bataliono de UN nesciante kunportis la malsanon al Haitio.",health,politics,"<|begin_of_text|>SENTENCE:
+ La Haitia Instituto por Justeco kaj Demokratio referencis sendependajn studojn, kiuj sugestas, ke la nepala pacgarda bataliono de UN nesciante kunportis la malsanon al Haitio. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+La Hait"
+"Infektaj malsanoj mem aŭ danĝeraj bestoj kapablaj vundi aŭ mortigi homon per forto, ĝenerale ne estas kalkulitaj kiel plagoj.",health,health,"<|begin_of_text|>SENTENCE:
+ Infektaj malsanoj mem aŭ danĝeraj bestoj kapablaj vundi aŭ mortigi homon per forto, ĝenerale ne estas kalkulitaj kiel plagoj. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health
+EXPLANATION:
+This sentence is"
+"Infanoj kun ADP pene koncentriĝas sur aferoj kiel lernejaj taskoj, sed ili povas koncentriĝi super aferoj, kiujn ili ŝatas fari, kiel ludi aŭ rigardi siajn preferatajn animaciajn filmojn aŭ skribi frazojn sen interpunkcio.",health,entertainment,"<|begin_of_text|>SENTENCE:
+ Infanoj kun ADP pene koncentriĝas sur aferoj kiel lernejaj taskoj, sed ili povas koncentriĝi super aferoj, kiujn ili ŝatas fari, kiel ludi aŭ rigardi siajn preferatajn animaciajn filmojn aŭ skribi frazojn sen interpunkcio. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+ REASONING SKILL"
+Dum unu jaro infektita persono povas infekti de 10 ĝis 15 proksumulojn.,health,health,"<|begin_of_text|>SENTENCE:
+ Dum unu jaro infektita persono povas infekti de 10 ĝis 15 proksumulojn. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health
+EXPLANATION:
+La vort"
+"Kiam la batalado ĉesis kaj vunditoj estis transportitaj al la masanulejo, ĉirkaŭ 40 aliaj restantaj malliberuloj restis en la korto kaj rifuzis reveni en siajn kamerojn.",health,politics,"<|begin_of_text|>SENTENCE:
+ Kiam la batalado ĉesis kaj vunditoj estis transportitaj al la masanulejo, ĉirkaŭ 40 aliaj restantaj malliberuloj restis en la korto kaj rifuzis reveni en siajn kamerojn. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+The sentence"
+Kuracistojn ekrekrutis imperiestro Aŭgusto kaj eĉ fondis la unuan romian medicinan regimenton por uzi en la sekvoj de bataloj.,health,health,"<|begin_of_text|>SENTENCE:
+ Kuracistojn ekrekrutis imperiestro Aŭgusto kaj eĉ fondis la unuan romian medicinan regimenton por uzi en la sekvoj de bataloj. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health
+EXPLANATION:
+La vort"
+Tamen la stirinto ricevis seriozajn vundojn je la kapo.,health,health,"<|begin_of_text|>SENTENCE:
+ Tamen la stirinto ricevis seriozajn vundojn je la kapo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health
+EXPLANATION:
+The word """
+"""Ni havas nun 4-monataĝajn musojn, kiuj ne estas diabetaj, sed estis diabetaj"", li aldonis.",health,health,"<|begin_of_text|>SENTENCE:
+ ""Ni havas nun 4-monataĝajn musojn, kiuj ne estas diabetaj, sed estis diabetaj"", li aldonis. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+health
+REASONING:
+This sentence is"
+Interna veneniĝo povas esti ne tuj evidenta. Simptomoj kiel vomado estas sufiĉe ĝeneralaj por malebligi tujan diagnozon.,health,health,"<|begin_of_text|>SENTENCE:
+ Interna veneniĝo povas esti ne tuj evidenta. Simptomoj kiel vomado estas sufiĉe ĝeneralaj por malebligi tujan diagnozon. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health
+EXPLANATION:
+La vort"
+"Rezulte la prezentantoj fumis kanabajn cigaredojn sur scenejo, kaj la teatraĵo mem kuraĝigas la publikon aliĝi.",entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Rezulte la prezentantoj fumis kanabajn cigaredojn sur scenejo, kaj la teatraĵo mem kuraĝigas la publikon aliĝi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+La"
+Aerosmith nuligis la reston de siaj koncertoj en sia turneo.,entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Aerosmith nuligis la reston de siaj koncertoj en sia turneo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+REASONING SKILL"
+"Se vi volas esti proksima al la afero, vi devos frue eniri por preni tenduman lokon apud la muziko.",entertainment,travel,"<|begin_of_text|>SENTENCE:
+ Se vi volas esti proksima al la afero, vi devos frue eniri por preni tenduman lokon apud la muziko. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+ La v"
+"Estas multaj malsamaj filmformatoj, kiujn oni uzis tra la jaroj. Normala filmo de 35 mm (36×24 mm negative) estas la plej ofta.",entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Estas multaj malsamaj filmformatoj, kiujn oni uzis tra la jaroj. Normala filmo de 35 mm (36×24 mm negative) estas la plej ofta. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+ REASONING:
+ This"
+"Malgraŭ tio, ke ĝi okazas tre kutime, Disney malpermesas tion: oni ne povas transdoni la biletojn.",entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Malgraŭ tio, ke ĝi okazas tre kutime, Disney malpermesas tion: oni ne povas transdoni la biletojn. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+This"
+Ĉiu epizodo de la programo fokusiĝis je temo el certa libro kaj esploris tiun temon pere de pluraj rakontoj.,entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Ĉiu epizodo de la programo fokusiĝis je temo el certa libro kaj esploris tiun temon pere de pluraj rakontoj. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+REASONING SKILL"
+"Kelkaj grandaj televidekranoj estis instalitaj en diversaj lokoj tra Romo por ebligi, ke la homoj spektu la ceremonion.",entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Kelkaj grandaj televidekranoj estis instalitaj en diversaj lokoj tra Romo por ebligi, ke la homoj spektu la ceremonion. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+This"
+"Sofoklo kaj Aristofano plu estas popularaj dramaturgoj, kaj iliaj teatraĵoj estas konsiderataj inter la plej eminentaj verkoj de monda literaturo.",entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Sofoklo kaj Aristofano plu estas popularaj dramaturgoj, kaj iliaj teatraĵoj estas konsiderataj inter la plej eminentaj verkoj de monda literaturo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+La"
+"Ĉiu programero ankaŭ rekomendis librojn, kiujn infanoj devus serĉi, kiam ili iris al sia biblioteko.",entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Ĉiu programero ankaŭ rekomendis librojn, kiujn infanoj devus serĉi, kiam ili iris al sia biblioteko. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+This"
+"Per akordiono, por ricevi plian laŭtecon, vi uzas la lamenojn kun pli da premo aŭ rapido.",entertainment,science/technology,"<|begin_of_text|>SENTENCE:
+ Per akordiono, por ricevi plian laŭtecon, vi uzas la lamenojn kun pli da premo aŭ rapido. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+The sentence"
+Vi povas vidi la piramidojn en mallumo kaj vi povas vidi ilin en silento antaŭ la komenciĝo de la spektaklo.,entertainment,geography,"<|begin_of_text|>SENTENCE:
+ Vi povas vidi la piramidojn en mallumo kaj vi povas vidi ilin en silento antaŭ la komenciĝo de la spektaklo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+"Inter la ekzemploj de surloka aktivado estas ĉasado, fiŝkaptado, fotado, birdorigardado kaj vizitado de parkoj kaj studado de informoj pri la ekosistemo.",entertainment,travel,"<|begin_of_text|>SENTENCE:
+ Inter la ekzemploj de surloka aktivado estas ĉasado, fiŝkaptado, fotado, birdorigardado kaj vizitado de parkoj kaj studado de informoj pri la ekosistemo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+DEFINITION:
+Surlo"
+La sfinkso estas metita sur la fono kaj ĝi estas la rakontisto de longa rakonto.,entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ La sfinkso estas metita sur la fono kaj ĝi estas la rakontisto de longa rakonto. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+REASONING SKILL"
+"Ili kutime proponas specialajn manĝaĵojn, trinkaĵojn kaj distraĵojn por teni gastojn bonhumoraj kaj por reteni ilin ene.",entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Ili kutime proponas specialajn manĝaĵojn, trinkaĵojn kaj distraĵojn por teni gastojn bonhumoraj kaj por reteni ilin ene. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+La"
+"Jam raportanta en la angla kaj la japana, la monda organizo lanĉas programojn en la hispana, itala kaj korea lingvoj, por televido, interreto kaj porteblaj aparatoj.",entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Jam raportanta en la angla kaj la japana, la monda organizo lanĉas programojn en la hispana, itala kaj korea lingvoj, por televido, interreto kaj porteblaj aparatoj. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+The"
+Antaŭ The Simpsons Simon laboris pri kelkaj programoj en diversaj postenoj.,entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Antaŭ The Simpsons Simon laboris pri kelkaj programoj en diversaj postenoj. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+REASONING SKILL"
+"Tio lasos la ludantojn kontroli agojn kaj movojn en videoludoj, movante la ilon en la aero.",entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Tio lasos la ludantojn kontroli agojn kaj movojn en videoludoj, movante la ilon en la aero. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+La"
+"Minimume 100 personoj partoprenis festadon de la unua datreveno de la paro, kies geedziĝon oni okazigis pasintjare.",entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Minimume 100 personoj partoprenis festadon de la unua datreveno de la paro, kies geedziĝon oni okazigis pasintjare. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+La"
+"Du kantoj el la filmo, Audition (The Fools Who Dream) kaj City of Stars, estis kandidatigita por la nomumo de la plej bona originala kanto. Lionsgate studio ricevis 26 kandidatigojn — pli ol iu ajn alia studio.",entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Du kantoj el la filmo, Audition (The Fools Who Dream) kaj City of Stars, estis kandidatigita por la nomumo de la plej bona originala kanto. Lionsgate studio ricevis 26 kandidatigojn — pli ol iu ajn alia studio. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+DEFINITION:
+Aud"
+La krusto estas ĉirkaŭ 70 km dika en la proksima flanko kaj 100 km dika en la kaŝita flanko.,geography,geography,"<|begin_of_text|>SENTENCE:
+ La krusto estas ĉirkaŭ 70 km dika en la proksima flanko kaj 100 km dika en la kaŝita flanko. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+The"
+Pli sude troviĝas la Niagara Akvofalaro kaj la nordo estas hejmo de la netuŝita natura beleco de Muskoka kaj pretere.,geography,geography,"<|begin_of_text|>SENTENCE:
+ Pli sude troviĝas la Niagara Akvofalaro kaj la nordo estas hejmo de la netuŝita natura beleco de Muskoka kaj pretere. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+La"
+"Lando de Ellsworth estas la regiono sude de la duoninsulo, limigite de la maro de Bellingshausen.",geography,geography,"<|begin_of_text|>SENTENCE:
+ Lando de Ellsworth estas la regiono sude de la duoninsulo, limigite de la maro de Bellingshausen. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+La"
+La Sudpolusa Transverso (aŭ Aŭtovojo) estas vojstreko 1600 km longa ekde la stacio McMurdo ĝis la poluso sur la maro de Ross.,geography,geography,"<|begin_of_text|>SENTENCE:
+ La Sudpolusa Transverso (aŭ Aŭtovojo) estas vojstreko 1600 km longa ekde la stacio McMurdo ĝis la poluso sur la maro de Ross. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+ EXPLANATION:
+ The"
+Tiu ĉi kruta monto imponas super la norda bordo de Maĉupikĉuo kaj ĝi kutime estas fono en multnombraj fotoj de la ruinoj.,geography,geography,"<|begin_of_text|>SENTENCE:
+ Tiu ĉi kruta monto imponas super la norda bordo de Maĉupikĉuo kaj ĝi kutime estas fono en multnombraj fotoj de la ruinoj. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+The"
+"Encelado estas la plej reflekta objekto en la Suna sistemo, reflektanta ĉirkaŭ 90 elcentojn de la sunlumo, kiu atingas ĝin.",geography,science/technology,"<|begin_of_text|>SENTENCE:
+ Encelado estas la plej reflekta objekto en la Suna sistemo, reflektanta ĉirkaŭ 90 elcentojn de la sunlumo, kiu atingas ĝin. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science
+EXPLANATION:
+La SENTENCO"
+"Nenio alia videblas krom la sennuba, belega ĉielo supre kaj la multaj montoj ĉirkaŭe. Tre malmulte de tiu ĉi mondo videblas aŭ aŭdeblas el interno de la kaverno.",geography,geography,"<|begin_of_text|>SENTENCE:
+ Nenio alia videblas krom la sennuba, belega ĉielo supre kaj la multaj montoj ĉirkaŭe. Tre malmulte de tiu ĉi mondo videblas aŭ aŭdeblas el interno de la kaverno. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+"Nun pri Japanio. Japanio estas insula lando, tute kiel Britio.",geography,geography,"<|begin_of_text|>SENTENCE:
+ Nun pri Japanio. Japanio estas insula lando, tute kiel Britio. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+ REASONING SKILL"
+"En sia pinto, tropika ciklono Gonu, nomita laŭ sako el palmaj folioj en la lingvoj de Maldivoj, atingis daŭrajn ventojn de 240 kilometroj hore (149 mejloj hore).",geography,geography,"<|begin_of_text|>SENTENCE:
+ En sia pinto, tropika ciklono Gonu, nomita laŭ sako el palmaj folioj en la lingvoj de Maldivoj, atingis daŭrajn ventojn de 240 kilometroj hore (149 mejloj hore). 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+La"
+"Areo de Turkio, inkluzive de lagoj, okupas 783 562 kvadratajn kilometrojn (300 948 kv mejlojn), el kiuj 755 688 kvadrataj kilometroj (291 773 kv mejloj) estas en sud-okcidenta Azio kaj 23 764 kvadrataj kilometroj (9174 kv mejloj) en Eŭropo.",geography,geography,"<|begin_of_text|>SENTENCE:
+ Areo de Turkio, inkluzive de lagoj, okupas 783 562 kvadratajn kilometrojn (300 948 kv mejlojn), el kiuj 755 688 kvadrataj kilometroj (291 773 kv mejloj) estas en sud-okcidenta Azio kaj 23 764 kvadrataj kilometroj (9174 kv mejloj) en Eŭropo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+ EXPLANATION:
+ This"
+"Malkovritaj en 1819, Sudaj Ŝetlandaj Insuloj estas depostulataj de kelkaj landoj kaj ili havas la plejmulton da bazoj, dek ses aktivajn en 2020.",geography,geography,"<|begin_of_text|>SENTENCE:
+ Malkovritaj en 1819, Sudaj Ŝetlandaj Insuloj estas depostulataj de kelkaj landoj kaj ili havas la plejmulton da bazoj, dek ses aktivajn en 2020. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+"La urbo Apio, la ĉefurbo de Samoo, situas en la insulo Upolu kaj en ĝi loĝas nur iom malpli ol 40 000 homoj.",geography,geography,"<|begin_of_text|>SENTENCE:
+ La urbo Apio, la ĉefurbo de Samoo, situas en la insulo Upolu kaj en ĝi loĝas nur iom malpli ol 40 000 homoj. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+La"
+"Ĉar la ŝtormo estas for de alteriĝo, ankoraŭ malfacilas pritaksi eventualan efikon al Usono aŭ Karibio.",geography,geography,"<|begin_of_text|>SENTENCE:
+ Ĉar la ŝtormo estas for de alteriĝo, ankoraŭ malfacilas pritaksi eventualan efikon al Usono aŭ Karibio. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+Ĝi estas malpli dika sub la maroj kaj pli dika sub la montaroj.,geography,geography,"<|begin_of_text|>SENTENCE:
+ Ĝi estas malpli dika sub la maroj kaj pli dika sub la montaroj. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+"La arbaro tamen ne estas nur marĉejo el mangrovoj. En ĝi estas kelkaj el la lastaj rifuĝejoj de la imponaj ĝangaloj, kiuj iam kovris la gangan ebenaĵon.",geography,geography,"<|begin_of_text|>SENTENCE:
+ La arbaro tamen ne estas nur marĉejo el mangrovoj. En ĝi estas kelkaj el la lastaj rifuĝejoj de la imponaj ĝangaloj, kiuj iam kovris la gangan ebenaĵon. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+La"
+La internacia mapo pri tertremoj de la Usona Geologia Esplorinstanco ne montris tertremojn en Islando dum la antaŭa semajno.,geography,geography,"<|begin_of_text|>SENTENCE:
+ La internacia mapo pri tertremoj de la Usona Geologia Esplorinstanco ne montris tertremojn en Islando dum la antaŭa semajno. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+La"
+"Situanta ĉe la pinto de unu el la montoj norde de Mekko, la kaverno estas absolute izolita de la resto de la mondo.",geography,geography,"<|begin_of_text|>SENTENCE:
+ Situanta ĉe la pinto de unu el la montoj norde de Mekko, la kaverno estas absolute izolita de la resto de la mondo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+La"

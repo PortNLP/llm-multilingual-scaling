@@ -1,0 +1,3036 @@
+text,actual_category,predicted_category,generated_text
+"Tikrachikuyqa yapan hukniraq musuq genética nisqata, chay akllasqataq huñusqanmanta chinkachipun.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Tikrachikuyqa yapan hukniraq musuq genética nisqata, chay akllasqataq huñusqanmanta chinkachipun. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+This sentence"
+Bomba de fisiónqa llamkan kay principio nisqanwan kallpa quqmi kanan chaylla huk sunquta rikurichinanpaq achka protonniyuq neutronniyuqta ima.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Bomba de fisiónqa llamkan kay principio nisqanwan kallpa quqmi kanan chaylla huk sunquta rikurichinanpaq achka protonniyuq neutronniyuqta ima. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science
+REASONING: 
+This sentence is"
+Hukninqa kachkan iskay asninmanta: neutrones hinallataq protones.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Hukninqa kachkan iskay asninmanta: neutrones hinallataq protones. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science
+EXPLANATION:
+This sentence is about"
+Kayrayku zoomniyuq lentekuna rikurichinankupaq imakunatapas sumaqllataña yaqa distancia focalniyuq lentekunawan ruwasqa hina.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Kayrayku zoomniyuq lentekuna rikurichinankupaq imakunatapas sumaqllataña yaqa distancia focalniyuq lentekunawan ruwasqa hina. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+This sentence"
+"Proxis webpaq kuraqninkunan imaymanarayku: paykunaqa huk ñanman llapan trafico internetta apachinku, manan http nisqallachu.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Proxis webpaq kuraqninkunan imaymanarayku: paykunaqa huk ñanman llapan trafico internetta apachinku, manan http nisqallachu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+This sentence"
+"Diseño interactivo nisqaqa munan, yuyaykuna multimedia rurayninkunata atipanan, hamutaytataq siqiq niraqmanta yachachun.",science/technology,entertainment,"<|begin_of_text|>SENTENCE:
+ Diseño interactivo nisqaqa munan, yuyaykuna multimedia rurayninkunata atipanan, hamutaytataq siqiq niraqmanta yachachun. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+REASONING:
+This"
+"Kay rurayqa pasaqllan, ichaqa qillqayqa astawan qituspa tukurqan kullumanta rurasqa purichiq muyukunapi vagon nisqakunapi.",science/technology,travel,"<|begin_of_text|>SENTENCE:
+ Kay rurayqa pasaqllan, ichaqa qillqayqa astawan qituspa tukurqan kullumanta rurasqa purichiq muyukunapi vagon nisqakunapi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+REASONING:
+This sentence"
+"Llapan uywa taqakunapiqa kaymi hukmanta kimsa ima hatun urqu uywakuna, yaqapas kimsa chunka chinakunayuq uñachakunayuq ima.",science/technology,geography,"<|begin_of_text|>SENTENCE:
+ Llapan uywa taqakunapiqa kaymi hukmanta kimsa ima hatun urqu uywakuna, yaqapas kimsa chunka chinakunayuq uñachakunayuq ima. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+This"
+"Al nisqanku kallpayuq kaspa ciencia ficción kaqmantañapas, AI nisqankus rikurichimun sapaq yachayta informáticapi qawananpaq imayna kasqaykimanta, yachapakuymanta, chaynallataq yuyaychasqa ratapakunaykimantawan, huk llamkanapi.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Al nisqanku kallpayuq kaspa ciencia ficción kaqmantañapas, AI nisqankus rikurichimun sapaq yachayta informáticapi qawananpaq imayna kasqaykimanta, yachapakuymanta, chaynallataq yuyaychasqa ratapakunaykimantawan, huk llamkanapi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+REASONING:
+This question"
+Kay radio formato nisqa ima kasqanmanta (chunka iskayniyuqwan rakikunan hatun radio yupaykunata tarinapaq) chanta nisqa 3:2 kanqa.,science/technology,N/A,"<|begin_of_text|>SENTENCE:
+ Kay radio formato nisqa ima kasqanmanta (chunka iskayniyuqwan rakikunan hatun radio yupaykunata tarinapaq) chanta nisqa 3:2 kanqa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+ None of the above.  This is a"
+"Llapan nisqahina, huk teléfono satelital nisqa manam churakunmanchu apaykchana telefono nisqawan, wayraman qawarisqa kanan satélite nisqama qawachispa telefonunka waqarinapaq.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Llapan nisqahina, huk teléfono satelital nisqa manam churakunmanchu apaykchana telefono nisqawan, wayraman qawarisqa kanan satélite nisqama qawachispa telefonunka waqarinapaq. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+This sentence"
+"Vagunkunaq ñannin sanpallapi churasqa twla kullukuna, caballo chutaqkuna aswan utqayman purinankupaq chaynallataq achka qipiyuq apaytapas huk mana allin punchaw ñankunamantapas.",science/technology,travel,"<|begin_of_text|>SENTENCE:
+ Vagunkunaq ñannin sanpallapi churasqa twla kullukuna, caballo chutaqkuna aswan utqayman purinankupaq chaynallataq achka qipiyuq apaytapas huk mana allin punchaw ñankunamantapas. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+This sentence"
+"Quri imakasqanta runapa yachaqmi, qullqita antaqta ñawpa pachakunapi, chaykunapa tarikunmi pachapi may kasqanpi sanpa hinallan tarinapas ñawpa llamkanakunallawan.",science/technology,geography,"<|begin_of_text|>SENTENCE:
+ Quri imakasqanta runapa yachaqmi, qullqita antaqta ñawpa pachakunapi, chaykunapa tarikunmi pachapi may kasqanpi sanpa hinallan tarinapas ñawpa llamkanakunallawan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+This"
+Muyuqa muyuspan apaq tikrachirqa tiqsimuyuta imaymanakunapi. Ancha allin ñuqanchikpaq rurasqanqa utqayllaman mana sasachakuywan apariwasqanchikmi.,science/technology,geography,"<|begin_of_text|>SENTENCE:
+ Muyuqa muyuspan apaq tikrachirqa tiqsimuyuta imaymanakunapi. Ancha allin ñuqanchikpaq rurasqanqa utqayllaman mana sasachakuywan apariwasqanchikmi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+REASONING:
+This"
+"Llapan pantallata pakakunanpaqmi ruwakun, kaytaqa ancha asuykarunchay nispa sutichanku.",science/technology,geography,"<|begin_of_text|>SENTENCE:
+ Llapan pantallata pakakunanpaqmi ruwakun, kaytaqa ancha asuykarunchay nispa sutichanku. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+This"
+"Unuq ukunta suchuq alemania wanpukunaqa, U-Boats nispan sutichakurqan, Aleman runakunaqa chanintan wanpukunapi yakup ukunta suchurqanku.",science/technology,geography,"<|begin_of_text|>SENTENCE:
+ Unuq ukunta suchuq alemania wanpukunaqa, U-Boats nispan sutichakurqan, Aleman runakunaqa chanintan wanpukunapi yakup ukunta suchurqanku. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+This"
+"Maski kurku aychanpas tikrakunman, chaqsinchi kayninqa imankaqlla kanqa.",science/technology,geography,"<|begin_of_text|>SENTENCE:
+ Maski kurku aychanpas tikrakunman, chaqsinchi kayninqa imankaqlla kanqa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+This"
+Pay nirqan: “manan kanchu allin yuyay inaqa kanmanmi waykillay ima pachapipas.,science/technology,geography,"<|begin_of_text|>SENTENCE:
+ Pay nirqan: “manan kanchu allin yuyay inaqa kanmanmi waykillay ima pachapipas. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+This"
+"Huk sasachakuyninqa internetpi DVD nisqaman tukuchiypaq, sobreexploracion nisqam.",science/technology,entertainment,"<|begin_of_text|>SENTENCE:
+ Huk sasachakuyninqa internetpi DVD nisqaman tukuchiypaq, sobreexploracion nisqam. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+REASONING:
+This"
+"Huk taqanpi, huk runata tariwaqmi ima llullakusqantapas huchuy kuyuyninkunata allinta qawarispa.",science/technology,travel,"<|begin_of_text|>SENTENCE:
+ Huk taqanpi, huk runata tariwaqmi ima llullakusqantapas huchuy kuyuyninkunata allinta qawarispa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+This sentence"
+Quriwanqa imaymanatan llamkakunman. Uchuychakunallapin wankukunman.,science/technology,geography,"<|begin_of_text|>SENTENCE:
+ Quriwanqa imaymanatan llamkakunman. Uchuychakunallapin wankukunman. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+Q"
+"sistema de inteligencia artificial nisqas kunanqa yaqapa sapa kutinmi rurakun qullqiq purinankunapi, hanpikunaqpi, ingeniería nisqakunapi, awqaq suyukunapiwan, chaypaq rurakusqanpaqhina imaymana llamkanakuna software videojuego nisqakunapi, wasi computadorakunapi.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ sistema de inteligencia artificial nisqas kunanqa yaqapa sapa kutinmi rurakun qullqiq purinankunapi, hanpikunaqpi, ingeniería nisqakunapi, awqaq suyukunapiwan, chaypaq rurakusqanpaqhina imaymana llamkanakuna software videojuego nisqakunapi, wasi computadorakunapi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+This sentence"
+"Kunankama rurakusanraq, ichaqa chanin kaynin, relación de aspecto nisqan formatu sensor nisqamanta rikchaykunapi saqisqa kasqa cámaras digital nisqakunamanta.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Kunankama rurakusanraq, ichaqa chanin kaynin, relación de aspecto nisqan formatu sensor nisqamanta rikchaykunapi saqisqa kasqa cámaras digital nisqakunamanta. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+The sentence"
+"Kimsa patmin kamachiykuna, ancha sarunchasqa pasaqllataq manam chaninchasqa, sanpallan allintataq puririchin hinallataq allinpi wachuchin huk rikchayninpi.",science/technology,entertainment,"<|begin_of_text|>SENTENCE:
+ Kimsa patmin kamachiykuna, ancha sarunchasqa pasaqllataq manam chaninchasqa, sanpallan allintataq puririchin hinallataq allinpi wachuchin huk rikchayninpi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+REASONING:
+This"
+"Chayqa sutichanmi wakin dinosaurio nisqa uywakuna puruyuqmi karqan, chay willakuymi astawan chiqirichkan, ichaqa mana watuyta atinkuchu purunpa llinpinmanta.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Chayqa sutichanmi wakin dinosaurio nisqa uywakuna puruyuqmi karqan, chay willakuymi astawan chiqirichkan, ichaqa mana watuyta atinkuchu purunpa llinpinmanta. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+This sentence"
+"Imaynatan waqamuwanman lo nisqa llasaturakuta? Lo nisqa panpanpi kachkayman chayqa, tiqsi muyuq llasa kaynin aswan chusaq pisitaraq llasayman.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Imaynatan waqamuwanman lo nisqa llasaturakuta? Lo nisqa panpanpi kachkayman chayqa, tiqsi muyuq llasa kaynin aswan chusaq pisitaraq llasayman. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+This sentence"
+"NextGen nisqankus, FAA nisqanman hinaqa, mana harkakunmanchu avionkuna pawananmanta taksa riykunallata, waqaychanankupaq achka waranqa combustible urpukunata sapa wata, chaynallataq pisiyachinapaq qusnichiykunata.",science/technology,travel,"<|begin_of_text|>SENTENCE:
+ NextGen nisqankus, FAA nisqanman hinaqa, mana harkakunmanchu avionkuna pawananmanta taksa riykunallata, waqaychanankupaq achka waranqa combustible urpukunata sapa wata, chaynallataq pisiyachinapaq qusnichiykunata. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+This sentence"
+"Neurologico ima kasqanpas kaqtan qawarichin kuskiypaq rimanakuypi huntachispa cognicion nisqapi. Chayrayku, kuskiy taqata pisiyachin inaqa kapaqpi tukuchin.",science/technology,health,"<|begin_of_text|>SENTENCE:
+ Neurologico ima kasqanpas kaqtan qawarichin kuskiypaq rimanakuypi huntachispa cognicion nisqapi. Chayrayku, kuskiy taqata pisiyachin inaqa kapaqpi tukuchin. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health
+EXPLANATION:
+This sentence is"
+"2 ura rimanakuypi ninku kay “Kunanmi Apple telefonokunata hukmanta ruramunqa, kunanmi ñawpaq willakuyta rurasun nispa”.",science/technology,politics,"<|begin_of_text|>SENTENCE:
+ 2 ura rimanakuypi ninku kay “Kunanmi Apple telefonokunata hukmanta ruramunqa, kunanmi ñawpaq willakuyta rurasun nispa”. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+  -politics
+ REASONING:
+"
+Asuspa lintikuna mana chanin aypaykunaqa sasachakuykuna hayka kasqankuman hina may karuman kaqtinpas aswan hatunmi aswan chanin aypayllaman hinallaqa.,science/technology,geography,"<|begin_of_text|>SENTENCE:
+ Asuspa lintikuna mana chanin aypaykunaqa sasachakuykuna hayka kasqankuman hina may karuman kaqtinpas aswan hatunmi aswan chanin aypayllaman hinallaqa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+REASONING:
+This"
+"Yaqapas control television nisqaman rikchakuq, controlador nisqaqa iskay qawaq hinan televisionpa ruraqninpi churasqa triangular nisqapaq kasqanpi qawarichiq tridimencional nisqa pachapi.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Yaqapas control television nisqaman rikchakuq, controlador nisqaqa iskay qawaq hinan televisionpa ruraqninpi churasqa triangular nisqapaq kasqanpi qawarichiq tridimencional nisqa pachapi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Yaq"
+"Amawtakunas ninku kay uywapa purunmanta, castaño paru llimpiyuq hina kasqanmanta hanay lawninpi, urayninwan llampu llimpiyuqlla utaq qillmuriq llimpiyuq.",science/technology,geography,"<|begin_of_text|>SENTENCE:
+ Amawtakunas ninku kay uywapa purunmanta, castaño paru llimpiyuq hina kasqanmanta hanay lawninpi, urayninwan llampu llimpiyuqlla utaq qillmuriq llimpiyuq. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+This"
+"Hatun yachaywasimanta kuskiy maskaqkuna ninku, Iskaynin paykunapura yanantin cristales ruwanankupaq función rurunmanta wichqakunanpaq compuesto kutichiyta ruwanku.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Hatun yachaywasimanta kuskiy maskaqkuna ninku, Iskaynin paykunapura yanantin cristales ruwanankupaq función rurunmanta wichqakunanpaq compuesto kutichiyta ruwanku. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+This sentence"
+"Kayqa qun yaqa tawa pata resoluciontan huk 35 mm negativumanta astawanraq (3136 mm2, 864 chinpaman).",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Kayqa qun yaqa tawa pata resoluciontan huk 35 mm negativumanta astawanraq (3136 mm2, 864 chinpaman). 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+This sentence"
+"Añaychasqan kanku Europa llaqtapiqa tinkiykuna cablepi fibra óptica uran quchawan, transmisión satelital banda anchapiwan, Groenlandia llaqtaqa allin tinkisqan kachkan yaqapas 93% llaqtapi internityuqmi kanku.",science/technology,geography,"<|begin_of_text|>SENTENCE:
+ Añaychasqan kanku Europa llaqtapiqa tinkiykuna cablepi fibra óptica uran quchawan, transmisión satelital banda anchapiwan, Groenlandia llaqtaqa allin tinkisqan kachkan yaqapas 93% llaqtapi internityuqmi kanku. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+This"
+"Huk kaqnin kay llamkanakunaq chanin kancharisqa kay ñiqichanapi kasqa Google Translate nisqa, munasqayki rimay tikrayta manam tinkisqa nisqallawan uraykachispa tukuyta simikunaq yachanapaq qillqakuna munasqata.",science/technology,N/A,"<|begin_of_text|>SENTENCE:
+ Huk kaqnin kay llamkanakunaq chanin kancharisqa kay ñiqichanapi kasqa Google Translate nisqa, munasqayki rimay tikrayta manam tinkisqa nisqallawan uraykachispa tukuyta simikunaq yachanapaq qillqakuna munasqata. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+None of the above.  This is a"
+"Iman kaq estructura molecular nisqakuqmi kan, mapas kanman waksipas, yakupas, sinchiyasqapas.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Iman kaq estructura molecular nisqakuqmi kan, mapas kanman waksipas, yakupas, sinchiyasqapas. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Iman"
+"Grabación video nisqamanta rurayqa allin hatun tarinakunaman kusqa karqan microexpresion nisqakunapi rurana, uyakuna kuyuchiy ratuchalla kuyuq.",science/technology,entertainment,"<|begin_of_text|>SENTENCE:
+ Grabación video nisqamanta rurayqa allin hatun tarinakunaman kusqa karqan microexpresion nisqakunapi rurana, uyakuna kuyuchiy ratuchalla kuyuq. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+REASONING:
+This"
+Runakunami rurachkarqanku lentes nisqata allin qawanankupaq waranqa watantinpi.,science/technology,geography,"<|begin_of_text|>SENTENCE:
+ Runakunami rurachkarqanku lentes nisqata allin qawanankupaq waranqa watantinpi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+This"
+"Ichaqa, manam chayllachu, yachaykuna tikra tikrarispa ruray huk mallikuymi imaymata hipótesis nisqakunata tukuchinapaq, tapunakunata rurayqa qawaykunatapa allintan pusqan ima investigación científica nisqata.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Ichaqa, manam chayllachu, yachaykuna tikra tikrarispa ruray huk mallikuymi imaymata hipótesis nisqakunata tukuchinapaq, tapunakunata rurayqa qawaykunatapa allintan pusqan ima investigación científica nisqata. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+The sentence"
+"Tukunapaqtaq, kullumanta rurasqa purichiq muyuq rantin qispillumanta rurasqawan. 1767, ñawpaq purichina aswan huntasqapi chay watapi churasqa karqan.",science/technology,geography,"<|begin_of_text|>SENTENCE:
+ Tukunapaqtaq, kullumanta rurasqa purichiq muyuq rantin qispillumanta rurasqawan. 1767, ñawpaq purichina aswan huntasqapi chay watapi churasqa karqan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+This"
+"Allin kaptin, aswan kuraqninpi taygeta nisqakunaqa allinmi kanku qayanapaq huk kitikunata, wakinkunaqa allin qayanapaq ima taqapaqpas suyukunapi.",science/technology,geography,"<|begin_of_text|>SENTENCE:
+ Allin kaptin, aswan kuraqninpi taygeta nisqakunaqa allinmi kanku qayanapaq huk kitikunata, wakinkunaqa allin qayanapaq ima taqapaqpas suyukunapi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+This"
+"Telescopio kuraqninpi musuq kuskiyninpi hatarichisqa kanku purunkunapi, allin pachayuq kasqankunapi.",science/technology,geography,"<|begin_of_text|>SENTENCE:
+ Telescopio kuraqninpi musuq kuskiyninpi hatarichisqa kanku purunkunapi, allin pachayuq kasqankunapi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+REASONING:
+This"
+Awqas yakupa hawallanpi tensión superficial rayku.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Awqas yakupa hawallanpi tensión superficial rayku. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+This sentence"
+"35mm yupaypi qillqachanaqa pantachikunmi, 36 mm de ancho por 24 mm altuman.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ 35mm yupaypi qillqachanaqa pantachikunmi, 36 mm de ancho por 24 mm altuman. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+This sentence"
+"Chayqa, células nisqakunaqa chanin saphihina ñuqñupiwan kanku kawsaq yachay atipanapaq, chaykamataq sutichakun “kawsaypa imaymana sapinkuna”.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Chayqa, células nisqakunaqa chanin saphihina ñuqñupiwan kanku kawsaq yachay atipanapaq, chaykamataq sutichakun “kawsaypa imaymana sapinkuna”. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Chay"
+"RPV quqkuna runaq (sapaq llika virtual) chaykunan kanku aswan ayqiy, kawsay pinqay hinataq taqay rantiypipas IP- geo.",science/technology,geography,"<|begin_of_text|>SENTENCE:
+ RPV quqkuna runaq (sapaq llika virtual) chaykunan kanku aswan ayqiy, kawsay pinqay hinataq taqay rantiypipas IP- geo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+RP"
+"Hanaq pacha qawana kitiqa takllan karqan, giroscopio chinkachkaptinpas, manaraq chanin kamachi rurakuchkaptin puchukayninkama.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Hanaq pacha qawana kitiqa takllan karqan, giroscopio chinkachkaptinpas, manaraq chanin kamachi rurakuchkaptin puchukayninkama. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+This sentence"
+"Kay hina yuyayniyuq runakunaqa chuya hamutayniyuqsi, allinta puni yuyanku, allichanku sasachakuykunata chaynallataq llamkanku ancha yachayniyuq yupaychaykunapi.",science/technology,geography,"<|begin_of_text|>SENTENCE:
+ Kay hina yuyayniyuq runakunaqa chuya hamutayniyuqsi, allinta puni yuyanku, allichanku sasachakuykunata chaynallataq llamkanku ancha yachayniyuq yupaychaykunapi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+REASONING:
+This"
+"Ocelotes nisqa uywakunamanqa, huchuy uywachakunata anchata mikuyta munaku. Kusillukunata hapinku, machaqwaykunata, hukuchakunata, atispaqa pisqukunatawan. Llapan hapisqan uywakunaqa aswan huchuymi Ocelote nisqamantaqa.",science/technology,geography,"<|begin_of_text|>SENTENCE:
+ Ocelotes nisqa uywakunamanqa, huchuy uywachakunata anchata mikuyta munaku. Kusillukunata hapinku, machaqwaykunata, hukuchakunata, atispaqa pisqukunatawan. Llapan hapisqan uywakunaqa aswan huchuymi Ocelote nisqamantaqa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+REASONING:
+This"
+"Wakin camarakunas pelicula ruwanapaq uchuy formato nisqakunas 6 por 6 cm nisqa formatonwansi ruwanku, allin chiqaptaqa huk negativo de 56 por 56 mm nisqanwan.",science/technology,N/A,"<|begin_of_text|>SENTENCE:
+ Wakin camarakunas pelicula ruwanapaq uchuy formato nisqakunas 6 por 6 cm nisqa formatonwansi ruwanku, allin chiqaptaqa huk negativo de 56 por 56 mm nisqanwan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- None of the above / Otro ("
+"Illaq runakunatas willarinku chaylla qawanankupaq ima mana allin pachapi kaqta may kasqankupi, ima illayninta qiparichinanmanta ima.",travel,geography,"<|begin_of_text|>SENTENCE:
+ Illaq runakunatas willarinku chaylla qawanankupaq ima mana allin pachapi kaqta may kasqankupi, ima illayninta qiparichinanmanta ima. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+This"
+"Gondolakunaqa kikin sayanan wasimantan lluqsin sapanka sayapi(mauq chinpanpi) ch'isaqnintinmi, aswanpas Jakar kitiq antinman chusaqkunaqa 06:30 y 07:30 pachatan lluqsinku.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Gondolakunaqa kikin sayanan wasimantan lluqsin sapanka sayapi(mauq chinpanpi) ch'isaqnintinmi, aswanpas Jakar kitiq antinman chusaqkunaqa 06:30 y 07:30 pachatan lluqsinku. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+This sentence"
+"Ciclistakunaman allin kakuytam qun, manataqmi ayqichiq hinachu chaki watayimakunanmanta.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Ciclistakunaman allin kakuytam qun, manataqmi ayqichiq hinachu chaki watayimakunanmanta. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+REASONING:
+This sentence"
+Yaqapas San Petersburgo Rusia suyupi llapan Báltico Crucerukunaqa allin wichaq samaytan mastarinku.,travel,geography,"<|begin_of_text|>SENTENCE:
+ Yaqapas San Petersburgo Rusia suyupi llapan Báltico Crucerukunaqa allin wichaq samaytan mastarinku. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+Y"
+"Willakuysi nisqanman hinaqa illaqkunaqa manam suwakunachu, mana kamachiyta kasuspanku chimpanku, mana quchapa kamasqankunataqa rantipakunkuchu, mana imayuqkunachu mañakunankupaq hina, utaq mana hukkunata llumpayta llamkachiqkunachu kikinkupaq.",travel,geography,"<|begin_of_text|>SENTENCE:
+ Willakuysi nisqanman hinaqa illaqkunaqa manam suwakunachu, mana kamachiyta kasuspanku chimpanku, mana quchapa kamasqankunataqa rantipakunkuchu, mana imayuqkunachu mañakunankupaq hina, utaq mana hukkunata llumpayta llamkachiqkunachu kikinkupaq. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+This"
+Imaymanakunata qawarinayki manaraq chusasqapa hinallataq chusasqaspañapas may kitimanña rispapas.,travel,geography,"<|begin_of_text|>SENTENCE:
+ Imaymanakunata qawarinayki manaraq chusasqapa hinallataq chusasqaspañapas may kitimanña rispapas. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+This"
+"Rupay punchaw, illaqkuna yanqakunata qawarinkuman muspaspa hina yakuta hina qawarinku (hukkunatapas).",travel,geography,"<|begin_of_text|>SENTENCE:
+ Rupay punchaw, illaqkuna yanqakunata qawarinkuman muspaspa hina yakuta hina qawarinku (hukkunatapas). 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+This"
+"Warmakunayuq ayllukuna manam qawarichiy aranwaq hinan, ichaqa wakin qurpachay wasikuna sapankapaq huk kitita qunku.",travel,geography,"<|begin_of_text|>SENTENCE:
+ Warmakunayuq ayllukuna manam qawarichiy aranwaq hinan, ichaqa wakin qurpachay wasikuna sapankapaq huk kitita qunku. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+REASONING:
+This"
+"Qawarinapaq, castillos nisqakuna watukuyqa Loira uray qiswapi, Rhine nisqapi, utaq crucero nisqaman allin kitikunapi Danubio nisqapi, Erie yaku purinan tuqupi wanpupi puririy.",travel,geography,"<|begin_of_text|>SENTENCE:
+ Qawarinapaq, castillos nisqakuna watukuyqa Loira uray qiswapi, Rhine nisqapi, utaq crucero nisqaman allin kitikunapi Danubio nisqapi, Erie yaku purinan tuqupi wanpupi puririy. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+This"
+Allinmi imayna munasqayki ruwawaq pasaje waqaychaqman anchuykuy.,travel,travel,"<|begin_of_text|>SENTENCE:
+ Allinmi imayna munasqayki ruwawaq pasaje waqaychaqman anchuykuy. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+This sentence"
+Couchsurfing Qulla puquy killapi 2004 watapi arikurqan chanta Casey Fenton programador computadoramanta huk chikan pawaqpi Islandia suyuman tarirqan hinaqa manam maypipas qipakunan kasqachu.,travel,travel,"<|begin_of_text|>SENTENCE:
+ Couchsurfing Qulla puquy killapi 2004 watapi arikurqan chanta Casey Fenton programador computadoramanta huk chikan pawaqpi Islandia suyuman tarirqan hinaqa manam maypipas qipakunan kasqachu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+ REASONING:
+ This sentence"
+Yachapakuqpa visansi imaymana mañakuykunayuqraq ruwayniyuqkunawanraq turistakuna utaq rantikuypi puriqkunamantaqa.,travel,travel,"<|begin_of_text|>SENTENCE:
+ Yachapakuqpa visansi imaymana mañakuykunayuqraq ruwayniyuqkunawanraq turistakuna utaq rantikuypi puriqkunamantaqa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+REASONING:
+This sentence"
+Sapanka suyupas kanmi apulli simiyuq hinaqa kananmi kallmankuna utqaypi pirwapi kanan.,travel,geography,"<|begin_of_text|>SENTENCE:
+ Sapanka suyupas kanmi apulli simiyuq hinaqa kananmi kallmankuna utqaypi pirwapi kanan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+REASONING SKILL"
+"Yaqapas llapan agenciakunan kicharisqan kachkanku chaskinankupaqqa llapan kaqlla waqaychanakunata, achka agenciakunan imaymana partikular chusaqkunapi, rangu qullqikunayuq utaq chayanapiwan akllakunku.",travel,geography,"<|begin_of_text|>SENTENCE:
+ Yaqapas llapan agenciakunan kicharisqan kachkanku chaskinankupaqqa llapan kaqlla waqaychanakunata, achka agenciakunan imaymana partikular chusaqkunapi, rangu qullqikunayuq utaq chayanapiwan akllakunku. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+This"
+Chusaqkuna uywap unquyninkunata tarisaqkumanmi ichaqa manam suyunkupi riqsisqa hinachu.,travel,geography,"<|begin_of_text|>SENTENCE:
+ Chusaqkuna uywap unquyninkunata tarisaqkumanmi ichaqa manam suyunkupi riqsisqa hinachu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+REASONING:
+This"
+"Chincha larumanpa rinayki hatun Santuario Nuestra Señora de Fátima (Santuario) chayman qawariq, tiqsi muyupi riqsisqa imaymana hatun quchamanta rikuriq pacha.",travel,geography,"<|begin_of_text|>SENTENCE:
+ Chincha larumanpa rinayki hatun Santuario Nuestra Señora de Fátima (Santuario) chayman qawariq, tiqsi muyupi riqsisqa imaymana hatun quchamanta rikuriq pacha. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+This"
+Boda-boda (mototaxi) nisqatas hapiwaq Goma llaqtapi apachikunaykipaq. Chanin qullqintaq 500 Francos Congoleños nisqallas chaykunallaman apachikunapaqqa.,travel,travel,"<|begin_of_text|>SENTENCE:
+ Boda-boda (mototaxi) nisqatas hapiwaq Goma llaqtapi apachikunaykipaq. Chanin qullqintaq 500 Francos Congoleños nisqallas chaykunallaman apachikunapaqqa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+REASONING:
+This sentence"
+Pachap kawsaynin munaqkunapaqqa wayraq pukuyninwan kusan Sea To Sky nisqa kiklluta purinan.,travel,travel,"<|begin_of_text|>SENTENCE:
+ Pachap kawsaynin munaqkunapaqqa wayraq pukuyninwan kusan Sea To Sky nisqa kiklluta purinan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+This sentence"
+"Huk chakipi safari (sutichasqallataq “sacha sachanta”, ñan “puriy safari” utaq “puriy”) ñankunapi puriymi, pachakunapi utaq punchawnintintapas.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Huk chakipi safari (sutichasqallataq “sacha sachanta”, ñan “puriy safari” utaq “puriy”) ñankunapi puriymi, pachakunapi utaq punchawnintintapas. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+This sentence"
+Utqaylla ruranaqa karqan qipita ina suchirqunallan. Palaqkunaq kamachiy apusiminqa manan chaskinmanchu qipillataqa.,travel,travel,"<|begin_of_text|>SENTENCE:
+ Utqaylla ruranaqa karqan qipita ina suchirqunallan. Palaqkunaq kamachiy apusiminqa manan chaskinmanchu qipillataqa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+This sentence"
+yaqapas 300 yapaptinku 1300 vagonkunaman ima matipakuy wayayachinapaq.,travel,travel,"<|begin_of_text|>SENTENCE:
+ yaqapas 300 yapaptinku 1300 vagonkunaman ima matipakuy wayayachinapaq. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+travel
+EXPLANATION:
+This sentence is"
+"Taksa warmayuq ayllukunam anchata hina yachapakunanku, ichaqa huk punchaw hawa wayrapi kaspanku anchapas uña wawayuqkuna taksa warmayuqkunapas.",travel,geography,"<|begin_of_text|>SENTENCE:
+ Taksa warmayuq ayllukunam anchata hina yachapakunanku, ichaqa huk punchaw hawa wayrapi kaspanku anchapas uña wawayuqkuna taksa warmayuqkunapas. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+This"
+"Pipas carruta apaspa wichay utaq chiri urqukunapi riptin, ritiwan, chullunkuwan utaq llapiya chiriwan yachanmi.",travel,geography,"<|begin_of_text|>SENTENCE:
+ Pipas carruta apaspa wichay utaq chiri urqukunapi riptin, ritiwan, chullunkuwan utaq llapiya chiriwan yachanmi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+This"
+"Kunan punchawkunaqa, Tombuctú wakchayasqa llaqtan, ichaqa sutinmi hawa suyukunamanta chusaq runakunapa qawarinanpaq, hinallataq aeropuertoyuq.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Kunan punchawkunaqa, Tombuctú wakchayasqa llaqtan, ichaqa sutinmi hawa suyukunamanta chusaq runakunapa qawarinanpaq, hinallataq aeropuertoyuq. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+ REASONING:
+ This question"
+"Wayra wayrapiqa, sinchi riti ritiyamunman ratuchalla harkayukuq.",travel,geography,"<|begin_of_text|>SENTENCE:
+ Wayra wayrapiqa, sinchi riti ritiyamunman ratuchalla harkayukuq. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+This"
+"Munaspa muyuyta lliw tiqsimuyupa uray lawninpiqa, kamallas mayqin pawaywan illanaykipaq chaynallataq mayman, mana ancha achka transoceánica rinapaq kasqan rayku.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Munaspa muyuyta lliw tiqsimuyupa uray lawninpiqa, kamallas mayqin pawaywan illanaykipaq chaynallataq mayman, mana ancha achka transoceánica rinapaq kasqan rayku. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+This sentence"
+"Emirates, Etihad Airways, Qatar Airways y Turkish Airlines aerolínea nisqakunahina anchatapuni mastarinku yanapayninkuna África suyuman chaymantapas Áfricaq hatun llaqtakunanman chinpachiyta qunku allin aypaq qullqillapaq aerolíneas Europeas chaykunahina.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Emirates, Etihad Airways, Qatar Airways y Turkish Airlines aerolínea nisqakunahina anchatapuni mastarinku yanapayninkuna África suyuman chaymantapas Áfricaq hatun llaqtakunanman chinpachiyta qunku allin aypaq qullqillapaq aerolíneas Europeas chaykunahina. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+ REASONING:
+ This question"
+"Manam churakushanchu ima transporte nisqa yapaytapa chaymantapa panpa tren nisqakuna manam sayanqakuchu Wembley nisqapi, chaymantapa automóviles nisqa sayananpi chaymantapa sayanapaq churaykunapaq manataq kichasqachu panpapi llankanapaqina.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Manam churakushanchu ima transporte nisqa yapaytapa chaymantapa panpa tren nisqakuna manam sayanqakuchu Wembley nisqapi, chaymantapa automóviles nisqa sayananpi chaymantapa sayanapaq churaykunapaq manataq kichasqachu panpapi llankanapaqina. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+TRANSLATION:
+If you"
+"Lliwlla, hawa suyupi tiyayqa unay pacha, hinaqa mañakunqachá huk visa nisqata ñawpaqtaraq.",travel,geography,"<|begin_of_text|>SENTENCE:
+ Lliwlla, hawa suyupi tiyayqa unay pacha, hinaqa mañakunqachá huk visa nisqata ñawpaqtaraq. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+This"
+"Sapanka trenmi Metroplus qipinayuy inallataq metro, chaypin autocards nisqaqa qipanpipunin kachkan, ciudad de cabo sispallanpi.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Sapanka trenmi Metroplus qipinayuy inallataq metro, chaypin autocards nisqaqa qipanpipunin kachkan, ciudad de cabo sispallanpi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+REASONING:
+This sentence"
+"llapan llaqta ukupi imatapas ruranku, gondola nisqakunapi qipichikuspa chusanku. Lliw runakunan chusanakunamanta pinqanku.",travel,travel,"<|begin_of_text|>SENTENCE:
+ llapan llaqta ukupi imatapas ruranku, gondola nisqakunapi qipichikuspa chusanku. Lliw runakunan chusanakunamanta pinqanku. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+This sentence"
+"Llapan panpakuna pisi llaqtachasqalla kaspa, chayqa, kanchaynin contaminación manan huk sasachakuychu, chaynisqapas chaskakunamanta kusiyta qhawawaqmi.",travel,geography,"<|begin_of_text|>SENTENCE:
+ Llapan panpakuna pisi llaqtachasqalla kaspa, chayqa, kanchaynin contaminación manan huk sasachakuychu, chaynisqapas chaskakunamanta kusiyta qhawawaqmi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+This"
+Ima kaqkunapas Visa nisqaqa sapanka suyupi manan kaqllachu hinaqa unanchasqa may suyu hamusqanmanta.,travel,geography,"<|begin_of_text|>SENTENCE:
+ Ima kaqkunapas Visa nisqaqa sapanka suyupi manan kaqllachu hinaqa unanchasqa may suyu hamusqanmanta. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+REASONING:
+The"
+"Yachasqanchikmanhinaqa, manam allinchu kachkan pisipachiy mashkayqa qatukuq tiyanakunapaq utaq qapaqkunapaqpas paway haykuypi A kaqmanta B kaqkama.",travel,geography,"<|begin_of_text|>SENTENCE:
+ Yachasqanchikmanhinaqa, manam allinchu kachkan pisipachiy mashkayqa qatukuq tiyanakunapaq utaq qapaqkunapaqpas paway haykuypi A kaqmanta B kaqkama. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+This"
+Pantanachiy willakuq wachichiyqa llaqtaq atiyninmi chaytan hawa llaqtamanta chusaqkuna yachayta munanku.,travel,travel,"<|begin_of_text|>SENTENCE:
+ Pantanachiy willakuq wachichiyqa llaqtaq atiyninmi chaytan hawa llaqtamanta chusaqkuna yachayta munanku. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+REASONING:
+This sentence"
+Kay pawayqa manam chayllachu sichus urin Pacifico quchata chaymantapa kunti costa América del Sur nisqapita saqyta munanki chayqa. (urayman riy),travel,geography,"<|begin_of_text|>SENTENCE:
+ Kay pawayqa manam chayllachu sichus urin Pacifico quchata chaymantapa kunti costa América del Sur nisqapita saqyta munanki chayqa. (urayman riy) 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+TRANSLATION:
+Kay"
+"San Franciscoqa ruwamusqa huk allin hatun tawa kuchuyuq wasita turístico nisqata achka qurpachakuna wasikunayuqta, mikuna wasikunata, chanin huñunakuspa rimanakuykunapaq ima.",travel,travel,"<|begin_of_text|>SENTENCE:
+ San Franciscoqa ruwamusqa huk allin hatun tawa kuchuyuq wasita turístico nisqata achka qurpachakuna wasikunayuqta, mikuna wasikunata, chanin huñunakuspa rimanakuykunapaq ima. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+REASONING:
+This question"
+"Tukllaki kaspa puriwaq chayqa allin chaninmi riqsichikunaykipaqqa, ichaqa manas quyta quwallaqchu.",travel,geography,"<|begin_of_text|>SENTENCE:
+ Tukllaki kaspa puriwaq chayqa allin chaninmi riqsichikunaykipaqqa, ichaqa manas quyta quwallaqchu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+This"
+Runaqa mana panrayta ñawpachakun allin uyariyninta allinmi kanku hinallataqmi chusaqkuna wasinkuman kutipuqkunapaq.,travel,geography,"<|begin_of_text|>SENTENCE:
+ Runaqa mana panrayta ñawpachakun allin uyariyninta allinmi kanku hinallataqmi chusaqkuna wasinkuman kutipuqkunapaq. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+This"
+"Ama qunqankichu visas nisqaq yapakuq chaninkunata, lluqsinapaq impuestunkunata, transporte terrestre nisqata, imaymanakunapiwan, llapan wak África suyuq hawan llaqtakunata.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Ama qunqankichu visas nisqaq yapakuq chaninkunata, lluqsinapaq impuestunkunata, transporte terrestre nisqata, imaymanakunapiwan, llapan wak África suyuq hawan llaqtakunata. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+REASONING:
+This sentence"
+Bishkekpi achka yachaqkuna tumpasqaku uray lawpi qapariywan mañakuqkunaman mana kamachikuqniyuq kasqankumanta.,politics,geography,"<|begin_of_text|>SENTENCE:
+ Bishkekpi achka yachaqkuna tumpasqaku uray lawpi qapariywan mañakuqkunaman mana kamachikuqniyuq kasqankumanta. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+This"
+"Kunan Bélgicapa llaqtankuna kaqmi ñawpaqpi Luxemburgopa llaqtankuna karqa, ichaqa Belgicamantañam revolución Belga qipamanqa 1830 watapi.",politics,geography,"<|begin_of_text|>SENTENCE:
+ Kunan Bélgicapa llaqtankuna kaqmi ñawpaqpi Luxemburgopa llaqtankuna karqa, ichaqa Belgicamantañam revolución Belga qipamanqa 1830 watapi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+REASONING:
+This"
+"1988 watamanta, akllanakuykuna chuyachasqan kanan, akllaqkunapa qawaqkunapaqpa allintan rikunanku manam ima qillqa tiqipa kananchu hanpara patapi akllanakuy qallariptin nitaq yapakunmanpachu, llapanmi kanan allin yupaqa.",politics,N/A,"<|begin_of_text|>SENTENCE:
+ 1988 watamanta, akllanakuykuna chuyachasqan kanan, akllaqkunapa qawaqkunapaqpa allintan rikunanku manam ima qillqa tiqipa kananchu hanpara patapi akllanakuy qallariptin nitaq yapakunmanpachu, llapanmi kanan allin yupaqa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- None of the above 
+ REASONING"
+"Julia Gillard, ñawpaq imaynanpapas ministra kaqsi nisqa federal akllaypaq puririrypi 2010 watapi, yuyayniypim Australia rikurinanpaq República nisqankupi Reina Isabel II nisqankupa reinadon tukuptin.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Julia Gillard, ñawpaq imaynanpapas ministra kaqsi nisqa federal akllaypaq puririrypi 2010 watapi, yuyayniypim Australia rikurinanpaq República nisqankupi Reina Isabel II nisqankupa reinadon tukuptin. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+DEFINITION:
+Julia"
+"Irlandes qullana kamachiq nichkan utqayman parlamentaria nisqa huntakuchun, ima kasqanpas allin paskarinapaq.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Irlandes qullana kamachiq nichkan utqayman parlamentaria nisqa huntakuchun, ima kasqanpas allin paskarinapaq. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+REASONING:
+This question"
+"Kamachikuqkunapa suyumanta rimayninkunam hinallaraq hukmanyachin Armenia, Azerbaiyán llaqtakunapa tupanakuyninta.",politics,geography,"<|begin_of_text|>SENTENCE:
+ Kamachikuqkunapa suyumanta rimayninkunam hinallaraq hukmanyachin Armenia, Azerbaiyán llaqtakunapa tupanakuyninta. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+REASONING:
+This"
+"Primer ministro Stephen Harper nimusqa kamachikuq “Ley de Aire Limpio” nisqata apachimunqa yachaq runakunaman llapan partidos nisqakunata hukmanta qhawarikunanpaq, iskayñiqi ñawinchayninta ñawpaqtaraq, 25 minutos nisqapi huñunakuy tukuyta atichay punchawmanta, umalliq NDP, Jack Layton nisqawan PMO nisqapi.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Primer ministro Stephen Harper nimusqa kamachikuq “Ley de Aire Limpio” nisqata apachimunqa yachaq runakunaman llapan partidos nisqakunata hukmanta qhawarikunanpaq, iskayñiqi ñawinchayninta ñawpaqtaraq, 25 minutos nisqapi huñunakuy tukuyta atichay punchawmanta, umalliq NDP, Jack Layton nisqawan PMO nisqapi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+ REASONING:
+ This sentence"
+"Pasaq killapis, Poloniapi hatun qapariywan mañakuykuna kasqa ACTA nisqankuta Polonia qillqasqan rayku, chaysi Polonia suyu kamachikuqta apasqa ama ñataqmanta rimasqanku kamachikuyta ruwachinanpaq, kunankunallapiqa.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Pasaq killapis, Poloniapi hatun qapariywan mañakuykuna kasqa ACTA nisqankuta Polonia qillqasqan rayku, chaysi Polonia suyu kamachikuqta apasqa ama ñataqmanta rimasqanku kamachikuyta ruwachinanpaq, kunankunallapiqa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+DEFINITION:
+ACTA"
+Ancha kasukunapaq hina willakuykunas taksariq willakuykuna rikuchimuq imayna suyupa kamachikuynin kayninmanta.,politics,geography,"<|begin_of_text|>SENTENCE:
+ Ancha kasukunapaq hina willakuykunas taksariq willakuykuna rikuchimuq imayna suyupa kamachikuynin kayninmanta. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+This"
+"1976 watapi elecciones nisqapachapi, paymi taripachisqa Carterta política exterior nisqapi, chaymantaqa huntachikusqa Seguridad Nacional (NSA) nisqa taripaqhina, 1977 watamanta 1981 watakama Henry Kissingerta qatipachispa.",politics,politics,"<|begin_of_text|>SENTENCE:
+ 1976 watapi elecciones nisqapachapi, paymi taripachisqa Carterta política exterior nisqapi, chaymantaqa huntachikusqa Seguridad Nacional (NSA) nisqa taripaqhina, 1977 watamanta 1981 watakama Henry Kissingerta qatipachispa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+ REASONING SKILL:
+"
+"Turquía suyupa ruranan qawarinata, hapisqa ISIS awqaqkunamanta, willarikuy nisqamanhina, Europea ayllukunaqa manam munankuchu ayllunkuman kutipuytaqa.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Turquía suyupa ruranan qawarinata, hapisqa ISIS awqaqkunamanta, willarikuy nisqamanhina, Europea ayllukunaqa manam munankuchu ayllunkuman kutipuytaqa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+REASONING:
+This sentence"
+"Ichaqa, kay wakichanakuna yaqa tutamanta punchawman mana chaninña kapunku, 800.000 awqakunakama Union Soviética Armada Roja nisqamanta yaykurisqayku chantapas Bielorruso Ucranainotapas frentekuna nisqata paqarisqayku chanta anti sukuyunaqa hapikuypa Polonia llaqtakunamanta llumpispa Riga Rimanakuyta, Mana chaqwanakuy Sovieticota-Poloniatapas Allin rimanakuy, huk suyukunamanta, iskay suyukunamanta hinallataq achka suyukunamantapas.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Ichaqa, kay wakichanakuna yaqa tutamanta punchawman mana chaninña kapunku, 800.000 awqakunakama Union Soviética Armada Roja nisqamanta yaykurisqayku chantapas Bielorruso Ucranainotapas frentekuna nisqata paqarisqayku chanta anti sukuyunaqa hapikuypa Polonia llaqtakunamanta llumpispa Riga Rimanakuyta, Mana chaqwanakuy Sovieticota-Poloniatapas Allin rimanakuy, huk suyukunamanta, iskay suyukunamanta hinallataq achka suyukunamantapas. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+politics
+EXPLANATION:
+The sentence"
+"Ruwaynin tukuyta, HJR-3 nisqa hukmanta taqwisqa kanqa hamuq legislatura electa nisqawan 2015 utaq 2016 watapi ruwakuypi kananpaq.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Ruwaynin tukuyta, HJR-3 nisqa hukmanta taqwisqa kanqa hamuq legislatura electa nisqawan 2015 utaq 2016 watapi ruwakuypi kananpaq. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+HJR"
+"Ñawpaqmanqa 4 punchaw Anta sitwa killapi Congresupi uyakusqankumanta, huk pichaqmi makiwan qillqasqa kasqa, Congreso John Hancock Umalliq, Charles Thomson secretariopiwan qillqasqa kasqa, chaymantas John Dunlap imprentaman apachisqa kasqa.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Ñawpaqmanqa 4 punchaw Anta sitwa killapi Congresupi uyakusqankumanta, huk pichaqmi makiwan qillqasqa kasqa, Congreso John Hancock Umalliq, Charles Thomson secretariopiwan qillqasqa kasqa, chaymantas John Dunlap imprentaman apachisqa kasqa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+DEFINITION:
+Ñaw"
+"Chunkahukniyuq qipachallanman (11:00), sayariqkuna wichqarqanku chinchayman riq ñankunata, Whitehallpi.",politics,travel,"<|begin_of_text|>SENTENCE:
+ Chunkahukniyuq qipachallanman (11:00), sayariqkuna wichqarqanku chinchayman riq ñankunata, Whitehallpi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+REASONING:
+This sentence"
+"Ichaqa, Inti raymi killapi 1956 watapi, Krushchevpa sunqurimayninkuna mallikuymanmi churakunku Poloniapi rawiykuna kaptin, maypi llapan llamkaq runakuna wañuyta qallarinku mikuna pisiparuptin chaymantapas qullqinkuta pisipachinku, huk hatun kutipakuypi comunismo nisqapaqwan.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Ichaqa, Inti raymi killapi 1956 watapi, Krushchevpa sunqurimayninkuna mallikuymanmi churakunku Poloniapi rawiykuna kaptin, maypi llapan llamkaq runakuna wañuyta qallarinku mikuna pisiparuptin chaymantapas qullqinkuta pisipachinku, huk hatun kutipakuypi comunismo nisqapaqwan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+Icha"
+"40 watan kanan karqan, chiqaqpin ichaqa qispikunaman karqan, kamachisqa wallakunawan, maqanakuy panpakunapi Africa chiqanmanta Asia chiqankama, Afganistán, Cuba hinallataq huk kitikunapas.",politics,geography,"<|begin_of_text|>SENTENCE:
+ 40 watan kanan karqan, chiqaqpin ichaqa qispikunaman karqan, kamachisqa wallakunawan, maqanakuy panpakunapi Africa chiqanmanta Asia chiqankama, Afganistán, Cuba hinallataq huk kitikunapas. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+ REASONING:
+ This"
+"Qipa killata, suyu qullanap kamachisqan nirqan CEP lluqsipunanpaq ñawpachayuqta suyu musuq qullana chiklluyman haykunanpaq.",politics,geography,"<|begin_of_text|>SENTENCE:
+ Qipa killata, suyu qullanap kamachisqan nirqan CEP lluqsipunanpaq ñawpachayuqta suyu musuq qullana chiklluyman haykunanpaq. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+This"
+"Willakuykunaq nisqanman hina Jerusalén suyuq hamuq pachaman kasqantan willarikun, iskaynin willka suyuq kasqantan, hinallataq Jordan qichwaq sasachakuyninta qawarichin.",politics,geography,"<|begin_of_text|>SENTENCE:
+ Willakuykunaq nisqanman hina Jerusalén suyuq hamuq pachaman kasqantan willarikun, iskaynin willka suyuq kasqantan, hinallataq Jordan qichwaq sasachakuyninta qawarichin. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+ REASONING:
+ This"
+Manan atiyniyuqpaschu karqan leyes fiscales aranceles suyukunapiwan mana chaninchanpaqqa.,politics,politics,"<|begin_of_text|>SENTENCE:
+ Manan atiyniyuqpaschu karqan leyes fiscales aranceles suyukunapiwan mana chaninchanpaqqa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+This sentence"
+Akllanakuypi Francia apusimiqa chanintan qawarichin chay akllay ruraykunata.,politics,geography,"<|begin_of_text|>SENTENCE:
+ Akllanakuypi Francia apusimiqa chanintan qawarichin chay akllay ruraykunata. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+REASONING:
+This"
+"Chawpi mitapi akllanakuy chinkachisqa simana tukuyta, Bush rimamusqa uyariqkunapaq Asiapi qatuyta hatunyachinamanta.",politics,travel,"<|begin_of_text|>SENTENCE:
+ Chawpi mitapi akllanakuy chinkachisqa simana tukuyta, Bush rimamusqa uyariqkunapaq Asiapi qatuyta hatunyachinamanta. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+REASONING:
+This question"
+"Miniypa allinmi karun, walla wisakunaman manam imapas apachiy hinallataq manam walla wisakuna kaqpas, ichaqa kay ruray manam chaninchu huk suyukunamanta chaninchasqata kay qipa siglo nisqakunata.",politics,travel,"<|begin_of_text|>SENTENCE:
+ Miniypa allinmi karun, walla wisakunaman manam imapas apachiy hinallataq manam walla wisakuna kaqpas, ichaqa kay ruray manam chaninchu huk suyukunamanta chaninchasqata kay qipa siglo nisqakunata. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+This sentence"
+Moldava iskaynin taqa yapamanta rimankunku imayna manaña kawsaykuna rimanakuypi mana allin kasqanwanpas.,politics,geography,"<|begin_of_text|>SENTENCE:
+ Moldava iskaynin taqa yapamanta rimankunku imayna manaña kawsaykuna rimanakuypi mana allin kasqanwanpas. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+REASONING:
+This"
+"Waminkakunaq pusarisqan, Texas runakunata amachakunankupaq runaq allin kananpaq.",politics,geography,"<|begin_of_text|>SENTENCE:
+ Waminkakunaq pusarisqan, Texas runakunata amachakunankupaq runaq allin kananpaq. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+REASONING SKILL"
+Liberal kamikuyqa reconstrucción kallpachayman sayachawpichakusqa concesión contratos nisqapaq musuqmanta ruwachiyninpi Washingtonpa chayraq qallariqkunapaq.,politics,politics,"<|begin_of_text|>SENTENCE:
+ Liberal kamikuyqa reconstrucción kallpachayman sayachawpichakusqa concesión contratos nisqapaq musuqmanta ruwachiyninpi Washingtonpa chayraq qallariqkunapaq. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+TRANSLATION:
+The liberal"
+"1.400 tapusqa runakunamanta akllanakuy federales 2010 nisqa ñawpaqninmanta, mana Australia, república nisqaman wakiyta munaqkunawan, yaqapas 8 pachak patawan wiñasqaku 2008 watamanta.",politics,geography,"<|begin_of_text|>SENTENCE:
+ 1.400 tapusqa runakunamanta akllanakuy federales 2010 nisqa ñawpaqninmanta, mana Australia, república nisqaman wakiyta munaqkunawan, yaqapas 8 pachak patawan wiñasqaku 2008 watamanta. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: geography 
+-REASONING: This sentence is"
+"Diplomaticokunaqa niranku, chay constitución Afganapiqa tarisqaku llulla llullata chaymi manañan allinchu kanman iskay kutita ruwanapaqa.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Diplomaticokunaqa niranku, chay constitución Afganapiqa tarisqaku llulla llullata chaymi manañan allinchu kanman iskay kutita ruwanapaqa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+REASONING:
+This sentence"
+"Puchukay willakuy chayamuptin, Gingrich munayta rimarin Santoummanta, ichaqa millayta riman Romney runamanta, chaypa sutinpin imaymana willakuykuna wachirimun Gingrichpaq.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Puchukay willakuy chayamuptin, Gingrich munayta rimarin Santoummanta, ichaqa millayta riman Romney runamanta, chaypa sutinpin imaymana willakuykuna wachirimun Gingrichpaq. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+DEFINITION:
+Puch"
+Pichqa ñiqi huntasqa eventos nisqamantaqa (CEP ingles simipi pisiyachisqa) Martelly chiqamanta tawa watapi.,politics,politics,"<|begin_of_text|>SENTENCE:
+ Pichqa ñiqi huntasqa eventos nisqamantaqa (CEP ingles simipi pisiyachisqa) Martelly chiqamanta tawa watapi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+REASONING:
+This question"
+"Huk medallista olimpico nisqa waytanman 100m 200m hinataq kimsa kutita runapura Commonwealth pukllaykunata tikrakuspa, ichaqa mañakuyninkupi allin kayninqa iskayaypi kachkaran.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Huk medallista olimpico nisqa waytanman 100m 200m hinataq kimsa kutita runapura Commonwealth pukllaykunata tikrakuspa, ichaqa mañakuyninkupi allin kayninqa iskayaypi kachkaran. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+ REASONING:
+ This sentence"
+"Tiqsimuyuntinpi lliw atipaq karqan, Saito karqan ferderacion de judo nisqa pukllaypi Japon suyumanta qullanan karan wañusqan pachapi.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Tiqsimuyuntinpi lliw atipaq karqan, Saito karqan ferderacion de judo nisqa pukllaypi Japon suyumanta qullanan karan wañusqan pachapi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+This sentence"
+Comité Olimpico nisqa kunan punchay akllayta huntarin Berlin nisqa huñunakuypi rimanankupaq. Rugby Union inallataq Golf chaykunan akllarisqa pichqantin pukllaykunapi .,sports,sports,"<|begin_of_text|>SENTENCE:
+ Comité Olimpico nisqa kunan punchay akllayta huntarin Berlin nisqa huñunakuypi rimanankupaq. Rugby Union inallataq Golf chaykunan akllarisqa pichqantin pukllaykunapi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+REASONING:
+This question"
+aswan hatun atipanakuy watantinpi qhapaq raymi killapi aparikun polo cañitaspa pukllay kanchankunapi.,sports,geography,"<|begin_of_text|>SENTENCE:
+ aswan hatun atipanakuy watantinpi qhapaq raymi killapi aparikun polo cañitaspa pukllay kanchankunapi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+REASONING:
+The"
+"Catalan mama llaqtaman astakusqanmanta pacha, vidal pukllarqan 49 pukllaypi club nisqawan.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Catalan mama llaqtaman astakusqanmanta pacha, vidal pukllarqan 49 pukllaypi club nisqawan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+REASONING:
+This question"
+"Allin kawsanapaq kallpayuq kaspas, allinpaq yakuta upyarispa, chaynallataq allinta hamutaspa imayna mikusqankunamanta imas yanapanman pukllaqkunata allinllayta atipaykunapi chaynallataq pukllasqankumanta kusirikuyninku wiñarinanpaq.",sports,geography,"<|begin_of_text|>SENTENCE:
+ Allin kawsanapaq kallpayuq kaspas, allinpaq yakuta upyarispa, chaynallataq allinta hamutaspa imayna mikusqankunamanta imas yanapanman pukllaqkunata allinllayta atipaykunapi chaynallataq pukllasqankumanta kusirikuyninku wiñarinanpaq. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+This"
+"Kimsañiqin, Hamlinmi iskay chunka chusukuna qipapi kachkan, ichaqa Bowyerpa pichqapi. Kahne Truex Jr. pichqapi suqtapiwan 2.220 chaymantam 2.207 chusukunawan kachkanku.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Kimsañiqin, Hamlinmi iskay chunka chusukuna qipapi kachkan, ichaqa Bowyerpa pichqapi. Kahne Truex Jr. pichqapi suqtapiwan 2.220 chaymantam 2.207 chusukunawan kachkanku. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+ REASONING:
+ This sentence"
+Nadalmi recordtaqa umallin 7-2 canadiense atillchawan.,sports,sports,"<|begin_of_text|>SENTENCE:
+ Nadalmi recordtaqa umallin 7-2 canadiense atillchawan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+This sentence"
+Tutachallamanta Covercianupi Italiapi Jarqueqa pretemporada entrenamientunta ruwachkaran. Ñawpaq partiduwan Intichaw punchawpaq Bolonia llaqtapi samana wasip qutunpi qurpachakusqa.,sports,travel,"<|begin_of_text|>SENTENCE:
+ Tutachallamanta Covercianupi Italiapi Jarqueqa pretemporada entrenamientunta ruwachkaran. Ñawpaq partiduwan Intichaw punchawpaq Bolonia llaqtapi samana wasip qutunpi qurpachakusqa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+REASONING SKILL:
+"
+Mana imapi apaymi ima pukllaypipas manam runayuq kananta niran ichapas mana kaqta hina qawarispa hinaqa wisqasqa punkuyuq pukllayta qawarichin mana pukllaq huñu qatiqkunallawan.,sports,geography,"<|begin_of_text|>SENTENCE:
+ Mana imapi apaymi ima pukllaypipas manam runayuq kananta niran ichapas mana kaqta hina qawarispa hinaqa wisqasqa punkuyuq pukllayta qawarichin mana pukllaq huñu qatiqkunallawan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+REASONING:
+This"
+Tommy Dremer nirqan: “killa karqan ñawpaq reina tukuyninpi. Ñawpaq tecnico nisqa. Killa wañurqan iskay killap tutanpi. Aswan chullalla pay inalla. Chila warmi.”,sports,N/A,"<|begin_of_text|>SENTENCE:
+ Tommy Dremer nirqan: “killa karqan ñawpaq reina tukuyninpi. Ñawpaq tecnico nisqa. Killa wañurqan iskay killap tutanpi. Aswan chullalla pay inalla. Chila warmi.” 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+ None of the above. This sentence is in"
+Polaco llaqtamasikuna ñawsa esquiador nisqa Maciej Krezel hinaqa pusariq Anna Ogarzynska chunka kimsayuq ñiqipi qiparanku manchay Hatun-G. Jong Seork Park Corea del Sur suyumanta iskay chunka tawayuq manchay hatun G- tiyasqa runakunapi.,sports,travel,"<|begin_of_text|>SENTENCE:
+ Polaco llaqtamasikuna ñawsa esquiador nisqa Maciej Krezel hinaqa pusariq Anna Ogarzynska chunka kimsayuq ñiqipi qiparanku manchay Hatun-G. Jong Seork Park Corea del Sur suyumanta iskay chunka tawayuq manchay hatun G- tiyasqa runakunapi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+ REASONING:
+ This question"
+"Polo pukllaypaq willakuykuna rantikunku haykunapaq rapichata, Argentina Polo huñusqata tapuy.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Polo pukllaypaq willakuykuna rantikunku haykunapaq rapichata, Argentina Polo huñusqata tapuy. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+This sentence"
+"10:00 a.m. paqariytan qallariran pukllaykuna allin pachawan, chawpi paqarinmanta iphu para kasqanta utqayllaman pichasqa nirapun, 7 rugby pukllaypaq allin punchawmi karqan.",sports,sports,"<|begin_of_text|>SENTENCE:
+ 10:00 a.m. paqariytan qallariran pukllaykuna allin pachawan, chawpi paqarinmanta iphu para kasqanta utqayllaman pichasqa nirapun, 7 rugby pukllaypaq allin punchawmi karqan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+ REASONING:
+ This sentence"
+Arly Velásquez Méxicomanta chunka pichqayuq patapis tukuspa Super-G nisqapi tiyasqa qhari. Adam Hall Nueva Zelandamanta isqun patapi tukusqa qhari Super-G nisqa taqapi.,sports,sports,"<|begin_of_text|>SENTENCE:
+ Arly Velásquez Méxicomanta chunka pichqayuq patapis tukuspa Super-G nisqapi tiyasqa qhari. Adam Hall Nueva Zelandamanta isqun patapi tukusqa qhari Super-G nisqa taqapi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+ TRANSLATION:
+Arly"
+"Pukllana yupay tukuyta Ellis Park nisqapi Johannesburgo kitiwan hamuq simanata kanqa, Springboks nisqakuna Australiaman tupachinakuqtin.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Pukllana yupay tukuyta Ellis Park nisqapi Johannesburgo kitiwan hamuq simanata kanqa, Springboks nisqakuna Australiaman tupachinakuqtin. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+This sentence"
+"Allinmi aswan hatun ñankunaman chakillapi ruwanki, ichaqa manam llasaq qipiyuqwan sapa kutilla hatun esquipa utqhaynin pawanki.",sports,geography,"<|begin_of_text|>SENTENCE:
+ Allinmi aswan hatun ñankunaman chakillapi ruwanki, ichaqa manam llasaq qipiyuqwan sapa kutilla hatun esquipa utqhaynin pawanki. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+This"
+"Qanchis chusu qhipanmanta, Johnson 2.243 nisqawan iskayñiqi kasqa.",sports,travel,"<|begin_of_text|>SENTENCE:
+ Qanchis chusu qhipanmanta, Johnson 2.243 nisqawan iskayñiqi kasqa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+REASONING:
+This sentence"
+"Barranquismoqa ukhun hatun mayuman rikunantan rin, chaki utaq huntasqa yakuwan kanman.",sports,geography,"<|begin_of_text|>SENTENCE:
+ Barranquismoqa ukhun hatun mayuman rikunantan rin, chaki utaq huntasqa yakuwan kanman. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+This"
+"Robin Uthappa qallarikuyninta atiparqan kuraq yupaywan, 70 pawayta 41 sinkullawan, 11 tawakunata, hinallataq 2 suqtata.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Robin Uthappa qallarikuyninta atiparqan kuraq yupaywan, 70 pawayta 41 sinkullawan, 11 tawakunata, hinallataq 2 suqtata. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+Huk"
+"Chiraw mitapi pukllaykuna aswan allin riqsisqa Chinchay kitikunapi, Italiano llaqtamasikunataq atipanakunku huk suyukunwan hinallataq olimpico atipanakuypi.",sports,geography,"<|begin_of_text|>SENTENCE:
+ Chiraw mitapi pukllaykuna aswan allin riqsisqa Chinchay kitikunapi, Italiano llaqtamasikunataq atipanakunku huk suyukunwan hinallataq olimpico atipanakuypi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+ REASONING:
+ This"
+"Maroochydores tukusqa chakana hanay umanpi, Noosapa ñawpaqninpi suqta yupayniyuq iskay kaq pacha llaliypi.",sports,geography,"<|begin_of_text|>SENTENCE:
+ Maroochydores tukusqa chakana hanay umanpi, Noosapa ñawpaqninpi suqta yupayniyuq iskay kaq pacha llaliypi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+REASONING:
+This"
+"Michael Schumacher nisqankus, carreranta tukusqa Alonsopa qipallanta, suspensión mana allinña kasqan rayku achka carrera atipanakuykunapi kasqan rayku.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Michael Schumacher nisqankus, carreranta tukusqa Alonsopa qipallanta, suspensión mana allinña kasqan rayku achka carrera atipanakuykunapi kasqan rayku. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+Michael Sch"
+"Chanin waykusqa mikuyqa manan sapallanqa pukllaqkunata kallpachanmanchu, ichaqa qiminmanmi chanin kawsayninta.",sports,geography,"<|begin_of_text|>SENTENCE:
+ Chanin waykusqa mikuyqa manan sapallanqa pukllaqkunata kallpachanmanchu, ichaqa qiminmanmi chanin kawsayninta. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: - geography 
+REASONING:
+This question requires"
+"Manan millpuyta atisqachu llapan hanpinkunata nanaynin alliyananpaq, pukllaykunapi manam kananchu.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Manan millpuyta atisqachu llapan hanpinkunata nanaynin alliyananpaq, pukllaykunapi manam kananchu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+This sentence"
+Yachay maskaykuna tarisqa waqmikunami qarikunamanta kanku iskaykama MS nisqawan hapichikuywan.,health,science/technology,"<|begin_of_text|>SENTENCE:
+ Yachay maskaykuna tarisqa waqmikunami qarikunamanta kanku iskaykama MS nisqawan hapichikuywan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+This sentence"
+"Mana allin aya unukunaqa supay imaymana mana allinkunawan kanman metanolwanpas, hina kaqtinqa wañuytan aypachikunman utaq pisinpipas.",health,science/technology,"<|begin_of_text|>SENTENCE:
+ Mana allin aya unukunaqa supay imaymana mana allinkunawan kanman metanolwanpas, hina kaqtinqa wañuytan aypachikunman utaq pisinpipas. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+This sentence"
+"Llumpay manchakuypaq rikurimuqmi, manas llumpay llakimantachu nitaq manchakuymantachu, hapirisqa kasqa simanapi huñunakuy wirpu kuyuchina llamkanaman.",health,geography,"<|begin_of_text|>SENTENCE:
+ Llumpay manchakuypaq rikurimuqmi, manas llumpay llakimantachu nitaq manchakuymantachu, hapirisqa kasqa simanapi huñunakuy wirpu kuyuchina llamkanaman. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+This"
+"Runayuq automovil achkanpi automovilniyuq, hinallataq apan hinaspa takanachin carreterakunapi, hinaqa musuq imayna apaykunata paqarichin allin kawsaypaq kirisqa kurpukuna hanpinapaq.",health,travel,"<|begin_of_text|>SENTENCE:
+ Runayuq automovil achkanpi automovilniyuq, hinallataq apan hinaspa takanachin carreterakunapi, hinaqa musuq imayna apaykunata paqarichin allin kawsaypaq kirisqa kurpukuna hanpinapaq. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+DEFINITION:
+Runay"
+"Yupaychasqa kuskiqkuna ninkun isku unquy manaraq rikhurichkaptinqa kaymanmi apanman, surqan unquyqa, VIH hinallataq chukchu unquypas hinallataq aswan pisi qulliyuq suyukuna, ñuñu isku unquyniyuq kankuman yaqapas kusqan atipaq suyukunamantaqa.",health,health,"<|begin_of_text|>SENTENCE:
+ Yupaychasqa kuskiqkuna ninkun isku unquy manaraq rikhurichkaptinqa kaymanmi apanman, surqan unquyqa, VIH hinallataq chukchu unquypas hinallataq aswan pisi qulliyuq suyukuna, ñuñu isku unquyniyuq kankuman yaqapas kusqan atipaq suyukunamantaqa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health
+ REASONING:
+ This question requires"
+"Dr. Ehud Ur, yachachiq hanpimanta Dalhosie suntur wasipi, nueva escocia llaqtapi inallataq umalliq Division Clinica nisqamanta willarikamun kuskiyqa chayraqmi qallariyninpi kachkan nispa.",health,health,"<|begin_of_text|>SENTENCE:
+ Dr. Ehud Ur, yachachiq hanpimanta Dalhosie suntur wasipi, nueva escocia llaqtapi inallataq umalliq Division Clinica nisqamanta willarikamun kuskiyqa chayraqmi qallariyninpi kachkan nispa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: health 
+-REASONING: This sentence is"
+"Kay warmakunaqa yaqapas imaymana sasachakuykunaman winakunku, “ichaqa mana allin ruwaykunaman haykuspa maqanakunku umalliqkunatapas allquchachispa” ñuqtunta estimulanankupaq, ichaqa manan métodos normaleskunawanqqa estimulakunchu.",health,N/A,"<|begin_of_text|>SENTENCE:
+ Kay warmakunaqa yaqapas imaymana sasachakuykunaman winakunku, “ichaqa mana allin ruwaykunaman haykuspa maqanakunku umalliqkunatapas allquchachispa” ñuqtunta estimulanankupaq, ichaqa manan métodos normaleskunawanqqa estimulakunchu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- None of the above options. This is"
+runakunapaqqa manan allinchu kanman wayra apasqan unuta samaqtinkuqa mama qochamanta hatarimuptin wayra apasqanwan.,health,travel,"<|begin_of_text|>SENTENCE:
+ runakunapaqqa manan allinchu kanman wayra apasqan unuta samaqtinkuqa mama qochamanta hatarimuptin wayra apasqanwan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+This sentence"
+Wakin runakuna ninku allin chanin musquykunata imaymana artificialmente nisqakunawan rurasqata aswan saykuchikuymi kanman.,health,science/technology,"<|begin_of_text|>SENTENCE:
+ Wakin runakuna ninku allin chanin musquykunata imaymana artificialmente nisqakunawan rurasqata aswan saykuchikuymi kanman. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+This sentence"
+"Potro hampichikusqa rikranta pukllasqanpi, ichaqa chayllas kutiykusqa.",health,sports,"<|begin_of_text|>SENTENCE:
+ Potro hampichikusqa rikranta pukllasqanpi, ichaqa chayllas kutiykusqa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+This sentence"
+"Hinallataq, mana rurayninqa aswan sasachakuymi: llakikuy wiñaymanta, mana allin mikusqapi chitiyay tukuyninpitaq wañuy.",health,geography,"<|begin_of_text|>SENTENCE:
+ Hinallataq, mana rurayninqa aswan sasachakuymi: llakikuy wiñaymanta, mana allin mikusqapi chitiyay tukuyninpitaq wañuy. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+This"
+"Ámsterdam llaqtapa llankaqninkuna Museo de Ana Frank nisqapiwan, chiqaychamunku chay sachapa kallanpawan unqusqa kasqan chaymantapas runapa qali kayninta manchachimusan, ichaqa nimusqaku urmayamuypiña kasarqan nispa.",health,geography,"<|begin_of_text|>SENTENCE:
+ Ámsterdam llaqtapa llankaqninkuna Museo de Ana Frank nisqapiwan, chiqaychamunku chay sachapa kallanpawan unqusqa kasqan chaymantapas runapa qali kayninta manchachimusan, ichaqa nimusqaku urmayamuypiña kasarqan nispa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+Á"
+"Hanpina wasimi imayna ruwanakunata qatichisqa manam unquykuna mirarinanpaq, hinallataq taqasqaku unqurkunata huk unquqkunamanta manam paykunapura unquchikunankupaq.",health,science/technology,"<|begin_of_text|>SENTENCE:
+ Hanpina wasimi imayna ruwanakunata qatichisqa manam unquykuna mirarinanpaq, hinallataq taqasqaku unqurkunata huk unquqkunamanta manam paykunapura unquchikunankupaq. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+This sentence"
+"Haitiano kuskachaq chiklluq wasi nirqan taqasqa yachaykuna ruwasqanta Nepali huñu thaj kawsay qimiqta ONU kasqanta, mana yachaspa, Haiti llaqtata aparan unquyman.",health,politics,"<|begin_of_text|>SENTENCE:
+ Haitiano kuskachaq chiklluq wasi nirqan taqasqa yachaykuna ruwasqanta Nepali huñu thaj kawsay qimiqta ONU kasqanta, mana yachaspa, Haiti llaqtata aparan unquyman. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+REASONING:
+This sentence"
+"Qanllapi miraq unquykuna, utaq piña uywakuna runata kiriq utaq mañuchiqkuna, manam millay uywa nisqachu riqsikun.",health,travel,"<|begin_of_text|>SENTENCE:
+ Qanllapi miraq unquykuna, utaq piña uywakuna runata kiriq utaq mañuchiqkuna, manam millay uywa nisqachu riqsikun. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Qan"
+"TDA unquyniyuq wawakunaqa manan chanintachu yuyayta atipanku, munayku ruwaypi, qillqapi, llinphisqa rikchay qhawayninpi ima, chaymi sasachakuynin.",health,entertainment,"<|begin_of_text|>SENTENCE:
+ TDA unquyniyuq wawakunaqa manan chanintachu yuyayta atipanku, munayku ruwaypi, qillqapi, llinphisqa rikchay qhawayninpi ima, chaymi sasachakuynin. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+This"
+"Watapis, unquq runa 10-15 hukkuna kuska kaqninkunawan unquchinman.",health,travel,"<|begin_of_text|>SENTENCE:
+ Watapis, unquq runa 10-15 hukkuna kuska kaqninkunawan unquchinman. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+REASONING:
+This sentence"
+"Atipanakuy tukuptinsi, unquqkuna hampina wasiman apasqankumantaña, yaqa 40 huk wichqasqakuna puchusqanmantas patiollapi qipasqa kasqaku mana kutiyta munaspanku may kasqankunaman.",health,N/A,"<|begin_of_text|>SENTENCE:
+ Atipanakuy tukuptinsi, unquqkuna hampina wasiman apasqankumantaña, yaqa 40 huk wichqasqakuna puchusqanmantas patiollapi qipasqa kasqaku mana kutiyta munaspanku may kasqankunaman. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+ None of the above, this is Quech"
+"Hanpikamayuqkunas huñuyta qallarisqaku emperador Augusto kamachisqanmanta, hinallataq ñawpaq kaq Romano hanpikamayuqkunata huñurinku awqanakuy tukuyta ruwachinankupaq.",health,politics,"<|begin_of_text|>SENTENCE:
+ Hanpikamayuqkunas huñuyta qallarisqaku emperador Augusto kamachisqanmanta, hinallataq ñawpaq kaq Romano hanpikamayuqkunata huñurinku awqanakuy tukuyta ruwachinankupaq. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+REASONING:
+This sentence"
+"Ichaqa, apaq umanpi kirisqa karqan.",health,geography,"<|begin_of_text|>SENTENCE:
+ Ichaqa, apaq umanpi kirisqa karqan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+TRANSLATION:
+The"
+"“Kunanqa 4 killayuq hukuchakunayuqmi kayku manataq diabético nisqachu qanku, ñawpaqtaqa karqanku diabéticos nisqa”, nimun.",health,health,"<|begin_of_text|>SENTENCE:
+ “Kunanqa 4 killayuq hukuchakunayuqmi kayku manataq diabético nisqachu qanku, ñawpaqtaqa karqanku diabéticos nisqa”, nimun. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health
+REASONING:
+This sentence is"
+"Ukun ñiqichaspa manam utqhayman rikuchikunmanmi. Nanaykunami, aqtupaspa hina chayta utqayman riqsinallapaqmi ima unquyniyuq kachkan.",health,geography,"<|begin_of_text|>SENTENCE:
+ Ukun ñiqichaspa manam utqhayman rikuchikunmanmi. Nanaykunami, aqtupaspa hina chayta utqayman riqsinallapaqmi ima unquyniyuq kachkan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+REASONING:
+This"
+"Ruruqkunahinaqa, takiqkunas pitanku canavista escenario patapi, teatropitaq runakunatapas munachishanku.",entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Ruruqkunahinaqa, takiqkunas pitanku canavista escenario patapi, teatropitaq runakunatapas munachishanku. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+This"
+Aerosmith tatichiran puririyninta aswanraq qepa kaqkunata.,entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Aerosmith tatichiran puririyninta aswanraq qepa kaqkunata. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+The"
+"May ima kasqanpa qayllallampi munaspa kaytaqa, ancha ñawpaqtas chayamunayki, taki qayllallampi karpachakunaykipaq.",entertainment,geography,"<|begin_of_text|>SENTENCE:
+ May ima kasqanpa qayllallampi munaspa kaytaqa, ancha ñawpaqtas chayamunayki, taki qayllallampi karpachakunaykipaq. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+This"
+Kanmi imaymana formatos de película nisqakuna llapan qipa watakunapi apaykachasqanku. KayLa chawpichasqa pelikula 35 mm nisqaqa (negativo 36 kaqmanta 24 mm kaqpaq) allin riqsisqa.,entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Kanmi imaymana formatos de película nisqakuna llapan qipa watakunapi apaykachasqanku. KayLa chawpichasqa pelikula 35 mm nisqaqa (negativo 36 kaqmanta 24 mm kaqpaq) allin riqsisqa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: ENTERTAINMENT
+ REASONING: 
+"
+"Ima sanpa ruraypi kachkanki hinapas, Disney mana ninmi: boleto nisqakunaqa manan ukman qunapaqchu, nispa nin.",entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Ima sanpa ruraypi kachkanki hinapas, Disney mana ninmi: boleto nisqakunaqa manan ukman qunapaqchu, nispa nin. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+REASONING:
+This"
+Sapa episodio del programa nisqa huk ruwayllapi chaninchakun huk liwru específico nisqallapi chaymantapas chay ruwayta t'aqwirinman imaymana wiñay kawsaymantapacha.,entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Sapa episodio del programa nisqa huk ruwayllapi chaninchakun huk liwru específico nisqallapi chaymantapas chay ruwayta t'aqwirinman imaymana wiñay kawsaymantapacha. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+REASONING SKILL"
+"Achka pantalla television hatun qawana nisqakunan hatarichisqa karqanku achka kitikunapi Romapi, llaqta runa qawananpaq ima rurasqatapas haywarikuyta.",entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Achka pantalla television hatun qawana nisqakunan hatarichisqa karqanku achka kitikunapi Romapi, llaqta runa qawananpaq ima rurasqatapas haywarikuyta. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment 
+REASONING:
+This"
+"Sofocles hinallataq Aristofanes chanin yarawiqkunan kanku llaqtaq munanan, rurayninkutaqmi tiqsimuyuntinpi riqsisqa.",entertainment,geography,"<|begin_of_text|>SENTENCE:
+ Sofocles hinallataq Aristofanes chanin yarawiqkunan kanku llaqtaq munanan, rurayninkutaqmi tiqsimuyuntinpi riqsisqa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+REASONING:
+This"
+Sapanka programa nisqa qunan chanin willarikuyta liwrukunamanta llapan warmakuna yachana taqinkuman riptinku.,entertainment,science/technology,"<|begin_of_text|>SENTENCE:
+ Sapanka programa nisqa qunan chanin willarikuyta liwrukunamanta llapan warmakuna yachana taqinkuman riptinku. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Sap"
+"Acordeon nisqapi, aswan allinta uyarichikunapaq, fuelles nisqawanmi allinta puqaspa hinallataq utqayllawan ruranki.",entertainment,geography,"<|begin_of_text|>SENTENCE:
+ Acordeon nisqapi, aswan allinta uyarichikunapaq, fuelles nisqawanmi allinta puqaspa hinallataq utqayllawan ruranki. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+This"
+Tuta pikchukunata rikuwaq chaymantapa qawanayki chinchallapi manaraq raymipa qallarisqaptin.,entertainment,geography,"<|begin_of_text|>SENTENCE:
+ Tuta pikchukunata rikuwaq chaymantapa qawanayki chinchallapi manaraq raymipa qallarisqaptin. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+This"
+"Qawarichiykunaqa chanintan rikuchin uywakuna sipiymanta mikunapaq, challwaymanta, rikchay uqariymanta, pisqukuna qawaymanta ima; inallataq kawsaq pachamanta willakuykunata.",entertainment,geography,"<|begin_of_text|>SENTENCE:
+ Qawarichiykunaqa chanintan rikuchin uywakuna sipiymanta mikunapaq, challwaymanta, rikchay uqariymanta, pisqukuna qawaymanta ima; inallataq kawsaq pachamanta willakuykunata. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+Q"
+"Esfingemi ukunpi telonmantahina, willakuqwan hatun willanamanta churakun.",entertainment,geography,"<|begin_of_text|>SENTENCE:
+ Esfingemi ukunpi telonmantahina, willakuqwan hatun willanamanta churakun. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+E"
+"Pasaqlla, mikuna munachikuyniyuq kanku, upyanakunata kusiskuytapas qurpachakuqkunata kusisqa kachinankupaq, hinaqa mana lluqsinankupaq.",entertainment,geography,"<|begin_of_text|>SENTENCE:
+ Pasaqlla, mikuna munachikuyniyuq kanku, upyanakunata kusiskuytapas qurpachakuqkunata kusisqa kachinankupaq, hinaqa mana lluqsinankupaq. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+This"
+"Tiqsimuyup sutinpi huñunakuq willakamuchkan ingles simipi inallataq japones simipi, kaqllataq Español simipi, Italianopi, Coreanopi ima televisionpa chawpinta, internetpa chawpinta ima.",entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Tiqsimuyup sutinpi huñunakuq willakamuchkan ingles simipi inallataq japones simipi, kaqllataq Español simipi, Italianopi, Coreanopi ima televisionpa chawpinta, internetpa chawpinta ima. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+This"
+"Los Simpsons ñawpaqninta, Simón llamkasqa achka qawaykuypaq ruwaykunapi, huk ruwaykunapi.",entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Los Simpsons ñawpaqninta, Simón llamkasqa achka qawaykuypaq ruwaykunapi, huk ruwaykunapi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+REASONING SKILL"
+Kayqa pukllaqkunatan rikuchinqa wayrapa chawpinta imaynata chay video nisqa pukllay pukllanankupaq.,entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Kayqa pukllaqkunatan rikuchinqa wayrapa chawpinta imaynata chay video nisqa pukllay pukllanankupaq. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+REASONING:
+This"
+"Yaqapas 100 runakuna raymiman risqaku karqan, yanantin yata huntayta yuyarispa kasarakuyninqa kasqa qayna wata.",entertainment,travel,"<|begin_of_text|>SENTENCE:
+ Yaqapas 100 runakuna raymiman risqaku karqan, yanantin yata huntayta yuyarispa kasarakuyninqa kasqa qayna wata. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+REASONING SKILL:
+"
+"Audition (The Fools Who Dream) hinallataq City of Stars pelicula nisqakunamantaq iskay takinkuna chaskiranku aswan allin takiykuna kasqanta. Lionsgate studio nisqaqa 26 riqsikuyta chaskirqan, manam hukkunaman rikchakuqta.",entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Audition (The Fools Who Dream) hinallataq City of Stars pelicula nisqakunamantaq iskay takinkuna chaskiranku aswan allin takiykuna kasqanta. Lionsgate studio nisqaqa 26 riqsikuyta chaskirqan, manam hukkunaman rikchakuqta. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+TRANSLATION:
+I"
+"Hawanqa 70km ratka kayninpi sispan kaqninpi, hinataq 100 km karun kasqanpi.",geography,travel,"<|begin_of_text|>SENTENCE:
+ Hawanqa 70km ratka kayninpi sispan kaqninpi, hinataq 100 km karun kasqanpi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+DEFINITION:
+Hawan"
+Aswan qullasuyuman hina kachkan Niágara paqcha hinataq chinchaypi munay pachata qawarichin manam llamkachisqa Muskoka astawanraq haqayman.,geography,geography,"<|begin_of_text|>SENTENCE:
+ Aswan qullasuyuman hina kachkan Niágara paqcha hinataq chinchaypi munay pachata qawarichin manam llamkachisqa Muskoka astawanraq haqayman. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+This"
+"Ellsworth Land Kuchka wataqpi qulla suyuman, Bellingshausen nisqap mama quchanwan taqasqa.",geography,geography,"<|begin_of_text|>SENTENCE:
+ Ellsworth Land Kuchka wataqpi qulla suyuman, Bellingshausen nisqap mama quchanwan taqasqa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+REASONING:
+This"
+South Pole Traverse (o autopista) (utaq autopista nisqa) 1600 km chaski ñan nisqa kasqa McMurdo sayananpi Mar de Ross nisqamanta Polokama.,geography,travel,"<|begin_of_text|>SENTENCE:
+ South Pole Traverse (o autopista) (utaq autopista nisqa) 1600 km chaski ñan nisqa kasqa McMurdo sayananpi Mar de Ross nisqamanta Polokama. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+ REASONING:
+ This question"
+"Machupikchuq chincha rirqanta pawayukuspa, chaypim kay sayaq urqu tarikun, chaymantaqa munay sumaqta fotokunatapas urqupi.",geography,travel,"<|begin_of_text|>SENTENCE:
+ Machupikchuq chincha rirqanta pawayukuspa, chaypim kay sayaq urqu tarikun, chaymantaqa munay sumaqta fotokunatapas urqupi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+This sentence"
+"Encelado nisqankus ancha kanchariqnin intipa muyuqninpi, kancharispa yaqa 90% intipa kanchaynin chayasqanta.",geography,science/technology,"<|begin_of_text|>SENTENCE:
+ Encelado nisqankus ancha kanchariqnin intipa muyuqninpi, kancharispa yaqa 90% intipa kanchaynin chayasqanta. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+This sentence"
+"Manam ima chuya, sumaq qawanapaq hanaq pacha hinaqa kanmanchu chaynallataq achka muyuriq urqukuna hina. Llumpay asllatam qawachwan utaq uyarichwan pachamamanchikmanta machaypa ukunmantaqa.",geography,geography,"<|begin_of_text|>SENTENCE:
+ Manam ima chuya, sumaq qawanapaq hanaq pacha hinaqa kanmanchu chaynallataq achka muyuriq urqukuna hina. Llumpay asllatam qawachwan utaq uyarichwan pachamamanchikmanta machaypa ukunmantaqa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+This"
+"Kunantaq Japonpaq. Japonqa huk wayta ayllu karqa, Gran Bretañahina.",geography,travel,"<|begin_of_text|>SENTENCE:
+ Kunantaq Japonpaq. Japonqa huk wayta ayllu karqa, Gran Bretañahina. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+REASONING:
+This sentence"
+"Alli allinninpi kaspas, ciclón tropical Gonu nisqanku palma sachapa rapinkuna huk qipipi kasqan rayku Maldivas runasimipi, haypasqa wayrakuna 240 kilometro kamay nisqankupi sapa ura unaynintakama kaqta (149 millas por hora).",geography,geography,"<|begin_of_text|>SENTENCE:
+ Alli allinninpi kaspas, ciclón tropical Gonu nisqanku palma sachapa rapinkuna huk qipipi kasqan rayku Maldivas runasimipi, haypasqa wayrakuna 240 kilometro kamay nisqankupi sapa ura unaynintakama kaqta (149 millas por hora). 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+ REASONING:
+ This"
+"Tuquíapa panpanqa, quchakunayuqta ima, 783, 562 kilómetros cuadrados (300, 948 millas cuadradas) nisqayuqmi, chaykunamantaqa 755, 688 kilómetros cuadrados (291, 773 millas cuadradas) nisqa, Asiaq anti suyunpi tarikun chaymantapa 23, 764 kilómetros cuadrados (9, 174 millas cuadradas) nisqa Europapi.",geography,geography,"<|begin_of_text|>SENTENCE:
+ Tuquíapa panpanqa, quchakunayuqta ima, 783, 562 kilómetros cuadrados (300, 948 millas cuadradas) nisqayuqmi, chaykunamantaqa 755, 688 kilómetros cuadrados (291, 773 millas cuadradas) nisqa, Asiaq anti suyunpi tarikun chaymantapa 23, 764 kilómetros cuadrados (9, 174 millas cuadradas) nisqa Europapi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+ REASONING:
+ This"
+"Quchamamapa chawpinkunapi pampakuna Shetland del Sur nisqankutas, tarisqa 1819 watapi, kunankuna achka suyukuna riqsipakuchkanku paykunapata hina, achka qillqayuqkuna, chunka suqtayuq 2020 watapi.",geography,geography,"<|begin_of_text|>SENTENCE:
+ Quchamamapa chawpinkunapi pampakuna Shetland del Sur nisqankutas, tarisqa 1819 watapi, kunankuna achka suyukuna riqsipakuchkanku paykunapata hina, achka qillqayuqkuna, chunka suqtayuq 2020 watapi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+ REASONING:
+ This"
+"Apiaqa Samoaq umalliqnin llaqta. Upolu islapi chay llaqtaqa kachkan, kachkantaqmi yaqapas 40, 000 yupasqa runakunawan.",geography,geography,"<|begin_of_text|>SENTENCE:
+ Apiaqa Samoaq umalliqnin llaqta. Upolu islapi chay llaqtaqa kachkan, kachkantaqmi yaqapas 40, 000 yupasqa runakunawan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+REASONING:
+This"
+"Manchakuypaq wayra karu allpaman chayamunanpaq kasqan raykus, sasa hina rikurin yupay imay mana allin ruwananmanta Estados Unidosta utaq Caribeta.",geography,travel,"<|begin_of_text|>SENTENCE:
+ Manchakuypaq wayra karu allpaman chayamunanpaq kasqan raykus, sasa hina rikurin yupay imay mana allin ruwananmanta Estados Unidosta utaq Caribeta. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+REASONING SKILL:
+"
+"Mariapa pachanpi kaqmi aswan llanu, altiplanupa pachanpitaqmi aswan raku.",geography,geography,"<|begin_of_text|>SENTENCE:
+ Mariapa pachanpi kaqmi aswan llanu, altiplanupa pachanpitaqmi aswan raku. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+This"
+"Sacha ayllukunas mana manglar nisqankullachu, ichaqa wakin kaqpiwanraq sacha kaqlla kaqkunantin hatun kallpayuq yunkakunamanta hukpi llanura de Ganges nisqankuta qatasqanta.",geography,travel,"<|begin_of_text|>SENTENCE:
+ Sacha ayllukunas mana manglar nisqankullachu, ichaqa wakin kaqpiwanraq sacha kaqlla kaqkunantin hatun kallpayuq yunkakunamanta hukpi llanura de Ganges nisqankuta qatasqanta. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+REASONING:
+This question"
+"Suyu qawana pacha kuyuy Geológica Internacional de los Estados Unidos nisqa tapukuna, manam rikuchimunchu ima pacha kuyuytapas Islandiapi chay simanapi.",geography,geography,"<|begin_of_text|>SENTENCE:
+ Suyu qawana pacha kuyuy Geológica Internacional de los Estados Unidos nisqa tapukuna, manam rikuchimunchu ima pacha kuyuytapas Islandiapi chay simanapi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+REASONING:
+This"
+"Samaspa huk kaqnin urqu hawanpi La Meca hanaylawninpis, machaysi sapallan karuyasqa tiqsimuyumanta.",geography,travel,"<|begin_of_text|>SENTENCE:
+ Samaspa huk kaqnin urqu hawanpi La Meca hanaylawninpis, machaysi sapallan karuyasqa tiqsimuyumanta. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+This sentence"

@@ -1,0 +1,3026 @@
+text,actual_category,predicted_category,generated_text
+Tha am mùthadh a’ cur caochlaideachd ginteil ùr ris agus tha an taghadh gan toirt air falbh o amar nan caochlaideachdan nochdte.,science/technology,geography,"<|begin_of_text|>SENTENCE:
+ Tha am mùthadh a’ cur caochlaideachd ginteil ùr ris agus tha an taghadh gan toirt air falbh o amar nan caochlaideachdan nochdte. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+This"
+Obraichidh am boma fisean air a’ phrionnsapal gu bheil cumhachd a dhìth gus niùclas a chur ri chèile le iomadh pròton agus neodron.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Obraichidh am boma fisean air a’ phrionnsapal gu bheil cumhachd a dhìth gus niùclas a chur ri chèile le iomadh pròton agus neodron. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science
+REASONING: 
+This sentence is"
+Tha dà mhìr san niùclas – neodronan agus pròtonan.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Tha dà mhìr san niùclas – neodronan agus pròtonan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science
+EXPLANATION:
+This sentence is about"
+Thug seo cothrom do lionsaichean sùmaidh a bhith a’ togail dhealbhan de mhathas a ghabhas coimeasadh ris na dealbhan a thog lionsaichean le fad fòcais suidhichte.,science/technology,geography,"<|begin_of_text|>SENTENCE:
+ Thug seo cothrom do lionsaichean sùmaidh a bhith a’ togail dhealbhan de mhathas a ghabhas coimeasadh ris na dealbhan a thog lionsaichean le fad fòcais suidhichte. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+Th"
+Tha iad nas fheàrr na progsaidhean-lìn air sgàth grunn adhbharan: Tha iad ag ath-stiùireadh trafaig eadar-lìn sam bith ’s chan ann dìreach http.,science/technology,travel,"<|begin_of_text|>SENTENCE:
+ Tha iad nas fheàrr na progsaidhean-lìn air sgàth grunn adhbharan: Tha iad ag ath-stiùireadh trafaig eadar-lìn sam bith ’s chan ann dìreach http. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+This sentence"
+Tha dealbhadh eadar-ghnìomhach a’ toirt ort ath-chnuasachadh a dhèanamh air do bheachdan a thaobh riochdachadh mheadhanan agus ionnsachadh a bhith a’ smaoineachadh air dòighean neo-dhìreach.,science/technology,N/A,"<|begin_of_text|>SENTENCE:
+ Tha dealbhadh eadar-ghnìomhach a’ toirt ort ath-chnuasachadh a dhèanamh air do bheachdan a thaobh riochdachadh mheadhanan agus ionnsachadh a bhith a’ smaoineachadh air dòighean neo-dhìreach. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: None of the above
+EXPLANATION:
+This"
+"Thàinig seo gu bhith na ghnàth-chleachdadh, ach bhiodh an t-iarann a’ caitheamh barrachd de dh’fhiodh cuibhlichean nam feun-charbadan.",science/technology,geography,"<|begin_of_text|>SENTENCE:
+ Thàinig seo gu bhith na ghnàth-chleachdadh, ach bhiodh an t-iarann a’ caitheamh barrachd de dh’fhiodh cuibhlichean nam feun-charbadan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+This"
+Tha eadar aon is trì fireannach inbheach a tha càirdeach ri chèile ann an lir agus suas ri trithead boireannach is cuilean.,science/technology,geography,"<|begin_of_text|>SENTENCE:
+ Tha eadar aon is trì fireannach inbheach a tha càirdeach ri chèile ann an lir agus suas ri trithead boireannach is cuilean. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+This"
+"Ged a tha smaoinicheas tu air ficsean saidheansail gu tric nuair a chluinneas tu mu IF, tha i na meur glè chudromach de dh’eòlas coimpiutaireachd, ’s a’ dèiligeadh ri beusan, ionnsachadh agus gleusadh tùrail ann an inneal.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Ged a tha smaoinicheas tu air ficsean saidheansail gu tric nuair a chluinneas tu mu IF, tha i na meur glè chudromach de dh’eòlas coimpiutaireachd, ’s a’ dèiligeadh ri beusan, ionnsachadh agus gleusadh tùrail ann an inneal. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science
+REASONING SKILL:
+ This question"
+"Ri linn sin, canar gur e 3:2 an co-mheas deilbh aig an fhòrmat seo (ga roinneadh le dà dheug airson an co-mheas as sìmplidhe fhaighinn a tha na àireamh shlàn).",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Ri linn sin, canar gur e 3:2 an co-mheas deilbh aig an fhòrmat seo (ga roinneadh le dà dheug airson an co-mheas as sìmplidhe fhaighinn a tha na àireamh shlàn). 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Tha"
+Cha ghabh fòn saideil àite fòn-làimhe buileach san fharsaingeachd oir feumaidh tu a bhith a-muigh air a’ bhlàr agus loidhne-amhairc shoilleir ris an t-saideal agad mus urrainn dhut fòn a chur.,science/technology,travel,"<|begin_of_text|>SENTENCE:
+ Cha ghabh fòn saideil àite fòn-làimhe buileach san fharsaingeachd oir feumaidh tu a bhith a-muigh air a’ bhlàr agus loidhne-amhairc shoilleir ris an t-saideal agad mus urrainn dhut fòn a chur. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+travel
+EXPLANATION:
+This sentence is"
+"Ged nach robh ann an rèile fheunan ach dèilean fiodha ri taobh a chèile, thug iad comas do dh’eich a bha gan tarraing falbh aig astar nas luaithe agus luchdan nas motha a tharraing na b’ urrainn dhaibh air rathad na linn ud a bha beagan nas gairbhe.",science/technology,travel,"<|begin_of_text|>SENTENCE:
+ Ged nach robh ann an rèile fheunan ach dèilean fiodha ri taobh a chèile, thug iad comas do dh’eich a bha gan tarraing falbh aig astar nas luaithe agus luchdan nas motha a tharraing na b’ urrainn dhaibh air rathad na linn ud a bha beagan nas gairbhe. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+This sentence"
+"Bha daoine eòlach air eileamaidean ceimigeach bunasach mar òr, airgead agus copar o chian nan cian oir tha iad seo ri an lorg san nàdar nan cruth tùsanach agus tha e meadhanach furasta an tochladh le innealan toiseachail.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Bha daoine eòlach air eileamaidean ceimigeach bunasach mar òr, airgead agus copar o chian nan cian oir tha iad seo ri an lorg san nàdar nan cruth tùsanach agus tha e meadhanach furasta an tochladh le innealan toiseachail. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+This sentence"
+Tha a’ chuibhle air an saoghal atharrachadh ann an dòighean anabarrach mòr. Is e an rud as motha a rinn a’ chuibhle dhuinn a bhith a’ toirt dhuinn còmhdhail fada nas fhasa agus nas luaithe.,science/technology,N/A,"<|begin_of_text|>SENTENCE:
+ Tha a’ chuibhle air an saoghal atharrachadh ann an dòighean anabarrach mòr. Is e an rud as motha a rinn a’ chuibhle dhuinn a bhith a’ toirt dhuinn còmhdhail fada nas fhasa agus nas luaithe. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: None of the above 
+REASONING: 
+"
+Nithear seo a dhèanamh cinnteach gu bheil an dealbh a’ dol tarsainn na sgrìn air fad. ’S e tar-sganadh a chanar ri seo.,science/technology,geography,"<|begin_of_text|>SENTENCE:
+ Nithear seo a dhèanamh cinnteach gu bheil an dealbh a’ dol tarsainn na sgrìn air fad. ’S e tar-sganadh a chanar ri seo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+Th"
+Bhathar a’ toirt U-Boats air bàtaichean-aigeil Gearmailteach. Bha na Gearmailteach fìor mhath air na “longan-fo-mhuir” seo a threòrachadh ’s obrachadh.,science/technology,geography,"<|begin_of_text|>SENTENCE:
+ Bhathar a’ toirt U-Boats air bàtaichean-aigeil Gearmailteach. Bha na Gearmailteach fìor mhath air na “longan-fo-mhuir” seo a threòrachadh ’s obrachadh. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+This"
+"Ged a thig atharrachadh air an staid fhiosaigeach ma dh’fhaoidte, fanaidh an staid cheimigeach mar a bha e.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Ged a thig atharrachadh air an staid fhiosaigeach ma dh’fhaoidte, fanaidh an staid cheimigeach mar a bha e. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Ged"
+"Tha teanntachd air an uachdar a’ tachairt ri linn ’s gu bheil na moileciuilean uisge air uachdar an uisge gu mòr air an tarraing ri chèile, barrachd na tha iad air an tarraing ris na moileciuilean àile a tha os an cionn.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Tha teanntachd air an uachdar a’ tachairt ri linn ’s gu bheil na moileciuilean uisge air uachdar an uisge gu mòr air an tarraing ri chèile, barrachd na tha iad air an tarraing ris na moileciuilean àile a tha os an cionn. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+This sentence"
+Tha tar-sganadh air fear de na duilgheadasan as bitheanta nuair a thathar a’ feuchainn ri film a thionndadh gu cruth DVD.,science/technology,entertainment,"<|begin_of_text|>SENTENCE:
+ Tha tar-sganadh air fear de na duilgheadasan as bitheanta nuair a thathar a’ feuchainn ri film a thionndadh gu cruth DVD. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+REASONING SKILL"
+Tha iad a’ cumail a-mach gu h-àraidh gun innis thu a bheil cuideigin ag innse nam breug le bhith a’ leughadh am meanbh fhiamhan aghaidh ceart.,science/technology,entertainment,"<|begin_of_text|>SENTENCE:
+ Tha iad a’ cumail a-mach gu h-àraidh gun innis thu a bheil cuideigin ag innse nam breug le bhith a’ leughadh am meanbh fhiamhan aghaidh ceart. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+This"
+Gabhaidh iomadh seòrsachan de chumadh a thoirt air òr. Is urrainnear a roiligeadh na chumaidhean beaga bìodach.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Gabhaidh iomadh seòrsachan de chumadh a thoirt air òr. Is urrainnear a roiligeadh na chumaidhean beaga bìodach. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+This sentence"
+"Thèid an siostam IF a chleachdadh gu tric ann an eaconamachd, leigheas, einnseanaireachd agus san arm gu tric a-nis agus chaidh a chur am broinn grunn aplacaidean bathair-bhog airson coimpiutairean dachaigh agus geamannan video.",science/technology,health,"<|begin_of_text|>SENTENCE:
+ Thèid an siostam IF a chleachdadh gu tric ann an eaconamachd, leigheas, einnseanaireachd agus san arm gu tric a-nis agus chaidh a chur am broinn grunn aplacaidean bathair-bhog airson coimpiutairean dachaigh agus geamannan video. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+health
+EXPLANATION:
+This sentence is"
+"Thathar ga dhèanamh fhathast an-diugh ach, nas cudromaiche na sin, fhuaras an co-mheas deilbh aige mar dhìleab ann am fòrmatan mothaichearan dhealbhan aig camarathan digiteach.",science/technology,entertainment,"<|begin_of_text|>SENTENCE:
+ Thathar ga dhèanamh fhathast an-diugh ach, nas cudromaiche na sin, fhuaras an co-mheas deilbh aige mar dhìleab ann am fòrmatan mothaichearan dhealbhan aig camarathan digiteach. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+REASONING SKILL"
+Chan eil ann an riaghailt nan trian a tha ga mhì-ghnàthachadh is ga mhagadh gu tric ach stiùireadh sìmplidh airson innsgineachd a chruthachadh a ghlèidheas ìre de dh’òrdugh ann an dealbh fhathast.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Chan eil ann an riaghailt nan trian a tha ga mhì-ghnàthachadh is ga mhagadh gu tric ach stiùireadh sìmplidh airson innsgineachd a chruthachadh a ghlèidheas ìre de dh’òrdugh ann an dealbh fhathast. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+This sentence"
+"Tha seo na dhearbhadh, chan ann a-mhàin gun robh cuid de dhìneasaran iteach ann – teòiridh a tha aithnichte gu farsaing a-cheana – ach tha e a’ toirt mion-dhealbh nach urrainn do dh’fhosailean a thoirt dhuinn sa chumantas, a leithid dath agus eagar trì-sheallaich.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Tha seo na dhearbhadh, chan ann a-mhàin gun robh cuid de dhìneasaran iteach ann – teòiridh a tha aithnichte gu farsaing a-cheana – ach tha e a’ toirt mion-dhealbh nach urrainn do dh’fhosailean a thoirt dhuinn sa chumantas, a leithid dath agus eagar trì-sheallaich. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+This sentence"
+"Dè an tarraing a bhiodh aig Io orm? Nan seasadh tu air uachdar Io, bhiodh nas lugha de chudrom annad na th’ annad air an Talamh.",science/technology,geography,"<|begin_of_text|>SENTENCE:
+ Dè an tarraing a bhiodh aig Io orm? Nan seasadh tu air uachdar Io, bhiodh nas lugha de chudrom annad na th’ annad air an Talamh. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+This"
+"Tha NextGen na shiostam a bheireadh, a-rèir an FAA, cothrom do dh’itealain air slighean nas giorra a shiubhal agus caomhnadh air na milleanan de ghalanan connaidh gach bliadhna agus sgaoileadh carboin a lùghdachadh.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Tha NextGen na shiostam a bheireadh, a-rèir an FAA, cothrom do dh’itealain air slighean nas giorra a shiubhal agus caomhnadh air na milleanan de ghalanan connaidh gach bliadhna agus sgaoileadh carboin a lùghdachadh. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+This sentence"
+"Tha dàta niùro-bitheòlach a’ toirt fianais fhiosaigeach do dhòigh theòiridheach air eòlas-inntinn a sgrùdadh. Mar sin dheth, tha e a’ lùghdachadh nan crìochan rannsachaidh agus gan dèanamh fada nas mionaidiche.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Tha dàta niùro-bitheòlach a’ toirt fianais fhiosaigeach do dhòigh theòiridheach air eòlas-inntinn a sgrùdadh. Mar sin dheth, tha e a’ lùghdachadh nan crìochan rannsachaidh agus gan dèanamh fada nas mionaidiche. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Tha"
+"Rè òraid a mhair 2 uair a thìde, thuirt e “gu bheil Apple a’ dol a dh’ath-innleachadh an fhòn an-diugh, gu bheil sinn a’ dol a dhèanamh eachdraidh an-diugh”.",science/technology,entertainment,"<|begin_of_text|>SENTENCE:
+ Rè òraid a mhair 2 uair a thìde, thuirt e “gu bheil Apple a’ dol a dh’ath-innleachadh an fhòn an-diugh, gu bheil sinn a’ dol a dhèanamh eachdraidh an-diugh”. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+REASONING SKILL"
+S e an èis air lionsaichean sùm gu bheil iom-fhillteachd an fhòcais agus an àireamh de dh’eileamaidean lionsa a dh’fheumar airson rainse de dh’fhaidean fòcais fhaighinn fada nas motha na ann an lionsa socraichte.,science/technology,geography,"<|begin_of_text|>SENTENCE:
+ S e an èis air lionsaichean sùm gu bheil iom-fhillteachd an fhòcais agus an àireamh de dh’eileamaidean lionsa a dh’fheumar airson rainse de dh’fhaidean fòcais fhaighinn fada nas motha na ann an lionsa socraichte. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+REASONING SKILL"
+"Coltach ri uidheam-smachd telebhisein na chruth, cleachdaidh an t-uidheam-smachd dà mhothaichear a tha faisg air telebhisean a’ chleachdaiche airson ionad a thriantanachadh ann an trì dimeinseanan.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Coltach ri uidheam-smachd telebhisein na chruth, cleachdaidh an t-uidheam-smachd dà mhothaichear a tha faisg air telebhisean a’ chleachdaiche airson ionad a thriantanachadh ann an trì dimeinseanan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+This sentence"
+".A rèir luchd-saidheans, bha iteach an ainmhidh seo donn-ruadh air an uachdar le dath bàn no carotenoid fodha.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+.A rèir luchd-saidheans, bha iteach an ainmhidh seo donn-ruadh air an uachdar le dath bàn no carotenoid fodha. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Tha"
+"Bidh iom-obrachadh eadar an dà cho-thàthadair agus thig criostalan às a dh’fhaodadh bacadh a chur air obrachadh nan àirnean, thuirt luchd-rannsachaidh aig an oilthigh.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Bidh iom-obrachadh eadar an dà cho-thàthadair agus thig criostalan às a dh’fhaodadh bacadh a chur air obrachadh nan àirnean, thuirt luchd-rannsachaidh aig an oilthigh. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science
+REASONING: 
+This sentence is"
+Tha seo a’ toirt dhut dùmhlachd-bhreacaidh cha mhòr ceithir uiread dhe na tha aig neagataibh 35mm (3136 mm2 seach 864).,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Tha seo a’ toirt dhut dùmhlachd-bhreacaidh cha mhòr ceithir uiread dhe na tha aig neagataibh 35mm (3136 mm2 seach 864). 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+This sentence"
+"Taing dha na ceanglaichean càbaill shnàithlichean optaigeach ris an Roinn-Eòrpa agus bann-leathann nan saidealan, tha deagh cheanglaichean aig a’ Ghraonlann, le cothrom air an eadar-lìon aig 93% dhen t-sluagh.",science/technology,geography,"<|begin_of_text|>SENTENCE:
+ Taing dha na ceanglaichean càbaill shnàithlichean optaigeach ris an Roinn-Eòrpa agus bann-leathann nan saidealan, tha deagh cheanglaichean aig a’ Ghraonlann, le cothrom air an eadar-lìon aig 93% dhen t-sluagh. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+This"
+S e eadar-theangadair Google aon dhe na h-aplacaidean as nochdte san roinn-seòrsa seo ’s a bheir comas dhut rudan eadar-theangachadh far loidhne an dèidh dhut dàta airson a’ chànain a dh’iarr thu a luchdadh a-nuas.,science/technology,N/A,"<|begin_of_text|>SENTENCE:
+ S e eadar-theangadair Google aon dhe na h-aplacaidean as nochdte san roinn-seòrsa seo ’s a bheir comas dhut rudan eadar-theangachadh far loidhne an dèidh dhut dàta airson a’ chànain a dh’iarr thu a luchdadh a-nuas. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: None of the above
+EXPLANATION:
+This"
+"Tha an aon structar moileciuileach ann, ge be gas, lionn no stuth soladach a bhios ann.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Tha an aon structar moileciuileach ann, ge be gas, lionn no stuth soladach a bhios ann. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Tha"
+"Chaidh iomadh lorg ùr a dhèanamh slighe clàradh video ann an eadar-mhìneachadh mheanbh-fhiamhan, gluasadan aodainn nach mair ach grunnan de mhille-dhiogan.",science/technology,entertainment,"<|begin_of_text|>SENTENCE:
+ Chaidh iomadh lorg ùr a dhèanamh slighe clàradh video ann an eadar-mhìneachadh mheanbh-fhiamhan, gluasadan aodainn nach mair ach grunnan de mhille-dhiogan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+This"
+Tha an cinne-daonna air a bhith a’ dèanamh agus a’ cleachdadh lionsaichean airson rudan a dhèanamh nas motha fad nam mìltean mòra de bhliadhnaichean.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Tha an cinne-daonna air a bhith a’ dèanamh agus a’ cleachdadh lionsaichean airson rudan a dhèanamh nas motha fad nam mìltean mòra de bhliadhnaichean. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Tha"
+"Chan e probhadh a-mhàin a th’ ann, ge-tà, agus tha probhadh na dheuchainn a chleachdar airson co-dhiù aon bheachd-bharail a chur gu neoini, tha faighneachd de cheistean agus sgrùdadh-sùla cuideachd a’ treòrachadh rannsachadh saidheansail.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Chan e probhadh a-mhàin a th’ ann, ge-tà, agus tha probhadh na dheuchainn a chleachdar airson co-dhiù aon bheachd-bharail a chur gu neoini, tha faighneachd de cheistean agus sgrùdadh-sùla cuideachd a’ treòrachadh rannsachadh saidheansail. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+This sentence"
+Ghabh cuibhlichean iarainn àite nan cuibhlichean fiodha aig a’ cheann thall. Nochd rèilean làn-iarainn ann an 1767 an toiseach.,science/technology,geography,"<|begin_of_text|>SENTENCE:
+ Ghabh cuibhlichean iarainn àite nan cuibhlichean fiodha aig a’ cheann thall. Nochd rèilean làn-iarainn ann an 1767 an toiseach. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+This"
+"Ged a tha a’ mhòr-chuid de chairtean math airson fònadh gu àite sam bith, tha cuid a’ leigeil cuideam air deagh reataichean fònaidh gu buidhnean dhùthchannan sònraichte.",science/technology,travel,"<|begin_of_text|>SENTENCE:
+ Ged a tha a’ mhòr-chuid de chairtean math airson fònadh gu àite sam bith, tha cuid a’ leigeil cuideam air deagh reataichean fònaidh gu buidhnean dhùthchannan sònraichte. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Tha"
+Is e goireasan aibheiseach mòr a th’ anns a’ mhòr-chuid de theileasgopan a tha suidhichte ann an ceàrnan iomallach aig a bheil cor àileach fàbharach.,science/technology,geography,"<|begin_of_text|>SENTENCE:
+ Is e goireasan aibheiseach mòr a th’ anns a’ mhòr-chuid de theileasgopan a tha suidhichte ann an ceàrnan iomallach aig a bheil cor àileach fàbharach. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+This"
+Bidh an t-snàthad stàilinn air fleod air uachdar an uisge mar thoradh air teannachadh uachdair.,science/technology,geography,"<|begin_of_text|>SENTENCE:
+ Bidh an t-snàthad stàilinn air fleod air uachdar an uisge mar thoradh air teannachadh uachdair. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+This"
+"Tha an cruth 35mm na chruth 36mm a leud is 24mm a dh’àirde ann an dha-rìribh, rud a tha caran troimh-chèile.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Tha an cruth 35mm na chruth 36mm a leud is 24mm a dh’àirde ann an dha-rìribh, rud a tha caran troimh-chèile. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+This sentence"
+Tha ceallan cho bunaiteach is cho èiginneach do rannsachadh na beatha ann gu bheilear a’ fàgail “blocaichean-togail na beatha” orra gu tric.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Tha ceallan cho bunaiteach is cho èiginneach do rannsachadh na beatha ann gu bheilear a’ fàgail “blocaichean-togail na beatha” orra gu tric. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+This sentence"
+Tha luchd-solair lìonra prìobhaideach biortail (VPN) nan deagh dhòigh air ceansarachd phoilitigeach agus geo-chriathradh IP coimearsalta a sheachnadh.,science/technology,politics,"<|begin_of_text|>SENTENCE:
+ Tha luchd-solair lìonra prìobhaideach biortail (VPN) nan deagh dhòigh air ceansarachd phoilitigeach agus geo-chriathradh IP coimearsalta a sheachnadh. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+Tha"
+"Ghlèidh an stèisean an àirde aige, ged a bha e air gìorosgop a chall na bu tràithe ann am misean an stèisein-fhànais, gu crìch a’ cheuma-fhànais.",science/technology,geography,"<|begin_of_text|>SENTENCE:
+ Ghlèidh an stèisean an àirde aige, ged a bha e air gìorosgop a chall na bu tràithe ann am misean an stèisein-fhànais, gu crìch a’ cheuma-fhànais. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+This"
+"Tha smaoineachadh loidsigeach aig daoine leis an t-seòrsa smaoineachaidh seo, tha e comasach dhaibh pàtrain a chuimhneachadh, duilgheadasan fhuasgladh agus a bhith ag obair air deuchainnean saidheansail.",science/technology,N/A,"<|begin_of_text|>SENTENCE:
+ Tha smaoineachadh loidsigeach aig daoine leis an t-seòrsa smaoineachaidh seo, tha e comasach dhaibh pàtrain a chuimhneachadh, duilgheadasan fhuasgladh agus a bhith ag obair air deuchainnean saidheansail. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: None of the above
+EXPLANATION:
+This"
+"S toil le osalotaichean beathaichean beaga ithe. Glacaidh iad muncaidhean, nathraichean, creimich agus eòin ma gheibh iad grèim orra. Tha cha mhòr gach beathach a shealgas an t-osalot fada nas lugha na e fhèin.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ S toil le osalotaichean beathaichean beaga ithe. Glacaidh iad muncaidhean, nathraichean, creimich agus eòin ma gheibh iad grèim orra. Tha cha mhòr gach beathach a shealgas an t-osalot fada nas lugha na e fhèin. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+This sentence"
+"Bidh cuid de chamarathan film fòrmat-mheadhanach a’ cleachdadh fòrmat 6 le 6 cm, no nas mionaidiche neagataibh 56 le 56 mm.",science/technology,entertainment,"<|begin_of_text|>SENTENCE:
+ Bidh cuid de chamarathan film fòrmat-mheadhanach a’ cleachdadh fòrmat 6 le 6 cm, no nas mionaidiche neagataibh 56 le 56 mm. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+This"
+Thathar a’ moladh gu làidir gum bi luchd-siubhail mothachail air cunnart sam bith de dhroch thìde san sgìre aca oir dh’fhaodte gun toir seo buaidh air planaichean siubhail sam bith a th’ aca.,travel,travel,"<|begin_of_text|>SENTENCE:
+ Thathar a’ moladh gu làidir gum bi luchd-siubhail mothachail air cunnart sam bith de dhroch thìde san sgìre aca oir dh’fhaodte gun toir seo buaidh air planaichean siubhail sam bith a th’ aca. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+REASONING SKILL:
+"
+"Bidh busaichean a’ falbh on stèisean eadar-sgìreil (taobh thall na h-aibhne) air feadh an latha, ach tha a’ mhòr-chuid, gu h-àraidh na busaichean a bhios a’ dol gu ruige an taobh an ear agus Jakar/Bumthang, a’ falbh eadar 6:30 agus 7:30 sa mhadainn.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Bidh busaichean a’ falbh on stèisean eadar-sgìreil (taobh thall na h-aibhne) air feadh an latha, ach tha a’ mhòr-chuid, gu h-àraidh na busaichean a bhios a’ dol gu ruige an taobh an ear agus Jakar/Bumthang, a’ falbh eadar 6:30 agus 7:30 sa mhadainn. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+This sentence"
+Bheir iad barrachd seasmhachd dhan mharcaiche ach tha ceistean sàbhailteachd ann oir dh’fhaodte gum fàs casan a’ mharcaiche stuicte annta.,travel,geography,"<|begin_of_text|>SENTENCE:
+ Bheir iad barrachd seasmhachd dhan mharcaiche ach tha ceistean sàbhailteachd ann oir dh’fhaodte gum fàs casan a’ mharcaiche stuicte annta. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+This"
+Tha a’ chuid as motha dhe na crùsan-mara a thèid a dh’aona-ghnothaich dhan Mhuir Bhaltach a’ stad ann an Naomh Peadarborgh san Ruis ùine mhath.,travel,geography,"<|begin_of_text|>SENTENCE:
+ Tha a’ chuid as motha dhe na crùsan-mara a thèid a dh’aona-ghnothaich dhan Mhuir Bhaltach a’ stad ann an Naomh Peadarborgh san Ruis ùine mhath. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+REASONING SKILL"
+"Tha ro-bharail anns a’ chomhairle nach bi luchd-turais ri mèirle, ain-inntrigeadh, a’ gabhail pàirt sa mhargadh mhì-laghail, ri baigearachd, air neo, a’ gabhail brath air càch airson an leas fhèin.",travel,politics,"<|begin_of_text|>SENTENCE:
+ Tha ro-bharail anns a’ chomhairle nach bi luchd-turais ri mèirle, ain-inntrigeadh, a’ gabhail pàirt sa mhargadh mhì-laghail, ri baigearachd, air neo, a’ gabhail brath air càch airson an leas fhèin. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+Tha"
+Bu chòir dhut iomadh rud a chnuasachadh mus fhalbh thu air turas a dh’àiteigin.,travel,travel,"<|begin_of_text|>SENTENCE:
+ Bu chòir dhut iomadh rud a chnuasachadh mus fhalbh thu air turas a dh’àiteigin. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Tha"
+"Ann an teas an latha, faodaidh meallaidhean-sùla toirt a chreidsinn air luchd-siubhail gu bheil uisge (no nithean eile) ann.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Ann an teas an latha, faodaidh meallaidhean-sùla toirt a chreidsinn air luchd-siubhail gu bheil uisge (no nithean eile) ann. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Tha"
+Chan fhaicear teaghlaichean le clann ro thric ach tha cuid dhe na h-ostailean gan leigeil ann an seòmraichean prìobhaideach.,travel,travel,"<|begin_of_text|>SENTENCE:
+ Chan fhaicear teaghlaichean le clann ro thric ach tha cuid dhe na h-ostailean gan leigeil ann an seòmraichean prìobhaideach. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+This sentence"
+"Mar eisimpleir, a’ tadhal air caistealan ann an srath an Loire, srath an Rhine no a’ gabhail cuairt air bàta gu ruige bailtean inntinneach air an abhainn Danube no a-null a’ chanàil Erie.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Mar eisimpleir, a’ tadhal air caistealan ann an srath an Loire, srath an Rhine no a’ gabhail cuairt air bàta gu ruige bailtean inntinneach air an abhainn Danube no a-null a’ chanàil Erie. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+REASONING SKILL:
+"
+Dh’fhaodadh gum biodh e na b’ fheàrr àidseant a chleachdadh a bhios gu tric a’ cur turasan air dòigh a tha coltach ris an turas agad.,travel,travel,"<|begin_of_text|>SENTENCE:
+ Dh’fhaodadh gum biodh e na b’ fheàrr àidseant a chleachdadh a bhios gu tric a’ cur turasan air dòigh a tha coltach ris an turas agad. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+This sentence"
+Chaidh CouchSurfing a chur air chois san Fhaoilleach 2004 an dèidh dhan phrògramair choimpiutairean Casey Fenton iteal saor a dh’Innis Tìle a lorg ach e gun àite-fuirich ann.,travel,travel,"<|begin_of_text|>SENTENCE:
+ Chaidh CouchSurfing a chur air chois san Fhaoilleach 2004 an dèidh dhan phrògramair choimpiutairean Casey Fenton iteal saor a dh’Innis Tìle a lorg ach e gun àite-fuirich ann. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Tha"
+Mar as trice tha riatanasan agus dòighean-tagraidh eadar-dhealaichte aig visathan oileanaich ris an fheadhainn a th’ aig visathan turasachd no visathan gnìomhachas àbhaisteach.,travel,geography,"<|begin_of_text|>SENTENCE:
+ Mar as trice tha riatanasan agus dòighean-tagraidh eadar-dhealaichte aig visathan oileanaich ris an fheadhainn a th’ aig visathan turasachd no visathan gnìomhachas àbhaisteach. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+REASONING SKILL"
+Tha laghan àraidh anns gach dùthaich a’ cur riatanas air dè na nithean èiginn a dh’fheumas a bhith anns a’ chàr.,travel,geography,"<|begin_of_text|>SENTENCE:
+ Tha laghan àraidh anns gach dùthaich a’ cur riatanas air dè na nithean èiginn a dh’fheumas a bhith anns a’ chàr. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+REASONING SKILL"
+"Ged a bhios a’ mhòrchuid de bhuidhnean deònach gabhail ris a’ mhòrchuid de dh’iarrtasan àbhaisteach, tha mòran bhuidhnean a’ dèiligeadh ri seòrsaichean sònraichte de thursan, rainsean buidseid no cinn-uidhe.",travel,geography,"<|begin_of_text|>SENTENCE:
+ Ged a bhios a’ mhòrchuid de bhuidhnean deònach gabhail ris a’ mhòrchuid de dh’iarrtasan àbhaisteach, tha mòran bhuidhnean a’ dèiligeadh ri seòrsaichean sònraichte de thursan, rainsean buidseid no cinn-uidhe. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+REASONING SKILL"
+Dh’fhaoidte gun tachair luchd-siubhail ri plàighean beathaich nach eil iad eòlach orra leis nach eil an leithid ann nan dùthchannan fhèin.,travel,travel,"<|begin_of_text|>SENTENCE:
+ Dh’fhaoidte gun tachair luchd-siubhail ri plàighean beathaich nach eil iad eòlach orra leis nach eil an leithid ann nan dùthchannan fhèin. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Tha"
+"Cuideachd tuath air, tadhail air Tèarmann Mòr Ar Baintighearna Fátima (Naomh-chiste), àite foillseadh Moire a tha ainmeil air feadh an t-saoghail.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Cuideachd tuath air, tadhail air Tèarmann Mòr Ar Baintighearna Fátima (Naomh-chiste), àite foillseadh Moire a tha ainmeil air feadh an t-saoghail. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+travel
+EXPLANATION:
+This sentence is"
+S urrainn dhut boda-boda (tagsaidh motar-rothair) a chleachdadh airson siubhal am broinn Goma. ’S e ~500 Francs na Congo a’ phrìs àbhaisteach (ionadail) airson rathad goirid.,travel,travel,"<|begin_of_text|>SENTENCE:
+ S urrainn dhut boda-boda (tagsaidh motar-rothair) a chleachdadh airson siubhal am broinn Goma. ’S e ~500 Francs na Congo a’ phrìs àbhaisteach (ionadail) airson rathad goirid. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+REASONING SKILL:
+"
+"Dhaibhsan a tha a’ mealtainn a’ bhlàir a-muigh, tha sgrìob coiseachd suas an dùthaich Sea to Sky deatamach.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Dhaibhsan a tha a’ mealtainn a’ bhlàir a-muigh, tha sgrìob coiseachd suas an dùthaich Sea to Sky deatamach. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+REASONING SKILL:
+"
+"S e coiseachd a nithear air safari coiseachd (ris an canar “coiseachd nam preas”, “safari haidhcidh” no a’ falbh “footing” cuideachd) fad grunn uairean a thìde no grunn làithean.",travel,travel,"<|begin_of_text|>SENTENCE:
+ S e coiseachd a nithear air safari coiseachd (ris an canar “coiseachd nam preas”, “safari haidhcidh” no a’ falbh “footing” cuideachd) fad grunn uairean a thìde no grunn làithean. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+REASONING SKILL:
+"
+"Cha robh dòigh eile ann ga fhaighinn troimhe nas luaithe ach a bhith ga chur mar threalaich-thurais dearbhte. Cha cheadaich riaghailtean na buidhne-adhair na màileidean aca a chur às aonais pasaideir, mar sin, seo far a bheil gnothach agadsa ris.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Cha robh dòigh eile ann ga fhaighinn troimhe nas luaithe ach a bhith ga chur mar threalaich-thurais dearbhte. Cha cheadaich riaghailtean na buidhne-adhair na màileidean aca a chur às aonais pasaideir, mar sin, seo far a bheil gnothach agadsa ris. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+This sentence"
+"Le 300 a bharrachd, bidh 1,300 carbad ann uile gu lèir gus dùmhlachadh fhaothachadh.",travel,geography,"<|begin_of_text|>SENTENCE:
+ Le 300 a bharrachd, bidh 1,300 carbad ann uile gu lèir gus dùmhlachadh fhaothachadh. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+Th"
+Dh’fhaodte gum bi aig teaghlaichean le clann fìor òg ri barrachd ullachaidh a dhèanamh ach gabhaidh latha a-muigh a chur air dòigh fiù ’s le bèibidhean is clann ro-sgoile.,travel,health,"<|begin_of_text|>SENTENCE:
+ Dh’fhaodte gum bi aig teaghlaichean le clann fìor òg ri barrachd ullachaidh a dhèanamh ach gabhaidh latha a-muigh a chur air dòigh fiù ’s le bèibidhean is clann ro-sgoile. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: health 
+EXPLANATION: 
+This sentence is"
+"Bu chòir do dhuine sam bith a tha gu bhith a’ dràibheadh aig àirde no thairis air bealaichean bheanntan beachdachadh air sneachd, deigh no reòthadh.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Bu chòir do dhuine sam bith a tha gu bhith a’ dràibheadh aig àirde no thairis air bealaichean bheanntan beachdachadh air sneachd, deigh no reòthadh. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Tha"
+"Tha Timbuktu an-diugh na bhaile bochd, ged a tha a chliù a’ tarraing luchd-turais agus port-adhair ann.",travel,geography,"<|begin_of_text|>SENTENCE:
+ Tha Timbuktu an-diugh na bhaile bochd, ged a tha a chliù a’ tarraing luchd-turais agus port-adhair ann. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+Th"
+"Rè gaillinn-shneachda, tuitidh sneachd gu leòr ann an ùine bheag anns an tèid thu an sàs.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Rè gaillinn-shneachda, tuitidh sneachd gu leòr ann an ùine bheag anns an tèid thu an sàs. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+This sentence"
+"Ma tha thu airson itealaich air feadh an t-saoghail gu tur anns an Leth-chruinne a Deas, tha an roghainn de thursan-adhair agus cinn-uidhe cuibhrichte air sgàth dìth slighean tar-chuantach.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Ma tha thu airson itealaich air feadh an t-saoghail gu tur anns an Leth-chruinne a Deas, tha an roghainn de thursan-adhair agus cinn-uidhe cuibhrichte air sgàth dìth slighean tar-chuantach. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+This sentence"
+"Leudaich loidhnichean-adhair mar Emirates, Etihad Airways, Qatar Airways ⁊ Turkish Airlines na seirbheisean aca a dh’Afraga gu mòr agus tha iad a’ tairgsinn ceanglaichean ri iomadh baile mòr ann an Afraga aig prìsean nas reusanta na loidhnichean-adhair Eòrpach eile.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Leudaich loidhnichean-adhair mar Emirates, Etihad Airways, Qatar Airways ⁊ Turkish Airlines na seirbheisean aca a dh’Afraga gu mòr agus tha iad a’ tairgsinn ceanglaichean ri iomadh baile mòr ann an Afraga aig prìsean nas reusanta na loidhnichean-adhair Eòrpach eile. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+travel
+EXPLANATION:
+This sentence is"
+Chan eil còmhdhail a bharrachd ga chur air dòigh agus cha stad trèanaichean os cionn na talmhainn aig Wembley agus chan eil pàirceadh chàraichean no goireasan pàirc is falbh ri fhaighinn aig a’ phàirc.,travel,sports,"<|begin_of_text|>SENTENCE:
+ Chan eil còmhdhail a bharrachd ga chur air dòigh agus cha stad trèanaichean os cionn na talmhainn aig Wembley agus chan eil pàirceadh chàraichean no goireasan pàirc is falbh ri fhaighinn aig a’ phàirc. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+sports
+EXPLANATION:
+This sentence is"
+"Mar as trice, feumaidh tu visa fhaotainn ro làimh ma bhios tu a’ fuireach airson ùine nas fhaide ann an dùthaich chèin sam bith.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Mar as trice, feumaidh tu visa fhaotainn ro làimh ma bhios tu a’ fuireach airson ùine nas fhaide ann an dùthaich chèin sam bith. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+This sentence"
+Tha còistean MetroPlus agus Metro aig gach trèan; tha còistean MetroPlus daonnan aig ceann an trèana as fhaisge air Cape Town.,travel,travel,"<|begin_of_text|>SENTENCE:
+ Tha còistean MetroPlus agus Metro aig gach trèan; tha còistean MetroPlus daonnan aig ceann an trèana as fhaisge air Cape Town. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+This sentence"
+Tha gach neach a’ com-pàirteachadh san t-sòisealtas agus a’ cleachdadh siostaman còmhdhail. Cha mhòr nach bi a h-uile duine a’ gearan mu shiostaman còmhdhail.,travel,politics,"<|begin_of_text|>SENTENCE:
+ Tha gach neach a’ com-pàirteachadh san t-sòisealtas agus a’ cleachdadh siostaman còmhdhail. Cha mhòr nach bi a h-uile duine a’ gearan mu shiostaman còmhdhail. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+Tha"
+"Leis nach eil ach sluagh beag a’ fuireach sna sgìrean agus leis nach eil ann ach glè bheag de thruailleadh solais ri linn sin, bidh cothrom agad tlachd a ghabhail sna rionnagan.",travel,geography,"<|begin_of_text|>SENTENCE:
+ Leis nach eil ach sluagh beag a’ fuireach sna sgìrean agus leis nach eil ann ach glè bheag de thruailleadh solais ri linn sin, bidh cothrom agad tlachd a ghabhail sna rionnagan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+This"
+Bidh riatanasan is cosgaisean eadar-dhealaichte aig diofar dùthchannan a thaobh visathan agus tha e cuideachd a’ crochadh air an dùthaich às a bheil thu fhèin.,travel,geography,"<|begin_of_text|>SENTENCE:
+ Bidh riatanasan is cosgaisean eadar-dhealaichte aig diofar dùthchannan a thaobh visathan agus tha e cuideachd a’ crochadh air an dùthaich às a bheil thu fhèin. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+geography
+REASONING SKILL:
+"
+"San fharsaingeachd, cha leig thu leas fiù sùil a thoirt airson ìsleachaidhean air suidheachain gnìomhachais no a’ chiad chlas air itealan dìreach eadar A agus B.",travel,geography,"<|begin_of_text|>SENTENCE:
+ San fharsaingeachd, cha leig thu leas fiù sùil a thoirt airson ìsleachaidhean air suidheachain gnìomhachais no a’ chiad chlas air itealan dìreach eadar A agus B. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+This"
+Tha fèill air sadail a’ bhùmarang mar sgil a tha iomadh neach-turais ag iarraidh togail.,travel,travel,"<|begin_of_text|>SENTENCE:
+ Tha fèill air sadail a’ bhùmarang mar sgil a tha iomadh neach-turais ag iarraidh togail. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+REASONING SKILL:
+"
+Chan e an sgèith seo an aon roghainn ma thathas airson a’ Chuan Shèimh a Deas agus cladach an iar Aimeireaga a Deas a sheachnadh. (faic gu h-ìosal),travel,geography,"<|begin_of_text|>SENTENCE:
+ Chan e an sgèith seo an aon roghainn ma thathas airson a’ Chuan Shèimh a Deas agus cladach an iar Aimeireaga a Deas a sheachnadh. (faic gu h-ìosal) 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+TRANSLATION:
+ This"
+Dhealbh San Francisco bun-structar turasachd mòr le pailteas thaighean-òsta is thaighean-bìdh agus brod goireasan cho-labhairtean.,travel,travel,"<|begin_of_text|>SENTENCE:
+ Dhealbh San Francisco bun-structar turasachd mòr le pailteas thaighean-òsta is thaighean-bìdh agus brod goireasan cho-labhairtean. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+REASONING SKILL:
+"
+S e obair saor-thoileach dòigh fhìor mhath airson diofar a dhèanamh fhad ’s a bhios tu air turas ach chan ann a’ toirt seachad a-mhàin a bhios tu.,travel,travel,"<|begin_of_text|>SENTENCE:
+ S e obair saor-thoileach dòigh fhìor mhath airson diofar a dhèanamh fhad ’s a bhios tu air turas ach chan ann a’ toirt seachad a-mhàin a bhios tu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+REASONING SKILL:
+"
+Is dòcha nach saoileadh daoine gu bheil foighidinn agus tuigse deatamach airson turasaichean a tha air tilleadh dhachaigh.,travel,travel,"<|begin_of_text|>SENTENCE:
+ Is dòcha nach saoileadh daoine gu bheil foighidinn agus tuigse deatamach airson turasaichean a tha air tilleadh dhachaigh. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+travel
+EXPLANATION:
+This sentence is"
+"Na dìochuimhnich cosgaisean a bharrachd airson visathan a bharrachd, cìsean fàgail, còmhdhail talmhainn is msaa a ghabhail a-staigh san àireamh airson nan àitichean uile ud taobh a-muigh Afraga.",travel,geography,"<|begin_of_text|>SENTENCE:
+ Na dìochuimhnich cosgaisean a bharrachd airson visathan a bharrachd, cìsean fàgail, còmhdhail talmhainn is msaa a ghabhail a-staigh san àireamh airson nan àitichean uile ud taobh a-muigh Afraga. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+This"
+Chuir grunn luchd-còmhnaidh Bishkek an aimhreit mhì-laghail às leth luchd-coiteachaidh on taobh a deas.,politics,geography,"<|begin_of_text|>SENTENCE:
+ Chuir grunn luchd-còmhnaidh Bishkek an aimhreit mhì-laghail às leth luchd-coiteachaidh on taobh a deas. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+This"
+Bha cuid de na h-àiteachan a tha anns a’ Bheilg san latha an-diugh nam pàirt de Lugsamburg san àm a dh’fhalbh ach bha iad nam pàirtean den Bheilg às dèidh Ar a-mach na Beilge anns na 1830an.,politics,geography,"<|begin_of_text|>SENTENCE:
+ Bha cuid de na h-àiteachan a tha anns a’ Bheilg san latha an-diugh nam pàirt de Lugsamburg san àm a dh’fhalbh ach bha iad nam pàirtean den Bheilg às dèidh Ar a-mach na Beilge anns na 1830an. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: geography 
+EXPLANATION:
+This question is about"
+Feumaidh na bogsaichean-bhòtaidh a bhith trìd-shoilleir o 1988 airson ’s gum faic an luchd-bhòtaidh agus an luchd-amhairc nach eil cèisean nam broinn aig toiseach a’ bhòt agus nach tèid cèisean a chur ris ach feadhainn o luchd-bhòtaidh a chaidh an cunntadh is ùghdarrachadh.,politics,geography,"<|begin_of_text|>SENTENCE:
+ Feumaidh na bogsaichean-bhòtaidh a bhith trìd-shoilleir o 1988 airson ’s gum faic an luchd-bhòtaidh agus an luchd-amhairc nach eil cèisean nam broinn aig toiseach a’ bhòt agus nach tèid cèisean a chur ris ach feadhainn o luchd-bhòtaidh a chaidh an cunntadh is ùghdarrachadh. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+This"
+Bha am Prìomhair sealadach Julia Gillard a’ cumail a-mach rè iomairt 2010 den taghadh fheadarail gun robh i airson ’s gun tèid Astràilia na dùthaich phoblachdach aig ceann rìoghachadh Bhanrigh Ealasaid II.,politics,politics,"<|begin_of_text|>SENTENCE:
+ Bha am Prìomhair sealadach Julia Gillard a’ cumail a-mach rè iomairt 2010 den taghadh fheadarail gun robh i airson ’s gun tèid Astràilia na dùthaich phoblachdach aig ceann rìoghachadh Bhanrigh Ealasaid II. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+politics
+EXPLANATION:
+Tha"
+Tha riaghaltas na h-Èireann a’ sònrachadh gur èiginn dhaibh reachdas pàrlamaideach gus an suidheachadh a chur ceart.,politics,politics,"<|begin_of_text|>SENTENCE:
+ Tha riaghaltas na h-Èireann a’ sònrachadh gur èiginn dhaibh reachdas pàrlamaideach gus an suidheachadh a chur ceart. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+Tha"
+Tha argamaidean dioplòmasach fhathast a’ dol air adhart a tha a’ cur bacadh air an dàimh eadar Airmeinea agus Asarbaideàn.,politics,politics,"<|begin_of_text|>SENTENCE:
+ Tha argamaidean dioplòmasach fhathast a’ dol air adhart a tha a’ cur bacadh air an dàimh eadar Airmeinea agus Asarbaideàn. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+politics
+EXPLANATION:
+Tha"
+"Dh’aontaich Prìomh Mhinistear Stephen Harper “Achd an Adhair Ghlain” an riaghaltais a chur gu comataidh uile-phàrtaidh airson lèirmheas ron dàrna leughadh aige an dèidh coinneamh Dimàirt le ceannard an NDP, Jack Layton, a mhair 25 mionaidean aig PMO.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Dh’aontaich Prìomh Mhinistear Stephen Harper “Achd an Adhair Ghlain” an riaghaltais a chur gu comataidh uile-phàrtaidh airson lèirmheas ron dàrna leughadh aige an dèidh coinneamh Dimàirt le ceannard an NDP, Jack Layton, a mhair 25 mionaidean aig PMO. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+politics
+EXPLANATION:
+Tha"
+"Chaidh tòrr fianais a thogail anns a’ Phòlainn nuair a shoidhnig an dùthaich ACTA, agus mar thoradh air seo, tha Riaghaltas na Pòlainne air co-dhùnadh gun an t-aonta a dhaingneachadh aig an àm seo.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Chaidh tòrr fianais a thogail anns a’ Phòlainn nuair a shoidhnig an dùthaich ACTA, agus mar thoradh air seo, tha Riaghaltas na Pòlainne air co-dhùnadh gun an t-aonta a dhaingneachadh aig an àm seo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+politics
+EXPLANATION:
+Tha"
+Chan eil brathan-comhairleachaidh ach nan geàrr-chunntasan goirid den t-suidheachadh phoilitigeach ann an dùthaich.,politics,politics,"<|begin_of_text|>SENTENCE:
+ Chan eil brathan-comhairleachaidh ach nan geàrr-chunntasan goirid den t-suidheachadh phoilitigeach ann an dùthaich. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+Chan e"
+Bha e a’ comhairleachadh Carter a thaobh poileasaidh nan dùthchannan cèine sna taghaidhean 1976 agus bha dreuchd aige an uairsin mar Chomhairliche na Tèarainteachd Nàiseanta (NSA) eadar 1977 is 1981 an dèidh Henry Kissinger.,politics,politics,"<|begin_of_text|>SENTENCE:
+ Bha e a’ comhairleachadh Carter a thaobh poileasaidh nan dùthchannan cèine sna taghaidhean 1976 agus bha dreuchd aige an uairsin mar Chomhairliche na Tèarainteachd Nàiseanta (NSA) eadar 1977 is 1981 an dèidh Henry Kissinger. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+politics
+EXPLANATION:
+Bha"
+Thuirt an aithris cuideachd gum biodh aig an Tuirc cuideachd faire luchd-sabaid ISIS a chaidh an glacadh a ghabhail os làimh is nàiseanan na Roinn-Eòrpa air an diùltadh o ath-dhùthachadh.,politics,politics,"<|begin_of_text|>SENTENCE:
+ Thuirt an aithris cuideachd gum biodh aig an Tuirc cuideachd faire luchd-sabaid ISIS a chaidh an glacadh a ghabhail os làimh is nàiseanan na Roinn-Eòrpa air an diùltadh o ath-dhùthachadh. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+politics
+EXPLANATION:
+Thuirt"
+"Ge-tà, cha robh e fiù oidhche mus robh na planaichean seo gun fheum nuair a thàinig barrachd air 800,000 saighdear o Arm Dearg an Aonaidh Sovietaich a-steach a chruthachadh fronta Bealaruis agus fronta na h-Ucràine an dèidh dhaibh briseadh a-steach air ceàrnaidhean ann an taobh an ear na Pòlainne, a’ briseadh Cùmhnant Sìth Rìga, An Còrdadh Neo-ionnsaigheachd Sovietach is Pòlainneach agus cùmhnantan eadar-nàiseanta eile, an dà chuid feadhainn dhà-thaobhach is ioma-thaobhach.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Ge-tà, cha robh e fiù oidhche mus robh na planaichean seo gun fheum nuair a thàinig barrachd air 800,000 saighdear o Arm Dearg an Aonaidh Sovietaich a-steach a chruthachadh fronta Bealaruis agus fronta na h-Ucràine an dèidh dhaibh briseadh a-steach air ceàrnaidhean ann an taobh an ear na Pòlainne, a’ briseadh Cùmhnant Sìth Rìga, An Còrdadh Neo-ionnsaigheachd Sovietach is Pòlainneach agus cùmhnantan eadar-nàiseanta eile, an dà chuid feadhainn dhà-thaobhach is ioma-thaobhach. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+politics
+EXPLANATION:
+This sentence"
+"A’ leantainn a’ phròiseis, thèid ath-sgrùdadh a dhèanamh air HJR-3 ro thaghadh na h-ath-reachdadaireachd ann an 2015 no 2016 airson fuireach sa phròiseas.",politics,politics,"<|begin_of_text|>SENTENCE:
+ A’ leantainn a’ phròiseis, thèid ath-sgrùdadh a dhèanamh air HJR-3 ro thaghadh na h-ath-reachdadaireachd ann an 2015 no 2016 airson fuireach sa phròiseas. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+This sentence"
+"An dèidh dhan mhòr-dhàil a ghabhail ris air a’ 4mh dhen Iuchar, chaidh dreachd làmh-sgrìobhte ris an do chuir ceann-suidhe na mòr-dhàlach, John Hancock agus an rùnaire Charles Thomson, an cuid ainmean a chur gu bùth clò-bhualaidh John Dunlap a bha beagan bhlocaichean air falbh.",politics,politics,"<|begin_of_text|>SENTENCE:
+ An dèidh dhan mhòr-dhàil a ghabhail ris air a’ 4mh dhen Iuchar, chaidh dreachd làmh-sgrìobhte ris an do chuir ceann-suidhe na mòr-dhàlach, John Hancock agus an rùnaire Charles Thomson, an cuid ainmean a chur gu bùth clò-bhualaidh John Dunlap a bha beagan bhlocaichean air falbh. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+politics
+EXPLANATION:
+Tha"
+"Goirid an dèidh 11m, bhac luchd-coiteachaidh an trafaig air an t-slighe don taobh a tuath ann an Whitehall.",politics,geography,"<|begin_of_text|>SENTENCE:
+ Goirid an dèidh 11m, bhac luchd-coiteachaidh an trafaig air an t-slighe don taobh a tuath ann an Whitehall. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+This"
+"Ge-tà, chaidh gill Khrushchev a chur fo dheuchainn san Ògmhios 1956 nuair a thionndaidh aimhreit sa Phòlainn, far an robh luchd-obrach ag èirigh an aghaidh gainnead bìdh agus gearraidhean tuarastail, na ghràcalas an aghaidh Comannachd.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Ge-tà, chaidh gill Khrushchev a chur fo dheuchainn san Ògmhios 1956 nuair a thionndaidh aimhreit sa Phòlainn, far an robh luchd-obrach ag èirigh an aghaidh gainnead bìdh agus gearraidhean tuarastail, na ghràcalas an aghaidh Comannachd. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+Tha"
+"Mhaireadh e airson an 40 bliadhna ri thighinn agus bhiodh còmhstrithean dha-rìribh ann, le armailtean progsaidh, air blàir-chatha o Afraga gu Àisia, ann an Afganastan, Cùba agus iomadh àite eile.",politics,geography,"<|begin_of_text|>SENTENCE:
+ Mhaireadh e airson an 40 bliadhna ri thighinn agus bhiodh còmhstrithean dha-rìribh ann, le armailtean progsaidh, air blàir-chatha o Afraga gu Àisia, ann an Afganastan, Cùba agus iomadh àite eile. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+Mhol coimisean a’ chinn-shuidhe am mìos seo chaidh gun leigeadh an CEP roimhe dheth a dhreuchd mar phàirt de shreath de dh’iomairtean a ghluaiseas an dùthaich a dh’ionnsaigh taghaidhean ùra.,politics,politics,"<|begin_of_text|>SENTENCE:
+ Mhol coimisean a’ chinn-shuidhe am mìos seo chaidh gun leigeadh an CEP roimhe dheth a dhreuchd mar phàirt de shreath de dh’iomairtean a ghluaiseas an dùthaich a dh’ionnsaigh taghaidhean ùra. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+politics
+EXPLANATION:
+Tha"
+"Thathar ag innse gu bheil e cuideachd a’ dèiligeadh ri inbhe Ierusalam san àm ri teachd, baile a tha naomh dhan dà nàisean agus duilgheadas Gleann Iòrdain.",politics,geography,"<|begin_of_text|>SENTENCE:
+ Thathar ag innse gu bheil e cuideachd a’ dèiligeadh ri inbhe Ierusalam san àm ri teachd, baile a tha naomh dhan dà nàisean agus duilgheadas Gleann Iòrdain. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+geography
+EXPLANATION:
+Tha"
+Cha robh ùghdarras aige a bharrachd laghan chìsean is taraifean eadar stàitean a thar-àithneadh.,politics,geography,"<|begin_of_text|>SENTENCE:
+ Cha robh ùghdarras aige a bharrachd laghan chìsean is taraifean eadar stàitean a thar-àithneadh. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+This"
+Tha lagh taghaidhean na Frainge a’ còdachadh nan imeachdan ann an dòigh caran teann.,politics,geography,"<|begin_of_text|>SENTENCE:
+ Tha lagh taghaidhean na Frainge a’ còdachadh nan imeachdan ann an dòigh caran teann. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+REASONING SKILL"
+Dh’innis Bush do luchd-èisteachd mu leudachadh na malairt ann an Àisia an dèidh seachdain de thaghaidhean meadhan na teirme a chaill e.,politics,travel,"<|begin_of_text|>SENTENCE:
+ Dh’innis Bush do luchd-èisteachd mu leudachadh na malairt ann an Àisia an dèidh seachdain de thaghaidhean meadhan na teirme a chaill e. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Tha"
+"S e ro-innleachd èifeachdach a bh’ ann a chuir casg air solar sìobhalta is armailteach ro-chudromach, ged a bhris an t-iom-chuairteachadh seo laghan eadar-nàiseanta ris an do ghabh a’ mhòrchuid de dhùthchannan agus a chaidh a chòdachadh ann an grunn aontan eadar-nàiseanta san dà cheud bhliadhna seo chaidh.",politics,geography,"<|begin_of_text|>SENTENCE:
+ S e ro-innleachd èifeachdach a bh’ ann a chuir casg air solar sìobhalta is armailteach ro-chudromach, ged a bhris an t-iom-chuairteachadh seo laghan eadar-nàiseanta ris an do ghabh a’ mhòrchuid de dhùthchannan agus a chaidh a chòdachadh ann an grunn aontan eadar-nàiseanta san dà cheud bhliadhna seo chaidh. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+This"
+Chaidh ceanglaichean eaconamach ath-stèidheachadh eadar an dà phàirt seo de Mholdobha ged a dh’fhàillig orra tighinn gu co-rèite san raon phoilitigeach.,politics,geography,"<|begin_of_text|>SENTENCE:
+ Chaidh ceanglaichean eaconamach ath-stèidheachadh eadar an dà phàirt seo de Mholdobha ged a dh’fhàillig orra tighinn gu co-rèite san raon phoilitigeach. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+geography 
+EXPLANATION:
+Ceang"
+"Còmhla ri na h-oifigeach sin, gheall e do mhuinntir Texas gun robhar a’ spàirn gus sàbhailteachd a’ phobaill a dhìon.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Còmhla ri na h-oifigeach sin, gheall e do mhuinntir Texas gun robhar a’ spàirn gus sàbhailteachd a’ phobaill a dhìon. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+Tha"
+"Tha càineadh nan libearalach mun iomairt ath-thogalach air a bhith ag amas air iomruineadh nan cùmhnantan ath-thogalach do dh’fheadhainn a tha, nam beachd-san, nan urracha mòra Washington.",politics,geography,"<|begin_of_text|>SENTENCE:
+ Tha càineadh nan libearalach mun iomairt ath-thogalach air a bhith ag amas air iomruineadh nan cùmhnantan ath-thogalach do dh’fheadhainn a tha, nam beachd-san, nan urracha mòra Washington. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+geography
+EXPLANATION:
+This sentence"
+"Dh’fhàs àireamh nan daoine a tha an aghaidh Astràilia a bhith na poblachd le 8 sa cheud o 2008 am measg 1,400 neach a chaidh am beachd a thogail ro thaghadh feadarail 2010.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Dh’fhàs àireamh nan daoine a tha an aghaidh Astràilia a bhith na poblachd le 8 sa cheud o 2008 am measg 1,400 neach a chaidh am beachd a thogail ro thaghadh feadarail 2010. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+politics
+EXPLANATION:
+Tha"
+Thuirt na dioplomatan gun do lorg iad dà-sheaghachas gu leòr ann am bun-reachd Afghanastàn airson breithneachadh nach eil feum air dàrna cuairt.,politics,politics,"<|begin_of_text|>SENTENCE:
+ Thuirt na dioplomatan gun do lorg iad dà-sheaghachas gu leòr ann am bun-reachd Afghanastàn airson breithneachadh nach eil feum air dàrna cuairt. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+Thuirt"
+"Nuair a thàinig na toraidhean a-steach, rinn Gingrich moladh mòr air Santorum, ach bha e trom air Romney leis gun robh droch shanasachd na h-iomairt an aghaidh Gingrich air a craoladh às a leth ann an Iowa .",politics,politics,"<|begin_of_text|>SENTENCE:
+ Nuair a thàinig na toraidhean a-steach, rinn Gingrich moladh mòr air Santorum, ach bha e trom air Romney leis gun robh droch shanasachd na h-iomairt an aghaidh Gingrich air a craoladh às a leth ann an Iowa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+politics
+EXPLANATION:
+Nuair"
+Is e an còigeamh CEP aig Martelly ann an ceithir bliadhna.,politics,politics,"<|begin_of_text|>SENTENCE:
+ Is e an còigeamh CEP aig Martelly ann an ceithir bliadhna. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: -politics
+REASONING SKILL:
+"
+"Bha am buannaiche bonn òir gu bhith a’ snàmh ann an rèis nan 100m agus 200m saor-stoidhleach agus ann an trì rèisean pàirteach ann an Geamannan a’ Cho-fhlaitheis ach an cois nan gearan a thog e, tha ceistean air èirigh mu arrantachd.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Bha am buannaiche bonn òir gu bhith a’ snàmh ann an rèis nan 100m agus 200m saor-stoidhleach agus ann an trì rèisean pàirteach ann an Geamannan a’ Cho-fhlaitheis ach an cois nan gearan a thog e, tha ceistean air èirigh mu arrantachd. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+Tha"
+"A thuilleadh air a bhith na sheann-churaidh nan geamannan Oilimpeach is an t-Saoghail, bha Saito na chathraiche air comataidh trèanaidh Chaidreachas Judo Uile-Iapanach aig àm a bhàis.",sports,sports,"<|begin_of_text|>SENTENCE:
+ A thuilleadh air a bhith na sheann-churaidh nan geamannan Oilimpeach is an t-Saoghail, bha Saito na chathraiche air comataidh trèanaidh Chaidreachas Judo Uile-Iapanach aig àm a bhàis. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+Sait"
+"Na choinneamh-stiùiridh ann am Berlin an-diugh, bhòt Comataidh Eadar-nàiseanta nan Oilimpeach an spòrs a ghabhail a-steach. Chaidh rugbaidh, ’s e sin aonadh rugbaidh, agus goilf a thaghadh à còig spòrsan eile a bha fo chnuasachd bhith air an gabhail anns na geamannan Oilimpeach.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Na choinneamh-stiùiridh ann am Berlin an-diugh, bhòt Comataidh Eadar-nàiseanta nan Oilimpeach an spòrs a ghabhail a-steach. Chaidh rugbaidh, ’s e sin aonadh rugbaidh, agus goilf a thaghadh à còig spòrsan eile a bha fo chnuasachd bhith air an gabhail anns na geamannan Oilimpeach. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+sports
+EXPLANATION:
+This sentence is"
+Bidh a’ cho-fharpais as motha den bhliadhna a’ tachairt anns an Dùbhlachd anns na raointean polo ann an Las Cañitas.,sports,sports,"<|begin_of_text|>SENTENCE:
+ Bidh a’ cho-fharpais as motha den bhliadhna a’ tachairt anns an Dùbhlachd anns na raointean polo ann an Las Cañitas. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+sports
+EXPLANATION:
+This sentence is"
+"Bhon a dh’imrich e gu ceanna-bhaile Chatalòinia, bha Vidal air 49 geama a chluich don chlub.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Bhon a dh’imrich e gu ceanna-bhaile Chatalòinia, bha Vidal air 49 geama a chluich don chlub. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+Bhon"
+"Le cothromachadh lùth fallain, cleachdaidhean uisgeachaidh èifeachdach, is a bhith a’ tuigsinn diofar thaobhan de chleachdaidhean suplamaideach, is urrainn lùth-chleasaichean piseach a thoirt air an dèanadas aca is barrachd tlachd fhaighinn bhon spòrs.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Le cothromachadh lùth fallain, cleachdaidhean uisgeachaidh èifeachdach, is a bhith a’ tuigsinn diofar thaobhan de chleachdaidhean suplamaideach, is urrainn lùth-chleasaichean piseach a thoirt air an dèanadas aca is barrachd tlachd fhaighinn bhon spòrs. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+This sentence"
+"San treas àite tha Hamlin le fichead puingean air dheireadh ach còig air thoiseach air Bowyer. Tha Kahne agus Truex Jr. sa chòigeamh agus san t-siathamh àite le 2,220 agus 2,207 puing.",sports,sports,"<|begin_of_text|>SENTENCE:
+ San treas àite tha Hamlin le fichead puingean air dheireadh ach còig air thoiseach air Bowyer. Tha Kahne agus Truex Jr. sa chòigeamh agus san t-siathamh àite le 2,220 agus 2,207 puing. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+Tha"
+S e 7–2 an reacord aig Nadal ann an geama ceann ri ceann an aghaidh a’ Canèideanaich.,sports,sports,"<|begin_of_text|>SENTENCE:
+ S e 7–2 an reacord aig Nadal ann an geama ceann ri ceann an aghaidh a’ Canèideanaich. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports 
+EXPLANATION:
+This sentence is about"
+Bha Jarque ri cleachdadh rè trèanadh ron t-seusan ann an Coverciano san Eadailt nas tràithe an-diugh. Bha e a’ fuireach ann an taigh-òsta an sgioba ro gheama an aghaidh Bolonia ris a bheil dùil Didòmhnaich.,sports,sports,"<|begin_of_text|>SENTENCE:
+ Bha Jarque ri cleachdadh rè trèanadh ron t-seusan ann an Coverciano san Eadailt nas tràithe an-diugh. Bha e a’ fuireach ann an taigh-òsta an sgioba ro gheama an aghaidh Bolonia ris a bheil dùil Didòmhnaich. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports 
+EXPLANATION:
+This sentence is about"
+Bha eagal ann nach biodh còmhdhail gu leòr ann agus dh’fhàg sin na bu choltaiche e gum feumadh an geama a chluich air cùlaibh dhorsan dùinte as aonais luchd-taice an sgioba.,sports,sports,"<|begin_of_text|>SENTENCE:
+ Bha eagal ann nach biodh còmhdhail gu leòr ann agus dh’fhàg sin na bu choltaiche e gum feumadh an geama a chluich air cùlaibh dhorsan dùinte as aonais luchd-taice an sgioba. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+REASONING SKILL:
+"
+Thuirt Tommy Dreamer “B’ e Luna a’ chiad Queen of Extreme. A’ chiad mhanaidsear agam. Chaochail Luna air oidhche dà ghealaich. Oidhche caran sònraichte cleas ise. Boireannach tapaidh.”,sports,entertainment,"<|begin_of_text|>SENTENCE:
+ Thuirt Tommy Dreamer “B’ e Luna a’ chiad Queen of Extreme. A’ chiad mhanaidsear agam. Chaochail Luna air oidhche dà ghealaich. Oidhche caran sònraichte cleas ise. Boireannach tapaidh.” 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+REASONING:
+This"
+"Bha sgìtheadair sgioba na Pòlainne le ciorraman lèirsinn, Maciej Krężel agus a threòraiche Anna Ogarzyńska, san tritheamh àite deug ann an Super-G. Bha Jong Seork Park à Coirèa a Deas sa cheathramh àite fichead ann an Super-G suidhe nam fireannach.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Bha sgìtheadair sgioba na Pòlainne le ciorraman lèirsinn, Maciej Krężel agus a threòraiche Anna Ogarzyńska, san tritheamh àite deug ann an Super-G. Bha Jong Seork Park à Coirèa a Deas sa cheathramh àite fichead ann an Super-G suidhe nam fireannach. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+Bha"
+"Airson tùrnamantan ùra agus fiosrachadh far an ceannaich thu tiocaidean airson geamannan pòlo, thoir sùil air Asociación Argentina de Polo.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Airson tùrnamantan ùra agus fiosrachadh far an ceannaich thu tiocaidean airson geamannan pòlo, thoir sùil air Asociación Argentina de Polo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+Tha"
+"Thòisich na geamannan aig 10:00m agus a-mach o cheòbhran aig meadhan na maidne a chlìor gu luath, bha an aimsir fìor mhath, latha foirfe airson rugbaidh 7.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Thòisich na geamannan aig 10:00m agus a-mach o cheòbhran aig meadhan na maidne a chlìor gu luath, bha an aimsir fìor mhath, latha foirfe airson rugbaidh 7. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+This sentence"
+Bha Arly Velasquez à Meagsago sa chòigeamh àite deug ann an Super-G suidhe nam fireannach. Bha Adam Hall à Sealainn Nuadh san naoidheamh àite ann an Super-G seasamh nam fireannach.,sports,sports,"<|begin_of_text|>SENTENCE:
+ Bha Arly Velasquez à Meagsago sa chòigeamh àite deug ann an Super-G suidhe nam fireannach. Bha Adam Hall à Sealainn Nuadh san naoidheamh àite ann an Super-G seasamh nam fireannach. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+Bha"
+Thèid maids deireannach an t-sreatha a chluich aig Pàirc Ellis ann an Hannsaborgh an ath-sheachdain nuair a chluicheas na Springboks an aghaidh Astràilia.,sports,sports,"<|begin_of_text|>SENTENCE:
+ Thèid maids deireannach an t-sreatha a chluich aig Pàirc Ellis ann an Hannsaborgh an ath-sheachdain nuair a chluicheas na Springboks an aghaidh Astràilia. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+Tha"
+"Ma bhios an aimsir math, cuiridh tu barrachd astair nad dhèidh na chuireadh tu a’ coiseachd – ach cha ruig thu astar sgìthidh thar fearann ach glè ainneamh as aonais baga-droma trom air tracaichean saltraichte.",sports,travel,"<|begin_of_text|>SENTENCE:
+ Ma bhios an aimsir math, cuiridh tu barrachd astair nad dhèidh na chuireadh tu a’ coiseachd – ach cha ruig thu astar sgìthidh thar fearann ach glè ainneamh as aonais baga-droma trom air tracaichean saltraichte. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+This sentence"
+"Seachd puingean na dèidh tha Johnson san dàrna àite le 2,243.",sports,geography,"<|begin_of_text|>SENTENCE:
+ Seachd puingean na dèidh tha Johnson san dàrna àite le 2,243. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+Tha canyonachadh a’ ciallachadh a bhith a’ dol sìos gu bonn canyon a tha tioram no làn de dh’uisge.,sports,geography,"<|begin_of_text|>SENTENCE:
+ Tha canyonachadh a’ ciallachadh a bhith a’ dol sìos gu bonn canyon a tha tioram no làn de dh’uisge. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: geography 
+EXPLANATION: 
+Canyon"
+"Rinn Robin Uthappa an sgòr as àirde dhen inning, 70 turas-ruithe ann an 41 bàl a-mhàin le bhith a’ bualadh 11 cheathramh is 2 shiathamh.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Rinn Robin Uthappa an sgòr as àirde dhen inning, 70 turas-ruithe ann an 41 bàl a-mhàin le bhith a’ bualadh 11 cheathramh is 2 shiathamh. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+Tha"
+S ann sna ceàrnaidhean mu thuath a tha an fhèill as motha air spòrsachan geamhraidh agus tha Eadailtich a’ gabhail pàirt ann an geamannan eadar-nàiseanta is tachartasan Oilimpeach.,sports,geography,"<|begin_of_text|>SENTENCE:
+ S ann sna ceàrnaidhean mu thuath a tha an fhèill as motha air spòrsachan geamhraidh agus tha Eadailtich a’ gabhail pàirt ann an geamannan eadar-nàiseanta is tachartasan Oilimpeach. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: geography 
+REASONING SKILL:
+ This question"
+"Chrìochnaich Maroochydore aig mullach an àraidh, sia puingean air thoiseach air Noosa a bha san dàrna àite.",sports,travel,"<|begin_of_text|>SENTENCE:
+ Chrìochnaich Maroochydore aig mullach an àraidh, sia puingean air thoiseach air Noosa a bha san dàrna àite. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Maroo"
+"Chrìochnaich Mìcheal Schumacher an rèis aige goirid às dèidh Alonso, air sgàth a’ mhillidh a rinneadh air siostam crochaidh a’ chàir anns an iomadh blàr tron rèis.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Chrìochnaich Mìcheal Schumacher an rèis aige goirid às dèidh Alonso, air sgàth a’ mhillidh a rinneadh air siostam crochaidh a’ chàir anns an iomadh blàr tron rèis. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+Tha"
+"Chan urrainn do chleachdaidhean beathachaidh matha a-mhàin sàr-euchdan a thoirt gu buil, ach is urrainn dhaibh buaidh mhòr a thoirt air fallaineachd iomlan nan lùth-chleasaichean òga.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Chan urrainn do chleachdaidhean beathachaidh matha a-mhàin sàr-euchdan a thoirt gu buil, ach is urrainn dhaibh buaidh mhòr a thoirt air fallaineachd iomlan nan lùth-chleasaichean òga. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+Chan ur"
+Cha b’ urrainn dha na drugaichean a dh’fheumas e airson a’ phian a cheannsachadh a ghabhail a chionn ’s gu bheil iad toirmisgte sna geamannan.,sports,N/A,"<|begin_of_text|>SENTENCE:
+ Cha b’ urrainn dha na drugaichean a dh’fheumas e airson a’ phian a cheannsachadh a ghabhail a chionn ’s gu bheil iad toirmisgte sna geamannan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: None of the above 
+REASONING SKILL"
+Lorg rannsachadh gun robh MS a dhà uimhir cho buailteach a bhith air boireannaich na tha e air fireannaich.,health,N/A,"<|begin_of_text|>SENTENCE:
+ Lorg rannsachadh gun robh MS a dhà uimhir cho buailteach a bhith air boireannaich na tha e air fireannaich. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+None of the above
+EXPLANATION:
+"
+"Faodaidh diofar stuthan truaillidh cunnartach a bhith ann an deoch làidir mhì-laghail, a’ gabhail a-staigh meatanol a dh’adhbharaicheas doille no bàs fiù mur eil ann ach glè bheag dheth.",health,health,"<|begin_of_text|>SENTENCE:
+ Faodaidh diofar stuthan truaillidh cunnartach a bhith ann an deoch làidir mhì-laghail, a’ gabhail a-staigh meatanol a dh’adhbharaicheas doille no bàs fiù mur eil ann ach glè bheag dheth. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+health
+EXPLANATION:
+This sentence is"
+"Is iad a-mhàin buaidhean smaoineachadh-dubhach, chan e trom-inntinn agus eagal, a bha co-cheangailte ri seiseanan gnìomhachd chorporra cunbhalach gach seachdain.",health,politics,"<|begin_of_text|>SENTENCE:
+ Is iad a-mhàin buaidhean smaoineachadh-dubhach, chan e trom-inntinn agus eagal, a bha co-cheangailte ri seiseanan gnìomhachd chorporra cunbhalach gach seachdain. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+This sentence"
+"Le sealbh a’ mhòr-shluaigh air càraichean, gheibhear tricead nas àirde de thubaistean air rathaidean, rud a tha a’ leantainn gu innleachdan ùra ann an cùram-slàinte airson leigheas bhodhaigean a th’ air an dochann.",health,health,"<|begin_of_text|>SENTENCE:
+ Le sealbh a’ mhòr-shluaigh air càraichean, gheibhear tricead nas àirde de thubaistean air rathaidean, rud a tha a’ leantainn gu innleachdan ùra ann an cùram-slàinte airson leigheas bhodhaigean a th’ air an dochann. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+health
+EXPLANATION:
+This sentence is"
+"Tha am prìomh luchd-rannsachaidh ag ràdh gu bheil teans gun tig gleus-mothachaidh tràth airson aillse, an tinneis-chaitheimh, HIV agus mailèiria às airson euslaintich ann an dùthchannan le teachd a-steach ìseal far a bheil dìreach an dàrna leth de dhaoine a mhairsinn beò tro thinneasan mar aillse na cìche an coimeas ri dùthchannan nas beartaiche.",health,health,"<|begin_of_text|>SENTENCE:
+ Tha am prìomh luchd-rannsachaidh ag ràdh gu bheil teans gun tig gleus-mothachaidh tràth airson aillse, an tinneis-chaitheimh, HIV agus mailèiria às airson euslaintich ann an dùthchannan le teachd a-steach ìseal far a bheil dìreach an dàrna leth de dhaoine a mhairsinn beò tro thinneasan mar aillse na cìche an coimeas ri dùthchannan nas beartaiche. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+health
+REASONING:
+This question requires"
+"Dh’earail an Dr. Ehud Ur, ollamh lèigh-eòlais aig Oilthigh Dalhousie ann an Halifax, Albainn Nuaidh agus cathraiche air an roinn chlinigeach is saidheansail aig Comann an Lònchraois Chanadaich gu bheil an obair-rannsachaidh fhathast aig ìre tòiseachaidh.",health,science/technology,"<|begin_of_text|>SENTENCE:
+ Dh’earail an Dr. Ehud Ur, ollamh lèigh-eòlais aig Oilthigh Dalhousie ann an Halifax, Albainn Nuaidh agus cathraiche air an roinn chlinigeach is saidheansail aig Comann an Lònchraois Chanadaich gu bheil an obair-rannsachaidh fhathast aig ìre tòiseachaidh. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+This sentence"
+"Bidh a’ chlann seo ann an aimhreit gu tric oir “gabhaidh iad pàirt ann an giùlan cunnartach, bidh iad an sàs sabaid agus bheir iad dùbhlan air ùghdarras” airson an eanchainnean a bhrodadh a chionn ’s nach gabh an eanchainnean a bhrodadh air na dòighean àbhaisteach.",health,politics,"<|begin_of_text|>SENTENCE:
+ Bidh a’ chlann seo ann an aimhreit gu tric oir “gabhaidh iad pàirt ann an giùlan cunnartach, bidh iad an sàs sabaid agus bheir iad dùbhlan air ùghdarras” airson an eanchainnean a bhrodadh a chionn ’s nach gabh an eanchainnean a bhrodadh air na dòighean àbhaisteach. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+This sentence"
+Faodaidh e buaidh a thoirt air duine a tharraingeas a-steach adhair air an tug an uisge buaidh tro ghaoith agus tonnan.,health,geography,"<|begin_of_text|>SENTENCE:
+ Faodaidh e buaidh a thoirt air duine a tharraingeas a-steach adhair air an tug an uisge buaidh tro ghaoith agus tonnan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+This"
+Tha cuid a dhaoine a’ creidsinn gum fàsar glè chlaoidhte ma bhios cus aislingean làn-mhothachail agad a chaidh an tòiseachadh air alt.,health,N/A,"<|begin_of_text|>SENTENCE:
+ Tha cuid a dhaoine a’ creidsinn gum fàsar glè chlaoidhte ma bhios cus aislingean làn-mhothachail agad a chaidh an tòiseachadh air alt. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: None of the above
+EXPLANATION:
+This"
+Fhuair Potro obair leighis air a ghualann aig an àm seo ach chaidh aige air tilleadh dhan gheama.,health,health,"<|begin_of_text|>SENTENCE:
+ Fhuair Potro obair leighis air a ghualann aig an àm seo ach chaidh aige air tilleadh dhan gheama. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+health
+EXPLANATION:
+This sentence is"
+"A chòrr air sin, tha droch bhuil ann mur dèanar seo: crìonadh air cinneas, dìth beathachaidh, agus bàs air a’ cheann thall.",health,health,"<|begin_of_text|>SENTENCE:
+ A chòrr air sin, tha droch bhuil ann mur dèanar seo: crìonadh air cinneas, dìth beathachaidh, agus bàs air a’ cheann thall. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+health
+EXPLANATION:
+This sentence is"
+Thuirt oifigich baile Amsterdam agus Taigh-tasgaidh Anne Frank gu bheil fungas sa chraobh agus gu bheil e na chunnart do shlàinte a’ phobaill is iad ag argamaid gu bheil e an ìmpis tuiteim.,health,health,"<|begin_of_text|>SENTENCE:
+ Thuirt oifigich baile Amsterdam agus Taigh-tasgaidh Anne Frank gu bheil fungas sa chraobh agus gu bheil e na chunnart do shlàinte a’ phobaill is iad ag argamaid gu bheil e an ìmpis tuiteim. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+health
+REASONING:
+This sentence is"
+"Lean an t-ospadal ris a’ phròtacal a thaobh smachdadh thinneasan gabhaltach, a’ gabhail a-staigh a bhith a’ cumail an euslaintich o fheadhainn eile airson ’s nach gabh feadhainn eile ris.",health,science/technology,"<|begin_of_text|>SENTENCE:
+ Lean an t-ospadal ris a’ phròtacal a thaobh smachdadh thinneasan gabhaltach, a’ gabhail a-staigh a bhith a’ cumail an euslaintich o fheadhainn eile airson ’s nach gabh feadhainn eile ris. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+This sentence"
+Thu Institiuid Haidhti airson Ceartas is Deamocrasaidh iomradh air rannsachadh neo-eisimeileach a thug fa-near gun tug bratàillean sìth-ghlèidheadh an UN à Neapàl an galar a Haidhti gun fhiosta.,health,politics,"<|begin_of_text|>SENTENCE:
+ Thu Institiuid Haidhti airson Ceartas is Deamocrasaidh iomradh air rannsachadh neo-eisimeileach a thug fa-near gun tug bratàillean sìth-ghlèidheadh an UN à Neapàl an galar a Haidhti gun fhiosta. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+politics
+EXPLANATION:
+Thu Instit"
+Chan eilear a’ coimhead air galaran gabhaltach iad fhèin no beathaichean cunnartach a tha comasan air daoine a leòn no a mharbhadh le an neart mar phlàighean mar is trice.,health,health,"<|begin_of_text|>SENTENCE:
+ Chan eilear a’ coimhead air galaran gabhaltach iad fhèin no beathaichean cunnartach a tha comasan air daoine a leòn no a mharbhadh le an neart mar phlàighean mar is trice. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+health
+EXPLANATION:
+This sentence is"
+"Tha clann air a bheil ADD a’ faighinn tàire an aire a chumail air nithean mar obair na sgoile, ach gabhaidh iad aire air nithean às am faigh iad tlachd leithid a bhith a’ cluich gheamannan no a’ coimhead nan cartùnaichean as fheàrr leotha no a’ sgrìobhadh seantansan gun phuingeachadh.",health,entertainment,"<|begin_of_text|>SENTENCE:
+ Tha clann air a bheil ADD a’ faighinn tàire an aire a chumail air nithean mar obair na sgoile, ach gabhaidh iad aire air nithean às am faigh iad tlachd leithid a bhith a’ cluich gheamannan no a’ coimhead nan cartùnaichean as fheàrr leotha no a’ sgrìobhadh seantansan gun phuingeachadh. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+This"
+"Ann am bliadhna, dh’fhaoidte gun toir an neach air a bheil galar gabhaltach an galar do 10 gu 15 daoine a tha faisg orra.",health,health,"<|begin_of_text|>SENTENCE:
+ Ann am bliadhna, dh’fhaoidte gun toir an neach air a bheil galar gabhaltach an galar do 10 gu 15 daoine a tha faisg orra. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+health
+EXPLANATION:
+This sentence is"
+"Nuair a sguir an t-sabaid às dèidh do na leòntach a bhith air an toirt dhan Ospadal, dh’fhuirich mu 40 den luchd-còmhnaidh eile anns a’ ghàrradh agus dhiùlt iad a dhol air ais do na ceallan aca.",health,health,"<|begin_of_text|>SENTENCE:
+ Nuair a sguir an t-sabaid às dèidh do na leòntach a bhith air an toirt dhan Ospadal, dh’fhuirich mu 40 den luchd-còmhnaidh eile anns a’ ghàrradh agus dhiùlt iad a dhol air ais do na ceallan aca. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: health 
+REASONING: This sentence is about"
+Thòisich an Ìmpire Augustus air dotairean a thrusadh agus stèidhich e fiù a’ chiad fheachd meadaigeach Ròmanach airson an cur gu feum an dèidh bhlàran.,health,politics,"<|begin_of_text|>SENTENCE:
+ Thòisich an Ìmpire Augustus air dotairean a thrusadh agus stèidhich e fiù a’ chiad fheachd meadaigeach Ròmanach airson an cur gu feum an dèidh bhlàran. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+politics
+EXPLANATION:
+Thò"
+"Ge-tà, chaidh an dràibhear a leòn gu dona na cheann.",health,geography,"<|begin_of_text|>SENTENCE:
+ Ge-tà, chaidh an dràibhear a leòn gu dona na cheann. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+REASONING:
+This"
+"“Tha luchagan againn a-nis a tha 4 mìosan a dh’aois is gun tinneas an t-siùcair orra ged a b’ àbhaist do thinneas an t-siùcair a bhith orra,” thuirt e cuideachd.",health,health,"<|begin_of_text|>SENTENCE:
+ “Tha luchagan againn a-nis a tha 4 mìosan a dh’aois is gun tinneas an t-siùcair orra ged a b’ àbhaist do thinneas an t-siùcair a bhith orra,” thuirt e cuideachd. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+health
+REASONING:
+This sentence is"
+Dh’fhaoidte nach bi puinnseanachadh a-staigh follaiseach sa bhad. Tha comharran mar a bhith a’ cur a-mach coitcheann gu leòr ’s nach gabh diagnos a dhèanamh san bhad.,health,health,"<|begin_of_text|>SENTENCE:
+ Dh’fhaoidte nach bi puinnseanachadh a-staigh follaiseach sa bhad. Tha comharran mar a bhith a’ cur a-mach coitcheann gu leòr ’s nach gabh diagnos a dhèanamh san bhad. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+health
+EXPLANATION:
+This sentence is"
+"Mar thoradh air seo, bidh na cleasaichean a’ smocadh toitean cainb air an àrd-ùrlar agus tha an taigh-chluich fhèin a’ brosnachadh an luchd-amhairc gus pàirt a ghabhail ann.",entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Mar thoradh air seo, bidh na cleasaichean a’ smocadh toitean cainb air an àrd-ùrlar agus tha an taigh-chluich fhèin a’ brosnachadh an luchd-amhairc gus pàirt a ghabhail ann. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+This"
+Tha Aerosmith air a’ chòrr de na cuirmean cùil air a’ chuairt aca a chur dheth.,entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Tha Aerosmith air a’ chòrr de na cuirmean cùil air a’ chuairt aca a chur dheth. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+REASONING SKILL"
+"Ma tha thu airson a bhith faisg air far a bheil a h-uile rud a’ tachairt, feumaidh tu a dhol a-steach tràth gus àite campachaidh fhaighinn faisg air a’ cheòl.",entertainment,travel,"<|begin_of_text|>SENTENCE:
+ Ma tha thu airson a bhith faisg air far a bheil a h-uile rud a’ tachairt, feumaidh tu a dhol a-steach tràth gus àite campachaidh fhaighinn faisg air a’ cheòl. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+This sentence"
+Chaidh mòran fhòrmatan film eadar-dhealaichte an cleachdadh thairis air na bliadhnaichean. ’S e film stannardach 35mm (neagataibh 36mm le 24mm) am fear as cumanta.,entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Chaidh mòran fhòrmatan film eadar-dhealaichte an cleachdadh thairis air na bliadhnaichean. ’S e film stannardach 35mm (neagataibh 36mm le 24mm) am fear as cumanta. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+This"
+"Ged as e seo gnìomh fìor chumanta, tha e air a thoirmeasg le Disney: cha ghabh na tiogaidean tar-aiseag.",entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Ged as e seo gnìomh fìor chumanta, tha e air a thoirmeasg le Disney: cha ghabh na tiogaidean tar-aiseag. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+This"
+Bhiodh gach eapasod den phrògram a’ coimhead air cuspair ann an leabhar sònraichte agus an uair sin a’ rannsachadh a’ chuspair seo tro dhiofar sgeulachdan.,entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Bhiodh gach eapasod den phrògram a’ coimhead air cuspair ann an leabhar sònraichte agus an uair sin a’ rannsachadh a’ chuspair seo tro dhiofar sgeulachdan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+REASONING SKILL"
+Chaidh grunn sgrìnichean telebhisein mòra a stàladh ann an caochladh àitean san Ròimh gus am b’ urrainn do dhaoine coimhead air cuirm an deas-ghnàtha.,entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Chaidh grunn sgrìnichean telebhisein mòra a stàladh ann an caochladh àitean san Ròimh gus am b’ urrainn do dhaoine coimhead air cuirm an deas-ghnàtha. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+Th"
+Tha Sophocles agus Aristophanes nan dràmadaichean fèillmhor fhathast agus tha na dealbhan-cluiche aca air am meas am measg nan obraichean litreachais as motha air an t-saoghal.,entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Tha Sophocles agus Aristophanes nan dràmadaichean fèillmhor fhathast agus tha na dealbhan-cluiche aca air am meas am measg nan obraichean litreachais as motha air an t-saoghal. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+Th"
+Bheireadh gach prògram seachad cuideachd leabhraichean a mholadh iad dhan chlann sùil a chumail air an son is iad a’ dol dhan leabhar-lann aca.,entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Bheireadh gach prògram seachad cuideachd leabhraichean a mholadh iad dhan chlann sùil a chumail air an son is iad a’ dol dhan leabhar-lann aca. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+This"
+"Air a’ bhogsa-chiùil, airson àirde na fuaime, cuiridh tu barrachd brùthadh sna builg-shèididh no barrachd astair.",entertainment,health,"<|begin_of_text|>SENTENCE:
+ Air a’ bhogsa-chiùil, airson àirde na fuaime, cuiridh tu barrachd brùthadh sna builg-shèididh no barrachd astair. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health
+EXPLANATION:
+This sentence is"
+Chì thu na pioramaidean san dorchadas agus chì thu iad ann an sàmhchair mus tòisich an taisbeanadh.,entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Chì thu na pioramaidean san dorchadas agus chì thu iad ann an sàmhchair mus tòisich an taisbeanadh. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+This"
+"Is iad seo eisimpleirean de ghnìomhan air an làrach: sealg, iasgach, dealbhadaireachd, eòin-amhairc agus a’ tadhal air pàircean ’s a’ togail fiosrachadh mun eag-shiostam.",entertainment,geography,"<|begin_of_text|>SENTENCE:
+ Is iad seo eisimpleirean de ghnìomhan air an làrach: sealg, iasgach, dealbhadaireachd, eòin-amhairc agus a’ tadhal air pàircean ’s a’ togail fiosrachadh mun eag-shiostam. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+Tha an sfinge ann mar chùlaibh agus mar neach-aithris de sgeulachd fhada.,entertainment,geography,"<|begin_of_text|>SENTENCE:
+ Tha an sfinge ann mar chùlaibh agus mar neach-aithris de sgeulachd fhada. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+REASONING SKILL"
+"Is àbhaist dhaibh biadh, deoch is dibhearsain àraidh a thabhann gus aoighean a chumail ann an sunnd gus nach fàg iad an t-ionad-cearrachais.",entertainment,travel,"<|begin_of_text|>SENTENCE:
+ Is àbhaist dhaibh biadh, deoch is dibhearsain àraidh a thabhann gus aoighean a chumail ann an sunnd gus nach fàg iad an t-ionad-cearrachais. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+travel
+EXPLANATION:
+This sentence is"
+"Tha am buidheann domhanta a’ cur prògraman Spàinntis, Eadailtis is Coirèanais air bhog don telebhisean, eadar-lìon, is innealan-làimhe agus e mar-thà ag aithris ann am Beurla is Iapanais.",entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Tha am buidheann domhanta a’ cur prògraman Spàinntis, Eadailtis is Coirèanais air bhog don telebhisean, eadar-lìon, is innealan-làimhe agus e mar-thà ag aithris ann am Beurla is Iapanais. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+REASONING SKILL"
+"Ro na Simpsons, bha Sìm air obair air corra phrògram ann an caochladh dhreuchdan.",entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Ro na Simpsons, bha Sìm air obair air corra phrògram ann an caochladh dhreuchdan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+REASONING SKILL"
+Bheir seo comas do chluicheadairean air na gnìomhan is gluasadan ann an geamannan video a stiùireadh le bhith a’ gluasad an uidheim tron adhar.,entertainment,sports,"<|begin_of_text|>SENTENCE:
+ Bheir seo comas do chluicheadairean air na gnìomhan is gluasadan ann an geamannan video a stiùireadh le bhith a’ gluasad an uidheim tron adhar. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+REASONING SKILL:
+"
+Bha co-dhiù 100 duine aig a’ phàrtaidh airson ciad cheann-bliadhna de chàraid a chomharradh a chùm am banais an-uiridh.,entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Bha co-dhiù 100 duine aig a’ phàrtaidh airson ciad cheann-bliadhna de chàraid a chomharradh a chùm am banais an-uiridh. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+Th"
+"Chaidh dà òran on fhilm, Audition (The Fools Who Dream) agus City of Stars, ainmeachadh mar an t-òran tùsail as fheàrr. Fhuair stiùideo Lionsgate 26 ainmeachadh – barrachd na stiùideo sam bith eile.",entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Chaidh dà òran on fhilm, Audition (The Fools Who Dream) agus City of Stars, ainmeachadh mar an t-òran tùsail as fheàrr. Fhuair stiùideo Lionsgate 26 ainmeachadh – barrachd na stiùideo sam bith eile. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+TRANSLATION:
+ Were"
+Tha an rùsg mu 70 km a thiughad air an taobh a-bhos agus 100 km a thiughad air an taobh thall.,geography,geography,"<|begin_of_text|>SENTENCE:
+ Tha an rùsg mu 70 km a thiughad air an taobh a-bhos agus 100 km a thiughad air an taobh thall. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+geography
+EXPLANATION:
+Tha"
+Nas fhaide deas tha Eas Niagara agus mu thuath tha bòidhchead neo-thruaillte Muskoka agus na tha nas fhaide a-muigh.,geography,geography,"<|begin_of_text|>SENTENCE:
+ Nas fhaide deas tha Eas Niagara agus mu thuath tha bòidhchead neo-thruaillte Muskoka agus na tha nas fhaide a-muigh. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+This"
+S e a’ cheàrnaidh deas air an leth-eilean a th’ ann an Tìr Ellsworth is le Muir Bellingshausen mu thimcheall.,geography,geography,"<|begin_of_text|>SENTENCE:
+ S e a’ cheàrnaidh deas air an leth-eilean a th’ ann an Tìr Ellsworth is le Muir Bellingshausen mu thimcheall. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+This"
+Tha Mòr-rathad a’ Phòla a Deas na shlighe 1600 km bho Stèisean MhicMhurchaidh air Muir Rois chun a’ Phòla.,geography,geography,"<|begin_of_text|>SENTENCE:
+ Tha Mòr-rathad a’ Phòla a Deas na shlighe 1600 km bho Stèisean MhicMhurchaidh air Muir Rois chun a’ Phòla. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+This"
+Tha a’ bheinn chas seo ag èirigh àrd os cionn ceann a tuath Machu Picchu agus nochdaidh e gu tric ann an iomadh dealbh dhe na tobhtaichean.,geography,geography,"<|begin_of_text|>SENTENCE:
+ Tha a’ bheinn chas seo ag èirigh àrd os cionn ceann a tuath Machu Picchu agus nochdaidh e gu tric ann an iomadh dealbh dhe na tobhtaichean. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+This"
+"Is e Enceladus an rud ann an siostam na grèine leis an fhaileas-sgàthain as motha, a’ tilg air ais mu 90 sa cheud de sholas na grèine a tha ga bhualadh.",geography,science/technology,"<|begin_of_text|>SENTENCE:
+ Is e Enceladus an rud ann an siostam na grèine leis an fhaileas-sgàthain as motha, a’ tilg air ais mu 90 sa cheud de sholas na grèine a tha ga bhualadh. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Tha"
+Chan fhaicear rud sam bith ach an t-adhar soilleir gu h-àrd agus an iomadh beinn a tha ga chuairteachadh. Chan fhaicear is cha chluinnear ach glè bheag den t-saoghal seo bho thaobh a-staigh na h-uamha.,geography,geography,"<|begin_of_text|>SENTENCE:
+ Chan fhaicear rud sam bith ach an t-adhar soilleir gu h-àrd agus an iomadh beinn a tha ga chuairteachadh. Chan fhaicear is cha chluinnear ach glè bheag den t-saoghal seo bho thaobh a-staigh na h-uamha. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+This"
+"Nise, a thaobh na Seapaine. ’S e dùthaich eilein a bha san t-Seapan, dìreach mar a tha Breatainn.",geography,geography,"<|begin_of_text|>SENTENCE:
+ Nise, a thaobh na Seapaine. ’S e dùthaich eilein a bha san t-Seapan, dìreach mar a tha Breatainn. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+geography
+REASONING SKILL:
+"
+"Aig àird a cumhachd, ràinig Cuairt-ghaoithe Thropaigeach Gonu, a chaidh ainmeachadh an dèidh poca de dhuilleagan pailme aan cànan nam Maladaibh, gaothan seasmhach de 240 cilemeatair san uair (149 mìle san uair).",geography,geography,"<|begin_of_text|>SENTENCE:
+ Aig àird a cumhachd, ràinig Cuairt-ghaoithe Thropaigeach Gonu, a chaidh ainmeachadh an dèidh poca de dhuilleagan pailme aan cànan nam Maladaibh, gaothan seasmhach de 240 cilemeatair san uair (149 mìle san uair). 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+"Tha 783,562 cilemeatair ceàrnagach (300,948 mi2) san Tuirc, a’ gabhail a-staigh nan lochan, agus tha 755,688 cilemeatair ceàrnagach (291,773 mi2) dheth ann an Àisia an iar-dheas agus 23,764 cilemeatair ceàrnagach (9,174 mi2) san Roinn-Eòrpa.",geography,geography,"<|begin_of_text|>SENTENCE:
+ Tha 783,562 cilemeatair ceàrnagach (300,948 mi2) san Tuirc, a’ gabhail a-staigh nan lochan, agus tha 755,688 cilemeatair ceàrnagach (291,773 mi2) dheth ann an Àisia an iar-dheas agus 23,764 cilemeatair ceàrnagach (9,174 mi2) san Roinn-Eòrpa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+geography
+EXPLANATION:
+This sentence"
+"Tha grunn dhùthchannan ag ràdh gu bheil sealbh aca air Eileanan Sealtainn a Deas, a lorgadh an 1819, agus ’s iadsan aig a bheil a’ mhòr-chuid de ionadan, le sia-deug gan cleachdadh ann an 2020.",geography,geography,"<|begin_of_text|>SENTENCE:
+ Tha grunn dhùthchannan ag ràdh gu bheil sealbh aca air Eileanan Sealtainn a Deas, a lorgadh an 1819, agus ’s iadsan aig a bheil a’ mhòr-chuid de ionadan, le sia-deug gan cleachdadh ann an 2020. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+geography
+REASONING SKILL:
+"
+"S e Apia ceanna-bhaile Shamotha. ’S ann air eilean Upolu ’s a tha am baile agus is gann gu bheil 40,000 duine a’ fuireach ann.",geography,geography,"<|begin_of_text|>SENTENCE:
+ S e Apia ceanna-bhaile Shamotha. ’S ann air eilean Upolu ’s a tha am baile agus is gann gu bheil 40,000 duine a’ fuireach ann. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+geography
+REASONING SKILL:
+"
+"A chionn ’s gu bheil an stoirm fada air falbh o thalamh, tha e fhathast duilich measadh a dhèanamh air a’ bhuaidh a dh’fhaodadh e toirt air na SA no air na h-Eileanan Caraibeach.",geography,geography,"<|begin_of_text|>SENTENCE:
+ A chionn ’s gu bheil an stoirm fada air falbh o thalamh, tha e fhathast duilich measadh a dhèanamh air a’ bhuaidh a dh’fhaodadh e toirt air na SA no air na h-Eileanan Caraibeach. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+This"
+Tha e nas staoine fo mharaichean agus nas tiugha fo àrd-tìr na gealaich.,geography,geography,"<|begin_of_text|>SENTENCE:
+ Tha e nas staoine fo mharaichean agus nas tiugha fo àrd-tìr na gealaich. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+Th"
+Chan e dìreach boglaichean mangrove a th’ anns na coilltean ge-tà – tha cuid de na pìosan mu dheireadh annta de na diungailean mòra a bha uair air feadh an raoin Ghanges.,geography,geography,"<|begin_of_text|>SENTENCE:
+ Chan e dìreach boglaichean mangrove a th’ anns na coilltean ge-tà – tha cuid de na pìosan mu dheireadh annta de na diungailean mòra a bha uair air feadh an raoin Ghanges. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+geography
+EXPLANATION:
+Chan e"
+Cha robh mapa eadar-nàiseanta nan crith-thalmhainn le Suirbhidh Geòlasach nan Stàitean Aonaichte a’ sealltainn crith-thalmhainn sam bith ann an Innis Tìle an t-seachdain roimhe sin.,geography,geography,"<|begin_of_text|>SENTENCE:
+ Cha robh mapa eadar-nàiseanta nan crith-thalmhainn le Suirbhidh Geòlasach nan Stàitean Aonaichte a’ sealltainn crith-thalmhainn sam bith ann an Innis Tìle an t-seachdain roimhe sin. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+This"
+Tha an uamh a tha air mullach fear de na beanntan tuath air Mecca iomallach bho chòrr den t-saoghail.,geography,geography,"<|begin_of_text|>SENTENCE:
+ Tha an uamh a tha air mullach fear de na beanntan tuath air Mecca iomallach bho chòrr den t-saoghail. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: geography 
+REASONING: 
+This question requires"

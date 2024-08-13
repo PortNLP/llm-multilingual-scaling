@@ -1,0 +1,3042 @@
+text,actual_category,predicted_category,generated_text
+"Miyuutayshanku waxa uu soo saara nooc cusub oo hiddeside ah, doorashaduna waxay ka sii kaxaysaa berkedaas hiddesideyaasha aha.",science/technology,entertainment,"<|begin_of_text|>SENTENCE:
+ Miyuutayshanku waxa uu soo saara nooc cusub oo hiddeside ah, doorashaduna waxay ka sii kaxaysaa berkedaas hiddesideyaasha aha. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+REASONING:
+The"
+Kala qayb samida bu'da bambadu waxay ku shaqaysaa xeer ah inay qaadato tamar si ay isugu keento bu'da borotoono iyo niyuutaroono badan.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Kala qayb samida bu'da bambadu waxay ku shaqaysaa xeer ah inay qaadato tamar si ay isugu keento bu'da borotoono iyo niyuutaroono badan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Kala"
+Bu’du waxay ka koobantahay laba baartikal-niyu taroono iyo borotoono.,science/technology,geography,"<|begin_of_text|>SENTENCE:
+ Bu’du waxay ka koobantahay laba baartikal-niyu taroono iyo borotoono. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+Bu"
+Tan ayaa u sahashay bikaacyada soo dhawaynta inay soo saaraan sawiro tayadooda la barbar dhigi karo kuwa ay sameeyaan bikaacyada diiradda xaddidan leh.,science/technology,entertainment,"<|begin_of_text|>SENTENCE:
+ Tan ayaa u sahashay bikaacyada soo dhawaynta inay soo saaraan sawiro tayadooda la barbar dhigi karo kuwa ay sameeyaan bikaacyada diiradda xaddidan leh. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+The"
+"Dhowr sababood ayay kaga fiican yihiin websayd beenaadyada: waxay dib u jiheeyaan dhammaan saxmadda internetka, keliya maaha http.",science/technology,geography,"<|begin_of_text|>SENTENCE:
+ Dhowr sababood ayay kaga fiican yihiin websayd beenaadyada: waxay dib u jiheeyaan dhammaan saxmadda internetka, keliya maaha http. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+The"
+Naqshada isla jaanqaadaysa waxay u baahan tahay inaad dib u eegto fikradahaaga ku aaddan saxaafada oo aad barato inaad u fikirto qaab aan toos ahayn.,science/technology,entertainment,"<|begin_of_text|>SENTENCE:
+ Naqshada isla jaanqaadaysa waxay u baahan tahay inaad dib u eegto fikradahaaga ku aaddan saxaafada oo aad barato inaad u fikirto qaab aan toos ahayn. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+The"
+"Tani waxay noqotay dhaqan caadiya, balse naxaastu lisan dheeraada ayay ku sababtay taayirada looxa ah ee gaariga.",science/technology,geography,"<|begin_of_text|>SENTENCE:
+ Tani waxay noqotay dhaqan caadiya, balse naxaastu lisan dheeraada ayay ku sababtay taayirada looxa ah ee gaariga. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+The"
+"Malxiisaduhu waxaa laga dhiga mid ilaa sadex rag qangaadh ah, iyago lagu daray sadex dumar o kale iyagana.",science/technology,geography,"<|begin_of_text|>SENTENCE:
+ Malxiisaduhu waxaa laga dhiga mid ilaa sadex rag qangaadh ah, iyago lagu daray sadex dumar o kale iyagana. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+"Intastoo Al uu leeyahay dareen xoogan oo ku saabsan mala awaalka sayniska, Al wuxuu sameeyaa qaybta ugu muhiimsan kombiyuutar sayniska, kuwaasi oo la xidhiidha hab dhaqanka, wax barashada iyo la qabsiga maskaxda mashiinka.",science/technology,entertainment,"<|begin_of_text|>SENTENCE:
+ Intastoo Al uu leeyahay dareen xoogan oo ku saabsan mala awaalka sayniska, Al wuxuu sameeyaa qaybta ugu muhiimsan kombiyuutar sayniska, kuwaasi oo la xidhiidha hab dhaqanka, wax barashada iyo la qabsiga maskaxda mashiinka. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+The"
+Saamiga dhinaca ee noocaan (u qaybinta labo iyo toban si loo helo saamiga lambarka buuxo) ayaa sidaa darteeda ku noqon doono 3:2.,science/technology,geography,"<|begin_of_text|>SENTENCE:
+ Saamiga dhinaca ee noocaan (u qaybinta labo iyo toban si loo helo saamiga lambarka buuxo) ayaa sidaa darteeda ku noqon doono 3:2. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+Ge"
+"Taleefanka dayax-gacmeedku guud ahaan beddel uma aha taleefanka gacanta, maadaama lagaa rabo inaad dibadda u baxdo oo aad isu muuqataan dayax-gacmeedka si aad taleefan u garaacdo.",science/technology,travel,"<|begin_of_text|>SENTENCE:
+ Taleefanka dayax-gacmeedku guud ahaan beddel uma aha taleefanka gacanta, maadaama lagaa rabo inaad dibadda u baxdo oo aad isu muuqataan dayax-gacmeedka si aad taleefan u garaacdo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Tale"
+"Inkastoo wadooyinka gawaarida xoolaha jiidayeen ay ka sameysnaayeen oo keli ah labo alwaax oo isgarab socday, waxay u awoodaayeen fardaha gawaarida jiidayso inay si fiican u ordaan sidoo kale na jiidaan culees ka sii badan inta ay ku jiidi lahaayeen wadooyinka kale.",science/technology,travel,"<|begin_of_text|>SENTENCE:
+ Inkastoo wadooyinka gawaarida xoolaha jiidayeen ay ka sameysnaayeen oo keli ah labo alwaax oo isgarab socday, waxay u awoodaayeen fardaha gawaarida jiidayso inay si fiican u ordaan sidoo kale na jiidaan culees ka sii badan inta ay ku jiidi lahaayeen wadooyinka kale. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+This sentence"
+"Dadka ayaa ogaayeen curiyeyaalka kiimikadda aasaasiga sida dahabka, qalinka, naxaaska waqti badan, maxaa yeelay kuwan ayaa dabiiciga lag heli karaa iyagoo saafi ah wayna fududahay in lagu sifeeyo qalab aan casri ahayn.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Dadka ayaa ogaayeen curiyeyaalka kiimikadda aasaasiga sida dahabka, qalinka, naxaaska waqti badan, maxaa yeelay kuwan ayaa dabiiciga lag heli karaa iyagoo saafi ah wayna fududahay in lagu sifeeyo qalab aan casri ahayn. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+The sentence"
+Taayirku aduunka si la yaab leh buu u bedelay. Waxa ugu fiican ee taayirku ina siiyay waa gaadiid aad u sahlan oo dheeraynaya.,science/technology,travel,"<|begin_of_text|>SENTENCE:
+ Taayirku aduunka si la yaab leh buu u bedelay. Waxa ugu fiican ee taayirku ina siiyay waa gaadiid aad u sahlan oo dheeraynaya. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The sentence"
+Tani ayaa loo yeelaa si uu sawirka u buuxiyo shaashada oo dhan. Tani waxaa loo yaqaanaa iskaanka guud.,science/technology,entertainment,"<|begin_of_text|>SENTENCE:
+ Tani ayaa loo yeelaa si uu sawirka u buuxiyo shaashada oo dhan. Tani waxaa loo yaqaanaa iskaanka guud. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+T"
+Doomaha gujiska ee Jarmalka waxa loo yaqaanay U-boats. Jarmalku aad bay ugu wacnaayeen hagista iyo ku shaqaynta gujisyadooda.,science/technology,geography,"<|begin_of_text|>SENTENCE:
+ Doomaha gujiska ee Jarmalka waxa loo yaqaanay U-boats. Jarmalku aad bay ugu wacnaayeen hagista iyo ku shaqaynta gujisyadooda. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+The"
+"In kastoo laga yaabo in muuqaalkood jirku beddelmo, qaabkiisa kiimikaad sideeda ayuu ahaadaa.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ In kastoo laga yaabo in muuqaalkood jirku beddelmo, qaabkiisa kiimikaad sideeda ayuu ahaadaa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+The sentence"
+Isjijiidka sagxadda biyaha ayaa wuxuu u dhacaa qaybaha biyaha ayaa isjiidanaayo in ka badan inta ay jiidanayaan hawada korkooda ah.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Isjijiidka sagxadda biyaha ayaa wuxuu u dhacaa qaybaha biyaha ayaa isjiidanaayo in ka badan inta ay jiidanayaan hawada korkooda ah. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+This sentence"
+Dhibaatooyinka ugu caansan ee lala kulmo marka filim loo baddalayo DVD waa isku dulshubka.,science/technology,entertainment,"<|begin_of_text|>SENTENCE:
+ Dhibaatooyinka ugu caansan ee lala kulmo marka filim loo baddalayo DVD waa isku dulshubka. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+D"
+"Gaar ahaan, waxaa la sheegaa in qofku ogaan karo inuu qofku been sheegayo isagoo si sax ah u turjumaya shucuuraha qarsoon.",science/technology,N/A,"<|begin_of_text|>SENTENCE:
+ Gaar ahaan, waxaa la sheegaa in qofku ogaan karo inuu qofku been sheegayo isagoo si sax ah u turjumaya shucuuraha qarsoon. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- None of the above.  This is"
+Dahabka waxaa loo sameyn karaa qaabkasta Waxaa loo duubi karaa qaabab aad u yar yar.,science/technology,geography,"<|begin_of_text|>SENTENCE:
+ Dahabka waxaa loo sameyn karaa qaabkasta Waxaa loo duubi karaa qaabab aad u yar yar. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+The"
+"Nidaamka AI hadda waxa looga adeegsada qaybaha dhaqaalaha, caafimaadka, injineernimada, iyo mallatariga, isla sida loogu adeegsado barnaamijyada kumbiyuutarada guryaha iyo ciyaaraha.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Nidaamka AI hadda waxa looga adeegsada qaybaha dhaqaalaha, caafimaadka, injineernimada, iyo mallatariga, isla sida loogu adeegsado barnaamijyada kumbiyuutarada guryaha iyo ciyaaraha. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Hadd"
+"Wali waa la soo saaraa ilaa maanta, laakin waxa kasii muhiimsan In saamigeedii qaabeed uu dhaxlay nooca sawir dareeme ee kamarada dhijitaalka ah.",science/technology,entertainment,"<|begin_of_text|>SENTENCE:
+ Wali waa la soo saaraa ilaa maanta, laakin waxa kasii muhiimsan In saamigeedii qaabeed uu dhaxlay nooca sawir dareeme ee kamarada dhijitaalka ah. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+The"
+Sharciga sadaxlaha ah ee inta badan la dacaayadeyo lana neceb yahay ayaa ah mid abuuraya fikrado kala duwan asagoo ilaalinaya muuqaal isku duwanaan.,science/technology,geography,"<|begin_of_text|>SENTENCE:
+ Sharciga sadaxlaha ah ee inta badan la dacaayadeyo lana neceb yahay ayaa ah mid abuuraya fikrado kala duwan asagoo ilaalinaya muuqaal isku duwanaan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+The"
+"Tani kaiya maaha xaqiijimo ku saabsan in ugu yaraan woxogaa dinosaaris ah leeyihiin aaboyaal, waa fikradu hore u faaftay , lakiin waxay bixinaysaa macluumad aan caam ahayn, sida midabka iyo u haynta qaab 3D ah.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Tani kaiya maaha xaqiijimo ku saabsan in ugu yaraan woxogaa dinosaaris ah leeyihiin aaboyaal, waa fikradu hore u faaftay, lakiin waxay bixinaysaa macluumad aan caam ahayn, sida midabka iyo u haynta qaab 3D ah. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+This sentence"
+"Sidey awooda jiiditaanka Io igu jiidi kartaa aniga? Hadaad istaagto sagxadda lo, culeyskaada ayaa ka yeraan intuu ahaa markaad joogtay Aduunka.",science/technology,travel,"<|begin_of_text|>SENTENCE:
+ Sidey awooda jiiditaanka Io igu jiidi kartaa aniga? Hadaad istaagto sagxadda lo, culeyskaada ayaa ka yeraan intuu ahaa markaad joogtay Aduunka. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The sentence"
+"NexGen waa nidaam FAA sheegayso inuu u sahlayo diyaaradaha inay ku duulaan waddooyin gaaban, marxiyaan malaayiin galaan oo shidaala sannadkii dhimanaa qiiqa hawada lagu sii daayo.",science/technology,travel,"<|begin_of_text|>SENTENCE:
+ NexGen waa nidaam FAA sheegayso inuu u sahlayo diyaaradaha inay ku duulaan waddooyin gaaban, marxiyaan malaayiin galaan oo shidaala sannadkii dhimanaa qiiqa hawada lagu sii daayo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Nex"
+"Xogta neerfeed waxay markhaati muuqda u yihiin hab aragtiyeedka lagu baadhayo qaab fahamka. Sidaa daraadeed, waxay soo koobaysaa aagga cilmi baadhiseed waxaanay ka dhigaysaa mid aad u saxan.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Xogta neerfeed waxay markhaati muuqda u yihiin hab aragtiyeedka lagu baadhayo qaab fahamka. Sidaa daraadeed, waxay soo koobaysaa aagga cilmi baadhiseed waxaanay ka dhigaysaa mid aad u saxan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+This sentence"
+"Hadalkiisii 2-da saacadood ahaa wuxu ku sheegay ""Maanta Apple waxay rabtaa inay dib u ikhtiraacdo telefoonka, Maanta waxaynu dhigaynaa taariikh"".",science/technology,entertainment,"<|begin_of_text|>SENTENCE:
+ Hadalkiisii 2-da saacadood ahaa wuxu ku sheegay ""Maanta Apple waxay rabtaa inay dib u ikhtiraacdo telefoonka, Maanta waxaynu dhigaynaa taariikh"". 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+The"
+Faa’iido la’aanta muraayadaha zoomka ayaa ah in adkaanta focal iyo tirada walxaha muraayadaha loo baahan yahay in la gaaro dherer kala duwan oofocal ah ay aad ugu weyn tahay tan muraayadaha indhaha.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Faa’iido la’aanta muraayadaha zoomka ayaa ah in adkaanta focal iyo tirada walxaha muraayadaha loo baahan yahay in la gaaro dherer kala duwan oofocal ah ay aad ugu weyn tahay tan muraayadaha indhaha. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+The sentence"
+"Dib u soo celinta ramuudka tifiga, maamulaha waxaa loo isticmala laba dareen wade oo u dhaw isticmalaha tifiga saddex gesoodka booska sadex cabirka banana.",science/technology,geography,"<|begin_of_text|>SENTENCE:
+ Dib u soo celinta ramuudka tifiga, maamulaha waxaa loo isticmala laba dareen wade oo u dhaw isticmalaha tifiga saddex gesoodka booska sadex cabirka banana. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+Aqoonyahanada sayniska ayaa sheegaan in dufka xayawaankani uu kor ka ahaa midab kafe hoosna ka ahaa midib furan ama midib cas.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Aqoonyahanada sayniska ayaa sheegaan in dufka xayawaankani uu kor ka ahaa midab kafe hoosna ka ahaa midib furan ama midib cas. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+The sentence"
+"Labada maado ayaa isu falceliyo iyagoo samaynaayo nooc cusbo ah oo joojin karo shaqaynta kilida, ayee cilmi baareyaasha jaamacada sheegeen.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Labada maado ayaa isu falceliyo iyagoo samaynaayo nooc cusbo ah oo joojin karo shaqaynta kilida, ayee cilmi baareyaasha jaamacada sheegeen. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+The sentence"
+Tan ayaa ka dhigeysa heerka nadiif muuqaal mid kabadan afar jeer kan 35mm negatif (3136 mm2 la bar bardhigay 864).,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Tan ayaa ka dhigeysa heerka nadiif muuqaal mid kabadan afar jeer kan 35mm negatif (3136 mm2 la bar bardhigay 864). 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+This sentence"
+"xadhiga khadka ee faybarka badda hoos mara ee Yurub iyo dayaxgacmeedka khadka daraadood, Greenland waxay si fiican bay isugu xiran tahay iyadoo ku dhawaad 93% dadku ay leeyihiin khad xawaare sare leh.",science/technology,geography,"<|begin_of_text|>SENTENCE:
+ xadhiga khadka ee faybarka badda hoos mara ee Yurub iyo dayaxgacmeedka khadka daraadood, Greenland waxay si fiican bay isugu xiran tahay iyadoo ku dhawaad 93% dadku ay leeyihiin khad xawaare sare leh. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+The"
+"Barnaamijyada ugu caansan ee qaybtan ka tirsan waxa ka mida Google Translate, kaasoo ogolaada turjumista bilaa khadka ah ka dib markaad la soo degto xogta luqadaad rabto.",science/technology,entertainment,"<|begin_of_text|>SENTENCE:
+ Barnaamijyada ugu caansan ee qaybtan ka tirsan waxa ka mida Google Translate, kaasoo ogolaada turjumista bilaa khadka ah ka dib markaad la soo degto xogta luqadaad rabto. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+H"
+"Waxay leedahay isla qaab dhismeedka haday tahay gas, dareere ama shey adag.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Waxay leedahay isla qaab dhismeedka haday tahay gas, dareere ama shey adag. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+This sentence"
+"Isticmaalka duubista fiidyowga ayaa keentay ikhtiraacyo muhiim ah intii lagu jirtay tarjumida mikroha, dhaqdhaqaada wajiga taasi oo ku dhamatay dhawr ilbidhiqsi.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Isticmaalka duubista fiidyowga ayaa keentay ikhtiraacyo muhiim ah intii lagu jirtay tarjumida mikroha, dhaqdhaqaada wajiga taasi oo ku dhamatay dhawr ilbidhiqsi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Ist"
+Bini aadamku waxay bikaacyada sameynayeen una adeegsanayeen waynaynta kumanaan kun oo sannadood.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Bini aadamku waxay bikaacyada sameynayeen una adeegsanayeen waynaynta kumanaan kun oo sannadood. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Bini"
+"Kaligiis maaha inkastoo khibradayn iyo tijaabo khibradeedba ay yihiin tijaabo loo isticmaalo in lagu tirtiro mid kamida fikrad-qaadashada ugu macquulsan,sualo waydiin, iyo indho indhaynta ayaa sidoo kale ah hagaha cilmi baadhis aqoon ku dhisan.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Kaligiis maaha inkastoo khibradayn iyo tijaabo khibradeedba ay yihiin tijaabo loo isticmaalo in lagu tirtiro mid kamida fikrad-qaadashada ugu macquulsan,sualo waydiin, iyo indho indhaynta ayaa sidoo kale ah hagaha cilmi baadhis aqoon ku dhisan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+The sentence"
+"Ugu dambayntii, taayiradii looxaha ahaa waxa lagu bedelay kuwo naxaas ah. 1767 dii, waddo tareenkii ugu horraysay ee wada naxaasta ahayd ayaa la sameeyay.",science/technology,geography,"<|begin_of_text|>SENTENCE:
+ Ugu dambayntii, taayiradii looxaha ahaa waxa lagu bedelay kuwo naxaas ah. 1767 dii, waddo tareenkii ugu horraysay ee wada naxaasta ahayd ayaa la sameeyay. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+The"
+"Inkastoo kaararka badi ay ku fiican yihiin in lagu waco meel walbo, kuwa qaar ayaa ku takhasuso inay koox wadamo gaar ah qiimo jaban lagu waco.",science/technology,geography,"<|begin_of_text|>SENTENCE:
+ Inkastoo kaararka badi ay ku fiican yihiin in lagu waco meel walbo, kuwa qaar ayaa ku takhasuso inay koox wadamo gaar ah qiimo jaban lagu waco. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+This"
+Badi xoqadaha xidigaha lagu eego casriga ah ayaa ah dhismooyiin weyn oo ku yaalo meelo fog oo leh jawi fiican.,science/technology,travel,"<|begin_of_text|>SENTENCE:
+ Badi xoqadaha xidigaha lagu eego casriga ah ayaa ah dhismooyiin weyn oo ku yaalo meelo fog oo leh jawi fiican. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The sentence"
+Irbada birta ah waxay dul saarnataa dusha biyaha sababtoo aqeybta sare ayaa kala baxda.,science/technology,geography,"<|begin_of_text|>SENTENCE:
+ Irbada birta ah waxay dul saarnataa dusha biyaha sababtoo aqeybta sare ayaa kala baxda. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+The"
+"Nooca 35mm dhab ahaantii, waxoogaa waa mid wareer keenaya, oo ballac ahaan ah 36mm dhererkana 24mm.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Nooca 35mm dhab ahaantii, waxoogaa waa mid wareer keenaya, oo ballac ahaan ah 36mm dhererkana 24mm. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+This sentence"
+"Unugyadu waxay sal iyo muhiim u yihiin barashada nolosha, xaqiiqatana, waxaaba lagu magacaaba inay yihiin "" bulukeetiga nolosha"".",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Unugyadu waxay sal iyo muhiim u yihiin barashada nolosha, xaqiiqatana, waxaaba lagu magacaaba inay yihiin "" bulukeetiga nolosha"". 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+This sentence"
+Bixinta VPN shakhsi ah (leh khadka gaarka u ah qofka) ayaa ah hab aad u wanaagsan kuna haboon kala saarista xaladaha siyaasada iyo ganacsiga labadaba.,science/technology,politics,"<|begin_of_text|>SENTENCE:
+ Bixinta VPN shakhsi ah (leh khadka gaarka u ah qofka) ayaa ah hab aad u wanaagsan kuna haboon kala saarista xaladaha siyaasada iyo ganacsiga labadaba. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+Hab"
+"Xarrunta hawadda ayaa ilaalinaysay aragtideeda, in kasta oo ay ku dhacday gryocope hore hawlihii saldhiga, ilaa dhammaadka marin habaabinta.",science/technology,geography,"<|begin_of_text|>SENTENCE:
+ Xarrunta hawadda ayaa ilaalinaysay aragtideeda, in kasta oo ay ku dhacday gryocope hore hawlihii saldhiga, ilaa dhammaadka marin habaabinta. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+The"
+"Dadka leh fikirka noocan ah ayaa leh fikirka sababaynta macquulka, ayaa awood u leh inay xafidaan naqshadooyinka, inay xaliyaan dhibaatooyinka sidoo kale na ka shaqeeyaan su’aalaha sayniska.",science/technology,N/A,"<|begin_of_text|>SENTENCE:
+ Dadka leh fikirka noocan ah ayaa leh fikirka sababaynta macquulka, ayaa awood u leh inay xafidaan naqshadooyinka, inay xaliyaan dhibaatooyinka sidoo kale na ka shaqeeyaan su’aalaha sayniska. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- None of the above 
+EXPLANATION"
+"Guduudanuhu wuxu jecel yahay inuu cuno xayawaanada yaryar. Waxay soo qabsadaan daayeerada, masaska, jiirarka iyo shimbiraha hadday karaan. Dhammaan xayawaanada guduudanuhu ugaarsado aad bay uga yar yihiin iyaga.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Guduudanuhu wuxu jecel yahay inuu cuno xayawaanada yaryar. Waxay soo qabsadaan daayeerada, masaska, jiirarka iyo shimbiraha hadday karaan. Dhammaan xayawaanada guduudanuhu ugaarsado aad bay uga yar yihiin iyaga. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+This sentence"
+"Qaar ka mida kamaradaha filimada dhexe ayaa adeegsada nooc 6 ba 6 sm ah, ama sida sii saxan 56 ba 56 mn ah.",science/technology,entertainment,"<|begin_of_text|>SENTENCE:
+ Qaar ka mida kamaradaha filimada dhexe ayaa adeegsada nooc 6 ba 6 sm ah, ama sida sii saxan 56 ba 56 mn ah. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: ENTERTAINMENT
+ REASONING SKILL"
+Dadka safraya waxaa lagu dhiira gelinaya in ay ka warhayan qatarta sameynta cimilada sameynta ay ku ledahay goobta iyo in ay sameyn karto qorshahooda safarka.,travel,travel,"<|begin_of_text|>SENTENCE:
+ Dadka safraya waxaa lagu dhiira gelinaya in ay ka warhayan qatarta sameynta cimilada sameynta ay ku ledahay goobta iyo in ay sameyn karto qorshahooda safarka. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+REASONING SKILL:
+"
+"Basasku waxay ka baxaan istaanka dhexe ee degmooyinka ( webiga ka tolowsan) maalinta oo dhan, in kastoo badankoodu, gaar ahaan kuwa ku socda Jakar/Bumthang ay baxaan inta u dhexaysa 06:30 iyo 07:30.",travel,geography,"<|begin_of_text|>SENTENCE:
+ Basasku waxay ka baxaan istaanka dhexe ee degmooyinka ( webiga ka tolowsan) maalinta oo dhan, in kastoo badankoodu, gaar ahaan kuwa ku socda Jakar/Bumthang ay baxaan inta u dhexaysa 06:30 iyo 07:30. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+Waxay deganaasho weyn siiyaan qofka saaran laakin waxay yeelan karaan walaac xagga amniga ah kaasoo la xiriira suurtagalnimada in cagaha qofka saarani ku xannibmaan.,travel,politics,"<|begin_of_text|>SENTENCE:
+ Waxay deganaasho weyn siiyaan qofka saaran laakin waxay yeelan karaan walaac xagga amniga ah kaasoo la xiriira suurtagalnimada in cagaha qofka saarani ku xannibmaan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+This sentence"
+"Markabyada dalxiiska ee Baltic intooda badan waxay baxshaan joogitaan fidsan oo St. Petersburg, Ruush ka ah.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Markabyada dalxiiska ee Baltic intooda badan waxay baxshaan joogitaan fidsan oo St. Petersburg, Ruush ka ah. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The sentence"
+"Talada ayaa qiyaasaysa in martida ay wax xadin, ay xad gudbin, ay ka qayb galin suuqa sharci darrada, ay baryootamin, ama sinaba ku isticmaalin dadka inay ka faa’idaan.",travel,N/A,"<|begin_of_text|>SENTENCE:
+ Talada ayaa qiyaasaysa in martida ay wax xadin, ay xad gudbin, ay ka qayb galin suuqa sharci darrada, ay baryootamin, ama sinaba ku isticmaalin dadka inay ka faa’idaan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- None of the above 
+EXPLANATION"
+Waxaa jiro wax yaabo badan oo ay tahay in aad ka fiirsato inta aadan meel usafrin ama aad usafartaba.,travel,travel,"<|begin_of_text|>SENTENCE:
+ Waxaa jiro wax yaabo badan oo ay tahay in aad ka fiirsato inta aadan meel usafrin ama aad usafartaba. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+This sentence"
+"Kuleelka maanta, dadka safrayo waxay la kulmaan mucjisoyin kuwaas oo ku tusayo muqaalo sida biyaha (ama wax yaabo kale).",travel,entertainment,"<|begin_of_text|>SENTENCE:
+ Kuleelka maanta, dadka safrayo waxay la kulmaan mucjisoyin kuwaas oo ku tusayo muqaalo sida biyaha (ama wax yaabo kale). 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+The"
+Qoysaska leh caruur waa ay ku yar yahiin laakin hodheelo qaar way u ogolaadaan qolal gaar ah.,travel,geography,"<|begin_of_text|>SENTENCE:
+ Qoysaska leh caruur waa ay ku yar yahiin laakin hodheelo qaar way u ogolaadaan qolal gaar ah. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+Q"
+"Tusaale booqashada guryaha boqortooyada ee buraha Loire, buraha Rhine ama ku qaadashada socod xiiso leh magaalooyinka Danube ama doon racida kanaalka biyaha Erie Canal.",travel,geography,"<|begin_of_text|>SENTENCE:
+ Tusaale booqashada guryaha boqortooyada ee buraha Loire, buraha Rhine ama ku qaadashada socod xiiso leh magaalooyinka Danube ama doon racida kanaalka biyaha Erie Canal. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+T"
+Waxa fiicnaan lahayd isticmaalka wakiil si joogto ah kuugu soo gooya safarada la midka ah.,travel,travel,"<|begin_of_text|>SENTENCE:
+ Waxa fiicnaan lahayd isticmaalka wakiil si joogto ah kuugu soo gooya safarada la midka ah. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Wax"
+Couchsurfing waxa la aasaasay Jannaayo 2004 ka dib markii Casey Fenton oo aa barogaraamar kumbiyuutar uu tigidh jaban ugu duulay Iceland balse uu waayay meel uu dego.,travel,travel,"<|begin_of_text|>SENTENCE:
+ Couchsurfing waxa la aasaasay Jannaayo 2004 ka dib markii Casey Fenton oo aa barogaraamar kumbiyuutar uu tigidh jaban ugu duulay Iceland balse uu waayay meel uu dego. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Couch"
+Fiisayaasha ardaydu guud ahaan waxay leeyihiin shuruudo iyo habraac ka duwan kuwa dalxiisa caadiga ah iyo kuwa ganacsiga.,travel,N/A,"<|begin_of_text|>SENTENCE:
+ Fiisayaasha ardaydu guud ahaan waxay leeyihiin shuruudo iyo habraac ka duwan kuwa dalxiisa caadiga ah iyo kuwa ganacsiga. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- None of the above 
+EXPLANATION"
+Waddan kasta sidoo kale waxa uu leeyahay shuruuc cusub oo sheegaya ashayaada degdeg ah ee ay tahay in gaariga ay saaraato.,travel,entertainment,"<|begin_of_text|>SENTENCE:
+ Waddan kasta sidoo kale waxa uu leeyahay shuruuc cusub oo sheegaya ashayaada degdeg ah ee ay tahay in gaariga ay saaraato. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+The"
+"Inkasto inta badan shirkadahan ay rabaan in ay isticmaalan buug keydinta caadiga, kuwo badan ayaa ku taqasusay nuuc gooniyo safar, cabir dhaqaale iyo gooboyin.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Inkasto inta badan shirkadahan ay rabaan in ay isticmaalan buug keydinta caadiga, kuwo badan ayaa ku taqasusay nuuc gooniyo safar, cabir dhaqaale iyo gooboyin. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+This sentence"
+Socotadu waxay wajihi karaan xayayaanka yaryar ee noolaha ku dulnool kaasi oo aanay ku aqoonin goobihii guryahooda.,travel,geography,"<|begin_of_text|>SENTENCE:
+ Socotadu waxay wajihi karaan xayayaanka yaryar ee noolaha ku dulnool kaasi oo aanay ku aqoonin goobihii guryahooda. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+The"
+"Sidoo kale waqooyiga booqo mowlaca Marwadeena Fatima, meel aduunka oo dhan ku caan soo bixidi Marian.",travel,geography,"<|begin_of_text|>SENTENCE:
+ Sidoo kale waqooyiga booqo mowlaca Marwadeena Fatima, meel aduunka oo dhan ku caan soo bixidi Marian. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+Sid"
+Waxaad isticmaali kartaa boda-boda (tagsi baaskiilka) si aad ugu aado Goma.Qiimaha caadiga ah (gudaha) ayaa ah 500 lacagta farasiiska ah si loogu fuulo masaafo yar.,travel,travel,"<|begin_of_text|>SENTENCE:
+ Waxaad isticmaali kartaa boda-boda (tagsi baaskiilka) si aad ugu aado Goma.Qiimaha caadiga ah (gudaha) ayaa ah 500 lacagta farasiiska ah si loogu fuulo masaafo yar. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+ REASONING:
+This question"
+"Kuwa ku raaxaysta waxqabadka banaanka,socdaal ila Badda dariiqa Iskay waa muhim.",travel,N/A,"<|begin_of_text|>SENTENCE:
+ Kuwa ku raaxaysta waxqabadka banaanka,socdaal ila Badda dariiqa Iskay waa muhim. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- None of the above 
+EXPLANATION"
+"Socodka safari (sidoo kale na loo yaqaano socodka duurka”, “socodka safari”, ama ku bixitaanka “lugta”) ayaa koobo socodka oo dhawr saacadood ama dhawr maalmood.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Socodka safari (sidoo kale na loo yaqaano socodka duurka”, “socodka safari”, ama ku bixitaanka “lugta”) ayaa koobo socodka oo dhawr saacadood ama dhawr maalmood. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Soc"
+"Sida ugu dhaqasiyaha badan ee looga bixi karay ayaa ah in dirno ayadoo alaab lahubiya. Shirkadaha duulimad ma ogola alaab aan cidna la socon, sababta aad adiga u joogta taasa.",travel,N/A,"<|begin_of_text|>SENTENCE:
+ Sida ugu dhaqasiyaha badan ee looga bixi karay ayaa ah in dirno ayadoo alaab lahubiya. Shirkadaha duulimad ma ogola alaab aan cidna la socon, sababta aad adiga u joogta taasa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- None of the above. This sentence is"
+"Waxaa dheerad ah 300 buundoyin/bariijyo guud ahaan 1,300 gawaadhida qaada xamuulka si wax loogu qabto goobaha buuqa ku badan yahay.",travel,geography,"<|begin_of_text|>SENTENCE:
+ Waxaa dheerad ah 300 buundoyin/bariijyo guud ahaan 1,300 gawaadhida qaada xamuulka si wax loogu qabto goobaha buuqa ku badan yahay. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+This"
+"Qoysaska leh caruur yar yar waxay u bahan yahiin iney sameeyaan diyaar garow, lakin shaqada maalin laha way fududa tahay xitaa caruur aad ka u yar yar iyo caruurta iskuul dhigata.",travel,entertainment,"<|begin_of_text|>SENTENCE:
+ Qoysaska leh caruur yar yar waxay u bahan yahiin iney sameeyaan diyaar garow, lakin shaqada maalin laha way fududa tahay xitaa caruur aad ka u yar yar iyo caruurta iskuul dhigata. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+The"
+Qof kasta oo doonaya inuu gaari ku wato meelo joog sareeya ama waddooyinka buuraha dushooda waa inay ka fekeraan inuu baraf ama heerkul baraf ah dhici karo.,travel,travel,"<|begin_of_text|>SENTENCE:
+ Qof kasta oo doonaya inuu gaari ku wato meelo joog sareeya ama waddooyinka buuraha dushooda waa inay ka fekeraan inuu baraf ama heerkul baraf ah dhici karo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Qof"
+"Maanta, Timbuktu ayaa ah magaalo faqiir ah, inkastoo sumcadeeda ay ka dhigayso meel dadka dalxiiso soo jiidato, waxay na qabtaa garoon diyaarado.",travel,geography,"<|begin_of_text|>SENTENCE:
+ Maanta, Timbuktu ayaa ah magaalo faqiir ah, inkastoo sumcadeeda ay ka dhigayso meel dadka dalxiiso soo jiidato, waxay na qabtaa garoon diyaarado. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+The"
+"Inta lagu jiro qaboobaha, waxaa jira baraf kugu filan inuu ku xanibo kaaso da'aya wakhti yar.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Inta lagu jiro qaboobaha, waxaa jira baraf kugu filan inuu ku xanibo kaaso da'aya wakhti yar. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The sentence"
+"Hadaad dooneysid inaad diyaarad ku tagto aduunka dhamaan geeska Koonfuureed ee Aduunka, dooqyada diyaaradaha iyo meelaha ay u baxayaan ayaa u xadidan la’aanta wadooyin dul maraayo badaha.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Hadaad dooneysid inaad diyaarad ku tagto aduunka dhamaan geeska Koonfuureed ee Aduunka, dooqyada diyaaradaha iyo meelaha ay u baxayaan ayaa u xadidan la’aanta wadooyin dul maraayo badaha. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The sentence"
+"Diyaaradaha sida Imaraati, Diyaaradda Itixaad, Diyaarada Qatar, & Diyaaradaha Turkish waxay si fiican ugu fududeeyeen adeegyadoodii Afrika, waxaanay baxshaan adeegyo isku xidha magaalooyin waawayn oo Afrika ku yaal kuwaaso qiimo macquula leh marka loo eego diyaaradaha Reer Yurub.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Diyaaradaha sida Imaraati, Diyaaradda Itixaad, Diyaarada Qatar, & Diyaaradaha Turkish waxay si fiican ugu fududeeyeen adeegyadoodii Afrika, waxaanay baxshaan adeegyo isku xidha magaalooyin waawayn oo Afrika ku yaal kuwaaso qiimo macquula leh marka loo eego diyaaradaha Reer Yurub. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+ REASONING:
+ This sentence"
+"Ma jiraan Gaadiid kale oo dheeraad ah lama safrin lamana dul saarin, tareenkuna ma joogsan doono Wembley, iyo barkinka gawadhida iyo melaha la dhigto gawaadhida marka ay dadka ka duuayaan wadanka iyagoo aan la helin Karin owgeed.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Ma jiraan Gaadiid kale oo dheeraad ah lama safrin lamana dul saarin, tareenkuna ma joogsan doono Wembley, iyo barkinka gawadhida iyo melaha la dhigto gawaadhida marka ay dadka ka duuayaan wadanka iyagoo aan la helin Karin owgeed. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Ma j"
+"Guud ahaan, joogista waddan ajanabi muddo dheer waxay kaaga baahan tahay inaad fiiso horey ka sii hesho.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Guud ahaan, joogista waddan ajanabi muddo dheer waxay kaaga baahan tahay inaad fiiso horey ka sii hesho. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+This sentence"
+Tareen walbo ayaa qabaa qaybta Metroplus iyo Metro; qaybaha Metroplus ayaa marwalbo geeska ugu dambe tareenka ku yaalan oo u dhaw Cape Town.,travel,travel,"<|begin_of_text|>SENTENCE:
+ Tareen walbo ayaa qabaa qaybta Metroplus iyo Metro; qaybaha Metroplus ayaa marwalbo geeska ugu dambe tareenka ku yaalan oo u dhaw Cape Town. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+ REASONING SKILL:
+"
+Qof walba wuxuu ka qeyb qaata bulshada wuxuu isticmalaa nidaamka isu gudbida. Badanaa qof walba wuxuu ka cawda nidamaaka isu gudbida.,travel,politics,"<|begin_of_text|>SENTENCE:
+ Qof walba wuxuu ka qeyb qaata bulshada wuxuu isticmalaa nidaamka isu gudbida. Badanaa qof walba wuxuu ka cawda nidamaaka isu gudbida. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+The sentence"
+"Maadaama goobahu ay shacbiyad badanyihiin, dikhawguna ku yaryahay sidaa awgeed badiyaa dhibaato malahan, waxaad sidoo kale awoodaa inaad ku raaxaysato xidigaha.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Maadaama goobahu ay shacbiyad badanyihiin, dikhawguna ku yaryahay sidaa awgeed badiyaa dhibaato malahan, waxaad sidoo kale awoodaa inaad ku raaxaysato xidigaha. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Maada"
+Shuruudaha dal-ku-galka iyo qarashkuba way ku kala duwan yihiin waddamada waxaana saameynaya waddanka aad ka imanayso.,travel,geography,"<|begin_of_text|>SENTENCE:
+ Shuruudaha dal-ku-galka iyo qarashkuba way ku kala duwan yihiin waddamada waxaana saameynaya waddanka aad ka imanayso. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+The"
+"Marka loo hadlo si guud,ma jiro qodob taxaa marka loo eego qiimo dhimista ganacsiyada ama kuraasta dabaqada kowaad ee dagaalka ugu jirtay laga bilaabo A ilaa B.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Marka loo hadlo si guud,ma jiro qodob taxaa marka loo eego qiimo dhimista ganacsiyada ama kuraasta dabaqada kowaad ee dagaalka ugu jirtay laga bilaabo A ilaa B. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel 
+-EXPLANATION:
+This"
+Tuurista boomerang waa xirfad dalxiisayaal jecel yihiin inay helaan.,travel,travel,"<|begin_of_text|>SENTENCE:
+ Tuurista boomerang waa xirfad dalxiisayaal jecel yihiin inay helaan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+DEFINITION:
+Boomer"
+Duulimaadkani doorka keliya ee aad haysato maaha hadii aad rabto inaad ka tagto Baasifia Koonfureed iyo xeebta galbeed Koonfur Ameerika. ( eeg xagga hoose),travel,travel,"<|begin_of_text|>SENTENCE:
+ Duulimaadkani doorka keliya ee aad haysato maaha hadii aad rabto inaad ka tagto Baasifia Koonfureed iyo xeebta galbeed Koonfur Ameerika. ( eeg xagga hoose) 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The sentence"
+"San Francisco waxay hor marisay qaab dalxiis aad u balaran ay la socdaan hodheelo fara badan, mqayado cunto, iyo adeego aad iyo aad u xeer sareeyo.",travel,geography,"<|begin_of_text|>SENTENCE:
+ San Francisco waxay hor marisay qaab dalxiis aad u balaran ay la socdaan hodheelo fara badan, mqayado cunto, iyo adeego aad iyo aad u xeer sareeyo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+The"
+Mutadwacnimo ku shaqaynta adoo safraya waa qaab fiican oo aad isbeddel ku samayn karto balse maaha bixin kaliya.,travel,science/technology,"<|begin_of_text|>SENTENCE:
+ Mutadwacnimo ku shaqaynta adoo safraya waa qaab fiican oo aad isbeddel ku samayn karto balse maaha bixin kaliya. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+This sentence"
+Dadku ma sadaalin karan dulqaad iyo fahan wuxu u yahay laga maarmaan dadka safraya kuna soo noqonayo guryahooda.,travel,geography,"<|begin_of_text|>SENTENCE:
+ Dadku ma sadaalin karan dulqaad iyo fahan wuxu u yahay laga maarmaan dadka safraya kuna soo noqonayo guryahooda. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+The"
+"Ha ilaawin in aad ku darto lacagaha dheeriga fiisoyinka dheeriga, canshuurta bixitaanka, gaari raaca dhulka, iwm. dhamaan meelaha Africa ka banaanka.",travel,geography,"<|begin_of_text|>SENTENCE:
+ Ha ilaawin in aad ku darto lacagaha dheeriga fiisoyinka dheeriga, canshuurta bixitaanka, gaari raaca dhulka, iwm. dhamaan meelaha Africa ka banaanka. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+In kamida deeganka Bishkek ayaa eedeynaya mudaaharadlayaasah ka yimid koonfurta shari la'aanta ka jirto.,politics,geography,"<|begin_of_text|>SENTENCE:
+ In kamida deeganka Bishkek ayaa eedeynaya mudaaharadlayaasah ka yimid koonfurta shari la'aanta ka jirto. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+Qaybaha ku cusub Biljamka ayaa ahaa qayb kamida Luxembourg berigii hore lakiin waxay noqdeen Biljam intii ka danbaysay 1830 maadkii kadib kacdoonkii Biljamka.,politics,geography,"<|begin_of_text|>SENTENCE:
+ Qaybaha ku cusub Biljamka ayaa ahaa qayb kamida Luxembourg berigii hore lakiin waxay noqdeen Biljam intii ka danbaysay 1830 maadkii kadib kacdoonkii Biljamka. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+Q"
+"Ilaa sanad 1988, sanadiiqda codeynta waa in ay noqdan kuwa aan laheyn madmadow musuq maasuq halka codeyaasha iyo indha indheyasha marqaatiga ka noqon karo iney jirin wax bashqad aan lagu soo gudbin meesha si loo tiro si cadalad ah codadka ay dadku ku codeyeen.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Ilaa sanad 1988, sanadiiqda codeynta waa in ay noqdan kuwa aan laheyn madmadow musuq maasuq halka codeyaasha iyo indha indheyasha marqaatiga ka noqon karo iney jirin wax bashqad aan lagu soo gudbin meesha si loo tiro si cadalad ah codadka ay dadku ku codeyeen. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- None of the above ( politics ) 
+"
+Ilaaliye ra'iisul wasaare Julia Gillard ayaa ku dooday intii lagu jiray ololaha doorashada dawladda dhexe 2010 inay ay rumaysantahay in Ustareeliya noqon karto Jamhuuriyad dhamaadka boqortooyada Elizabeth II'S .,politics,politics,"<|begin_of_text|>SENTENCE:
+ Ilaaliye ra'iisul wasaare Julia Gillard ayaa ku dooday intii lagu jiray ololaha doorashada dawladda dhexe 2010 inay ay rumaysantahay in Ustareeliya noqon karto Jamhuuriyad dhamaadka boqortooyada Elizabeth II'S. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+ EXPLANATION:
+Ila"
+Dawlada Ireland ayaa adkeynaysaa muhiimada sharciyad baarlamaan oo arintan meel maraysaa ay leedahay.,politics,politics,"<|begin_of_text|>SENTENCE:
+ Dawlada Ireland ayaa adkeynaysaa muhiimada sharciyad baarlamaan oo arintan meel maraysaa ay leedahay. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+The sentence"
+Muran siyaadeed ka dhashay gobolka ayaa waxyeeleeyay xiriirka ka dhexeeya Armiiniya iyo Azerbaijan.,politics,geography,"<|begin_of_text|>SENTENCE:
+ Muran siyaadeed ka dhashay gobolka ayaa waxyeeleeyay xiriirka ka dhexeeya Armiiniya iyo Azerbaijan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+The"
+"Raiisel wasaare Stephen Harper wuxuu ogolaaday inuu u diro sharciga 'Nadiifsanaanta Hawada (Clean Air Act)' gudi xisbiyada u dhanyihiin si ay dib u eegis ugu sameeyaan, kahor aqrintiisa labaad, kadib kulankii 25-ta daqiiqo ee Talaadada uu kula yeeshay PMO hogaamiyaha NDP Jack Layton.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Raiisel wasaare Stephen Harper wuxuu ogolaaday inuu u diro sharciga 'Nadiifsanaanta Hawada (Clean Air Act)' gudi xisbiyada u dhanyihiin si ay dib u eegis ugu sameeyaan, kahor aqrintiisa labaad, kadib kulankii 25-ta daqiiqo ee Talaadada uu kula yeeshay PMO hogaamiyaha NDP Jack Layton. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+politics
+EXPLANATION:
+Rai"
+"Bishii la soo dhaafay, muddaharaado waawayn ayaa ka dhacay Poland markii waddankaasi saxeexay ACTA, taasoo dawladda Poland ku riixday inaanay saxeexin heshiiska, hadda uun.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Bishii la soo dhaafay, muddaharaado waawayn ayaa ka dhacay Poland markii waddankaasi saxeexay ACTA, taasoo dawladda Poland ku riixday inaanay saxeexin heshiiska, hadda uun. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+Hadd"
+Latalinta ayaaba iska ah xog dulmarid kooban ee jawiga siyaasada dalka.,politics,politics,"<|begin_of_text|>SENTENCE:
+ Latalinta ayaaba iska ah xog dulmarid kooban ee jawiga siyaasada dalka. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+TRANSLATION:
+Latal"
+"Intii lagu jiray xulashadii 1976, waxa uu arimaha dibada kala talinaaye Carter, intaa kadib waxaa u qabtay Lataliya Amniga Qaran (NSA) laga bilaabo 1977 ilaa 1981 asagoo ku xige Henry Kissinger.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Intii lagu jiray xulashadii 1976, waxa uu arimaha dibada kala talinaaye Carter, intaa kadib waxaa u qabtay Lataliya Amniga Qaran (NSA) laga bilaabo 1977 ilaa 1981 asagoo ku xige Henry Kissinger. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+The SENT"
+"Turkiga ayaa sidoo kale la wareegi doonaa ilaalinta dagal yahanada ISIS oo la qabtay, ayuu bayaanka sheegay, kuwaasoo wadamada yurubta diiday inay dib u noqdaan.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Turkiga ayaa sidoo kale la wareegi doonaa ilaalinta dagal yahanada ISIS oo la qabtay, ayuu bayaanka sheegay, kuwaasoo wadamada yurubta diiday inay dib u noqdaan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+This sentence"
+"Si kasto ay ahaato, qorshayaasha waxaa lagu gudbiyey ugu dhawaan ilaa, 800,000 askarta Casanka/Gaduudka oo ka soo jeeda Midow Sofiyeetka ayaa galaay kana sameeyey Belarussian iyo Ukrainian jiida hore ka bacdi marka ay galeen gobolada bariga ee Poland rabshado heshiiska Riga Peace Treaty, heshiiska Soviet-Polish Non-Aggression Pact iyo kuwa kale dhaqama kale calami ah, mid labadaba gesood iyo mid dhinacyo badan.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Si kasto ay ahaato, qorshayaasha waxaa lagu gudbiyey ugu dhawaan ilaa, 800,000 askarta Casanka/Gaduudka oo ka soo jeeda Midow Sofiyeetka ayaa galaay kana sameeyey Belarussian iyo Ukrainian jiida hore ka bacdi marka ay galeen gobolada bariga ee Poland rabshado heshiiska Riga Peace Treaty, heshiiska Soviet-Polish Non-Aggression Pact iyo kuwa kale dhaqama kale calami ah, mid labadaba gesood iyo mid dhinacyo badan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+politics
+EXPLANATION:
+This sentence"
+"Raacida nidaamka, HJR-3 waxaa dib loo eegi doona doorashada xigta diiwan gelinta ee 2015 ama 2016 waxa hadhay.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Raacida nidaamka, HJR-3 waxaa dib loo eegi doona doorashada xigta diiwan gelinta ee 2015 ama 2016 waxa hadhay. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+HJR"
+"Kadib markii la ansixiyay Kongareeska 4 Luulyo,Qoraal gacanta lagu qoray oo ay ku saxeexan yihiin Madaxwaynaha Koongareeska John Hancock iyo Xoghaye Charles Thomson ayaa loo diray madbacadii John Dunlap oo wax yar jirta.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Kadib markii la ansixiyay Kongareeska 4 Luulyo,Qoraal gacanta lagu qoray oo ay ku saxeexan yihiin Madaxwaynaha Koongareeska John Hancock iyo Xoghaye Charles Thomson ayaa loo diray madbacadii John Dunlap oo wax yar jirta. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+Kong"
+"Waxyar 11:00 ka dib, mudaharaadayaal ayaa xanibay baabuurta waqooyi u socda ee Whitehall.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Waxyar 11:00 ka dib, mudaharaadayaal ayaa xanibay baabuurta waqooyi u socda ee Whitehall. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+Waxy"
+"Si kastaba ha ahaatee, bishii Juun 1956, ballamihii Krushchev ayaa tijaabo la mariyay ka dib mar rabshado ka qarxay Poland, oo shaqaaluhu ka mudaharaadayeen cunto yari iyo mushahar dhimis, isu beddeleen muddaharaad guud oo lagaga soo horjeedo Hanti-wadaagga.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Si kastaba ha ahaatee, bishii Juun 1956, ballamihii Krushchev ayaa tijaabo la mariyay ka dib mar rabshado ka qarxay Poland, oo shaqaaluhu ka mudaharaadayeen cunto yari iyo mushahar dhimis, isu beddeleen muddaharaad guud oo lagaga soo horjeedo Hanti-wadaagga. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+The sentence"
+"Waxay aheyd keliya 40 kii sano lasoo dhafay iyo taas u dagaalami doonto xaqiiq, ugu badnaan sameyneyso cidamo, goob dagaalee Africa ilaa Asia, Afghanistan, Cuba iyo meelo kala badan.",politics,travel,"<|begin_of_text|>SENTENCE:
+ Waxay aheyd keliya 40 kii sano lasoo dhafay iyo taas u dagaalami doonto xaqiiq, ugu badnaan sameyneyso cidamo, goob dagaalee Africa ilaa Asia, Afghanistan, Cuba iyo meelo kala badan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The sentence"
+Bishii u danbaysay guddida madaxweynenimo ayaa soo jeedisay sugidda diwaangalin si ay qayb uga noqoto bakageka lagu cabirayo in wadanku lagu jiheeyo qbsoomidda doorashooyin cusub.,politics,politics,"<|begin_of_text|>SENTENCE:
+ Bishii u danbaysay guddida madaxweynenimo ayaa soo jeedisay sugidda diwaangalin si ay qayb uga noqoto bakageka lagu cabirayo in wadanku lagu jiheeyo qbsoomidda doorashooyin cusub. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+The sentence"
+Ciwaanada kale ee la dhameeyay ayaa waxa ku jira sida lasoo wariyay maamulka qudus kazoo muqadas ka ah labada qaran arinta dooxada Jordan ba.,politics,geography,"<|begin_of_text|>SENTENCE:
+ Ciwaanada kale ee la dhameeyay ayaa waxa ku jira sida lasoo wariyay maamulka qudus kazoo muqadas ka ah labada qaran arinta dooxada Jordan ba. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+The"
+Sidoo kale awood uma laheyn inuu meesha ka saaro canshuurta iyo lacagaha koontorol ee gobolada.,politics,politics,"<|begin_of_text|>SENTENCE:
+ Sidoo kale awood uma laheyn inuu meesha ka saaro canshuurta iyo lacagaha koontorol ee gobolada. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+Sidoo"
+Sharciga doorashada Faransiiska ayaa si adag u u sharciyeeyay hab raacyada hawl qabasho.,politics,politics,"<|begin_of_text|>SENTENCE:
+ Sharciga doorashada Faransiiska ayaa si adag u u sharciyeeyay hab raacyada hawl qabasho. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+Sharc"
+"Kadib markii uu doorashada dhexe lumiyay muddo usbuuc ah, Bush wuxu dhagaytayaasha uga warramay ku fidinta ganacsiga ee Aasiya.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Kadib markii uu doorashada dhexe lumiyay muddo usbuuc ah, Bush wuxu dhagaytayaasha uga warramay ku fidinta ganacsiga ee Aasiya. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+Kad"
+"Istraatiijiga ayaa ahaa mid waxtar leh, isagoo ka xiraayo kaalmo ciidan ama shacab, inkastoo go’doomintan ay burisay sharci caalami oo la wada ogolahay oo lagu ansixiyay heshiisyo caalami oo labada qarni lasoo dhaafay.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Istraatiijiga ayaa ahaa mid waxtar leh, isagoo ka xiraayo kaalmo ciidan ama shacab, inkastoo go’doomintan ay burisay sharci caalami oo la wada ogolahay oo lagu ansixiyay heshiisyo caalami oo labada qarni lasoo dhaafay. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+Istra"
+Xiriirkii dhaqaale ayaa dib loo soo celiyay labadaas qaybood ee Moldova inkastoo wadahadlkii siyaasadeed fashilmay.,politics,politics,"<|begin_of_text|>SENTENCE:
+ Xiriirkii dhaqaale ayaa dib loo soo celiyay labadaas qaybood ee Moldova inkastoo wadahadlkii siyaasadeed fashilmay. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+The sentence"
+"Isagoo la jiro saraakiishaas, wuxuu u ballan qaaday muwadiniinta Texas in talaabooyin lagu qaadayo in lagu ilaaliyi nabadgeliyada dadwaynaha.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Isagoo la jiro saraakiishaas, wuxuu u ballan qaaday muwadiniinta Texas in talaabooyin lagu qaadayo in lagu ilaaliyi nabadgeliyada dadwaynaha. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+The sentence"
+Dhaliisha qolyaha laybaraalka ee u ku aaddan dib u dhisku waxay diiradda saartay siinta heshiiska dib u dhiska dad gaar ah oo Reer Washington ah.,politics,politics,"<|begin_of_text|>SENTENCE:
+ Dhaliisha qolyaha laybaraalka ee u ku aaddan dib u dhisku waxay diiradda saartay siinta heshiiska dib u dhiska dad gaar ah oo Reer Washington ah. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+REASONING:
+The sentence"
+"1,400 qof ee ka qayb qaatay doorashadii federaalka 2010gii, kuwii ka soo horjeestay inay Ustareeliya noqoto jamhuuriyad waxay kordheen boqolkiiba 8 illaa iyo 2008 kii.",politics,politics,"<|begin_of_text|>SENTENCE:
+ 1,400 qof ee ka qayb qaatay doorashadii federaalka 2010gii, kuwii ka soo horjeestay inay Ustareeliya noqoto jamhuuriyad waxay kordheen boqolkiiba 8 illaa iyo 2008 kii. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+This sentence"
+Diblomaasiyiinta ayaa sheegay inay heleen hubniin la’aan ku filan dastuurka Afghanistan oo ay ku go’aamiyaan ku celinta marxaladda ugu dambeysay ee doorashadda in loo baahneen.,politics,politics,"<|begin_of_text|>SENTENCE:
+ Diblomaasiyiinta ayaa sheegay inay heleen hubniin la’aan ku filan dastuurka Afghanistan oo ay ku go’aamiyaan ku celinta marxaladda ugu dambeysay ee doorashadda in loo baahneen. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+The sentence"
+"Ka dib markay natiijooyinka soo galeen, Gingrich ayaa u hambalyaayay Santorum lakin hadal adag ku dhahay Romney, oo isaga magaciisa xayaysiino olole xun logu samayay Iowa oo lola jeeday Gingrich.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Ka dib markay natiijooyinka soo galeen, Gingrich ayaa u hambalyaayay Santorum lakin hadal adag ku dhahay Romney, oo isaga magaciisa xayaysiino olole xun logu samayay Iowa oo lola jeeday Gingrich. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+This sentence"
+Waa mid kamida rashinka shanaad ee Martlley muddo afar sanno ah.,politics,travel,"<|begin_of_text|>SENTENCE:
+ Waa mid kamida rashinka shanaad ee Martlley muddo afar sanno ah. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Waa"
+"Biladaha dahabka ee Olimbikada waxaa sababay in lagu dabaasho orodka 100m iyo 200m ee heerka sare ah iyo sedex relays oo ah ciyaarihi Barwaqa soranka, laakin cabashooyinkiisa dartis shaki kuma jiro.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Biladaha dahabka ee Olimbikada waxaa sababay in lagu dabaasho orodka 100m iyo 200m ee heerka sare ah iyo sedex relays oo ah ciyaarihi Barwaqa soranka, laakin cabashooyinkiisa dartis shaki kuma jiro. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+The sentence"
+"Isagoo hore u ahaa Horyaalkii Adduunka iyo Olambikada, ayuu haddana Saito ahaa gudoomiyaha Judo Federation ka ee Jabbaaniiska markii u dhintay.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Isagoo hore u ahaa Horyaalkii Adduunka iyo Olambikada, ayuu haddana Saito ahaa gudoomiyaha Judo Federation ka ee Jabbaaniiska markii u dhintay. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports 
+-EXPLANATION: 
+The SENT"
+"Gudida ciyaaraha olobikada ee caalamiga ah ayaa u codeeyay in lagusoo daro ciyaaraha kulankooda masuuliyiinka ka dhacaya Berlin maanta. Rugby, khaasatan midawga rugby, iyo gacanka halkaasoo laga dooranayo shan ciyaarood oo kale in loot ix galiyo inay ka qayb qaataan olombikada.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Gudida ciyaaraha olobikada ee caalamiga ah ayaa u codeeyay in lagusoo daro ciyaaraha kulankooda masuuliyiinka ka dhacaya Berlin maanta. Rugby, khaasatan midawga rugby, iyo gacanka halkaasoo laga dooranayo shan ciyaarood oo kale in loot ix galiyo inay ka qayb qaataan olombikada. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+Ciya"
+Tartankii ugu balaarnaa ee sanadka ayaa lagu qabanayaa bisha Diiseembar dhexdeeda aagagga Polo ee Las Canitas.,sports,travel,"<|begin_of_text|>SENTENCE:
+ Tartankii ugu balaarnaa ee sanadka ayaa lagu qabanayaa bisha Diiseembar dhexdeeda aagagga Polo ee Las Canitas. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+REASONING SKILL:
+"
+"Ka dib intuu u guuray caasimadda Catalan, Vidal ayaa kooxda u ciyaaray 49 ciyaar.",sports,travel,"<|begin_of_text|>SENTENCE:
+ Ka dib intuu u guuray caasimadda Catalan, Vidal ayaa kooxda u ciyaaray 49 ciyaar. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The sentence"
+"Joogtaynta dheelitir tamareed caafimaad leh, ku dhaqmista dhaqan cabbis wax ku ool ah, iyo fahamka dhaqamada kaabiseed ee kala duwan ayaa ciyaartoyda ka caawin kara inay kor u qaadaan waxqabadkooda kordhiyaana ku raaxeysiga ciyaartooda.",sports,health,"<|begin_of_text|>SENTENCE:
+ Joogtaynta dheelitir tamareed caafimaad leh, ku dhaqmista dhaqan cabbis wax ku ool ah, iyo fahamka dhaqamada kaabiseed ee kala duwan ayaa ciyaartoyda ka caawin kara inay kor u qaadaan waxqabadkooda kordhiyaana ku raaxeysiga ciyaartooda. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health 
+-EXPLANATION:
+This sentence"
+"Kaalinta saddexaad, Hamlin ayaa labaatan dhibcood danbeeya, balse shan ka horeeya Bowyer. Kahne iyo Truex, Jr. iyana waxay ku jiraan kaalinta shanaad iyo lixaad siday u kala horeeyaan iyagoo kala wata 2,220 iyo 2,207 dhibcood.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Kaalinta saddexaad, Hamlin ayaa labaatan dhibcood danbeeya, balse shan ka horeeya Bowyer. Kahne iyo Truex, Jr. iyana waxay ku jiraan kaalinta shanaad iyo lixaad siday u kala horeeyaan iyagoo kala wata 2,220 iyo 2,207 dhibcood. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+Kaal"
+Diwaan galinta Madax madax ee Nadal iska hor imaadkii Kanadiyaanka ayaa ahayd 7-2.,sports,sports,"<|begin_of_text|>SENTENCE:
+ Diwaan galinta Madax madax ee Nadal iska hor imaadkii Kanadiyaanka ayaa ahayd 7-2. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+ REASONING SKILL:
+"
+Jarque wuxuu ku celcelinayey ka hor xiliga tobabarka Coverciano ee Italy gelinka hore. Wuxuu joogay hodheel ka koaxda lagu qorsheeyey ciyaarta maalinta Axada lagaga soo hor jeedey Bolonia.,sports,sports,"<|begin_of_text|>SENTENCE:
+ Jarque wuxuu ku celcelinayey ka hor xiliga tobabarka Coverciano ee Italy gelinka hore. Wuxuu joogay hodheel ka koaxda lagu qorsheeyey ciyaarta maalinta Axada lagaga soo hor jeedey Bolonia. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+REASONING:
+The sentence"
+Cabsida gaadiid la'aanta ayaa sare u qaadday suurtagalnimada in ciyaarta lagu qasbo inay lagu ciyaaro meel ay albaabadu xiraan yihiin iyadoo aan joogin taageerayaasha kooxda.,sports,geography,"<|begin_of_text|>SENTENCE:
+ Cabsida gaadiid la'aanta ayaa sare u qaadday suurtagalnimada in ciyaarta lagu qasbo inay lagu ciyaaro meel ay albaabadu xiraan yihiin iyadoo aan joogin taageerayaasha kooxda. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+The"
+"Tommy Dreamer waxa uu dhahay ""Luna waxa ay aheyd boqoradii koowaad ee Aadka. Maareyaheygi ugu horeye. Luna waxa ay dhimate habeenki lahaa labada bil. Qurux gooniyo sideedo kale ah. Naag hawl kar ah.""",sports,entertainment,"<|begin_of_text|>SENTENCE:
+ Tommy Dreamer waxa uu dhahay ""Luna waxa ay aheyd boqoradii koowaad ee Aadka. Maareyaheygi ugu horeye. Luna waxa ay dhimate habeenki lahaa labada bil. Qurux gooniyo sideedo kale ah. Naag hawl kar ah."" 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+The"
+Ragga aragga naafada ka ah ee Poland ee skier Maciej Krezel iyo hagaha Anna Ogarzynska waxay ku dhamaysteen booska saddex iyo tobnaad ee tartarka Baraf ku sibqidda (Super-G).  Jong Seork Park ee Kuuriyana wuxuu ku dhamaystay booska labaatan iyo afaraad ee fadhi baraf ku subqidda (sitting Super-G) ee ragga.,sports,sports,"<|begin_of_text|>SENTENCE:
+ Ragga aragga naafada ka ah ee Poland ee skier Maciej Krezel iyo hagaha Anna Ogarzynska waxay ku dhamaysteen booska saddex iyo tobnaad ee tartarka Baraf ku sibqidda (Super-G).  Jong Seork Park ee Kuuriyana wuxuu ku dhamaystay booska labaatan iyo afaraad ee fadhi baraf ku subqidda (sitting Super-G) ee ragga. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+This sentence"
+"Wararka tartanka ku saabsan iyo meelaha aad ka iibsanayso tigidhada kulamada Boolo, ka eeg Ururka Argentina de Polo.",sports,geography,"<|begin_of_text|>SENTENCE:
+ Wararka tartanka ku saabsan iyo meelaha aad ka iibsanayso tigidhada kulamada Boolo, ka eeg Ururka Argentina de Polo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+"Ciyaaruhu waxay ku bilaabmeen cimilo heersare ah 10:00 subaxnimo marka laga reebo subaxnimadii dhexe shuux da'ay oo markiiba qaaday, waxay ahayd maalintii ugu wacnayd ee ciyaarta 7 ragbi dhacdo.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Ciyaaruhu waxay ku bilaabmeen cimilo heersare ah 10:00 subaxnimo marka laga reebo subaxnimadii dhexe shuux da'ay oo markiiba qaaday, waxay ahayd maalintii ugu wacnayd ee ciyaarta 7 ragbi dhacdo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+Ciya"
+Arly Velasquez oo ka soo jeeda Mexico wuxuu ku gabababeeyey shan iyo toban taagnana ee ciyaarta ragga Super-G. New Zealand's Adam Hall wuxu ku dhameeyey sagaal iyo toban fadhi ciyaarta raga ee Super-G.,sports,sports,"<|begin_of_text|>SENTENCE:
+ Arly Velasquez oo ka soo jeeda Mexico wuxuu ku gabababeeyey shan iyo toban taagnana ee ciyaarta ragga Super-G. New Zealand's Adam Hall wuxu ku dhameeyey sagaal iyo toban fadhi ciyaarta raga ee Super-G. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+sports
+EXPLANATION:
+Ciyaart"
+Cayaarta fiinalka waxa ay ka dhici doonta Ellis Park ee Johannesburg isbuuca xiga marka Springboks ay Australia ku cayaaran.,sports,sports,"<|begin_of_text|>SENTENCE:
+ Cayaarta fiinalka waxa ay ka dhici doonta Ellis Park ee Johannesburg isbuuca xiga marka Springboks ay Australia ku cayaaran. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+sports
+EXPLANATION:
+This sentence is"
+Marka xaaladu wanaagsan tahay waxaad socod kaga gudbi kartaa masaafo waxooga ka badan ta lugaynta – balse waa dhif inaad sibibixasho kaga gudubto dalka adoo raacin waddooyinka socdaalka.,sports,travel,"<|begin_of_text|>SENTENCE:
+ Marka xaaladu wanaagsan tahay waxaad socod kaga gudbi kartaa masaafo waxooga ka badan ta lugaynta – balse waa dhif inaad sibibixasho kaga gudubto dalka adoo raacin waddooyinka socdaalka. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+This sentence"
+"Todabo dhibic ayuu dambeyaa, Johnson ayaa laba ah asagoo haysta 2,243 dhibac.",sports,travel,"<|begin_of_text|>SENTENCE:
+ Todabo dhibic ayuu dambeyaa, Johnson ayaa laba ah asagoo haysta 2,243 dhibac. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+This sentence"
+Faallo xarig ka degista (ama: kaanyoneerin) waa ku daadag gunta hog maran ama biyo ka buuxaanba.,sports,N/A,"<|begin_of_text|>SENTENCE:
+ Faallo xarig ka degista (ama: kaanyoneerin) waa ku daadag gunta hog maran ama biyo ka buuxaanba. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- None of the above 
+EXPLANATION"
+"Robin Uthappa wuxuu sameeyey dhib cihii ugu sareeyey, 70 orodyo 41 kubad ayuu tuuray 11 afar iyo 2 lex.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Robin Uthappa wuxuu sameeyey dhib cihii ugu sareeyey, 70 orodyo 41 kubad ayuu tuuray 11 afar iyo 2 lex. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+Dhib"
+"Ciyaarha xagaaga ahaa ah kuwa ugu caansan gobolada waqooyiga, munasabadaha uu ciyaaraha caalamiga ah talyaanigu badiya ahaa ah kuwa olombobikada.",sports,geography,"<|begin_of_text|>SENTENCE:
+ Ciyaarha xagaaga ahaa ah kuwa ugu caansan gobolada waqooyiga, munasabadaha uu ciyaaraha caalamiga ah talyaanigu badiya ahaa ah kuwa olombobikada. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+The"
+"Maroochydore waxa uu ku soo dhameeyay sallaanka korkiisa, halkaasoo lix dhibcood ka sarraysa Noosa muddo ilbiriqsi ah.",sports,geography,"<|begin_of_text|>SENTENCE:
+ Maroochydore waxa uu ku soo dhameeyay sallaanka korkiisa, halkaasoo lix dhibcood ka sarraysa Noosa muddo ilbiriqsi ah. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+"Michael Schumacher wuxuu dhammeeyay tartankiisii ​​wakhti aan dheerayn Alonso kadib, sababtuna tahay biraha shaagaga ayaa cillad ku timi intii uu socday tartanku.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Michael Schumacher wuxuu dhammeeyay tartankiisii ​​wakhti aan dheerayn Alonso kadib, sababtuna tahay biraha shaagaga ayaa cillad ku timi intii uu socday tartanku. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+ REASONING SKILL:
+"
+"Habdhaqan nafaqeed habboon oo keliya ma soo saari karo ciyaar-yahano sare, balse waxay si wayn u saameyn karaan fayo-qabka guud ee ciyaartoyda.",sports,geography,"<|begin_of_text|>SENTENCE:
+ Habdhaqan nafaqeed habboon oo keliya ma soo saari karo ciyaar-yahano sare, balse waxay si wayn u saameyn karaan fayo-qabka guud ee ciyaartoyda. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+The"
+Waa uu awoodi waayay inuu qaato daawooyinkii loo baahnaa inuu qaato si uu uga takhaluso xanuunkiisa maadaama ay mamnuuc ciyaarta ka yihiin.,sports,health,"<|begin_of_text|>SENTENCE:
+ Waa uu awoodi waayay inuu qaato daawooyinkii loo baahnaa inuu qaato si uu uga takhaluso xanuunkiisa maadaama ay mamnuuc ciyaarta ka yihiin. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health 
+-EXPLANATION:
+This sentence"
+Cilmi badhistu waxay ogaatay in dumarku ay laba jeer ay u badan tahay iney heelan xanuunka MS marka loo eego ragga.,health,N/A,"<|begin_of_text|>SENTENCE:
+ Cilmi badhistu waxay ogaatay in dumarku ay laba jeer ay u badan tahay iney heelan xanuunka MS marka loo eego ragga. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- None of the above 
+EXPLANATION"
+"Isbiirtooyinka sharci darrada ah waxa ku jira haraayo khatara sida miisanool, taasoo sababi karta indho la'aan, ama dhimasho xitaa in yar laga isticmaalo.",health,science/technology,"<|begin_of_text|>SENTENCE:
+ Isbiirtooyinka sharci darrada ah waxa ku jira haraayo khatara sida miisanool, taasoo sababi karta indho la'aan, ama dhimasho xitaa in yar laga isticmaalo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+This sentence"
+Keliya saameynaha masibaynta ayaa shuruud u ahaa kulamada pA ee todobaadlaha ah balse niyadjabka iyo baqdintu ma ahayn.,health,travel,"<|begin_of_text|>SENTENCE:
+ Keliya saameynaha masibaynta ayaa shuruud u ahaa kulamada pA ee todobaadlaha ah balse niyadjabka iyo baqdintu ma ahayn. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+REASONING SKILL:
+"
+"Lahaanshaha dadka badan ee baabuurada ayaa sidoo kale sabab u noqdo shilalka badan ee ka dhaco wadooyinka, oo keenta soo saarka habab cusub ee dhanka caafimaadka lagu hagaajiyo jirarka dhaabaca ah.",health,health,"<|begin_of_text|>SENTENCE:
+ Lahaanshaha dadka badan ee baabuurada ayaa sidoo kale sabab u noqdo shilalka badan ee ka dhaco wadooyinka, oo keenta soo saarka habab cusub ee dhanka caafimaadka lagu hagaajiyo jirarka dhaabaca ah. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health 
+-EXPLANATION:
+This sentence"
+"Hogaamiyaasha cilmi barista waxay sheegen tani in ay hor seedi karto lagu ogaan karo xanuunka kansarka, xanuunka sanbabada HIV ga iyo bukaanada duumadawadama dhaqaalahooda hooseya, halkaas oo ay heerka samata baxa xanuunada sida kansarka ku dhaca nasaha taaso u dhigmeysa qeyb un marka loo barbar dhigo wadamada qaniga ah.",health,health,"<|begin_of_text|>SENTENCE:
+ Hogaamiyaasha cilmi barista waxay sheegen tani in ay hor seedi karto lagu ogaan karo xanuunka kansarka, xanuunka sanbabada HIV ga iyo bukaanada duumadawadama dhaqaalahooda hooseya, halkaas oo ay heerka samata baxa xanuunada sida kansarka ku dhaca nasaha taaso u dhigmeysa qeyb un marka loo barbar dhigo wadamada qaniga ah. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+health
+EXPLANATION:
+The sentence is"
+"Dr. Ehud Ur, oo ah borofisar caafimaadka Jaamacada Dalhousie ee ku taalo Halifax, Nova Scotia oo na isla markaas na ka ah gudoomiyaha qaybta bukaanka iyo sayniska Midowga Xanuunka Sokorta Canada ayaa taxadar ka bixiyay inay cilmi baarista wali hor leedahay.",health,health,"<|begin_of_text|>SENTENCE:
+ Dr. Ehud Ur, oo ah borofisar caafimaadka Jaamacada Dalhousie ee ku taalo Halifax, Nova Scotia oo na isla markaas na ka ah gudoomiyaha qaybta bukaanka iyo sayniska Midowga Xanuunka Sokorta Canada ayaa taxadar ka bixiyay inay cilmi baarista wali hor leedahay. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+health
+REASONING:
+This question requires"
+"Caruurtaas rabsho badan ayay doonayaan in ay galaan, sababtoo ah "" waxaay faraha la galaan hawlo khatara, way dagaalamaan, maamulka ayay ka hor yimaadaan"" si ay maskaxdooda uga shaqaysiiyaan, maadaama maskaxdooda aan hawlo caadi ahi kaga shaqaysiin karayn.",health,politics,"<|begin_of_text|>SENTENCE:
+ Caruurtaas rabsho badan ayay doonayaan in ay galaan, sababtoo ah "" waxaay faraha la galaan hawlo khatara, way dagaalamaan, maamulka ayay ka hor yimaadaan"" si ay maskaxdooda uga shaqaysiiyaan, maadaama maskaxdooda aan hawlo caadi ahi kaga shaqaysiin karayn. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+This sentence"
+Aadamaha waxay saameyn kara neefsashada biyo wasakhaysan oo hawada ay dabaylo iyo mawjado geliyeen.,health,science/technology,"<|begin_of_text|>SENTENCE:
+ Aadamaha waxay saameyn kara neefsashada biyo wasakhaysan oo hawada ay dabaylo iyo mawjado geliyeen. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Aadam"
+dadka qaar waxay aaminsanyihiin inay tahay daalis badan haday isticmaalaan assidka Lucid in badan.,health,science/technology,"<|begin_of_text|>SENTENCE:
+ dadka qaar waxay aaminsanyihiin inay tahay daalis badan haday isticmaalaan assidka Lucid in badan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+This question"
+Putro ayaa laga daaweey garabka hadda laakin wuxuu awooday inuu ciyaarta kusoo noqdo.,health,N/A,"<|begin_of_text|>SENTENCE:
+ Putro ayaa laga daaweey garabka hadda laakin wuxuu awooday inuu ciyaarta kusoo noqdo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- None of the above 
+EXPLANATION"
+"Intaas waxa dheer, ku fashalinka qabashada taasi waxay keenaysaa cawaaqib daran: koritaanka oo yaraada, nafaqo xumo, iyo ugu danbayntii dhimasho.",health,science/technology,"<|begin_of_text|>SENTENCE:
+ Intaas waxa dheer, ku fashalinka qabashada taasi waxay keenaysaa cawaaqib daran: koritaanka oo yaraada, nafaqo xumo, iyo ugu danbayntii dhimasho. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+This sentence"
+Saraakiisha magaalada Amsterdam iyo Matxafka Anne Frank ayaa sheegay in geedka uu qabo xanuun ka imaaday fungus uu na halis caafimaad gelinaayo dadwaynaha iyagoo sheegaayo inuu halis ugu jiray inuu dumo.,health,health,"<|begin_of_text|>SENTENCE:
+ Saraakiisha magaalada Amsterdam iyo Matxafka Anne Frank ayaa sheegay in geedka uu qabo xanuun ka imaaday fungus uu na halis caafimaad gelinaayo dadwaynaha iyagoo sheegaayo inuu halis ugu jiray inuu dumo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+ health 
+ REASONING: This sentence is"
+"Isbitaalku wuxuu raacay sharciga lagu maamulo infakshanka, iyadoo ay ku jirto kala saarida bukaanada kuwa kale lagaga hor tagayo suurta galnimada infakshanka kale.",health,travel,"<|begin_of_text|>SENTENCE:
+ Isbitaalku wuxuu raacay sharciga lagu maamulo infakshanka, iyadoo ay ku jirto kala saarida bukaanada kuwa kale lagaga hor tagayo suurta galnimada infakshanka kale. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The sentence"
+Machadka Caddaaladda iyo Dimuquraadiyada ee Haiti waxa u tixraacay cilmi baadhisyo madax bannaan oo soo jeedinaya in Ciidamada Nabad Ammaanka ee QM ay iyagoom ka war hayn keeneen cudurka.,health,politics,"<|begin_of_text|>SENTENCE:
+ Machadka Caddaaladda iyo Dimuquraadiyada ee Haiti waxa u tixraacay cilmi baadhisyo madax bannaan oo soo jeedinaya in Ciidamada Nabad Ammaanka ee QM ay iyagoom ka war hayn keeneen cudurka. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+This sentence"
+"Xanuunada infakshanka laftooda ama qatarta xeyawaanaadka waxay dhaawici karaan ama dili karaan dadka awood ahaan, badana looma kala saaro cayayan ahaan.",health,geography,"<|begin_of_text|>SENTENCE:
+ Xanuunada infakshanka laftooda ama qatarta xeyawaanaadka waxay dhaawici karaan ama dili karaan dadka awood ahaan, badana looma kala saaro cayayan ahaan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+The"
+"Caruurta ADD waxay la kulmeen waqti adag oo ay diirada ku saran sida shaqada iskuulka, laakin waxay diirada saari karaan waxyaabaha kale ee ayago ku raxeysanaya ciyaarida ciyaaraha ama daawashahda filim kartoonka ayaya xiseeyaan ama qorida hadal aan laheyn wax astaameyn ah.",health,entertainment,"<|begin_of_text|>SENTENCE:
+ Caruurta ADD waxay la kulmeen waqti adag oo ay diirada ku saran sida shaqada iskuulka, laakin waxay diirada saari karaan waxyaabaha kale ee ayago ku raxeysanaya ciyaarida ciyaaraha ama daawashahda filim kartoonka ayaya xiseeyaan ama qorida hadal aan laheyn wax astaameyn ah. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+The"
+"Sanad gudihiisa, qof oo xanuunka sida ayaa gaarsiin karo 10 ilaa 15 qof oo xiriir dhaw la leh.",health,travel,"<|begin_of_text|>SENTENCE:
+ Sanad gudihiisa, qof oo xanuunka sida ayaa gaarsiin karo 10 ilaa 15 qof oo xiriir dhaw la leh. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The sentence"
+"Markii dagaalku istaagay kadibna dhaawaca loo qaaaday cisbitaalka, ku dhawaad 40 ka mida maxaabiistii hadhsanayd ayaa iska sii joogay beerta, waxaanay diideen inay ku laabtaan qolaalkoodii.",health,health,"<|begin_of_text|>SENTENCE:
+ Markii dagaalku istaagay kadibna dhaawaca loo qaaaday cisbitaalka, ku dhawaad 40 ka mida maxaabiistii hadhsanayd ayaa iska sii joogay beerta, waxaanay diideen inay ku laabtaan qolaalkoodii. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health 
+-EXPLANATION:
+The sentence"
+Qorashada dhakhaatiirta waxa bilaabay Boqor Augustus waxaanay xataa noqdeen kuwii ugu horeeyay ee Ciidanka Caafimaad ee Roomaanka ee la adeegsan jiray dagaalada ka dib.,health,politics,"<|begin_of_text|>SENTENCE:
+ Qorashada dhakhaatiirta waxa bilaabay Boqor Augustus waxaanay xataa noqdeen kuwii ugu horeeyay ee Ciidanka Caafimaad ee Roomaanka ee la adeegsan jiray dagaalada ka dib. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+Qor"
+"Has ahaatee, darawalka waxa madaxa ka soo gaadhay dhaawac khatara.",health,geography,"<|begin_of_text|>SENTENCE:
+ Has ahaatee, darawalka waxa madaxa ka soo gaadhay dhaawac khatara. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+The"
+"""Waxaa hadda noo jooga jiirar 4 bilood jira oo aan qabin cudurka macaanka kuwaaso hore u qabi"" jiray.",health,health,"<|begin_of_text|>SENTENCE:
+ ""Waxaa hadda noo jooga jiirar 4 bilood jira oo aan qabin cudurka macaanka kuwaaso hore u qabi"" jiray. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+health
+EXPLANATION:
+The word """
+"Sumeynta gudaha ayaa noqon karta mid markiiba aan muuqan. Calaamadaha, sida mataga ayaa kuwo guuda mana ahan mid markiiba baaritaan dag daga lagu sameyn karo",health,travel,"<|begin_of_text|>SENTENCE:
+ Sumeynta gudaha ayaa noqon karta mid markiiba aan muuqan. Calaamadaha, sida mataga ayaa kuwo guuda mana ahan mid markiiba baaritaan dag daga lagu sameyn karo 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The sentence"
+"Sidaas daraaded, kuwa tiyaatarka saaran waxa ay wada cabayaan darogada cannabis, tiyaatarka laftirkiisana waxa uu ku dhiiri galinaya kasoo qeyb galayaasha in ay kuso biiran cabida.",entertainment,N/A,"<|begin_of_text|>SENTENCE:
+ Sidaas daraaded, kuwa tiyaatarka saaran waxa ay wada cabayaan darogada cannabis, tiyaatarka laftirkiisana waxa uu ku dhiiri galinaya kasoo qeyb galayaasha in ay kuso biiran cabida. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- None of the above 
+REASONING"
+Aerosmith ayaa baajisay waxyaalihii uga hadhsanaa socdaalkooda.,entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Aerosmith ayaa baajisay waxyaalihii uga hadhsanaa socdaalkooda. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+A"
+"Hadii aad dooneysid inaad u dhawaatid halka ay waxa ka dhacayaan, waa inaad waqti hore aad tagtid goob xeer dhigasho ee u dhaw muusikada.",entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Hadii aad dooneysid inaad u dhawaatid halka ay waxa ka dhacayaan, waa inaad waqti hore aad tagtid goob xeer dhigasho ee u dhaw muusikada. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+The"
+Waxa jira noocyo filim oo kala duwan kuwaasoo la adeegsaday sannado badan. Filimka caadiga ah ee 35 mm ( 36 by 24 mm taban) ayaana ah ka ugu caansan.,entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Waxa jira noocyo filim oo kala duwan kuwaasoo la adeegsaday sannado badan. Filimka caadiga ah ee 35 mm ( 36 by 24 mm taban) ayaana ah ka ugu caansan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+The"
+"In kastoo tani ay tahay hawl caadi ah, haddana Disney way mamnuucday: tigidhadu waa qaar aan la beddeli karin.",entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ In kastoo tani ay tahay hawl caadi ah, haddana Disney way mamnuucday: tigidhadu waa qaar aan la beddeli karin. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+This"
+Xalqad walba barnaamijka wuxuu diirada saaraya hal ku dhiga gaar ah buuga wuxuna soo saaray thal ku dhig isagoo ka sheekaynaya sheekooyin kala duwan.,entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Xalqad walba barnaamijka wuxuu diirada saaraya hal ku dhiga gaar ah buuga wuxuna soo saaray thal ku dhig isagoo ka sheekaynaya sheekooyin kala duwan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+The"
+Dhowr telefishin oo waaweyn ayaa la dhigay meelo kala duwan magalada Rome si ay dadka u daawadan xaflada.,entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Dhowr telefishin oo waaweyn ayaa la dhigay meelo kala duwan magalada Rome si ay dadka u daawadan xaflada. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+The"
+Sophocles iyo Aristophanes waxay weli yihiin riwaayad sameeyayaal caan ah riwaayadahoodana waxa loo aqoonsan yahay inay yihiin kuwa ugu fiican sugaanta caalamka.,entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Sophocles iyo Aristophanes waxay weli yihiin riwaayad sameeyayaal caan ah riwaayadahoodana waxa loo aqoonsan yahay inay yihiin kuwa ugu fiican sugaanta caalamka. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+R"
+Bandhig walbo ayaa sidoo kale talo bixin siin dono caruurta buugaga ay ka raadsan doonaan maktabada markay tagaan.,entertainment,N/A,"<|begin_of_text|>SENTENCE:
+ Bandhig walbo ayaa sidoo kale talo bixin siin dono caruurta buugaga ay ka raadsan doonaan maktabada markay tagaan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- None of the above 
+EXPLANATION"
+"Foorida, si aad cod dheeraada u hesho, waxaad adeegsanaysaa tuunbooyinka oo xawaaraha iyo cadaadiska loo kordhiyay.",entertainment,geography,"<|begin_of_text|>SENTENCE:
+ Foorida, si aad cod dheeraada u hesho, waxaad adeegsanaysaa tuunbooyinka oo xawaaraha iyo cadaadiska loo kordhiyay. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+The"
+Waad arki kartaa sadax xagalka asagoo mugdiya waxaadna ku arki kartaa aamusnaan inta uusan bandhiga bilaaban.,entertainment,travel,"<|begin_of_text|>SENTENCE:
+ Waad arki kartaa sadax xagalka asagoo mugdiya waxaadna ku arki kartaa aamusnaan inta uusan bandhiga bilaaban. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+This sentence"
+"Tusaaleyaal ku jira wax xarakaadka waxaa kamida ugaadhsiga,kaluumaysiga,sawir qaadista,daawashada shimbiraha, iyo booqashada baararka iyo sidoo kale barashada macluumaadka ku saabsan deegaanka.",entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Tusaaleyaal ku jira wax xarakaadka waxaa kamida ugaadhsiga,kaluumaysiga,sawir qaadista,daawashada shimbiraha, iyo booqashada baararka iyo sidoo kale barashada macluumaadka ku saabsan deegaanka. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+The"
+Dhagaxa sphinx waxaa loo sameeyay qaab muuqaaleed wacan iyo inuu sheego taariikh wakhti dheer.,entertainment,geography,"<|begin_of_text|>SENTENCE:
+ Dhagaxa sphinx waxaa loo sameeyay qaab muuqaaleed wacan iyo inuu sheego taariikh wakhti dheer. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+The"
+"Badanaa cunto khaasa ah ayay haystaan, sharaab iyo madadaalo bixiyayaal, si martida ay xaalad wanaagsan ugu hayaan, oo ay aagga ugu iliaaliyaan.",entertainment,politics,"<|begin_of_text|>SENTENCE:
+ Badanaa cunto khaasa ah ayay haystaan, sharaab iyo madadaalo bixiyayaal, si martida ay xaalad wanaagsan ugu hayaan, oo ay aagga ugu iliaaliyaan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+This sentence"
+"Isagoo markii horeba warbixin ku soo gudbinayay Ingiriisi iyo Jabbaaniis, ayuu ururka caalamiga ah bilaabaya barnaamijyo ku baxaya luuqadaha Isbaanish, Talyaani, iyo Kuuriyaanka oo laga siin dayno taleefishinada, websaytyada iyo aalada moobilada.",entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Isagoo markii horeba warbixin ku soo gudbinayay Ingiriisi iyo Jabbaaniis, ayuu ururka caalamiga ah bilaabaya barnaamijyo ku baxaya luuqadaha Isbaanish, Talyaani, iyo Kuuriyaanka oo laga siin dayno taleefishinada, websaytyada iyo aalada moobilada. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+The"
+Kahor intii aanu simpson Simon ka shaqaynin inuu qabto dhawr bandhig oo meelo kala duwan ah.,entertainment,sports,"<|begin_of_text|>SENTENCE:
+ Kahor intii aanu simpson Simon ka shaqaynin inuu qabto dhawr bandhig oo meelo kala duwan ah. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+sports
+EXPLANATION:
+Kahor"
+Tani ayaa u ogolaan doonto inay dadka ciyaaraya ay xukumaan talaabooyinka iyo dhaqdhaqaaqyada ciyaaraha fiidayaha iyagoo qalabka hawada ku dhaqdhaqaajinaayo.,entertainment,N/A,"<|begin_of_text|>SENTENCE:
+ Tani ayaa u ogolaan doonto inay dadka ciyaaraya ay xukumaan talaabooyinka iyo dhaqdhaqaaqyada ciyaaraha fiidayaha iyagoo qalabka hawada ku dhaqdhaqaajinaayo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- None of the above 
+EXPLANATION"
+"Ugu yaraan 100 qof ayaa ka soo qeyb galay xaflada, si loogu dabaal dago sanad guuridi ugu horeysay ee lamaane guurkoodu dhacay sanad kii laso dhafay.",entertainment,travel,"<|begin_of_text|>SENTENCE:
+ Ugu yaraan 100 qof ayaa ka soo qeyb galay xaflada, si loogu dabaal dago sanad guuridi ugu horeysay ee lamaane guurkoodu dhacay sanad kii laso dhafay. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Ugu"
+"Laba heesoo oo laga keenay filimka, Audition ( Doqomada Riyooda) iyo Magaalada Xiddigaha, ayaa helay inay u tartamaan heesta asalka ah ee ugu wacan. Istuudiyaha Lionsgate waxa uu helay 26 magacaabiseed - taasoo ka badan istuudiye kale oo kasta.",entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Laba heesoo oo laga keenay filimka, Audition ( Doqomada Riyooda) iyo Magaalada Xiddigaha, ayaa helay inay u tartamaan heesta asalka ah ee ugu wacan. Istuudiyaha Lionsgate waxa uu helay 26 magacaabiseed - taasoo ka badan istuudiye kale oo kasta. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+The"
+Dhumucda qolafta ee dhanka dhow waa ku dhawaad 70 km dhanka durugsana waa 100 km.,geography,geography,"<|begin_of_text|>SENTENCE:
+ Dhumucda qolafta ee dhanka dhow waa ku dhawaad 70 km dhanka durugsana waa 100 km. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+This"
+koonfurta durugsani waxay dhacdaa Niagara woqooyiguna waa hoyga aan la taaban ee quruxda dabiiciga ah ee Muskoka iyo wixii ka hoseya.,geography,geography,"<|begin_of_text|>SENTENCE:
+ koonfurta durugsani waxay dhacdaa Niagara woqooyiguna waa hoyga aan la taaban ee quruxda dabiiciga ah ee Muskoka iyo wixii ka hoseya. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+The"
+"Dhulka Ellswoth waa gobolka koonfurta Peninsuala, ee ay ku xeerantahay badda Bellingshausen.",geography,geography,"<|begin_of_text|>SENTENCE:
+ Dhulka Ellswoth waa gobolka koonfurta Peninsuala, ee ay ku xeerantahay badda Bellingshausen. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+The"
+Gudubka (Laamida) Cidhifka Koonfureed waa waddo 1600 km oo ka bilaabanta Istaanka McMurdo ee ku yaal Badda Ross illaa iyo Cidhifka.,geography,geography,"<|begin_of_text|>SENTENCE:
+ Gudubka (Laamida) Cidhifka Koonfureed waa waddo 1600 km oo ka bilaabanta Istaanka McMurdo ee ku yaal Badda Ross illaa iyo Cidhifka. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+The"
+"Waxa kor ka soo hadhaynaya dhamaadka waqooyi ee Machu Picchu waa buurtan dheer, oo badanaa kadaba muuqata sawir badan oo haraayada ka mida",geography,travel,"<|begin_of_text|>SENTENCE:
+ Waxa kor ka soo hadhaynaya dhamaadka waqooyi ee Machu Picchu waa buurtan dheer, oo badanaa kadaba muuqata sawir badan oo haraayada ka mida 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The sentence"
+"Enceladus waa sheyga soo keydiya sistamka cadceed geediyaha, dib ugu noqoshada boqol kiiba 90 iftiinka cadceda wuuw ku dhacay.",geography,science/technology,"<|begin_of_text|>SENTENCE:
+ Enceladus waa sheyga soo keydiya sistamka cadceed geediyaha, dib ugu noqoshada boqol kiiba 90 iftiinka cadceda wuuw ku dhacay. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Encel"
+"Midna uma muuqan karno mid u muuqad mid aad u cad, cir qurux badan, oo ay ku wareegsanyahiin buuro. Meelo yar oo aduunka ayaa lagu arki karaa sida ama laga maqli karo gudaha buraha.",geography,travel,"<|begin_of_text|>SENTENCE:
+ Midna uma muuqan karno mid u muuqad mid aad u cad, cir qurux badan, oo ay ku wareegsanyahiin buuro. Meelo yar oo aduunka ayaa lagu arki karaa sida ama laga maqli karo gudaha buraha. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+This sentence"
+"Hadda iyo Jabaan. Jabaan waxaa uu ahaa dal jasiirada, sida Biritan oo kale.",geography,geography,"<|begin_of_text|>SENTENCE:
+ Hadda iyo Jabaan. Jabaan waxaa uu ahaa dal jasiirada, sida Biritan oo kale. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+H"
+"Markee ugu badneyd, duufanta Torobikalka ee Gonu, loogu magac daray boorsadii caleenta qunbe luuqadaha Maldives-ka, waxa ay gaarte 240 kiilomitir saacadii (149 meyl saacadii)",geography,travel,"<|begin_of_text|>SENTENCE:
+ Markee ugu badneyd, duufanta Torobikalka ee Gonu, loogu magac daray boorsadii caleenta qunbe luuqadaha Maldives-ka, waxa ay gaarte 240 kiilomitir saacadii (149 meyl saacadii) 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The sentence"
+"Cabirka turkiga, marka lagu daro lagaha, waxuu ku fadhiya 783,562 iskuweer kiilomitir (300,948 sq mi), intaaso 755,688 iskuweer kiilomitir (291, 773 sq mi) ay ku jirto koonfur galbeed Asia iyo 23,764 iskuweer kiilomitir (9, 174 sq mi) ay ku jirto Yurub",geography,geography,"<|begin_of_text|>SENTENCE:
+ Cabirka turkiga, marka lagu daro lagaha, waxuu ku fadhiya 783,562 iskuweer kiilomitir (300,948 sq mi), intaaso 755,688 iskuweer kiilomitir (291, 773 sq mi) ay ku jirto koonfur galbeed Asia iyo 23,764 iskuweer kiilomitir (9, 174 sq mi) ay ku jirto Yurub 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+ EXPLANATION:
+ This"
+"Jasiiradaha Koonfurta Shetland, ee la helay 1819, waxaa sheegta dhowr wadamood waxayna leedahay saldhigyada ugu badan, iyadoo lix iyo toban ay firfircoon yihiin sannadka 2020.",geography,geography,"<|begin_of_text|>SENTENCE:
+ Jasiiradaha Koonfurta Shetland, ee la helay 1819, waxaa sheegta dhowr wadamood waxayna leedahay saldhigyada ugu badan, iyadoo lix iyo toban ay firfircoon yihiin sannadka 2020. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+The"
+"Apia waa casimada qabiilka Samoa. Magaalada waxay ku taala jasiirada Upolu sidoo kale dadkeeda waxay ka hoseyan 40,000.",geography,geography,"<|begin_of_text|>SENTENCE:
+ Apia waa casimada qabiilka Samoa. Magaalada waxay ku taala jasiirada Upolu sidoo kale dadkeeda waxay ka hoseyan 40,000. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+H"
+"Inkasto ay ka fogtahay duufantu bariga, waa ay adagtahay in la qiimeyo wax yeelada ay u geysan karto Qramada Midoobey iyo Caribbean-ka.",geography,geography,"<|begin_of_text|>SENTENCE:
+ Inkasto ay ka fogtahay duufantu bariga, waa ay adagtahay in la qiimeyo wax yeelada ay u geysan karto Qramada Midoobey iyo Caribbean-ka. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+The"
+Waxay ka dhuuban tahay maria-ga hoostiisa waxay na ka balaaran tahay dhulka sare.,geography,geography,"<|begin_of_text|>SENTENCE:
+ Waxay ka dhuuban tahay maria-ga hoostiisa waxay na ka balaaran tahay dhulka sare. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+This"
+Duurarka ayaa keli ahayn dhulal biyo fadhiyo ay ka baxeen geedaha mangrove - waxaa ku jiraan goobaha ugu dambeeyeen ee duurarka weyn ee buuxin jiray dhulka Gangetic.,geography,geography,"<|begin_of_text|>SENTENCE:
+ Duurarka ayaa keli ahayn dhulal biyo fadhiyo ay ka baxeen geedaha mangrove - waxaa ku jiraan goobaha ugu dambeeyeen ee duurarka weyn ee buuxin jiray dhulka Gangetic. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+The"
+Khariirada dhul gariirka ee Wakaalada Baarista Joolajyada Markaykanku may soo saarin wax dhul gariir ah oo ka muuqda Iceland todobaadkii hore.,geography,travel,"<|begin_of_text|>SENTENCE:
+ Khariirada dhul gariirka ee Wakaalada Baarista Joolajyada Markaykanku may soo saarin wax dhul gariir ah oo ka muuqda Iceland todobaadkii hore. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+ REASONING SKILL:
+"
+"Korka mid kamida waqooyiga buuraha Makka, waxaa aduunka intiisa kale ka xadidan godka.",geography,geography,"<|begin_of_text|>SENTENCE:
+ Korka mid kamida waqooyiga buuraha Makka, waxaa aduunka intiisa kale ka xadidan godka. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+The"

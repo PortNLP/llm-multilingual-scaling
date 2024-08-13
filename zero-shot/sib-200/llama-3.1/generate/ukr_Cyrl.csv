@@ -1,0 +1,3019 @@
+text,actual_category,predicted_category,generated_text
+"Мутація додає нову генетичну варіацію, а селекція прибирає її з сукупності виражених варіацій.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Мутація додає нову генетичну варіацію, а селекція прибирає її з сукупності виражених варіацій. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: -science
+EXPLANATION:
+Термін"
+"Атомна бомба працює за таким принципом, що вона бере енергію, щоб зібрати разом ядро з багатьома протонами та нейтронами.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Атомна бомба працює за таким принципом, що вона бере енергію, щоб зібрати разом ядро з багатьома протонами та нейтронами. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science
+EXPLANATION:
+Ця відповідь"
+Ядро складається з двох частинок – нейтронів і протонів.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Ядро складається з двох частинок – нейтронів і протонів. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+The sentence"
+"Це дозволило зум-об'єктивам створювати фотографії за якістю співставні із тією, яку досягають об'єктиви із постійною фокусною відстанню.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Це дозволило зум-об'єктивам створювати фотографії за якістю співставні із тією, яку досягають об'єктиви із постійною фокусною відстанню. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+This sentence"
+"Є кращими, ніж веб-проксі з декількох причин: вони переадресовують весь інтернет-трафік, а не лише http.",science/technology,entertainment,"<|begin_of_text|>SENTENCE:
+ Є кращими, ніж веб-проксі з декількох причин: вони переадресовують весь інтернет-трафік, а не лише http. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: #6 (entertainment)
+EXPLANATION:"
+"Інтерактивний дизайн вимагає того, щоб ви переоцінили свої уявлення про медіавиробництво і навчилися думати нелінійно.",science/technology,entertainment,"<|begin_of_text|>SENTENCE:
+ Інтерактивний дизайн вимагає того, щоб ви переоцінили свої уявлення про медіавиробництво і навчилися думати нелінійно. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+Ін"
+"Це стало звичайною практикою, хоч залізо спричиняло більше зношення дерев'яних коліс вагонів.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Це стало звичайною практикою, хоч залізо спричиняло більше зношення дерев'яних коліс вагонів. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+This sentence"
+"До прайду входять від одного до трьох дорослих самців-родичів, а також до тридцяти самиць і дитинчат.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ До прайду входять від одного до трьох дорослих самців-родичів, а також до тридцяти самиць і дитинчат. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Пра"
+"Хоча ШІ має сильні конотації з наковою фантастикою, ШІ формує дуже важливий підрозділ комп'ютерних наук, що вивчає поведінку, навчання та інтелектуальну адаптацію машини.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Хоча ШІ має сильні конотації з наковою фантастикою, ШІ формує дуже важливий підрозділ комп'ютерних наук, що вивчає поведінку, навчання та інтелектуальну адаптацію машини. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+ШІ"
+Співвідношення сторін цього формату (поділене на дванадцять щоб отримати найпростіше спвівідношення цілих чисел) тому і вважається 3:2.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Співвідношення сторін цього формату (поділене на дванадцять щоб отримати найпростіше спвівідношення цілих чисел) тому і вважається 3:2. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Форм"
+"Супутниковий телефон, як правило, не є заміною мобільного, оскільки ви маєте бути на відкритому повітрі з чіткою видимістю зі супутника, щоб зробити телефонний дзвінок.",science/technology,travel,"<|begin_of_text|>SENTENCE:
+ Супутниковий телефон, як правило, не є заміною мобільного, оскільки ви маєте бути на відкритому повітрі з чіткою видимістю зі супутника, щоб зробити телефонний дзвінок. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Суп"
+"І хоча гужові дороги, по суті, були двома паралельно розміщеними дошками з дерева, вони дозволяли коням, які працювали на них, розвивати вищу швидкість та тягти важчий вантаж, аніж по трохи більш вибоїстішим тогочасним звичайним дорогам.",science/technology,travel,"<|begin_of_text|>SENTENCE:
+ І хоча гужові дороги, по суті, були двома паралельно розміщеними дошками з дерева, вони дозволяли коням, які працювали на них, розвивати вищу швидкість та тягти важчий вантаж, аніж по трохи більш вибоїстішим тогочасним звичайним дорогам. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The sentence"
+"Люди знали про базові хімічні елементи, такі як золото, срібло та мідь із античних часів, оскільки всіх їх можна знайти у природі у нативній формі, і добувати їх примітивними інструментами доволі просто.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Люди знали про базові хімічні елементи, такі як золото, срібло та мідь із античних часів, оскільки всіх їх можна знайти у природі у нативній формі, і добувати їх примітивними інструментами доволі просто. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Ця"
+"Колесо неймовірним чином змінило світ. Найбільше, що колесо зробило для нас — дало можливість значно простіше та швидше здійснювати транспортування.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Колесо неймовірним чином змінило світ. Найбільше, що колесо зробило для нас — дало можливість значно простіше та швидше здійснювати транспортування. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Кол"
+"Це робиться для того, щоб зображення покривало весь екран. Це називається розгортка.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Це робиться для того, щоб зображення покривало весь екран. Це називається розгортка. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Опис"
+Німецькі підводні човни називалися U-Boats. Німці дуже добре розумілися на навігації та управлінні своїми підводними човнами.,science/technology,N/A,"<|begin_of_text|>SENTENCE:
+ Німецькі підводні човни називалися U-Boats. Німці дуже добре розумілися на навігації та управлінні своїми підводними човнами. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- None of the above 
+REASONING"
+"Хоча її фізичний стан може змінюватись, її хімічний склад залишається тим самим.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Хоча її фізичний стан може змінюватись, її хімічний склад залишається тим самим. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Хімі"
+"Поверхневий натяг виникає через те, що молекули води на її поверхні прив'язані одна до одної набагато сильніше, ніж до молекул повітря над ними.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Поверхневий натяг виникає через те, що молекули води на її поверхні прив'язані одна до одної набагато сильніше, ніж до молекул повітря над ними. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: -science 
+-EXPLANATION:
+This SENT"
+Одна з найпоширеніших проблем під час конвертації фільму у ДВД-формат — облямівка.,science/technology,entertainment,"<|begin_of_text|>SENTENCE:
+ Одна з найпоширеніших проблем під час конвертації фільму у ДВД-формат — облямівка. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+В"
+"Зокрема стверджують, що можливо визначити чи бреше людина за допомогою правильної інтерпретації мікровиразів.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Зокрема стверджують, що можливо визначити чи бреше людина за допомогою правильної інтерпретації мікровиразів. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Ця"
+Золоту можна надати найрізноманітніших форм. Воно може бути згорнено у крихітні форми.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Золоту можна надати найрізноманітніших форм. Воно може бути згорнено у крихітні форми. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Зол"
+"Система штучного інтелекту зараз часто використовується в галузях економіки, медицини, інженерії та збройних сил, оскільки вона була вбудована в кілька застосунків, пов'язаних з домашніми комп'ютерами та відеоіграми.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Система штучного інтелекту зараз часто використовується в галузях економіки, медицини, інженерії та збройних сил, оскільки вона була вбудована в кілька застосунків, пов'язаних з домашніми комп'ютерами та відеоіграми. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Систем"
+"Сьогодні він все ще виробляється, але більш важливим є те, що його співвідношення сторін перейняли формати датчиків зображення цифрових камер.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Сьогодні він все ще виробляється, але більш важливим є те, що його співвідношення сторін перейняли формати датчиків зображення цифрових камер. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Даний"
+"Часто використовуване і висміюване правило третин — це просте керівництво, що створює динамізм, зберігаючи при цьому міру порядку в зображенні.",science/technology,entertainment,"<|begin_of_text|>SENTENCE:
+ Часто використовуване і висміюване правило третин — це просте керівництво, що створює динамізм, зберігаючи при цьому міру порядку в зображенні. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+Р"
+"Це не тільки підтверджує популярну теорію про те, що принаймні деякі динозаври мали пір'я, але і повідомляє деталі, які не могли надати скам'янілості — наприклад, колір і тривимірне зображення.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Це не тільки підтверджує популярну теорію про те, що принаймні деякі динозаври мали пір'я, але і повідомляє деталі, які не могли надати скам'янілості — наприклад, колір і тривимірне зображення. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science
+EXPLANATION:
+Ця пропозиція"
+"Як гравітація Іо вплинула б на мене? Стоячи на поверхні Іо, ви будете важити менше, ніж на Землі.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Як гравітація Іо вплинула б на мене? Стоячи на поверхні Іо, ви будете важити менше, ніж на Землі. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science
+EXPLANATION:
+Ця відповідь"
+"NextGen – це система, яка, згідно з Федеральним авіаційним управлінням США, надасть літакам змогу літати коротшими маршрутами, щороку економити мільйони галонів пального та зменшити об'єм викидів вуглецю.",science/technology,travel,"<|begin_of_text|>SENTENCE:
+ NextGen – це система, яка, згідно з Федеральним авіаційним управлінням США, надасть літакам змогу літати коротшими маршрутами, щороку економити мільйони галонів пального та зменшити об'єм викидів вуглецю. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Ця"
+Нейробіологічні дані надають фізичні докази для теоретичного підходу до дослідження когнітивних здібностей. Таким чином вони звужують область пошуку і роблять її точнішою.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Нейробіологічні дані надають фізичні докази для теоретичного підходу до дослідження когнітивних здібностей. Таким чином вони звужують область пошуку і роблять її точнішою. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Ней"
+"У своєму двогодинному виступі він заявив: ""Сьогодні Apple збирається заново винайти телефон, сьогодні ми збираємося створити історію"".",science/technology,entertainment,"<|begin_of_text|>SENTENCE:
+ У своєму двогодинному виступі він заявив: ""Сьогодні Apple збирається заново винайти телефон, сьогодні ми збираємося створити історію"". 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+В"
+"Недолік об'єктивів зі змінною фокусною відстанню полягає у тому, що складність фокусу і кількість лінз оптичної системи, необхідних для досягнення діапазону фокусних відстаней, набагато більші, ніж в об'єктивах із постійною фокусною відстанню.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Недолік об'єктивів зі змінною фокусною відстанню полягає у тому, що складність фокусу і кількість лінз оптичної системи, необхідних для досягнення діапазону фокусних відстаней, набагато більші, ніж в об'єктивах із постійною фокусною відстанню. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: -science
+-synopsis: The article discusses"
+"Контролер, що нагадує телевізійний пульт, використовує два сенсори, розташовані біля телевізора користувача, щоб виконати тріангуляцію позиції у тривимірному просторі.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Контролер, що нагадує телевізійний пульт, використовує два сенсори, розташовані біля телевізора користувача, щоб виконати тріангуляцію позиції у тривимірному просторі. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Конт"
+". Учені стверджують, що оперення цієї тварини було каштаново-коричневим зверху з нижньою частиною блідого або каротиноїдного кольору.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+. Учені стверджують, що оперення цієї тварини було каштаново-коричневим зверху з нижньою частиною блідого або каротиноїдного кольору. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+This sentence"
+"Дослідники з університету повідомили, що внаслідок реакції між двома речовинами формуються кристали, які можуть блокувати роботу нирок.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Дослідники з університету повідомили, що внаслідок реакції між двома речовинами формуються кристали, які можуть блокувати роботу нирок. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Ця"
+Це дає майже у чотири рази більшу роздільну здатність ніж у 35 мм негативу (3136 квадратних міліметрів проти 864).,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Це дає майже у чотири рази більшу роздільну здатність ніж у 35 мм негативу (3136 квадратних міліметрів проти 864). 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: -science 
+EXPLANATION:
+This sentence is"
+"Завдяки підводним волоконно-оптичним кабельним лініям зв'язку з Європою і широкосмуговому супутниковому телебаченню, Гренландія має гарний зв'язок 93% населення, що має доступ до Інтернету.",science/technology,geography,"<|begin_of_text|>SENTENCE:
+ Завдяки підводним волоконно-оптичним кабельним лініям зв'язку з Європою і широкосмуговому супутниковому телебаченню, Гренландія має гарний зв'язок 93% населення, що має доступ до Інтернету. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+Г"
+"Одним з найбільш видатних додатків у цій категорії є Гугл Транслейт, який робить можливим офлайновий переклад після завантаження потрібних мовних даних.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Одним з найбільш видатних додатків у цій категорії є Гугл Транслейт, який робить можливим офлайновий переклад після завантаження потрібних мовних даних. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Гуг"
+"Вона має однакову молекулярну структуру у газоподібному, рідкому або твердому стані.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Вона має однакову молекулярну структуру у газоподібному, рідкому або твердому стані. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science
+EXPLANATION:
+This question requires in"
+"Використання відеозаписів привело до важливих відкриттів у тлумаченні мікровиразів – рухів обличчя, що тривають декілька мілісекунд.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Використання відеозаписів привело до важливих відкриттів у тлумаченні мікровиразів – рухів обличчя, що тривають декілька мілісекунд. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Вик"
+Люди виготовляють і використовують лінзи для збільшення протягом багатьох тисяч років.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Люди виготовляють і використовують лінзи для збільшення протягом багатьох тисяч років. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Лін"
+"Хоча це не лише експериментування, а експериментом є тест, що використовується для виключення однієї чи більше можливих гіпотез; ставлення запитань і спостереження також спрямовують наукове дослідження.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Хоча це не лише експериментування, а експериментом є тест, що використовується для виключення однієї чи більше можливих гіпотез; ставлення запитань і спостереження також спрямовують наукове дослідження. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: -science 
+-REASONING SKILL:"
+Зрештою дерев'яні колеса були замінені на залізні. У 1767 році з'явилися перші повністю залізні рейки.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Зрештою дерев'яні колеса були замінені на залізні. У 1767 році з'явилися перші повністю залізні рейки. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Ця"
+"Більшість карток підійдуть для дзвінків на будь-які напрямки, однак деякі мають вигідні тарифи для дзвінків у певні групи країн.",science/technology,travel,"<|begin_of_text|>SENTENCE:
+ Більшість карток підійдуть для дзвінків на будь-які напрямки, однак деякі мають вигідні тарифи для дзвінків у певні групи країн. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Кар"
+Більшість сучасних телескопів для наукових досліджень — це величезні об'єкти у віддалених районах зі сприятливими атмосферними умовами.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Більшість сучасних телескопів для наукових досліджень — це величезні об'єкти у віддалених районах зі сприятливими атмосферними умовами. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Ця"
+Сталева голка тримається на поверхні води через поверхневий натяг.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Сталева голка тримається на поверхні води через поверхневий натяг. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Стал"
+"Формат 35 мм насправді, трохи збиває з пантелику, 36 мм в ширину і 24 мм у висоту.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Формат 35 мм насправді, трохи збиває з пантелику, 36 мм в ширину і 24 мм у висоту. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+This SENT"
+"Клітини настільки основні та важливі для вивчення життя, що часто їх називають ""будівельними цеглинками життя"".",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Клітини настільки основні та важливі для вивчення життя, що часто їх називають ""будівельними цеглинками життя"". 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science
+EXPLANATION:
+Ця пропозиція"
+"Персональні провайдери VPN (віртуальних приватних мереж) — відмінний спосіб обійти як політичну цензуру, так і комерційну IP-геофільтрацію.",science/technology,politics,"<|begin_of_text|>SENTENCE:
+ Персональні провайдери VPN (віртуальних приватних мереж) — відмінний спосіб обійти як політичну цензуру, так і комерційну IP-геофільтрацію. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+Політи"
+"Станція зберегла своє положення, незважаючи на втрату гіроскопа на ранньому етапі польоту космічної станції, до кінця виходу у відкритий космос.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Станція зберегла своє положення, незважаючи на втрату гіроскопа на ранньому етапі польоту космічної станції, до кінця виходу у відкритий космос. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science 
+EXPLANATION:
+Ця"
+"Люди з цим типом мислення мають логічне мислення та можуть запам'ятовувати шаблони, розв'язувати задачі та працювати над науковими тестами.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Люди з цим типом мислення мають логічне мислення та можуть запам'ятовувати шаблони, розв'язувати задачі та працювати над науковими тестами. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science
+EXPLANATION:
+Ця відповідь"
+"Оцелоти люблять їсти маленьких тварин. Вони ловлять мавп, змій, гризунів і птахів, якщо можуть. Майже всі тварини, на яких полює оцелот, набагато менші за нього.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Оцелоти люблять їсти маленьких тварин. Вони ловлять мавп, змій, гризунів і птахів, якщо можуть. Майже всі тварини, на яких полює оцелот, набагато менші за нього. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Оц"
+"Деякі середньоформатні плівкові фотоапарати використовують формат 6 на 6 см, а точніше негатив 56 на 56 мм.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Деякі середньоформатні плівкові фотоапарати використовують формат 6 на 6 см, а точніше негатив 56 на 56 мм. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Фото"
+"Мандрівникам наполегливо рекомендується дізнаватися про ризики несприятливих погодних умов у їхньому районі, адже вони можуть вплинути на план подорожі.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Мандрівникам наполегливо рекомендується дізнаватися про ризики несприятливих погодних умов у їхньому районі, адже вони можуть вплинути на план подорожі. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Цей"
+"Автобуси відправляються від міжрайонного автовокзалу (через річку) протягом дня, хоча більшість з них, особливо ті, які прямують на схід і в Джакар/Бумтанг, відправляються з 06:30 до 07:30.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Автобуси відправляються від міжрайонного автовокзалу (через річку) протягом дня, хоча більшість з них, особливо ті, які прямують на схід і в Джакар/Бумтанг, відправляються з 06:30 до 07:30. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Ця"
+"Вони забезпечують вершнику більше стабільності, але можуть бути небезпечними через потенційну можливість стопи вершника застрягнути в них.",travel,geography,"<|begin_of_text|>SENTENCE:
+ Вони забезпечують вершнику більше стабільності, але можуть бути небезпечними через потенційну можливість стопи вершника застрягнути в них. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+The"
+"Більшість з цих примітних круїзів Балтійським морем характеризуються тривалою стоянкою у Санкт Петербурзі, Росія.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Більшість з цих примітних круїзів Балтійським морем характеризуються тривалою стоянкою у Санкт Петербурзі, Росія. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Ця"
+"Ця порада передбачає, що мандрівники не крадуть, не порушують, не беруть участі у справах, пов'язаних з нелегальним ринком, не жебракують або не експлуатують іншим чином інших людей заради власної вигоди.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Ця порада передбачає, що мандрівники не крадуть, не порушують, не беруть участі у справах, пов'язаних з нелегальним ринком, не жебракують або не експлуатують іншим чином інших людей заради власної вигоди. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Ця"
+Є багато речей які треба врахувати перед і під час подорожі куди-небудь.,travel,travel,"<|begin_of_text|>SENTENCE:
+ Є багато речей які треба врахувати перед і під час подорожі куди-небудь. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+REASONING SKILL:
+"
+"У спекотну погоду мандрівники можуть побачити міражі, що створюють ілюзію води (або інших речей).",travel,travel,"<|begin_of_text|>SENTENCE:
+ У спекотну погоду мандрівники можуть побачити міражі, що створюють ілюзію води (або інших речей). 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Ман"
+"Родини з маленькими дітьми — рідкісне явище, але деякі хостели заселяють їх до окремих кімнат.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Родини з маленькими дітьми — рідкісне явище, але деякі хостели заселяють їх до окремих кімнат. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Цей"
+"Скажімо, відвідати замки у долині Луари, у долині Рейну, чи відправитися в круїз до цікавих місць на річці Дунай, або здійснити подорож на човні вздовж каналу Ері.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Скажімо, відвідати замки у долині Луари, у долині Рейну, чи відправитися в круїз до цікавих місць на річці Дунай, або здійснити подорож на човні вздовж каналу Ері. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Ця"
+"Краще звернутися до агента, який часто бронює подорожі, схожі на ваші.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Краще звернутися до агента, який часто бронює подорожі, схожі на ваші. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Кращ"
+"Каучсерфінг було засновано в січні 2004-го року як результат того, що програміст Кейсі Фентон знайшов недорогий рейс до Ісландії, але не мав де зупинитися.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Каучсерфінг було засновано в січні 2004-го року як результат того, що програміст Кейсі Фентон знайшов недорогий рейс до Ісландії, але не мав де зупинитися. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Ка"
+Загалом вимоги та процес подання заявки на студентську візу відрізняються від процедури подання на звичайну туристичну чи ділову візу.,travel,travel,"<|begin_of_text|>SENTENCE:
+ Загалом вимоги та процес подання заявки на студентську візу відрізняються від процедури подання на звичайну туристичну чи ділову візу. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: - travel 
+EXPLANATION:
+Вимоги"
+"У кожній країні також існують унікальні закони, що встановлюють перелік предметів першої необхідності, які мають бути у машині.",travel,travel,"<|begin_of_text|>SENTENCE:
+ У кожній країні також існують унікальні закони, що встановлюють перелік предметів першої необхідності, які мають бути у машині. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Ця"
+"Хоча більшість агентств готові приймати найбільш звичні бронювання, багато агентів спеціалізуються на певних типах подорожей, розмірах бюджетів або напрямках.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Хоча більшість агентств готові приймати найбільш звичні бронювання, багато агентів спеціалізуються на певних типах подорожей, розмірах бюджетів або напрямках. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+-synonyms: tourism,"
+"Мандрівники можуть зіткнутися зі шкідниками тварин, про яких вони не чули в їх рідних місцях.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Мандрівники можуть зіткнутися зі шкідниками тварин, про яких вони не чули в їх рідних місцях. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Ман"
+"Так само на півночі відвідайте великий Заповідник Фатимської Божої Матері (Брати Храму), місце відомих на весь світ явлень Марії.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Так само на півночі відвідайте великий Заповідник Фатимської Божої Матері (Брати Храму), місце відомих на весь світ явлень Марії. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Цей"
+Для пересування Гомою ви можете користуватися бода-бода (мотоциклетне таксі). Звичайна (місцева) ціна становить ~500 конголезьких франків за коротку поїздку.,travel,travel,"<|begin_of_text|>SENTENCE:
+ Для пересування Гомою ви можете користуватися бода-бода (мотоциклетне таксі). Звичайна (місцева) ціна становить ~500 конголезьких франків за коротку поїздку. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+DEFINITION:
+ Bodab"
+"Для тих, кому подобається активний відпочинок, похід коридором ""Від моря до неба"" обов'язковий.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Для тих, кому подобається активний відпочинок, похід коридором ""Від моря до неба"" обов'язковий. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Опис"
+"Прогулянка сафарі (також називається ""прогулянкою у кущах"", ""похідним сафарі"" або подорожжю ""пішки"") — похід тривалістю декілька годин або декілька днів.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Прогулянка сафарі (також називається ""прогулянкою у кущах"", ""похідним сафарі"" або подорожжю ""пішки"") — похід тривалістю декілька годин або декілька днів. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+DEFINITION:
+Саф"
+"Єдиним способом зробити це швидко було надіслати його як зареєстрований багаж. Правила авіаперевезень не дозволяють надсилати багаж без пасажира, і тут ваш вихід.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Єдиним способом зробити це швидко було надіслати його як зареєстрований багаж. Правила авіаперевезень не дозволяють надсилати багаж без пасажира, і тут ваш вихід. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+В цьому"
+"Додано ще 300 вагонів, що доводить їх загальне число до 1300 одиниць, які будуть закуплені для зниження пасажирського навантаження.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Додано ще 300 вагонів, що доводить їх загальне число до 1300 одиниць, які будуть закуплені для зниження пасажирського навантаження. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Тер"
+"Родинам з маленькими дітьми може знадобитися більше приготувань, але день на свіжому повітрі — це цілком можливо, навіть з немовлятами та дошкільнятами.",travel,health,"<|begin_of_text|>SENTENCE:
+ Родинам з маленькими дітьми може знадобитися більше приготувань, але день на свіжому повітрі — це цілком можливо, навіть з немовлятами та дошкільнятами. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: - health 
+EXPLANATION: 
+Даний"
+"Кожен, хто планує їхати за кермом у високих широтах або через гірські перевали, має брати до уваги можливість снігу, льоду або мінусових температур.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Кожен, хто планує їхати за кермом у високих широтах або через гірські перевали, має брати до уваги можливість снігу, льоду або мінусових температур. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Ця"
+"Сьогодні Тімбукту — збідніле місто, хоча має аеропорт і приваблює туристів своєю історією.",travel,geography,"<|begin_of_text|>SENTENCE:
+ Сьогодні Тімбукту — збідніле місто, хоча має аеропорт і приваблює туристів своєю історією. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+Т"
+"Під час хуртовин за дуже короткий проміжок часу може випасти достатньо снігу, щоб застрягти у ньому.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Під час хуртовин за дуже короткий проміжок часу може випасти достатньо снігу, щоб застрягти у ньому. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Хур"
+"Якщо ви хочете облетіти світ лише в Південній півкулі, вибір рейсів та напрямків обмежений через відсутність трансокеанських маршрутів.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Якщо ви хочете облетіти світ лише в Південній півкулі, вибір рейсів та напрямків обмежений через відсутність трансокеанських маршрутів. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Ця"
+"Такі авіакомпанії, як ""Емірейтс"", ""Етіхад Ейрвейз"", ""Катар Ейрвейз"" і ""Турецькі Авіалінії"" вже значно розширили свої послуги в Африці і пропонують перельоти в багато великих міст Африки за конкурентоспроможними цінами, у порівнянні з іншими європейськими авіакомпаніями.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Такі авіакомпанії, як ""Емірейтс"", ""Етіхад Ейрвейз"", ""Катар Ейрвейз"" і ""Турецькі Авіалінії"" вже значно розширили свої послуги в Африці і пропонують перельоти в багато великих міст Африки за конкурентоспроможними цінами, у порівнянні з іншими європейськими авіакомпаніями. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+ DEFINITION:
+Авіак"
+"Ніякого додаткового транспорту не запускають і наземні потяги не зупинятимуться на Вемблі, а паркування автомоболів та перехоплювальні автостоянки не будуть доступними на поверхні.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Ніякого додаткового транспорту не запускають і наземні потяги не зупинятимуться на Вемблі, а паркування автомоболів та перехоплювальні автостоянки не будуть доступними на поверхні. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: - travel 
+EXPLANATION:
+Цей текст"
+"Загалом, для перебування у будь-якій іноземній країні протягом тривалого періоду потрібно заздалегідь отримати візу.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Загалом, для перебування у будь-якій іноземній країні протягом тривалого періоду потрібно заздалегідь отримати візу. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The sentence"
+У кожному поїзді є вагони МетроПлюс і Метро; вагони МетроПлюс завжди знаходяться у кінці поїзда ближче до Кейптауна.,travel,travel,"<|begin_of_text|>SENTENCE:
+ У кожному поїзді є вагони МетроПлюс і Метро; вагони МетроПлюс завжди знаходяться у кінці поїзда ближче до Кейптауна. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Пої"
+Усі живуть у суспільстві і користуються транспортними системами. При цьому мало не всі скаржаться на них.,travel,travel,"<|begin_of_text|>SENTENCE:
+ Усі живуть у суспільстві і користуються транспортними системами. При цьому мало не всі скаржаться на них. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+travel
+EXPLANATION:
+Трансп"
+"Оскільки ці райони малонаселені, і світлове забруднення не є проблемою, ви також зможете насолоджуватися зоряним небом.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Оскільки ці райони малонаселені, і світлове забруднення не є проблемою, ви також зможете насолоджуватися зоряним небом. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Ця"
+"Візові вимоги та витрати відрізняються від країни до країни, і залежать від того, звідки ви приїхали.",travel,N/A,"<|begin_of_text|>SENTENCE:
+ Візові вимоги та витрати відрізняються від країни до країни, і залежать від того, звідки ви приїхали. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: - travel, - politics 
+EXPLANATION:
+"
+"Загалом, на прямих рейсах із точки А до точки Б немає сенсу шукати знижки на місця бізнес-класу чи першого класу.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Загалом, на прямих рейсах із точки А до точки Б немає сенсу шукати знижки на місця бізнес-класу чи першого класу. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: - travel 
+EXPLANATION:
+Цей текст"
+"Кидання бумеранга — це популярна навичка, якою воліють оволодіти багато туристів.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Кидання бумеранга — це популярна навичка, якою воліють оволодіти багато туристів. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Кид"
+"Цей рейс - не єдиний варіант, якщо ви хочете проскочити південь Тихого океану і західне узбережжя Південної Америки. (див. нижче)",travel,travel,"<|begin_of_text|>SENTENCE:
+ Цей рейс - не єдиний варіант, якщо ви хочете проскочити південь Тихого океану і західне узбережжя Південної Америки. (див. нижче) 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+ REASONING SKILL:
+"
+"У Сан-Франциско розвинулася велика туристична інфраструктура з численними готелями, ресторанами та першокласними конференц-центрами.",travel,travel,"<|begin_of_text|>SENTENCE:
+ У Сан-Франциско розвинулася велика туристична інфраструктура з численними готелями, ресторанами та першокласними конференц-центрами. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Ту"
+"Волонтерство під час подорожей – чудовий спосіб зробити щось істотне, але йдеться не лише про віддавання.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Волонтерство під час подорожей – чудовий спосіб зробити щось істотне, але йдеться не лише про віддавання. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: - travel 
+EXPLANATION:
+Волон"
+"Люди можуть не очікувати того, що терпіння та розуміння так само необхідні мандрівникам під час повернення додому.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Люди можуть не очікувати того, що терпіння та розуміння так само необхідні мандрівникам під час повернення додому. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Тер"
+"Щодо всіх тих місць за межами Африки, не забувайте додати  вартість витрат на візи, податки на виїзд, наземне пересування тощо.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Щодо всіх тих місць за межами Африки, не забувайте додати  вартість витрат на візи, податки на виїзд, наземне пересування тощо. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Ця"
+Кілька жителів Бішкеку звинуватили протестувальників із півдня в беззаконні.,politics,politics,"<|begin_of_text|>SENTENCE:
+ Кілька жителів Бішкеку звинуватили протестувальників із півдня в беззаконні. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics 
+EXPLANATION:
+Тек"
+"Нинішні території Бельгії раніше були частиною Люксембургу, але перейшли під контроль Бельгії після Бельгійської революції 1830-х років.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Нинішні території Бельгії раніше були частиною Люксембургу, але перейшли під контроль Бельгії після Бельгійської революції 1830-х років. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+Ця"
+"З 1988 року виборчі скриньки мають бути прозорими, щоб виборці та спостерігачі бачили, що на початку голосування там немає ніяких конвертів, і не додаються ніякі конверти, крім тих, які вкинуті належним чином порахованими та авторизованими виборцями.",politics,politics,"<|begin_of_text|>SENTENCE:
+ З 1988 року виборчі скриньки мають бути прозорими, щоб виборці та спостерігачі бачили, що на початку голосування там немає ніяких конвертів, і не додаються ніякі конверти, крім тих, які вкинуті належним чином порахованими та авторизованими виборцями. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+Політи"
+"Тимчасовий Прем'єр-міністр Джулія Гіллард заявила під час федеральної виборчої кампанії 2010 року, що вона вважає, що Австралія має стати республікою після завершення правління Єлізавети ІІ.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Тимчасовий Прем'єр-міністр Джулія Гіллард заявила під час федеральної виборчої кампанії 2010 року, що вона вважає, що Австралія має стати республікою після завершення правління Єлізавети ІІ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics 
+EXPLANATION:
+Ця пропозиція"
+"Ірландський уряд наголошує, що з метою впорядкування ситуації парламент повинен негайно прийняти відповідне законодавство.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Ірландський уряд наголошує, що з метою впорядкування ситуації парламент повинен негайно прийняти відповідне законодавство. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics 
+EXPLANATION:
+The sentence"
+Дипломатичні суперечки з приводу цього регіону продовжують затьмарювати відносини Вірменії та Азербайджану.,politics,politics,"<|begin_of_text|>SENTENCE:
+ Дипломатичні суперечки з приводу цього регіону продовжують затьмарювати відносини Вірменії та Азербайджану. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+Диплом"
+"У вівторок Прем'єр-міністр Стівен Гарпер провів у своєму кабінеті 25-хвилинну зустріч із лідером НДП Джеком Лейтоном; після зустрічі він погодився відправити перед другим читанням урядовий ""Закон про чисте повітря"" на розгляд комітету, що складається з представників усіх партій.",politics,politics,"<|begin_of_text|>SENTENCE:
+ У вівторок Прем'єр-міністр Стівен Гарпер провів у своєму кабінеті 25-хвилинну зустріч із лідером НДП Джеком Лейтоном; після зустрічі він погодився відправити перед другим читанням урядовий ""Закон про чисте повітря"" на розгляд комітету, що складається з представників усіх партій. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+ DETAILED ANSWER:
+"
+"Минулого місяця у Польщі відбулись масові протести, коли країна підписала ТУПК, що призвело до того, що польський уряд вирішив поки що не ратифікувати угоду.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Минулого місяця у Польщі відбулись масові протести, коли країна підписала ТУПК, що призвело до того, що польський уряд вирішив поки що не ратифікувати угоду. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+Ця"
+Інформаційні бюлетені представляють лише короткі відомості про політичну ситуацію у країні.,politics,politics,"<|begin_of_text|>SENTENCE:
+ Інформаційні бюлетені представляють лише короткі відомості про політичну ситуацію у країні. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+Інформа"
+"Під час виборів 1976 року він консультував Картера з питань зовнішньої політики, потім з 1977 по 1981 рік працював радником з національної безпеки (РНБ), змінивши Генрі Кіссінджера.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Під час виборів 1976 року він консультував Картера з питань зовнішньої політики, потім з 1977 по 1981 рік працював радником з національної безпеки (РНБ), змінивши Генрі Кіссінджера. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+ DETAILED ANSWER:
+"
+"Туреччина також візьме на себе нагляд за захопленими бойовиками Ісламської держави, яких, як зазначається у заяві, європейські країни відмовилися репатріювати.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Туреччина також візьме на себе нагляд за захопленими бойовиками Ісламської держави, яких, як зазначається у заяві, європейські країни відмовилися репатріювати. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+Політи"
+"Проте ці плани втратили актуальність майже за одну ніч, коли понад 800 000 солдатів Радянської Червоної Армії увійшли та створили Білоруський і Український фронти після окупації східних областей Польщі, чим порушили Ризький мирний договір, Пакт про ненапад між СРСР і Польщею, та інші міжнародні договори, як двосторонні, так і багатосторонні.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Проте ці плани втратили актуальність майже за одну ніч, коли понад 800 000 солдатів Радянської Червоної Армії увійшли та створили Білоруський і Український фронти після окупації східних областей Польщі, чим порушили Ризький мирний договір, Пакт про ненапад між СРСР і Польщею, та інші міжнародні договори, як двосторонні, так і багатосторонні. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+politics
+EXPLANATION:
+Політи"
+"Після цього процесу, спільна резолюція під символом HJR-3 буде знову переглянута наступним обраним законодавчим органом у 2015 або 2016 році, щодо її залишення в дії.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Після цього процесу, спільна резолюція під символом HJR-3 буде знову переглянута наступним обраним законодавчим органом у 2015 або 2016 році, щодо її залишення в дії. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+Політи"
+"Після того, як Конгрес прийняв її 4 липня, підписана Президентом Конгресу Джоном Хенкоком та Секретарем Чарльзом Томсоном рукописна чернетка була надіслана до друкарні Джона Данлепа, розташованої за кілька кварталів.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Після того, як Конгрес прийняв її 4 липня, підписана Президентом Конгресу Джоном Хенкоком та Секретарем Чарльзом Томсоном рукописна чернетка була надіслана до друкарні Джона Данлепа, розташованої за кілька кварталів. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+Політи"
+Відразу після 11:00 протестувальники заблокували рух у північному напрямку вулиці Вайтголл.,politics,politics,"<|begin_of_text|>SENTENCE:
+ Відразу після 11:00 протестувальники заблокували рух у північному напрямку вулиці Вайтголл. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: - politics 
+EXPLANATION: 
+This SENT"
+"Однак у червні 1956 року обіцянки Хрущова зазнали випробування, коли заворушення в Польщі, де робітники протестували проти нестачі продовольства і скорочення заробітної плати, перетворилися на загальний протест проти комунізму.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Однак у червні 1956 року обіцянки Хрущова зазнали випробування, коли заворушення в Польщі, де робітники протестували проти нестачі продовольства і скорочення заробітної плати, перетворилися на загальний протест проти комунізму. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+This SENT"
+"Вона мала тривати наступні 40 років, і мали місце справжні бої між арміями країн на полях битв від Африки до Азії, в Афганістані, на Кубі та в багатьох інших місцях.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Вона мала тривати наступні 40 років, і мали місце справжні бої між арміями країн на полях битв від Африки до Азії, в Афганістані, на Кубі та в багатьох інших місцях. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+Вона"
+"Минулого місяця президентська комісія рекомендувала відставку попередньої ТВК, як частину пакету заходів, що мають просунути країну в бік нових виборів.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Минулого місяця президентська комісія рекомендувала відставку попередньої ТВК, як частину пакету заходів, що мають просунути країну в бік нових виборів. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+Політи"
+"Інші охоплені теми ймовірно включають майбутній статус Єрусалиму, який є священним для обох народів, та проблему Йорданської долини.",politics,geography,"<|begin_of_text|>SENTENCE:
+ Інші охоплені теми ймовірно включають майбутній статус Єрусалиму, який є священним для обох народів, та проблему Йорданської долини. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+Т"
+Він також не мав повноважень скасовувати податкові закони й тарифи між штатами.,politics,politics,"<|begin_of_text|>SENTENCE:
+ Він також не мав повноважень скасовувати податкові закони й тарифи між штатами. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+Ця"
+Виборче законодавство Франції досить вимогливо шифрує провадження.,politics,politics,"<|begin_of_text|>SENTENCE:
+ Виборче законодавство Франції досить вимогливо шифрує провадження. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+Ви"
+Після тижня втрат на проміжних виборах Буш розповів публіці про розширення торгівлі в Азії.,politics,politics,"<|begin_of_text|>SENTENCE:
+ Після тижня втрат на проміжних виборах Буш розповів публіці про розширення торгівлі в Азії. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+Буш"
+"Стратегія виявилась ефективною. Хоч блокада і порушувала загальноприйняті міжнародні правові норми, кодифіковані кількома міжнародними договорами двох останніх століть, завдяки їй були відрізані життєво важливі військові та цивільні шляхи постачання.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Стратегія виявилась ефективною. Хоч блокада і порушувала загальноприйняті міжнародні правові норми, кодифіковані кількома міжнародними договорами двох останніх століть, завдяки їй були відрізані життєво важливі військові та цивільні шляхи постачання. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+Політи"
+"Попри невдачу політичних перемовин, економічні зв’язки між цими двома частинами Молдови були відновлені.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Попри невдачу політичних перемовин, економічні зв’язки між цими двома частинами Молдови були відновлені. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+Політи"
+"В супроводі тих посадовців він запевнив громадян Техасу, що вживаються заходи забезпечення публічної безпеки.",politics,politics,"<|begin_of_text|>SENTENCE:
+ В супроводі тих посадовців він запевнив громадян Техасу, що вживаються заходи забезпечення публічної безпеки. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+Політи"
+Критика зусиль реконструкції лібералами була сфокусована на наданні контрактів на реконструкцію ймовірним інсайдерам Вашингтона.,politics,politics,"<|begin_of_text|>SENTENCE:
+ Критика зусиль реконструкції лібералами була сфокусована на наданні контрактів на реконструкцію ймовірним інсайдерам Вашингтона. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics 
+EXPLANATION:
+Крит"
+"З 1400 опитаних осіб до федеральних виборів 2010 року кількість тих, хто є проти того, щоб Австралія стала республікою, зросла на 8 відсотків з 2008 року.",politics,politics,"<|begin_of_text|>SENTENCE:
+ З 1400 опитаних осіб до федеральних виборів 2010 року кількість тих, хто є проти того, щоб Австралія стала республікою, зросла на 8 відсотків з 2008 року. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics 
+EXPLANATION:
+Ця"
+"Дипломати сказали, що знайшли достатньо двозначності в афганській конституції, щоб довести непотрібність другого туру.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Дипломати сказали, що знайшли достатньо двозначності в афганській конституції, щоб довести непотрібність другого туру. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+Диплом"
+"Після того, як прийшли результати, Гінгріч похвалив Санторума, але вимовив суворі слова на адресу Ромні, від імені якого в Айові транслювалася негативна рекламна кампанія проти Гінгріча.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Після того, як прийшли результати, Гінгріч похвалив Санторума, але вимовив суворі слова на адресу Ромні, від імені якого в Айові транслювалася негативна рекламна кампанія проти Гінгріча. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics 
+EXPLANATION:
+Ця"
+Це п'ята Тимчасова виборча рада Мартеллі за чотири роки.,politics,politics,"<|begin_of_text|>SENTENCE:
+ Це п'ята Тимчасова виборча рада Мартеллі за чотири роки. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+Тим"
+"Олімпійський золотий медаліст мав проплисти 100 м та 200 м вільним стилем і взяти участь у трьох естафетах в Іграх Співдружності, але, зважаючи на його скарги, виникли сумніви у його фізичній формі.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Олімпійський золотий медаліст мав проплисти 100 м та 200 м вільним стилем і взяти участь у трьох естафетах в Іграх Співдружності, але, зважаючи на його скарги, виникли сумніви у його фізичній формі. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+Олі"
+"Крім титулу чемпіона Олімпійських ігор та світу, Сайто на момент своєї смерті ще й обіймав посаду голови тренувального комітету Японської федерації дзюдо.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Крім титулу чемпіона Олімпійських ігор та світу, Сайто на момент своєї смерті ще й обіймав посаду голови тренувального комітету Японської федерації дзюдо. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+Олі"
+"Сьогодні у Берліні Міжнародний Олімпійський Комітет на зустрічі правління проголосував за те, щоб включити ці види спорту. Регбі, а саме регбі-юніон, та гольф були обрані з-поміж п'яти інших видів спорту для включення до Олімпійських ігор.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Сьогодні у Берліні Міжнародний Олімпійський Комітет на зустрічі правління проголосував за те, щоб включити ці види спорту. Регбі, а саме регбі-юніон, та гольф були обрані з-поміж п'яти інших видів спорту для включення до Олімпійських ігор. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+ DETAILED ANSWER:
+"
+Найбільше змагання року відбувається у грудні на полях для гри в поло у Лас-Канітас.,sports,sports,"<|begin_of_text|>SENTENCE:
+ Найбільше змагання року відбувається у грудні на полях для гри в поло у Лас-Канітас. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+ EXPLANATION:
+ Ця"
+Після переїзду до каталонської столиці Відаль зіграв за клуб 49 матчів.,sports,sports,"<|begin_of_text|>SENTENCE:
+ Після переїзду до каталонської столиці Відаль зіграв за клуб 49 матчів. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+sports
+REASONING SKILL required:
+"
+"Підтримання здорового енергетичного балансу, практикування ефективних звичок пиття води та розуміння різноманітних аспектів вживання добавок можуть допомогти спортсменам вдосконалити їхні результати та збільшити їхнє задоволення від спорту.",sports,health,"<|begin_of_text|>SENTENCE:
+ Підтримання здорового енергетичного балансу, практикування ефективних звичок пиття води та розуміння різноманітних аспектів вживання добавок можуть допомогти спортсменам вдосконалити їхні результати та збільшити їхнє задоволення від спорту. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+health
+ REASONING SKILL:
+ Ind"
+"На третьому місці перебуває Хемлін, який відстає на двадцять очок, але на п'ять випереджає Боєра. Кане і Труекс-молодший займають п'яте та шосте місця, відповідно з 2220 і 2207 очками.",sports,sports,"<|begin_of_text|>SENTENCE:
+ На третьому місці перебуває Хемлін, який відстає на двадцять очок, але на п'ять випереджає Боєра. Кане і Труекс-молодший займають п'яте та шосте місця, відповідно з 2220 і 2207 очками. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports 
+EXPLANATION:
+Очі"
+Особистий рекорд Надаля проти канадця складає 7–2.,sports,sports,"<|begin_of_text|>SENTENCE:
+ Особистий рекорд Надаля проти канадця складає 7–2. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports 
+EXPLANATION:
+This sentence is about"
+"Раніше того ж дня Ярке практикувався під час передсезонного тренування в Коверчано в Італії. Він зупинився в готелі команди перед матчем проти Болоньї, що мав відбутися в неділю.",sports,travel,"<|begin_of_text|>SENTENCE:
+ Раніше того ж дня Ярке практикувався під час передсезонного тренування в Коверчано в Італії. Він зупинився в готелі команди перед матчем проти Болоньї, що мав відбутися в неділю. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Тер"
+Побоювання через відсутність транспортування змусили замислитися над проведенням гри за закритими дверима без уболівальників команди.,sports,sports,"<|begin_of_text|>SENTENCE:
+ Побоювання через відсутність транспортування змусили замислитися над проведенням гри за закритими дверима без уболівальників команди. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+Гра"
+"Томмі Дрімер сказав: ""Луна була першою Королевою Екстриму. Моя перша менеджерка. Луна померла в ніч двох місяців. Доволі унікально, як і вона сама. Сильна жінка.""",sports,entertainment,"<|begin_of_text|>SENTENCE:
+ Томмі Дрімер сказав: ""Луна була першою Королевою Екстриму. Моя перша менеджерка. Луна померла в ніч двох місяців. Доволі унікально, як і вона сама. Сильна жінка."" 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+Т"
+Лижник із вадами зору з чоловічої команди Польщі Мацей Крезель та гід Анна Огажинська фінішували на тринадцятому місці в супергіганті. Йонг Сеорк Парк із Південної Кореї фінішував двадцять четвертим серед чоловіків у супергіганті.,sports,sports,"<|begin_of_text|>SENTENCE:
+ Лижник із вадами зору з чоловічої команди Польщі Мацей Крезель та гід Анна Огажинська фінішували на тринадцятому місці в супергіганті. Йонг Сеорк Парк із Південної Кореї фінішував двадцять четвертим серед чоловіків у супергіганті. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+sports
+EXPLANATION:
+Цей текст"
+Звертайтеся до Асоціації поло Аргентини за новинами щодо турнірів та місць продажу квитків на матчі з поло.,sports,sports,"<|begin_of_text|>SENTENCE:
+ Звертайтеся до Асоціації поло Аргентини за новинами щодо турнірів та місць продажу квитків на матчі з поло. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports 
+EXPLANATION:
+Ас"
+"Ігри розпочалися о 10 ранку за чудової погоди, і якщо не зважати на мряку посеред ранку, яка швидко розсіялася, це був ідеальний день для регбі-7.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Ігри розпочалися о 10 ранку за чудової погоди, і якщо не зважати на мряку посеред ранку, яка швидко розсіялася, це був ідеальний день для регбі-7. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+The SENT"
+Арлі Веласкес з Мексики фінішував п'ятнадцятим в чоловічому сидячому заїзді з супергігантського слалому. Новозеландський спортсмен Адам Холл фінішував дев'ятим в чоловічому стоячому заїзді з супергігантського слалому.,sports,sports,"<|begin_of_text|>SENTENCE:
+ Арлі Веласкес з Мексики фінішував п'ятнадцятим в чоловічому сидячому заїзді з супергігантського слалому. Новозеландський спортсмен Адам Холл фінішував дев'ятим в чоловічому стоячому заїзді з супергігантського слалому. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports 
+EXPLANATION:
+Ця пропозиція"
+"Фінальний матч серії відбудеться наступного тижня в Елліс Парк у Йоганнесбургу, коли Спрінгбокс гратимуть з Австралією.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Фінальний матч серії відбудеться наступного тижня в Елліс Парк у Йоганнесбургу, коли Спрінгбокс гратимуть з Австралією. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports 
+EXPLANATION:
+Цей текст стос"
+"Якщо умови добрі, ви зможете пересуватися на значніші відстані, ніж пішки – але дійсно рідко ви зможете досягнути швидкості бігових лиж без важкого рюкзака на доглянутих маршрутах.",sports,travel,"<|begin_of_text|>SENTENCE:
+ Якщо умови добрі, ви зможете пересуватися на значніші відстані, ніж пішки – але дійсно рідко ви зможете досягнути швидкості бігових лиж без важкого рюкзака на доглянутих маршрутах. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Ця"
+"Джонсон на сім очок позаду, він займає друге місце з рахунком 2243.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Джонсон на сім очок позаду, він займає друге місце з рахунком 2243. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports 
+REASONING SKILL: Inductive"
+"Каньйонінг — це про спуск на дно каньйону, який може бути сухим або повним води.",sports,travel,"<|begin_of_text|>SENTENCE:
+ Каньйонінг — це про спуск на дно каньйону, який може бути сухим або повним води. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Кань"
+"Робін Утаппа отримав найвищі очки в інінґах, 70 перебіжок усього за 41 м'яч, заробив 11 четвірок та 2 шістки.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Робін Утаппа отримав найвищі очки в інінґах, 70 перебіжок усього за 41 м'яч, заробив 11 четвірок та 2 шістки. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+sports
+EXPLANATION:
+Робін"
+"Зимові види спорту є найбільш популярними у Північних регіонах, де італійці змагаються на міжнародних іграх та Олімпійських заходах.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Зимові види спорту є найбільш популярними у Північних регіонах, де італійці змагаються на міжнародних іграх та Олімпійських заходах. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+sports
+EXPLANATION:
+Цей текст"
+"Маручідор фінішував на вершині турнірної таблиці, випередивши на шість очок Нусу, який посів друге місце.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Маручідор фінішував на вершині турнірної таблиці, випередивши на шість очок Нусу, який посів друге місце. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+sports
+EXPLANATION:
+Турні"
+"Міхаель Шумахер закінчив гонку незадовго після Алонсо через підвіску, що була пошкоджена у численних сутичках на трасі.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Міхаель Шумахер закінчив гонку незадовго після Алонсо через підвіску, що була пошкоджена у численних сутичках на трасі. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+Цей"
+"Саме лише правильне харчування не допоможе досягти гарних результатів, однак може суттєво вплинути на загальне самопочуття молодих атлетів.",sports,health,"<|begin_of_text|>SENTENCE:
+ Саме лише правильне харчування не допоможе досягти гарних результатів, однак може суттєво вплинути на загальне самопочуття молодих атлетів. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health
+EXPLANATION:
+Правильне"
+"Він не міг вживати знеболювальні ліки, адже вони заборонені під час участі в Іграх.",sports,health,"<|begin_of_text|>SENTENCE:
+ Він не міг вживати знеболювальні ліки, адже вони заборонені під час участі в Іграх. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+health
+EXPLANATION:
+Цей текст"
+"Дослідження показали, що жінки мають удвічі вищі, ніж чоловіки, ризики захворіти на МС.",health,health,"<|begin_of_text|>SENTENCE:
+ Дослідження показали, що жінки мають удвічі вищі, ніж чоловіки, ризики захворіти на МС. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health
+EXPLANATION:
+Ця пропози"
+"Нелегальні спиртні напої можуть містити різні небезпечні домішки, як метанол, що можуть спричинити сліпоту або смерть навіть у невеликих дозах.",health,health,"<|begin_of_text|>SENTENCE:
+ Нелегальні спиртні напої можуть містити різні небезпечні домішки, як метанол, що можуть спричинити сліпоту або смерть навіть у невеликих дозах. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health
+EXPLANATION:
+Текст"
+"ільки ефекти катастрофізації, а не депресії чи страху, залежали від регулярних щотижневих структурованих занять фізкультурою.",health,health,"<|begin_of_text|>SENTENCE:
+ ільки ефекти катастрофізації, а не депресії чи страху, залежали від регулярних щотижневих структурованих занять фізкультурою. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health
+EXPLANATION:
+This sentence is"
+"Масове володіння автомобілями також призводить до збільшення числа ДТП на дорогах, що призводить до винаходу нових методів в галузі охорони здоров'я для лікування тілесних ушкоджень.",health,health,"<|begin_of_text|>SENTENCE:
+ Масове володіння автомобілями також призводить до збільшення числа ДТП на дорогах, що призводить до винаходу нових методів в галузі охорони здоров'я для лікування тілесних ушкоджень. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+health
+EXPLANATION:
+Цей текст"
+"Провідні дослідники кажуть, що це може сприяти ранньому виявленню раку, туберкульозу, ВІЛ і малярії у пацієнтів з країн з низьким рівнем доходу, де показники виживання людей з такими захворюваннями, як рак грудей, можуть бути вдвічі нижчі, ніж у заможніших країнах.",health,health,"<|begin_of_text|>SENTENCE:
+ Провідні дослідники кажуть, що це може сприяти ранньому виявленню раку, туберкульозу, ВІЛ і малярії у пацієнтів з країн з низьким рівнем доходу, де показники виживання людей з такими захворюваннями, як рак грудей, можуть бути вдвічі нижчі, ніж у заможніших країнах. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+health
+EXPLANATION:
+Цей текст"
+"Д-р Ехуд Ур, професор медицини в Університеті Делхаузі у Галіфаксі, Нова Шотландія, і голова клінічного та наукового відділу Канадської Асоціації Діабету, попередив, що дослідження лише починаються.",health,health,"<|begin_of_text|>SENTENCE:
+ Д-р Ехуд Ур, професор медицини в Університеті Делхаузі у Галіфаксі, Нова Шотландія, і голова клінічного та наукового відділу Канадської Асоціації Діабету, попередив, що дослідження лише починаються. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+health
+EXPLANATION:
+Ця пропози"
+"Такі діти схильні часто потрапляти у халепи, тому що ""вдаються до ризикованої поведінки, влаштовують бійки та не слухаються старших"", щоб простимулювати свій мозок, оскільки це не вдається зробити звичними способами.",health,health,"<|begin_of_text|>SENTENCE:
+ Такі діти схильні часто потрапляти у халепи, тому що ""вдаються до ризикованої поведінки, влаштовують бійки та не слухаються старших"", щоб простимулювати свій мозок, оскільки це не вдається зробити звичними способами. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health
+EXPLANATION:
+Діти з"
+"Люди можуть постраждати, вдихаючи заражену воду, яку здіймають у повітря вітер і хвилі.",health,health,"<|begin_of_text|>SENTENCE:
+ Люди можуть постраждати, вдихаючи заражену воду, яку здіймають у повітря вітер і хвилі. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health
+EXPLANATION:
+People can get"
+"Деякі люди вважають, що переживання багатьох штучно викликаних усвідомлених сновидінь занадто часто може бути дуже виснажливим.",health,health,"<|begin_of_text|>SENTENCE:
+ Деякі люди вважають, що переживання багатьох штучно викликаних усвідомлених сновидінь занадто часто може бути дуже виснажливим. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health
+EXPLANATION:
+Термін"
+"Лікарі оглянули плече Потро, але він зумів продовжити гру.",health,health,"<|begin_of_text|>SENTENCE:
+ Лікарі оглянули плече Потро, але він зумів продовжити гру. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+health
+REASONING SKILL required:
+"
+"Ба більше, якщо цього не зробити, це потягне за собою серйозні наслідки: зростання депресії, недоїдання і зрештою смерть.",health,health,"<|begin_of_text|>SENTENCE:
+ Ба більше, якщо цього не зробити, це потягне за собою серйозні наслідки: зростання депресії, недоїдання і зрештою смерть. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health
+EXPLANATION:
+Цей текст"
+"Чиновники міста Амстердам та музею Анни Франк стверджують, що дерево заражене грибком і становить небезпеку для здоров'я людей, так як, на їхню думку, йому загрожує неминуче падіння.",health,health,"<|begin_of_text|>SENTENCE:
+ Чиновники міста Амстердам та музею Анни Франк стверджують, що дерево заражене грибком і становить небезпеку для здоров'я людей, так як, на їхню думку, йому загрожує неминуче падіння. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health
+EXPLANATION:
+Дерево"
+"Лікарня дотримувалася протоколу інфекційного контролю, включаючи відокремлення пацієнта від інших для запобігання можливого їх зараження.",health,health,"<|begin_of_text|>SENTENCE:
+ Лікарня дотримувалася протоколу інфекційного контролю, включаючи відокремлення пацієнта від інших для запобігання можливого їх зараження. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+health
+EXPLANATION:
+Цей текст"
+"Гаїтянський інститут справедливості та демократії послався на незалежні дослідження, які припускають, що непальський миротворчий батальйон ООН несвідомо заніс хворобу на Гаїті.",health,politics,"<|begin_of_text|>SENTENCE:
+ Гаїтянський інститут справедливості та демократії послався на незалежні дослідження, які припускають, що непальський миротворчий батальйон ООН несвідомо заніс хворобу на Гаїті. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+Політи"
+"Самі інфекційні хвороби, або небезпечні тварини, які можуть поранити чи вбити людину, зазвичай не розглядаються як шкідники.",health,health,"<|begin_of_text|>SENTENCE:
+ Самі інфекційні хвороби, або небезпечні тварини, які можуть поранити чи вбити людину, зазвичай не розглядаються як шкідники. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: health 
+EXPLANATION:
+Термін """
+"Дітям з СДУ важко зосереджуватись на таких речах, як шкільні завдання, але вони можуть зосереджуватись на тих речах, які їм подобається робити, як грати в ігри, або дивитись їхні улюблені мультфільми, або писати речення без розділових знаків.",health,health,"<|begin_of_text|>SENTENCE:
+ Дітям з СДУ важко зосереджуватись на таких речах, як шкільні завдання, але вони можуть зосереджуватись на тих речах, які їм подобається робити, як грати в ігри, або дивитись їхні улюблені мультфільми, або писати речення без розділових знаків. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health
+EXPLANATION:
+Діти з"
+"Протягом одного року, інфікована особа може інфектувати від 10 до 15 близьких контактів.",health,health,"<|begin_of_text|>SENTENCE:
+ Протягом одного року, інфікована особа може інфектувати від 10 до 15 близьких контактів. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health
+EXPLANATION:
+Протягом"
+"Після того, як поранені були доставлені в лікарню і бійка припинилася, близько 40 ув'язнених залишилися у дворі та відмовилися повертатися до своїх камер.",health,N/A,"<|begin_of_text|>SENTENCE:
+ Після того, як поранені були доставлені в лікарню і бійка припинилася, близько 40 ув'язнених залишилися у дворі та відмовилися повертатися до своїх камер. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- None of the above (other) 
+"
+Імператор Август почав наймати лікарів і навіть створив перший Римський Медичний Корпус для надання допомоги після битв.,health,health,"<|begin_of_text|>SENTENCE:
+ Імператор Август почав наймати лікарів і навіть створив перший Римський Медичний Корпус для надання допомоги після битв. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+health
+EXPLANATION:
+Ця пропози"
+Однак водій зазнав важких травм голови.,health,health,"<|begin_of_text|>SENTENCE:
+ Однак водій зазнав важких травм голови. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health
+EXPLANATION:
+The word """
+"""Зараз у нас є 4-місячні миші, в яких немає діабету і які мали діабет раніше,"" — додав він.",health,health,"<|begin_of_text|>SENTENCE:
+ ""Зараз у нас є 4-місячні миші, в яких немає діабету і які мали діабет раніше,"" — додав він. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+health
+REASONING SKILL REQUIRED:
+"
+"Внутрішнє отруєння може не проявитися негайно. Такі симптоми, як блювота, занадто загальні, щоб одразу поставити діагноз.",health,health,"<|begin_of_text|>SENTENCE:
+ Внутрішнє отруєння може не проявитися негайно. Такі симптоми, як блювота, занадто загальні, щоб одразу поставити діагноз. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health
+EXPLANATION:
+Даний текст"
+"У результаті актори курять конопляні косяки на сцені, а сам театр спонукає глядачів приєднатися до них.",entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ У результаті актори курять конопляні косяки на сцені, а сам театр спонукає глядачів приєднатися до них. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+Т"
+"Аеросміт скасували концерти свого туру, які ще залишалися.",entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Аеросміт скасували концерти свого туру, які ще залишалися. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+А"
+"Якщо ви хочете бути поруч із дійством, вам доведеться прийти рано, щоб зайняти місце ближче до сцени.",entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Якщо ви хочете бути поруч із дійством, вам доведеться прийти рано, щоб зайняти місце ближче до сцени. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+В"
+"Існує багато різних форматів плівки, які використовувалися впродовж років. Стандартна 35 мм плівка (негатив 36 на 24 мм) найпоширеніша.",entertainment,science/technology,"<|begin_of_text|>SENTENCE:
+ Існує багато різних форматів плівки, які використовувалися впродовж років. Стандартна 35 мм плівка (негатив 36 на 24 мм) найпоширеніша. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Плів"
+"Ця практика дуже поширена, проте Діснейленд її забороняє: передавати квитки не можна.",entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Ця практика дуже поширена, проте Діснейленд її забороняє: передавати квитки не можна. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+Ц"
+"Кожен епізод шоу буде присвячений певній темі в конкретній книзі, а потім ця тема буде досліджена за допомогою декількох історій.",entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Кожен епізод шоу буде присвячений певній темі в конкретній книзі, а потім ця тема буде досліджена за допомогою декількох історій. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+ DETAILED ANSWER"
+"Щоб дати можливість людям спостерігати за церемонією, у різних точках Риму встановили кілька великих телевізійних моніторів.",entertainment,travel,"<|begin_of_text|>SENTENCE:
+ Щоб дати можливість людям спостерігати за церемонією, у різних точках Риму встановили кілька великих телевізійних моніторів. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: - travel 
+EXPLANATION:
+Церемон"
+"Драматурги Софокл та Аристофан досі популярні, і їхні п'єси – серед найвеличніших творів світової літератури.",entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Драматурги Софокл та Аристофан досі популярні, і їхні п'єси – серед найвеличніших творів світової літератури. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment 
+EXPLANATION:
+Д"
+"На кожній виставці будуть також надані рекомендації по книгах, які діти повинні шукати, коли вони ходять у свою бібліотеку.",entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ На кожній виставці будуть також надані рекомендації по книгах, які діти повинні шукати, коли вони ходять у свою бібліотеку. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+В"
+"На акордеоні, щоб досягти більшого об'єму, треба використовувати міхи з більшим натиском чи швидкістю.",entertainment,science/technology,"<|begin_of_text|>SENTENCE:
+ На акордеоні, щоб досягти більшого об'єму, треба використовувати міхи з більшим натиском чи швидкістю. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Акор"
+"Ви зможете побачити піраміди у темряві, і ви зможете побачити їх у тиші перед початком шоу.",entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Ви зможете побачити піраміди у темряві, і ви зможете побачити їх у тиші перед початком шоу. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+В"
+"Приклади виїзних видів діяльності включають полювання, риболовлю, фотографування, спостереження за птахами, відвідування парків та вивчення інформації про екосистему.",entertainment,travel,"<|begin_of_text|>SENTENCE:
+ Приклади виїзних видів діяльності включають полювання, риболовлю, фотографування, спостереження за птахами, відвідування парків та вивчення інформації про екосистему. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Приклад"
+Сфінкс служить фоновою декорацією та оповідачем довгої історії.,entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Сфінкс служить фоновою декорацією та оповідачем довгої історії. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+С"
+"Зазвичай у них є спеціальні пропозиції їжі, напоїв та розваг, щоб тримати гостей у доброму гуморі та у приміщенні.",entertainment,travel,"<|begin_of_text|>SENTENCE:
+ Зазвичай у них є спеціальні пропозиції їжі, напоїв та розваг, щоб тримати гостей у доброму гуморі та у приміщенні. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: - travel 
+EXPLANATION:
+Термін"
+"Вже транслюючи англійською та японською, ця всесвітня організація запускає мовні програми іспанською, італійською та корейською мовами для телебачення, Інтернету та мобільних пристроїв.",entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Вже транслюючи англійською та японською, ця всесвітня організація запускає мовні програми іспанською, італійською та корейською мовами для телебачення, Інтернету та мобільних пристроїв. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+В"
+До Сімпсонів Саймон працював у кількох шоу на різних посадах.,entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ До Сімпсонів Саймон працював у кількох шоу на різних посадах. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+REASONING SKILL"
+"Це забезпечить гравцям контроль над діями та рухами у відеоіграх, рухаючи пристрій у повітрі.",entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Це забезпечить гравцям контроль над діями та рухами у відеоіграх, рухаючи пристрій у повітрі. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: -entertainment
+EXPLANATION:
+Це забезпеч"
+"Принаймні 100 людей відвідали вечірку на честь святкування першої річниці пари, чиє весілля відбулося минулого року.",entertainment,N/A,"<|begin_of_text|>SENTENCE:
+ Принаймні 100 людей відвідали вечірку на честь святкування першої річниці пари, чиє весілля відбулося минулого року. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- None of the above 
+REASONING"
+"Дві пісні з фільму, Прослуховування (Дурні, Які Мріють) та Місто Зірок, були номіновані на найкращу оригінальну пісню. Студія Лайонсгейт здобула 26 номінацій – більше за будь-яку іншу студію.",entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Дві пісні з фільму, Прослуховування (Дурні, Які Мріють) та Місто Зірок, були номіновані на найкращу оригінальну пісню. Студія Лайонсгейт здобула 26 номінацій – більше за будь-яку іншу студію. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: entertainment 
+EXPLANATION:
+Пісні були"
+Місячна кора становить приблизно 70 км у товщину на ближній стороні та 100 км у товщину на дальній стороні.,geography,science/technology,"<|begin_of_text|>SENTENCE:
+ Місячна кора становить приблизно 70 км у товщину на ближній стороні та 100 км у товщину на дальній стороні. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Ця"
+"Далі на південь — Ніагарський водоспад, а на північ — незаймана природна краса Маскоки та місцин за її межами.",geography,geography,"<|begin_of_text|>SENTENCE:
+ Далі на південь — Ніагарський водоспад, а на північ — незаймана природна краса Маскоки та місцин за її межами. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+В"
+"Земля Елсворта — це територія на півдні півострова, обмежена морем Беллінсгаузена.",geography,geography,"<|begin_of_text|>SENTENCE:
+ Земля Елсворта — це територія на півдні півострова, обмежена морем Беллінсгаузена. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+Траверс Південного полюса (або Шосе) — це 1600-кілометровий маршрут від станції Макмурдо по морю Росса до полюса.,geography,travel,"<|begin_of_text|>SENTENCE:
+ Траверс Південного полюса (або Шосе) — це 1600-кілометровий маршрут від станції Макмурдо по морю Росса до полюса. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Трав"
+"Над північним краєм Мачу-Пікчу височить ця крута гора, і часто стає фоном для численних фотографій руїн.",geography,geography,"<|begin_of_text|>SENTENCE:
+ Над північним краєм Мачу-Пікчу височить ця крута гора, і часто стає фоном для численних фотографій руїн. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: - geography 
+EXPLANATION:
+Географія"
+"Енцелад — об’єкт у Сонячній системі з найвищою відбивною здатністю. Він відбиває близько 90 відсотків сонячного світла, що потрапляє на нього.",geography,science/technology,"<|begin_of_text|>SENTENCE:
+ Енцелад — об’єкт у Сонячній системі з найвищою відбивною здатністю. Він відбиває близько 90 відсотків сонячного світла, що потрапляє на нього. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+The sentence"
+"Не видно нічого окрім чистого, прекрасного неба вгорі та численних гір навколо. Дуже малу частину цього світу можна побачити чи почути зсередини печери.",geography,travel,"<|begin_of_text|>SENTENCE:
+ Не видно нічого окрім чистого, прекрасного неба вгорі та численних гір навколо. Дуже малу частину цього світу можна побачити чи почути зсередини печери. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Ця"
+"Тепер про Японію. Японія була острівною державою, як і Британія.",geography,geography,"<|begin_of_text|>SENTENCE:
+ Тепер про Японію. Японія була острівною державою, як і Британія. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+"На своєму піку тропічний циклон Гону, названий на честь пальмового листя мовою Мальдівів, досягав стійкої швидкості вітру до 240 кілометрів на годину (149 миль на годину).",geography,geography,"<|begin_of_text|>SENTENCE:
+ На своєму піку тропічний циклон Гону, названий на честь пальмового листя мовою Мальдівів, досягав стійкої швидкості вітру до 240 кілометрів на годину (149 миль на годину). 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+Ц"
+"Площа Туреччини, включаючи озера, становить 783 562 кв. км (300 948 кв. миль), з яких 755 688 кв. км (291 773 кв. миль) знаходяться в південно-західній Азії і 23 764 кв. км (9 174 кв. миль) — в Європі.",geography,geography,"<|begin_of_text|>SENTENCE:
+ Площа Туреччини, включаючи озера, становить 783 562 кв. км (300 948 кв. миль), з яких 755 688 кв. км (291 773 кв. миль) знаходяться в південно-західній Азії і 23 764 кв. км (9 174 кв. миль) — в Європі. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+Ц"
+"Південні Шетландські острови, які були відкриті у 1819 році, і права на які заявляють декілька країн, мають найбільше баз, з яких шістнадцять були активні у 2020 році.",geography,geography,"<|begin_of_text|>SENTENCE:
+ Південні Шетландські острови, які були відкриті у 1819 році, і права на які заявляють декілька країн, мають найбільше баз, з яких шістнадцять були активні у 2020 році. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+The"
+Апіа — столиця Самоа. Місто розташовується на острові Уполу і має трохи менше 40 000 жителів.,geography,geography,"<|begin_of_text|>SENTENCE:
+ Апіа — столиця Самоа. Місто розташовується на острові Уполу і має трохи менше 40 000 жителів. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: geography 
+EXPLANATION:
+Географія —"
+"Оскільки ураган знаходиться далеко від суші, все ще складно оцінити його потенційний вплив на Сполучені Штати Америки або Карибський басейн.",geography,geography,"<|begin_of_text|>SENTENCE:
+ Оскільки ураган знаходиться далеко від суші, все ще складно оцінити його потенційний вплив на Сполучені Штати Америки або Карибський басейн. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: - geography 
+EXPLANATION:
+Географія"
+Він є тоншим під місячними морями й товщим під високогір'ям.,geography,geography,"<|begin_of_text|>SENTENCE:
+ Він є тоншим під місячними морями й товщим під високогір'ям. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+В"
+"Однак ці ліси – не просто мангрові болота, адже включають деякі з останніх острівців могутніх джунглів, які колись вкривали Індо-Гангську рівнину.",geography,geography,"<|begin_of_text|>SENTENCE:
+ Однак ці ліси – не просто мангрові болота, адже включають деякі з останніх острівців могутніх джунглів, які колись вкривали Індо-Гангську рівнину. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+В"
+"Якщо вірити даним міжнародної карти землетрусів Геологічної служби США, за попередній тиждень землетрусів у Ісландії зафіксовано не було.",geography,science/technology,"<|begin_of_text|>SENTENCE:
+ Якщо вірити даним міжнародної карти землетрусів Геологічної служби США, за попередній тиждень землетрусів у Ісландії зафіксовано не було. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Ця"
+Печера розташована на верхівці однієї з гір на північ від Мекки і повністю ізольована від решти світу.,geography,geography,"<|begin_of_text|>SENTENCE:
+ Печера розташована на верхівці однієї з гір на північ від Мекки і повністю ізольована від решти світу. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+The"

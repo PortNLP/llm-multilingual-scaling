@@ -1,0 +1,3021 @@
+text,actual_category,predicted_category,generated_text
+"Muuteshiniin garaagarummaa sanyiitti dabala, akkasumas filannoon kuufama sanyiiwwan adda addaa ibsaman keessaa isa baasa.",science/technology,travel,"<|begin_of_text|>SENTENCE:
+ Muuteshiniin garaagarummaa sanyiitti dabala, akkasumas filannoon kuufama sanyiiwwan adda addaa ibsaman keessaa isa baasa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Muutes"
+Boombiin faca’aan seera niwuukilasii pirotoonii fi niwuutiroonii walitti makuuf anniisaa fudhata jedhu irratti hojjata.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Boombiin faca’aan seera niwuukilasii pirotoonii fi niwuutiroonii walitti makuuf anniisaa fudhata jedhu irratti hojjata. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+The sentence"
+Niwukilasiin paartikiloota lama qabateera - niwutiroonotaa fi pirootoonota.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Niwukilasiin paartikiloota lama qabateera - niwutiroonotaa fi pirootoonota. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Niw"
+Kuni leensonni guddisoon suuraawwan sadarkaa isaanii eegan kanneen lensoota ilaalcha xiyyeefanno dheerinni isaa murtaa’e qaban waliin walmadaalan oomishuu isaan dandeessiseejira.,science/technology,entertainment,"<|begin_of_text|>SENTENCE:
+ Kuni leensonni guddisoon suuraawwan sadarkaa isaanii eegan kanneen lensoota ilaalcha xiyyeefanno dheerinni isaa murtaa’e qaban waliin walmadaalan oomishuu isaan dandeessiseejira. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+REASONING SKILL"
+"Sababoota hedduu pirooksiiwwan weebiihunda caalanidha: Irraa deebiin root godhanii Tiraafiika inteerneta, http qofa miti.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Sababoota hedduu pirooksiiwwan weebiihunda caalanidha: Irraa deebiin root godhanii Tiraafiika inteerneta, http qofa miti. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+This sentence"
+Saxaxin haasoo tilmaami waayee oomisha miidiyaa kee irra deebiin akka ilaaltuu fi karaa baratameen ala akka yaaduu bartu barbaada,science/technology,travel,"<|begin_of_text|>SENTENCE:
+ Saxaxin haasoo tilmaami waayee oomisha miidiyaa kee irra deebiin akka ilaaltuu fi karaa baratameen ala akka yaaduu bartu barbaada 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The sentence"
+"Kuni shaakala yagutoo ta’e, garuu sibiilli aayiranii gommaawwan gaarii san irratti miidhaa caalu fide.",science/technology,travel,"<|begin_of_text|>SENTENCE:
+ Kuni shaakala yagutoo ta’e, garuu sibiilli aayiranii gommaawwan gaarii san irratti miidhaa caalu fide. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The sentence"
+"Gurmiin leencotaa kormawwan walitti siqan tokko hanga sadii , dabalataan dhalaawwanii fi kubuleewwan baayyee hamma soddomaa tahan irraa ijaarama.",science/technology,politics,"<|begin_of_text|>SENTENCE:
+ Gurmiin leencotaa kormawwan walitti siqan tokko hanga sadii, dabalataan dhalaawwanii fi kubuleewwan baayyee hamma soddomaa tahan irraa ijaarama. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+The sentence"
+"Al barreeffama kalaqa sammuu saayinsiitiif hiika cimaa haa qabaatu iyyuu malee, Al damee saayinsii koompiitaraa baay’ee barbaachisaa ta’ee argama, amala, baruufi barsiifata sammuu cimaa kan maashinii ilaallata.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Al barreeffama kalaqa sammuu saayinsiitiif hiika cimaa haa qabaatu iyyuu malee, Al damee saayinsii koompiitaraa baay’ee barbaachisaa ta’ee argama, amala, baruufi barsiifata sammuu cimaa kan maashinii ilaallata. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+This sentence"
+Hariiroon boca waan kanaa(kudha lamaaf hiruudhaan lakkoofsa hundaa isa xiqqaa argachuun ni danda’ama) kanaafu kana jechuunis 3:2 dha.,science/technology,N/A,"<|begin_of_text|>SENTENCE:
+ Hariiroon boca waan kanaa(kudha lamaaf hiruudhaan lakkoofsa hundaa isa xiqqaa argachuun ni danda’ama) kanaafu kana jechuunis 3:2 dha. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- None of the above 
+EXPLANATION"
+"Walumaagalatti, bilbila bilbiluuf saatalaayitiif argama qulqulluu keessa seenuuf manaa alatti fudhattee bahuu waan qabduuf, bilbilli saatalayitii bakka buusaa bilbila mobaayilaa miti,",science/technology,geography,"<|begin_of_text|>SENTENCE:
+ Walumaagalatti, bilbila bilbiluuf saatalaayitiif argama qulqulluu keessa seenuuf manaa alatti fudhattee bahuu waan qabduuf, bilbilli saatalayitii bakka buusaa bilbila mobaayilaa miti, 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+"Yoodhuma daandiiwwan gaarii fardeeniin harkifamanii mukoota tarree naqaman irraa hojjetaman iyyuu, karaa bu’aa ba’ii qabu kan duraanii caalaa fardeen isaan harkisan saffisa guddaadhaan ba’aawwan ulfaatoo harkisanii fiiguu isaan dandeessiseera.",science/technology,geography,"<|begin_of_text|>SENTENCE:
+ Yoodhuma daandiiwwan gaarii fardeeniin harkifamanii mukoota tarree naqaman irraa hojjetaman iyyuu, karaa bu’aa ba’ii qabu kan duraanii caalaa fardeen isaan harkisan saffisa guddaadhaan ba’aawwan ulfaatoo harkisanii fiiguu isaan dandeessiseera. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+The"
+"Namootni waa’ee elemantii keemikaalaa beekamoo kan akka warqee, meetii, fi kooparii kan ittin boharan, akkuma isaan kun umaaman argaman bakka ummamaatti akkasuma kan salphaatti ba’uu danda’aani meeshaale argamu danda’anii waan ta’eef baraniiru.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Namootni waa’ee elemantii keemikaalaa beekamoo kan akka warqee, meetii, fi kooparii kan ittin boharan, akkuma isaan kun umaaman argaman bakka ummamaatti akkasuma kan salphaatti ba’uu danda’aani meeshaale argamu danda’anii waan ta’eef baraniiru. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+REASONING SKILL:
+"
+Masakni karaa hin tilmaamamneen addunyaa jijjiireeaa. Waan guddaan masaknii nuuf godhe geejjiba baay’ee salphisuu fi baay’ee saffisaa nuuf taasisuu isaati.,science/technology,travel,"<|begin_of_text|>SENTENCE:
+ Masakni karaa hin tilmaamamneen addunyaa jijjiireeaa. Waan guddaan masaknii nuuf godhe geejjiba baay’ee salphisuu fi baay’ee saffisaa nuuf taasisuu isaati. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+REASONING SKILL:
+"
+Kun suurichi guutuu iskiriinii akka haguuge mirkaneessuuf kan tolfameedha. Sun garmalee iskaan gochuu jedhama.,science/technology,travel,"<|begin_of_text|>SENTENCE:
+ Kun suurichi guutuu iskiriinii akka haguuge mirkaneessuuf kan tolfameedha. Sun garmalee iskaan gochuu jedhama. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+REASONING SKILL:
+"
+Dooniin bishaan keessaa Jarmani Doonii-U jedhama. Jarmanoonni doonii bishaan isaanii imalchiisuu fi hojjachiisuu irratti baay’ee gaariidha.,science/technology,travel,"<|begin_of_text|>SENTENCE:
+ Dooniin bishaan keessaa Jarmani Doonii-U jedhama. Jarmanoonni doonii bishaan isaanii imalchiisuu fi hojjachiisuu irratti baay’ee gaariidha. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The sentence"
+"Yooma haalli fiizikaalawaan isaa jijjiirame iyyuu, haalli keemikaalawaan isaa immoo akkuma duraaniitti ta’a.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Yooma haalli fiizikaalawaan isaa jijjiirame iyyuu, haalli keemikaalawaan isaa immoo akkuma duraaniitti ta’a. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+This sentence"
+Walharkisi irrakeessa bishaanii kan inni uumamuuf moleekiyuulonni bishaanii irrakeessatti argaman moleekiyuulota qilleensaa isaan gararraatti argaman caalaa humna cimaadhaan gara walii walii isaaniitti waan harkifamaniifidha.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Walharkisi irrakeessa bishaanii kan inni uumamuuf moleekiyuulonni bishaanii irrakeessatti argaman moleekiyuulota qilleensaa isaan gararraatti argaman caalaa humna cimaadhaan gara walii walii isaaniitti waan harkifamaniifidha. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+This sentence"
+Rakkoowwan beekamoo gaafa fiilmii gara DVDtti jijjiiran jiru keessaa inni tokko humnaa ol iskaanii gochuudha .,science/technology,entertainment,"<|begin_of_text|>SENTENCE:
+ Rakkoowwan beekamoo gaafa fiilmii gara DVDtti jijjiiran jiru keessaa inni tokko humnaa ol iskaanii gochuudha. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+TRANSLATION:
+R"
+"Addumaan, ibsawwan xixiqqoo sirriitti hiikuudhaan namni tokko sobaa jiraachuu isaa adda baasuun ni danda’ama jedhamee falmama.",science/technology,N/A,"<|begin_of_text|>SENTENCE:
+ Addumaan, ibsawwan xixiqqoo sirriitti hiikuudhaan namni tokko sobaa jiraachuu isaa adda baasuun ni danda’ama jedhamee falmama. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- None of the above 
+EXPLANATION"
+Warqeen boca hedduutiin hojjetamu danda’a. Bocawwan xixiqqootti gadi deebifamuu danda’a.,science/technology,geography,"<|begin_of_text|>SENTENCE:
+ Warqeen boca hedduutiin hojjetamu danda’a. Bocawwan xixiqqootti gadi deebifamuu danda’a. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+REASONING SKILL"
+"Akkuma koompiyutara mana keessaa hedduu keessattii fi fayyadama mosaajjiiwwan tapha viidiyoo keessatti hojjetametti sirni Al amma yeroo baayee gosa barnootaa akka og-dinagdee, fayyaa, ijaarsa fi humna waraanaa keessatti fayidaaf oola.",science/technology,entertainment,"<|begin_of_text|>SENTENCE:
+ Akkuma koompiyutara mana keessaa hedduu keessattii fi fayyadama mosaajjiiwwan tapha viidiyoo keessatti hojjetametti sirni Al amma yeroo baayee gosa barnootaa akka og-dinagdee, fayyaa, ijaarsa fi humna waraanaa keessatti fayidaaf oola. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+The"
+"Har’as ni qophaa’a, garuu baayyee barbaachisaan, reeshoon haalasaa qabiyyee si’eessituu kaameeraa fakkii dijitaalaan dhaalamee jira.",science/technology,entertainment,"<|begin_of_text|>SENTENCE:
+ Har’as ni qophaa’a, garuu baayyee barbaachisaan, reeshoon haalasaa qabiyyee si’eessituu kaameeraa fakkii dijitaalaan dhaalamee jira. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+The"
+Baay’ee kan hammeenyaaf itti fayyadamamee fi badaa kan ta’e seerri sadeessoon qajeelcha salphaa daaynaamizimii uumaa safara tasgabbii seeraa suuraadhaan tursuudha.,science/technology,travel,"<|begin_of_text|>SENTENCE:
+ Baay’ee kan hammeenyaaf itti fayyadamamee fi badaa kan ta’e seerri sadeessoon qajeelcha salphaa daaynaamizimii uumaa safara tasgabbii seeraa suuraadhaan tursuudha. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+REASONING SKILL:
+"
+"Kun yoo xiqqaate daayinoosaroonni tokko tokko baal’ee qabaachuu isaanii, yaad-rimee isa bal’inaan beekamaa, qofa mirkaneessa utuu hinta’in, odeeffannoo gadi fagoo, kan hafteen isaanii, kanneen akka halluu fi qindoominni kallattii-sadee akka waliigalaatti mirkaneessuu hindandeenye illee ni mirkaneessa.",science/technology,entertainment,"<|begin_of_text|>SENTENCE:
+ Kun yoo xiqqaate daayinoosaroonni tokko tokko baal’ee qabaachuu isaanii, yaad-rimee isa bal’inaan beekamaa, qofa mirkaneessa utuu hinta’in, odeeffannoo gadi fagoo, kan hafteen isaanii, kanneen akka halluu fi qindoominni kallattii-sadee akka waliigalaatti mirkaneessuu hindandeenye illee ni mirkaneessa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+REASONING:
+This"
+"Harkisi lo akkamittiin na harkisa? Yoo irra keessa lo irra dhaabatte, hanga Lafa irratti ulfaattuu gadi ulfaatta.",science/technology,travel,"<|begin_of_text|>SENTENCE:
+ Harkisi lo akkamittiin na harkisa? Yoo irra keessa lo irra dhaabatte, hanga Lafa irratti ulfaattuu gadi ulfaatta. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Hark"
+NextGen sirna FAA’n xayyaarrii daandii gabaabaa balali’uu akka danda’u gochuu qaba jechuun gaafatee fi bara baraan gaazii gaaloonii heddu kan qusatee fi lakkifama kaarboonii hambiseedha,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ NextGen sirna FAA’n xayyaarrii daandii gabaabaa balali’uu akka danda’u gochuu qaba jechuun gaafatee fi bara baraan gaazii gaaloonii heddu kan qusatee fi lakkifama kaarboonii hambiseedha 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+The sentence"
+Qorannoo beekamtiif daataan niiwuroobaayloojikaalaan ragaa fiizikaalaa tiyoorotikaalawaan dhiyaatu ni kenna. Kanaafuu naannowaaa qorannoo dhiphisa akkasumas akka baay’isee sirrii ta’u godha.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Qorannoo beekamtiif daataan niiwuroobaayloojikaalaan ragaa fiizikaalaa tiyoorotikaalawaan dhiyaatu ni kenna. Kanaafuu naannowaaa qorannoo dhiphisa akkasumas akka baay’isee sirrii ta’u godha. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+The sentence"
+"Haasawa isaa sa’aa 2 ture keesatti akkas jedhe “Har’a Appiliin bilbila haarawa uumuuf adeema, nutis har’a seenaa hojjechuuf adeemaa jirra” jedhe.",science/technology,travel,"<|begin_of_text|>SENTENCE:
+ Haasawa isaa sa’aa 2 ture keesatti akkas jedhe “Har’a Appiliin bilbila haarawa uumuuf adeema, nutis har’a seenaa hojjechuuf adeemaa jirra” jedhe. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+ TRANSLATION:
+Haas"
+Miidhaan leensota guddisoo walxaxiinsa xiyyeefannoo fi lakkoofsi elementiiwwan leensii dheerinoota fookaalii hedduu argachuuf barbaadamuu kan leensoota piraayimii caalaa guddaadha.,science/technology,geography,"<|begin_of_text|>SENTENCE:
+ Miidhaan leensota guddisoo walxaxiinsa xiyyeefannoo fi lakkoofsi elementiiwwan leensii dheerinoota fookaalii hedduu argachuuf barbaadamuu kan leensoota piraayimii caalaa guddaadha. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+"Fakkii riimoota televiiziyoonaa fakkaatee, ajajaan kun seensaroota lama bukkee televiiziyoona fayyadamtootaa kan kaahame bakka duwwaa keessaa iddoo isaa argachuuf fayyadu.",science/technology,entertainment,"<|begin_of_text|>SENTENCE:
+ Fakkii riimoota televiiziyoonaa fakkaatee, ajajaan kun seensaroota lama bukkee televiiziyoona fayyadamtootaa kan kaahame bakka duwwaa keessaa iddoo isaa argachuuf fayyadu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+The"
+"Saayintistootni akka jedhanitti irra keessi baallee bineensa kanaa magaala, gara jalaatiin ammoo daalacha yookiin halluu kaarotiitti kan gaalchuture.",science/technology,travel,"<|begin_of_text|>SENTENCE:
+ Saayintistootni akka jedhanitti irra keessi baallee bineensa kanaa magaala, gara jalaatiin ammoo daalacha yookiin halluu kaarotiitti kan gaalchuture. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+REASONING SKILL:
+"
+"Kompaawuundonni lamaan kiristaala umuuf walnyaatu kunis hojiin kalee akka dhaabbatu godha, qorattoonni Yuunivarsitichaa akka jedhanitti.",science/technology,geography,"<|begin_of_text|>SENTENCE:
+ Kompaawuundonni lamaan kiristaala umuuf walnyaatu kunis hojiin kalee akka dhaabbatu godha, qorattoonni Yuunivarsitichaa akka jedhanitti. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+The"
+Kun qulqullina agartuu kan negatiivii 35mm caalaa harka afur kan ta’u kenna (3136mm2 gara 864 tti wal caala).,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Kun qulqullina agartuu kan negatiivii 35mm caalaa harka afur kan ta’u kenna (3136mm2 gara 864 tti wal caala). 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+This sentence"
+"Shiboo faayibar optikii galaana jalaan Awurooppaa waliin walquunnamsiisuu fi saatalaayitii biroodbaandiitiif gallannii haa ta’uutii, Giriinlaandiin sirritti litti hidhamtee jirti, ummata isii kessaas 93% tajaajiila intarneetii ni qabu.",science/technology,geography,"<|begin_of_text|>SENTENCE:
+ Shiboo faayibar optikii galaana jalaan Awurooppaa waliin walquunnamsiisuu fi saatalaayitii biroodbaandiitiif gallannii haa ta’uutii, Giriinlaandiin sirritti litti hidhamtee jirti, ummata isii kessaas 93% tajaajiila intarneetii ni qabu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+"Fayyadamsisaa beekamoo gosa kanaa keessa tokko Google Translate dha, erga daataa afaan barbaadamuu buufatanii booda interneeta malee hiika argachuu dandeessisa.",science/technology,travel,"<|begin_of_text|>SENTENCE:
+ Fayyadamsisaa beekamoo gosa kanaa keessa tokko Google Translate dha, erga daataa afaan barbaadamuu buufatanii booda interneeta malee hiika argachuu dandeessisa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The sentence"
+"Caasaa moleekiyuularraa wal fakkata qaba yoo gaasiis, dhangala’aas, ykn jajjaboo ta’eeyyu.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Caasaa moleekiyuularraa wal fakkata qaba yoo gaasiis, dhangala’aas, ykn jajjaboo ta’eeyyu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+The sentence"
+"Kalaqqiin viidiyoo waraabuu argannoo barbaachisaa ta’an kan argannoo ibsa-maaykiroo, sochii fuulaa kan miliiseekoondii muraasa turan hiikuu fideera.",science/technology,geography,"<|begin_of_text|>SENTENCE:
+ Kalaqqiin viidiyoo waraabuu argannoo barbaachisaa ta’an kan argannoo ibsa-maaykiroo, sochii fuulaa kan miliiseekoondii muraasa turan hiikuu fideera. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+The"
+Namootni waggoottan kumaafi kumaatamaaf guddisanii arguuf leensiiwwan fayyadamanii jiru.,science/technology,geography,"<|begin_of_text|>SENTENCE:
+ Namootni waggoottan kumaafi kumaatamaaf guddisanii arguuf leensiiwwan fayyadamanii jiru. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+The"
+"Ta’uyyuu qofaasaa miti, yaalii gochuun, akkasumas yaaliin qormaata mal-deebii ta’uu danda’an tokko ykn isaa ol keessaa dhabamsiisuuf fayyaduudha, gaaffilee gaafachuu, fi qalbifannaa gochuunis qorannoo saayinsawaa qajeelchu.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Ta’uyyuu qofaasaa miti, yaalii gochuun, akkasumas yaaliin qormaata mal-deebii ta’uu danda’an tokko ykn isaa ol keessaa dhabamsiisuuf fayyaduudha, gaaffilee gaafachuu, fi qalbifannaa gochuunis qorannoo saayinsawaa qajeelchu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+The sentence"
+"Suuta suuta, masaknii muka masakaa sibilaan jijjiiramaa dhufee. 1767 tti, karaan sibilaan guutummatti hojaatamee beeksifamee.",science/technology,geography,"<|begin_of_text|>SENTENCE:
+ Suuta suuta, masaknii muka masakaa sibilaan jijjiiramaa dhufee. 1767 tti, karaan sibilaan guutummatti hojaatamee beeksifamee. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+This"
+Yeroo kaardiiwwan hedduun iddoo hunda bilbiluuf gaarii ta’anitti tokko tokko garee biyyoota murtaa’aniitiif dhiheessa bilbila addaa qaba.,science/technology,travel,"<|begin_of_text|>SENTENCE:
+ Yeroo kaardiiwwan hedduun iddoo hunda bilbiluuf gaarii ta’anitti tokko tokko garee biyyoota murtaa’aniitiif dhiheessa bilbila addaa qaba. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+REASONING SKILL:
+"
+"Teeleskooppiiwwan ammayyaa hedduun isaanii meeshaalee guguddoo bakkeewwan fagoorra jiranidha, haala qilleensa naannoo mijataa wajjin.",science/technology,geography,"<|begin_of_text|>SENTENCE:
+ Teeleskooppiiwwan ammayyaa hedduun isaanii meeshaalee guguddoo bakkeewwan fagoorra jiranidha, haala qilleensa naannoo mijataa wajjin. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+The"
+Lilmoon sibilaa ulfaatina salphaa waan qabuuf bishaan gubbaa bololi’a.,science/technology,geography,"<|begin_of_text|>SENTENCE:
+ Lilmoon sibilaa ulfaatina salphaa waan qabuuf bishaan gubbaa bololi’a. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+This"
+"Gucni 35mm sun dhugumaan, hamma ta’e nama wallaalchisa, dalgee 36mm fi hojjaa 24mm qaba.",science/technology,N/A,"<|begin_of_text|>SENTENCE:
+ Gucni 35mm sun dhugumaan, hamma ta’e nama wallaalchisa, dalgee 36mm fi hojjaa 24mm qaba. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- None of the above 
+EXPLANATION"
+"Seelonni baayyee barbaachisoo fi akka lubbuu qo’annuuf murteessoo dha, dhugumatti yeroo baayyee “bu’uura ijaarsa lubbuu” jedhamuun beekamu.",science/technology,geography,"<|begin_of_text|>SENTENCE:
+ Seelonni baayyee barbaachisoo fi akka lubbuu qo’annuuf murteessoo dha, dhugumatti yeroo baayyee “bu’uura ijaarsa lubbuu” jedhamuun beekamu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+The"
+Dhiyeessitoonni VPN dhuunfaa (neetwoorkii dhuunfaa abjata) karaa hunda caalaa saansuurummaa siyaasaa fi fi dinagdee ip-geofilteringii ittiin barbaadanidha.,science/technology,politics,"<|begin_of_text|>SENTENCE:
+ Dhiyeessitoonni VPN dhuunfaa (neetwoorkii dhuunfaa abjata) karaa hunda caalaa saansuurummaa siyaasaa fi fi dinagdee ip-geofilteringii ittiin barbaadanidha. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+The sentence"
+Hamma dhuma deemsa hawaatti buufatichi jiirooskooppii dursa ergama buufataa hawaa irratti dhabu iyyuu bakka isaa tursiiseera.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Hamma dhuma deemsa hawaatti buufatichi jiirooskooppii dursa ergama buufataa hawaa irratti dhabu iyyuu bakka isaa tursiiseera. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Hamma"
+"Namoonni ilaalcha akkanaa qaban yaada qajeelaa qabu, irradeddeebiiwwan sammuutti qabachuu, rakkoolee furuu, akkasumas qorannoowwan saayinsaawaa irratti hojjechuu danda’u.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Namoonni ilaalcha akkanaa qaban yaada qajeelaa qabu, irradeddeebiiwwan sammuutti qabachuu, rakkoolee furuu, akkasumas qorannoowwan saayinsaawaa irratti hojjechuu danda’u. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+The sentence"
+"Oselootni bineeldota xixqqoo nyaachuu jaalatu. Qamalee, bofa, xuqaa fi sinbirroota yoo danda’an ni qabatu. Bineensonni osoluun adamsitu hundi ishee irra baay’ee kan xiqqaatanidha.",science/technology,geography,"<|begin_of_text|>SENTENCE:
+ Oselootni bineeldota xixqqoo nyaachuu jaalatu. Qamalee, bofa, xuqaa fi sinbirroota yoo danda’an ni qabatu. Bineensonni osoluun adamsitu hundi ishee irra baay’ee kan xiqqaatanidha. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+REASONING SKILL"
+"Kaameeraa format giddu galeessaa muraasni kan fayyadaman formaati 6 fi 6, sirriitti ibsuuf kan negatiiva 56 fi 56 mm fayyadaman.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Kaameeraa format giddu galeessaa muraasni kan fayyadaman formaati 6 fi 6, sirriitti ibsuuf kan negatiiva 56 fi 56 mm fayyadaman. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+The sentence"
+"Imaltoonni rakkoo haala qilleensa badaa kan naannoo isaanii irra ga’u akka beekaniif jabeessanii gorfamu, sababa wantoonni kun sagantaa imalaa kam irraan dhibbaa ga’uu malu.",travel,geography,"<|begin_of_text|>SENTENCE:
+ Imaltoonni rakkoo haala qilleensa badaa kan naannoo isaanii irra ga’u akka beekaniif jabeessanii gorfamu, sababa wantoonni kun sagantaa imalaa kam irraan dhibbaa ga’uu malu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+The"
+"Baasonni gara naannoo ollaatti imalan buufataa baasii irraa (bishaan ce’uudhan) guyyaa guutuu, kanaaf baay’inaan, addaatti kan gara bahatti imalani fi Jaakar/Bamtaangi deeman sa’aa 06:30 fi 07:30 ti dha.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Baasonni gara naannoo ollaatti imalan buufataa baasii irraa (bishaan ce’uudhan) guyyaa guutuu, kanaaf baay’inaan, addaatti kan gara bahatti imalani fi Jaakar/Bamtaangi deeman sa’aa 06:30 fi 07:30 ti dha. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+REASONING SKILL:
+"
+"Nama oofuuf tasgabbii irra guddaa kennu, garuu miilli nama isa oofuu keessa seenee qabamuu waan danda’uuf sodaa balaa uumuu qabaatu.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Nama oofuuf tasgabbii irra guddaa kennu, garuu miilli nama isa oofuu keessa seenee qabamuu waan danda’uuf sodaa balaa uumuu qabaatu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+REASONING SKILL:
+"
+"Qophiin Bashaannanaa doonii Baltik akka Qulqulluu Petersbarg, Russia, keessa turuuf dheereffameera.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Qophiin Bashaannanaa doonii Baltik akka Qulqulluu Petersbarg, Russia, keessa turuuf dheereffameera. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Qoph"
+"Gorsichi imaltoonni hin hatan, wanta keessa seenuun dhorkaa ta’e keessa hin seenan, nagada seeraan alaa keessatti hin hirmaatan, hin kadhatan yookaan bu’aa isaaniif jecha namoota biroo hin miidhan jedhee yaada.",travel,N/A,"<|begin_of_text|>SENTENCE:
+ Gorsichi imaltoonni hin hatan, wanta keessa seenuun dhorkaa ta’e keessa hin seenan, nagada seeraan alaa keessatti hin hirmaatan, hin kadhatan yookaan bu’aa isaaniif jecha namoota biroo hin miidhan jedhee yaada. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- None of the above (general knowledge)"
+Yeroo bakkaa bakkatti imaaluuf yaaddan duraafi yeroo imalaa wantoota ilaalcha keessa galchuu qabdan hedduutu jiru.,travel,travel,"<|begin_of_text|>SENTENCE:
+ Yeroo bakkaa bakkatti imaaluuf yaaddan duraafi yeroo imalaa wantoota ilaalcha keessa galchuu qabdan hedduutu jiru. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The sentence"
+"Yeroo guyyicha keessatti ho’inni ol ka’u, imaltootni abjuu guyyaa kan akka bishaan jiru itti fakkeesse mul’isu (yookiin wantoota biraa) isaan mudachuu danda’a.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Yeroo guyyicha keessatti ho’inni ol ka’u, imaltootni abjuu guyyaa kan akka bishaan jiru itti fakkeesse mul’isu (yookiin wantoota biraa) isaan mudachuu danda’a. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The sentence"
+"Maatiiwwan ijoollee qaban darbanii darbanii argamu, garuu manneen ciisichaa muraasni kutaa dhuunfaa isaaniif ni eeyyamu.",travel,N/A,"<|begin_of_text|>SENTENCE:
+ Maatiiwwan ijoollee qaban darbanii darbanii argamu, garuu manneen ciisichaa muraasni kutaa dhuunfaa isaaniif ni eeyyamu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- None of the above 
+EXPLANATION"
+"Fakkenyaaf gamoowwan daawwachuun Sulula Loire keessatti, sulula Rhine yookiin bashannanaaf gara magaalota babbareedani karaa Danube yookiin bo'oo Erie keessa bidiruun deemuu.",travel,geography,"<|begin_of_text|>SENTENCE:
+ Fakkenyaaf gamoowwan daawwachuun Sulula Loire keessatti, sulula Rhine yookiin bashannanaaf gara magaalota babbareedani karaa Danube yookiin bo'oo Erie keessa bidiruun deemuu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+The"
+Wayyaa yoo ejantii fayyadamamee kan yeroo hedduu macaafa kan kee fakkatu gorsu.,travel,geography,"<|begin_of_text|>SENTENCE:
+ Wayyaa yoo ejantii fayyadamamee kan yeroo hedduu macaafa kan kee fakkatu gorsu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+The"
+"Imalli galaanarraa Amajjii 2004 yeroo sagantaa kompiwuutaraa Keesii Faantan balali’iinsa rakasaa galaanaa argatan, garuu itti turu hin qabnettu ture.",travel,N/A,"<|begin_of_text|>SENTENCE:
+ Imalli galaanarraa Amajjii 2004 yeroo sagantaa kompiwuutaraa Keesii Faantan balali’iinsa rakasaa galaanaa argatan, garuu itti turu hin qabnettu ture. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- None of the above 
+EXPLANATION"
+Viizaan barattootaa viizaa tuuristii ykn viisaa daldalaa irraa ulaagaalee barbaachisanii fi adeemsa iyyannaa adda ta’ee qaba.,travel,travel,"<|begin_of_text|>SENTENCE:
+ Viizaan barattootaa viizaa tuuristii ykn viisaa daldalaa irraa ulaagaalee barbaachisanii fi adeemsa iyyannaa adda ta’ee qaba. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+ TRANSLATION:
+ Tourists"
+Biyyootni tokkoon tokkoon isaanii seerota meeshaalee hatattamaa konkolaataa keessa ta’uu qaban irratti seera adda addaa qabu.,travel,politics,"<|begin_of_text|>SENTENCE:
+ Biyyootni tokkoon tokkoon isaanii seerota meeshaalee hatattamaa konkolaataa keessa ta’uu qaban irratti seera adda addaa qabu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+ Politics is"
+"Yoodhuma Ejansootni baayeen galmee bakka qabachuu idilee fudhachuuf barbaadaniyyuu, ejantootni hedduun kan isaan baayee irratti hirmaatan imalaa bifa addaa ta’e, akkasumaas hamma baajataa yookiin bakka ga’umsaa irratti.",travel,geography,"<|begin_of_text|>SENTENCE:
+ Yoodhuma Ejansootni baayeen galmee bakka qabachuu idilee fudhachuuf barbaadaniyyuu, ejantootni hedduun kan isaan baayee irratti hirmaatan imalaa bifa addaa ta’e, akkasumaas hamma baajataa yookiin bakka ga’umsaa irratti. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+The"
+Imaltoonni miidhaa bineensotaa kan naannoo isaan jiraatanitti hin beekne muudachuu malu.,travel,geography,"<|begin_of_text|>SENTENCE:
+ Imaltoonni miidhaa bineensotaa kan naannoo isaan jiraatanitti hin beekne muudachuu malu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+"Akkasuma daawwannaa naannoo kaabaa jalaatamtu keenya Shamaree Faaxumaa (iddoo aarsaa), bakka fakkii Mariyaa ishee addunyaatti beekamtuu.",travel,geography,"<|begin_of_text|>SENTENCE:
+ Akkasuma daawwannaa naannoo kaabaa jalaatamtu keenya Shamaree Faaxumaa (iddoo aarsaa), bakka fakkii Mariyaa ishee addunyaatti beekamtuu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+Goommaa keessa naanna’uuf booda-booda (taaksii doqdoqqee) fayyadamuu dandessa. Gatiiin baramaan (kan naannawaa sanaa) imala gabaabaaf Farankaa warra Koongoo ~500 dha.,travel,travel,"<|begin_of_text|>SENTENCE:
+ Goommaa keessa naanna’uuf booda-booda (taaksii doqdoqqee) fayyadamuu dandessa. Gatiiin baramaan (kan naannawaa sanaa) imala gabaabaaf Farankaa warra Koongoo ~500 dha. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+REASONING SKILL:
+"
+"Isaan kan sochii mana alaa jaalatan, Kooridooriin Galaanaa hanga Samiin barbaachisaa dha.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Isaan kan sochii mana alaa jaalatan, Kooridooriin Galaanaa hanga Samiin barbaachisaa dha. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+travel
+EXPLANATION:
+This sentence is"
+"Safaariin deemu ( kan “deemsa daggalaa”,”safaarii karaa dheeraa deemu”, yookiin deemuu “miillaaniis” jedhamu ) dabalataan tabba yaabuu kan qabu, sa’aa muraas ykn guyyaa baayee kan ta’u",travel,travel,"<|begin_of_text|>SENTENCE:
+ Safaariin deemu ( kan “deemsa daggalaa”,”safaarii karaa dheeraa deemu”, yookiin deemuu “miillaaniis” jedhamu ) dabalataan tabba yaabuu kan qabu, sa’aa muraas ykn guyyaa baayee kan ta’u 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The sentence"
+"karaan inni qofaa haala saffisaan keessa ba’amu akka mi’a ilaalameetti erguu ture. Seerrii karaa qilleensaa mi’a imaltootaan ala akka ergamu hin hayyamu, kunis bakka itti dhufteedha.",travel,travel,"<|begin_of_text|>SENTENCE:
+ karaan inni qofaa haala saffisaan keessa ba’amu akka mi’a ilaalameetti erguu ture. Seerrii karaa qilleensaa mi’a imaltootaan ala akka ergamu hin hayyamu, kunis bakka itti dhufteedha. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The sentence"
+"Teessumni dabalataa 300 ittiin imalan waan argameef walumaa galatti fe’iisi 1,300 ta`uun isaa rakkoo baay`atanii deemuu hir`isa.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Teessumni dabalataa 300 ittiin imalan waan argameef walumaa galatti fe’iisi 1,300 ta`uun isaa rakkoo baay`atanii deemuu hir`isa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+REASONING:
+This sentence"
+"Maatiiwwan ijoollee xixiqqoo qaban qophii dabalataa barbaaduu danda’u, garuu guyyaa bakkeetti dabarsuun salphaadhumatti mucoolii fi ijoollota oolmaa daa’immanii jiran waliiniyyuu ni danda’ama.",travel,N/A,"<|begin_of_text|>SENTENCE:
+ Maatiiwwan ijoollee xixiqqoo qaban qophii dabalataa barbaaduu danda’u, garuu guyyaa bakkeetti dabarsuun salphaadhumatti mucoolii fi ijoollota oolmaa daa’immanii jiran waliiniyyuu ni danda’ama. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- None of the above.  This is"
+"Namnii kamillee kan bakka latiitiyudii ol aanaatti konkolaachisuu danda’u yookan tabba ba’uu danda’u kan yaaduu qabu cabbii, baraado, yookan tempireecharaa qabaneessituu dha.",travel,geography,"<|begin_of_text|>SENTENCE:
+ Namnii kamillee kan bakka latiitiyudii ol aanaatti konkolaachisuu danda’u yookan tabba ba’uu danda’u kan yaaduu qabu cabbii, baraado, yookan tempireecharaa qabaneessituu dha. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+REASONING SKILL"
+"Maqaan isii bakka hawwata tuuristii isii taasisus, akkasumas buufata xiyyaaraa qabaattus, har’a, Timbuktuun magaala deegduudha.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Maqaan isii bakka hawwata tuuristii isii taasisus, akkasumas buufata xiyyaaraa qabaattus, har’a, Timbuktuun magaala deegduudha. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+REASONING SKILL:
+"
+"Yeroo bubbee cabbii, yeroo xiqqoo keessatti bugugiin cabbie sidhaabuu danda’u bu’uu danda’a.",travel,geography,"<|begin_of_text|>SENTENCE:
+ Yeroo bubbee cabbii, yeroo xiqqoo keessatti bugugiin cabbie sidhaabuu danda’u bu’uu danda’a. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+REASONING SKILL"
+"Yoo addunyaa guutummaatti naanna’uu barbaadda ta’e naannoo heemisfeera Kibbaa, filannoo balalii fi bakki ga’umsaa murtaa’aadha sababa daandii qaxxaamura garbaa waliin qabaniini.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Yoo addunyaa guutummaatti naanna’uu barbaadda ta’e naannoo heemisfeera Kibbaa, filannoo balalii fi bakki ga’umsaa murtaa’aadha sababa daandii qaxxaamura garbaa waliin qabaniini. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The sentence"
+"Buufataleen xiyyaara kan akka Eemireetsi, Karaa Qilleensaa Itahaad, Karaa Qilleensaa Kuwaatar fi Karaa qilleensaa Turkii tajaajila isaaanii gara Afrikaatti guddaa kan babal’isanii fi karaa qilleensaa Awurooppaanotaa caalaa magaalota aafriikaatti haala waldorgommiin tajaajila walquunnamtii kennaniiru.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Buufataleen xiyyaara kan akka Eemireetsi, Karaa Qilleensaa Itahaad, Karaa Qilleensaa Kuwaatar fi Karaa qilleensaa Turkii tajaajila isaaanii gara Afrikaatti guddaa kan babal’isanii fi karaa qilleensaa Awurooppaanotaa caalaa magaalota aafriikaatti haala waldorgommiin tajaajila walquunnamtii kennaniiru. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+ REASONING SKILL:
+"
+"Geejjibni dabalataa godhamaa jiru hin jiru, baaburri lafarraas Wembileey’tti hin dhaabatu, akkasumas dhaabbiin konkolaataa fi tajaajilootni dhaabanii-oofuus lafarra hin jiran.",travel,geography,"<|begin_of_text|>SENTENCE:
+ Geejjibni dabalataa godhamaa jiru hin jiru, baaburri lafarraas Wembileey’tti hin dhaabatu, akkasumas dhaabbiin konkolaataa fi tajaajilootni dhaabanii-oofuus lafarra hin jiran. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+The"
+"Walumaagalatti, biyya alaa kam keessa iyyuu yeroo dheeraaf turuuf dursitee viizaa argachuu si barbaachisa.",travel,geography,"<|begin_of_text|>SENTENCE:
+ Walumaagalatti, biyya alaa kam keessa iyyuu yeroo dheeraaf turuuf dursitee viizaa argachuu si barbaachisa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+The"
+Baaburii kamiyyu Meetiroopilaasii fi gorsaa Meetiroo qabuu; Meetiroopilaasii dhumma baabura irrattidha yeroo hundaa kan gorsu dhi’eenya naannoo Keepi Taawonitti.,travel,travel,"<|begin_of_text|>SENTENCE:
+ Baaburii kamiyyu Meetiroopilaasii fi gorsaa Meetiroo qabuu; Meetiroopilaasii dhumma baabura irrattidha yeroo hundaa kan gorsu dhi’eenya naannoo Keepi Taawonitti. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The sentence"
+Namni kamuuhawaasa keessatti hirmaatee sirna geejjibaa fayyadama. Guutummaatti kan dhiyaatu namni kamuu waa’ee sirna geejjibaa mufii dhiyeessa.,travel,N/A,"<|begin_of_text|>SENTENCE:
+ Namni kamuuhawaasa keessatti hirmaatee sirna geejjibaa fayyadama. Guutummaatti kan dhiyaatu namni kamuu waa’ee sirna geejjibaa mufii dhiyeessa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- None of the above 
+EXPLANATION"
+"akkuma naannoon addaan fageenyaan ummanni irra qubateen, fi kanaaf faalamni qilleensa xiqqaan yeroo mara nama hin rakkisu, urjiiwwanittis bashannanuu dandeessu.",travel,politics,"<|begin_of_text|>SENTENCE:
+ akkuma naannoon addaan fageenyaan ummanni irra qubateen, fi kanaaf faalamni qilleensa xiqqaan yeroo mara nama hin rakkisu, urjiiwwanittis bashannanuu dandeessu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+The sentence"
+"Ulaagaan Viizaadhaf barbaachisu biyyaa biyyatti adda addadha, akkasumas biyya ati irraa dhufte irratti kan hunda’uu dha.",travel,geography,"<|begin_of_text|>SENTENCE:
+ Ulaagaan Viizaadhaf barbaachisu biyyaa biyyatti adda addadha, akkasumas biyya ati irraa dhufte irratti kan hunda’uu dha. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+The"
+"Akkawaliigalaatti dubbachuuf, balalii A dhaa gara B tti godhamuuf sababiimti teessoowwan biizinasiitii fi kutaa-jalqabaatiif gatii gadi bu’aan barbaadamuuf hinjiru.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Akkawaliigalaatti dubbachuuf, balalii A dhaa gara B tti godhamuuf sababiimti teessoowwan biizinasiitii fi kutaa-jalqabaatiif gatii gadi bu’aan barbaadamuuf hinjiru. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+REASONING SKILL:
+"
+Darbaannaan buumeraangii ogummaa beekamaa tuuristootni qabaachuu barbaadanidha.,travel,travel,"<|begin_of_text|>SENTENCE:
+ Darbaannaan buumeraangii ogummaa beekamaa tuuristootni qabaachuu barbaadanidha. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+REASONING:
+This sentence"
+Balalliin kun filannoo isa qofaamiti yoo Kibba Paasifiikii fi qarqara galaanaa gara dhihaa Ameerikaa Kibbaarra utaaluu yoo barbaadde. (kan gadii ilaali),travel,travel,"<|begin_of_text|>SENTENCE:
+ Balalliin kun filannoo isa qofaamiti yoo Kibba Paasifiikii fi qarqara galaanaa gara dhihaa Ameerikaa Kibbaarra utaaluu yoo barbaadde. (kan gadii ilaali) 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+ REASONING:
+This sentence"
+"Saan Firaansiskoon misooma daawwattotaa guddaa hoteelota, restoraantiiwwanii fi galmawwan walga’ii qulqullina olaanaa qaban hedduu ijaartee jirti.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Saan Firaansiskoon misooma daawwattotaa guddaa hoteelota, restoraantiiwwanii fi galmawwan walga’ii qulqullina olaanaa qaban hedduu ijaartee jirti. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+REASONING SKILL:
+"
+"Osoo imalarra jiranii tola ooluun garaagarummaa fiduudhaaf karaa bareedaadha, garuu wantichi waa’eema kennuu qofaa miti.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Osoo imalarra jiranii tola ooluun garaagarummaa fiduudhaaf karaa bareedaadha, garuu wantichi waa’eema kennuu qofaa miti. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The sentence"
+Namoonni tarii obsii fi hubannan imaltoota manatti deebi’aniif barbaachisaa akka ta’an dursanii hin yaadan.,travel,travel,"<|begin_of_text|>SENTENCE:
+ Namoonni tarii obsii fi hubannan imaltoota manatti deebi’aniif barbaachisaa akka ta’an dursanii hin yaadan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+REASONING SKILL:
+"
+"Kaffaltii dabalataa viizaaf dabaluu hin dagatinaa, qaraxa biyya-dhiisanii deemuu, geejjiiba lafaa fi kan kana fakkaatan. Bakkeewwan hundaa Afrikaa ala ta'aan sanaaf.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Kaffaltii dabalataa viizaaf dabaluu hin dagatinaa, qaraxa biyya-dhiisanii deemuu, geejjiiba lafaa fi kan kana fakkaatan. Bakkeewwan hundaa Afrikaa ala ta'aan sanaaf. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The sentence"
+Jiraattonni Bishkeeki heeddun al-seerummaa jiruuf mormitoota kibbaa dhufan komatu.,politics,geography,"<|begin_of_text|>SENTENCE:
+ Jiraattonni Bishkeeki heeddun al-seerummaa jiruuf mormitoota kibbaa dhufan komatu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+The"
+"Baroota darbaanitti kutaa Beeljem ammaa kutaa Luuzeenbergi turan garuu bara 1830tti warraqsaa warraa Beeljemiin booda,kan Beeljem taasifame.",politics,travel,"<|begin_of_text|>SENTENCE:
+ Baroota darbaanitti kutaa Beeljem ammaa kutaa Luuzeenbergi turan garuu bara 1830tti warraqsaa warraa Beeljemiin booda,kan Beeljem taasifame. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The sentence"
+"Erga bara 1988, saanduqni sagalee ifaaf bilisaa ta’uu qabu akka warren filaatan akkasumas taajjabdootni raga sirrii akka inveelopiin dabalamnef kan si’aa lama lakkawaameef kan namnii galmaa’ee qoftii itti eegamuu gochuuf.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Erga bara 1988, saanduqni sagalee ifaaf bilisaa ta’uu qabu akka warren filaatan akkasumas taajjabdootni raga sirrii akka inveelopiin dabalamnef kan si’aa lama lakkawaameef kan namnii galmaa’ee qoftii itti eegamuu gochuuf. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+ None of the above (politics) 
+"
+Haati Imaanaa Muummittiin Ministeeraa Juuliyaa Gilaardi yeroo duula na filadhaa filannoo federaalaa 2010 tti akka cimsitee dubbattetti dhuma mootummaa Giiftii Eelsaabex II tti Awustiraaliyaan rippaabiliika ta’uu qabdi jettee amanti.,politics,politics,"<|begin_of_text|>SENTENCE:
+ Haati Imaanaa Muummittiin Ministeeraa Juuliyaa Gilaardi yeroo duula na filadhaa filannoo federaalaa 2010 tti akka cimsitee dubbattetti dhuma mootummaa Giiftii Eelsaabex II tti Awustiraaliyaan rippaabiliika ta’uu qabdi jettee amanti. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+The sentence"
+Mootummaan Aayerlaandii haalicha sirreessuuf haatattamummaa seera paarlaamaa cimsee dubbataa jira.,politics,politics,"<|begin_of_text|>SENTENCE:
+ Mootummaan Aayerlaandii haalicha sirreessuuf haatattamummaa seera paarlaamaa cimsee dubbataa jira. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+The sentence"
+Waldhabdeen dippiloomaatii Armeeniyaa fi Azerbaajiyaan naannoo irratti qaban gara hariiroo badiitti itti fufee jira.,politics,geography,"<|begin_of_text|>SENTENCE:
+ Waldhabdeen dippiloomaatii Armeeniyaa fi Azerbaajiyaan naannoo irratti qaban gara hariiroo badiitti itti fufee jira. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+The"
+"Muummeen Ministeera Isteefan Harpeer waraqa seeraa ‘Hojii qilleensa qulqullu’ miseensa komiteewwan hundumaati erguuf waliif galaniiru, yeroo lammaffaf osoo hin dubbifamiin, walgahii Facaasa daqiiqa 25 boode duraa ta’an NDP Jaak Leeyitan bakka PMO’tti erga geggeessanii.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Muummeen Ministeera Isteefan Harpeer waraqa seeraa ‘Hojii qilleensa qulqullu’ miseensa komiteewwan hundumaati erguuf waliif galaniiru, yeroo lammaffaf osoo hin dubbifamiin, walgahii Facaasa daqiiqa 25 boode duraa ta’an NDP Jaak Leeyitan bakka PMO’tti erga geggeessanii. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+The sentence"
+"Ji’a darbe, mormiiwwan guguddootu Poolaandii keessa ture, gaafa biyyattiin ACTA mallatteessite, isa ammaaf mootummaan Poolaandii waliigaltecha raggaasisuu dhiisuuf akka murteessu taasise.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Ji’a darbe, mormiiwwan guguddootu Poolaandii keessa ture, gaafa biyyattiin ACTA mallatteessite, isa ammaaf mootummaan Poolaandii waliigaltecha raggaasisuu dhiisuuf akka murteessu taasise. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+The sentence"
+Gorsitootni gudunfaama gabaabaa haala siyaasa biyyya tokkoo agarsiisanidha.,politics,politics,"<|begin_of_text|>SENTENCE:
+ Gorsitootni gudunfaama gabaabaa haala siyaasa biyyya tokkoo agarsiisanidha. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+The sentence"
+"Yeroo filannoo bara 1976 tti, imaammata dhimma alaa irratti Kaartariin gorse, sana booda akka Gorsaa Nageenya Biyyoolessaatti (NSA) 1977 hanga 1981 tti Heenrii Kiisiinjeriin bakka bu’uudhaan tajaajile.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Yeroo filannoo bara 1976 tti, imaammata dhimma alaa irratti Kaartariin gorse, sana booda akka Gorsaa Nageenya Biyyoolessaatti (NSA) 1977 hanga 1981 tti Heenrii Kiisiinjeriin bakka bu’uudhaan tajaajile. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+The sentence"
+"Tarkiin eegumsa loltuuwwan ISIS booji’amanii darbitee fudhatti ture, kanneen akka dubbatametti, biyyoonni Awurooppaa dabarsanii biyyoota isaaniitti kennuu didan.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Tarkiin eegumsa loltuuwwan ISIS booji’amanii darbitee fudhatti ture, kanneen akka dubbatametti, biyyoonni Awurooppaa dabarsanii biyyoota isaaniitti kennuu didan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+The sentence"
+"Haa ta’u malee, karoorawwan kunniin naannooma halkan tokkootti boodatti hafoodha jedhamanii hiikaman, yemmuu loltuuwwan 800,000 Reed Aarmii Tokkummaa Sooviyet, erga naannoowwan bahaa Poolaandii Waliigaltee Nagaa Riigaa, Waliigaltee Weerara-Hambisuu Sooviyetiifi Poolaandi Gidduu, akkasumas waliigalteewwan idil-addunyaa biroo, kanneen biyyoota lamaa fi lamaa ol gidduu cabasanii weeraranii booda, seenanii adda waraanaa Beelaaruusiyaa fi Yuukireeyin uuman.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Haa ta’u malee, karoorawwan kunniin naannooma halkan tokkootti boodatti hafoodha jedhamanii hiikaman, yemmuu loltuuwwan 800,000 Reed Aarmii Tokkummaa Sooviyet, erga naannoowwan bahaa Poolaandii Waliigaltee Nagaa Riigaa, Waliigaltee Weerara-Hambisuu Sooviyetiifi Poolaandi Gidduu, akkasumas waliigalteewwan idil-addunyaa biroo, kanneen biyyoota lamaa fi lamaa ol gidduu cabasanii weeraranii booda, seenanii adda waraanaa Beelaaruusiyaa fi Yuukireeyin uuman. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+The sentence"
+"Adeemsa sana hordofuudhaan, HJR-3n adeemsa keessa turuudhaaf bara 2015 yookaan 2016 keessa qaama seera baasu, isa itti aansee filatamuun irra deebi’amee ilaalama.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Adeemsa sana hordofuudhaan, HJR-3n adeemsa keessa turuudhaaf bara 2015 yookaan 2016 keessa qaama seera baasu, isa itti aansee filatamuun irra deebi’amee ilaalama. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+HJR"
+"Koongiresiidhaan gaafa Adoolessa 4 fudhatamuu isaan booda, barreeffami duraa harkaan qopheeffamee Pirezidaantii Koongireesii Joon Hankuukii fi Barreessaa Chaarlis Toomsaniin mallatteeffame gara mana maxxansaa Joon Danlaap isa bilookiiwwan muraasa achirraa fagaatutti ergame.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Koongiresiidhaan gaafa Adoolessa 4 fudhatamuu isaan booda, barreeffami duraa harkaan qopheeffamee Pirezidaantii Koongireesii Joon Hankuukii fi Barreessaa Chaarlis Toomsaniin mallatteeffame gara mana maxxansaa Joon Danlaap isa bilookiiwwan muraasa achirraa fagaatutti ergame. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+This sentence"
+"11:00 booda, mormitoonni sochii tiraafikaa daangaa kaaba Waayithool keessaa cufan.",politics,travel,"<|begin_of_text|>SENTENCE:
+ 11:00 booda, mormitoonni sochii tiraafikaa daangaa kaaba Waayithool keessaa cufan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The sentence"
+"Haa ta’uu iyyuu malee, Waxabajjii 1956 keessa, waadaawwan Kirushchev gara qorumsaati darbani turani Poland keessatti, yeroo hojjetootni hanqina nyaata fi kutamu mindaaf falma turan, Sanaa booda mormii Komiiniwuzimitti guddate akkuma biyyaati.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Haa ta’uu iyyuu malee, Waxabajjii 1956 keessa, waadaawwan Kirushchev gara qorumsaati darbani turani Poland keessatti, yeroo hojjetootni hanqina nyaata fi kutamu mindaaf falma turan, Sanaa booda mormii Komiiniwuzimitti guddate akkuma biyyaati. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+The sentence"
+"Waggoota 40 fuldura dhuufaniif dhumachuufi dhugumaanu, waraana pirooksiin, iddoo lolaa Afrikaa irraa hamma Eshiyaa, Afigaaniistaan, kuubaafi baakkee garaagaraa birootti lolamuuf ture.",politics,travel,"<|begin_of_text|>SENTENCE:
+ Waggoota 40 fuldura dhuufaniif dhumachuufi dhugumaanu, waraana pirooksiin, iddoo lolaa Afrikaa irraa hamma Eshiyaa, Afigaaniistaan, kuubaafi baakkee garaagaraa birootti lolamuuf ture. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The sentence"
+Ji’a darbe koomishiniin pireezidaantii akka paakeejii tarkaanfiiwwan biyyattiii gara filannoo haaraatti sochoosuutti dursa hojii gad-lakkisuu CEP akka yaadaatti dhiheesse.,politics,politics,"<|begin_of_text|>SENTENCE:
+ Ji’a darbe koomishiniin pireezidaantii akka paakeejii tarkaanfiiwwan biyyattiii gara filannoo haaraatti sochoosuutti dursa hojii gad-lakkisuu CEP akka yaadaatti dhiheesse. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+The sentence"
+"Akka gabaasa matadureewwan biroon mari’ataman haala egeree Yerusaalem, isii saboota lamaaniifuu qulqulluu taatee fi fi dhimma Sulula Yoordaanosi of keessatti hammatu.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Akka gabaasa matadureewwan biroon mari’ataman haala egeree Yerusaalem, isii saboota lamaaniifuu qulqulluu taatee fi fi dhimma Sulula Yoordaanosi of keessatti hammatu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+The sentence"
+Akkasumas aangoo ittiin seera gibiraa naannoowwan gidduu jiran ittiin irra tarkaanfatu hin qabu ture.,politics,geography,"<|begin_of_text|>SENTENCE:
+ Akkasumas aangoo ittiin seera gibiraa naannoowwan gidduu jiran ittiin irra tarkaanfatu hin qabu ture. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+The"
+Seerri filannoo biyya Faransaay tarkaanfiiwwan mana murtii keessaa sanniiin toora qabsiisa.,politics,geography,"<|begin_of_text|>SENTENCE:
+ Seerri filannoo biyya Faransaay tarkaanfiiwwan mana murtii keessaa sanniiin toora qabsiisa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+The"
+"Walakkaa filannoo keessatti erga mo’umsa torban tokkoo booda, Bush hordoftootatti waa'ee Eeshiyaa keessatti daldala babal'isuu dubbate.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Walakkaa filannoo keessatti erga mo’umsa torban tokkoo booda, Bush hordoftootatti waa'ee Eeshiyaa keessatti daldala babal'isuu dubbate. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+This sentence"
+"Tarsiimochi bu’a-qabeessa ta’ee argame, dhiheessii loltootaa fi namoota hidhannoo hin qabne dhaabuun, yooma wanta kana dhaabun seera guutuu aduunyaa kan waliigaltee adda addaa jaarraa lamaan darban bahee waliin wal faallesse illee.",politics,travel,"<|begin_of_text|>SENTENCE:
+ Tarsiimochi bu’a-qabeessa ta’ee argame, dhiheessii loltootaa fi namoota hidhannoo hin qabne dhaabuun, yooma wanta kana dhaabun seera guutuu aduunyaa kan waliigaltee adda addaa jaarraa lamaan darban bahee waliin wal faallesse illee. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The sentence"
+Walitti dhufeenyi dinagdee irra deebiin ijaarameera qaamota kana lamaan Moldoova gidduti kufatii haasaa siyaasa fallaan.,politics,politics,"<|begin_of_text|>SENTENCE:
+ Walitti dhufeenyi dinagdee irra deebiin ijaarameera qaamota kana lamaan Moldoova gidduti kufatii haasaa siyaasa fallaan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+TRANSLATION:
+Mold"
+"Ooggantoota saniin dabaalamuun, nageenya uummataa eguudhaf tarkaanfiiwwan fudhatamaa akka turan lammiilee Teeksaasiif mirkaneesse.",politics,travel,"<|begin_of_text|>SENTENCE:
+ Ooggantoota saniin dabaalamuun, nageenya uummataa eguudhaf tarkaanfiiwwan fudhatamaa akka turan lammiilee Teeksaasiif mirkaneesse. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+REASONING SKILL:
+"
+Komii libiraalizimiin carraaqqii deebi’anii ijaaruu irratti qabu kan inni xiyyeeffatee jiru waliigalteewwan deebi’anii ijaaruu warra Waashingitaniin waan keessa beekan fakkaatan badhaasuu irratti.,politics,politics,"<|begin_of_text|>SENTENCE:
+ Komii libiraalizimiin carraaqqii deebi’anii ijaaruu irratti qabu kan inni xiyyeeffatee jiru waliigalteewwan deebi’anii ijaaruu warra Waashingitaniin waan keessa beekan fakkaatan badhaasuu irratti. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+The sentence"
+"Filannoo federaalaa bara 2010 dura namoota filataman 1,400 keessaa , warren Awustiraaliyaan riippaabilika ta’uu isii morman 2008 as dhibbeentaa 8n dabalaniiru.",politics,geography,"<|begin_of_text|>SENTENCE:
+ Filannoo federaalaa bara 2010 dura namoota filataman 1,400 keessaa, warren Awustiraaliyaan riippaabilika ta’uu isii morman 2008 as dhibbeentaa 8n dabalaniiru. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+REASONING SKILL"
+Akka Dippilomaatootni jedhanitti isaan heera Afgaanistanoota akka waan ga’aa ta’ee argaaniruu akka baqaannan dhabatuuf hin barbaachisneetti.,politics,travel,"<|begin_of_text|>SENTENCE:
+ Akka Dippilomaatootni jedhanitti isaan heera Afgaanistanoota akka waan ga’aa ta’ee argaaniruu akka baqaannan dhabatuuf hin barbaachisneetti. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+REASONING SKILL:
+"
+"Erga qabxiin dhufee booda, Giingiriich Saantooramiin baay’ee jaje, garuu Roomnii isa bakka isaa bu’uudhaan beeksisoonni duula-na-filadhaa badaan Giriingiriich irratti Aayoowaatti qilleensarra oolaniif jecha jabaa qaba ture.",politics,geography,"<|begin_of_text|>SENTENCE:
+ Erga qabxiin dhufee booda, Giingiriich Saantooramiin baay’ee jaje, garuu Roomnii isa bakka isaa bu’uudhaan beeksisoonni duula-na-filadhaa badaan Giriingiriich irratti Aayoowaatti qilleensarra oolaniif jecha jabaa qaba ture. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+ TRANSLATION:
+ The"
+Kun wagga afur keessatti Caffee Filannoo Yeroo Gabaabaa shanaffaa Maarteeliiti.,politics,geography,"<|begin_of_text|>SENTENCE:
+ Kun wagga afur keessatti Caffee Filannoo Yeroo Gabaabaa shanaffaa Maarteeliiti. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+The"
+"Mo’atan medaaliya warqee Olompikii akkataa bilisaan bishaan meetira 100 fi 200 daakuuf fi Taphoota biyyoota Walta’anii irratti kan ulee walitti dabarsuu dorgomuuf ture, garuu sababaa komii isaatiif ga’umsi qaamaa isaa shakkii keessa galee jira.",sports,geography,"<|begin_of_text|>SENTENCE:
+ Mo’atan medaaliya warqee Olompikii akkataa bilisaan bishaan meetira 100 fi 200 daakuuf fi Taphoota biyyoota Walta’anii irratti kan ulee walitti dabarsuu dorgomuuf ture, garuu sababaa komii isaatiif ga’umsi qaamaa isaa shakkii keessa galee jira. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+"Olompiikii duraanii fi shaampiyoonaa Addunyaa illee kan ta’e Saayitoon, yeroo du’a isaatti dura taa’aa koree leenjii Federeeshinii Juudoo Waliigala Jaappaan ture.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Olompiikii duraanii fi shaampiyoonaa Addunyaa illee kan ta’e Saayitoon, yeroo du’a isaatti dura taa’aa koree leenjii Federeeshinii Juudoo Waliigala Jaappaan ture. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+The sentence"
+"Koreen Oolompikii Idil-addunyaa akka inni ispoortitti dabalamuuf yeroo wal ga’ii isaanii Beerliniiti taasisaanitti har’a filannoodhaan murteessaniiru. Ragbii, keessumaa yuuniyeniin ragbii, akkasumaas golfiin taphoota biroo shankeessaa akka ispoortii Oolompikiitti dabalamaniif filataman.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Koreen Oolompikii Idil-addunyaa akka inni ispoortitti dabalamuuf yeroo wal ga’ii isaanii Beerliniiti taasisaanitti har’a filannoodhaan murteessaniiru. Ragbii, keessumaa yuuniyeniin ragbii, akkasumaas golfiin taphoota biroo shankeessaa akka ispoortii Oolompikiitti dabalamaniif filataman. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+Kore"
+Waldorgommiin guddaan bara kanaa kan jalqabu Mudde keessa bakka dirreewwan polo Las Cañitas keessatti.,sports,travel,"<|begin_of_text|>SENTENCE:
+ Waldorgommiin guddaan bara kanaa kan jalqabu Mudde keessa bakka dirreewwan polo Las Cañitas keessatti. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+TRANSLATION:
+Wald"
+"Erga magaala guddaa Kaatalaanitti darbaani, Viidaal kilaabii isaaf taphaa 49 taasisee.",sports,travel,"<|begin_of_text|>SENTENCE:
+ Erga magaala guddaa Kaatalaanitti darbaani, Viidaal kilaabii isaaf taphaa 49 taasisee. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The sentence"
+"Humna fayyaa madaala’e tursiisuun, aadaa bishaan dhuguu bu’a qabeessa ta’e shaakaluu fi shaakala dabalataa adda addaa hubachuun atileetoonni dandeettii isaanii akka fooyyessanii fi gammachuu isaanii akka dabalaniif isaan gargaaara.",sports,travel,"<|begin_of_text|>SENTENCE:
+ Humna fayyaa madaala’e tursiisuun, aadaa bishaan dhuguu bu’a qabeessa ta’e shaakaluu fi shaakala dabalataa adda addaa hubachuun atileetoonni dandeettii isaanii akka fooyyessanii fi gammachuu isaanii akka dabalaniif isaan gargaaara. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+ TRANSLATION:
+Humna"
+"Sadaffaa keessatti, Hamliin qabxii digdama duubatti haftee jirti, garuu Baaworiin shaniin dursitee turte. Kahne fi Truex Jr. walduraaduubaan qabxii 2,220 fi 2,207 n shanaffaa fi jahaffaadha.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Sadaffaa keessatti, Hamliin qabxii digdama duubatti haftee jirti, garuu Baaworiin shaniin dursitee turte. Kahne fi Truex Jr. walduraaduubaan qabxii 2,220 fi 2,207 n shanaffaa fi jahaffaadha. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+Kah"
+Riikardiin Nadaal mata mataattii warreen Kaanadaa waliin 7-2 dha.,sports,travel,"<|begin_of_text|>SENTENCE:
+ Riikardiin Nadaal mata mataattii warreen Kaanadaa waliin 7-2 dha. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+This sentence"
+"Yeroo leenjii waqtii dursee jiru keessatti Jarque Kooverchiyaanoo, Xaaliyaanii keessatti shaakalaa ture. Dorgommii Bolooniyaa waliinii Dilbataaf karoorfamee jiru dursee hootela garechaa keessa taa’aa ture.",sports,geography,"<|begin_of_text|>SENTENCE:
+ Yeroo leenjii waqtii dursee jiru keessatti Jarque Kooverchiyaanoo, Xaaliyaanii keessatti shaakalaa ture. Dorgommii Bolooniyaa waliinii Dilbataaf karoorfamee jiru dursee hootela garechaa keessa taa’aa ture. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+Sodaan hanqina geejjibaa hammamtaa taphichi balabala cufameen deeggartoota garechaa malee geggeefamuuf dirqamsiifamuu olkaaseera.,sports,travel,"<|begin_of_text|>SENTENCE:
+ Sodaan hanqina geejjibaa hammamtaa taphichi balabala cufameen deeggartoota garechaa malee geggeefamuuf dirqamsiifamuu olkaaseera. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+This sentence"
+Tommy Dreamer akkas jedhe “Luunaan Giiftii Gadi fagoo jalqabaadha. Manaajaraa koo jalqaba. Luunaan kan boqotte halkan ji’a lama qabuttii dha. Akkuma ishee baayee adda. Shamaree cimtuu.”,sports,entertainment,"<|begin_of_text|>SENTENCE:
+ Tommy Dreamer akkas jedhe “Luunaan Giiftii Gadi fagoo jalqabaadha. Manaajaraa koo jalqaba. Luunaan kan boqotte halkan ji’a lama qabuttii dha. Akkuma ishee baayee adda. Shamaree cimtuu.” 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+REASONING SKILL"
+Namootni Polaand ijumaan iskayeroota skier Maciej Krezel fi guide Anna Ogarzynska adda baasan kan kudhaa sadaffaa ta’ee xumure Super-G irratti. Jong Seork’an Kooriyaa kibbaa kan xumuree digdamii afraffaa ta’ee dha Super-G ta’umsa dhiirota irratti.,sports,sports,"<|begin_of_text|>SENTENCE:
+ Namootni Polaand ijumaan iskayeroota skier Maciej Krezel fi guide Anna Ogarzynska adda baasan kan kudhaa sadaffaa ta’ee xumure Super-G irratti. Jong Seork’an Kooriyaa kibbaa kan xumuree digdamii afraffaa ta’ee dha Super-G ta’umsa dhiirota irratti. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+sports
+EXPLANATION:
+The sentence is"
+"Oduu dorgommicha irratii fi tikeeti gulantaawwan polo, Waldaa Arjantiinaa de Pooloo irraa mirkaneeffadhaa.",sports,politics,"<|begin_of_text|>SENTENCE:
+ Oduu dorgommicha irratii fi tikeeti gulantaawwan polo, Waldaa Arjantiinaa de Pooloo irraa mirkaneeffadhaa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+The sentence"
+"Taphichi ganama keessaa sa’aatii 10:00 irratti haala qilleensaa baay’ee gaarii ta’ee fi tiifuu giidduu ganamaa ture kan dafee darbee irraa kan hafe, 7ttan raagbiidhaaf guyyaa gaarii ture.",sports,travel,"<|begin_of_text|>SENTENCE:
+ Taphichi ganama keessaa sa’aatii 10:00 irratti haala qilleensaa baay’ee gaarii ta’ee fi tiifuu giidduu ganamaa ture kan dafee darbee irraa kan hafe, 7ttan raagbiidhaaf guyyaa gaarii ture. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The sentence"
+"teessoo dhiirotaa Suupper-Jii irratti,Aaarliyii Veelaaskuweez meeksikoo irraa kudha shanaffaa ta’uun xumure. Adam Haal Niwuuzilaandi irradhaabbii dhiirotaa Suuppar-Jii saglaffaan xumure.",sports,travel,"<|begin_of_text|>SENTENCE:
+ teessoo dhiirotaa Suupper-Jii irratti,Aaarliyii Veelaaskuweez meeksikoo irraa kudha shanaffaa ta’uun xumure. Adam Haal Niwuuzilaandi irradhaabbii dhiirotaa Suuppar-Jii saglaffaan xumure. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+REASONING SKILL:
+"
+"Taphni dhumaa dorgommii walitti aanaa kan inni geggeffamuu Elis Paark Johanisbargitidha turban dhufuu, gaafa Springboks Awustiraaliya wajjin taphatu.",sports,geography,"<|begin_of_text|>SENTENCE:
+ Taphni dhumaa dorgommii walitti aanaa kan inni geggeffamuu Elis Paark Johanisbargitidha turban dhufuu, gaafa Springboks Awustiraaliya wajjin taphatu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+REASONING SKILL"
+yeroo haala mijataa deemsa milaa irra caalaa fageenya hamma ta’e waliin gahuu ni dandessa. –garuu karaa haramaa irra ba’aa dugdaa ulfaata malee saffisa qaxxaamuraa iskiiyiingii darbee darbee malee hin geessu.,sports,geography,"<|begin_of_text|>SENTENCE:
+ yeroo haala mijataa deemsa milaa irra caalaa fageenya hamma ta’e waliin gahuu ni dandessa. –garuu karaa haramaa irra ba’aa dugdaa ulfaata malee saffisa qaxxaamuraa iskiiyiingii darbee darbee malee hin geessu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+ TRANSLATION:
+ The"
+"Qabxii torba boodatti hafuun, Joonsan qabxii 2,243n sadarkaa lammaffaarratti argama.",sports,travel,"<|begin_of_text|>SENTENCE:
+ Qabxii torba boodatti hafuun, Joonsan qabxii 2,243n sadarkaa lammaffaarratti argama. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+This sentence"
+"Kaaniyooniingi (yookaan: kaaniyooniiriingiin) waa’ee sulula keessa deemuuti, kan gogaa yookaan bishaaniin guutuu ta’e.",sports,N/A,"<|begin_of_text|>SENTENCE:
+ Kaaniyooniingi (yookaan: kaaniyooniiriingiin) waa’ee sulula keessa deemuuti, kan gogaa yookaan bishaaniin guutuu ta’e. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- None of the above 
+EXPLANATION"
+"Roobin Utihappaan qabxii dabarecha keessatti qabxii isa olaanaa galmesse, kubbaawwan 41 qofaa keessatti fiigichawwan 70 afuroota 11 fi jahoota 2 rukutuudhaan.",sports,geography,"<|begin_of_text|>SENTENCE:
+ Roobin Utihappaan qabxii dabarecha keessatti qabxii isa olaanaa galmesse, kubbaawwan 41 qofaa keessatti fiigichawwan 70 afuroota 11 fi jahoota 2 rukutuudhaan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+-"
+"Taphni bonaa baay’ee beekamaa dha naannoo kaabaatti, akkuma Xaaliyaanotni taphaa addunyaa guutuufi taphoota Olompikiif dorgomaa jiran.",sports,travel,"<|begin_of_text|>SENTENCE:
+ Taphni bonaa baay’ee beekamaa dha naannoo kaabaatti, akkuma Xaaliyaanotni taphaa addunyaa guutuufi taphoota Olompikiif dorgomaa jiran. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The sentence"
+Maroochydore marsaa lammaffaa keessatti qabxii jahaan Noosa caalee qabxii olaanaadhaan xumure.,sports,travel,"<|begin_of_text|>SENTENCE:
+ Maroochydore marsaa lammaffaa keessatti qabxii jahaan Noosa caalee qabxii olaanaadhaan xumure. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+REASONING SKILL:
+"
+"Michael Schumacher dorgommii isaa kan dhaabe yeroo Alonson dhaabe irraa fagoo hin turre,sababiin isaas yeroo garaagaraatti miidhaa buusaa qaama isaa irra waan ga’eefiidha.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Michael Schumacher dorgommii isaa kan dhaabe yeroo Alonson dhaabe irraa fagoo hin turre,sababiin isaas yeroo garaagaraatti miidhaa buusaa qaama isaa irra waan ga’eefiidha. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+REASONING SKILL:
+"
+"Amalli nyaataa seer-qabeessi qofti dandeettii bayeessa hin fidu, garuu fayyummaa guutuu atleetota laccee irratti bu’aa uumuu danda’a.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Amalli nyaataa seer-qabeessi qofti dandeettii bayeessa hin fidu, garuu fayyummaa guutuu atleetota laccee irratti bu’aa uumuu danda’a. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+The sentence"
+Taphoota irraa waan dhorkamaniif dhukkubbii isaa to’achuuf qoricha barbaachisu fudhachuu hin dandeenye.,sports,science/technology,"<|begin_of_text|>SENTENCE:
+ Taphoota irraa waan dhorkamaniif dhukkubbii isaa to’achuuf qoricha barbaachisu fudhachuu hin dandeenye. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+This sentence"
+Akka qorannoon mul’isuutti shamarran MS qabaachuudhaan dachaa lama dhiiraa ta’u.,health,N/A,"<|begin_of_text|>SENTENCE:
+ Akka qorannoon mul’isuutti shamarran MS qabaachuudhaan dachaa lama dhiiraa ta’u. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- None of the above 
+EXPLANATION"
+"Dhugaatin seeran alaa wantoota baayee cimoo ta’aan kan akka miitanoolii, kan ija jaamsuu ykn yooma xiqqoo fudhatanilee du’a qaqqabsiisuu danda’u qaba.",health,entertainment,"<|begin_of_text|>SENTENCE:
+ Dhugaatin seeran alaa wantoota baayee cimoo ta’aan kan akka miitanoolii, kan ija jaamsuu ykn yooma xiqqoo fudhatanilee du’a qaqqabsiisuu danda’u qaba. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment 
+REASONING SKILL"
+"Bu’aan badiinsaa, mukaa’inaa kan hin taane fi soda qofti amaloota walgahii caasaa gargaarsa wal’aansaa torban torbaniidha.",health,N/A,"<|begin_of_text|>SENTENCE:
+ Bu’aan badiinsaa, mukaa’inaa kan hin taane fi soda qofti amaloota walgahii caasaa gargaarsa wal’aansaa torban torbaniidha. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- None of the above 
+EXPLANATION"
+"Abbummaan konkolaataawwan heedduu ta’uus gara mudannaa balaa konkolaata daandii irraa guddaatti geessa, kan gara argannoo tekinikaa haara kunuunsa fayyaa warra qaama miidhame suphuutti nama geessu.",health,travel,"<|begin_of_text|>SENTENCE:
+ Abbummaan konkolaataawwan heedduu ta’uus gara mudannaa balaa konkolaata daandii irraa guddaatti geessa, kan gara argannoo tekinikaa haara kunuunsa fayyaa warra qaama miidhame suphuutti nama geessu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+REASONING SKILL:
+"
+"Hooggantoonni qorannoo geggeessan, wanti kun dursanii dhibeewwan kanneen akka kaanseeri,darannoo sombaa, HIV, fi dhukkuba busaa biyyoota dinagdeedhaan boodatti hafan, iddoo itti hammeentaan dhibeewwan akka kaanseerii harmaairraa dandamachuu walakkaa biyyoota guddatanii ta’e keessatti qorachuuf.",health,health,"<|begin_of_text|>SENTENCE:
+ Hooggantoonni qorannoo geggeessan, wanti kun dursanii dhibeewwan kanneen akka kaanseeri,darannoo sombaa, HIV, fi dhukkuba busaa biyyoota dinagdeedhaan boodatti hafan, iddoo itti hammeentaan dhibeewwan akka kaanseerii harmaairraa dandamachuu walakkaa biyyoota guddatanii ta’e keessatti qorachuuf. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health
+EXPLANATION:
+Health is the"
+"Dr Ihudii Ur, piroofeesara fayyaa Yuuniiversitii Dalhawuusii Haliifaksii, Noovaa Skoshiyaa fi dura taa'aa kilinikaa fi garee saayinsii Waldaa Dhibee sukkaaraa Kaanadaa kan ta'an ammalle qorannichi guyyoota xiqqoo jalqabaarra akka jiru akeekkachiisaniiru.",health,health,"<|begin_of_text|>SENTENCE:
+ Dr Ihudii Ur, piroofeesara fayyaa Yuuniiversitii Dalhawuusii Haliifaksii, Noovaa Skoshiyaa fi dura taa'aa kilinikaa fi garee saayinsii Waldaa Dhibee sukkaaraa Kaanadaa kan ta'an ammalle qorannichi guyyoota xiqqoo jalqabaarra akka jiru akeekkachiisaniiru. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health 
+-EXPLANATION:
+This sentence"
+"Ijoolleen kun gara rakkoo baay’eetti waan seenanidha, sababni isaas sammuun isaanii maloota baratamoodhaan waan hinkakaaneef, sammuu isaanii kakaasuuf jecha “amaloota balaa qabanitti qabamu, lolatti seenu, akkasumas aangootti qoramaata ta’u",health,N/A,"<|begin_of_text|>SENTENCE:
+ Ijoolleen kun gara rakkoo baay’eetti waan seenanidha, sababni isaas sammuun isaanii maloota baratamoodhaan waan hinkakaaneef, sammuu isaanii kakaasuuf jecha “amaloota balaa qabanitti qabamu, lolatti seenu, akkasumas aangootti qoramaata ta’u 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- None of the above 
+This sentence is"
+Namootni bishaan faalame gara qilleensaatti qilleensa bubbee fi dambaliin fudhatamuun hubamuu danda’u.,health,N/A,"<|begin_of_text|>SENTENCE:
+ Namootni bishaan faalame gara qilleensaatti qilleensa bubbee fi dambaliin fudhatamuun hubamuu danda’u. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- None of the above
+EXPLANATION"
+Namoonni tokko tokko akka amananitti abjiin ifa galaa namtolchee yeroo hunda baay’ee dadhabsiisaa ta’uu danda’a.,health,N/A,"<|begin_of_text|>SENTENCE:
+ Namoonni tokko tokko akka amananitti abjiin ifa galaa namtolchee yeroo hunda baay’ee dadhabsiisaa ta’uu danda’a. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- None of the above 
+EXPLANATION"
+Potron yaali kan argate tuqaa kanati gateeti isaa irra garuu gara taphachitti deebi’uu filate.,health,travel,"<|begin_of_text|>SENTENCE:
+ Potron yaali kan argate tuqaa kanati gateeti isaa irra garuu gara taphachitti deebi’uu filate. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+TRANSLATION:
+Traveling"
+"Caalaati, kanaa gochuu dadhabuun miidhaawwan hedduu qaba: guddachu dadhabuu, haala nyaata sirna hin qabne, fi du’aa.",health,N/A,"<|begin_of_text|>SENTENCE:
+ Caalaati, kanaa gochuu dadhabuun miidhaawwan hedduu qaba: guddachu dadhabuu, haala nyaata sirna hin qabne, fi du’aa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- None of the above 
+EXPLANATION"
+Akka hoggantoonni magaala Amisterdamii fi Muuziyeemiin Annee Firaanki beeksisanitti mukni fangasiin miidhamee fi kallattii balaa fayyaa hawaasaa isaan gara kufaatiitti dhihaataa akka jiru isaan balaaleffatan.,health,travel,"<|begin_of_text|>SENTENCE:
+ Akka hoggantoonni magaala Amisterdamii fi Muuziyeemiin Annee Firaanki beeksisanitti mukni fangasiin miidhamee fi kallattii balaa fayyaa hawaasaa isaan gara kufaatiitti dhihaataa akka jiru isaan balaaleffatan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The sentence"
+"Hospitalichi ulaagaa yookin adeemsa ittisa faalamuu to'atu hordofeera, innis dhukkubsata kanneen biroorraa qofaatti baasuu, warri hafan akka hin faalamneef.",health,health,"<|begin_of_text|>SENTENCE:
+ Hospitalichi ulaagaa yookin adeemsa ittisa faalamuu to'atu hordofeera, innis dhukkubsata kanneen biroorraa qofaatti baasuu, warri hafan akka hin faalamneef. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health
+EXPLANATION:
+This sentence is"
+Dhaabbatni Haqaa fi Diimokiraasii Haayitii qorannoolee of-danda’oo kan ajajni kutaa waraanaa Neepaal UN’f nagaa eegsisu ituu hin beekin dhukkubicha Haayitii’tti fiduu akeekan eree.,health,politics,"<|begin_of_text|>SENTENCE:
+ Dhaabbatni Haqaa fi Diimokiraasii Haayitii qorannoolee of-danda’oo kan ajajni kutaa waraanaa Neepaal UN’f nagaa eegsisu ituu hin beekin dhukkubicha Haayitii’tti fiduu akeekan eree. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+The sentence"
+"Dhukkuboonni daddarboon ofii isaanii yookiin beeyladooti balaafamoon humnaan nama miidhuu yookaan nama ajjeesuu danda’an, yeroo hedduu akka balaa qaqqabsiisanitti hin fudhatamani.",health,N/A,"<|begin_of_text|>SENTENCE:
+ Dhukkuboonni daddarboon ofii isaanii yookiin beeyladooti balaafamoon humnaan nama miidhuu yookaan nama ajjeesuu danda’an, yeroo hedduu akka balaa qaqqabsiisanitti hin fudhatamani. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- None of the above (other) 
+"
+"Ijoolleen barnoota DABALATAA fudhatan wantoota akka hojii mana barnootafa irratti xiyyeeffachuun itti cima, garuu wantoota hojjechuu jaallatan kanneen akka taphoota taphachuu yookiin ashangulliitii jaallatan do’achuu yookiin sirna tuqaalee malee himoota barreessuu irratti xiyyeeffachuu danda’u.",health,N/A,"<|begin_of_text|>SENTENCE:
+ Ijoolleen barnoota DABALATAA fudhatan wantoota akka hojii mana barnootafa irratti xiyyeeffachuun itti cima, garuu wantoota hojjechuu jaallatan kanneen akka taphoota taphachuu yookiin ashangulliitii jaallatan do’achuu yookiin sirna tuqaalee malee himoota barreessuu irratti xiyyeeffachuu danda’u. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: None of the above 
+EXPLANATION:
+This"
+"Turtii waggaa tokkoo keessatti, namni faalamaan tokko nama quunnamtii dhiyeenyaa faana qabu 10 hanga 15 faaluu mala.",health,travel,"<|begin_of_text|>SENTENCE:
+ Turtii waggaa tokkoo keessatti, namni faalamaan tokko nama quunnamtii dhiyeenyaa faana qabu 10 hanga 15 faaluu mala. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The sentence"
+"Yeroo waldhabbiin dhaabattu erga kan madaa’an gara hoospitaalatti gaggeeffamanii , kan hafan hidhamtootni 40 kan ta’an mooraa keessatti hafanii gara kutaalee isaanitti deeb’uu didan.",health,health,"<|begin_of_text|>SENTENCE:
+ Yeroo waldhabbiin dhaabattu erga kan madaa’an gara hoospitaalatti gaggeeffamanii, kan hafan hidhamtootni 40 kan ta’an mooraa keessatti hafanii gara kutaalee isaanitti deeb’uu didan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+health
+EXPLANATION:
+This sentence is"
+"Mootichi Oogusxoos ogeeyyii fayyaa filachuu kan eegale, fi lolli erga xumuramee booda itti fayyadamuudhaafis Loltuuwwan Fayyaa Roomaa illee hundeessee ture.",health,politics,"<|begin_of_text|>SENTENCE:
+ Mootichi Oogusxoos ogeeyyii fayyaa filachuu kan eegale, fi lolli erga xumuramee booda itti fayyadamuudhaafis Loltuuwwan Fayyaa Roomaa illee hundeessee ture. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+The sentence"
+"Garuu ,konkolaachisicha sammuu isaarra miidhaan cimaa ta’e ga’era.",health,geography,"<|begin_of_text|>SENTENCE:
+ Garuu,konkolaachisicha sammuu isaarra miidhaan cimaa ta’e ga’era. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+REASONING SKILL"
+"“Amma nuyi hantuuta ji’a afurii kan dhukkuba sukkaaraa hin qabne kan duraan qaban turan qabna,” itti dabalee.",health,N/A,"<|begin_of_text|>SENTENCE:
+ “Amma nuyi hantuuta ji’a afurii kan dhukkuba sukkaaraa hin qabne kan duraan qaban turan qabna,” itti dabalee. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+ None of the above 
+EXPLANATION:
+"
+"Summaa’uun keessaa dafee hin beekamu. Mallattooleen, kanneen akka hoqqisuun waliigalaan gahaadha waan ta’eef qorannoon saffisaa hin gaggeeffamu.",health,science/technology,"<|begin_of_text|>SENTENCE:
+ Summaa’uun keessaa dafee hin beekamu. Mallattooleen, kanneen akka hoqqisuun waliigalaan gahaadha waan ta’eef qorannoon saffisaa hin gaggeeffamu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+The sentence"
+"Sababasaaf, namootni agarsiisa taphatan baala sammuu nama adoochu waltajjiirratti xuuxuu jalqaban akkasumas diraamichi mantaasaayyuu daawwattootni akka itti dabalamaniif isaan kakaase.",entertainment,politics,"<|begin_of_text|>SENTENCE:
+ Sababasaaf, namootni agarsiisa taphatan baala sammuu nama adoochu waltajjiirratti xuuxuu jalqaban akkasumas diraamichi mantaasaayyuu daawwattootni akka itti dabalamaniif isaan kakaase. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+REASONING:
+This sentence"
+Warri Eerosmiit imala muuziqaasaaniirraa konsertoota hafan addaan kutan.,entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Warri Eerosmiit imala muuziqaasaaniirraa konsertoota hafan addaan kutan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+REASONING SKILL"
+"Gara gochaatti dhiyaachuu yoo barbaadde, bakkee buufataa muuziqichatti dhiyaatu argachuudhaaf, dursitee seenuudha qabda.",entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Gara gochaatti dhiyaachuu yoo barbaadde, bakkee buufataa muuziqichatti dhiyaatu argachuudhaaf, dursitee seenuudha qabda. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+The"
+Waggoottan darban keessatti foormaatiiwwan fiilmii hedduu garaa garaatu dhimma itti ba’amaa as ga’e. Inni yeroo baay’ee dhimma itti ba’amu isa miiliimeetirii 35 baratamaadha (mm 36 mm 24n negatiiva).,entertainment,N/A,"<|begin_of_text|>SENTENCE:
+ Waggoottan darban keessatti foormaatiiwwan fiilmii hedduu garaa garaatu dhimma itti ba’amaa as ga’e. Inni yeroo baay’ee dhimma itti ba’amu isa miiliimeetirii 35 baratamaadha (mm 36 mm 24n negatiiva). 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- None of the above (general knowledge)"
+"Kun sochii baay’ee baratamaa ta’ee utuma jiruu, Dizniidhaan dhorkamaadha: tikeeticha nama biraatti dabarsuun hin danda’amu.",entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Kun sochii baay’ee baratamaa ta’ee utuma jiruu, Dizniidhaan dhorkamaadha: tikeeticha nama biraatti dabarsuun hin danda’amu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+The"
+Tokkoon tokkoon kutaalee agarsiisaa qabiiyyee kitaaba murtaa’ee irratti hundaa’a akkasumas sana booda qabiiyyee sana seenaa baay’ee keessatti qoratu.,entertainment,N/A,"<|begin_of_text|>SENTENCE:
+ Tokkoon tokkoon kutaalee agarsiisaa qabiiyyee kitaaba murtaa’ee irratti hundaa’a akkasumas sana booda qabiiyyee sana seenaa baay’ee keessatti qoratu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- None of the above (other) 
+"
+Room keessatti bakka baay’eeti foddaa teelevizhiniin gurguddaa baayeen dhaabbataniiru akka ummatnii qophii sana ilaalaniif.,entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Room keessatti bakka baay’eeti foddaa teelevizhiniin gurguddaa baayeen dhaabbataniiru akka ummatnii qophii sana ilaalaniif. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+REASONING SKILL"
+"Soofookilsii fi Aristoofaanes amallee bareessitoota taphaa beekamoo dha, taphonnii isaanii ogbarruu addunyaa keessaa akka hojiiwwan hunda caalaa guguddootti ilaalamu.",entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Soofookilsii fi Aristoofaanes amallee bareessitoota taphaa beekamoo dha, taphonnii isaanii ogbarruu addunyaa keessaa akka hojiiwwan hunda caalaa guguddootti ilaalamu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+The"
+Tokkoon tokkoo agarsiisichaa ijoolleen mana kitaabaa yennaa deeman kitaabota isaan ilaaluu qabaniif gorsa ni laatu.,entertainment,geography,"<|begin_of_text|>SENTENCE:
+ Tokkoon tokkoo agarsiisichaa ijoolleen mana kitaabaa yennaa deeman kitaabota isaan ilaaluu qabaniif gorsa ni laatu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+"Akoordiyoonicha irratti, sagalee dabalataa argachuuf, dhibbaa ykn saffisa dabalataatiin buufaawwan fayyadamtu.",entertainment,geography,"<|begin_of_text|>SENTENCE:
+ Akoordiyoonicha irratti, sagalee dabalataa argachuuf, dhibbaa ykn saffisa dabalataatiin buufaawwan fayyadamtu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+A"
+Agarsiisichi osoo hin jalqabin dura dukkana keessatti Piraamidoota arguu dandeessa akkasumas callisuu keessattis arguu dandeessa.,entertainment,geography,"<|begin_of_text|>SENTENCE:
+ Agarsiisichi osoo hin jalqabin dura dukkana keessatti Piraamidoota arguu dandeessa akkasumas callisuu keessattis arguu dandeessa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+"Fakkeenyotni gochoota bakkee irraa kan inni dabalatu adamsoo, qurxummii qabuu, suuraa kaasuu, sinbirroo ilaalu, fi paarkii daawwachuu fi waa’ee sirnakkoo odeeffannoo qorachuudha.",entertainment,N/A,"<|begin_of_text|>SENTENCE:
+ Fakkeenyotni gochoota bakkee irraa kan inni dabalatu adamsoo, qurxummii qabuu, suuraa kaasuu, sinbirroo ilaalu, fi paarkii daawwachuu fi waa’ee sirnakkoo odeeffannoo qorachuudha. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- None of the above 
+EXPLANATION"
+Sfiiniks akka buusaa-dugdaa fi seenessaa oduu dheeraatti kaa’ame.,entertainment,geography,"<|begin_of_text|>SENTENCE:
+ Sfiiniks akka buusaa-dugdaa fi seenessaa oduu dheeraatti kaa’ame. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+REASONING SKILL"
+"Keessummoota miira gaarii keessa tursuufi iddoo sanatti isaan eeguuf, isaan yeroo baayyee nyaata addaa, dhugaatii fi affeerraa bashannanaa qabu.",entertainment,travel,"<|begin_of_text|>SENTENCE:
+ Keessummoota miira gaarii keessa tursuufi iddoo sanatti isaan eeguuf, isaan yeroo baayyee nyaata addaa, dhugaatii fi affeerraa bashannanaa qabu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The sentence"
+"Afaan Ingiliziitiifi Afaan Jaappaaniitiin kan duraanuu gabaasaa jiru dhaabbati addunyaa kun teeleviizhiinii, marsariitii fi bilbila sochootuudhaaf Afaan Ispeenii, Xaaliyaanii, akkasumas Afaan Kooriyaatiin sagantaalee eegalee jira.",entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Afaan Ingiliziitiifi Afaan Jaappaaniitiin kan duraanuu gabaasaa jiru dhaabbati addunyaa kun teeleviizhiinii, marsariitii fi bilbila sochootuudhaaf Afaan Ispeenii, Xaaliyaanii, akkasumas Afaan Kooriyaatiin sagantaalee eegalee jira. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+A"
+Ze Siimpsansi dura dura Saayiman bakkeewwan adda addaatti do’iiwwan adda addaa irratti hojjeteera.,entertainment,geography,"<|begin_of_text|>SENTENCE:
+ Ze Siimpsansi dura dura Saayiman bakkeewwan adda addaatti do’iiwwan adda addaa irratti hojjeteera. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+The"
+Kun akka taphatootni meeshicha qilleensa irra deemsisuun gochaa fi adeemsa tapha vidiiyoo keessaa to’ataniif gargaara.,entertainment,N/A,"<|begin_of_text|>SENTENCE:
+ Kun akka taphatootni meeshicha qilleensa irra deemsisuun gochaa fi adeemsa tapha vidiiyoo keessaa to’ataniif gargaara. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- None of the above 
+EXPLANATION"
+"Guyyaa ayyaana waggaa tokkoffaa cimdoota cidhi isaanii waggaa darbe geggeeffame kabajuuf jecha, yoo xiqqaate namootni 100 qophicharratti argamaniiru.",entertainment,travel,"<|begin_of_text|>SENTENCE:
+ Guyyaa ayyaana waggaa tokkoffaa cimdoota cidhi isaanii waggaa darbe geggeeffame kabajuuf jecha, yoo xiqqaate namootni 100 qophicharratti argamaniiru. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The sentence"
+"Sirboonni lama fiilmii Oodiishin irraa (Zee Fuulsi Huu Diriim) fi Siitii oof Istaarsi, kaadhimamtummaa sirba baay’ee oorijinaala argateera. Istuudiyoota biroo kaan caalaatti Istuudiyoon Laayoonsgeetii kaadhimamummaa 26 argateera.",entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Sirboonni lama fiilmii Oodiishin irraa (Zee Fuulsi Huu Diriim) fi Siitii oof Istaarsi, kaadhimamtummaa sirba baay’ee oorijinaala argateera. Istuudiyoota biroo kaan caalaatti Istuudiyoon Laayoonsgeetii kaadhimamummaa 26 argateera. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+TRANSLATION:
+Sir"
+Haguugduu cinaa irra jiru furdinni isaa kiilomeetira 70 kan fageenyarra jiru immoo kiilomeetira 100.,geography,geography,"<|begin_of_text|>SENTENCE:
+ Haguugduu cinaa irra jiru furdinni isaa kiilomeetira 70 kan fageenyarra jiru immoo kiilomeetira 100. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+H"
+Kibbi fagoon Niyaagaaraan akkasumas kaabni mana miidhagina uumamaa hin tuqaminii Muskookaa fi achiin boodaati.,geography,geography,"<|begin_of_text|>SENTENCE:
+ Kibbi fagoon Niyaagaaraan akkasumas kaabni mana miidhagina uumamaa hin tuqaminii Muskookaa fi achiin boodaati. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+REASONING SKILL"
+"Dacheen Eelsiwoorz naannoo kibba Peniinsullaa sanaati, galaana Belliingshaaawsaniin kan marfamtee argamtu.",geography,geography,"<|begin_of_text|>SENTENCE:
+ Dacheen Eelsiwoorz naannoo kibba Peniinsullaa sanaati, galaana Belliingshaaawsaniin kan marfamtee argamtu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+Daandiin Baaburaa Poolii Kibbaa buufata MaakMuurdao Galaana Roozii hanga pooliitti jiru 1600km dheerata.,geography,travel,"<|begin_of_text|>SENTENCE:
+ Daandiin Baaburaa Poolii Kibbaa buufata MaakMuurdao Galaana Roozii hanga pooliitti jiru 1600km dheerata. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The sentence"
+"Ol gara dhumaa kaaba Machu Picchu dheeratee kan argamu gaarai gadi-ilaalaa kana, yeroo hedduu duuba suuraalee isaa akka caccabaa onaati.",geography,travel,"<|begin_of_text|>SENTENCE:
+ Ol gara dhumaa kaaba Machu Picchu dheeratee kan argamu gaarai gadi-ilaalaa kana, yeroo hedduu duuba suuraalee isaa akka caccabaa onaati. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+REASONING SKILL:
+"
+"Inkelaadosiin wantoota sirna soolaarii keessaa kan baay’ee balaqqeessa’uudha, ifa aduu isa irra ooluu gara dhibbeentaa 90 ta’u balaqqeessisa.",geography,travel,"<|begin_of_text|>SENTENCE:
+ Inkelaadosiin wantoota sirna soolaarii keessaa kan baay’ee balaqqeessa’uudha, ifa aduu isa irra ooluu gara dhibbeentaa 90 ta’u balaqqeessisa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The sentence"
+"Samii qulqulluu, bareedaa gubbaa fi tulluuwwan naannoo jiran hedduu irraa kan hafe wanti mul’atu tokko illee hinjiru. Holqicha keessa taa’anii kan arguun ykn dhaga’uun danda’amu addunyaa kana baay’ee muraasa isaati.",geography,travel,"<|begin_of_text|>SENTENCE:
+ Samii qulqulluu, bareedaa gubbaa fi tulluuwwan naannoo jiran hedduu irraa kan hafe wanti mul’atu tokko illee hinjiru. Holqicha keessa taa’anii kan arguun ykn dhaga’uun danda’amu addunyaa kana baay’ee muraasa isaati. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The sentence"
+"Amma Jaappaaniif. Jaapaan biyya oddolaadha, akkuma Biriitaniiyaa.",geography,geography,"<|begin_of_text|>SENTENCE:
+ Amma Jaappaaniif. Jaapaan biyya oddolaadha, akkuma Biriitaniiyaa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+ Ja"
+"Akka isa olaanaatti, Tirooppikaal Saayikiloon Goonun, afaan Maaldivsiin baala teemirii korojoo tokko isa jedhu irraa moggaasa kan argate dhaabbataadhaan sa’atiitti kiiloomeetira 240 ga’ee jira ( sa’aatiidhaan maayilii 149).",geography,travel,"<|begin_of_text|>SENTENCE:
+ Akka isa olaanaatti, Tirooppikaal Saayikiloon Goonun, afaan Maaldivsiin baala teemirii korojoo tokko isa jedhu irraa moggaasa kan argate dhaabbataadhaan sa’atiitti kiiloomeetira 240 ga’ee jira ( sa’aatiidhaan maayilii 149). 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The sentence"
+"Naannoo Turkiitti, haroowwan dabalachuun, iskuweer kiloometiiri 783,562 qabata (300,948 sq mi), kan keessaa iskuweer kiloometirii 755,688 (291,773 sq mi) kan ta’u naannoo Eeshiyaa kibba lixaatti akkasuma iskuweer kiloometiri 23,764 (9,174 sq mi) kan ta’ummoo Awuurroppatit dha.",geography,geography,"<|begin_of_text|>SENTENCE:
+ Naannoo Turkiitti, haroowwan dabalachuun, iskuweer kiloometiiri 783,562 qabata (300,948 sq mi), kan keessaa iskuweer kiloometirii 755,688 (291,773 sq mi) kan ta’u naannoo Eeshiyaa kibba lixaatti akkasuma iskuweer kiloometiri 23,764 (9,174 sq mi) kan ta’ummoo Awuurroppatit dha. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+geography
+ REASONING SKILL:
+"
+"Odolawwan Sheetlandi Kibbaa, kanneen bara 1819 keessa argaman, biyyoonni hedduun kiyya jedhanii kan falmanii fi buufatawwan gara caalan kan qaban, kanneen kudha ja’an bara 2020 keessa hojjetaa turan, illee of keessaa qabu.",geography,geography,"<|begin_of_text|>SENTENCE:
+ Odolawwan Sheetlandi Kibbaa, kanneen bara 1819 keessa argaman, biyyoonni hedduun kiyya jedhanii kan falmanii fi buufatawwan gara caalan kan qaban, kanneen kudha ja’an bara 2020 keessa hojjetaa turan, illee of keessaa qabu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+The"
+"Appiyaa’n magaala guddoo Samaawoo dha. Magaala Ayiislandii Upooluu tti argamuu fi kan baay’ina ummataa 40,000 qabudha.",geography,geography,"<|begin_of_text|>SENTENCE:
+ Appiyaa’n magaala guddoo Samaawoo dha. Magaala Ayiislandii Upooluu tti argamuu fi kan baay’ina ummataa 40,000 qabudha. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+REASONING SKILL"
+"Obonboleettiin sosocho’iinsa lafaa irraa fagoodha, Yuunayitid Iisteetsii fi Kaaribiyaanii irratti dhiibbaa cimaa inni qabu qorachuun rakkisaa ta’ee hafeera.",geography,travel,"<|begin_of_text|>SENTENCE:
+ Obonboleettiin sosocho’iinsa lafaa irraa fagoodha, Yuunayitid Iisteetsii fi Kaaribiyaanii irratti dhiibbaa cimaa inni qabu qorachuun rakkisaa ta’ee hafeera. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Obon"
+"Bakkee ol ka’aa diriiraa jalatti haphii, garreen jalatti immoo furdaadha.",geography,geography,"<|begin_of_text|>SENTENCE:
+ Bakkee ol ka’aa diriiraa jalatti haphii, garreen jalatti immoo furdaadha. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+TRANSLATION:
+The"
+"Garuu immoo mukkeen sunniin caffee mangiroov qofa miti ta’us—hafteewwan daggala guddaa dhaabatanii jiran warra dhumaa, kanneen yeroo tokko bakkee diriiraa Gaajet haguuganii turan muraasa of keessatti hammatu.",geography,travel,"<|begin_of_text|>SENTENCE:
+ Garuu immoo mukkeen sunniin caffee mangiroov qofa miti ta’us—hafteewwan daggala guddaa dhaabatanii jiran warra dhumaa, kanneen yeroo tokko bakkee diriiraa Gaajet haguuganii turan muraasa of keessatti hammatu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The sentence"
+Kaartaan kirkira lafaa Dhaabbata Qorannoo Lafaa Yuunaayitid Isteetsi Idil-adduunyaa torban dursee ture keessatti kirkirri lafaa Aayiislaandikeessa jiraachuu hin agarsiisne.,geography,travel,"<|begin_of_text|>SENTENCE:
+ Kaartaan kirkira lafaa Dhaabbata Qorannoo Lafaa Yuunaayitid Isteetsi Idil-adduunyaa torban dursee ture keessatti kirkirri lafaa Aayiislaandikeessa jiraachuu hin agarsiisne. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The sentence"
+"Tulluuwwan isaan tokko kan kaaba Mekkaa gubbaa boqochuun, holqichi addunyaa irraa guutummaatti kan addaan bahee dha.",geography,geography,"<|begin_of_text|>SENTENCE:
+ Tulluuwwan isaan tokko kan kaaba Mekkaa gubbaa boqochuun, holqichi addunyaa irraa guutummaatti kan addaan bahee dha. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"

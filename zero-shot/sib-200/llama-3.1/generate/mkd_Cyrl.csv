@@ -1,0 +1,3033 @@
+text,actual_category,predicted_category,generated_text
+"Мутацијата додава нова генетска варијација, а изборот овозможува да се отстрани од групата изразени варијации.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Мутацијата додава нова генетска варијација, а изборот овозможува да се отстрани од групата изразени варијации. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science
+EXPLANATION:
+Ова е науч"
+Фисиската бомба функционира по принципот дека е потребна енергија за создавање јадро од мноштво протони и неутрони.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Фисиската бомба функционира по принципот дека е потребна енергија за создавање јадро од мноштво протони и неутрони. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: -science 
+EXPLANATION: 
+Ова"
+Јадрото содржи две честички: неутрони и протони.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Јадрото содржи две честички: неутрони и протони. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: -science
+EXPLANATION:
+Оваа"
+Ова им овозможи на телеобјективите да создаваат слики со квалитет сличен на тој добиен од леќи со фиксна фокусна должина.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Ова им овозможи на телеобјективите да создаваат слики со квалитет сличен на тој добиен од леќи со фиксна фокусна должина. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Ова"
+"Супериорни се во однос на веб прокси поради неколку причини: го ре-рутираат целиот интернет сообраќај, не само http.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Супериорни се во однос на веб прокси поради неколку причини: го ре-рутираат целиот интернет сообраќај, не само http. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+#science
+EXPLANATION:
+Ова"
+Интерактивниот дизајн бара да ги преиспитате вашите претпоставки за медиумската продукција и Ве учи да размислувате на нелинеарен начин.,science/technology,entertainment,"<|begin_of_text|>SENTENCE:
+ Интерактивниот дизајн бара да ги преиспитате вашите претпоставки за медиумската продукција и Ве учи да размислувате на нелинеарен начин. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment 
+EXPLANATION:
+О"
+"Ова стана вообичаена пракса, но железото предизвикуваше поголемо трошење на дрвените тркала од вагоните.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Ова стана вообичаена пракса, но железото предизвикуваше поголемо трошење на дрвените тркала од вагоните. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Ова"
+"Стадото е составено од еден до три крвно поврзани мажјаци, заедно со најмногу триесет женки и младенчиња.",science/technology,geography,"<|begin_of_text|>SENTENCE:
+ Стадото е составено од еден до три крвно поврзани мажјаци, заедно со најмногу триесет женки и младенчиња. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+О"
+"Иако вештачката интелегенција има силна конотација на научна фантастика, вештачката интелегенција претставува многу важна гранка на компјутерски науки, која се занимава со однесувањето, учењето и интелигентната адаптација на машините.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Иако вештачката интелегенција има силна конотација на научна фантастика, вештачката интелегенција претставува многу важна гранка на компјутерски науки, која се занимава со однесувањето, учењето и интелигентната адаптација на машините. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+science
+EXPLANATION:
+Оваа"
+Аспектниот размер на овој формат (кој се дели со дванаесет за да се добие наједноставниот размер од цел број) затоа се смета дека е 3:2.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Аспектниот размер на овој формат (кој се дели со дванаесет за да се добие наједноставниот размер од цел број) затоа се смета дека е 3:2. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Ова"
+"Обични сателитскиот телефон не е замена за мобилен телефон затоа што за да остварите повик, мора да бидете на отворено со чиста оптичка видливост до сателитот.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Обични сателитскиот телефон не е замена за мобилен телефон затоа што за да остварите повик, мора да бидете на отворено со чиста оптичка видливост до сателитот. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science 
+EXPLANATION:
+Ова"
+"Иако вагонетките главно биле изградени од паралелни дрвени даски, можеле да ги влечат коњи за поголема брзина и за влечење поголем товар од оној кој се носел по тогашните лоши патишта.",science/technology,travel,"<|begin_of_text|>SENTENCE:
+ Иако вагонетките главно биле изградени од паралелни дрвени даски, можеле да ги влечат коњи за поголема брзина и за влечење поголем товар од оној кој се носел по тогашните лоши патишта. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Ова"
+"Луѓето знаеле за основните хемиски елементи како златото, среброто и бакарот уште од античко време, бидејќи сите овие може да се најдат во природата во изворна форма и се релативно лесни за откопување со примитивни алати.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Луѓето знаеле за основните хемиски елементи како златото, среброто и бакарот уште од античко време, бидејќи сите овие може да се најдат во природата во изворна форма и се релативно лесни за откопување со примитивни алати. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science
+EXPLANATION: 
+Оваа"
+Тркалото го сменило светот на неверојатен нaчин. Најдоброто нешто кое тркалото го направило за нас е што ни овозможило полесен и побрз транспорт.,science/technology,travel,"<|begin_of_text|>SENTENCE:
+ Тркалото го сменило светот на неверојатен нaчин. Најдоброто нешто кое тркалото го направило за нас е што ни овозможило полесен и побрз транспорт. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Тр"
+Ова е направено за да се загарантира дека сликата го опфаќа целиот екран. Тоа се нарекува „overscan“.,science/technology,entertainment,"<|begin_of_text|>SENTENCE:
+ Ова е направено за да се загарантира дека сликата го опфаќа целиот екран. Тоа се нарекува „overscan“. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: -entertainment
+EXPLANATION:
+Ова"
+Германските подморници се нарекувале U-Boats (подводни бродови). Германците биле добри во пловењето и ракување со нивните подморници.,science/technology,geography,"<|begin_of_text|>SENTENCE:
+ Германските подморници се нарекувале U-Boats (подводни бродови). Германците биле добри во пловењето и ракување со нивните подморници. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+О"
+"Иако физичката состојба може да се промени, хемиската состојба останува иста.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Иако физичката состојба може да се промени, хемиската состојба останува иста. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science
+EXPLANATION:
+Оваа реч"
+"Површински притисок настанува бидејќи молекулите на водата на површината на водата силно се привлекуваат едни со други, многу повеќе отколку што е тоа случајот со молекулите на воздухот над нив.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Површински притисок настанува бидејќи молекулите на водата на површината на водата силно се привлекуваат едни со други, многу повеќе отколку што е тоа случајот со молекулите на воздухот над нив. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: -science 
+-EXPLANATION: 
+О"
+Еден од најчестите проблеми при конвертирање филм во DVD-формат е преголемиот размер.,science/technology,entertainment,"<|begin_of_text|>SENTENCE:
+ Еден од најчестите проблеми при конвертирање филм во DVD-формат е преголемиот размер. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+О"
+"Поточно, се тврди дека би можело да се открие дали некој лаже преку точно толкување на микро-изразувањата.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Поточно, се тврди дека би можело да се открие дали некој лаже преку точно толкување на микро-изразувањата. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Ова"
+Златото може да се обработи во секакви форми. Може да се извитка во мали форми.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Златото може да се обработи во секакви форми. Може да се извитка во мали форми. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Злат"
+"По вградувањето во неколку софтверски апликации за домашни компјутери и видеоигри, сега системот на ВИ често се користи во економијата, медицината, инженерството и војската.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ По вградувањето во неколку софтверски апликации за домашни компјутери и видеоигри, сега системот на ВИ често се користи во економијата, медицината, инженерството и војската. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Ова"
+"Денес сè уште се произведува, но поважно е дека неговиот сооднос е наследен од сензорните формати на сликата од дигитален фотоапарат.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Денес сè уште се произведува, но поважно е дека неговиот сооднос е наследен од сензорните формати на сликата од дигитален фотоапарат. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Ова"
+"Најзлоупотребуваното и најчесто исмејуваното право на третини претставува едноставно правило со кое се создава динамика, а притоа се одржува ред во сликата.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Најзлоупотребуваното и најчесто исмејуваното право на третини претставува едноставно правило со кое се создава динамика, а притоа се одржува ред во сликата. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Ова"
+"Ова не само што потврдува дека барем некои диносауруси имале пердуви, теорија која веќе е раширена, туку и дава детали кои фосилите главно не можат да ги дадат, како боја и тридимензионален изглед.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Ова не само што потврдува дека барем некои диносауруси имале пердуви, теорија која веќе е раширена, туку и дава детали кои фосилите главно не можат да ги дадат, како боја и тридимензионален изглед. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Ова"
+"Како би влијаела гравитацијата на Ија на мене? Ако застанете на површината на Ија, ќе тежите помалку отколку на Земјата.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Како би влијаела гравитацијата на Ија на мене? Ако застанете на површината на Ија, ќе тежите помалку отколку на Земјата. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: -science 
+EXPLANATION: 
+Ова"
+"NextGen е систем за којшто ФАА тврди дека овозможува леталата да летаат по пократки маршрути, со што ќе се заштедат милиони галони гориво секоја година и ќе се намалат емисиите на јаглерод.",science/technology,travel,"<|begin_of_text|>SENTENCE:
+ NextGen е систем за којшто ФАА тврди дека овозможува леталата да летаат по пократки маршрути, со што ќе се заштедат милиони галони гориво секоја година и ќе се намалат емисиите на јаглерод. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Ова"
+Невробиолошките податоци обезбедуваат физички доказ за теоретски пристап кон истражување на сознавањето. Затоа ја стеснува областа на истражување и ја прави многу попрецизна.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Невробиолошките податоци обезбедуваат физички доказ за теоретски пристап кон истражување на сознавањето. Затоа ја стеснува областа на истражување и ја прави многу попрецизна. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Ова"
+"За време на неговиот говор од 2 часа, тој изјави дека „Епл одново ќе го измисли телефонот, Денес ќе создадеме историја“.",science/technology,entertainment,"<|begin_of_text|>SENTENCE:
+ За време на неговиот говор од 2 часа, тој изјави дека „Епл одново ќе го измисли телефонот, Денес ќе создадеме историја“. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+О"
+Недостатокот на телеобјективите е што сложеноста на фокусот и бројот на елементи на леќите потребни за да се постигне опсегот на фокусни должини се многу поголеми отколку кај примарните леќи.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Недостатокот на телеобјективите е што сложеноста на фокусот и бројот на елементи на леќите потребни за да се постигне опсегот на фокусни должини се многу поголеми отколку кај примарните леќи. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science
+EXPLANATION:
+Оваа реч"
+"Сличен на далечинскиот управувач од телевизорот, контролорот користи два сензори поставени во близина на корисникот  на телевизијата за да ја триангулира својата позиција во три димензионални простор.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Сличен на далечинскиот управувач од телевизорот, контролорот користи два сензори поставени во близина на корисникот  на телевизијата за да ја триангулира својата позиција во три димензионални простор. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Ова"
+". Научниците велат дека пердувите на ова животно биле костен-кафеави на врвот, а  долната страна бледа или каротеноидна боја.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+. Научниците велат дека пердувите на ова животно биле костен-кафеави на врвот, а  долната страна бледа или каротеноидна боја. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science
+EXPLANATION:
+Оваа реч"
+Истражувачите на универзитетот рекоа дека двете соединенија реагираат меѓусебно при што се создаваат кристали што може да ја нарушат функцијата на бубрезите.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Истражувачите на универзитетот рекоа дека двете соединенија реагираат меѓусебно при што се создаваат кристали што може да ја нарушат функцијата на бубрезите. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+science
+EXPLANATION:
+Оваа"
+Со ова се добива резолуција која е скоро четири пати подобра од 35-милиметарскиот негатив (3136 мм2 наспроти 864).,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Со ова се добива резолуција која е скоро четири пати подобра од 35-милиметарскиот негатив (3136 мм2 наспроти 864). 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science
+EXPLANATION:
+Оваа реч"
+"Благодарение на подземните кабелски оптички врски со Европа и широкопојасниот сателит, Гренланд е добро поврзан со 93% од популацијата која има пристап до интернет.",science/technology,geography,"<|begin_of_text|>SENTENCE:
+ Благодарение на подземните кабелски оптички врски со Европа и широкопојасниот сателит, Гренланд е добро поврзан со 93% од популацијата која има пристап до интернет. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+О"
+"Една од најистакнатите апликации во таа категорија е Google Translate, кој овозможува офлајн превод по преземање на потребните јазични податоци.",science/technology,travel,"<|begin_of_text|>SENTENCE:
+ Една од најистакнатите апликации во таа категорија е Google Translate, кој овозможува офлајн превод по преземање на потребните јазични податоци. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Ова"
+"Ја има истата молекуларна структура независно од тоа дали е во гасовита, течна или цврста состојба.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Ја има истата молекуларна структура независно од тоа дали е во гасовита, течна или цврста состојба. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: -science
+EXPLANATION: 
+Ова"
+"Користењето видеоснимка доведе до значајни откритија во интерпретацијата на микроизразите, движења на лицето што траат неколку милисекунди.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Користењето видеоснимка доведе до значајни откритија во интерпретацијата на микроизразите, движења на лицето што траат неколку милисекунди. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Ова"
+Луѓето правеле и користеле леќи за зголемување илјадници години наназад.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Луѓето правеле и користеле леќи за зголемување илјадници години наназад. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Ова"
+"Но, сепак, не е само тоа, туку и експериментирањето, а експеримент е проба што се користи за да се елиминира една или повеќе можни хипотези, поставувањето прашања, како и набљудувањето, исто така го водат научното истражување.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Но, сепак, не е само тоа, туку и експериментирањето, а експеримент е проба што се користи за да се елиминира една или повеќе можни хипотези, поставувањето прашања, како и набљудувањето, исто така го водат научното истражување. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+science
+EXPLANATION:
+Оваа"
+"На крај, дрвените тркала биле заменети со железни. Во 1767 год., бил пуштен првиот воз со целосно железни тркала.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ На крај, дрвените тркала биле заменети со железни. Во 1767 год., бил пуштен првиот воз со целосно железни тркала. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Ова"
+"Иако повеќето картички може да се користат каде било, кај некои има поволни тарифи за повици до конкретни групи земји.",science/technology,travel,"<|begin_of_text|>SENTENCE:
+ Иако повеќето картички може да се користат каде било, кај некои има поволни тарифи за повици до конкретни групи земји. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Ова"
+Повеќето модерни истражувачки телескопи се  огромни објекти во оддалечени области со пожелни атмосферски услови.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Повеќето модерни истражувачки телескопи се  огромни објекти во оддалечени области со пожелни атмосферски услови. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Ова"
+Челичната игла плута на водата поради површинскиот притисок.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Челичната игла плута на водата поради површинскиот притисок. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Челич"
+"Форматот од 35 мм е всушност прилично збунувачки, 36 мм во ширина со 24 мм во висина.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Форматот од 35 мм е всушност прилично збунувачки, 36 мм во ширина со 24 мм во висина. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Ова"
+"Клетките се така основни и клучни за проучувањето на животот, што всушност тие често се именуваат како „главни елементи на животот“.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Клетките се така основни и клучни за проучувањето на животот, што всушност тие често се именуваат како „главни елементи на животот“. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science
+EXPLANATION:
+Оваа реч"
+"Давателите на сопствена VPN-мрежа (виртуелна приватна мрежа) се одличен начин на заобиколување, како и политичка цензура и комерцијално геофилтрирање на IP.",science/technology,politics,"<|begin_of_text|>SENTENCE:
+ Давателите на сопствена VPN-мрежа (виртуелна приватна мрежа) се одличен начин на заобиколување, како и политичка цензура и комерцијално геофилтрирање на IP. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+Ова"
+"Станицата ја задржа својата позиција, и покрај загубата на гироскопот на почетокот на мисијата на вселенската станица, до крајот на вселенската прошетка.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Станицата ја задржа својата позиција, и покрај загубата на гироскопот на почетокот на мисијата на вселенската станица, до крајот на вселенската прошетка. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Ова"
+"Луѓето со овој вид на размислување размислуваат логично, можат да меморираат шеми, да решаваат проблеми и да работат на научни тестови.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Луѓето со овој вид на размислување размислуваат логично, можат да меморираат шеми, да решаваат проблеми и да работат на научни тестови. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Ова"
+"Оцелотите сакаат да јадат мали животни. Ако можат, фаќаат мајмуни, змии, глодари и птици. Речиси сите животни што ги лови оцелотот се значително помали од него.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Оцелотите сакаат да јадат мали животни. Ако можат, фаќаат мајмуни, змии, глодари и птици. Речиси сите животни што ги лови оцелотот се значително помали од него. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: -science 
+EXPLANATION: 
+Оц"
+"Одредени фотоапарати со филм од среден формат користат формат од 6 на 6 cm, попрецизно негатив од 56 на 56 mm.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Одредени фотоапарати со филм од среден формат користат формат од 6 на 6 cm, попрецизно негатив од 56 на 56 mm. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Ова"
+"На патниците им се советува да бидат свесни за  ризик од лоши временски услови кои можат да го зафатат пределот во кој се наоѓаат, зашто тоа може да влијае врз нивните планови.",travel,travel,"<|begin_of_text|>SENTENCE:
+ На патниците им се советува да бидат свесни за  ризик од лоши временски услови кои можат да го зафатат пределот во кој се наоѓаат, зашто тоа може да влијае врз нивните планови. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Ова"
+"Автобуси поаѓаат од меѓуокружната автобуска станица (преку реката) цел ден, иако повеќето, особено оние што патуваат кон исток и Џакар/Бумтанг поаѓаат меѓу 06:30 и 07:30 часот.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Автобуси поаѓаат од меѓуокружната автобуска станица (преку реката) цел ден, иако повеќето, особено оние што патуваат кон исток и Џакар/Бумтанг поаѓаат меѓу 06:30 и 07:30 часот. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Ова"
+"Нудат поголема стабилност за јавачот, но може да постојат и безбедносни забелешки поради веројатноста да му се заглават стапалата во нив.",travel,science/technology,"<|begin_of_text|>SENTENCE:
+ Нудат поголема стабилност за јавачот, но може да постојат и безбедносни забелешки поради веројатноста да му се заглават стапалата во нив. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Ова"
+Повеќето крстарења по впечатливото Балтичко море вклучуваат подолг престој во Санкт Петерсбург во Русија.,travel,travel,"<|begin_of_text|>SENTENCE:
+ Повеќето крстарења по впечатливото Балтичко море вклучуваат подолг престој во Санкт Петерсбург во Русија. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Ова"
+"Советот се состои од тоа патниците да не крадат, недозволено да влегуваат, учествуваат на нелегален пазар, да просат или поинаку да експлоатираат други луѓе за нивна добивка.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Советот се состои од тоа патниците да не крадат, недозволено да влегуваат, учествуваат на нелегален пазар, да просат или поинаку да експлоатираат други луѓе за нивна добивка. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Ова"
+Постојат многу нешта кои треба да ги земете во предвид пред и кога патувате некаде.,travel,travel,"<|begin_of_text|>SENTENCE:
+ Постојат многу нешта кои треба да ги земете во предвид пред и кога патувате некаде. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Ова"
+"За време на дневната жега, патниците може да доживеат халуцинации кои даваат привидение на вода (или други работи).",travel,travel,"<|begin_of_text|>SENTENCE:
+ За време на дневната жега, патниците може да доживеат халуцинации кои даваат привидение на вода (или други работи). 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Ова"
+"Семејства со деца може ретко да се видат, но некои хостели ги примаат во приватни соби.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Семејства со деца може ретко да се видат, но некои хостели ги примаат во приватни соби. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Ова"
+"На пример, посетување замоци во Долината Лоар, во долината на Рајна, или пак крстарење до интересни градови покрај Дунав или пловење со брод по каналот Ири.",travel,travel,"<|begin_of_text|>SENTENCE:
+ На пример, посетување замоци во Долината Лоар, во долината на Рајна, или пак крстарење до интересни градови покрај Дунав или пловење со брод по каналот Ири. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Ова"
+Подобро да користите агент кој често букира слични вакви патувања.,travel,travel,"<|begin_of_text|>SENTENCE:
+ Подобро да користите агент кој често букира слични вакви патувања. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Ова"
+"Каучсурфингот е откриен во јануари, 2004 г. кога компјутерскиот програмер Кејси Фентон најде евтин лет до Исланд, но немаше каде да се смести.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Каучсурфингот е откриен во јануари, 2004 г. кога компјутерскиот програмер Кејси Фентон најде евтин лет до Исланд, но немаше каде да се смести. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Ова"
+Студентските визи обично имаат различни услови и процедури за апликација од обичните туристички или бизнис визи.,travel,travel,"<|begin_of_text|>SENTENCE:
+ Студентските визи обично имаат различни услови и процедури за апликација од обичните туристички или бизнис визи. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Ова"
+Секоја држава исто така има особени закони со кои е утврдено кои предмети во случај на опасност треба да ги има во колата.,travel,politics,"<|begin_of_text|>SENTENCE:
+ Секоја држава исто така има особени закони со кои е утврдено кои предмети во случај на опасност треба да ги има во колата. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+Ова"
+"Иако повеќето агенции се спремни за најголем дел од обичните аранжмани, многу агенти се специјализирани за конкретни видови патувања, буџети или дестинации.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Иако повеќето агенции се спремни за најголем дел од обичните аранжмани, многу агенти се специјализирани за конкретни видови патувања, буџети или дестинации. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Ова"
+Патниците можат да наидат на животни-штетници кои ги нема во регионите од коишто доаѓаат.,travel,travel,"<|begin_of_text|>SENTENCE:
+ Патниците можат да наидат на животни-штетници кои ги нема во регионите од коишто доаѓаат. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Ова"
+"Исто така, на север посетете го големото Светилиште на Богородица Фатимска (Храм), место каде што се случиле светски познатите јавувања на Богородица.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Исто така, на север посетете го големото Светилиште на Богородица Фатимска (Храм), место каде што се случиле светски познатите јавувања на Богородица. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Ова"
+Можете да користите бода-бода (мотоцикл такси) за да ја заобиколите Гома. Вообичаената (локална) цена е ~500 конгоански франци за кратко патување.,travel,travel,"<|begin_of_text|>SENTENCE:
+ Можете да користите бода-бода (мотоцикл такси) за да ја заобиколите Гома. Вообичаената (локална) цена е ~500 конгоански франци за кратко патување. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Ова"
+Тие што уживаат во активности на отворено не треба да ја пропуштат прошетката низ коридорот „Од морето до небото“.,travel,travel,"<|begin_of_text|>SENTENCE:
+ Тие што уживаат во активности на отворено не треба да ја пропуштат прошетката низ коридорот „Од морето до небото“. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Ова"
+"""Сафари со пешачење (исто така наречени """"прошетка во дивината"""", “сафари со планинарење"""" или одење """"пеш"""") се состои од пешачење, или неколку часа или неколку дена. """,travel,travel,"<|begin_of_text|>SENTENCE:
+ ""Сафари со пешачење (исто така наречени """"прошетка во дивината"""", “сафари со планинарење"""" или одење """"пеш"""") се состои од пешачење, или неколку часа или неколку дена. "" 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+DEFINITION:
+Safari"
+Единствениот начин да се пренесат побрзо беше да се испратат како чекиран багаж. Воздухопловните регулативи нема да дозволат да се испрати багаж без патник. Овде настапувате вие.,travel,travel,"<|begin_of_text|>SENTENCE:
+ Единствениот начин да се пренесат побрзо беше да се испратат како чекиран багаж. Воздухопловните регулативи нема да дозволат да се испрати багаж без патник. Овде настапувате вие. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Ова"
+"Со дополнителните 300, вкупно ќе бидат набавени 1300 вагони за да се намалат големите гужви.",travel,N/A,"<|begin_of_text|>SENTENCE:
+ Со дополнителните 300, вкупно ќе бидат набавени 1300 вагони за да се намалат големите гужви. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- None of the above 
+EXPLANATION"
+"На семејствата со мали деца може да им бидат потребни повеќе подготовки, но денот на отворено е лесно изводлив дури и со бебиња и деца на претшколска возраст.",travel,travel,"<|begin_of_text|>SENTENCE:
+ На семејствата со мали деца може да им бидат потребни повеќе подготовки, но денот на отворено е лесно изводлив дури и со бебиња и деца на претшколска возраст. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: - travel 
+EXPLANATION: 
+Ова"
+"Секој кој ќе вози на големи височини или преку планински премини треба да ја земе во предвид можноста за снег, мраз или многу ниски температури.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Секој кој ќе вози на големи височини или преку планински премини треба да ја земе во предвид можноста за снег, мраз или многу ниски температури. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Ова"
+"Иако градот е туристичка атракција и има аеродром, денес Тимбукту е осиромашен град.",travel,geography,"<|begin_of_text|>SENTENCE:
+ Иако градот е туристичка атракција и има аеродром, денес Тимбукту е осиромашен град. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+О"
+"За време на снежните бури,  за многу кратко време може да наврне доволно снег за да ве заглави.",travel,geography,"<|begin_of_text|>SENTENCE:
+ За време на снежните бури,  за многу кратко време може да наврне доволно снег за да ве заглави. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+О"
+"Ако сакате целосно да летате околу светот во Јужната Хемисфера, изборот на летови и дестинации е ограничен како резултат на недостигот од трансокеански маршрути.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Ако сакате целосно да летате околу светот во Јужната Хемисфера, изборот на летови и дестинации е ограничен како резултат на недостигот од трансокеански маршрути. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Ова"
+"Авиокомпаниите како што се „Емирејтс“, „Етихад ерлајнс“, „Катар ервејс“ и „Туркиш ерлајнс“ значително ја зголемија својата понуда на услуги за Африка, а нудат и поврзувања со многу поголеми африкански градови по поповолни цени од други европски авиокомпании.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Авиокомпаниите како што се „Емирејтс“, „Етихад ерлајнс“, „Катар ервејс“ и „Туркиш ерлајнс“ значително ја зголемија својата понуда на услуги за Африка, а нудат и поврзувања со многу поголеми африкански градови по поповолни цени од други европски авиокомпании. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Ова"
+"Не е организиран додатен превоз, а подземните возови нема да запираат кај Вембли и местата за паркирање и паркинзите за прекачување во јавен превоз не се достапни кај стадионот.",travel,sports,"<|begin_of_text|>SENTENCE:
+ Не е организиран додатен превоз, а подземните возови нема да запираат кај Вембли и местата за паркирање и паркинзите за прекачување во јавен превоз не се достапни кај стадионот. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+Ова"
+"Вообичаено, престојот во странска земја за подолг временски период бара стекнување виза однапред.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Вообичаено, престојот во странска земја за подолг временски период бара стекнување виза однапред. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Ова"
+"Секој воз има и МетроПлус и Метро економска; МетроПлус економските секогаш се наоѓаат на крајот од возот, најблиску до Кејптаун.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Секој воз има и МетроПлус и Метро економска; МетроПлус економските секогаш се наоѓаат на крајот од возот, најблиску до Кејптаун. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Ова"
+Секој учествува во општеството и користи системи за превоз. Скоро секој се жали за системите за превоз.,travel,travel,"<|begin_of_text|>SENTENCE:
+ Секој учествува во општеството и користи системи за превоз. Скоро секој се жали за системите за превоз. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Ова"
+"Бидејќи подрачјата се ретко населени, а според тоа загадувањето со светлина најчесто не е проблем, ќе можете да уживате и во ѕвездите.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Бидејќи подрачјата се ретко населени, а според тоа загадувањето со светлина најчесто не е проблем, ќе можете да уживате и во ѕвездите. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Ова"
+Барањата и трошоците за виза се разликуваат од земја до земја и зависат од тоа од која земја доаѓате.,travel,travel,"<|begin_of_text|>SENTENCE:
+ Барањата и трошоците за виза се разликуваат од земја до земја и зависат од тоа од која земја доаѓате. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Ова"
+"Општо земено, нема корист да бараш попуст за место во бизнис или прва класа на директни летови од А до Б.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Општо земено, нема корист да бараш попуст за место во бизнис или прва класа на директни летови од А до Б. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Ова"
+Фрлањето бумеранг е популарна вештина со којашто сакаат да се стекнат многу туристи.,travel,travel,"<|begin_of_text|>SENTENCE:
+ Фрлањето бумеранг е популарна вештина со којашто сакаат да се стекнат многу туристи. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Ова"
+"Ако сакате да ги прескокнете Јужниот Пацифик и западниот брег на Јужна Америка, летов не е единствената опција за вас. (види подолу)",travel,travel,"<|begin_of_text|>SENTENCE:
+ Ако сакате да ги прескокнете Јужниот Пацифик и западниот брег на Јужна Америка, летов не е единствената опција за вас. (види подолу) 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Ова"
+"Сан Франциско се карактеризира со голема туристичка инфраструктура што опфаќа мноштво хотели, ресторани и врвни објекти за одржување конференции.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Сан Франциско се карактеризира со голема туристичка инфраструктура што опфаќа мноштво хотели, ресторани и врвни објекти за одржување конференции. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Ова"
+"Волонтирањето при патување е одличен начин да направите разлика, но не е сѐ во давањето.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Волонтирањето при патување е одличен начин да направите разлика, но не е сѐ во давањето. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Ова"
+Многу луѓе не би претпоставиле дека трпението и разбирањето се исто така потребни за патниците кои се враќаат дома.,travel,travel,"<|begin_of_text|>SENTENCE:
+ Многу луѓе не би претпоставиле дека трпението и разбирањето се исто така потребни за патниците кои се враќаат дома. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Ова"
+"Не заборавајте да ги пресметате и додатните трошоци за додатни визи, такси за поаѓање, копнен транспорт итн. за сите тие места надвор од Африка.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Не заборавајте да ги пресметате и додатните трошоци за додатни визи, такси за поаѓање, копнен транспорт итн. за сите тие места надвор од Африка. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Ова"
+Неколкумина од жителите на Бишкек ги обвинија демонстрантите од јужните делови за безвластието.,politics,politics,"<|begin_of_text|>SENTENCE:
+ Неколкумина од жителите на Бишкек ги обвинија демонстрантите од јужните делови за безвластието. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics 
+EXPLANATION:
+Ова"
+"Денешни делови на Белгија биле дел од Луксембург во минатото, но станале белгиски по Белгиската револуција во 1830-тите години.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Денешни делови на Белгија биле дел од Луксембург во минатото, но станале белгиски по Белгиската револуција во 1830-тите години. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+Ова"
+"Од 1988 година гласачките кутии мора да бидат провидни, за гласачите и набљудувачите да бидат сведоци дека нема коверти во нив на почетокот од гласањето и дека нема да се додаваат други коверти, освен оние од прописно избројаните и овластени гласачи.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Од 1988 година гласачките кутии мора да бидат провидни, за гласачите и набљудувачите да бидат сведоци дека нема коверти во нив на почетокот од гласањето и дека нема да се додаваат други коверти, освен оние од прописно избројаните и овластени гласачи. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+Ова"
+"Вршителот на должноста, премиерката Јулиа Гилард за време на кампањата за федералните избори во 2010 тврдеше дека смета дека Австралија треба да стане република по завршувањето на владеењето на Кралица Елизабета II.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Вршителот на должноста, премиерката Јулиа Гилард за време на кампањата за федералните избори во 2010 тврдеше дека смета дека Австралија треба да стане република по завршувањето на владеењето на Кралица Елизабета II. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics 
+EXPLANATION:
+Ова е полит"
+Ирската влада ја акцентира важноста парламентот да донесе закон за да се реши ситуацијата.,politics,politics,"<|begin_of_text|>SENTENCE:
+ Ирската влада ја акцентира важноста парламентот да донесе закон за да се реши ситуацијата. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics 
+EXPLANATION:
+Ова"
+Дипломатските расправи за регионот и понатаму ги нарушуваат односите меѓу Ерменија и Азербејџан.,politics,politics,"<|begin_of_text|>SENTENCE:
+ Дипломатските расправи за регионот и понатаму ги нарушуваат односите меѓу Ерменија и Азербејџан. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics 
+EXPLANATION:
+Ова"
+"Премиерот Стивен Харпер се согласи да го достави владиниот „Закон за чист воздух“ до сепартискиот комитет за разгледување пред второто читање, по вторничната 25-минутна средба со лидерот на НДП Џек Лејтон во кабинетот на премиерот.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Премиерот Стивен Харпер се согласи да го достави владиниот „Закон за чист воздух“ до сепартискиот комитет за разгледување пред второто читање, по вторничната 25-минутна средба со лидерот на НДП Џек Лејтон во кабинетот на премиерот. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics 
+EXPLANATION:
+Ова е полит"
+"Минатиот месец во Полска се одржаа големи протести откако државата го потпиша договорот АКТА, што доведе до тоа полската влада засега да одлучи да не го ратификува договорот.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Минатиот месец во Полска се одржаа големи протести откако државата го потпиша договорот АКТА, што доведе до тоа полската влада засега да одлучи да не го ратификува договорот. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+Ова"
+Препораките се само краток преглед на политичката ситуација во дадена земја.,politics,politics,"<|begin_of_text|>SENTENCE:
+ Препораките се само краток преглед на политичката ситуација во дадена земја. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+Преп"
+"Во текот на изборите од 1976 г., тој го советувал Картер за надворешната политика, а потоа станал Советник за национална безбедност (НСА), од 1977 до 1981 г., заменувајќи го Хенри Кисинџер.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Во текот на изборите од 1976 г., тој го советувал Картер за надворешната политика, а потоа станал Советник за национална безбедност (НСА), од 1977 до 1981 г., заменувајќи го Хенри Кисинџер. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics 
+EXPLANATION: 
+Ова е"
+Во изјавата се вели дека Турција ќе ја преземе одговорноста над заробените борци на ИСИС што европските држави одбиле да ги примат назад.,politics,politics,"<|begin_of_text|>SENTENCE:
+ Во изјавата се вели дека Турција ќе ја преземе одговорноста над заробените борци на ИСИС што европските држави одбиле да ги примат назад. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics 
+EXPLANATION:
+Ова"
+"Сепак, овие планови застарија речиси преку ноќ кога над 800 000 војници од Црвената армија на Советскиот Сојуз влегоа и ги создадоа белорускиот и украинскиот фронт по инвазијата на источните делови на Полска, прекршувајќи ги Мировниот договор од Рига, Пактот за ненапаѓање помеѓу Советскиот Сојуз и Полска и други меѓународни билатерални и мултилатерални договори.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Сепак, овие планови застарија речиси преку ноќ кога над 800 000 војници од Црвената армија на Советскиот Сојуз влегоа и ги создадоа белорускиот и украинскиот фронт по инвазијата на источните делови на Полска, прекршувајќи ги Мировниот договор од Рига, Пактот за ненапаѓање помеѓу Советскиот Сојуз и Полска и други меѓународни билатерални и мултилатерални договори. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+politics
+EXPLANATION:
+Ова"
+"После процесот, HJR-3 повторно ќе се разгледува од следниот избран законодавен дом или во 2015 г. или во 2016г. за да остане во постапка.",politics,politics,"<|begin_of_text|>SENTENCE:
+ После процесот, HJR-3 повторно ќе се разгледува од следниот избран законодавен дом или во 2015 г. или во 2016г. за да остане во постапка. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+Ова"
+"По неговото усвојување од страна на Конгресот, на 4 јули, нацртот во ракопис, потпишан од претседателот на Конгресот, Џон Хенкок и секретарот Чарлс Томас, беше испратен неколку улици подолу, во печатницата на Џон Данлеп.",politics,politics,"<|begin_of_text|>SENTENCE:
+ По неговото усвојување од страна на Конгресот, на 4 јули, нацртот во ракопис, потпишан од претседателот на Конгресот, Џон Хенкок и секретарот Чарлс Томас, беше испратен неколку улици подолу, во печатницата на Џон Данлеп. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics 
+EXPLANATION:
+Ова"
+Веднаш по 11:00 часот демонстрантите го блокираа сообраќајот кон север во Вајтхол.,politics,politics,"<|begin_of_text|>SENTENCE:
+ Веднаш по 11:00 часот демонстрантите го блокираа сообраќајот кон север во Вајтхол. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+Ова"
+"Меѓутоа, во јуни 1956 година, ветувањата на Хрушчов биле ставени на испит кога немирите во Полска што ги започнале работниците поради недостигот на храна и намалувањето на платите, се претвориле во општ протест против комунизмот.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Меѓутоа, во јуни 1956 година, ветувањата на Хрушчов биле ставени на испит кога немирите во Полска што ги започнале работниците поради недостигот на храна и намалувањето на платите, се претвориле во општ протест против комунизмот. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+Ова"
+"Требаше да трае во наредните 40 години и да се води вистинска борба, со посреднички војски, на воени фронтови од Африка до Азија, во Авганистан, Куба и мноштво други места.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Требаше да трае во наредните 40 години и да се води вистинска борба, со посреднички војски, на воени фронтови од Африка до Азија, во Авганистан, Куба и мноштво други места. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+Ова"
+"Минатиот месец, претседателска комисија предложи СЕР претходно да поднесе оставка како дел од пакетот мерки за придвижување на земјата кон нови избори.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Минатиот месец, претседателска комисија предложи СЕР претходно да поднесе оставка како дел од пакетот мерки за придвижување на земјата кон нови избори. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+Ова"
+"Како други теми, наводно, е идната држава на Ерусалим кој е свето место за двата народа и спорот за долината на реката Јордан.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Како други теми, наводно, е идната држава на Ерусалим кој е свето место за двата народа и спорот за долината на реката Јордан. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+Ова"
+"Исто така, немаше овластување да ги отфрли законите за даноци и царините меѓу државите.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Исто така, немаше овластување да ги отфрли законите за даноци и царините меѓу државите. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+Ова"
+Францускиот изборен закон наместа строго ги определува постапките.,politics,politics,"<|begin_of_text|>SENTENCE:
+ Францускиот изборен закон наместа строго ги определува постапките. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+Ова"
+"По една недела порази на изборите во средината на мандатот, Буш на присутните им кажа за проширувањето на трговијата со Азија.",politics,politics,"<|begin_of_text|>SENTENCE:
+ По една недела порази на изборите во средината на мандатот, Буш на присутните им кажа за проширувањето на трговијата со Азија. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics 
+EXPLANATION:
+Ова"
+"Стратегијата се покажа како ефикасна, прекинувајќи гo неопходното снабдување на војската и граѓаните, иако блокадата гo прекрши општо прифатениот меѓународен закон кодифициран со неколку меѓународни договори во текот на последните два века.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Стратегијата се покажа како ефикасна, прекинувајќи гo неопходното снабдување на војската и граѓаните, иако блокадата гo прекрши општо прифатениот меѓународен закон кодифициран со неколку меѓународни договори во текот на последните два века. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+Ова"
+"И покрај неуспешните политички преговори, економските врски повторно се воспоставени меѓу овие два дела на Молдавија.",politics,politics,"<|begin_of_text|>SENTENCE:
+ И покрај неуспешните политички преговори, економските врски повторно се воспоставени меѓу овие два дела на Молдавија. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+Ова"
+"Во придружба на одговорните лица, ги увери жителите на Тексас дека се преземаат чекори за заштита на јавната безбедност.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Во придружба на одговорните лица, ги увери жителите на Тексас дека се преземаат чекори за заштита на јавната безбедност. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics 
+EXPLANATION:
+Ова"
+Либералната критика на обидот за реконструкција беше насочена кон доделувањето на договорите за реконструкција на истакнати личности во Вашингтон.,politics,politics,"<|begin_of_text|>SENTENCE:
+ Либералната критика на обидот за реконструкција беше насочена кон доделувањето на договорите за реконструкција на истакнати личности во Вашингтон. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics 
+EXPLANATION:
+Ова е полит"
+"Од 1,400 луѓе кои беа анкетирани пред федералните избори во 2010, бројот на оние кои се против тоа Австралија да стане република порасна за 8 проценти од 2008.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Од 1,400 луѓе кои беа анкетирани пред федералните избори во 2010, бројот на оние кои се против тоа Австралија да стане република порасна за 8 проценти од 2008. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics 
+EXPLANATION:
+Ова"
+Дипломатите рекоа дека нашле доволно нејаснотии во авганистанскиот Устав за да утврдат дека втор круг избори се непотребни.,politics,politics,"<|begin_of_text|>SENTENCE:
+ Дипломатите рекоа дека нашле доволно нејаснотии во авганистанскиот Устав за да утврдат дека втор круг избори се непотребни. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+Ова"
+"Откако дојдоа резултатите Гингрич го пофали Санторум, но имаше остри зборови за Ромни, во чие име се емитувале негативни реклами во Ајова против Гингрич.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Откако дојдоа резултатите Гингрич го пофали Санторум, но имаше остри зборови за Ромни, во чие име се емитувале негативни реклами во Ајова против Гингрич. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics 
+EXPLANATION:
+Ова"
+Ова е петтата Привремена изборна комисија на Мартели во 4 години.,politics,politics,"<|begin_of_text|>SENTENCE:
+ Ова е петтата Привремена изборна комисија на Мартели во 4 години. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+Ова"
+"Олимпискиот добитник на злато требаше да исплива 100 метри и 200 метри во слободен стил и три штафети на Комонвелтските игри, но поради неговите поплаки постои сомнеж во неговата физичка спремност.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Олимпискиот добитник на злато требаше да исплива 100 метри и 200 метри во слободен стил и три штафети на Комонвелтските игри, но поради неговите поплаки постои сомнеж во неговата физичка спремност. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+Олим"
+"Освен поранешен олимиски и светски шампион, Саито беше претседател на комитетот за тренинг на Јапонската федерација за џудо во време на неговата смрт.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Освен поранешен олимиски и светски шампион, Саито беше претседател на комитетот за тренинг на Јапонската федерација за џудо во време на неговата смрт. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+Олим"
+"Меѓународниот олимписки комитет гласаше да се вклучат спортовите на состанокот на извршниот одбор во Берлин денес. Рагбито, поточно рагби 15, и голфот беа избрани наместо пет други спортови, за да бидат разгледани за учество на Олимпијадата.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Меѓународниот олимписки комитет гласаше да се вклучат спортовите на состанокот на извршниот одбор во Берлин денес. Рагбито, поточно рагби 15, и голфот беа избрани наместо пет други спортови, за да бидат разгледани за учество на Олимпијадата. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+Олим"
+Најголемиот турнир во годината е во декември на терените за поло во Лас Кањитас.,sports,sports,"<|begin_of_text|>SENTENCE:
+ Најголемиот турнир во годината е во декември на терените за поло во Лас Кањитас. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+Ова"
+Откако се пресели во главниот град на Каталонија Видал одигра 49 натпревари за клубот.,sports,sports,"<|begin_of_text|>SENTENCE:
+ Откако се пресели во главниот град на Каталонија Видал одигра 49 натпревари за клубот. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+Ова"
+"Одржување здрав енергетски баланс, практикување ефективни навики за хидратација и разбирање на различните аспекти на практиките за суплементација може да им помогнат на спортистите да го подобрат својот перформанс и да го зголемат уживањето во спортот.",sports,health,"<|begin_of_text|>SENTENCE:
+ Одржување здрав енергетски баланс, практикување ефективни навики за хидратација и разбирање на различните аспекти на практиките за суплементација може да им помогнат на спортистите да го подобрат својот перформанс и да го зголемат уживањето во спортот. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: health 
+-EXPLANATION: 
+Ова"
+"На третото место, Хамлин заостанува со дваесет поени, но пет пред Боујер. Кејн и Трукс џуниор се петто и шесто, соодветно, со 2220 и 2207 поени.",sports,sports,"<|begin_of_text|>SENTENCE:
+ На третото место, Хамлин заостанува со дваесет поени, но пет пред Боујер. Кејн и Трукс џуниор се петто и шесто, соодветно, со 2220 и 2207 поени. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+Ова"
+Личниот рекорд на Надал против Канаѓанецот е 7 - 2.,sports,sports,"<|begin_of_text|>SENTENCE:
+ Личниот рекорд на Надал против Канаѓанецот е 7 - 2. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports 
+EXPLANATION: 
+Оваа"
+Харке вежбаше при претсезонскиот тренинг на Коверчиано во Италија рано тој ден. Престојувал во тимскиот хотел пред натпреварот планиран за во неделата против Болонија.,sports,sports,"<|begin_of_text|>SENTENCE:
+ Харке вежбаше при претсезонскиот тренинг на Коверчиано во Италија рано тој ден. Престојувал во тимскиот хотел пред натпреварот планиран за во неделата против Болонија. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+Ова"
+Стравот од немање превоз ја зголеми можноста натпреварот да се одржи зад затворени врати без навивачите на тимот.,sports,sports,"<|begin_of_text|>SENTENCE:
+ Стравот од немање превоз ја зголеми можноста натпреварот да се одржи зад затворени врати без навивачите на тимот. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+Ова"
+Томи Дример рече “Луна беше првата Кралица на екстремното. Мојот прв менаџер. Луна почина во вечер со две месечини. Доста уникатно баш како неа. Силна жена.“,sports,entertainment,"<|begin_of_text|>SENTENCE:
+ Томи Дример рече “Луна беше првата Кралица на екстремното. Мојот прв менаџер. Луна почина во вечер со две месечини. Доста уникатно баш како неа. Силна жена.“ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+О"
+Полскиот скијач со оштетен вид Мациеј Крезел и неговиот водич Ана Огаржинска завршија тринаесетти во Супервелеслаломот. Џонг Сеорк Парк од Јужна Кореја заврши дваесет и четврти во машка категорија на седечкиот Супервелеслалом.,sports,sports,"<|begin_of_text|>SENTENCE:
+ Полскиот скијач со оштетен вид Мациеј Крезел и неговиот водич Ана Огаржинска завршија тринаесетти во Супервелеслаломот. Џонг Сеорк Парк од Јужна Кореја заврши дваесет и четврти во машка категорија на седечкиот Супервелеслалом. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+sports
+EXPLANATION:
+Ова е"
+"За новости за турнирите и каде да се купат билети за натпреварите во поло, проверете на Asociacion Argentina de Polo (Аргентинска асоцијација за поло).",sports,sports,"<|begin_of_text|>SENTENCE:
+ За новости за турнирите и каде да се купат билети за натпреварите во поло, проверете на Asociacion Argentina de Polo (Аргентинска асоцијација за поло). 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports 
+EXPLANATION:
+Ова"
+"Натпреварите започнаа во 10:00 часот, во одлични временски услови, а освен ситниот дожд на средината од утрото, брзо се разведри, па денот беше совршен за рагби 7.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Натпреварите започнаа во 10:00 часот, во одлични временски услови, а освен ситниот дожд на средината од утрото, брзо се разведри, па денот беше совршен за рагби 7. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+Ова"
+Арли Веласкез од Мексико заврши петнаесетти во машка клекната поза на супервелеслаломот. Адам Хол од Нов Зеланд зарши деветти во машка исправена поза на супервелеслаломот.,sports,sports,"<|begin_of_text|>SENTENCE:
+ Арли Веласкез од Мексико заврши петнаесетти во машка клекната поза на супервелеслаломот. Адам Хол од Нов Зеланд зарши деветти во машка исправена поза на супервелеслаломот. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+Ова"
+"Последниот натпревар од серијата ќе се одигра на Елис Парк во Јоханесбург идната недела, кога Спрингбокс ќе играат со Австралија.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Последниот натпревар од серијата ќе се одигра на Елис Парк во Јоханесбург идната недела, кога Спрингбокс ќе играат со Австралија. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+Ова"
+Во добри услови би можеле да поминете поголеми растојанија отколку со одење - но многу ретко би ги постигнале брзините на скијачко трчање без тежок ранец и по уредени патеки.,sports,travel,"<|begin_of_text|>SENTENCE:
+ Во добри услови би можеле да поминете поголеми растојанија отколку со одење - но многу ретко би ги постигнале брзините на скијачко трчање без тежок ранец и по уредени патеки. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Ова"
+"Со заостанување од седум поени, Џонсон е втор со 2,243.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Со заостанување од седум поени, Џонсон е втор со 2,243. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+Ова"
+Кањонирањето (или: кањонерството) во суштина значи одење по дното на еден кањон што е или сув или полн со вода.,sports,travel,"<|begin_of_text|>SENTENCE:
+ Кањонирањето (или: кањонерството) во суштина значи одење по дното на еден кањон што е или сув или полн со вода. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+DEFINITION:
+Ка"
+"Робин Утапа го постигна највисокиот резултат во времето за фрлање од 70 погодоци, со само 41 топка погоди 11 четворки и 2 шестки.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Робин Утапа го постигна највисокиот резултат во времето за фрлање од 70 погодоци, со само 41 топка погоди 11 четворки и 2 шестки. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+Ова"
+"Зимските спортови се најпопуларни во северните региони, при што Италијанците учествуваат во меѓународни натпревари и олимписки настани.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Зимските спортови се најпопуларни во северните региони, при што Италијанците учествуваат во меѓународни натпревари и олимписки настани. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+Ова"
+"Маручидоре заврши на врвот на скалата, со шест поени предност пред Нуса, кој е второпласиран.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Маручидоре заврши на врвот на скалата, со шест поени предност пред Нуса, кој е второпласиран. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+Ова"
+"Михаел Шумахер ја заврши трката не долго по Алонсо, поради штетата на амортизерите во голем број битки во текот на трката.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Михаел Шумахер ја заврши трката не долго по Алонсо, поради штетата на амортизерите во голем број битки во текот на трката. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+Ова"
+"Правилните навики на исхрана сами по себе не може да имаат неверојатен учинок, но може значително да влијаат на општата благосостојба на младите спортисти.",sports,health,"<|begin_of_text|>SENTENCE:
+ Правилните навики на исхрана сами по себе не може да имаат неверојатен учинок, но може значително да влијаат на општата благосостојба на младите спортисти. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health
+EXPLANATION:
+Оваа"
+"Не можел да ги земе лековите што му биле потребни за надминување на болката, бидејќи се забранети од Игрите.",sports,health,"<|begin_of_text|>SENTENCE:
+ Не можел да ги земе лековите што му биле потребни за надминување на болката, бидејќи се забранети од Игрите. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+health
+EXPLANATION:
+Оваа"
+Истражувањата покажале дека жените имаат два пати поголема веројатност да имаат мултиплекс склероза од мажите.,health,health,"<|begin_of_text|>SENTENCE:
+ Истражувањата покажале дека жените имаат два пати поголема веројатност да имаат мултиплекс склероза од мажите. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health
+EXPLANATION:
+Оваа"
+"Нелегалните алкохолни пијалаци може да содржат различни опасни примеси како метанол, којшто може да предизвика слепило или смрт дури и во мали дози.",health,health,"<|begin_of_text|>SENTENCE:
+ Нелегалните алкохолни пијалаци може да содржат различни опасни примеси како метанол, којшто може да предизвика слепило или смрт дури и во мали дози. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health
+EXPLANATION:
+Оваа"
+"Само ефектите на катастрофизирање, не депресија и страв, биле условени на редовните неделни структурирани сесии по физичка активност.",health,health,"<|begin_of_text|>SENTENCE:
+ Само ефектите на катастрофизирање, не депресија и страв, биле условени на редовните неделни структурирани сесии по физичка активност. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health
+EXPLANATION:
+Оваа"
+"Масовното сопствеништво на автомобили води и до зголемена честота на несреќи на патиштата, што води до измислување нови техники во здравството за санирање повредени тела.",health,health,"<|begin_of_text|>SENTENCE:
+ Масовното сопствеништво на автомобили води и до зголемена честота на несреќи на патиштата, што води до измислување нови техники во здравството за санирање повредени тела. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health
+EXPLANATION:
+Оваа"
+"Водечките истражувачи сметаат дека ова може да доведе до рано откривање на рак, туберколоза, ХИВ и маларија кај пациенти кои живеат во земји со низок животен стандард, каде стапката на преживување од болести како рак на дојка може да биде двојно пониска отколку во побогатите држави.",health,health,"<|begin_of_text|>SENTENCE:
+ Водечките истражувачи сметаат дека ова може да доведе до рано откривање на рак, туберколоза, ХИВ и маларија кај пациенти кои живеат во земји со низок животен стандард, каде стапката на преживување од болести како рак на дојка може да биде двојно пониска отколку во побогатите држави. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health
+EXPLANATION:
+Оваа"
+"Д-р Ехуд Ур, професор по медицина при универзитетот „Далхаузи“ во Халифакс во Нова Шкотска и претседател на клиничкиот и научен оддел на Канадското здружение за дијабетес, истакна дека истражувањето сѐ уште е во рани фази.",health,health,"<|begin_of_text|>SENTENCE:
+ Д-р Ехуд Ур, професор по медицина при универзитетот „Далхаузи“ во Халифакс во Нова Шкотска и претседател на клиничкиот и научен оддел на Канадското здружение за дијабетес, истакна дека истражувањето сѐ уште е во рани фази. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health 
+EXPLANATION:
+Ова е"
+"Овие деца обично запаѓаат во големи неволји бидејќи „прикажуваат ризични однесувања, започнуваат тепачки и ги предизвикуваат властите“, со цел да го стимулираат нивниот мозок, бидејќи нивниот мозок не може да се стимулира преку нормални методи.",health,health,"<|begin_of_text|>SENTENCE:
+ Овие деца обично запаѓаат во големи неволји бидејќи „прикажуваат ризични однесувања, започнуваат тепачки и ги предизвикуваат властите“, со цел да го стимулираат нивниот мозок, бидејќи нивниот мозок не може да се стимулира преку нормални методи. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health
+EXPLANATION:
+Оваа"
+Луѓето може да бидат негативно засегнати од вдишувањето на загадена вода која се внесува од воздухот преку ветрови и бранови.,health,health,"<|begin_of_text|>SENTENCE:
+ Луѓето може да бидат негативно засегнати од вдишувањето на загадена вода која се внесува од воздухот преку ветрови и бранови. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health
+EXPLANATION:
+Оваа"
+Некои луѓе веруваат дека доволно честото доживување на голем број вештачко поттикнати луцидни соништа може да биде многу исцрпувачко.,health,science/technology,"<|begin_of_text|>SENTENCE:
+ Некои луѓе веруваат дека доволно честото доживување на голем број вештачко поттикнати луцидни соништа може да биде многу исцрпувачко. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Ова"
+"Потро тогаш санираше рамото, но успеа да се врати во игра.",health,sports,"<|begin_of_text|>SENTENCE:
+ Потро тогаш санираше рамото, но успеа да се врати во игра. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+Ова"
+"Понатаму, ако не се успее, ќе има сериозни последици: стопирање на раст, неухранетост и на крај смрт.",health,health,"<|begin_of_text|>SENTENCE:
+ Понатаму, ако не се успее, ќе има сериозни последици: стопирање на раст, неухранетост и на крај смрт. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health
+EXPLANATION:
+This sentence is"
+"Градските власти на Амстердам и Музејот на Ана Франк изјавуваат дека дрвото е заболено со габи и претставува опасност за јавното здравје, а тврдат и дека постои непосредна опасност истото да падне.",health,health,"<|begin_of_text|>SENTENCE:
+ Градските власти на Амстердам и Музејот на Ана Франк изјавуваат дека дрвото е заболено со габи и претставува опасност за јавното здравје, а тврдат и дека постои непосредна опасност истото да падне. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health
+EXPLANATION:
+Оваа"
+"Болницата го следеше протоколот за инфекциска контрола, меѓу кое и одделување на пациентот од другите за да се спречи можно заразување на другите.",health,health,"<|begin_of_text|>SENTENCE:
+ Болницата го следеше протоколот за инфекциска контрола, меѓу кое и одделување на пациентот од другите за да се спречи можно заразување на другите. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+health
+EXPLANATION:
+Оваа"
+Институтот за правда и демократија на Хаити се повика на независни студии коишто укажуваат на тоа дека непалскиот мировен баталјон при ОН несвесно ја донел болеста на Хаити.,health,politics,"<|begin_of_text|>SENTENCE:
+ Институтот за правда и демократија на Хаити се повика на независни студии коишто укажуваат на тоа дека непалскиот мировен баталјон при ОН несвесно ја донел болеста на Хаити. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics 
+EXPLANATION:
+Ова"
+"Самите заразни болести, или опасни животни што можат да повредат или убијат човек со сила, не се сметаат за штетници.",health,health,"<|begin_of_text|>SENTENCE:
+ Самите заразни болести, или опасни животни што можат да повредат или убијат човек со сила, не се сметаат за штетници. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: health 
+EXPLANATION: 
+Оваа"
+"На децата со хиперкинетичко нарушување им е тешко да се концентрираат на нешта како училишна работа, но можат да се концентрираат на нештата во коишто уживаат, како што се играње игри, гледање на омилените цртани филмови или пишување реченици без интерпункциски знаци.",health,health,"<|begin_of_text|>SENTENCE:
+ На децата со хиперкинетичко нарушување им е тешко да се концентрираат на нешта како училишна работа, но можат да се концентрираат на нештата во коишто уживаат, како што се играње игри, гледање на омилените цртани филмови или пишување реченици без интерпункциски знаци. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health
+EXPLANATION:
+Оваа"
+"За една година, едно заразено лице може да зарази 10 до 15 од своите блиски контакти.",health,health,"<|begin_of_text|>SENTENCE:
+ За една година, едно заразено лице може да зарази 10 до 15 од своите блиски контакти. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: health, 
+EXPLANATION: 
+Ова"
+"Кога тепачката заврши и откако ранетите беа префрлени во болница, 40-тина од преостанатите затвореници останаа во дворот и одбија да се вратат во нивните ќелии.",health,politics,"<|begin_of_text|>SENTENCE:
+ Кога тепачката заврши и откако ранетите беа префрлени во болница, 40-тина од преостанатите затвореници останаа во дворот и одбија да се вратат во нивните ќелии. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+Ова"
+Императорот Август почнал да регрутира доктори и дури го формирал првиот римски Медицински корпус кој служел по исходот на битките.,health,health,"<|begin_of_text|>SENTENCE:
+ Императорот Август почнал да регрутира доктори и дури го формирал првиот римски Медицински корпус кој служел по исходот на битките. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+health
+EXPLANATION:
+Оваа"
+"Сепак, возачот се здоби со сериозни повреди на главата.",health,health,"<|begin_of_text|>SENTENCE:
+ Сепак, возачот се здоби со сериозни повреди на главата. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health
+EXPLANATION:
+The word """
+"„Сега имаме глувци стари 4 месеци, кои не се дијабетичари, a порано биле дијабетичари“, додаде тој.",health,health,"<|begin_of_text|>SENTENCE:
+ „Сега имаме глувци стари 4 месеци, кои не се дијабетичари, a порано биле дијабетичари“, додаде тој. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+health
+EXPLANATION:
+Оваа"
+"Внатрешното труење може да не може веднаш да се види. Симптомите, како што е повраќање, се прилично општи,, па не може веднаш да се постави дијагноза.",health,health,"<|begin_of_text|>SENTENCE:
+ Внатрешното труење може да не може веднаш да се види. Симптомите, како што е повраќање, се прилично општи,, па не може веднаш да се постави дијагноза. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health
+EXPLANATION:
+Ова е"
+"Како резултат на тоа, изведувачите пушат џоинти со канабис на сцената, а и самиот театар ја поттикнува публиката да им се придружи.",entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Како резултат на тоа, изведувачите пушат џоинти со канабис на сцената, а и самиот театар ја поттикнува публиката да им се придружи. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+О"
+Бендот Аеросмит ги откажа преостанатите концерти од својата турнеја.,entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Бендот Аеросмит ги откажа преостанатите концерти од својата турнеја. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: -entertainment 
+EXPLANATION: 
+А"
+"Ако сакате да бидете што поблиску до центарот на настаните, ќе мора да влезете рано и да фатите место за кампување близу до музиката.",entertainment,travel,"<|begin_of_text|>SENTENCE:
+ Ако сакате да бидете што поблиску до центарот на настаните, ќе мора да влезете рано и да фатите место за кампување близу до музиката. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Ова"
+Има многу различни формати на филмови што се користеле со текот на годините. Стандардниот 35-милиметарски филм (негатив од 36 на 24 милиметри) е многу повообичаен.,entertainment,science/technology,"<|begin_of_text|>SENTENCE:
+ Има многу различни формати на филмови што се користеле со текот на годините. Стандардниот 35-милиметарски филм (негатив од 36 на 24 милиметри) е многу повообичаен. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Ова"
+"Иако ова е доста вообичаена активност, тоа е забрането од Дизни: билетите не смеат да се префрлаат.",entertainment,travel,"<|begin_of_text|>SENTENCE:
+ Иако ова е доста вообичаена активност, тоа е забрането од Дизни: билетите не смеат да се префрлаат. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: -travel 
+EXPLANATION: 
+Ова"
+"Секоја епизода од емисијата се фокусирше на тема од одредена книга, а потоа се истражуваше таа тема преку повеќе приказни.",entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Секоја епизода од емисијата се фокусирше на тема од одредена книга, а потоа се истражуваше таа тема преку повеќе приказни. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+О"
+На различни места низ Рим беа поставени неколку големи телевизиски екрани за луѓето да можат да ја следат свеченоста.,entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ На различни места низ Рим беа поставени неколку големи телевизиски екрани за луѓето да можат да ја следат свеченоста. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+О"
+"Софокле и Аристофан сѐ уште се популарни драматурзи, а нивните драми се вбројуваат меѓу најдобрите дела во светската литература.",entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Софокле и Аристофан сѐ уште се популарни драматурзи, а нивните драми се вбројуваат меѓу најдобрите дела во светската литература. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment 
+EXPLANATION:
+С"
+"Исто така, секое шоу ќе обезбеди препораки за книги што секое дете би требало да ги побара кога оди во библиотека.",entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Исто така, секое шоу ќе обезбеди препораки за книги што секое дете би требало да ги побара кога оди во библиотека. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+О"
+"За дополнителен волумен на хармоника, се користат мевови со поголем притисок или брзина.",entertainment,science/technology,"<|begin_of_text|>SENTENCE:
+ За дополнителен волумен на хармоника, се користат мевови со поголем притисок или брзина. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: -science 
+EXPLANATION: 
+Ова"
+Пирамидите се гледаат и во мрак и можете да ги гледате во тишина пред почетокот на претставата.,entertainment,travel,"<|begin_of_text|>SENTENCE:
+ Пирамидите се гледаат и во мрак и можете да ги гледате во тишина пред почетокот на претставата. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Пи"
+"Примерите за активности на локацијата опфаќаат лов, риболов, фотографија, набљудување птици и посетување паркови и проучување информации за екосистемот.",entertainment,travel,"<|begin_of_text|>SENTENCE:
+ Примерите за активности на локацијата опфаќаат лов, риболов, фотографија, набљудување птици и посетување паркови и проучување информации за екосистемот. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+\travel
+EXPLANATION:
+Ова"
+Сфингата е поставена како заднина и раскажувач на бесконечна приказна.,entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Сфингата е поставена како заднина и раскажувач на бесконечна приказна. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+С"
+"Обично имаат специјални понуди за храна, пијалак и забава за да гo одржат расположението на гостите и да останат тука.",entertainment,travel,"<|begin_of_text|>SENTENCE:
+ Обично имаат специјални понуди за храна, пијалак и забава за да гo одржат расположението на гостите и да останат тука. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Ова"
+"Глобалната организација веќе известува на англиски и јапонски, а во меѓувреме стартува и програми на шпански, италијански и корејски јазик, за телевизија, интернет и мобилни уреди.",entertainment,politics,"<|begin_of_text|>SENTENCE:
+ Глобалната организација веќе известува на англиски и јапонски, а во меѓувреме стартува и програми на шпански, италијански и корејски јазик, за телевизија, интернет и мобилни уреди. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+Ова"
+"Пред „Симпсонови“, Сајмон работеше на повеќе емисии на различни позиции.",entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Пред „Симпсонови“, Сајмон работеше на повеќе емисии на различни позиции. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+О"
+Со ова ќе им се овозможи на играчите поголема контрола над дејствата и движењата во видеоигрите со движење на уредот во воздух.,entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Со ова ќе им се овозможи на играчите поголема контрола над дејствата и движењата во видеоигрите со движење на уредот во воздух. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+О"
+Најмалку 100 луѓе присуствувале на забавата за прославата на првата годишнина на двојката чија свадба се одржала минатата година.,entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Најмалку 100 луѓе присуствувале на забавата за прославата на првата годишнина на двојката чија свадба се одржала минатата година. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+О"
+"Две песни од филмот, Audition (The Fools Who Dream) и City of Stars, беа номинирани за најдобра оригинална песна. Студиото Лајонсгејт доби 26 номинации - најмногу од сите други студија.",entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Две песни од филмот, Audition (The Fools Who Dream) и City of Stars, беа номинирани за најдобра оригинална песна. Студиото Лајонсгејт доби 26 номинации - најмногу од сите други студија. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+-similar SENTENCES:
+"
+Кората е дебела околу 70 km на поблиската страна и 100 km на подалечната страна.,geography,geography,"<|begin_of_text|>SENTENCE:
+ Кората е дебела околу 70 km на поблиската страна и 100 km на подалечната страна. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+О"
+"Појужно се Нијагарините водопади, а северот е дом на недопрената природна убавина на Мускока и пошироко.",geography,geography,"<|begin_of_text|>SENTENCE:
+ Појужно се Нијагарините водопади, а северот е дом на недопрената природна убавина на Мускока и пошироко. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+О"
+"Елсвортовата Земја е регион јужно од Полуостровот, која граничи со Белингсхаузеновото Море.",geography,geography,"<|begin_of_text|>SENTENCE:
+ Елсвортовата Земја е регион јужно од Полуостровот, која граничи со Белингсхаузеновото Море. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+О"
+Преминот до Јужниот пол (или автопат) е патека од 1600 km од станицата МекМурдо на Росово Море до Полот.,geography,travel,"<|begin_of_text|>SENTENCE:
+ Преминот до Јужниот пол (или автопат) е патека од 1600 km од станицата МекМурдо на Росово Море до Полот. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Ова"
+"Над северниот крај на Мачу Пикчу се издига една стрмна планина, која често е позадина на многу фотографии од урнатините.",geography,geography,"<|begin_of_text|>SENTENCE:
+ Над северниот крај на Мачу Пикчу се издига една стрмна планина, која често е позадина на многу фотографии од урнатините. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+О"
+"Енцелад е најрефлективното тело во сончевиот систем, рефлектирајќи околу 90 отсто од сончевата светлина што го погодува.",geography,science/technology,"<|begin_of_text|>SENTENCE:
+ Енцелад е најрефлективното тело во сончевиот систем, рефлектирајќи околу 90 отсто од сончевата светлина што го погодува. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science
+EXPLANATION: 
+Ова е"
+"Ништо не може да се види освен јасното, прекрасно небо и мноштвото околни планини. Многу мал дел од овој свет може да се види или слушне од внатрешноста на пештерата.",geography,travel,"<|begin_of_text|>SENTENCE:
+ Ништо не може да се види освен јасното, прекрасно небо и мноштвото околни планини. Многу мал дел од овој свет може да се види или слушне од внатрешноста на пештерата. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Ова"
+"За Јапонија, исто како за Велика Британије, може да се каже дека е островска земја.",geography,geography,"<|begin_of_text|>SENTENCE:
+ За Јапонија, исто како за Велика Британије, може да се каже дека е островска земја. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+О"
+"Во својата кулминација, тропскиот циклон Гону, наречен по кеса палмини лисја во јазикот на Малдивите, достигна ветар со брзина од 240 километри на час (149 милји на час).",geography,geography,"<|begin_of_text|>SENTENCE:
+ Во својата кулминација, тропскиот циклон Гону, наречен по кеса палмини лисја во јазикот на Малдивите, достигна ветар со брзина од 240 километри на час (149 милји на час). 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+Т"
+"Површината на Турција, вклучително и езера, зафаќа 783,562 километри квадратни  (300,948 sq mi), од кои 755,688 километри квадратни  (291,773 sq mi) се во југозападна Азија, а 23,764 километри квадратни (9,174 sq mi) во Европа.",geography,geography,"<|begin_of_text|>SENTENCE:
+ Површината на Турција, вклучително и езера, зафаќа 783,562 километри квадратни  (300,948 sq mi), од кои 755,688 километри квадратни  (291,773 sq mi) се во југозападна Азија, а 23,764 километри квадратни (9,174 sq mi) во Европа. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+-similar SENTENCES:
+"
+"Јужните Шетландски острови, откриени во 1819 г. се присвоени од повеќе нации и имаат најмногу бази, од кои шеснаесет се активни во 2020 г.",geography,geography,"<|begin_of_text|>SENTENCE:
+ Јужните Шетландски острови, откриени во 1819 г. се присвоени од повеќе нации и имаат најмногу бази, од кои шеснаесет се активни во 2020 г. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+О"
+Апиjа е главниот град на Самоа. Градот се наоѓа на островот Уполу и има население од нешто под 40 000 луѓе.,geography,geography,"<|begin_of_text|>SENTENCE:
+ Апиjа е главниот град на Самоа. Градот се наоѓа на островот Уполу и има население од нешто под 40 000 луѓе. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+О"
+"Со тоа што бурата е далеку од копно, тешко е да се оцени каде може да удри во САД или на Карибите.",geography,travel,"<|begin_of_text|>SENTENCE:
+ Со тоа што бурата е далеку од копно, тешко е да се оцени каде може да удри во САД или на Карибите. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Ова"
+"Потенка е под морињата, а подебела под висорамнините.",geography,geography,"<|begin_of_text|>SENTENCE:
+ Потенка е под морињата, а подебела под висорамнините. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+О"
+"Но, шумите не се само мочуришта со ризофори - тие опфаќаат некои од последните останати упоришта на големите џунгли кои што некогаш ја покривале Ганшката низина.",geography,geography,"<|begin_of_text|>SENTENCE:
+ Но, шумите не се само мочуришта со ризофори - тие опфаќаат некои од последните останати упоришта на големите џунгли кои што некогаш ја покривале Ганшката низина. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+О"
+Меѓународната мапа на земјотреси на Геолошкиот топографски институт на САД не покажала земјотреси во Исланд во претходната недела.,geography,geography,"<|begin_of_text|>SENTENCE:
+ Меѓународната мапа на земјотреси на Геолошкиот топографски институт на САД не покажала земјотреси во Исланд во претходната недела. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+О"
+"Поставена на врвот на една од планините северно од Мека, пештерата е сосема изолирана од остатокот од светот.",geography,geography,"<|begin_of_text|>SENTENCE:
+ Поставена на врвот на една од планините северно од Мека, пештерата е сосема изолирана од остатокот од светот. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+О"

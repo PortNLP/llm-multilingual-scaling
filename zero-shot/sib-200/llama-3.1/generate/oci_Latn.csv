@@ -1,0 +1,3037 @@
+text,actual_category,predicted_category,generated_text
+"La mutacion apond de variacion genetica novèla, e la seleccion la lèva de la sèrva de la variacion exprimida.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ La mutacion apond de variacion genetica novèla, e la seleccion la lèva de la sèrva de la variacion exprimida. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+La mut"
+La bomba de fission fonciona segon lo principi que cal d'energia per botar amassa un nuclèu e fòrces protons e neutrons.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ La bomba de fission fonciona segon lo principi que cal d'energia per botar amassa un nuclèu e fòrces protons e neutrons. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science
+EXPLANATION:
+This sentence is about"
+Lo nuclèu consistís de doas particulas - de neutrons e de protons.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Lo nuclèu consistís de doas particulas - de neutrons e de protons. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: -science
+ EXPLANATION:
+ This sentence is"
+Aquò a permés als zooms de donar de fotografias d’una qualitat comparabla a la que s’obten amb d’objectius de longor focala fixa.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Aquò a permés als zooms de donar de fotografias d’una qualitat comparabla a la que s’obten amb d’objectius de longor focala fixa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+This sentence"
+"Son superiors als mandataris de webs per divèrsas rasons. Desrotan tot lo trafic Internet, pas sonque l'http.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Son superiors als mandataris de webs per divèrsas rasons. Desrotan tot lo trafic Internet, pas sonque l'http. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Aquest"
+Lo design interactiu necessita que reavaloretz vòstras suposicions a prepaus de la produccion mediatica e d’aprendre a pensar d’un biais non-linear.,science/technology,entertainment,"<|begin_of_text|>SENTENCE:
+ Lo design interactiu necessita que reavaloretz vòstras suposicions a prepaus de la produccion mediatica e d’aprendre a pensar d’un biais non-linear. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+This"
+"Aquò venguèt una practica correnta, mas lo fèrre causava mai d’usura sus las ròdas de fusta dels vagons.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Aquò venguèt una practica correnta, mas lo fèrre causava mai d’usura sus las ròdas de fusta dels vagons. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+This sentence"
+"Los grops de leons son compausats d’un a tres mascles adults de meteissa familha, amassa amb tant coma trenta femèlas e cadèls.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Los grops de leons son compausats d’un a tres mascles adults de meteissa familha, amassa amb tant coma trenta femèlas e cadèls. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+This sentence"
+"E mai se l'intelligéncia artificiala a una connotacion fòrta de sciéncia ficcion, l'IA forma una branca fòrça importanta de l’informatica, en s'ocupant del comportament, l’aprendissatge e de l’adaptacion intelligenta dins una maquina.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ E mai se l'intelligéncia artificiala a una connotacion fòrta de sciéncia ficcion, l'IA forma una branca fòrça importanta de l’informatica, en s'ocupant del comportament, l’aprendissatge e de l’adaptacion intelligenta dins una maquina. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science
+REASONING SKILL:
+ This question"
+Lo coeficient d'aspècte d'aqueste format (en devesissent per dotze per obtenir lo rapòrt de nombres entièrs mai simple) es doncas dich d'èsser de 3:2.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Lo coeficient d'aspècte d'aqueste format (en devesissent per dotze per obtenir lo rapòrt de nombres entièrs mai simple) es doncas dich d'èsser de 3:2. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Lo coef"
+"Un telefòn satellit es generalament pas un remplaçament d’un telefòn mobil, que vos cal èsser defòra amb una linha de mira clara cap al satellit per far una telefonada.",science/technology,travel,"<|begin_of_text|>SENTENCE:
+ Un telefòn satellit es generalament pas un remplaçament d’un telefòn mobil, que vos cal èsser defòra amb una linha de mira clara cap al satellit per far una telefonada. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+A sat"
+"Encara que los camins de fèrres ipomobils consistiguèssen simplament en pòsts de fusta parallèlas, permetián als cavals que tiravan d'aténher de velocitats mai grandas e de tirar de cargas mai importantas que sus las rotas leugièrament mai rudas d'aquel temps.",science/technology,geography,"<|begin_of_text|>SENTENCE:
+ Encara que los camins de fèrres ipomobils consistiguèssen simplament en pòsts de fusta parallèlas, permetián als cavals que tiravan d'aténher de velocitats mai grandas e de tirar de cargas mai importantas que sus las rotas leugièrament mai rudas d'aquel temps. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+"Las gents an conegut los elements quimics basics coma l'aur, l'argent, e lo coire dempuèi l'Antiquitat, estent que se pòdon descobrir totes dins la natura jos sas formas nativas e son relativament aisits de minar amb d'espleches primitius.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Las gents an conegut los elements quimics basics coma l'aur, l'argent, e lo coire dempuèi l'Antiquitat, estent que se pòdon descobrir totes dins la natura jos sas formas nativas e son relativament aisits de minar amb d'espleches primitius. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Aquest"
+La ròda a cambiat lo mond d’un biais incredible. La causa mai importanta que la ròda a fach per nosautres es de nos donar un mejan de transpòrt plan mai aisit e mai rapid.,science/technology,travel,"<|begin_of_text|>SENTENCE:
+ La ròda a cambiat lo mond d’un biais incredible. La causa mai importanta que la ròda a fach per nosautres es de nos donar un mejan de transpòrt plan mai aisit e mai rapid. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+La r"
+Es fach per s’assegurar que l’imatge cobrís l'ecran entièr. Se ditz subrescanerizar.,science/technology,N/A,"<|begin_of_text|>SENTENCE:
+ Es fach per s’assegurar que l’imatge cobrís l'ecran entièr. Se ditz subrescanerizar. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- None of the above 
+EXPLANATION"
+Los sosmarins alemands èran sonats U-Boats. Los alemands èran fòrça bons per navegar e far foncionar lors sosmarins.,science/technology,geography,"<|begin_of_text|>SENTENCE:
+ Los sosmarins alemands èran sonats U-Boats. Los alemands èran fòrça bons per navegar e far foncionar lors sosmarins. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+"E mai se son estat fisic pòt cambiar, son estat quimic demòra lo meteis.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ E mai se son estat fisic pòt cambiar, son estat quimic demòra lo meteis. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Aquest"
+La tension de susfàcia se produsís perque las moleculas d'aiga a la susfàcia de l'aiga son fòrtament atiradas las unas amb las autras mai qu'o son a las moleculas d'aire que son dessús d'elas.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ La tension de susfàcia se produsís perque las moleculas d'aiga a la susfàcia de l'aiga son fòrtament atiradas las unas amb las autras mai qu'o son a las moleculas d'aire que son dessús d'elas. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+ EXPLANATION:
+ This sentence"
+Un dels problèmas mai frequents quand s'ensaja de convertir un film al format DVD es la subreescanerizacion.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Un dels problèmas mai frequents quand s'ensaja de convertir un film al format DVD es la subreescanerizacion. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Aquest"
+"En particular, s'afirma que se pòt detectar s’una persona mentís en interpretar sas microexpressions corrèctament.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ En particular, s'afirma que se pòt detectar s’una persona mentís en interpretar sas microexpressions corrèctament. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science
+EXPLANATION:
+This sentence is about"
+Se pòt trabalhar l'aur per far tota mena de formas. Pòt èsser enrotlat be dins de formas pichonèlas.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Se pòt trabalhar l'aur per far tota mena de formas. Pòt èsser enrotlat be dins de formas pichonèlas. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+This sentence"
+"Lo sistèma d’IA es ara sovent utilizat dins los domenis de l’economia, la medecina, l’engenhariá e l’armada, estent qu'es estat construch dins divèrsas aplicacions informaticas e de jòcs vidèo a domicili.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Lo sistèma d’IA es ara sovent utilizat dins los domenis de l’economia, la medecina, l’engenhariá e l’armada, estent qu'es estat construch dins divèrsas aplicacions informaticas e de jòcs vidèo a domicili. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Aquest"
+"Es encara produch uèi, mas de manièra mai importanta son coeficient d'aspècte es estat eiretat pels formats de captadors d'imatge d'aparelhs fotografics numerics.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Es encara produch uèi, mas de manièra mai importanta son coeficient d'aspècte es estat eiretat pels formats de captadors d'imatge d'aparelhs fotografics numerics. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+The SENT"
+"La règla dels tèrces, qu'es bravament abusada e sovent ridiculizada, es una simpla guida que crèa de dinamisme e qu'a l'encòp presèrva una mesura d’òrdre dins un imatge.",science/technology,entertainment,"<|begin_of_text|>SENTENCE:
+ La règla dels tèrces, qu'es bravament abusada e sovent ridiculizada, es una simpla guida que crèa de dinamisme e qu'a l'encòp presèrva una mesura d’òrdre dins un imatge. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+L"
+"Aquò confirma pas sonque lo fach qu’almens d’unes dinosaures avián de plumas, una teoria ja generalizada, mas nos fornís de detalhs que los fossils generalament pòdon pas donar, coma sas colors e sas disposicions tridimensionalas.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Aquò confirma pas sonque lo fach qu’almens d’unes dinosaures avián de plumas, una teoria ja generalizada, mas nos fornís de detalhs que los fossils generalament pòdon pas donar, coma sas colors e sas disposicions tridimensionalas. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science
+EXPLANATION:
+This sentence is about"
+"Cossí m'afectariá la gravetat d'Io? Se vos teniatz a la susfàcia d'Io, pesariatz mens qu'o fasètz sus Tèrra.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Cossí m'afectariá la gravetat d'Io? Se vos teniatz a la susfàcia d'Io, pesariatz mens qu'o fasètz sus Tèrra. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Aquest"
+NextGen es un sistèma que segon la FAA permetriá als avions de volar d'itineraris mai corts e d'estalviar de milions de galons de carburant cada annada e de reduire las emissions de carbòni.,science/technology,travel,"<|begin_of_text|>SENTENCE:
+ NextGen es un sistèma que segon la FAA permetriá als avions de volar d'itineraris mai corts e d'estalviar de milions de galons de carburant cada annada e de reduire las emissions de carbòni. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+DEFINITION:
+NextGen"
+Las donadas neurobiologicas fornisson de pròvas fisicas per un apròchi teoric de la recerca sus la cognicion. Doncas limita l'airal de recerca e lo rend plan mai exacte.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Las donadas neurobiologicas fornisson de pròvas fisicas per un apròchi teoric de la recerca sus la cognicion. Doncas limita l'airal de recerca e lo rend plan mai exacte. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+This sentence"
+"Pendent son discors de 2 oras declarèt que ""Uèi Apple es a reinventar lo telefòn, Anam far l'istòria uèi"".",science/technology,entertainment,"<|begin_of_text|>SENTENCE:
+ Pendent son discors de 2 oras declarèt que ""Uèi Apple es a reinventar lo telefòn, Anam far l'istòria uèi"". 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+ DETAILED ANSWER"
+Lo desavantatge dels zooms es que la complexitat focala e lo nombre d'elements d'objectius necessaris per aténher una gamma de longors focalas es plan mai grand qu'amb los objectius primièrs.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Lo desavantatge dels zooms es que la complexitat focala e lo nombre d'elements d'objectius necessaris per aténher una gamma de longors focalas es plan mai grand qu'amb los objectius primièrs. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+This sentence"
+"Semblable a un telecomandament de television, lo contrarotlador utiliza dos captadors plaçats prèp de la television de l'utilizaire per triangular sa posicion dins un espaci tridimensional.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Semblable a un telecomandament de television, lo contrarotlador utiliza dos captadors plaçats prèp de la television de l'utilizaire per triangular sa posicion dins un espaci tridimensional. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+This sentence"
+. Los scientifics dison que lo plumatge d'aqueste animal èra castanh-marron en cima amb una part inferiora palla o de color carotenoïda.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+. Los scientifics dison que lo plumatge d'aqueste animal èra castanh-marron en cima amb una part inferiora palla o de color carotenoïda. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+This sentence"
+"Los dos compausats reagisson l’un amb l’autre per formar de cristals que pòdon blocar la foncion renala, diguèron de cercaires de l’universitat.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Los dos compausats reagisson l’un amb l’autre per formar de cristals que pòdon blocar la foncion renala, diguèron de cercaires de l’universitat. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+This sentence"
+Aquò dona una resolucion de gaireben quatre còps la d’un negatiu 35 mm (3136 mm2 contra 864).,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Aquò dona una resolucion de gaireben quatre còps la d’un negatiu 35 mm (3136 mm2 contra 864). 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+This sentence"
+"Gràcias a las ligasons per cables de fibra optica sosmarina cap a Euròpa e per satellit de larga benda, Groenlàndia es ben connectada amb 93% de sa populacion qu'a accès a Internet.",science/technology,geography,"<|begin_of_text|>SENTENCE:
+ Gràcias a las ligasons per cables de fibra optica sosmarina cap a Euròpa e per satellit de larga benda, Groenlàndia es ben connectada amb 93% de sa populacion qu'a accès a Internet. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+ EXPLANATION:
+ This"
+"Una de las aplicacions mai proeminentas dins aquesta categoria es Google Translate, que permet de traduccion fòra linha aprèp aver descargat las donadas de la lenga desiradas.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Una de las aplicacions mai proeminentas dins aquesta categoria es Google Translate, que permet de traduccion fòra linha aprèp aver descargat las donadas de la lenga desiradas. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Aquest"
+"A la meteissa estrucura moleculara que siá un gas, un liquid o un solid.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ A la meteissa estrucura moleculara que siá un gas, un liquid o un solid. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science
+EXPLANATION:
+This sentence is about"
+"L’emplec d’enregistraments vidèo a menat a de descobèrtas importantas dins l’interpretacion de las microexpressions, dels movements facials que duran qualques millisegondas.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ L’emplec d’enregistraments vidèo a menat a de descobèrtas importantas dins l’interpretacion de las microexpressions, dels movements facials que duran qualques millisegondas. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Aquest"
+Los umans son estats a fabricar e utilizar de lentilhas pel grossiment dempuèi de milièrs e de milierats d'annadas.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Los umans son estats a fabricar e utilizar de lentilhas pel grossiment dempuèi de milièrs e de milierats d'annadas. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Los um"
+"Pasmens es pas sonque aquò, l'experimentacion, e una experiéncia es un test qu’es utilizat per eliminar una o mai de las ipotèsis possiblas, pausar de questions, e far d’observacions guida tanben la recerca scientifica.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Pasmens es pas sonque aquò, l'experimentacion, e una experiéncia es un test qu’es utilizat per eliminar una o mai de las ipotèsis possiblas, pausar de questions, e far d’observacions guida tanben la recerca scientifica. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+The SENT"
+"Finalament, las ròdas de fusta foguèron remplaçadas per de ròdas de fèrre. En 1767, los primièrs ralhs totalament de fèrre foguèron introduches.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Finalament, las ròdas de fusta foguèron remplaçadas per de ròdas de fèrre. En 1767, los primièrs ralhs totalament de fèrre foguèron introduches. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Aquest"
+"E mai se la màger part de las cartas son bonas per telefonar ont que siá, d’unas que i a son especializadas per porgir de tarifas telefonicas favorablas a de grops especifics de païses.",science/technology,travel,"<|begin_of_text|>SENTENCE:
+ E mai se la màger part de las cartas son bonas per telefonar ont que siá, d’unas que i a son especializadas per porgir de tarifas telefonicas favorablas a de grops especifics de païses. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+This sentence"
+La màger part dels telescòpis modèrns de recerca son d'installacions enòrmas dins d'airals alunhats amb de condicions atmosfericas favorablas.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ La màger part dels telescòpis modèrns de recerca son d'installacions enòrmas dins d'airals alunhats amb de condicions atmosfericas favorablas. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science
+EXPLANATION:
+Aquesta pregunta"
+L'agulha d'acièr flòta sus l'aiga per encausa de la tension de susfàcia.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ L'agulha d'acièr flòta sus l'aiga per encausa de la tension de susfàcia. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+L'"
+"Lo format 35 mm es en realitat, d'un biais un pauc estonant, de 36 mm de larg sur 24 mm de naut.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Lo format 35 mm es en realitat, d'un biais un pauc estonant, de 36 mm de larg sur 24 mm de naut. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Lo format"
+"Las cellulas son talament basicas e essencialas dins l'estudi de la vida, de fach, que son sovent denominadas ""los elements constitutius de la vida"".",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Las cellulas son talament basicas e essencialas dins l'estudi de la vida, de fach, que son sovent denominadas ""los elements constitutius de la vida"". 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+This sentence"
+Los fornisseires de VPN personals (ret privada virtuala) son un biais excellent de contornar a l'encòp la censura politica e lo geofiltratge IP comercial.,science/technology,politics,"<|begin_of_text|>SENTENCE:
+ Los fornisseires de VPN personals (ret privada virtuala) son un biais excellent de contornar a l'encòp la censura politica e lo geofiltratge IP comercial. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+This sentence"
+"L'estacion mantenguèt son actitud, en despièch de la pèrdia d'un giroscòpi anteriorament dins la mission de l'estacion espaciala, fins a la fin de la sortida dins l'espaci.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ L'estacion mantenguèt son actitud, en despièch de la pèrdia d'un giroscòpi anteriorament dins la mission de l'estacion espaciala, fins a la fin de la sortida dins l'espaci. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+This sentence"
+"Las gents qu'an aqueste tipe de pensada an una pensada logica, son capables de memorizar de modèls, de resòlvre de problèmas, e de trabalhar sus de test scientifics.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Las gents qu'an aqueste tipe de pensada an una pensada logica, son capables de memorizar de modèls, de resòlvre de problèmas, e de trabalhar sus de test scientifics. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+This sentence"
+"Los ocelòts aiman de manjar d'animals pichons. Se pòdon, agantaràn de moninas, de sèrps, de rosegaires e d'aucèls. Gaireben totes los animals que los ocelòts caçan son plan mai pichons qu'el.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Los ocelòts aiman de manjar d'animals pichons. Se pòdon, agantaràn de moninas, de sèrps, de rosegaires e d'aucèls. Gaireben totes los animals que los ocelòts caçan son plan mai pichons qu'el. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+DEFINITION:
+Ocel"
+"D'unes aparelhs fotografics de format mejan utilizan un format de 6 cm sus 6 cm, mai precisament un negatiu de 56 mm sus 56 mm.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ D'unes aparelhs fotografics de format mejan utilizan un format de 6 cm sus 6 cm, mai precisament un negatiu de 56 mm sus 56 mm. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+This sentence"
+Se conselha vivament als viatjaires d’èsser conscients de totas las riscas de meteorologia sevèra que pòsca afectar lor zòna estent que pòt afectar totes lors plans de viatge.,travel,travel,"<|begin_of_text|>SENTENCE:
+ Se conselha vivament als viatjaires d’èsser conscients de totas las riscas de meteorologia sevèra que pòsca afectar lor zòna estent que pòt afectar totes lors plans de viatge. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+ EXPLANATION:
+ This sentence"
+"Los buses partisson de l'estacion de bus entre districtes (a travèrs lo riu) long del jorn, e mai se la màger part, particularament aqueles que se dirigisson cap a l'èst e Jakar/Bumthang partisson entre 06:30 e 07:30.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Los buses partisson de l'estacion de bus entre districtes (a travèrs lo riu) long del jorn, e mai se la màger part, particularament aqueles que se dirigisson cap a l'èst e Jakar/Bumthang partisson entre 06:30 e 07:30. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+This sentence"
+Fornisson una estabilitat mai granda al cavalièr mas pòdon crear d'inquietuds de seguretat per encausa del potencial que los pès del cavalièr i demòren atrapats.,travel,science/technology,"<|begin_of_text|>SENTENCE:
+ Fornisson una estabilitat mai granda al cavalièr mas pòdon crear d'inquietuds de seguretat per encausa del potencial que los pès del cavalièr i demòren atrapats. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Aquest"
+"La màger part de las diferentas Baltic Cruises comprenon un sojorn long a Sant Petersborg, Russia.",travel,travel,"<|begin_of_text|>SENTENCE:
+ La màger part de las diferentas Baltic Cruises comprenon un sojorn long a Sant Petersborg, Russia. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+ REASONING: This sentence"
+"Aqueste conselh supausa que los viatjaires rauban pas, fan pas d'intrusions, participan pas a de mercats illegals, mendican pas o explòtan pas d'autras personas per lors pròpris beneficis.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Aqueste conselh supausa que los viatjaires rauban pas, fan pas d'intrusions, participan pas a de mercats illegals, mendican pas o explòtan pas d'autras personas per lors pròpris beneficis. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+This sentence"
+I a fòrça causas que vos cal considerar abans e quand viatjatz endacòm.,travel,travel,"<|begin_of_text|>SENTENCE:
+ I a fòrça causas que vos cal considerar abans e quand viatjatz endacòm. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Aquest"
+"Durant la calor de la jornada, los viatjaires pòdon veire de miratges que donan l’illusion d’aiga (o d’autras causas).",travel,science/technology,"<|begin_of_text|>SENTENCE:
+ Durant la calor de la jornada, los viatjaires pòdon veire de miratges que donan l’illusion d’aiga (o d’autras causas). 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+This sentence"
+"Las familhas amb d’enfants son un espectacle rar, mas qualques albèrgas los accèptan dins de cambras privadas.",travel,entertainment,"<|begin_of_text|>SENTENCE:
+ Las familhas amb d’enfants son un espectacle rar, mas qualques albèrgas los accèptan dins de cambras privadas. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+This"
+"Per exemple visitar los castèls de la val de Leire, de la val de Rin o anar en crosièra cap a de sits interessants sus Danubi o far de barca sul Canal Erie.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Per exemple visitar los castèls de la val de Leire, de la val de Rin o anar en crosièra cap a de sits interessants sus Danubi o far de barca sul Canal Erie. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+DEFINITION:
+This sentence"
+Pòt èsser melhor d’utilizar un agent que resèrva frequentament de viatges semblables als vòstres.,travel,travel,"<|begin_of_text|>SENTENCE:
+ Pòt èsser melhor d’utilizar un agent que resèrva frequentament de viatges semblables als vòstres. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+This sentence"
+Couchsurfing foguèt fondat en genièr de 2004 aprèp que lo programaire informatic Casey Fenton trobèt un vòl bon mercat per Islàndia mas aviá pas cap d'endrech ont demorar.,travel,travel,"<|begin_of_text|>SENTENCE:
+ Couchsurfing foguèt fondat en genièr de 2004 aprèp que lo programaire informatic Casey Fenton trobèt un vòl bon mercat per Islàndia mas aviá pas cap d'endrech ont demorar. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+DEFINITION:
+Couch"
+Los visas d'estudiants an generalament d'exigéncias e de proceduras de demanda diferentas dels visas de torisme o d'afars normals.,travel,travel,"<|begin_of_text|>SENTENCE:
+ Los visas d'estudiants an generalament d'exigéncias e de proceduras de demanda diferentas dels visas de torisme o d'afars normals. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+This sentence"
+Cada país a tanben sas leis unicas qu'exigisson quines objèctes d'urgéncia se devon trobar dins la veitura.,travel,travel,"<|begin_of_text|>SENTENCE:
+ Cada país a tanben sas leis unicas qu'exigisson quines objèctes d'urgéncia se devon trobar dins la veitura. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+This question"
+"E mai se la màger part de las agéncias son dispausadas a prendre en carga la màger part de las reservacions regularas, mantes agents s’especializan dins de tipes particulars de viatge, forquetas de budget o de destinacions.",travel,travel,"<|begin_of_text|>SENTENCE:
+ E mai se la màger part de las agéncias son dispausadas a prendre en carga la màger part de las reservacions regularas, mantes agents s’especializan dins de tipes particulars de viatge, forquetas de budget o de destinacions. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+ EXPLANATION:
+ This sentence"
+Los viatjaires pòdon encontrar de bèstias nosentas amb las que son pas familiarizats dins lors regions d’origina.,travel,travel,"<|begin_of_text|>SENTENCE:
+ Los viatjaires pòdon encontrar de bèstias nosentas amb las que son pas familiarizats dins lors regions d’origina. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+This sentence"
+"Dins lo nòrd tanben vos cal visitar lo grand Santuari de Nòstra Dòna de Fatima (lòc sant), un endrech d’aparicions marianas famosas mondialament.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Dins lo nòrd tanben vos cal visitar lo grand Santuari de Nòstra Dòna de Fatima (lòc sant), un endrech d’aparicions marianas famosas mondialament. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The SENT"
+Se pòt utilizar un boda-boda (un taxi motocicleta) per far lo torn de Goma. Lo prètz normal (local) es de ~500 francs congoleses per una corsa corta.,travel,travel,"<|begin_of_text|>SENTENCE:
+ Se pòt utilizar un boda-boda (un taxi motocicleta) per far lo torn de Goma. Lo prètz normal (local) es de ~500 francs congoleses per una corsa corta. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+DEFINITION:
+Boda"
+"Per aqueles que lor agrada de far d'activitats exterioras, una excursion fins al corridor Mar a Cèl es essenciala.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Per aqueles que lor agrada de far d'activitats exterioras, una excursion fins al corridor Mar a Cèl es essenciala. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+ EXPLANATION:
+ This sentence"
+"Un safari a pè (tanben sonat ""caminada dins lo bush"", ""safari excursion"", o far de ""footing"") consistís a caminar, siá durant qualques oras o mantes jorns.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Un safari a pè (tanben sonat ""caminada dins lo bush"", ""safari excursion"", o far de ""footing"") consistís a caminar, siá durant qualques oras o mantes jorns. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+DEFINITION:
+Un safari"
+"Lo solet biais d'o far passar mai rapidament èra d'o enviar coma bagatge dins la mala. Las regulacions de las companhiás aerianas permetrà pas d'enviar de bagatges sens un passatgièr, que es ont intratz.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Lo solet biais d'o far passar mai rapidament èra d'o enviar coma bagatge dins la mala. Las regulacions de las companhiás aerianas permetrà pas d'enviar de bagatges sens un passatgièr, que es ont intratz. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Aquest"
+300 de mai pòrta lo total a 1 300 vagons a èsser aquesits per aleugerir las subrecargas de gents.,travel,geography,"<|begin_of_text|>SENTENCE:
+ 300 de mai pòrta lo total a 1 300 vagons a èsser aquesits per aleugerir las subrecargas de gents. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+A"
+"Las familhas amb d’enfants pichonets pòdon aver mestièr de mai de preparacion, mas un jorn a l'exterior es aisidament possible e mai amb de nenons e los enfants d'edat preescolara.",travel,health,"<|begin_of_text|>SENTENCE:
+ Las familhas amb d’enfants pichonets pòdon aver mestièr de mai de preparacion, mas un jorn a l'exterior es aisidament possible e mai amb de nenons e los enfants d'edat preescolara. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health 
+-EXPLANATION:
+This sentence"
+"Los que son a mand de conduire a de latituds nautas o sus de còls de montanha deurián pensar a la possibilitat de trobar de nèu, de glaç, o de temperaturas glacialas.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Los que son a mand de conduire a de latituds nautas o sus de còls de montanha deurián pensar a la possibilitat de trobar de nèu, de glaç, o de temperaturas glacialas. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+This sentence"
+"Uèi, Timboctó es una vila empaurida, e mai se sa reputacion ne faga una atraccion toristica, e a un aeropòrt.",travel,geography,"<|begin_of_text|>SENTENCE:
+ Uèi, Timboctó es una vila empaurida, e mai se sa reputacion ne faga una atraccion toristica, e a un aeropòrt. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+ The"
+"Pendent los blizzards, pro de nèu per vos immobilizar pòt tombar en plan pauc de temps.",travel,geography,"<|begin_of_text|>SENTENCE:
+ Pendent los blizzards, pro de nèu per vos immobilizar pòt tombar en plan pauc de temps. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+This"
+"Se volètz volar a travèrs del mond completament dins l'emisfèri sud, la causida dels vòls e de las destinacions es limitada per encausa de la manca de rotas transoceanicas.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Se volètz volar a travèrs del mond completament dins l'emisfèri sud, la causida dels vòls e de las destinacions es limitada per encausa de la manca de rotas transoceanicas. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+ EXPLANATION:
+ This sentence"
+"De companhiás aerianas coma Emirates, Etihad Airways, Qatar Airways e Turkish Airlines an espandit grandament sos servicis devers Africa, e prepausan de correspondéncias a maitas vilas importantas africanas a de tarifas mai competitivas que d’autras vilas europèas.",travel,travel,"<|begin_of_text|>SENTENCE:
+ De companhiás aerianas coma Emirates, Etihad Airways, Qatar Airways e Turkish Airlines an espandit grandament sos servicis devers Africa, e prepausan de correspondéncias a maitas vilas importantas africanas a de tarifas mai competitivas que d’autras vilas europèas. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+ DETAILED ANSWER:
+"
+Pas cap de transpòrt suplementari es ajustat e los trens de susfàcia s'arrestaràn pas a Wembley e lo parcatge e las installacions de parcatges relais son indisponibles sul sòl.,travel,travel,"<|begin_of_text|>SENTENCE:
+ Pas cap de transpòrt suplementari es ajustat e los trens de susfàcia s'arrestaràn pas a Wembley e lo parcatge e las installacions de parcatges relais son indisponibles sul sòl. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Aquest"
+"En general, demorar dins tot país estrangièr durant un periòde plan long de temps vos demandarà d’obtenir un visa en avança.",travel,travel,"<|begin_of_text|>SENTENCE:
+ En general, demorar dins tot país estrangièr durant un periòde plan long de temps vos demandarà d’obtenir un visa en avança. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+This sentence"
+Totes los trens an a l’encòp de vagons MetroPlus e Metro; los vagons MetroPlus son totjorn a la fin del tren la mai pròcha de la vila del Cap.,travel,travel,"<|begin_of_text|>SENTENCE:
+ Totes los trens an a l’encòp de vagons MetroPlus e Metro; los vagons MetroPlus son totjorn a la fin del tren la mai pròcha de la vila del Cap. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Aquest"
+Tot lo monde participa a la societat e utiliza de sistèmas de transpòrt. Gaireben tot lo monde se planh dels sistèmas de transpòrt.,travel,travel,"<|begin_of_text|>SENTENCE:
+ Tot lo monde participa a la societat e utiliza de sistèmas de transpòrt. Gaireben tot lo monde se planh dels sistèmas de transpòrt. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Aquest"
+"Estant que los airals son escassament poblats, e la pollucion luminosa per consequent sovent pas un problèma, seretz tanben capables de profechar de las estelas.",travel,science/technology,"<|begin_of_text|>SENTENCE:
+ Estant que los airals son escassament poblats, e la pollucion luminosa per consequent sovent pas un problèma, seretz tanben capables de profechar de las estelas. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+This sentence"
+Las exigéncias de visa e los prèses vàrian d’una nacion a l’autra e son afectats pel país d’ont venètz.,travel,politics,"<|begin_of_text|>SENTENCE:
+ Las exigéncias de visa e los prèses vàrian d’una nacion a l’autra e son afectats pel país d’ont venètz. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+This sentence"
+"En general, i a pas cap d'utilitat a cercar de reduccions per de sètis en classa d'afars o en primièra classa suls vòls dirèctes del ponch A a B.",travel,travel,"<|begin_of_text|>SENTENCE:
+ En general, i a pas cap d'utilitat a cercar de reduccions per de sètis en classa d'afars o en primièra classa suls vòls dirèctes del ponch A a B. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+This sentence"
+Lo lançament de bomerang es una competéncia populara que mantes toristas vòlon aquesir.,travel,travel,"<|begin_of_text|>SENTENCE:
+ Lo lançament de bomerang es una competéncia populara que mantes toristas vòlon aquesir. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+REASONING SKILL:
+"
+Aqueste vòl es pas la soleta opcion se volètz sautar lo Pacific Sud e la còsta occidentala d’America del Sud. (veire çai-jos),travel,travel,"<|begin_of_text|>SENTENCE:
+ Aqueste vòl es pas la soleta opcion se volètz sautar lo Pacific Sud e la còsta occidentala d’America del Sud. (veire çai-jos) 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The sentence"
+"San Francisco a desvolopat una infrastructura toristica importanta amb de nombroses otèls, restaurants, e d'installacions pels congrèsses de primièr òrdre.",travel,travel,"<|begin_of_text|>SENTENCE:
+ San Francisco a desvolopat una infrastructura toristica importanta amb de nombroses otèls, restaurants, e d'installacions pels congrèsses de primièr òrdre. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+ EXPLANATION:
+ Aquest"
+Far de volontariat mentre que viatjam es un biais fantastic de crear la diferéncia mas s'agís pas sonque de donar.,travel,travel,"<|begin_of_text|>SENTENCE:
+ Far de volontariat mentre que viatjam es un biais fantastic de crear la diferéncia mas s'agís pas sonque de donar. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+This sentence"
+Es possible que las gents anticipen pas que la paciéncia e la compreneson son tanben necessàrias pels viatjaires que tornan en cò sieu.,travel,travel,"<|begin_of_text|>SENTENCE:
+ Es possible que las gents anticipen pas que la paciéncia e la compreneson son tanben necessàrias pels viatjaires que tornan en cò sieu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+This sentence"
+"Vos cal pas oblidar d'ajustar los còstes suplementaris dels visas addicionals, las taxas de partença, los transpòrts terrèstres, etc. per totes aqueles endreches en defòra d'Africa.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Vos cal pas oblidar d'ajustar los còstes suplementaris dels visas addicionals, las taxas de partença, los transpòrts terrèstres, etc. per totes aqueles endreches en defòra d'Africa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+ EXPLANATION:
+ This sentence"
+Divèrses abitants de Bishkek blasmèron los manifestants del sud per l'anarquia.,politics,politics,"<|begin_of_text|>SENTENCE:
+ Divèrses abitants de Bishkek blasmèron los manifestants del sud per l'anarquia. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+This sentence"
+Qualques parts actualas de Belgica èran de parts de Luxemborg dins lo passat mas venguèron bèlgas aprèp la revolucion bèlga de las annadas 1830.,politics,geography,"<|begin_of_text|>SENTENCE:
+ Qualques parts actualas de Belgica èran de parts de Luxemborg dins lo passat mas venguèron bèlgas aprèp la revolucion bèlga de las annadas 1830. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+La"
+"Dempuèi 1988, las urnas devon èsser transparentas per tal que los votaires e los observadors pòscan testimoniar que cap d'envolopa èra presenta al començament de la votacion e que cap d'envolopa foguèt aponduda manca aquelas dels electors degudament comptats e autorizats.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Dempuèi 1988, las urnas devon èsser transparentas per tal que los votaires e los observadors pòscan testimoniar que cap d'envolopa èra presenta al començament de la votacion e que cap d'envolopa foguèt aponduda manca aquelas dels electors degudament comptats e autorizats. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+Aquest"
+La Primièra ministra interina Julia Gillard a reinvindicat durant la campanha de las eleccions federalas de 2010 que cresiá qu'Austràlia deviá venir una republica a la fin del regne de la Reina Elisabèt II.,politics,politics,"<|begin_of_text|>SENTENCE:
+ La Primièra ministra interina Julia Gillard a reinvindicat durant la campanha de las eleccions federalas de 2010 que cresiá qu'Austràlia deviá venir una republica a la fin del regne de la Reina Elisabèt II. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+politics
+ DETAILED ANSWER:
+"
+Lo govèrn irlandés insistís sus l'urgéncia d'una legislacion parlamentària per rectificar la situacion.,politics,politics,"<|begin_of_text|>SENTENCE:
+ Lo govèrn irlandés insistís sus l'urgéncia d'una legislacion parlamentària per rectificar la situacion. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+Aquest"
+De disputas diplomaticas a prepaus de la region contunhan de maganhar las relacions entre Armènia e Azerbaitjan.,politics,politics,"<|begin_of_text|>SENTENCE:
+ De disputas diplomaticas a prepaus de la region contunhan de maganhar las relacions entre Armènia e Azerbaitjan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+The sentence"
+"Lo primièr ministre Stephen Harper a donat son acòrd per enviar lo 'Clean Air Act' del govèrn a un comitat amb totes los partits per lo revisar, abans sa segonda lectura, aprèp una reünion de 25 minutas de dimars amb lo cap del NDP Jack Layton al PMO.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Lo primièr ministre Stephen Harper a donat son acòrd per enviar lo 'Clean Air Act' del govèrn a un comitat amb totes los partits per lo revisar, abans sa segonda lectura, aprèp una reünion de 25 minutas de dimars amb lo cap del NDP Jack Layton al PMO. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+DEFINITION:
+Lo prim"
+"Lo mes passat, i aviá de manifestacions importantas en Polonha quand lo país signèt l'ACTA, çò qu'a portat lo govèrn polonés a decidir de ratificar pas l'acòrd, per ara.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Lo mes passat, i aviá de manifestacions importantas en Polonha quand lo país signèt l'ACTA, çò qu'a portat lo govèrn polonés a decidir de ratificar pas l'acòrd, per ara. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+ DETAILED ANSWER:
+"
+Los conselhs de viatge son simplament un resumit brèu de la situacion politica dins un país.,politics,travel,"<|begin_of_text|>SENTENCE:
+ Los conselhs de viatge son simplament un resumit brèu de la situacion politica dins un país. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+ REASONING SKILL:"
+"Durant las seleccions de 1976 conselhèt Carter sus la politica estrangièra, puèi serviguèt coma Conselhièr Nacional a la Seguretat (NSA) de 1977 a 1981, succediguent a Henry Kissinger.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Durant las seleccions de 1976 conselhèt Carter sus la politica estrangièra, puèi serviguèt coma Conselhièr Nacional a la Seguretat (NSA) de 1977 a 1981, succediguent a Henry Kissinger. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+politics
+EXPLANATION:
+Aquest"
+"Turquia se trachariá tanben de la garda dels combatents d’ISIS capturats que, coma o diguèt la declaracion, las nacions europèas an refusat de repatriar.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Turquia se trachariá tanben de la garda dels combatents d’ISIS capturats que, coma o diguèt la declaracion, las nacions europèas an refusat de repatriar. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+This sentence"
+"Pasmens, aquestes plans venguèron obsolèts gaireben pendent la meteissa nuèch, quand mai de 800.000 soldats de l'Armada roja de l'Union sovietica intrèron e creèron los fronts bielorús e ucraïnian aprèp l'invasion de las regions orientalas de Polonha en violacion del Tractat de patz de Riga, lo Pacte de non-agression sovietopolonés, e d'autres tractats internacionals, a l'encòp bilaterals e multilaterals.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Pasmens, aquestes plans venguèron obsolèts gaireben pendent la meteissa nuèch, quand mai de 800.000 soldats de l'Armada roja de l'Union sovietica intrèron e creèron los fronts bielorús e ucraïnian aprèp l'invasion de las regions orientalas de Polonha en violacion del Tractat de patz de Riga, lo Pacte de non-agression sovietopolonés, e d'autres tractats internacionals, a l'encòp bilaterals e multilaterals. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+Aquest"
+"En seguida del procès, HJR-3 serà examinat tornarmai per la legislatura elegida venenta si en 2015 o 2016 per demorar en procès.",politics,politics,"<|begin_of_text|>SENTENCE:
+ En seguida del procès, HJR-3 serà examinat tornarmai per la legislatura elegida venenta si en 2015 o 2016 per demorar en procès. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+This SENT"
+"Aprèp son adopcion pel Congrès lo 4 de julh, un borrolhon escrich a man signat pel President del Congrès John Hancock e lo Secretari Charles Thomson foguèt puèi mandat qualques blòcs mai luènh a l'estampariá de John Dunlap.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Aprèp son adopcion pel Congrès lo 4 de julh, un borrolhon escrich a man signat pel President del Congrès John Hancock e lo Secretari Charles Thomson foguèt puèi mandat qualques blòcs mai luènh a l'estampariá de John Dunlap. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+politics
+EXPLANATION:
+Aprè"
+"Just aprèp 11 oras, los protestaires bloquèron la circulacion sus la via que va al nòrd a Whitehall.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Just aprèp 11 oras, los protestaires bloquèron la circulacion sus la via que va al nòrd a Whitehall. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+This sentence"
+"Pasmens, en junh de 1956, las promesas de Khroshchòv foguèron mesas a l'espròva quand de susmautas en Polonha, ont los trabalhadors manifestavan contra las penurias alimentàrias e las talhadas de salaris, se transformèron en una manifestacion generala contra lo comunisme.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Pasmens, en junh de 1956, las promesas de Khroshchòv foguèron mesas a l'espròva quand de susmautas en Polonha, ont los trabalhadors manifestavan contra las penurias alimentàrias e las talhadas de salaris, se transformèron en una manifestacion generala contra lo comunisme. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+Aquest"
+"Deviá durar pendent las 40 annadas seguentas e seriá combatuda per debon, amb d'armadas de procuracion, sus de camps de batalha dempuèi Africa fins a Àsia, en Afganistan, a Cuba e dins fòrça autres endreches.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Deviá durar pendent las 40 annadas seguentas e seriá combatuda per debon, amb d'armadas de procuracion, sus de camps de batalha dempuèi Africa fins a Àsia, en Afganistan, a Cuba e dins fòrça autres endreches. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+This sentence"
+Lo mes passat una comission presidenciala recomandèt la demission de l'anterior CEP coma part del paquet de mesuras que menaràn lo país cap a de novèlas eleccions.,politics,politics,"<|begin_of_text|>SENTENCE:
+ Lo mes passat una comission presidenciala recomandèt la demission de l'anterior CEP coma part del paquet de mesuras que menaràn lo país cap a de novèlas eleccions. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+The SENT"
+D'autres tèmas que serián estats tractats comprenon lo futur estat de Jerusalèm qu'es sagrat per totas doas nacions e lo problèma de la val de Jordan.,politics,politics,"<|begin_of_text|>SENTENCE:
+ D'autres tèmas que serián estats tractats comprenon lo futur estat de Jerusalèm qu'es sagrat per totas doas nacions e lo problèma de la val de Jordan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+This sentence"
+Aviá pas tanpauc cap d'autoritat per otrapassar las leis fiscalas e las tarifas entre los estats.,politics,politics,"<|begin_of_text|>SENTENCE:
+ Aviá pas tanpauc cap d'autoritat per otrapassar las leis fiscalas e las tarifas entre los estats. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+This sentence"
+La lei electorala francesa codifica puslèu estrictament las proceduras.,politics,politics,"<|begin_of_text|>SENTENCE:
+ La lei electorala francesa codifica puslèu estrictament las proceduras. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+The sentence"
+"Après una setmana de desfachas pendent las eleccions de mièg-percors, Bush assabentèt lo public de l'expansion del comèrci en Asia.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Après una setmana de desfachas pendent las eleccions de mièg-percors, Bush assabentèt lo public de l'expansion del comèrci en Asia. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+Aquest"
+"L'estrategia se mostrèt eficaça, copant los provesiments militars e civils vitals, encara que lo blocatge aguèsse violat lo drech internacional generalament acceptat codificat per divèrses acòrdis internacionals dels dos darrièrs sègles.",politics,politics,"<|begin_of_text|>SENTENCE:
+ L'estrategia se mostrèt eficaça, copant los provesiments militars e civils vitals, encara que lo blocatge aguèsse violat lo drech internacional generalament acceptat codificat per divèrses acòrdis internacionals dels dos darrièrs sègles. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+L'"
+De ligams economics son estats reestablits entre aquestas doas partidas de Moldàvia malgrat lo fracàs de las negociacions politicas.,politics,politics,"<|begin_of_text|>SENTENCE:
+ De ligams economics son estats reestablits entre aquestas doas partidas de Moldàvia malgrat lo fracàs de las negociacions politicas. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+This sentence"
+"Acompanhat per aqueles oficials, assegurèt als ciutadans de Tèxas que de mesuras èran presas per protegir la seguretat del public.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Acompanhat per aqueles oficials, assegurèt als ciutadans de Tèxas que de mesuras èran presas per protegir la seguretat del public. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+Aquest"
+La critica liberala de l'esfòrç de reconstruccion s'es centrada sus l'atribucion dels contractes de reconstruccion a de personas percebudas coma pròchas del poder a Washington.,politics,politics,"<|begin_of_text|>SENTENCE:
+ La critica liberala de l'esfòrç de reconstruccion s'es centrada sus l'atribucion dels contractes de reconstruccion a de personas percebudas coma pròchas del poder a Washington. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+ Aquest"
+"De las 1400 personas que foguèron sondejadas abans las eleccions federalas de 2010, las que s'opausavan a çò qu'Austràlia venguèsse una republica aumentèt de 8 per cent dempuèi 2008.",politics,politics,"<|begin_of_text|>SENTENCE:
+ De las 1400 personas que foguèron sondejadas abans las eleccions federalas de 2010, las que s'opausavan a çò qu'Austràlia venguèsse una republica aumentèt de 8 per cent dempuèi 2008. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+ DETAILED ANSWER:
+"
+Los diplomatas afirmèron qu'avián trobat pro d'ambigüitat dins la constitucion afgana per determinar que lo segond torn èra pas necessari.,politics,politics,"<|begin_of_text|>SENTENCE:
+ Los diplomatas afirmèron qu'avián trobat pro d'ambigüitat dins la constitucion afgana per determinar que lo segond torn èra pas necessari. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+Los diplom"
+"Aprèp que los resultats arribèssen, Gingrich felicitèt Santorum, mas aguèt de mots durs per Romney, al nom del qual de publicitats de campanha negatius foguèron difusats en Iowa contra Gingrich.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Aprèp que los resultats arribèssen, Gingrich felicitèt Santorum, mas aguèt de mots durs per Romney, al nom del qual de publicitats de campanha negatius foguèron difusats en Iowa contra Gingrich. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+politics
+EXPLANATION:
+The SENT"
+Es lo cinquen CEP de Martelly en quatre ans.,politics,politics,"<|begin_of_text|>SENTENCE:
+ Es lo cinquen CEP de Martelly en quatre ans. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+This sentence"
+"Lo medalhat d'aur olimpic deviá nadar dins las categorias dels 100 e 200 mètres liures e a tres relèus als Jòcs del Commonwealth, mas per encausa de sos planhs, sa forma fisica es estada mesa en dobte.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Lo medalhat d'aur olimpic deviá nadar dins las categorias dels 100 e 200 mètres liures e a tres relèus als Jòcs del Commonwealth, mas per encausa de sos planhs, sa forma fisica es estada mesa en dobte. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+Aquest"
+"A mai d'èsser un ancian campion olimpic e mondial, Saito èra lo director del comitat de formacion de la Federacion japonesa de judo al moment de sa mòrt.",sports,sports,"<|begin_of_text|>SENTENCE:
+ A mai d'èsser un ancian campion olimpic e mondial, Saito èra lo director del comitat de formacion de la Federacion japonesa de judo al moment de sa mòrt. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+Aquest"
+"Lo Comitat Olimpic Internacional a votat per inclure los espòrts a la reünion de son conselh executiu a Berlin uèi. Lo rugbi, especificament lo rugbi a XV e lo gòlf son estats seleccionats demest cinc autres espòrts per èsser considerats coma de participants als Jòcs Olimpics.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Lo Comitat Olimpic Internacional a votat per inclure los espòrts a la reünion de son conselh executiu a Berlin uèi. Lo rugbi, especificament lo rugbi a XV e lo gòlf son estats seleccionats demest cinc autres espòrts per èsser considerats coma de participants als Jòcs Olimpics. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+sports
+ DETAILED ANSWER:
+ A"
+Lo torneg mai important de l'an se debana en decembre als terrenhs de pòlo a Las Cañitas.,sports,sports,"<|begin_of_text|>SENTENCE:
+ Lo torneg mai important de l'an se debana en decembre als terrenhs de pòlo a Las Cañitas. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+Aquest"
+"Dempuèi son installacion dins la capitala catalana, Vidal a jogat 49 partidas amb lo club.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Dempuèi son installacion dins la capitala catalana, Vidal a jogat 49 partidas amb lo club. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+Aquest"
+"Mantenir un equilibri salutari d'energia, en metre en practica d'abituds d'idratacion eficaças, tot en comprendre los divèrses aspèctes de practicas de suplementacion pòt ajudar los atlètas a melhorar lors performàncias e aumentar lor plaser de l'espòrt.",sports,health,"<|begin_of_text|>SENTENCE:
+ Mantenir un equilibri salutari d'energia, en metre en practica d'abituds d'idratacion eficaças, tot en comprendre los divèrses aspèctes de practicas de suplementacion pòt ajudar los atlètas a melhorar lors performàncias e aumentar lor plaser de l'espòrt. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health
+ EXPLANATION:
+ This sentence is"
+"Arribat tresen, Hamlin es darrièr de vint ponches, mas n'a cinc davant Bowyer. Kahne e Truex, Jr. son cinquen e sieisen respectivament amb 2 220 e 2 207 ponches.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Arribat tresen, Hamlin es darrièr de vint ponches, mas n'a cinc davant Bowyer. Kahne e Truex, Jr. son cinquen e sieisen respectivament amb 2 220 e 2 207 ponches. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+ EXPLANATION:
+ This SENT"
+Lo recòrd cap a cap de Nadal contra lo canadian es de 7–2.,sports,sports,"<|begin_of_text|>SENTENCE:
+ Lo recòrd cap a cap de Nadal contra lo canadian es de 7–2. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports 
+REASONING SKILL: This question"
+Jarque èra a s'entrainar pendent l'entrainament de presason a Coverciano en Itàlia al començament de la jornada. Demorava dins l'otèl de l'equipa abans una partida qu'èra prevista dimenge contra Bolonha.,sports,sports,"<|begin_of_text|>SENTENCE:
+ Jarque èra a s'entrainar pendent l'entrainament de presason a Coverciano en Itàlia al començament de la jornada. Demorava dins l'otèl de l'equipa abans una partida qu'èra prevista dimenge contra Bolonha. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+sports
+EXPLANATION:
+Aquesta"
+La paur de manca de transpòrts soslevèt la possibilitat que seriá obligat de jogar la partida a pòrtas barradas sens los partisans de l’equipa.,sports,sports,"<|begin_of_text|>SENTENCE:
+ La paur de manca de transpòrts soslevèt la possibilitat que seriá obligat de jogar la partida a pòrtas barradas sens los partisans de l’equipa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+La p"
+"Tommy Dreamer diguèt ""Luna foguèt la primièra reina d’Extreme. Ma primièra manatgièra. Luna trespassèt la nuèch de las doas lunas. Es vertadièrament unic just coma ela. Una femna fòrta.""",sports,entertainment,"<|begin_of_text|>SENTENCE:
+ Tommy Dreamer diguèt ""Luna foguèt la primièra reina d’Extreme. Ma primièra manatgièra. Luna trespassèt la nuèch de las doas lunas. Es vertadièrament unic just coma ela. Una femna fòrta."" 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+The"
+L'esquiaire polonés andicapat visual Maciej Krezel e sa guida Anna Ogarzynska acabèron tretzens del Super-G. Lo sud-corean Jong Seork Park acabèt vint-e-quatren dins lo Super-G masculin d'esquiaires en lièja.,sports,sports,"<|begin_of_text|>SENTENCE:
+ L'esquiaire polonés andicapat visual Maciej Krezel e sa guida Anna Ogarzynska acabèron tretzens del Super-G. Lo sud-corean Jong Seork Park acabèt vint-e-quatren dins lo Super-G masculin d'esquiaires en lièja. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+ EXPLANATION:
+ This SENT"
+"Per aver de nòvas suls torneges e saber ont crompar las tickets per las partidas de pòlo, visitatz Asociación Argentina de Polo.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Per aver de nòvas suls torneges e saber ont crompar las tickets per las partidas de pòlo, visitatz Asociación Argentina de Polo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+The sentence"
+"Las partidas comencèron a 10:00 del matin jos un temps excellent e, a part d'una plogina a la mitat de la matinada que se dissipèt lèu, foguèt un jorn perfièch pel rugbi a sèt.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Las partidas comencèron a 10:00 del matin jos un temps excellent e, a part d'una plogina a la mitat de la matinada que se dissipèt lèu, foguèt un jorn perfièch pel rugbi a sèt. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+The sentence"
+Arly Velasquez de Mexic acabèt quinzen dins lo Super-G masculin. Adam Hall de Nòva Zelanda acabèt noven dins lo palmarès del Super-G masculin.,sports,sports,"<|begin_of_text|>SENTENCE:
+ Arly Velasquez de Mexic acabèt quinzen dins lo Super-G masculin. Adam Hall de Nòva Zelanda acabèt noven dins lo palmarès del Super-G masculin. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+This SENT"
+"La partida finala de las sèrias se debanarà a Ellis Park a Johannesburg la setmana que ven, quand los Springboks jogaràn contra Austràlia.",sports,sports,"<|begin_of_text|>SENTENCE:
+ La partida finala de las sèrias se debanarà a Ellis Park a Johannesburg la setmana que ven, quand los Springboks jogaràn contra Austràlia. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+sports
+EXPLANATION:
+ Aquesta"
+Dins de condicions bonas podretz percórrer de distàncias relativament mai grandas qu’en caminar – mas sonque fòrça rarament arribaretz a las velocitats de l'esquí de fons sens una saca pesuga dins de pistas damadas.,sports,travel,"<|begin_of_text|>SENTENCE:
+ Dins de condicions bonas podretz percórrer de distàncias relativament mai grandas qu’en caminar – mas sonque fòrça rarament arribaretz a las velocitats de l'esquí de fons sens una saca pesuga dins de pistas damadas. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Aquest"
+"Amb sèt ponches darrièr, Johnson es segond amb 2 243 ponches.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Amb sèt ponches darrièr, Johnson es segond amb 2 243 ponches. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+Aquest"
+"Lo canyoning (o: canyoneering) es lo fach de davalar al fons d'un canyon, qu'es o sec o plen d'aiga.",sports,travel,"<|begin_of_text|>SENTENCE:
+ Lo canyoning (o: canyoneering) es lo fach de davalar al fons d'un canyon, qu'es o sec o plen d'aiga. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+DEFINITION:
+Cany"
+"Robin Uthappa a obtengut los resultats mai elevats de la partida, 70 ponches en sonque 41 balas en ne tustant 11 de quatre e 2 de sièis.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Robin Uthappa a obtengut los resultats mai elevats de la partida, 70 ponches en sonque 41 balas en ne tustant 11 de quatre e 2 de sièis. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+ EXPLANATION:
+ Aquest"
+"Los espòrts d’ivèrn son mai populars dins las regions septentrionalas, amb d’italians que participan als jòcs internacionals e als eveniments olimpics.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Los espòrts d’ivèrn son mai populars dins las regions septentrionalas, amb d’italians que participan als jòcs internacionals e als eveniments olimpics. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+sports
+EXPLANATION:
+This sentence is"
+"Maroochydore aviá acabat a la cima de l'escala, amb sièis ponches d'avança sus Noosa lo segond.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Maroochydore aviá acabat a la cima de l'escala, amb sièis ponches d'avança sus Noosa lo segond. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+Aquest"
+"Michael Schumacher terminèt sa corsa pas longtemps aprèp Alonso, per encausa dels damatges de la suspension deguts a las batalhas nombrosas pendent la corsa.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Michael Schumacher terminèt sa corsa pas longtemps aprèp Alonso, per encausa dels damatges de la suspension deguts a las batalhas nombrosas pendent la corsa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+The SENT"
+"De bonas practicas nutricionalas soletas pòdon pas generar de performanças d'elita, mas pòdon afectar significativament lo benésser general dels joves atlètas.",sports,health,"<|begin_of_text|>SENTENCE:
+ De bonas practicas nutricionalas soletas pòdon pas generar de performanças d'elita, mas pòdon afectar significativament lo benésser general dels joves atlètas. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health
+EXPLANATION:
+This sentence is"
+Es estat incapable de prendre los medicaments necessaris per subremontar sa dolor estent qu’èran enebits pels Jòcs.,sports,health,"<|begin_of_text|>SENTENCE:
+ Es estat incapable de prendre los medicaments necessaris per subremontar sa dolor estent qu’èran enebits pels Jòcs. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+health
+EXPLANATION:
+This sentence is"
+La recerca a trobat que las femnas an dos còps mai de probabilitats d'aver l'escleròsi multipla que los òmes.,health,health,"<|begin_of_text|>SENTENCE:
+ La recerca a trobat que las femnas an dos còps mai de probabilitats d'aver l'escleròsi multipla que los òmes. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: health 
+-EXPLANATION:
+This sentence is"
+"Los espiritoses illegals pòdon contenir divèrsas impuretats perilhosas, comprenent lo metanòl, que pòt provocar la cecitat o la mòrt e mai amb de dòsis pichonas.",health,health,"<|begin_of_text|>SENTENCE:
+ Los espiritoses illegals pòdon contenir divèrsas impuretats perilhosas, comprenent lo metanòl, que pòt provocar la cecitat o la mòrt e mai amb de dòsis pichonas. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health
+EXPLANATION:
+This sentence is"
+"Sonque los efièches del catastrofisme, e non pas la depression e la paur, èran condicionals de las sessions setmanièras estructuradas e regularas d'AP.",health,health,"<|begin_of_text|>SENTENCE:
+ Sonque los efièches del catastrofisme, e non pas la depression e la paur, èran condicionals de las sessions setmanièras estructuradas e regularas d'AP. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health
+EXPLANATION:
+This sentence is"
+"La possession en massa de veituras mena tanben a una incidéncia mai granda d'accidents de la rota, çò que pòrta a l'invencion de novèlas tecnicas de suènh per reparar los damatges corporals.",health,health,"<|begin_of_text|>SENTENCE:
+ La possession en massa de veituras mena tanben a una incidéncia mai granda d'accidents de la rota, çò que pòrta a l'invencion de novèlas tecnicas de suènh per reparar los damatges corporals. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health
+EXPLANATION:
+Aquesta"
+"Los cercaires principals afirman qu'aquò pòt portar a una deteccion precòça del cancèr, de la tuberculòsi, del SIDA e de la malària en çò dels pacients dels païses de revenguts febles, ont lo taus de subrevida per de malautiás coma lo cancèr del pitre pòt representar la mitat del dels païses mai rics.",health,health,"<|begin_of_text|>SENTENCE:
+ Los cercaires principals afirman qu'aquò pòt portar a una deteccion precòça del cancèr, de la tuberculòsi, del SIDA e de la malària en çò dels pacients dels païses de revenguts febles, ont lo taus de subrevida per de malautiás coma lo cancèr del pitre pòt representar la mitat del dels païses mai rics. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health
+EXPLANATION:
+This sentence is"
+"Lo Dr. Ehud Ur, professor de medecina a l'Universitat Dalhousie a Halifax, Nòva Escòcia e director de la division clinica e scientifica de l'Associacion Canadiana del Diabèta metèt en garda que la recerca es encara a sos primièrs jorns.",health,health,"<|begin_of_text|>SENTENCE:
+ Lo Dr. Ehud Ur, professor de medecina a l'Universitat Dalhousie a Halifax, Nòva Escòcia e director de la division clinica e scientifica de l'Associacion Canadiana del Diabèta metèt en garda que la recerca es encara a sos primièrs jorns. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health
+ REASONS:
+- The word"
+"Aquestes enfants tendon a aver fòrça problèmas, perque ""an de comportaments a risca, cercan de bregas e desfison l'autoritat"" per tal d'estimular son cervèl, estant que son cervèl pòt pas èsser estimulat amb de metòdes normals.",health,health,"<|begin_of_text|>SENTENCE:
+ Aquestes enfants tendon a aver fòrça problèmas, perque ""an de comportaments a risca, cercan de bregas e desfison l'autoritat"" per tal d'estimular son cervèl, estant que son cervèl pòt pas èsser estimulat amb de metòdes normals. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health
+EXPLANATION:
+This sentence is"
+Los umans pòdon èsser afectats quand respiran d'aiga afectada portada dins l'aire pel vent e las èrsas.,health,health,"<|begin_of_text|>SENTENCE:
+ Los umans pòdon èsser afectats quand respiran d'aiga afectada portada dins l'aire pel vent e las èrsas. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health
+EXPLANATION:
+This sentence is"
+Qualques personas creson que far l'experiéncia de mantes sòmis lucids induches artificialament pro sovent pòt representar una granda lassièra.,health,science/technology,"<|begin_of_text|>SENTENCE:
+ Qualques personas creson que far l'experiéncia de mantes sòmis lucids induches artificialament pro sovent pòt representar una granda lassièra. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+This sentence"
+Potro recebèt un tractament per son espatla a aqueste estadi mas capitèt de tornar al jòc.,health,sports,"<|begin_of_text|>SENTENCE:
+ Potro recebèt un tractament per son espatla a aqueste estadi mas capitèt de tornar al jòc. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+The word"
+"A mai, o far pas a de consequéncias grèvas: trebolaments de creissença, malnutricion, e finalament la mòrt.",health,health,"<|begin_of_text|>SENTENCE:
+ A mai, o far pas a de consequéncias grèvas: trebolaments de creissença, malnutricion, e finalament la mòrt. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health
+EXPLANATION:
+This sentence is"
+De representants de la vila d'Amsterdam e lo Musèu Anne Frank afirman que l'arbre es infectat per un fong e pausa de problèmas de santat publica que sostenon qu'èra en perilh imminent de tombar.,health,health,"<|begin_of_text|>SENTENCE:
+ De representants de la vila d'Amsterdam e lo Musèu Anne Frank afirman que l'arbre es infectat per un fong e pausa de problèmas de santat publica que sostenon qu'èra en perilh imminent de tombar. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health
+EXPLANATION:
+Aquesta"
+"L'espital a seguit lo protocòl de contraròtle de l'infeccion, inclusa la separacion del pacient dels autres per evitar una possibla infeccion d'autras personas.",health,health,"<|begin_of_text|>SENTENCE:
+ L'espital a seguit lo protocòl de contraròtle de l'infeccion, inclusa la separacion del pacient dels autres per evitar una possibla infeccion d'autras personas. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health
+EXPLANATION:
+This sentence is"
+L'Institut haitian per la justícia e la democracia a fach referéncia a d'estudis independents que suggerisson que lo batalhon nepalés de manten de la patz de l'ONU portèt la malautiá a Haití sens o saber.,health,politics,"<|begin_of_text|>SENTENCE:
+ L'Institut haitian per la justícia e la democracia a fach referéncia a d'estudis independents que suggerisson que lo batalhon nepalés de manten de la patz de l'ONU portèt la malautiá a Haití sens o saber. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+L'"
+"Las quitas malautiás infecciosas, o los animals perilhoses que pòdon nafrar o tuar las personas per fòrça, dintran pas dins la categoria de causas nocivas.",health,health,"<|begin_of_text|>SENTENCE:
+ Las quitas malautiás infecciosas, o los animals perilhoses que pòdon nafrar o tuar las personas per fòrça, dintran pas dins la categoria de causas nocivas. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+health
+EXPLANATION:
+This sentence is"
+"Los enfants qu'an de problèmas de deficit d'atencion an de dificultats bèlas per se concentrar sus de causas coma lo trabalh escolar, mas se pòdon concentrar sus de causas que lor agrada de far coma jogar a de jòcs o agachar sos dessenhs animats preferits o escriure de frasas sens pontuacion.",health,health,"<|begin_of_text|>SENTENCE:
+ Los enfants qu'an de problèmas de deficit d'atencion an de dificultats bèlas per se concentrar sus de causas coma lo trabalh escolar, mas se pòdon concentrar sus de causas que lor agrada de far coma jogar a de jòcs o agachar sos dessenhs animats preferits o escriure de frasas sens pontuacion. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+health
+EXPLANATION:
+This sentence is"
+"Long d'un an, una persona infectada pòt infectar entre 10 e 15 contactes pròches.",health,health,"<|begin_of_text|>SENTENCE:
+ Long d'un an, una persona infectada pòt infectar entre 10 e 15 contactes pròches. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health
+EXPLANATION:
+This sentence is"
+"Quand la batèsta cessèt aprèp que los nafrats foguèron transportats a l’espital, a l’entorn de 40 dels autres presonièrs que restavan demorèron dins lo pati e refusèron de tornar a sas cellulas.",health,N/A,"<|begin_of_text|>SENTENCE:
+ Quand la batèsta cessèt aprèp que los nafrats foguèron transportats a l’espital, a l’entorn de 40 dels autres presonièrs que restavan demorèron dins lo pati e refusèron de tornar a sas cellulas. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- None of the above 
+EXPLANATION"
+De mètges comencèron a èsser recrutats per l'Emperador August e mai formèron lo primièr còs medical roman per emplec aprèp la fin de las batalhas.,health,health,"<|begin_of_text|>SENTENCE:
+ De mètges comencèron a èsser recrutats per l'Emperador August e mai formèron lo primièr còs medical roman per emplec aprèp la fin de las batalhas. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+health
+EXPLANATION:
+Aquesta"
+"Pasmens, lo conductor patiguèt de feridas seriosas al cap.",health,health,"<|begin_of_text|>SENTENCE:
+ Pasmens, lo conductor patiguèt de feridas seriosas al cap. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health
+EXPLANATION:
+This sentence is"
+"""Avèm ara de mirguetas de 4 meses que son pas pus diabeticas e qu’èran diabeticas abans,"" apondèt.",health,health,"<|begin_of_text|>SENTENCE:
+ ""Avèm ara de mirguetas de 4 meses que son pas pus diabeticas e qu’èran diabeticas abans,"" apondèt. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+health
+EXPLANATION:
+This sentence is"
+"Es possible que l'enverinament intèrn siá pas immediatament aparent. Los simptòmas, tales coma vomir son sufisentament generals qu'un diagnostic immediat pòt pas èsser fach.",health,health,"<|begin_of_text|>SENTENCE:
+ Es possible que l'enverinament intèrn siá pas immediatament aparent. Los simptòmas, tales coma vomir son sufisentament generals qu'un diagnostic immediat pòt pas èsser fach. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health
+EXPLANATION:
+Aquesta"
+"Per consequent, los artistas fumèron un tub de cannabis sus scèna, e lo quite teatre encoratja lo public a s’i jónher.",entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Per consequent, los artistas fumèron un tub de cannabis sus scèna, e lo quite teatre encoratja lo public a s’i jónher. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+This"
+Aerosmith a anullat los concèrts que demoravan dins lor virada.,entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Aerosmith a anullat los concèrts que demoravan dins lor virada. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+REASONING SKILL"
+Se volètz èsser prèp de l'accion vos va caler levar d'ora per obtenir un lòc de campatge pròche de la musica.,entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Se volètz èsser prèp de l'accion vos va caler levar d'ora per obtenir un lòc de campatge pròche de la musica. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+This"
+I a maites formats de films diferents que son estats utilizats long dels ans. Lo film estandard de 35 mm (negatiu de 36 per 24 mm) es fòrça mai comun.,entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ I a maites formats de films diferents que son estats utilizats long dels ans. Lo film estandard de 35 mm (negatiu de 36 per 24 mm) es fòrça mai comun. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+A"
+"E mai s’es una activitat fòrça comuna, es enebida per Disney: los bilhets son non-transferibles.",entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ E mai s’es una activitat fòrça comuna, es enebida per Disney: los bilhets son non-transferibles. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+The"
+Cada episòdi del programa se concentrariá sus un tèma dins un libre especific e explorariá puèi aquel tèma a travèrs d'istòrias multiplas.,entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Cada episòdi del programa se concentrariá sus un tèma dins un libre especific e explorariá puèi aquel tèma a travèrs d'istòrias multiplas. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+A"
+Divèrses ecrans de televisions grandasses foguèron installat a bon nombre d'endreches dins Roma per permetre a las gents de veire la ceremonia.,entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Divèrses ecrans de televisions grandasses foguèron installat a bon nombre d'endreches dins Roma per permetre a las gents de veire la ceremonia. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+ La"
+Sofòcles e Aristofanes son encara de dramaturgs populars e sas pèças son consideradas coma demest las òbras mai grandas de la literatura mondiala.,entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Sofòcles e Aristofanes son encara de dramaturgs populars e sas pèças son consideradas coma demest las òbras mai grandas de la literatura mondiala. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+A"
+Cada emission forniriá tanben de recomandacions suls libres que los enfants deurián cercar quand anirián a lor bibliotèca.,entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Cada emission forniriá tanben de recomandacions suls libres que los enfants deurián cercar quand anirián a lor bibliotèca. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+A"
+"Sus l'acordeon, per obtenir mai de volum, utilitzatz los bofets amb mai de pression o de velocitat.",entertainment,science/technology,"<|begin_of_text|>SENTENCE:
+ Sus l'acordeon, per obtenir mai de volum, utilitzatz los bofets amb mai de pression o de velocitat. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+This sentence"
+Podètz veire las piramidas dins l’escuretat e las podètz veire en silenci abans lo començament de l’espectacle.,entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Podètz veire las piramidas dins l’escuretat e las podètz veire en silenci abans lo començament de l’espectacle. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+The"
+"Los exemples d’activitats sus plaça incluson la caça, la pesca, la fotografia, l'observacion d'aucèls, e la visita de parcs e estudiar d’informacions sus l’ecosistèma.",entertainment,travel,"<|begin_of_text|>SENTENCE:
+ Los exemples d’activitats sus plaça incluson la caça, la pesca, la fotografia, l'observacion d'aucèls, e la visita de parcs e estudiar d’informacions sus l’ecosistèma. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+ REASONING SKILL:
+"
+L'Esfinx servís de tela de fons e de narrador d'una longa istòria.,entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ L'Esfinx servís de tela de fons e de narrador d'una longa istòria. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+L"
+"An abitualament de manjas e bevendas especials e de proposicions d'amusament, per gardar los clients de bona umor, e los gardar sus plaça.",entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ An abitualament de manjas e bevendas especials e de proposicions d'amusament, per gardar los clients de bona umor, e los gardar sus plaça. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+This"
+"L’organizacion mondiala, que fa ja d'informacion en anglés e japonés, es a lançar de programas en lengas espanhòla, italiana, e coreana, per la television, lo web, e los dispositius mobils.",entertainment,N/A,"<|begin_of_text|>SENTENCE:
+ L’organizacion mondiala, que fa ja d'informacion en anglés e japonés, es a lançar de programas en lengas espanhòla, italiana, e coreana, per la television, lo web, e los dispositius mobils. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- None of the above / general knowledge
+"
+Abans The Simpsons Simon aviá trabalhat sus divèrses programas dins divèrses ròtles.,entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Abans The Simpsons Simon aviá trabalhat sus divèrses programas dins divèrses ròtles. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+REASONING SKILL"
+Aquò permetrà als jogaires de contrarotlar las accions e los movements dins los jòcs vidèo en movent lo dispositiu dins l’aire.,entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Aquò permetrà als jogaires de contrarotlar las accions e los movements dins los jòcs vidèo en movent lo dispositiu dins l’aire. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+The"
+"Almens 100 personas avián participat a la fèsta, a fin de celebrar lo primièr aniversari d’un couple que son maridatge s'èra tengut l’an passat.",entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Almens 100 personas avián participat a la fèsta, a fin de celebrar lo primièr aniversari d’un couple que son maridatge s'èra tengut l’an passat. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+This"
+"Doas cançons del film, Audition (The Fools Who Dream) e City of Stars, recebèron de nominacions per la melhora cançon originala. L'studio Lionsgate recebèt 26 nominacions — mai que cap autre studio.",entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Doas cançons del film, Audition (The Fools Who Dream) e City of Stars, recebèron de nominacions per la melhora cançon originala. L'studio Lionsgate recebèt 26 nominacions — mai que cap autre studio. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+ DETAILED ANSWER"
+La crosta es d'aperaquí 70 km d'espessor del costat pròche e espessa de 100 km sul costat opausat.,geography,geography,"<|begin_of_text|>SENTENCE:
+ La crosta es d'aperaquí 70 km d'espessor del costat pròche e espessa de 100 km sul costat opausat. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+ EXPLANATION:
+ This"
+Las Cascadas de Niagara Falls se tròban fòrça mai al sud e lo nòrd es la region de la beutat naturala inexplotada de Muskoka e mai enlà.,geography,geography,"<|begin_of_text|>SENTENCE:
+ Las Cascadas de Niagara Falls se tròban fòrça mai al sud e lo nòrd es la region de la beutat naturala inexplotada de Muskoka e mai enlà. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+La"
+"Ellsworth Land es la region al sud de la peninsula, limitada per la mar de Bellingshausen.",geography,geography,"<|begin_of_text|>SENTENCE:
+ Ellsworth Land es la region al sud de la peninsula, limitada per la mar de Bellingshausen. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+ REASONING:
+ This"
+La travèrsa del pòl Sud (o autorota) es una pista de 1600 km que va dempuèi l'estacion de McMurdo sus la Mar de Ross fins al pòl.,geography,geography,"<|begin_of_text|>SENTENCE:
+ La travèrsa del pòl Sud (o autorota) es una pista de 1600 km que va dempuèi l'estacion de McMurdo sus la Mar de Ross fins al pòl. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+ EXPLANATION:
+ This"
+"Impausanta sus la cima septentrionala de Machu Picchu se tròba aquela montanha esquiva, sovent tela de fons de mantas fòtos de las roïnas.",geography,geography,"<|begin_of_text|>SENTENCE:
+ Impausanta sus la cima septentrionala de Machu Picchu se tròba aquela montanha esquiva, sovent tela de fons de mantas fòtos de las roïnas. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+ La"
+"Enceladus es l’objècte mai reflectissent del sistèma solar, que reflectís a l'entorn de 90 del cent de la lutz solara que lo tòca.",geography,science/technology,"<|begin_of_text|>SENTENCE:
+ Enceladus es l’objècte mai reflectissent del sistèma solar, que reflectís a l'entorn de 90 del cent de la lutz solara que lo tòca. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science
+EXPLANATION:
+This sentence is about"
+Res se pòt pas veire manca lo cèl clar e polit amondaut e las nombrosas montanhas enrodantas. Pas gaire d'aqueste mond pòt èsser vist o ausit de l'interior de la balma.,geography,geography,"<|begin_of_text|>SENTENCE:
+ Res se pòt pas veire manca lo cèl clar e polit amondaut e las nombrosas montanhas enrodantas. Pas gaire d'aqueste mond pòt èsser vist o ausit de l'interior de la balma. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+"E ara Japon. Japon èra un país insular, just coma Granda Bretanha.",geography,geography,"<|begin_of_text|>SENTENCE:
+ E ara Japon. Japon èra un país insular, just coma Granda Bretanha. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+ REASONING SKILL"
+"A son maximum, lo ciclion tropical Gonu, qu'a son nom d'una saca de fuèlhas de palma dins la lenga de Maldivas, atenhèt de vents sostenguts de 240 quilomètres per ora (149 milas per ora) .",geography,geography,"<|begin_of_text|>SENTENCE:
+ A son maximum, lo ciclion tropical Gonu, qu'a son nom d'una saca de fuèlhas de palma dins la lenga de Maldivas, atenhèt de vents sostenguts de 240 quilomètres per ora (149 milas per ora). 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+"L’espandi de Turquia, en comprenent los lacs, ocupa 783.562 quilomètres cairats (300.948 milas cairadas), dels quals 755.688 quilomètres cairats (291.773 milas cairadas) son dins l’Àsia del sud-oèst e 23.764 quilomètres cairats (9.174 milas cairadas) en Euròpa.",geography,geography,"<|begin_of_text|>SENTENCE:
+ L’espandi de Turquia, en comprenent los lacs, ocupa 783.562 quilomètres cairats (300.948 milas cairadas), dels quals 755.688 quilomètres cairats (291.773 milas cairadas) son dins l’Àsia del sud-oèst e 23.764 quilomètres cairats (9.174 milas cairadas) en Euròpa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+ EXPLANATION:
+ This"
+"Las islas Shetland del Sud, descobèrtas en 1819, son reivindicadas per divèrsas nacions e tenon lo mai de basas, amb setze activas en 2020.",geography,geography,"<|begin_of_text|>SENTENCE:
+ Las islas Shetland del Sud, descobèrtas en 1819, son reivindicadas per divèrsas nacions e tenon lo mai de basas, amb setze activas en 2020. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+Apia es la capitala de Samoa. La vila se tròba sus l’isla d’Upolu e a una populacion de tot bèl just jos 40 000 personas.,geography,geography,"<|begin_of_text|>SENTENCE:
+ Apia es la capitala de Samoa. La vila se tròba sus l’isla d’Upolu e a una populacion de tot bèl just jos 40 000 personas. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+ The correct answer is geography.  The SENT"
+"Coma la tempèsta storm es luènh de tocar lo sòl, demòra malaisit de determinar l’impacte potencial suls Estats Units o la Cariba.",geography,geography,"<|begin_of_text|>SENTENCE:
+ Coma la tempèsta storm es luènh de tocar lo sòl, demòra malaisit de determinar l’impacte potencial suls Estats Units o la Cariba. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+REASONING SKILL"
+Es mai fin jos la mar e mai espés jols highlands.,geography,geography,"<|begin_of_text|>SENTENCE:
+ Es mai fin jos la mar e mai espés jols highlands. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+Los bòsques son pas sonque de paluns de mangròvas pr'aquò — comprenon d'unas de las darrièras parcèlas que demòran de las selvas poderosas que dins lo passat cobrissián la plana gangetica.,geography,geography,"<|begin_of_text|>SENTENCE:
+ Los bòsques son pas sonque de paluns de mangròvas pr'aquò — comprenon d'unas de las darrièras parcèlas que demòran de las selvas poderosas que dins lo passat cobrissián la plana gangetica. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+La mapa internacionala de tèrratremols de l’Institut d’Estudis Geologics dels Estats Units mostrava pas cap de tèrratremols en Islàndia durant la setmana precedenta.,geography,science/technology,"<|begin_of_text|>SENTENCE:
+ La mapa internacionala de tèrratremols de l’Institut d’Estudis Geologics dels Estats Units mostrava pas cap de tèrratremols en Islàndia durant la setmana precedenta. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Aquest"
+"Pausada sus la cima d’una de las montanhas al nòrd de la Mèca, la balma es completament isolada de la rèsta del mond.",geography,geography,"<|begin_of_text|>SENTENCE:
+ Pausada sus la cima d’una de las montanhas al nòrd de la Mèca, la balma es completament isolada de la rèsta del mond. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"

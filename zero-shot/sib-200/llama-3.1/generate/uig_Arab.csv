@@ -1,0 +1,2978 @@
+text,actual_category,predicted_category,generated_text
+تۇيۇقسىز ئۆزگىرىش يېڭى گېن ۋارىيانتىنى پەيدا قىلىپ، ئۇنى ئاشكارا گېن ئامبىرىدىن تاللىنىش جەريانى ئارقىلىق چىقىرىپ تاشلايدۇ.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ تۇيۇقسىز ئۆزگىرىش يېڭى گېن ۋارىيانتىنى پەيدا قىلىپ، ئۇنى ئاشكارا گېن ئامبىرىدىن تاللىنىش جەريانى ئارقىلىق چىقىرىپ تاشلايدۇ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+science
+
+EXPLANATION:
+This question requires"
+يىمىرىلىش بومبىسى نۇرغۇن پىروتون ۋە نېيترونلار بىلەن يادرونى بىر يەرگە توپلاش ئۈچۈن ئېنېرگىيە كېتىدۇ دېگەن پىرىنسىپ بويىچە خىزمەت قىلىدۇ.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ يىمىرىلىش بومبىسى نۇرغۇن پىروتون ۋە نېيترونلار بىلەن يادرونى بىر يەرگە توپلاش ئۈچۈن ئېنېرگىيە كېتىدۇ دېگەن پىرىنسىپ بويىچە خىزمەت قىلىدۇ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+science
+EXPLANATION:
+This sentence is"
+يادرو نېيترون بىلەن پروتوندىن ئىبارەت ئىككى زەررىچىدىن تۈزۈلىدۇ.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ يادرو نېيترون بىلەن پروتوندىن ئىبارەت ئىككى زەررىچىدىن تۈزۈلىدۇ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+science
+TRANSLATION:
+It is composed"
+بۇنىڭ بىلەن ئۆزگىرىشچان فوكۇسلۇق لىنزا ھاسىل قىلالايدىغان سۈرەت سۈپىتى فوكۇس ئارىلىقى مۇقىم لىنزىغا يېتىشتى.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ بۇنىڭ بىلەن ئۆزگىرىشچان فوكۇسلۇق لىنزا ھاسىل قىلالايدىغان سۈرەت سۈپىتى فوكۇس ئارىلىقى مۇقىم لىنزىغا يېتىشتى. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+science
+TRANSLATION:
+With this,"
+ئۇلارنىڭ تور ۋاكالەتچىسىدىن ئۈستۈن تۇرالىشىنىڭ بىر قانچە سەۋەبى بار: ئۇلار http نىلا ئەمەس بەلكى بارلىق تور ئېقىمىنى قايتىدىن يوللايدۇ.,science/technology,geography,"<|begin_of_text|>SENTENCE:
+ ئۇلارنىڭ تور ۋاكالەتچىسىدىن ئۈستۈن تۇرالىشىنىڭ بىر قانچە سەۋەبى بار: ئۇلار http نىلا ئەمەس بەلكى بارلىق تور ئېقىمىنى قايتىدىن يوللايدۇ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+None of the above (geography is the"
+ھەمتۈرتكىلىك لايىھىلەش سىزنىڭ مېدىيا ئىشلەپچىقىرىش ھەققىدىكى پەرەزلىرىڭىزنى قايتا-قايتا باھالىشىڭىز ۋە ئىجادىي تەپەككۇر قىلىشنى ئۆگىنىشىڭىزنى تەلەپ قىلىدۇ.,science/technology,entertainment,"<|begin_of_text|>SENTENCE:
+ ھەمتۈرتكىلىك لايىھىلەش سىزنىڭ مېدىيا ئىشلەپچىقىرىش ھەققىدىكى پەرەزلىرىڭىزنى قايتا-قايتا باھالىشىڭىز ۋە ئىجادىي تەپەككۇر قىلىشنى ئۆگىنىشىڭىزنى تەلەپ قىلىدۇ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+ھ"
+بۇ ئۆلچەمگە ئايلاندى، بىراق تۆمۈر ۋاگون ياغاچ چاقىنىڭ بەكراق ئۇپرىشنى كەلتۈرۈپ چىقاردى.,science/technology,geography,"<|begin_of_text|>SENTENCE:
+ بۇ ئۆلچەمگە ئايلاندى، بىراق تۆمۈر ۋاگون ياغاچ چاقىنىڭ بەكراق ئۇپرىشنى كەلتۈرۈپ چىقاردى. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+This"
+توپتا بىردىن ئۈچكىچە يېتىلگەن ئەركەك شىر ۋە ئوتتۇزغىچە چىشى ۋە بالا شىر بولىدۇ.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ توپتا بىردىن ئۈچكىچە يېتىلگەن ئەركەك شىر ۋە ئوتتۇزغىچە چىشى ۋە بالا شىر بولىدۇ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+ئ�"
+گەرچە سۈنئىي ئەقىلنىڭ ئىلمىي فانتازىيەلىك چۈشەنچىسى كۈچلۈك بولسىمۇ، بىراق سۈنئىي ئەقىل كومپيۇتېر ئىلىمىنىڭ ئىنتايىن مۇھىم تارمىقىنى شەكىللەندۈرىدۇ، ئۇ مەلۇم ماشىنىدىكى ھەرىكەت، ئۆگىنىش ۋە ئەقلىي ماسلىشىشنى بىر تەرەپ قىلىدۇ.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ گەرچە سۈنئىي ئەقىلنىڭ ئىلمىي فانتازىيەلىك چۈشەنچىسى كۈچلۈك بولسىمۇ، بىراق سۈنئىي ئەقىل كومپيۇتېر ئىلىمىنىڭ ئىنتايىن مۇھىم تارمىقىنى شەكىللەندۈرىدۇ، ئۇ مەلۇم ماشىنىدىكى ھەرىكەت، ئۆگىنىش ۋە ئەقلىي ماسلىشىشنى بىر تەرەپ قىلىدۇ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+science
+Is this sentence in English or not"
+شۇ سەۋەبتىن بۇ فورماتنىڭ بوي نىسبىتى (ئون ئىككىگە بۆلۈپ ئەڭ ئاددىي پۈتۈن سان نىسبىتىنى ئېلىش ئارقىلىق چىقىرىلىدۇ) 3:2 دېيىلىدۇ.,science/technology,geography,"<|begin_of_text|>SENTENCE:
+ شۇ سەۋەبتىن بۇ فورماتنىڭ بوي نىسبىتى (ئون ئىككىگە بۆلۈپ ئەڭ ئاددىي پۈتۈن سان نىسبىتىنى ئېلىش ئارقىلىق چىقىرىلىدۇ) 3:2 دېيىلىدۇ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: None of the above (geography is the closest"
+سۈنئىي ھەمراھ تېلېفونى ئادەتتە يانفوننىڭ ئورنىنى ئالالمايدۇ، چۈنكى سىز سۈنئىي ھەمراھ تېلېفونىدا تېلېفون قىلىش ئۈچۈن سىرتقا چىقىشىڭىز، سۈنىئي ھەمرا بىلەن تېلېفون ئارىسىدىكى توسالغۇدىن ساقلىنىشىڭىز كېرەك.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ سۈنئىي ھەمراھ تېلېفونى ئادەتتە يانفوننىڭ ئورنىنى ئالالمايدۇ، چۈنكى سىز سۈنئىي ھەمراھ تېلېفونىدا تېلېفون قىلىش ئۈچۈن سىرتقا چىقىشىڭىز، سۈنىئي ھەمرا بىلەن تېلېفون ئارىسىدىكى توسالغۇدىن ساقلىنىشىڭىز كېرەك. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+This question"
+گەرچە ۋاگون يول ئاران پاراللېل ياغاچتىن تەركىب تاپقان بولسىمۇ، بىراق ئۇلار ئاتنىڭ ۋاگونلارنى تارتىپ شۇ چاغدىكى قوپال يوللارغا قارىغاندا يەنىمۇ تېز ۋە يەنىمۇ چوڭ يۈكلەرنى تارتىشىنى ئىشقا ئاشۇردى.,science/technology,geography,"<|begin_of_text|>SENTENCE:
+ گەرچە ۋاگون يول ئاران پاراللېل ياغاچتىن تەركىب تاپقان بولسىمۇ، بىراق ئۇلار ئاتنىڭ ۋاگونلارنى تارتىپ شۇ چاغدىكى قوپال يوللارغا قارىغاندا يەنىمۇ تېز ۋە يەنىمۇ چوڭ يۈكلەرنى تارتىشىنى ئىشقا ئاشۇردى. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: None of the above (geography is the closest"
+كىشىلەر قەدىمكى دەۋرلەردىن باشلاپ ئالتۇن، كۈمۈش، مىس قاتارلىق ئاساسىي خىمىيەلىك ئېلېمېنتلارنى بىلەتتى، چۈنكى بۇلارنىڭ ھەممىسىنى تەبىئەتتە تەبىئىي ھالەتتە بايقىغىلى بولىدۇ ھەمدە ئىپتىدائىي قوراللار بىلەن قېزىش بىر قەدەر ئاددىي.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ كىشىلەر قەدىمكى دەۋرلەردىن باشلاپ ئالتۇن، كۈمۈش، مىس قاتارلىق ئاساسىي خىمىيەلىك ئېلېمېنتلارنى بىلەتتى، چۈنكى بۇلارنىڭ ھەممىسىنى تەبىئەتتە تەبىئىي ھالەتتە بايقىغىلى بولىدۇ ھەمدە ئىپتىدائىي قوراللار بىلەن قېزىش بىر قەدەر ئاددىي. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+science
+EXPLANATION:
+مادان"
+چاق دۇنيانى غايەت زور ئۆزگەرتتى. چاق بىزگە بەرگەن ئەڭ چوڭ نەرسە بەك قولاي ۋە تېز قاتناشتۇر.,science/technology,N/A,"<|begin_of_text|>SENTENCE:
+ چاق دۇنيانى غايەت زور ئۆزگەرتتى. چاق بىزگە بەرگەن ئەڭ چوڭ نەرسە بەك قولاي ۋە تېز قاتناشتۇر. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: None of the above (other) 
+EXPLAN"
+بۇنداق قىلىشتىكى مەقسەت سۈرەتنىڭ ئېكراننى تولۇق يېپىشىغا كاپالەتلىك قىلىشتۇر. بۇ ئاشۇرۇپ سىكاننېرلاش دەپ ئاتىلىدۇ.,science/technology,N/A,"<|begin_of_text|>SENTENCE:
+ بۇنداق قىلىشتىكى مەقسەت سۈرەتنىڭ ئېكراننى تولۇق يېپىشىغا كاپالەتلىك قىلىشتۇر. بۇ ئاشۇرۇپ سىكاننېرلاش دەپ ئاتىلىدۇ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+ None of the above. This sentence is about"
+گېرمان سۇ ئاستى كېمىلىرى ئۇ-كېمە دەپ ئاتىلاتتى. گېرمانلار يول باشلاش ۋە سۇ ئاستى كېمىسىنى ھەيدەشكە ماھىر ئىدى.,science/technology,geography,"<|begin_of_text|>SENTENCE:
+ گېرمان سۇ ئاستى كېمىلىرى ئۇ-كېمە دەپ ئاتىلاتتى. گېرمانلار يول باشلاش ۋە سۇ ئاستى كېمىسىنى ھەيدەشكە ماھىر ئىدى. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+ TRANSLATION:
+German"
+گەرچە ئۇنىڭ فىزىكىلىق ھالىتى ئۆزگەرسىمۇ بىراق خىمىيەلىك ھالىتى يەنىلا ئوخشاش.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ گەرچە ئۇنىڭ فىزىكىلىق ھالىتى ئۆزگەرسىمۇ بىراق خىمىيەلىك ھالىتى يەنىلا ئوخشاش. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+science
+EXPLANATION:
+This sentence is"
+سۇ يۈزىدىكى سۇ مولېكۇلىلىرى بىر-بىرىگە ھاۋا مولېكۇلىلىرىدىنمۇ بەكرەك تارتىلىدۇ، شۇڭا يۈز كېڭىيىش ھادىسىسى كۆرۈلىدۇ.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ سۇ يۈزىدىكى سۇ مولېكۇلىلىرى بىر-بىرىگە ھاۋا مولېكۇلىلىرىدىنمۇ بەكرەك تارتىلىدۇ، شۇڭا يۈز كېڭىيىش ھادىسىسى كۆرۈلىدۇ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+science
+EXPLANATION:
+This sentence is"
+ئاشۇرۇپ سىكاننېرلاش (overscan) بولسا، فىلىمنى DVD فورماتىغا ئايلاندۇرۇشتا كۆپ كۆرۈلىدىغان مەسىلىلەرنىڭ بىرى.,science/technology,entertainment,"<|begin_of_text|>SENTENCE:
+ ئاشۇرۇپ سىكاننېرلاش (overscan) بولسا، فىلىمنى DVD فورماتىغا ئايلاندۇرۇشتا كۆپ كۆرۈلىدىغان مەسىلىلەرنىڭ بىرى. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+ئ"
+بولۇپمۇ، ئېيتىلىشىچە بىر كىشىنىڭ مىكرو چىراي ئىپادىسىنى توغرا تەھلىل قىلىش ئارقىلىق ئۇ كىشىنىڭ يالغان سۆزلىگەن-سۆزلىمىگەنلىكىنى بىلگىلى بولىدىكەن.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ بولۇپمۇ، ئېيتىلىشىچە بىر كىشىنىڭ مىكرو چىراي ئىپادىسىنى توغرا تەھلىل قىلىش ئارقىلىق ئۇ كىشىنىڭ يالغان سۆزلىگەن-سۆزلىمىگەنلىكىنى بىلگىلى بولىدىكەن. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+ Is there a word in the"
+ئالتۇننى ھەرخىل شەكىلگە كەلتۈرگىلى بولىدۇ. ئۇنى كىچىك شەكىللەرگە ئايلاندۇرغىلىمۇ بولىدۇ.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ ئالتۇننى ھەرخىل شەكىلگە كەلتۈرگىلى بولىدۇ. ئۇنى كىچىك شەكىللەرگە ئايلاندۇرغىلىمۇ بولىدۇ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+science
+REASONING:
+This question requires"
+سۈنئىي ئەقىل سىستېمىسى بىر قانچە ئائىلە كومپيۇتېرى ۋە سىنلىق ئويۇن يۇمشاق دېتال پىروگراممىلىرىدا ياسالغىنىدەك، ھازىر ئىقتىساد، تېبابەت، قۇرۇلۇش ۋە ھەربىي ساھەدە دائىم ئىشلىتىلىدۇ.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ سۈنئىي ئەقىل سىستېمىسى بىر قانچە ئائىلە كومپيۇتېرى ۋە سىنلىق ئويۇن يۇمشاق دېتال پىروگراممىلىرىدا ياسالغىنىدەك، ھازىر ئىقتىساد، تېبابەت، قۇرۇلۇش ۋە ھەربىي ساھەدە دائىم ئىشلىتىلىدۇ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+science
+TRANSLATION:
+Artificial intelligence"
+ئۇ ھازىرمۇ ئىشلەپچىقىرىلىدۇ، بىراق تېخىمۇ مۇھىمى رەقەملىك كامېرانىڭ رەسىم سەزگۈچ فورماتى ئۇنىڭ بوي نىسبىتىگە ۋارىسلىق قىلغان.,science/technology,geography,"<|begin_of_text|>SENTENCE:
+ ئۇ ھازىرمۇ ئىشلەپچىقىرىلىدۇ، بىراق تېخىمۇ مۇھىمى رەقەملىك كامېرانىڭ رەسىم سەزگۈچ فورماتى ئۇنىڭ بوي نىسبىتىگە ۋارىسلىق قىلغان. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: None of the above (geography is the closest"
+دائىم قالايمىقان ئىشلىتىلىدىغان ۋە دائىم مەسخىرە قىلىنىدىغان ئۈچكە بۆلۈش ئۇسۇلى بولسا سۈرەتتىكى تەرتىپنى ساقلاش بىلەن بىللە ھەرىكەتچانلىقنى بارلىققا كەلتۈرىدىغان ئاددىي بىر مىزاندۇر.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ دائىم قالايمىقان ئىشلىتىلىدىغان ۋە دائىم مەسخىرە قىلىنىدىغان ئۈچكە بۆلۈش ئۇسۇلى بولسا سۈرەتتىكى تەرتىپنى ساقلاش بىلەن بىللە ھەرىكەتچانلىقنى بارلىققا كەلتۈرىدىغان ئاددىي بىر مىزاندۇر. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+This sentence"
+بۇ ھېچ بولمىغاندا بىر قىسىم دىنوزاۋرلاردا پەي بارلىقىنى جەزملەيدۇ، بۇ كەڭ تارقالغان نەزەرىيە بولسىمۇ، تاشقاتمىلاردا رەڭگى ۋە ئۇلارنىڭ ئۈچ ئۆلچەملىك ئورۇنلاشتۇرۇلۇشى ھەققىدە ھېچقانداق تەپسىلات يوق ئىدى.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ بۇ ھېچ بولمىغاندا بىر قىسىم دىنوزاۋرلاردا پەي بارلىقىنى جەزملەيدۇ، بۇ كەڭ تارقالغان نەزەرىيە بولسىمۇ، تاشقاتمىلاردا رەڭگى ۋە ئۇلارنىڭ ئۈچ ئۆلچەملىك ئورۇنلاشتۇرۇلۇشى ھەققىدە ھېچقانداق تەپسىلات يوق ئىدى. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+science
+EXPLANATION:
+This sentence is"
+ئىيونىڭ ئېغىرلىق كۈچى مېنى قانداق تارتىدۇ؟ ئىيونىڭ يۈزىدە تۇرسىڭىز، ئېغىرلىقىڭىز يەرشارىدا تۇرغاندىن يەڭگىل چىقىدۇ.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ ئىيونىڭ ئېغىرلىق كۈچى مېنى قانداق تارتىدۇ؟ ئىيونىڭ يۈزىدە تۇرسىڭىز، ئېغىرلىقىڭىز يەرشارىدا تۇرغاندىن يەڭگىل چىقىدۇ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+science
+EXPLANATION:
+This sentence is"
+NextGen بولسا، FAA نىڭ دېيىشىچە، ئايروپىلانلارنىڭ قىسقا مۇساپىلىك ئۇچۇشى ھەمدە ھەر يىلى مىليون گالون يېقىلغۇ تېجەپ كاربون قويۇپ بېرىشىنى كېمەيتىشىگە ياردەم بېرىدىغان سىستېمىدۇر.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ NextGen بولسا، FAA نىڭ دېيىشىچە، ئايروپىلانلارنىڭ قىسقا مۇساپىلىك ئۇچۇشى ھەمدە ھەر يىلى مىليون گالون يېقىلغۇ تېجەپ كاربون قويۇپ بېرىشىنى كېمەيتىشىگە ياردەم بېرىدىغان سىستېمىدۇر. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+NextGen"
+نېرۋا بىيولوگىيەلىك سانلىق مەلۇماتلار بىلىشنى تەكشۈرۈشنىڭ نەزەرىيەۋى ئۇسۇلىنى فىزىكىلىق ئىسپات بىلەن تەمىنلەيدۇ. شۇڭلاشقا ئۇ تەتقىقات دائىرىسىنى تارايتىدۇ ۋە يەنىمۇ ئېنىق قىلىدۇ.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ نېرۋا بىيولوگىيەلىك سانلىق مەلۇماتلار بىلىشنى تەكشۈرۈشنىڭ نەزەرىيەۋى ئۇسۇلىنى فىزىكىلىق ئىسپات بىلەن تەمىنلەيدۇ. شۇڭلاشقا ئۇ تەتقىقات دائىرىسىنى تارايتىدۇ ۋە يەنىمۇ ئېنىق قىلىدۇ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+science
+EXPLANATION:
+This question requires"
+2 سائەتلىك نۇتۇقىدا ئۇ «بۈگۈن Apple تېلېفوننى قايتا كەشىپ قىلدى، بۈگۈن بىز تارىخ يازىمىز» دېدى.,science/technology,entertainment,"<|begin_of_text|>SENTENCE:
+ 2 سائەتلىك نۇتۇقىدا ئۇ «بۈگۈن Apple تېلېفوننى قايتا كەشىپ قىلدى، بۈگۈن بىز تارىخ يازىمىز» دېدى. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+TRANSLATION:
+2"
+ئۆزگىرىشچان فوكۇسلۇق لىنزىنىڭ كەمچىلىكى شۇكى، فوكۇس ئارىلىق دائىرىسى تەلەپ قىلىدىغان فوكۇسنىڭ مۇرەككەپلىكى ۋە لىنزا زاپچاسلىرىنىڭ سانى مۇقىم فوكۇسلۇق لىنزىغا قارىغاندا بەك كۆپ.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ ئۆزگىرىشچان فوكۇسلۇق لىنزىنىڭ كەمچىلىكى شۇكى، فوكۇس ئارىلىق دائىرىسى تەلەپ قىلىدىغان فوكۇسنىڭ مۇرەككەپلىكى ۋە لىنزا زاپچاسلىرىنىڭ سانى مۇقىم فوكۇسلۇق لىنزىغا قارىغاندا بەك كۆپ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+science
+EXPLANATION:
+This sentence is"
+تېلېۋىزورنىڭ تىزگىنىكىگە ئوخشايدىغان بۇ تىزگىنلىگۈچ ئىككى سەزگۈچنى تېلېۋىزورغا قويۇش ئارقىلىق ئۈچ ئۆلچەملىك ئۈچبۇلۇڭلۇق ئورۇن ھاسىل قىلىدۇ.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ تېلېۋىزورنىڭ تىزگىنىكىگە ئوخشايدىغان بۇ تىزگىنلىگۈچ ئىككى سەزگۈچنى تېلېۋىزورغا قويۇش ئارقىلىق ئۈچ ئۆلچەملىك ئۈچبۇلۇڭلۇق ئورۇن ھاسىل قىلىدۇ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+science
+This sentence is classified as science because"
+ئالىملار بۇ ھايۋاننىڭ پەيلىرىنىڭ ئۈستى كاشتاندەك قوڭۇر ياكى ئاقۇش، ئاستىنىڭ سەۋزە رەڭدە ئىكەنلىكىنى ئېيتتى.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ ئالىملار بۇ ھايۋاننىڭ پەيلىرىنىڭ ئۈستى كاشتاندەك قوڭۇر ياكى ئاقۇش، ئاستىنىڭ سەۋزە رەڭدە ئىكەنلىكىنى ئېيتتى. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+science
+REASONING:
+This sentence is"
+ئۇنىۋېرسىتېت تەتقىقاتچىلىرىنىڭ دېيىشىچە، بۇ ئىككى بىرىكمە ئۆزئارا رىياكسىيەلىشىپ، بۆرەك ئىقتىدارىنى توسىدىغان كىرىستال ھاسىل قىلىدىكەن.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ ئۇنىۋېرسىتېت تەتقىقاتچىلىرىنىڭ دېيىشىچە، بۇ ئىككى بىرىكمە ئۆزئارا رىياكسىيەلىشىپ، بۆرەك ئىقتىدارىنى توسىدىغان كىرىستال ھاسىل قىلىدىكەن. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+science
+EXPLANATION:
+This sentence is"
+بۇ ئېنىقلىق دەرىجىسى 35 مىللىمېتىر نېگاتىپنىڭ تۆت ھەسسىسىگە تەڭ (3136 كىۋادرات مىللىمېتىر بىلەن 864).,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ بۇ ئېنىقلىق دەرىجىسى 35 مىللىمېتىر نېگاتىپنىڭ تۆت ھەسسىسىگە تەڭ (3136 كىۋادرات مىللىمېتىر بىلەن 864). 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+science
+TRANSLATION:
+This level of"
+ياۋروپا ۋە كەڭ بەلباغلىق سۈنئىي ھەمراھ بىلەن دېڭىز ئاستى نۇر كابېلى ئۇلىنىشىنىڭ تۈرتكىسىدە، گىرېنلاندىيەدىكى %93 كىشى تورغا ئۇلانغان.,science/technology,geography,"<|begin_of_text|>SENTENCE:
+ ياۋروپا ۋە كەڭ بەلباغلىق سۈنئىي ھەمراھ بىلەن دېڭىز ئاستى نۇر كابېلى ئۇلىنىشىنىڭ تۈرتكىسىدە، گىرېنلاندىيەدىكى %93 كىشى تورغا ئۇلانغان. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+geography
+REASONING:
+This question"
+بۇ تۈردىكى ئەڭ كۆزگە كۆرۈنگەن ئەپلەرنىڭ بىرى Google تەرجىمىسى بولۇپ، ئۇنىڭدا كېرەكلىك تىلنىڭ سانلىق مەلۇماتلىرىنى چۈشۈرگەندىن كېيىن تور يوق ھالەتتىمۇ تەرجىمە قىلىشقا بولىدۇ.,science/technology,entertainment,"<|begin_of_text|>SENTENCE:
+ بۇ تۈردىكى ئەڭ كۆزگە كۆرۈنگەن ئەپلەرنىڭ بىرى Google تەرجىمىسى بولۇپ، ئۇنىڭدا كېرەكلىك تىلنىڭ سانلىق مەلۇماتلىرىنى چۈشۈرگەندىن كېيىن تور يوق ھالەتتىمۇ تەرجىمە قىلىشقا بولىدۇ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: None of the above (entertainment is the closest"
+ئۇ مەيلى گاز، سۇيۇقلۇق ياكى قاتتىق ھالەتتە بولسۇن ئوخشاش مولېكۇلا قۇرۇلمىسىغا ئىگە.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ ئۇ مەيلى گاز، سۇيۇقلۇق ياكى قاتتىق ھالەتتە بولسۇن ئوخشاش مولېكۇلا قۇرۇلمىسىغا ئىگە. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+science
+EXPLANATION:
+This sentence is"
+سىنغا ئېلىش تېخنىكىسىنىڭ قوللىنىلىشى ئاران نەچچە مىللىسېكۇنت داۋاملىشىدىغان مىكرو چىراي ئىپادىسى ۋە يۈز ھەرىكىتىنى چۈشەندۈرۈپ بېرىشتە مۇھىم بايقاشلارغا تۈرتكە بولدى.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ سىنغا ئېلىش تېخنىكىسىنىڭ قوللىنىلىشى ئاران نەچچە مىللىسېكۇنت داۋاملىشىدىغان مىكرو چىراي ئىپادىسى ۋە يۈز ھەرىكىتىنى چۈشەندۈرۈپ بېرىشتە مۇھىم بايقاشلارغا تۈرتكە بولدى. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+science
+EXPLANATION:
+This sentence is"
+ئىنسانلار نەچچە مىڭ يىللاردىن بۇيان چوڭايتىش ئۈچۈن لىنزا ياساپ ۋە ئىشلىتىپ كەلدى.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ ئىنسانلار نەچچە مىڭ يىللاردىن بۇيان چوڭايتىش ئۈچۈن لىنزا ياساپ ۋە ئىشلىتىپ كەلدى. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+science
+REASONING:
+This question requires"
+بىراق تەجرىبە يالغۇز ئەمەس، تەجرىبە بىر خىل سىناق بولۇپ، ئۇ مۇمكىن بولغان بىر ياكى بىر نەچچە پەرەزنى يوقىتىش، سوئال سوراش ۋە كۆزىتىش قىلىشمۇ ئېلىپ بېرىشمۇ تەتقىقاتقا يېتەكچىلىك قىلىدۇ.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ بىراق تەجرىبە يالغۇز ئەمەس، تەجرىبە بىر خىل سىناق بولۇپ، ئۇ مۇمكىن بولغان بىر ياكى بىر نەچچە پەرەزنى يوقىتىش، سوئال سوراش ۋە كۆزىتىش قىلىشمۇ ئېلىپ بېرىشمۇ تەتقىقاتقا يېتەكچىلىك قىلىدۇ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+TRANSLATION:
+Experience is"
+ئاخىرىدا، ياغاچ چاقنىڭ ئورنىنى تۆمۈر چاق ئالدى. 1767-يىلى تۇنجى تولۇق تۆمۈر رېلىس بارلىققا كەلدى.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ ئاخىرىدا، ياغاچ چاقنىڭ ئورنىنى تۆمۈر چاق ئالدى. 1767-يىلى تۇنجى تولۇق تۆمۈر رېلىس بارلىققا كەلدى. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+science
+EXPLANATION:
+The sentence is"
+كۆپىنچە كارتىلار ھەر قانداق جايدا تېلېفون قىلىشقا ماس كەلسىمۇ، لېكىن بەزى مەخسۇس كارتىلار مەلۇم دۆلەتلەر ئۈچۈن ئېتىبارلىق سۆزلىشىش باھاسى تەمىنلەيدۇ.,science/technology,N/A,"<|begin_of_text|>SENTENCE:
+ كۆپىنچە كارتىلار ھەر قانداق جايدا تېلېفون قىلىشقا ماس كەلسىمۇ، لېكىن بەزى مەخسۇس كارتىلار مەلۇم دۆلەتلەر ئۈچۈن ئېتىبارلىق سۆزلىشىش باھاسى تەمىنلەيدۇ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: None of the above choices, this sentence is about"
+كۆپىنچە زامانىۋى تەتقىقات تېلېسكوپلىرى غايەت زور ئەسلىھەلەر بولۇپ، كىلىمات شارائىتى ياخشى چەت رايونلارغا جايلاشقان.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ كۆپىنچە زامانىۋى تەتقىقات تېلېسكوپلىرى غايەت زور ئەسلىھەلەر بولۇپ، كىلىمات شارائىتى ياخشى چەت رايونلارغا جايلاشقان. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+This question"
+يۈز كېڭىيىشى سەۋەبلىك تۆمۈر يىڭنە سۇ ئۈستىدە لەيلەيدۇ.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ يۈز كېڭىيىشى سەۋەبلىك تۆمۈر يىڭنە سۇ ئۈستىدە لەيلەيدۇ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+science
+EXPLANATION:
+This sentence is"
+35 مىللىمېتىرلىق فورمات ئەمەلىيەتتە بىر ئاز چۈشىنىكسىز،چۈنكى كەڭلىكى 36 مىللىمېتىر ئېگىزلىكى 24 مىللىمېتىر.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ 35 مىللىمېتىرلىق فورمات ئەمەلىيەتتە بىر ئاز چۈشىنىكسىز،چۈنكى كەڭلىكى 36 مىللىمېتىر ئېگىزلىكى 24 مىللىمېتىر. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+This sentence"
+"ھۈجەيرىلەر ھاياتلىقنى تەتقىق قىلىشتا ئىنتايىن نېگىزلىك ۋە مۇھىم، ئەمەلىيەتتە ئۇلار دائىم ""ھاياتلىق قۇرۇلۇشىنىڭ خىشى"" دېيىلىدۇ.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ ھۈجەيرىلەر ھاياتلىقنى تەتقىق قىلىشتا ئىنتايىن نېگىزلىك ۋە مۇھىم، ئەمەلىيەتتە ئۇلار دائىم ""ھاياتلىق قۇرۇلۇشىنىڭ خىشى"" دېيىلىدۇ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+science
+EXPLANATION:
+The sentence is"
+سىياسىي تەكشۈرۈش ۋە سودا IP سىنىڭ جۇغراپىيەلىك سۈزۈشىدىن قېچىشنىڭ ياخشى ئۇسۇلى بولسا شەخسىي VPN (مەۋھۇم شەخسىي تور) تەمىنلىگۈچى ئىشلىتىش.,science/technology,politics,"<|begin_of_text|>SENTENCE:
+ سىياسىي تەكشۈرۈش ۋە سودا IP سىنىڭ جۇغراپىيەلىك سۈزۈشىدىن قېچىشنىڭ ياخشى ئۇسۇلى بولسا شەخسىي VPN (مەۋھۇم شەخسىي تور) تەمىنلىگۈچى ئىشلىتىش. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics 
+-EXPLANATION:
+This"
+بوشلۇق پونكىتى ۋەزىپىسىنىڭ دەسلىپىدە گىروسكوپ يوقالغان بولسىمۇ، پونكىت بوشلۇقتا مېڭىش ئاياغلاشقۇچە قىياپىتىنى تىزگىنلەپ تۇردى.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ بوشلۇق پونكىتى ۋەزىپىسىنىڭ دەسلىپىدە گىروسكوپ يوقالغان بولسىمۇ، پونكىت بوشلۇقتا مېڭىش ئاياغلاشقۇچە قىياپىتىنى تىزگىنلەپ تۇردى. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+science
+REASONING:
+This question requires"
+تەپەككۇر قىلىش ئۇسلۇبى مۇشۇنداق كىشىلەردە لوگىكىلىق تەپەككۇر مەۋجۇد بولۇپ، ئۇلار ئەندىزىلەرنى ئەستە ساقلىيالايدۇ، مەسىلىلەرنى ھەل قىلالايدۇ ۋە ئىلمى تەجرىبىلەر ئۈستىدە ئىشلىيەلەيدۇ.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ تەپەككۇر قىلىش ئۇسلۇبى مۇشۇنداق كىشىلەردە لوگىكىلىق تەپەككۇر مەۋجۇد بولۇپ، ئۇلار ئەندىزىلەرنى ئەستە ساقلىيالايدۇ، مەسىلىلەرنى ھەل قىلالايدۇ ۋە ئىلمى تەجرىبىلەر ئۈستىدە ئىشلىيەلەيدۇ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+science
+EXPLANATION:
+This sentence is"
+مولۇن كىچىك ھايۋانلارنى يېيىشكە ئامراق. ئۇلار قۇربى يەتسىلا مايمۇن، يىلان، غاجىغۇچىلار ۋە قۇشلارنى تۇتىدۇ. مولۇن ئوۋلاپ ئوزۇق قىلىدىغان ھايۋانلارنىڭ ھەممىسى دېگۈدەك ئۇنىڭدىن كۆپ كىچىك.,science/technology,geography,"<|begin_of_text|>SENTENCE:
+ مولۇن كىچىك ھايۋانلارنى يېيىشكە ئامراق. ئۇلار قۇربى يەتسىلا مايمۇن، يىلان، غاجىغۇچىلار ۋە قۇشلارنى تۇتىدۇ. مولۇن ئوۋلاپ ئوزۇق قىلىدىغان ھايۋانلارنىڭ ھەممىسى دېگۈدەك ئۇنىڭدىن كۆپ كىچىك. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+ TRANSLATION:
+مول"
+بەزى ئوتتۇرا فورماتتىكى فىلىم كامېرالىرىدا 6 دە 6 سانتىمېتىر فورمات ئىشلىتىلگەن، تېخىمۇ ئېنىق قىلىپ ئېيتقاندا 56 دە 56 مىللىمېتىر نېگاتىپ.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ بەزى ئوتتۇرا فورماتتىكى فىلىم كامېرالىرىدا 6 دە 6 سانتىمېتىر فورمات ئىشلىتىلگەن، تېخىمۇ ئېنىق قىلىپ ئېيتقاندا 56 دە 56 مىللىمېتىر نېگاتىپ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+TRANSLATION:
+In some"
+ساياھەتچىلەر ئۆزى تۇرۇۋاتقان رايونىغا تەسىر كۆرسىتىدىغان ھەر قانداق ناچار ھاۋارايى خەۋپىگە دىققەت قىلىشى تەۋسىيە قىلىنىدۇ، چۈنكى ناچار ھاۋارايى ھەر قانداق ساياھەت پىلانىغا تەسىر كۆرسىتىشى مۇمكىن.,travel,travel,"<|begin_of_text|>SENTENCE:
+ ساياھەتچىلەر ئۆزى تۇرۇۋاتقان رايونىغا تەسىر كۆرسىتىدىغان ھەر قانداق ناچار ھاۋارايى خەۋپىگە دىققەت قىلىشى تەۋسىيە قىلىنىدۇ، چۈنكى ناچار ھاۋارايى ھەر قانداق ساياھەت پىلانىغا تەسىر كۆرسىتىشى مۇمكىن. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+DEFINITION:
+سايا"
+ئاپتوبۇسلار كۈندۈزى ئاپتوبۇس بېكىتىدىن (دەريانىڭ ئۇدۇلىدا) يولغا چىقىدۇ. ئەمما كۆپىنچە ئاپتوبۇسلار، بولۇپمۇ شەرقىي رايونغا، جاكار ياكى بۇمتاڭغا بارىدىغان ئاپتوبۇسلار 6:30 دىن 7:30 غىچە بولغان ئارىلىقتا يولغا چىقىدۇ.,travel,travel,"<|begin_of_text|>SENTENCE:
+ ئاپتوبۇسلار كۈندۈزى ئاپتوبۇس بېكىتىدىن (دەريانىڭ ئۇدۇلىدا) يولغا چىقىدۇ. ئەمما كۆپىنچە ئاپتوبۇسلار، بولۇپمۇ شەرقىي رايونغا، جاكار ياكى بۇمتاڭغا بارىدىغان ئاپتوبۇسلار 6:30 دىن 7:30 غىچە بولغان ئارىلىقتا يولغا چىقىدۇ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+ئاپ"
+ئۇلار ئات مىنگۈچىنى تېخىمۇ مۇقىملىق بىلەن تەمىنلەيدۇ. ئەمما مىنگۈچىنىڭ پۇتى ئۈزەڭگىگە قىسىلىپ قېلىشى مۇمكىنچىلىكى بولغاچقا، ئۈزەڭگىدە بىخەتەرلىك مەسىلىسىمۇ بار.,travel,geography,"<|begin_of_text|>SENTENCE:
+ ئۇلار ئات مىنگۈچىنى تېخىمۇ مۇقىملىق بىلەن تەمىنلەيدۇ. ئەمما مىنگۈچىنىڭ پۇتى ئۈزەڭگىگە قىسىلىپ قېلىشى مۇمكىنچىلىكى بولغاچقا، ئۈزەڭگىدە بىخەتەرلىك مەسىلىسىمۇ بار. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+This"
+كۆپلىگەن ئۆزگىچە بالتىق دېڭىزى سەيلە پاراخوتلىرى رۇسىيەنىڭ سانت پېتىربورگدا ئۇزاق توختايدۇ.,travel,travel,"<|begin_of_text|>SENTENCE:
+ كۆپلىگەن ئۆزگىچە بالتىق دېڭىزى سەيلە پاراخوتلىرى رۇسىيەنىڭ سانت پېتىربورگدا ئۇزاق توختايدۇ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+ REASONING:
+ This question"
+بۇ تەۋسىيەلەرنىڭ ئالدىنقى شەرتى شۇكى، ساياھەتچىلەر ئوغرىلىق قىلمايدۇ، قانۇنسىز بېسىپ كىرمەيدۇ، قانۇنسىز بازارلارغا قاتناشمايدۇ، تىلەمچىلىك قىلمايدۇ ياكى ئۆزىنىڭ مەنپەئەتى ئۈچۈن باشقىلاردىن پايدىلانمايدۇ.,travel,travel,"<|begin_of_text|>SENTENCE:
+ بۇ تەۋسىيەلەرنىڭ ئالدىنقى شەرتى شۇكى، ساياھەتچىلەر ئوغرىلىق قىلمايدۇ، قانۇنسىز بېسىپ كىرمەيدۇ، قانۇنسىز بازارلارغا قاتناشمايدۇ، تىلەمچىلىك قىلمايدۇ ياكى ئۆزىنىڭ مەنپەئەتى ئۈچۈن باشقىلاردىن پايدىلانمايدۇ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+DEFINITION:
+سايا"
+مەلۇم بىر يەرگە ساياھەتكە بېرىشنىڭ ئالدى-كەينىدە، چوقۇم ئويلىنىشقا تېگىشلىك نۇرغۇن ئىشلار بار.,travel,travel,"<|begin_of_text|>SENTENCE:
+ مەلۇم بىر يەرگە ساياھەتكە بېرىشنىڭ ئالدى-كەينىدە، چوقۇم ئويلىنىشقا تېگىشلىك نۇرغۇن ئىشلار بار. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+م�"
+تومۇز كۈنلەردە، ساياھەتچىلەر سۇ (ياكى باشقا نەرسىلەر) كۆرۈنىدىغان ئېزىتقۇنى كۆرۈشى مۇمكىن.,travel,travel,"<|begin_of_text|>SENTENCE:
+ تومۇز كۈنلەردە، ساياھەتچىلەر سۇ (ياكى باشقا نەرسىلەر) كۆرۈنىدىغان ئېزىتقۇنى كۆرۈشى مۇمكىن. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+DEFINITION:
+ئ�"
+بالىلىق ئائىلىلەر ناھايىتى ئاز ئۇچرايدۇ، ئەمما بەزى مېھمانخانىلار ئۇلارنىڭ شەخسىي ياتاقتا تۇرۇشىغا رۇخسەت قىلىدۇ.,travel,travel,"<|begin_of_text|>SENTENCE:
+ بالىلىق ئائىلىلەر ناھايىتى ئاز ئۇچرايدۇ، ئەمما بەزى مېھمانخانىلار ئۇلارنىڭ شەخسىي ياتاقتا تۇرۇشىغا رۇخسەت قىلىدۇ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+ TRANSLATION:
+بالى"
+مەسىلەن، لوئېر ۋادىسى ۋە رېيىن جىلغىسىدىكى قەلئەلەرنى زىيارەت قىلىش، ياكى كېمىگە ئولتۇرۇپ دوناي دەرياسىدىكى قىزىقارلىق شەھەرلەرنى ساياھەت قىلىش، ياكى ئېرىيې قانىلىدا كېمە ساياھىتى قىلىش.,travel,travel,"<|begin_of_text|>SENTENCE:
+ مەسىلەن، لوئېر ۋادىسى ۋە رېيىن جىلغىسىدىكى قەلئەلەرنى زىيارەت قىلىش، ياكى كېمىگە ئولتۇرۇپ دوناي دەرياسىدىكى قىزىقارلىق شەھەرلەرنى ساياھەت قىلىش، ياكى ئېرىيې قانىلىدا كېمە ساياھىتى قىلىش. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+ BEST ANSWER: travel."
+سىزنىڭ ساياھىتىڭىزگە ئوخشاش ساياھەتنى دائىم زاكاز قىلىدىغان كوپىراتىپنى ئىشلەتسىڭىز ياخشىراق بولۇشى مۇمكىن.,travel,travel,"<|begin_of_text|>SENTENCE:
+ سىزنىڭ ساياھىتىڭىزگە ئوخشاش ساياھەتنى دائىم زاكاز قىلىدىغان كوپىراتىپنى ئىشلەتسىڭىز ياخشىراق بولۇشى مۇمكىن. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+ TRANSLATION:
+If you"
+كومپيۇتېر پروگراممېرى كەيسىي فېنتىن ئىسلاندىيەگە ئۇچىدىغان ئەرزان باھالىق ئايروپىلاننى تاپقان ئەمما تۇرىدىغان جايى يوق بولغاچقا كېيىن 2004-يىلى 1-ئايدا Couchsurfing تورىنى قۇرغان.,travel,travel,"<|begin_of_text|>SENTENCE:
+ كومپيۇتېر پروگراممېرى كەيسىي فېنتىن ئىسلاندىيەگە ئۇچىدىغان ئەرزان باھالىق ئايروپىلاننى تاپقان ئەمما تۇرىدىغان جايى يوق بولغاچقا كېيىن 2004-يىلى 1-ئايدا Couchsurfing تورىنى قۇرغان. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+REASONING:
+This sentence"
+ئوقۇغۇچىلار ۋىزىسىنىڭ ئادەتتە نورمال ساياھەت ياكى سودا ۋىزىسى بىلەن ئوخشىمايدىغان تەلىپى ۋە ئىلتىماس باسقۇچى بولىدۇ.,travel,travel,"<|begin_of_text|>SENTENCE:
+ ئوقۇغۇچىلار ۋىزىسىنىڭ ئادەتتە نورمال ساياھەت ياكى سودا ۋىزىسى بىلەن ئوخشىمايدىغان تەلىپى ۋە ئىلتىماس باسقۇچى بولىدۇ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+ئوق"
+ئوخشىمىغان دۆلەتلەرنىڭ ئاپتوموبىل ئىچىدە قايسى زۆرۈر نەرسىلەر بولۇش كېرەكلىكى توغرىسىدا ئۆزىگە خاس قانۇنى بار.,travel,politics,"<|begin_of_text|>SENTENCE:
+ ئوخشىمىغان دۆلەتلەرنىڭ ئاپتوموبىل ئىچىدە قايسى زۆرۈر نەرسىلەر بولۇش كېرەكلىكى توغرىسىدا ئۆزىگە خاس قانۇنى بار. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: None of the above (politics) �"
+گەرچە كۆپىنچە ساياھەت كوپىراتىپلىرى دائىملىق زاكازنى قوبۇل قىلسىمۇ، ئەمما نۇرغۇن ساياھەت كوپىراتىپلىرى بەلگىلىك ساياھەت تۈرى، بەلگىلىك خامچوت دائىرىسى ياكى بەلگىلىك رايون ساياھىتى بىلەن شۇغۇللىنىدۇ.,travel,travel,"<|begin_of_text|>SENTENCE:
+ گەرچە كۆپىنچە ساياھەت كوپىراتىپلىرى دائىملىق زاكازنى قوبۇل قىلسىمۇ، ئەمما نۇرغۇن ساياھەت كوپىراتىپلىرى بەلگىلىك ساياھەت تۈرى، بەلگىلىك خامچوت دائىرىسى ياكى بەلگىلىك رايون ساياھىتى بىلەن شۇغۇللىنىدۇ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+ This sentence is about travel."
+ساياھەتچىلەر ناتونۇش ھايۋان ۋە زىيانداش جانلىقلارغا يولۇقۇشى مۇمكىن.,travel,travel,"<|begin_of_text|>SENTENCE:
+ ساياھەتچىلەر ناتونۇش ھايۋان ۋە زىيانداش جانلىقلارغا يولۇقۇشى مۇمكىن. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+سايا"
+شىمالىدا سىز دۇنياغا داڭلىق بۈۋىمەريەم روھى كۆرۈلگەن ئۇلۇغ فاتىمە مازارلىقىنىمۇ زىيارەت قىلالايسىز.,travel,travel,"<|begin_of_text|>SENTENCE:
+ شىمالىدا سىز دۇنياغا داڭلىق بۈۋىمەريەم روھى كۆرۈلگەن ئۇلۇغ فاتىمە مازارلىقىنىمۇ زىيارەت قىلالايسىز. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+ TRANSLATION:
+You can"
+سىرتنى ئايلىنىش ئۈچۈن بودا-بودا (موتوسىكلىت تاكسى)غا چىقسىڭىز بولىدۇ. ئۇنىڭ نورمال (يەرلىك) باھاسى قىسقا يول ئۈچۈن 500 كونگو فىرانكى ئەتراپىدا.,travel,travel,"<|begin_of_text|>SENTENCE:
+ سىرتنى ئايلىنىش ئۈچۈن بودا-بودا (موتوسىكلىت تاكسى)غا چىقسىڭىز بولىدۇ. ئۇنىڭ نورمال (يەرلىك) باھاسى قىسقا يول ئۈچۈن 500 كونگو فىرانكى ئەتراپىدا. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+ TRANSLATION:
+You can"
+دالا پائالىيىتىنى ياخشى كۆرىدىغانلار ئۈچۈن دېڭىزدىن ئاسمانغا تۇتىشىدىغان كارىدورىدا مېڭىش تولىمۇ ئەھمىيەتلىك بولۇپ ھېسابلىنىدۇ.,travel,travel,"<|begin_of_text|>SENTENCE:
+ دالا پائالىيىتىنى ياخشى كۆرىدىغانلار ئۈچۈن دېڭىزدىن ئاسمانغا تۇتىشىدىغان كارىدورىدا مېڭىش تولىمۇ ئەھمىيەتلىك بولۇپ ھېسابلىنىدۇ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+TRANSLATION:
+For those"
+پىيادە سافارى («چاتقاللىق سەيلىسى»، «ياياق سافارى» ياكى «ئايلىنىپ كېرىش» دەپمۇ ئاتىلىدۇ) پىيادە مېڭىشتىن تەركىب تاپىدىغان بولۇپ، بىر نەچچە سائەت ياكى بىر نەچچە كۈن بولسىمۇ بولىدۇ.,travel,travel,"<|begin_of_text|>SENTENCE:
+ پىيادە سافارى («چاتقاللىق سەيلىسى»، «ياياق سافارى» ياكى «ئايلىنىپ كېرىش» دەپمۇ ئاتىلىدۇ) پىيادە مېڭىشتىن تەركىب تاپىدىغان بولۇپ، بىر نەچچە سائەت ياكى بىر نەچچە كۈن بولسىمۇ بولىدۇ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+ Is there a word in the"
+تېز يەتكۈزۈشنىڭ بىردىنبىر ئۇسۇلى تەكشۈرۈلگەن يۈك-تاق شەكلىدە ئەۋەتىش. ئاۋىياتسىيە شىركىتىنىڭ بەلگىلىمىلىرى ئۇلارنىڭ يولۇچىسىز يۈك-تاق ئەۋەتىشىگە يول قويمايدۇ، بۇ بىر يوچۇق.,travel,geography,"<|begin_of_text|>SENTENCE:
+ تېز يەتكۈزۈشنىڭ بىردىنبىر ئۇسۇلى تەكشۈرۈلگەن يۈك-تاق شەكلىدە ئەۋەتىش. ئاۋىياتسىيە شىركىتىنىڭ بەلگىلىمىلىرى ئۇلارنىڭ يولۇچىسىز يۈك-تاق ئەۋەتىشىگە يول قويمايدۇ، بۇ بىر يوچۇق. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+ None of the above (geography) geography"
+قوشۇمچە 300 ۋاگون جەمئىي ساننى 1300 گە يەتكۈزۈپ، نورمىدىن ئارتۇق ئادەم سېلىش بېسىمىنى يەڭگىللىتىدۇ.,travel,geography,"<|begin_of_text|>SENTENCE:
+ قوشۇمچە 300 ۋاگون جەمئىي ساننى 1300 گە يەتكۈزۈپ، نورمىدىن ئارتۇق ئادەم سېلىش بېسىمىنى يەڭگىللىتىدۇ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+ TRANSLATION:
+ق"
+كىچىك بالىسى بار ئائىلىلەر كۆپرەك تەييارلىق قىلىشى مۇمكىن، ئەمما بوۋاقلار ۋە ئوقۇش يېشىغا توشمىغان بالىلار بىلەنمۇ، بىر كۈنلۈك دالا پائالىيىتىنى ئاسانلا ئېلىپ بارغىلى بولىدۇ.,travel,travel,"<|begin_of_text|>SENTENCE:
+ كىچىك بالىسى بار ئائىلىلەر كۆپرەك تەييارلىق قىلىشى مۇمكىن، ئەمما بوۋاقلار ۋە ئوقۇش يېشىغا توشمىغان بالىلار بىلەنمۇ، بىر كۈنلۈك دالا پائالىيىتىنى ئاسانلا ئېلىپ بارغىلى بولىدۇ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+ REASONING:
+This question"
+يۇقىرى كەڭلىكتە ياكى تاغ ئېغىزىدىن ھالقىپ ئۆتمەكچى بولغانلار قار، مۇزلاش ياكى مۇزلۇق ھاۋارايىنىڭ مۇمكىنچىلىكىنى ئويلىشىشى كېرەك.,travel,geography,"<|begin_of_text|>SENTENCE:
+ يۇقىرى كەڭلىكتە ياكى تاغ ئېغىزىدىن ھالقىپ ئۆتمەكچى بولغانلار قار، مۇزلاش ياكى مۇزلۇق ھاۋارايىنىڭ مۇمكىنچىلىكىنى ئويلىشىشى كېرەك. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+ TRANSLATION:
+ Those"
+بۈگۈنكى كۈندە گەرچە ئۇنىڭ داڭقى ساياھەتچىلەرنى جەلپ قىلالىغان ۋە شەھەردە ئايرودۇرۇم بولسىمۇ، لېكىن تىمبۇكتۇ (Timbuktu‎) يەنىلا بىر نامرات شەھەر.,travel,N/A,"<|begin_of_text|>SENTENCE:
+ بۈگۈنكى كۈندە گەرچە ئۇنىڭ داڭقى ساياھەتچىلەرنى جەلپ قىلالىغان ۋە شەھەردە ئايرودۇرۇم بولسىمۇ، لېكىن تىمبۇكتۇ (Timbuktu‎) يەنىلا بىر نامرات شەھەر. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel geography 
+This text is about travel"
+قار-شىۋىرغانلىق مەزگىلدە، سىزنى قاپساپ قويغۇدەك قار ناھايىتى قىسقا ۋاقىت ئىچىدە چۈشۈپ بولۇشى مۇمكىن.,travel,travel,"<|begin_of_text|>SENTENCE:
+ قار-شىۋىرغانلىق مەزگىلدە، سىزنى قاپساپ قويغۇدەك قار ناھايىتى قىسقا ۋاقىت ئىچىدە چۈشۈپ بولۇشى مۇمكىن. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+TRANSLATION:
+In the"
+ئەگەر سىز جەنۇبىي يېرىم شاردا پۈتۈن دۇنيانى ئايلىنىپ ساياھەت قىلماقچى بولسىڭىز، ئوكيان ھالقىغان ئۇچۇش لىنىيەسى كەم بولغاچقا، نۆۋەتچى ئايروپىلان ۋە مەنزىل تاللاش دائىرىڭىز چەكلىك بولىدۇ.,travel,travel,"<|begin_of_text|>SENTENCE:
+ ئەگەر سىز جەنۇبىي يېرىم شاردا پۈتۈن دۇنيانى ئايلىنىپ ساياھەت قىلماقچى بولسىڭىز، ئوكيان ھالقىغان ئۇچۇش لىنىيەسى كەم بولغاچقا، نۆۋەتچى ئايروپىلان ۋە مەنزىل تاللاش دائىرىڭىز چەكلىك بولىدۇ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+ EXPLANATION:
+ This question"
+ئەرەپ بىرلەشمە خەلىپىلىكى، ئېتىقاد ئاۋىياتسىيە شىركىتى، قاتار ئاۋىياتسىيە شىركىتى ۋە تۈركىيە ئاۋىياتسىيە شىركىتى قاتارلىق ئاۋىياتسىيە شىركەتلىرى ئافرىقىغا قارىتا مۇلازىمىتىنى زور دەرىجىدە كېڭەيتىپ، باشقا ياۋروپا ئاۋىياتسىيە شىركەتلىرىگە قارىغاندا تېخىمۇ ياخشى باھا بىلەن ئافرىقا قىتئەسىدىكى نۇرغۇن چوڭ شەھەرلەرنى تۇتاشتىرىدۇ.,travel,geography,"<|begin_of_text|>SENTENCE:
+ ئەرەپ بىرلەشمە خەلىپىلىكى، ئېتىقاد ئاۋىياتسىيە شىركىتى، قاتار ئاۋىياتسىيە شىركىتى ۋە تۈركىيە ئاۋىياتسىيە شىركىتى قاتارلىق ئاۋىياتسىيە شىركەتلىرى ئافرىقىغا قارىتا مۇلازىمىتىنى زور دەرىجىدە كېڭەيتىپ، باشقا ياۋروپا ئاۋىياتسىيە شىركەتلىرىگە قارىغاندا تېخىمۇ ياخشى باھا بىلەن ئافرىقا قىتئەسىدىكى نۇرغۇن چوڭ شەھەرلەرنى تۇتاشتىرىدۇ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+ TRANSLATION:
+Ar"
+باشقا قاتناش توختىتىلمايدۇ، مېترو پويىزلىرى ۋېمبلېيدا توختاپ قالمايدۇ، ماشىنا توختىتىش مەيدانى ۋە باغچا ماشىنا ئەسلىھەلىرى ئىشتىن توختايدۇ.,travel,N/A,"<|begin_of_text|>SENTENCE:
+ باشقا قاتناش توختىتىلمايدۇ، مېترو پويىزلىرى ۋېمبلېيدا توختاپ قالمايدۇ، ماشىنا توختىتىش مەيدانى ۋە باغچا ماشىنا ئەسلىھەلىرى ئىشتىن توختايدۇ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+None of the above. This sentence is about"
+ئادەتتە ھەر قانداق بىر چەت دۆلەتتە ئۇزۇن مۇددەت تۇرۇش ئۈچۈن سىز ئالدىن ۋىزا ئېلىشىڭىز كېرەك.,travel,travel,"<|begin_of_text|>SENTENCE:
+ ئادەتتە ھەر قانداق بىر چەت دۆلەتتە ئۇزۇن مۇددەت تۇرۇش ئۈچۈن سىز ئالدىن ۋىزا ئېلىشىڭىز كېرەك. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+TRANSLATION:
+It is"
+ھەر بىر پويىزدا مېتروپىلۇس ۋە مېترو ۋاگونلىرى بار؛ مېتروپىلۇس ۋاگونلىرى پويىزنىڭ كاپېتوۋنغا ئەڭ يېقىن ئۇچىدا بولىدۇ.,travel,travel,"<|begin_of_text|>SENTENCE:
+ ھەر بىر پويىزدا مېتروپىلۇس ۋە مېترو ۋاگونلىرى بار؛ مېتروپىلۇس ۋاگونلىرى پويىزنىڭ كاپېتوۋنغا ئەڭ يېقىن ئۇچىدا بولىدۇ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+ REASONING:
+ This question"
+ھەممە كىشى جەمئىيەتتە ياشايدۇ ۋە قاتناش سىستېمىسى ئىشلىتىدۇ. ھەممەيلەن دېگۈدەك قاتناش سىستېمىسىدىن قاقشايدۇ.,travel,science/technology,"<|begin_of_text|>SENTENCE:
+ ھەممە كىشى جەمئىيەتتە ياشايدۇ ۋە قاتناش سىستېمىسى ئىشلىتىدۇ. ھەممەيلەن دېگۈدەك قاتناش سىستېمىسىدىن قاقشايدۇ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+science
+REASONING:
+This question requires"
+بۇ رايونلاردا كىشىلەر شالاڭ ئولتۇراقلاشقان بولغاچقا، نۇردىن بۇلغىنىش مەسىلىسى مەۋجۇت ئەمەس، يۇلتۇزلۇق ئاسماندىن ھەم ھۇزۇرلىنالايسىز.,travel,geography,"<|begin_of_text|>SENTENCE:
+ بۇ رايونلاردا كىشىلەر شالاڭ ئولتۇراقلاشقان بولغاچقا، نۇردىن بۇلغىنىش مەسىلىسى مەۋجۇت ئەمەس، يۇلتۇزلۇق ئاسماندىن ھەم ھۇزۇرلىنالايسىز. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+ TRANSLATION:
+ب"
+ۋىزا تەلەپلىرى ھەرقايسى بارماقچى بولغان دۆلەتلەر ئارا ۋە سىزنىڭ دۆلەت تەۋەلىكىڭىزگە قاراپ ئوخشىمايدۇ.,travel,travel,"<|begin_of_text|>SENTENCE:
+ ۋىزا تەلەپلىرى ھەرقايسى بارماقچى بولغان دۆلەتلەر ئارا ۋە سىزنىڭ دۆلەت تەۋەلىكىڭىزگە قاراپ ئوخشىمايدۇ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+TRANSLATION:
+Visa"
+ئومۇمەن قىلىپ ئېيتقاندا، A جايدىن B جايغا بىۋاسىتە ئۇچۇشتا، سودا بۆلۈمچىسى ياكى ئالاھىدە ئالىي دەرىجىلىك ئورۇنلارغا بېرىلىدىغان ئېتىبار باھالارنى ئىزدەشنىڭ پەقەتلا ئەھمىيىتى يوق.,travel,geography,"<|begin_of_text|>SENTENCE:
+ ئومۇمەن قىلىپ ئېيتقاندا، A جايدىن B جايغا بىۋاسىتە ئۇچۇشتا، سودا بۆلۈمچىسى ياكى ئالاھىدە ئالىي دەرىجىلىك ئورۇنلارغا بېرىلىدىغان ئېتىبار باھالارنى ئىزدەشنىڭ پەقەتلا ئەھمىيىتى يوق. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: None of the above (geography is the closest"
+ئۇچار قايتما خەنجەر ئېتىش نۇرغۇن ساياھەتچىلەر ئۆگەنمەكچى بولغان مودا ماھارەت.,travel,travel,"<|begin_of_text|>SENTENCE:
+ ئۇچار قايتما خەنجەر ئېتىش نۇرغۇن ساياھەتچىلەر ئۆگەنمەكچى بولغان مودا ماھارەت. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+REASONING:
+This sentence"
+جەنۇبىي تىنچ ئوكيان ۋە جەنۇبىي ئامېرىكىنىڭ غەربىي دېڭىز قىرغىقىدىن ئۇچۇپ ئۆتۈشنى خالىمىغان بولسىڭىز، بۇ ئۇچۇش لىنىيەسى بىردىنبىر تاللاش ئەمەس. (تۆۋەنگە قاراڭ),travel,geography,"<|begin_of_text|>SENTENCE:
+ جەنۇبىي تىنچ ئوكيان ۋە جەنۇبىي ئامېرىكىنىڭ غەربىي دېڭىز قىرغىقىدىن ئۇچۇپ ئۆتۈشنى خالىمىغان بولسىڭىز، بۇ ئۇچۇش لىنىيەسى بىردىنبىر تاللاش ئەمەس. (تۆۋەنگە قاراڭ) 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography geography ANSWER: geography geography"
+سان فىرانسىسكو ئاللىقاچان غايەت زور ساياھەت ئۇل ئەسلىھەلىرىنى تەرەققىي قىلدۇرغان بولۇپ، بۇ شەھەردە نۇرغۇنلىغان مېھمانخانىلار، رېستورانلار ۋە ئالىي دەرىجىلىك يىغىن زاللىرى بار.,travel,travel,"<|begin_of_text|>SENTENCE:
+ سان فىرانسىسكو ئاللىقاچان غايەت زور ساياھەت ئۇل ئەسلىھەلىرىنى تەرەققىي قىلدۇرغان بولۇپ، بۇ شەھەردە نۇرغۇنلىغان مېھمانخانىلار، رېستورانلار ۋە ئالىي دەرىجىلىك يىغىن زاللىرى بار. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+ This sentence is about travel."
+ساياھەت جەريانىدا پىدائىي بولۇش ھازىرقى ھالەتنى ئۆزگەرتىشنىڭ ياخشى ئۇسۇلى، لېكىن ئۇ پەقەت تەقدىم قىلىشلا ئەمەس.,travel,travel,"<|begin_of_text|>SENTENCE:
+ ساياھەت جەريانىدا پىدائىي بولۇش ھازىرقى ھالەتنى ئۆزگەرتىشنىڭ ياخشى ئۇسۇلى، لېكىن ئۇ پەقەت تەقدىم قىلىشلا ئەمەس. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+DEFINITION:
+سايا"
+كىشىلەر سەۋرچان بولۇش ۋە توغرا چۈشىنىشنىڭ، يۇرتىغا قايتقان ساياھەتچىلەرگىمۇ زۆرۈرئىكەنلىگىنى بىلمەسلىكى مۇمكىن.,travel,travel,"<|begin_of_text|>SENTENCE:
+ كىشىلەر سەۋرچان بولۇش ۋە توغرا چۈشىنىشنىڭ، يۇرتىغا قايتقان ساياھەتچىلەرگىمۇ زۆرۈرئىكەنلىگىنى بىلمەسلىكى مۇمكىن. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+This sentence is about travel."
+ئافرىقىدىن باشقا بارلىق جايلارغا قوشۇمچە ۋىزا، يولغا چىقىش بېجى، يەر قاتنىشى قاتارلىق قوشۇمچە چىقىملارنى قوشۇشنى ئۇنتۇپ قالماڭ.,travel,travel,"<|begin_of_text|>SENTENCE:
+ ئافرىقىدىن باشقا بارلىق جايلارغا قوشۇمچە ۋىزا، يولغا چىقىش بېجى، يەر قاتنىشى قاتارلىق قوشۇمچە چىقىملارنى قوشۇشنى ئۇنتۇپ قالماڭ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+ TRANSLATION:
+ئافر"
+بىر قىسىم بىشكەك پۇقرالىرى بۇ قانۇنسىز قىلمىشلار ئۈچۈن جەنۇبتىن كەلگەن قارشىلىق كۆرسەتكۈچىلەرنى ئەيىبلىدى.,politics,politics,"<|begin_of_text|>SENTENCE:
+ بىر قىسىم بىشكەك پۇقرالىرى بۇ قانۇنسىز قىلمىشلار ئۈچۈن جەنۇبتىن كەلگەن قارشىلىق كۆرسەتكۈچىلەرنى ئەيىبلىدى. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: None of the above (politics is the closest"
+ھازىرقى بېلگىيەنىڭ بىر قىسىمى بۇرۇنقى لىيۇكسېمبۇرگقا تەۋە ئىدى، لېكىن 1830-يىللاردىكى بېلگىيە ئىنقىلابىدىن كېيىن بېلگىيەگە ئايلانغان.,politics,geography,"<|begin_of_text|>SENTENCE:
+ ھازىرقى بېلگىيەنىڭ بىر قىسىمى بۇرۇنقى لىيۇكسېمبۇرگقا تەۋە ئىدى، لېكىن 1830-يىللاردىكى بېلگىيە ئىنقىلابىدىن كېيىن بېلگىيەگە ئايلانغان. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+ EXPLANATION:
+ This"
+1988-يىلدىن باشلاپ، بېلەت ساندۇقىنىڭ سۈزۈك بولۇشى كېرەكلىكى بەلگىلەندى، شۇنداق بولغاندا سايلىغۇچىلار ۋە كۆزەتكۈچىلەر ساندۇقتا ئالدىن تاشلانغان كونۋېرتنىڭ يوقلۇقىنى كۆرەلەيدۇ، مۇۋاپىق سانالغان ۋە ھوقۇق بېرىلگەن سايلىغۇچىلاردىن باشقا ھېچقانداق كونۋېرتنىڭ قوشۇلمىغانلىقىغا گۇۋاھ بولالايدۇ.,politics,politics,"<|begin_of_text|>SENTENCE:
+ 1988-يىلدىن باشلاپ، بېلەت ساندۇقىنىڭ سۈزۈك بولۇشى كېرەكلىكى بەلگىلەندى، شۇنداق بولغاندا سايلىغۇچىلار ۋە كۆزەتكۈچىلەر ساندۇقتا ئالدىن تاشلانغان كونۋېرتنىڭ يوقلۇقىنى كۆرەلەيدۇ، مۇۋاپىق سانالغان ۋە ھوقۇق بېرىلگەن سايلىغۇچىلاردىن باشقا ھېچقانداق كونۋېرتنىڭ قوشۇلمىغانلىقىغا گۇۋاھ بولالايدۇ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: None of the above (politics) 
+ This"
+ۋاقىتلىق باش مىنىستىر جۇلىيا گىللارد 2010-يىلدىكى فېدېراتسىيە سايلام پائالىيىتى جەريانىدا ئاۋسترالىيە ئايال پادىشاھ ئېلىزابېت ئىككىنچىنىڭ ھۆكۈمرانلىقى ئاياغلاشقاندىلا جۇمھۇرىيەتكە ئايلىنىشى كېرەكلىكىنى ئوتتۇرىغا قويدى.,politics,politics,"<|begin_of_text|>SENTENCE:
+ ۋاقىتلىق باش مىنىستىر جۇلىيا گىللارد 2010-يىلدىكى فېدېراتسىيە سايلام پائالىيىتى جەريانىدا ئاۋسترالىيە ئايال پادىشاھ ئېلىزابېت ئىككىنچىنىڭ ھۆكۈمرانلىقى ئاياغلاشقاندىلا جۇمھۇرىيەتكە ئايلىنىشى كېرەكلىكىنى ئوتتۇرىغا قويدى. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+DEFINITION:
+Julia"
+ئىرېلاندىيە ھۆكۈمىتى پارلامېنت قانۇنلىرىنىڭ ۋەزىيەتنى تۈزىتىشتىكى مۇھىملىقىنى تەكىتلىدى.,politics,politics,"<|begin_of_text|>SENTENCE:
+ ئىرېلاندىيە ھۆكۈمىتى پارلامېنت قانۇنلىرىنىڭ ۋەزىيەتنى تۈزىتىشتىكى مۇھىملىقىنى تەكىتلىدى. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+ئى"
+بۇ رايوندىكى دىپلوماتىك ئىختىلاپلار ئەرمېنىيە ئەزەربەيجان مۇناسىۋىتىنى داۋاملىق ھالدا بۇزماقتا.,politics,politics,"<|begin_of_text|>SENTENCE:
+ بۇ رايوندىكى دىپلوماتىك ئىختىلاپلار ئەرمېنىيە ئەزەربەيجان مۇناسىۋىتىنى داۋاملىق ھالدا بۇزماقتا. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+TRANSLATION:
+Dipl"
+باش مىنىستىر ستىفېن ھارپېر سەيشەنبە كۈنى PMO دا NDP رەھبىرى جەك لەيتون بىلەن 25 مىنۇتلۇق ئۇچرىشىشتىن كېيىن، ھۆكۈمەتنىڭ «پاكىزە ھاۋا قانۇنى» نى بارلىق پارتىيە كومىتېتىغا قايتا قاراپ چىقىشقا ئەۋەتىشكە قوشۇلدى.,politics,politics,"<|begin_of_text|>SENTENCE:
+ باش مىنىستىر ستىفېن ھارپېر سەيشەنبە كۈنى PMO دا NDP رەھبىرى جەك لەيتون بىلەن 25 مىنۇتلۇق ئۇچرىشىشتىن كېيىن، ھۆكۈمەتنىڭ «پاكىزە ھاۋا قانۇنى» نى بارلىق پارتىيە كومىتېتىغا قايتا قاراپ چىقىشقا ئەۋەتىشكە قوشۇلدى. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+politics
+ This sentence is about politics because"
+ئۆتكەن ئاي پولشا ACTA نى ئىمزالىغان چاغدا چوڭ نامايىشلار كۆرۈلدى ۋە پولشا ھۆكۈمىتىنىڭ بۇ كېلىشىمنى ھازىرچە تەستىقلىماسلىق قارارىنى ئىلىشقا مەجبۇر قىلدى.,politics,politics,"<|begin_of_text|>SENTENCE:
+ ئۆتكەن ئاي پولشا ACTA نى ئىمزالىغان چاغدا چوڭ نامايىشلار كۆرۈلدى ۋە پولشا ھۆكۈمىتىنىڭ بۇ كېلىشىمنى ھازىرچە تەستىقلىماسلىق قارارىنى ئىلىشقا مەجبۇر قىلدى. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+politics
+EXPLANATION:
+ئ�"
+ئەسكەرتىش پەقەت بىر دۆلەتنىڭ سىياسىي ۋەزىيىتىنىڭ قىسقىچە خۇلاسىسى.,politics,politics,"<|begin_of_text|>SENTENCE:
+ ئەسكەرتىش پەقەت بىر دۆلەتنىڭ سىياسىي ۋەزىيىتىنىڭ قىسقىچە خۇلاسىسى. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+ئ�"
+1976-يىللىق تاللاشتا ئۇ كارتېرنىڭ تاشقى ئىشلار مەسلىھەتچىسى بولدى، ئاندىن 1977-يىلدىن 1981-يىلغىچە ھېنرى كىسسىڭگېردىن كېيىنكى دۆلەت بىخەتەرلىك مەسلىھەتچىسى بولدى.,politics,politics,"<|begin_of_text|>SENTENCE:
+ 1976-يىللىق تاللاشتا ئۇ كارتېرنىڭ تاشقى ئىشلار مەسلىھەتچىسى بولدى، ئاندىن 1977-يىلدىن 1981-يىلغىچە ھېنرى كىسسىڭگېردىن كېيىنكى دۆلەت بىخەتەرلىك مەسلىھەتچىسى بولدى. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+ This sentence is about politics because"
+باياناتتا تۈركىيەنىڭ تۇتۇلغان ۋە ياۋروپا دۆلەتلىرى يۇرتىغا قايتۇرۇپ كېتىشنى رەت قىلغان «ئىسلام دۆلىتى» جەڭچىلىرىگە قاراۋۇللۇق قىلىدىغانلىقى ئېيتىلدى.,politics,politics,"<|begin_of_text|>SENTENCE:
+ باياناتتا تۈركىيەنىڭ تۇتۇلغان ۋە ياۋروپا دۆلەتلىرى يۇرتىغا قايتۇرۇپ كېتىشنى رەت قىلغان «ئىسلام دۆلىتى» جەڭچىلىرىگە قاراۋۇللۇق قىلىدىغانلىقى ئېيتىلدى. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+ Related questions:
+ What is the"
+بىراق سوۋېت قىزىل ئارمىيەسىنىڭ 800 مىڭ ئەسكىرى «رىگا كېلىشىمنامىسى»، «سوۋېت ئىتتىپاقى ۋە پولشا ئۆز-ئارا تاجاۋۇز قىلماسلىق شەرتنامىسى» ۋە باشقا قوش تەرەپلىك ۋە كۆپ تەرەپلىك خەلقئارا شەرتنامىلەرگە خىلاپلىق قىلىپ پولشانىڭ شەرقىي قىسىمىغا بېسىپ كىرىپ، بېلارۇسىيە ۋە ئۇكرائىنا جەڭ لىنىيەسىنى قۇرغاندا، بۇ پىلانلارنىڭ ھەممىسى بىر كېچىدىلا سۇغا چىلاشتى.,politics,politics,"<|begin_of_text|>SENTENCE:
+ بىراق سوۋېت قىزىل ئارمىيەسىنىڭ 800 مىڭ ئەسكىرى «رىگا كېلىشىمنامىسى»، «سوۋېت ئىتتىپاقى ۋە پولشا ئۆز-ئارا تاجاۋۇز قىلماسلىق شەرتنامىسى» ۋە باشقا قوش تەرەپلىك ۋە كۆپ تەرەپلىك خەلقئارا شەرتنامىلەرگە خىلاپلىق قىلىپ پولشانىڭ شەرقىي قىسىمىغا بېسىپ كىرىپ، بېلارۇسىيە ۋە ئۇكرائىنا جەڭ لىنىيەسىنى قۇرغاندا، بۇ پىلانلارنىڭ ھەممىسى بىر كېچىدىلا سۇغا چىلاشتى. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+RELATED ARTICLES:
+- Soviet"
+بۇ جەريان بويىچە، HJR-3 نىڭ جەرياندا داۋاملىق تۇرۇشى ئۈچۈن 2015 ياكى 2016 دە سايلانغان قانۇن چىقارغۇچىلار ئۇنىڭغا قايتا قاراپ چىقىدۇ.,politics,politics,"<|begin_of_text|>SENTENCE:
+ بۇ جەريان بويىچە، HJR-3 نىڭ جەرياندا داۋاملىق تۇرۇشى ئۈچۈن 2015 ياكى 2016 دە سايلانغان قانۇن چىقارغۇچىلار ئۇنىڭغا قايتا قاراپ چىقىدۇ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+politics
+EXPLANATION:
+ب�"
+7-ئاينىڭ 4-كۈنى پارلامېنت تەرىپىدىن ماقۇللانغاندىن كېيىن، پارلامېنت رەئىسى جون خەنكاك ۋە كاتىپ چارلېز سومسىن ئىمزا قويغان يازما لايىھە بىر نەچچە كوچا يىراقلىقتىكى جون دونلاپنىڭ باسما دۇكىنىغا ئەۋەتىلدى.,politics,politics,"<|begin_of_text|>SENTENCE:
+ 7-ئاينىڭ 4-كۈنى پارلامېنت تەرىپىدىن ماقۇللانغاندىن كېيىن، پارلامېنت رەئىسى جون خەنكاك ۋە كاتىپ چارلېز سومسىن ئىمزا قويغان يازما لايىھە بىر نەچچە كوچا يىراقلىقتىكى جون دونلاپنىڭ باسما دۇكىنىغا ئەۋەتىلدى. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+politics
+EXPLANATION:
+پار"
+11:00 دىن كېيىن نامايىشچىلار ئاق زالنىڭ شىمالىي لىنىيەسىنىڭ قاتنىشىنى توسۇۋالدى.,politics,geography,"<|begin_of_text|>SENTENCE:
+ 11:00 دىن كېيىن نامايىشچىلار ئاق زالنىڭ شىمالىي لىنىيەسىنىڭ قاتنىشىنى توسۇۋالدى. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+REASONING:
+This"
+بىراق 1956-يىلى 6-ئايدا پولشادا توپىلاڭ يۈز بەرگەندە، خرۇشېۋنىڭ ۋەدىسى سىناققا دۇچ كەلدى. پولشادا ئىشچىلار ئاشلىق يېتىشمەسلىك ۋە ئىش ھەققىنى كېمەيتىشكە قارشى نامايىش ئېلىپ بارغان بولۇپ، بۇ كوممۇنىزمغا قارشى كەڭ كۆلەملىك نامايىشقا ئايلانغان.,politics,politics,"<|begin_of_text|>SENTENCE:
+ بىراق 1956-يىلى 6-ئايدا پولشادا توپىلاڭ يۈز بەرگەندە، خرۇشېۋنىڭ ۋەدىسى سىناققا دۇچ كەلدى. پولشادا ئىشچىلار ئاشلىق يېتىشمەسلىك ۋە ئىش ھەققىنى كېمەيتىشكە قارشى نامايىش ئېلىپ بارغان بولۇپ، بۇ كوممۇنىزمغا قارشى كەڭ كۆلەملىك نامايىشقا ئايلانغان. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+ Related questions:
+ What was the"
+بۇ ئۇرۇش 40 يىل داۋاملاشتى ۋە ئافرىقىدىن تارتىپ ئاسىياغىچە بولغان ئافغانىستان، كۇبا ۋە نۇرغۇن باشقا جايلاردا ئۇلار ۋەكىللىك قىلغان ئارمىيەلەر ئارىسىدا ھەقىقىي جەڭلەر بولۇپ ئۆتتى.,politics,politics,"<|begin_of_text|>SENTENCE:
+ بۇ ئۇرۇش 40 يىل داۋاملاشتى ۋە ئافرىقىدىن تارتىپ ئاسىياغىچە بولغان ئافغانىستان، كۇبا ۋە نۇرغۇن باشقا جايلاردا ئۇلار ۋەكىللىك قىلغان ئارمىيەلەر ئارىسىدا ھەقىقىي جەڭلەر بولۇپ ئۆتتى. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+This sentence"
+ئالدىنقى ئايدا پرېزىدېنتلىق كومىتېتى دۆلەتنى يېڭى سايلامغا باشلاش تەدبىرلىرىنىڭ بىر قىسمى سۈپىتىدە بۇرۇنقى CEP نىڭ ئىستىپا بېرىشىنى تەۋسىيە قىلدى.,politics,politics,"<|begin_of_text|>SENTENCE:
+ ئالدىنقى ئايدا پرېزىدېنتلىق كومىتېتى دۆلەتنى يېڭى سايلامغا باشلاش تەدبىرلىرىنىڭ بىر قىسمى سۈپىتىدە بۇرۇنقى CEP نىڭ ئىستىپا بېرىشىنى تەۋسىيە قىلدى. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+politics
+EXPLANATION:
+The sentence"
+باشقا تېمىلاردىن يەنە ھەر ئىككى دۆلەت ئۈچۈن مۇقەددسە ھېسابلانغان يېرۇسالېمنىڭ ھالىتى ۋە ئىئوردانىيە جىلغىسى مەسىلىسى بار.,politics,geography,"<|begin_of_text|>SENTENCE:
+ باشقا تېمىلاردىن يەنە ھەر ئىككى دۆلەت ئۈچۈن مۇقەددسە ھېسابلانغان يېرۇسالېمنىڭ ھالىتى ۋە ئىئوردانىيە جىلغىسى مەسىلىسى بار. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+ TRANSLATION:
+ Another"
+ئۇنىڭ ئىشتات باج قانۇنلىرى ۋە چەكلىمىلىرىدىن ھالقىپ ھوقۇق يۈرگۈزۈش ئىمتىيازىمۇ يوق ئىدى.,politics,politics,"<|begin_of_text|>SENTENCE:
+ ئۇنىڭ ئىشتات باج قانۇنلىرى ۋە چەكلىمىلىرىدىن ھالقىپ ھوقۇق يۈرگۈزۈش ئىمتىيازىمۇ يوق ئىدى. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: None of the above (politics is the closest"
+بۇ جەرياننى فىرانسىيە سايلام قانۇنى بىرلىكتە بەلگىلىگەن.,politics,politics,"<|begin_of_text|>SENTENCE:
+ بۇ جەرياننى فىرانسىيە سايلام قانۇنى بىرلىكتە بەلگىلىگەن. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: -politics
+ TRANSLATION:
+ This process"
+ئوتتۇرا مەزگىللىك سايلامدا ئۇتتۇرۇپ قويۇپ بىر ھەپتىدىن كېيىن بۇش ئاسىيادا سودىنى كېڭەيتىش ھەققىدە سۆز قىلدى.,politics,geography,"<|begin_of_text|>SENTENCE:
+ ئوتتۇرا مەزگىللىك سايلامدا ئۇتتۇرۇپ قويۇپ بىر ھەپتىدىن كېيىن بۇش ئاسىيادا سودىنى كېڭەيتىش ھەققىدە سۆز قىلدى. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+ئ"
+مۇھىم ھەربىي ۋە پۇقراۋى تەمىناتلار ئۈزىۋېتىلدى، گەرچە بۇ قامال ئۆتكەن ئىككى ئەسىردىكى بىر قانچە خەلقئارالىق كېلىشىملەر تۈزگەن ئومۇمەن قوبۇل قىلىنىدىغان خەلقئارالىق قانۇنغا خىلاپلىق قىلغان بولسىمۇ، لېكىن بۇ ئىستراتېگىيەنىڭ ئۈنۈملۈكلىكى ئىسپاتلاندى.,politics,politics,"<|begin_of_text|>SENTENCE:
+ مۇھىم ھەربىي ۋە پۇقراۋى تەمىناتلار ئۈزىۋېتىلدى، گەرچە بۇ قامال ئۆتكەن ئىككى ئەسىردىكى بىر قانچە خەلقئارالىق كېلىشىملەر تۈزگەن ئومۇمەن قوبۇل قىلىنىدىغان خەلقئارالىق قانۇنغا خىلاپلىق قىلغان بولسىمۇ، لېكىن بۇ ئىستراتېگىيەنىڭ ئۈنۈملۈكلىكى ئىسپاتلاندى. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+TRANSLATION:
+مهم"
+گەرچە سىياسىي سۆھبەت مەغلۇپ بولغان بولسىمۇ، مولدوۋانىڭ بۇ ئىككى قىسىمى ئوتتۇرىسىدىكى ئىقتىسادىي مۇناسىۋەت قايتىدىن ئورنىتىلدى.,politics,politics,"<|begin_of_text|>SENTENCE:
+ گەرچە سىياسىي سۆھبەت مەغلۇپ بولغان بولسىمۇ، مولدوۋانىڭ بۇ ئىككى قىسىمى ئوتتۇرىسىدىكى ئىقتىسادىي مۇناسىۋەت قايتىدىن ئورنىتىلدى. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+TRANSLATION:
+Although political"
+ئۇ بۇ ئەمەلدارلارنىڭ ھەمراھلىقىدا تېكساس پۇقرالىرىغا ئاممىنىڭ بىخەتەرلىكىنى قوغداش ئۈچۈن قەدەم تاشلىنىۋاتقانلىقى ھەققىدە كاپالەت بەردى.,politics,politics,"<|begin_of_text|>SENTENCE:
+ ئۇ بۇ ئەمەلدارلارنىڭ ھەمراھلىقىدا تېكساس پۇقرالىرىغا ئاممىنىڭ بىخەتەرلىكىنى قوغداش ئۈچۈن قەدەم تاشلىنىۋاتقانلىقى ھەققىدە كاپالەت بەردى. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+ئ�"
+قايتا قۇرۇش خىزمەتلىرى ھەققىدىكى لىبېرال تەنقىدنىڭ دىققەت نۇقتىسى ۋاشىنگتوندىكى ئىچكى خادىملارنىڭ قايتا قۇرۇش توختاملىرىنى قوبۇللاشتىكى ئاستىلىقىغا مەركەزلەشكەن ئىدى.,politics,politics,"<|begin_of_text|>SENTENCE:
+ قايتا قۇرۇش خىزمەتلىرى ھەققىدىكى لىبېرال تەنقىدنىڭ دىققەت نۇقتىسى ۋاشىنگتوندىكى ئىچكى خادىملارنىڭ قايتا قۇرۇش توختاملىرىنى قوبۇللاشتىكى ئاستىلىقىغا مەركەزلەشكەن ئىدى. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+TRANSLATION:
+The liberal"
+"2010-يىللىق فېدېراتسىيە سايلىمىدىن ئىلگىرى راي سىناشقا قاتناشقان 1,400 ئادەم ئىچىدە ئاۋسترالىيەنىڭ جۇمھۇرىيەتكە ئايلىنىشىغا قارشى تۇرغانلار 2008-يىلدىن بۇيان 8 پىرسەنت ئاشقان.",politics,politics,"<|begin_of_text|>SENTENCE:
+ 2010-يىللىق فېدېراتسىيە سايلىمىدىن ئىلگىرى راي سىناشقا قاتناشقان 1,400 ئادەم ئىچىدە ئاۋسترالىيەنىڭ جۇمھۇرىيەتكە ئايلىنىشىغا قارشى تۇرغانلار 2008-يىلدىن بۇيان 8 پىرسەنت ئاشقان. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+ RELATED QUESTIONS:
+ قى"
+دىپلوماتلارنىڭ قارىشىچە، ئۇلار ئافغانىستان ئاساسىي قانۇنىدا ئىككىنچى باسقۇچلۇق سايلامنىڭ زۆرۈر ئەمەسلىكىنى جەزملەيدىغان يېتەرلىك مۈجمەللىك تاپقان.,politics,politics,"<|begin_of_text|>SENTENCE:
+ دىپلوماتلارنىڭ قارىشىچە، ئۇلار ئافغانىستان ئاساسىي قانۇنىدا ئىككىنچى باسقۇچلۇق سايلامنىڭ زۆرۈر ئەمەسلىكىنى جەزملەيدىغان يېتەرلىك مۈجمەللىك تاپقان. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+ TRANSLATION:
+Dipl"
+نەتىجە چىققاندىن كېيىن، گىڭرىچ سانتورۇمنى ماختىدى، ئەمما رومنېيغا قاتتىق گەپ قىلدى، ئۇنىڭ نامىدا ئايوۋا ئىشتاتىدا گىڭرىچقا قارشى سەلبىي تەشۋىقات ئېلانى تارقىتىلدى.,politics,politics,"<|begin_of_text|>SENTENCE:
+ نەتىجە چىققاندىن كېيىن، گىڭرىچ سانتورۇمنى ماختىدى، ئەمما رومنېيغا قاتتىق گەپ قىلدى، ئۇنىڭ نامىدا ئايوۋا ئىشتاتىدا گىڭرىچقا قارشى سەلبىي تەشۋىقات ئېلانى تارقىتىلدى. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+ TRANSLATION:
+After the"
+بۇ مارتېللىنىڭ تۆت يىل ئىچىدە بەشىنچى قېتىم CEP بولۇشىدۇر.,politics,geography,"<|begin_of_text|>SENTENCE:
+ بۇ مارتېللىنىڭ تۆت يىل ئىچىدە بەشىنچى قېتىم CEP بولۇشىدۇر. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+REASONING:
+This"
+ئولىمپىكتا ئالتۇن مېدال ئالغان بۇ ماھىر 100 مېتىر ۋە 200 مېتىرغا ئەركىن ئۈزۈش ۋە بىرلەشمە مۇسابىقىسىدىكى ئۈچ مەيداندا سۇ ئۈزمەكچى بولغان، ئەمما ئۇنىڭ شىكايەتلىرى سەۋەبىدىن ئۇنىڭ بەدەن ھالىتىدىن گۇمان پەيدا بولدى.,sports,sports,"<|begin_of_text|>SENTENCE:
+ ئولىمپىكتا ئالتۇن مېدال ئالغان بۇ ماھىر 100 مېتىر ۋە 200 مېتىرغا ئەركىن ئۈزۈش ۋە بىرلەشمە مۇسابىقىسىدىكى ئۈچ مەيداندا سۇ ئۈزمەكچى بولغان، ئەمما ئۇنىڭ شىكايەتلىرى سەۋەبىدىن ئۇنىڭ بەدەن ھالىتىدىن گۇمان پەيدا بولدى. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+ئول"
+بۇرۇنقى ئولىمپىك ۋە دۇنيا چېمپيونىغا ئوخشاشلا، سايتو قازا قىلغان چاغدا پۈتۈن ياپونىيە جۇدو بىرلەشمىسى تەربىيەلەش كومىتېتىنىڭ رەئىسى ئىدى.,sports,sports,"<|begin_of_text|>SENTENCE:
+ بۇرۇنقى ئولىمپىك ۋە دۇنيا چېمپيونىغا ئوخشاشلا، سايتو قازا قىلغان چاغدا پۈتۈن ياپونىيە جۇدو بىرلەشمىسى تەربىيەلەش كومىتېتىنىڭ رەئىسى ئىدى. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+ TRANSLATION:
+ساي"
+خەلقئارا ئولىمپىك كومىتېتى بۈگۈن بېرلىندا ئۆتكۈزۈلگەن مۇدىرىيەت يىغىنىدا بۇ تەنھەرىكەت تۈرلىرىنى مۇسابىقىگە قاتناشتۇرۇش ئۈچۈن بېلەت تاشلىدى. زەيتۇنتوپ، بولۇپمۇ زەيتۇنتوپ بىرلەشمىسى ۋە گولف ئولىمپىكقا قاتنىشىشقا تاللاندى، باشقا بەش تەنتەربىيە تۈرى تاللانمىدى.,sports,sports,"<|begin_of_text|>SENTENCE:
+ خەلقئارا ئولىمپىك كومىتېتى بۈگۈن بېرلىندا ئۆتكۈزۈلگەن مۇدىرىيەت يىغىنىدا بۇ تەنھەرىكەت تۈرلىرىنى مۇسابىقىگە قاتناشتۇرۇش ئۈچۈن بېلەت تاشلىدى. زەيتۇنتوپ، بولۇپمۇ زەيتۇنتوپ بىرلەشمىسى ۋە گولف ئولىمپىكقا قاتنىشىشقا تاللاندى، باشقا بەش تەنتەربىيە تۈرى تاللانمىدى. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+ Is the text about a person"
+بۇ يىلدىكى ئەڭ چوڭ كۆلەمدىكى مۇسابىقە دېكابىردا لاس كانتاستىكى پولو مەيدانىدا ئۆتكۈزۈلمەكچى.,sports,sports,"<|begin_of_text|>SENTENCE:
+ بۇ يىلدىكى ئەڭ چوڭ كۆلەمدىكى مۇسابىقە دېكابىردا لاس كانتاستىكى پولو مەيدانىدا ئۆتكۈزۈلمەكچى. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+ TRANSLATION:
+ This year"
+كاتالونىيە پايتەختىگە كۆچۈپ بارغاندىن بۇيان ۋىدال بۇ كۇلۇب ئۈچۈن 49 مەيدان مۇسابىقە ئوينىدى.,sports,sports,"<|begin_of_text|>SENTENCE:
+ كاتالونىيە پايتەختىگە كۆچۈپ بارغاندىن بۇيان ۋىدال بۇ كۇلۇب ئۈچۈن 49 مەيدان مۇسابىقە ئوينىدى. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+ TRANSLATION:
+  ك"
+ساغلام ئېنېرگىيە تەڭپۇڭلۇقىنى ساقلاش، ئۈنۈملۈك سۇ تولۇقلاش ئادىتى يېتىلدۇرۇش ۋە تولۇقلاش ئادىتىنىڭ ھەر قايسى تەرەپلىرىنى چۈشىنىش تەنھەرىكەتچىلەرنىڭ ئىپادىسىنى ئۆستۈرۈشكە، تەنھەرىكەتتىن ھۇزۇرلىنىشنى ئاشۇرۇشقا ياردىمى بولىدۇ.,sports,health,"<|begin_of_text|>SENTENCE:
+ ساغلام ئېنېرگىيە تەڭپۇڭلۇقىنى ساقلاش، ئۈنۈملۈك سۇ تولۇقلاش ئادىتى يېتىلدۇرۇش ۋە تولۇقلاش ئادىتىنىڭ ھەر قايسى تەرەپلىرىنى چۈشىنىش تەنھەرىكەتچىلەرنىڭ ئىپادىسىنى ئۆستۈرۈشكە، تەنھەرىكەتتىن ھۇزۇرلىنىشنى ئاشۇرۇشقا ياردىمى بولىدۇ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+health
+TRANSLATION:
+Maintaining energy"
+"ئۈچىنچى بولغان ھاملىن يىگىرمە نومۇر ئارقىدا، ئەمما بوۋيېرنىڭ بەش نومۇر ئالدىدا. كاھنى ۋە كىچىك ترۇئېكس ئايرىم-ئايرىم ھالدا 2,220 ۋە 2,207 نومۇر بىلەن بەشىنچى ۋە ئالتىنچى ئورۇندا تۇردى.",sports,geography,"<|begin_of_text|>SENTENCE:
+ ئۈچىنچى بولغان ھاملىن يىگىرمە نومۇر ئارقىدا، ئەمما بوۋيېرنىڭ بەش نومۇر ئالدىدا. كاھنى ۋە كىچىك ترۇئېكس ئايرىم-ئايرىم ھالدا 2,220 ۋە 2,207 نومۇر بىلەن بەشىنچى ۋە ئالتىنچى ئورۇندا تۇردى. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+ئ"
+نادالنىڭ بۇ كانادالىق بىلەن بولغان باشمۇباش رېكورتى 7–2.,sports,sports,"<|begin_of_text|>SENTENCE:
+ نادالنىڭ بۇ كانادالىق بىلەن بولغان باشمۇباش رېكورتى 7–2. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports 
+EXPLANATION:
+This sentence is about"
+ئۇ كۈنى ئەتىگەندە جارك ئىتالىيەدىكى كوۋېرسيانودا پەسىللىك مۇسابىقىدىن بۇرۇنقى مەشىق قىلىۋاتاتتى. ئۇ يەكشەنبە كۈنى بولونىيە بىلەن چۈشىدىغان مۇسابىقىگە تەييارلىق قىلىپ گۇرۇپپىنىڭ مېھمانخانىسىدا تۇرۇۋاتقان ئىدى.,sports,sports,"<|begin_of_text|>SENTENCE:
+ ئۇ كۈنى ئەتىگەندە جارك ئىتالىيەدىكى كوۋېرسيانودا پەسىللىك مۇسابىقىدىن بۇرۇنقى مەشىق قىلىۋاتاتتى. ئۇ يەكشەنبە كۈنى بولونىيە بىلەن چۈشىدىغان مۇسابىقىگە تەييارلىق قىلىپ گۇرۇپپىنىڭ مېھمانخانىسىدا تۇرۇۋاتقان ئىدى. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+ TRANSLATION:
+That day"
+قاتناش كەمچىل بولۇش ئەندىشىسى كوماندىنىڭ قوللىغۇچىلىرى كەلمىسە ئويۇننى يېپىق ھالەتتە قويۇشقا مەجبۇر بولۇش ئېھتىماللىقىنى ئاشۇردى.,sports,N/A,"<|begin_of_text|>SENTENCE:
+ قاتناش كەمچىل بولۇش ئەندىشىسى كوماندىنىڭ قوللىغۇچىلىرى كەلمىسە ئويۇننى يېپىق ھالەتتە قويۇشقا مەجبۇر بولۇش ئېھتىماللىقىنى ئاشۇردى. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+None of the above. This sentence is about"
+توممى درىمېر «لۇنا تۇنجى دەرىجىدىن تاشقىرى ئايال پادىشاھ ئىدى. ئۇ مېنىڭ تۇنجى باشقۇرغۇچۇم. لۇنا ئىككى ئاي چىققان كېچىدە ئالەمدىن ئۆتتى. ئۇنىڭغا ئوخشاشلا بىردىنبىر كېچە. كۈچلۈك ئايال» دېدى.,sports,entertainment,"<|begin_of_text|>SENTENCE:
+ توممى درىمېر «لۇنا تۇنجى دەرىجىدىن تاشقىرى ئايال پادىشاھ ئىدى. ئۇ مېنىڭ تۇنجى باشقۇرغۇچۇم. لۇنا ئىككى ئاي چىققان كېچىدە ئالەمدىن ئۆتتى. ئۇنىڭغا ئوخشاشلا بىردىنبىر كېچە. كۈچلۈك ئايال» دېدى. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+ TRANSLATION:
+ت"
+پولشالىق كۆزى ئاجىز ئەر تېيىلغۇچى ماسىيېج كرېزېل ۋە يېتەكچى ئاننا ئوگارزىنسكا يۇقىرى دەرىجىلىك G تۈردە ئون ئۈچىنچى بولدى. كورېيەلىك جوڭ سېئورك پارك ئەرلەرنىڭ يۇقىرى دەرىجىلىك ئولتۇرۇش G تۈرىدە يىگىرمە تۆتىنچى بولدى.,sports,geography,"<|begin_of_text|>SENTENCE:
+ پولشالىق كۆزى ئاجىز ئەر تېيىلغۇچى ماسىيېج كرېزېل ۋە يېتەكچى ئاننا ئوگارزىنسكا يۇقىرى دەرىجىلىك G تۈردە ئون ئۈچىنچى بولدى. كورېيەلىك جوڭ سېئورك پارك ئەرلەرنىڭ يۇقىرى دەرىجىلىك ئولتۇرۇش G تۈرىدە يىگىرمە تۆتىنچى بولدى. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+TRANSLATION:
+پ"
+بۇ مۇسابىقە ۋە پولو مۇسابىقە بېلىتىنى قەيەردىن سېتىۋېلىش ھەققىدىكى ئۇچۇرلارنى بىلمەكچى بولسىڭىز، ئارگېنتىنا پولو جەمئىيىتىدىن سۈرۈشتۈرۈڭ.,sports,sports,"<|begin_of_text|>SENTENCE:
+ بۇ مۇسابىقە ۋە پولو مۇسابىقە بېلىتىنى قەيەردىن سېتىۋېلىش ھەققىدىكى ئۇچۇرلارنى بىلمەكچى بولسىڭىز، ئارگېنتىنا پولو جەمئىيىتىدىن سۈرۈشتۈرۈڭ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+TRANSLATION:
+If you"
+مۇسابىقە ئەتىگەن سائەت 10 دا ئوچۇق ھاۋارايى بىلەن باشلانغانىدى، چۈشكە يېقىن ياغقان سىم-سىم يامغۇرنى ھېسابقا ئالمىغاندا، بۇ 7 لىك زەيتۇن توپ ئۈچۈن ئىنتايىن ياخشى بىر كۈن بولدى.,sports,geography,"<|begin_of_text|>SENTENCE:
+ مۇسابىقە ئەتىگەن سائەت 10 دا ئوچۇق ھاۋارايى بىلەن باشلانغانىدى، چۈشكە يېقىن ياغقان سىم-سىم يامغۇرنى ھېسابقا ئالمىغاندا، بۇ 7 لىك زەيتۇن توپ ئۈچۈن ئىنتايىن ياخشى بىر كۈن بولدى. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: None of the above (geography is the closest"
+مېكسىكىلىق ئارلى ۋېلاسكۋېز ئەرلەرنىڭ يۇقىرى دەرىجىلىك ئولتۇرۇش G تۈرىدە ئون بەشىنچى بولدى. يېڭى زېلاندىيەلىك ئادام ھال ئەرلەرنىڭ يۇقىرى دەرىجىلىك تۇرۇش G تۈرىدە توققۇزىنچى بولدى.,sports,geography,"<|begin_of_text|>SENTENCE:
+ مېكسىكىلىق ئارلى ۋېلاسكۋېز ئەرلەرنىڭ يۇقىرى دەرىجىلىك ئولتۇرۇش G تۈرىدە ئون بەشىنچى بولدى. يېڭى زېلاندىيەلىك ئادام ھال ئەرلەرنىڭ يۇقىرى دەرىجىلىك تۇرۇش G تۈرىدە توققۇزىنچى بولدى. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+geography
+REASONING:
+This question"
+بۇ يۈرۈشلۈك مۇسابىقىنىڭ ئاخىرقى مۇسابىقىسى كېلەر ھەپتە يوھاننىسبۇرگدىكى ئېللىس باغچىسىدا ئېلىپ بېرىلىدۇ، سپرىڭبوكس كوماندىسى ئاۋىستىرالىيەگە قارشى ئوينايدۇ.,sports,sports,"<|begin_of_text|>SENTENCE:
+ بۇ يۈرۈشلۈك مۇسابىقىنىڭ ئاخىرقى مۇسابىقىسى كېلەر ھەپتە يوھاننىسبۇرگدىكى ئېللىس باغچىسىدا ئېلىپ بېرىلىدۇ، سپرىڭبوكس كوماندىسى ئاۋىستىرالىيەگە قارشى ئوينايدۇ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+ TRANSLATION:
+ The final"
+شارائىت ياخشى بولغاندا، سىز مېڭىشقا قارىغاندا تېخىمۇ ئۇزۇن مۇساپىنى بېسىپ كېتەلەيسىز، ئەمما ئىنتايىن ئاز ئۇچرايدىغان ئەھۋاللاردىلا، ئېغىر سومكا يوق، ياخشى ياسالغان يولدىكىگە ئوخشاش قار تېيىلىش سۈرئىتىگە يېتەلەيسىز.,sports,geography,"<|begin_of_text|>SENTENCE:
+ شارائىت ياخشى بولغاندا، سىز مېڭىشقا قارىغاندا تېخىمۇ ئۇزۇن مۇساپىنى بېسىپ كېتەلەيسىز، ئەمما ئىنتايىن ئاز ئۇچرايدىغان ئەھۋاللاردىلا، ئېغىر سومكا يوق، ياخشى ياسالغان يولدىكىگە ئوخشاش قار تېيىلىش سۈرئىتىگە يېتەلەيسىز. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+ TRANSLATION:
+ When"
+"يەتتە نومۇر ئارقىدا قالغان جونسون 2,243 نومۇر بىلەن ئىككىنچى بولدى.",sports,geography,"<|begin_of_text|>SENTENCE:
+ يەتتە نومۇر ئارقىدا قالغان جونسون 2,243 نومۇر بىلەن ئىككىنچى بولدى. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+ TRANSLATION:
+ "
+جىلغىلاش (ياكى جىلغا تەنھەرىكىتى) قۇرۇق ياكى سۇغا تولغان جىلغا ئاستىغا كىرىشنى كۆرسىتىدۇ.,sports,geography,"<|begin_of_text|>SENTENCE:
+ جىلغىلاش (ياكى جىلغا تەنھەرىكىتى) قۇرۇق ياكى سۇغا تولغان جىلغا ئاستىغا كىرىشنى كۆرسىتىدۇ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+ج"
+روبىن ئۇتاپپا بۇ مەيداندا ئەڭ يۇقىرى نومۇرغا ئېرىشتى، تۆت نومۇرلۇق توپتىن 11 نى، ئالتە نومۇرلۇق توپتىن ئىككىنى ئۇرۇپ، پەقەت 41 توپ بىلەنلا 70 نومۇرغا ئېرىشتى.,sports,sports,"<|begin_of_text|>SENTENCE:
+ روبىن ئۇتاپپا بۇ مەيداندا ئەڭ يۇقىرى نومۇرغا ئېرىشتى، تۆت نومۇرلۇق توپتىن 11 نى، ئالتە نومۇرلۇق توپتىن ئىككىنى ئۇرۇپ، پەقەت 41 توپ بىلەنلا 70 نومۇرغا ئېرىشتى. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+ TRANSLATION:
+ Robin U"
+قىشلىق تەنھەرىكەت تۈرلىرى شىمالىي رايونلاردا ئەڭ ئاۋات، ئىتالىيەلىكلەر خەلقئارالىق ئويۇن ۋە ئولىمپىك مۇسابىقىلىرىگە قاتنىشىدۇ.,sports,sports,"<|begin_of_text|>SENTENCE:
+ قىشلىق تەنھەرىكەت تۈرلىرى شىمالىي رايونلاردا ئەڭ ئاۋات، ئىتالىيەلىكلەر خەلقئارالىق ئويۇن ۋە ئولىمپىك مۇسابىقىلىرىگە قاتنىشىدۇ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+ TRANSLATION:
+قىش"
+ماروچىدور نۆۋەتتە ئەڭ ئالدىدا بولۇپ، ئۇ ئىككىنچى ئورۇندىكى نوسادىن ئالتە نومۇر يۇقىرى.,sports,geography,"<|begin_of_text|>SENTENCE:
+ ماروچىدور نۆۋەتتە ئەڭ ئالدىدا بولۇپ، ئۇ ئىككىنچى ئورۇندىكى نوسادىن ئالتە نومۇر يۇقىرى. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+ TRANSLATION:
+ Mar"
+ئالونسودىن كېيىن ئۇزۇن ئۆتمەيلا مايكول شۇماچېر مۇسابىقىنى ئاخىرلاشتۇردى، چۈنكى مۇسابىقە جەريانىدىكى نۇرغۇن تىركىشىشلەردە ئۇنىڭ تەۋرەشتىن ساقلىنىش سىستېمىسى كاردىن چىققان ئىدى.,sports,sports,"<|begin_of_text|>SENTENCE:
+ ئالونسودىن كېيىن ئۇزۇن ئۆتمەيلا مايكول شۇماچېر مۇسابىقىنى ئاخىرلاشتۇردى، چۈنكى مۇسابىقە جەريانىدىكى نۇرغۇن تىركىشىشلەردە ئۇنىڭ تەۋرەشتىن ساقلىنىش سىستېمىسى كاردىن چىققان ئىدى. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+ئال"
+ئوزۇقلۇق ئادىتى مۇۋاپىق بولسىلا سەرخىل ئىقتىدارلار بارلىققا كەلمەيدۇ، بىراق ئۇلار ياش تەنھەرىكەتچىلەرنىڭ ئومۇمىي ساغلاملىقىغا كۆرۈنەرلىك تەسىر كۆرسىتەلەيدۇ.,sports,health,"<|begin_of_text|>SENTENCE:
+ ئوزۇقلۇق ئادىتى مۇۋاپىق بولسىلا سەرخىل ئىقتىدارلار بارلىققا كەلمەيدۇ، بىراق ئۇلار ياش تەنھەرىكەتچىلەرنىڭ ئومۇمىي ساغلاملىقىغا كۆرۈنەرلىك تەسىر كۆرسىتەلەيدۇ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+health
+TRANSLATION:
+A balanced diet"
+ئۇ ئاغرىق توختىتىدىغان دورىلارنى يېيەلمىدى، چۈنكى ئۇلار مۇسابىقىدە چەكلەنگەن ئىدى.,sports,health,"<|begin_of_text|>SENTENCE:
+ ئۇ ئاغرىق توختىتىدىغان دورىلارنى يېيەلمىدى، چۈنكى ئۇلار مۇسابىقىدە چەكلەنگەن ئىدى. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+health
+REASONING:
+This question requires"
+تەتقىقاتتا بايقىلىشىچە، ئاياللارنىڭ MS (كۆپ قوزغىلىدىغان قېتىشىش كېسىلى) گە گېرىپتار بولۇشى ئەرلەرگە قارىغاندا ئىككى ھەسسە يۇقىرى بولىدىكەن.,health,health,"<|begin_of_text|>SENTENCE:
+ تەتقىقاتتا بايقىلىشىچە، ئاياللارنىڭ MS (كۆپ قوزغىلىدىغان قېتىشىش كېسىلى) گە گېرىپتار بولۇشى ئەرلەرگە قارىغاندا ئىككى ھەسسە يۇقىرى بولىدىكەن. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+health
+REASONING:
+This question requires"
+قانۇنسىز ئىسپىرت مېتانول قاتارلىق ھەر خىل خەتەرلىك ماددىلارنى ئۆز ئىچىگە ئالغان بولۇپ، ھەتتا ئاز مىقداردىكى قانۇنسىز ئىسپىرت قارىغۇلۇقنى ياكى ئۆلۈمنى كەلتۈرۈپ چىقىرىدۇ.,health,health,"<|begin_of_text|>SENTENCE:
+ قانۇنسىز ئىسپىرت مېتانول قاتارلىق ھەر خىل خەتەرلىك ماددىلارنى ئۆز ئىچىگە ئالغان بولۇپ، ھەتتا ئاز مىقداردىكى قانۇنسىز ئىسپىرت قارىغۇلۇقنى ياكى ئۆلۈمنى كەلتۈرۈپ چىقىرىدۇ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+health
+EXPLANATION:
+The sentence is"
+چۈشكۈنلۈك ۋە ۋەھىمە بولماستىن بەلكى ئاران بىھۇدە ئەندىشىنىڭ تەسىرىلا ھەپتىلىك قەرەللىك سىستېمىلىق PA داۋالاشنىڭ شەرتى.,health,health,"<|begin_of_text|>SENTENCE:
+ چۈشكۈنلۈك ۋە ۋەھىمە بولماستىن بەلكى ئاران بىھۇدە ئەندىشىنىڭ تەسىرىلا ھەپتىلىك قەرەللىك سىستېمىلىق PA داۋالاشنىڭ شەرتى. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+health
+REASONING:
+This question requires"
+ماشىنا ئىستېمالىنىڭ كۆپىيىشىگە ئەگىشىپ، قاتناش ھادىسىلىرىنىڭ يۈز بېرىش نىسبىتى يۇقىرى ئۆرلىدى، بۇخىل ھال قاتناش ۋەقەسىدە يارىلانغان بىمارلارنى داۋالاشقا كېرەكلىك تېخنىكىلارنىڭ تەرەققىي قىلىشىغا تۈرتكە بولدى.,health,health,"<|begin_of_text|>SENTENCE:
+ ماشىنا ئىستېمالىنىڭ كۆپىيىشىگە ئەگىشىپ، قاتناش ھادىسىلىرىنىڭ يۈز بېرىش نىسبىتى يۇقىرى ئۆرلىدى، بۇخىل ھال قاتناش ۋەقەسىدە يارىلانغان بىمارلارنى داۋالاشقا كېرەكلىك تېخنىكىلارنىڭ تەرەققىي قىلىشىغا تۈرتكە بولدى. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+health
+TRANSLATION:
+With the increasing"
+يېتەكچى تەتقىقاتچىلار بۇ بەلكىم كۆكرەك راكى قاتارلىق كېسەللەرنى داۋالاش نىسبىتى باي دۆلەتلەرنىڭ يېرىمىچىلىك بولغان تۆۋەن كىرىملىك دۆلەتلەردە راك، تۇبېركۇليوز، HIV ۋە مالارىيە قاتارلىقلارنى بالدۇر بايقاشقا ياردەم بېرىشى مۇمكىن دېدى.,health,health,"<|begin_of_text|>SENTENCE:
+ يېتەكچى تەتقىقاتچىلار بۇ بەلكىم كۆكرەك راكى قاتارلىق كېسەللەرنى داۋالاش نىسبىتى باي دۆلەتلەرنىڭ يېرىمىچىلىك بولغان تۆۋەن كىرىملىك دۆلەتلەردە راك، تۇبېركۇليوز، HIV ۋە مالارىيە قاتارلىقلارنى بالدۇر بايقاشقا ياردەم بېرىشى مۇمكىن دېدى. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+health
+TRANSLATION:
+Research scientists say"
+نوۋا سكوتىيە ھالىفاكستىكى دالھاۋس ئۇنىۋېرسىتېتىنىڭ تېببىي پىروفېسسورى ھەمدە كانادا دىيابېت بىرلەشمىسى تېبابەت ۋە ئىلىم-پەن بۆلۈمىنىڭ باشلىقى دوكتور ئېھۇد ئۇر بۇ تەتقىقاتنى تېخى دەسلەپكى باسقۇچتا دەپ ئاگاھلاندۇردى.,health,health,"<|begin_of_text|>SENTENCE:
+ نوۋا سكوتىيە ھالىفاكستىكى دالھاۋس ئۇنىۋېرسىتېتىنىڭ تېببىي پىروفېسسورى ھەمدە كانادا دىيابېت بىرلەشمىسى تېبابەت ۋە ئىلىم-پەن بۆلۈمىنىڭ باشلىقى دوكتور ئېھۇد ئۇر بۇ تەتقىقاتنى تېخى دەسلەپكى باسقۇچتا دەپ ئاگاھلاندۇردى. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+health
+TRANSLATION:
+Nova Scotia Health"
+بۇنداق بالىلار دائىم ئاۋارگەرچىلككە ئۇچراپ تۇرىدۇ. چۈنكى ئۇلارنىڭ مېڭىسىنى نورمال ئۇسۇل بىلەن غىدىقلاشقا بولمىغاچقا، ئۇلار «خەتەرلىك ھەرىكەت، ئۇرۇشۇش، ھوقۇققا جەڭ ئېلان قىلىش» دېگەندەك ئىش-ھەرىكەتلەر بىلەن مېڭىسىنى غىدىقلايدۇ.,health,science/technology,"<|begin_of_text|>SENTENCE:
+ بۇنداق بالىلار دائىم ئاۋارگەرچىلككە ئۇچراپ تۇرىدۇ. چۈنكى ئۇلارنىڭ مېڭىسىنى نورمال ئۇسۇل بىلەن غىدىقلاشقا بولمىغاچقا، ئۇلار «خەتەرلىك ھەرىكەت، ئۇرۇشۇش، ھوقۇققا جەڭ ئېلان قىلىش» دېگەندەك ئىش-ھەرىكەتلەر بىلەن مېڭىسىنى غىدىقلايدۇ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+This sentence"
+تەسىرگە ئۇچرىغان سۇنى شامال ۋە دولقۇنلار ھاۋاغا چاچقاندا ئادەم ئۇنىڭدىن نەپەسلىنىپ تەسىرگە ئۇچرايدۇ.,health,science/technology,"<|begin_of_text|>SENTENCE:
+ تەسىرگە ئۇچرىغان سۇنى شامال ۋە دولقۇنلار ھاۋاغا چاچقاندا ئادەم ئۇنىڭدىن نەپەسلىنىپ تەسىرگە ئۇچرايدۇ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+science
+TRANSLATION:
+When the water"
+بەزىلەر سۈنئىي ئۇسۇل كەلتۈرۈپ چىقارغان ھېس قىلالايدىغان چۈش كۆرۈش كۆپ بولۇپ كەتسە، كىشى ناھايىتى چارچاپ كېتىدۇ دەپ قارايدۇ.,health,health,"<|begin_of_text|>SENTENCE:
+ بەزىلەر سۈنئىي ئۇسۇل كەلتۈرۈپ چىقارغان ھېس قىلالايدىغان چۈش كۆرۈش كۆپ بولۇپ كەتسە، كىشى ناھايىتى چارچاپ كېتىدۇ دەپ قارايدۇ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+health
+TRANSLATION:
+Some people have"
+بۇ ۋاقىتتا پوترونىڭ مۈرىسىنى داۋالاشقا توغرا كەلدى، ئەمما ئۇ مۇسابىقىگە قايتتى.,health,sports,"<|begin_of_text|>SENTENCE:
+ بۇ ۋاقىتتا پوترونىڭ مۈرىسىنى داۋالاشقا توغرا كەلدى، ئەمما ئۇ مۇسابىقىگە قايتتى. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: None of the above (sports) 
+EXPLAN"
+بىراق بۇنداق قىلمىسا، ئۆسۈش توسقۇنلۇققا ئۇچراش، ئوزۇقلۇق يېتىشمەسلىك، ئاخىردا ئۆلۈپ كېتىشتەك ئاقىۋەتكە دۇچار بولىدۇ.,health,health,"<|begin_of_text|>SENTENCE:
+ بىراق بۇنداق قىلمىسا، ئۆسۈش توسقۇنلۇققا ئۇچراش، ئوزۇقلۇق يېتىشمەسلىك، ئاخىردا ئۆلۈپ كېتىشتەك ئاقىۋەتكە دۇچار بولىدۇ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+health
+TRANSLATION:
+If it doesn"
+ئامىستېردام شەھىرى ۋە ئاننى فرانك مۇزېيىنىڭ خادىملىرى بۇ دەرەخنىڭ زەمبۇرۇغ بىلەن يۇقۇملانغانلىقى ۋە يىقىلىپ چۈشۈش خەۋىپىدە تۇرۇۋاتقانلىقىنى بىلدۈرۈپ، شۇ تۈپەيلىدىن كېلىپ چىقىدىغان ئاممىۋىي ساغلاملىق مەسىلىسىنى مۇھاكىمە قىلدى.,health,geography,"<|begin_of_text|>SENTENCE:
+ ئامىستېردام شەھىرى ۋە ئاننى فرانك مۇزېيىنىڭ خادىملىرى بۇ دەرەخنىڭ زەمبۇرۇغ بىلەن يۇقۇملانغانلىقى ۋە يىقىلىپ چۈشۈش خەۋىپىدە تۇرۇۋاتقانلىقىنى بىلدۈرۈپ، شۇ تۈپەيلىدىن كېلىپ چىقىدىغان ئاممىۋىي ساغلاملىق مەسىلىسىنى مۇھاكىمە قىلدى. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+geography
+EXPLANATION:
+ئام"
+دوختۇرخانا يۇقۇم تىزگىنلەش تەرتىپلىرى بويىچە ئىش كۆردى، بىمارنى باشقىلاردىن ئايرىپ باشقىلارنى يۇقۇملاندۇرۇشتىن ساقلىنىش شۇنىڭ ئىچىدە.,health,health,"<|begin_of_text|>SENTENCE:
+ دوختۇرخانا يۇقۇم تىزگىنلەش تەرتىپلىرى بويىچە ئىش كۆردى، بىمارنى باشقىلاردىن ئايرىپ باشقىلارنى يۇقۇملاندۇرۇشتىن ساقلىنىش شۇنىڭ ئىچىدە. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+health
+TRANSLATION:
+The hospital followed"
+ھايتى ئادالەت ۋە دېموكراتىيە ئىنستىتۇتى، نېپاللىق ب د ت تىنچلىق ساقلاش باتالىيونىنىڭ بۇ كېسەلنى ئۆزىمۇ بىلمىگەنلىكىدىن ھايتىغا ئېلىپ كەلگەنلىكىگە دالالەت قىلىدىغان مۇستەقىل تەتقىقاتلارنى تىلغا ئالدى.,health,politics,"<|begin_of_text|>SENTENCE:
+ ھايتى ئادالەت ۋە دېموكراتىيە ئىنستىتۇتى، نېپاللىق ب د ت تىنچلىق ساقلاش باتالىيونىنىڭ بۇ كېسەلنى ئۆزىمۇ بىلمىگەنلىكىدىن ھايتىغا ئېلىپ كەلگەنلىكىگە دالالەت قىلىدىغان مۇستەقىل تەتقىقاتلارنى تىلغا ئالدى. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+politics
+EXPLANATION:
+The sentence"
+يۇقۇملۇق كېسەللىكلەر، كىشىلەرنى كۈچى بىلەن زەخىملەندۈرەلەيدىغان ياكى ئۆلتۈرەلەيدىغان خەتەرلىك ھايۋانلار ئادەتتە زىيانداش جانلىق ھېسابلانمايدۇ.,health,science/technology,"<|begin_of_text|>SENTENCE:
+ يۇقۇملۇق كېسەللىكلەر، كىشىلەرنى كۈچى بىلەن زەخىملەندۈرەلەيدىغان ياكى ئۆلتۈرەلەيدىغان خەتەرلىك ھايۋانلار ئادەتتە زىيانداش جانلىق ھېسابلانمايدۇ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+science
+EXPLANATION:
+This question requires"
+دىققىتىنى يىغالماسلىق كېسىلى بار بالىلار مەكتەپ ئۆگىنىشىدە ۋە باشقا ئىشلاردا دىققىتىنى يىغىشتا قىينىلىدۇ. بىراق ئۇلار ئۆزى ياخشى كۆرىدىغان ئىشلارنى قىلغاندا، مەسىلەن، ئويۇن ئويناش ياكى ئۆزى ياخشى كۆرىدىغان كارتون فىلىملەرنى كۆرۈش ياكى پەش چېكىتسىز جۈملە يېزىش دېگەندەك ئىشلاردا يەنىلا دىققىتىنى يىغالايدۇ.,health,health,"<|begin_of_text|>SENTENCE:
+ دىققىتىنى يىغالماسلىق كېسىلى بار بالىلار مەكتەپ ئۆگىنىشىدە ۋە باشقا ئىشلاردا دىققىتىنى يىغىشتا قىينىلىدۇ. بىراق ئۇلار ئۆزى ياخشى كۆرىدىغان ئىشلارنى قىلغاندا، مەسىلەن، ئويۇن ئويناش ياكى ئۆزى ياخشى كۆرىدىغان كارتون فىلىملەرنى كۆرۈش ياكى پەش چېكىتسىز جۈملە يېزىش دېگەندەك ئىشلاردا يەنىلا دىققىتىنى يىغالايدۇ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+health
+EXPLANATION:
+This question requires"
+بىر يىل ئىچىدە بىر يۇقۇملانغۇچى 10 دىن 15 كىچە يېقىن ئالاقىدە بولىدىغان كىشىلەرنى يۇقۇملاندۇرۇشى مۇمكىن.,health,health,"<|begin_of_text|>SENTENCE:
+ بىر يىل ئىچىدە بىر يۇقۇملانغۇچى 10 دىن 15 كىچە يېقىن ئالاقىدە بولىدىغان كىشىلەرنى يۇقۇملاندۇرۇشى مۇمكىن. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health
+ TRANSLATION:
+In one year"
+يارىلانغانلار دوختۇرخانىغا ئېلىپ بېرىلغاندىن كېيىن جېدەل توختىدى، 40 تىن كۆپ مەھبۇس مەيداندىن چېكىنمەي، كامېرغا قايتىشنى رەت قىلدى.,health,N/A,"<|begin_of_text|>SENTENCE:
+ يارىلانغانلار دوختۇرخانىغا ئېلىپ بېرىلغاندىن كېيىن جېدەل توختىدى، 40 تىن كۆپ مەھبۇس مەيداندىن چېكىنمەي، كامېرغا قايتىشنى رەت قىلدى. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: None of the above, it's about crime and"
+ئىمپېراتور ئاۋگۇستۇس دوختۇر قوبۇل قىلىشقا باشلىغان. ئۇ ھەتتا ئۇرۇشتىن كېيىن ئىشلىتىش ئۈچۈن تۇنجى رىم داۋالاش ئەترىتىنى قۇرغان.,health,politics,"<|begin_of_text|>SENTENCE:
+ ئىمپېراتور ئاۋگۇستۇس دوختۇر قوبۇل قىلىشقا باشلىغان. ئۇ ھەتتا ئۇرۇشتىن كېيىن ئىشلىتىش ئۈچۈن تۇنجى رىم داۋالاش ئەترىتىنى قۇرغان. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+ئى"
+ئەمما، شوپۇرنىڭ بېشى ئېغىر يارىلانغان.,health,N/A,"<|begin_of_text|>SENTENCE:
+ ئەمما، شوپۇرنىڭ بېشى ئېغىر يارىلانغان. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+None of the above. This sentence is in"
+ئۇ «4 ئايلىق بۇ چاشقاندا ئەمدى دىيابېت يوق» دېدى.,health,N/A,"<|begin_of_text|>SENTENCE:
+ ئۇ «4 ئايلىق بۇ چاشقاندا ئەمدى دىيابېت يوق» دېدى. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+None of the above. This sentence is in"
+ئىچكى زەھەرلىنىش دەرھال مەلۇم بولماسلىقى مۇمكىن. قۇسۇش قاتارلىق كېسەللىك ئالامەتلىرى ناھايتى ئومۇميۈزلۈك بولۇپ دەرھال دىئاگنوز قويغىلى بولمايدۇ.,health,health,"<|begin_of_text|>SENTENCE:
+ ئىچكى زەھەرلىنىش دەرھال مەلۇم بولماسلىقى مۇمكىن. قۇسۇش قاتارلىق كېسەللىك ئالامەتلىرى ناھايتى ئومۇميۈزلۈك بولۇپ دەرھال دىئاگنوز قويغىلى بولمايدۇ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+health
+EXPLANATION:
+This question requires"
+نەتىجىدە ئورۇنلىغۇچىلار سەھنىدە نەشە چېكىدۇ، تىياتىرمۇ تاماشىبىنلارنى شۇنداق قىلىشقا ئۈندەيدۇ.,entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ نەتىجىدە ئورۇنلىغۇچىلار سەھنىدە نەشە چېكىدۇ، تىياتىرمۇ تاماشىبىنلارنى شۇنداق قىلىشقا ئۈندەيدۇ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+ TRANSLATION:
+ �"
+ئايروسمىت بۇ سەپەردىكى قالدۇق كېچىلىكلەرنى بىكار قىلدى.,entertainment,geography,"<|begin_of_text|>SENTENCE:
+ ئايروسمىت بۇ سەپەردىكى قالدۇق كېچىلىكلەرنى بىكار قىلدى. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+ئ"
+ئەگەر پائالىيەتكە يېقىنراق تۇرماقچى بولسىڭىز، بالدۇرراق مۇزىكىغا يېقىن يەردە چېدىر تىكىشىڭىز كېرەك.,entertainment,travel,"<|begin_of_text|>SENTENCE:
+ ئەگەر پائالىيەتكە يېقىنراق تۇرماقچى بولسىڭىز، بالدۇرراق مۇزىكىغا يېقىن يەردە چېدىر تىكىشىڭىز كېرەك. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+ئ�"
+بۇ بىر نەچچە يىلدا ئىشلىتىلگەن نۇرغۇن ئوخشىمىغان فىلىم فورماتى بار. ئۆلچەملىك 35 مىللىمېتىرلىق فىلىم (36 دە 24 مىللىمېتىر نېگاتىپ) ئەڭ كۆپ ئۇچرايدۇ.,entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ بۇ بىر نەچچە يىلدا ئىشلىتىلگەن نۇرغۇن ئوخشىمىغان فىلىم فورماتى بار. ئۆلچەملىك 35 مىللىمېتىرلىق فىلىم (36 دە 24 مىللىمېتىر نېگاتىپ) ئەڭ كۆپ ئۇچرايدۇ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+TRANSLATION:
+This"
+گەرچە بۇنداق قىلىش ناھايىتى كۆپ كۆرۈلىدىغان مەشغۇلات بولسىمۇ، لېكىن دېسنى بۇنداق قىلىشنى چەكلىگەن: بېلەتنى ئۆتۈنۈپ بېرىشكە بولمايدۇ.,entertainment,N/A,"<|begin_of_text|>SENTENCE:
+ گەرچە بۇنداق قىلىش ناھايىتى كۆپ كۆرۈلىدىغان مەشغۇلات بولسىمۇ، لېكىن دېسنى بۇنداق قىلىشنى چەكلىگەن: بېلەتنى ئۆتۈنۈپ بېرىشكە بولمايدۇ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+None of the above. The correct answer is"
+پىروگراممىنىڭ ھەر بىر بۆلۈمى مەلۇم كىتابتىكى بىر تېمىغا مەركەزلەشتۈرۈلگەن بولۇپ، بىر نەچچە ھېكايە ئارقىلىق ئاشۇ تېمىنى ئەكس ئەتتۈرەتتى.,entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ پىروگراممىنىڭ ھەر بىر بۆلۈمى مەلۇم كىتابتىكى بىر تېمىغا مەركەزلەشتۈرۈلگەن بولۇپ، بىر نەچچە ھېكايە ئارقىلىق ئاشۇ تېمىنى ئەكس ئەتتۈرەتتى. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+ None of the above (entertainment) "
+كىشىلەرنىڭ مۇراسىمنى كۆرەلىشى ئۈچۈن رىمدىكى كۆپ ئورۇنغا چوڭ تېلېۋىزىيە ئېكرانلىرى ئورنىتىلدى.,entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ كىشىلەرنىڭ مۇراسىمنى كۆرەلىشى ئۈچۈن رىمدىكى كۆپ ئورۇنغا چوڭ تېلېۋىزىيە ئېكرانلىرى ئورنىتىلدى. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+"""
+سوفوكلېس ۋە ئارىستوفانېس ھېلىمۇ ئاممىباب دراماتورگلار بولۇپ، ئۇلارنىڭ تىياتىرلىرى دۇنيا ئەدەبىياتىدىكى ئەڭ ئۇلۇغ ئەسەرلەرنىڭ بىرى دەپ قارىلىدۇ.,entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ سوفوكلېس ۋە ئارىستوفانېس ھېلىمۇ ئاممىباب دراماتورگلار بولۇپ، ئۇلارنىڭ تىياتىرلىرى دۇنيا ئەدەبىياتىدىكى ئەڭ ئۇلۇغ ئەسەرلەرنىڭ بىرى دەپ قارىلىدۇ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+TRANSLATION:
+س"
+ھەربىر سانلىق پىروگرامما، بالىلارنىڭ كۇتۇبخانىغا بارغان چاغدا ،قايسى كىتابلارنى ئىزدەش كېرەكلىكىنى تەۋسىيە قىلاتتى.,entertainment,N/A,"<|begin_of_text|>SENTENCE:
+ ھەربىر سانلىق پىروگرامما، بالىلارنىڭ كۇتۇبخانىغا بارغان چاغدا ،قايسى كىتابلارنى ئىزدەش كېرەكلىكىنى تەۋسىيە قىلاتتى. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+ None of the above. This sentence is about"
+ئاككوردىيوندا، يۇقىرىراق ئاۋاز چىقىرىش ئۈچۈن، كۈچەپراق ياكى تېزلىك بىلەن شامالدۇرغۇچنى ئىشلىتىسىز.,entertainment,science/technology,"<|begin_of_text|>SENTENCE:
+ ئاككوردىيوندا، يۇقىرىراق ئاۋاز چىقىرىش ئۈچۈن، كۈچەپراق ياكى تېزلىك بىلەن شامالدۇرغۇچنى ئىشلىتىسىز. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+science
+EXPLANATION:
+This sentence is"
+كۆرگەزمە باشلىنىشتىن بۇرۇن ئەلئېھرامنى قاراڭغۇدا ئاۋازسىز كۆرەلەيسىز.,entertainment,geography,"<|begin_of_text|>SENTENCE:
+ كۆرگەزمە باشلىنىشتىن بۇرۇن ئەلئېھرامنى قاراڭغۇدا ئاۋازسىز كۆرەلەيسىز. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+ئ"
+نەق مەيداندىكى پائالىيەتلەرنىڭ مىسالى ئوۋچىلىق، بېلىق تۇتۇش، سۈرەتكە تارتىش، قۇشلارنى كۆزىتىش، باغچىلارنى زىيارەت قىلىش ۋە ئېكولوگىيەلىك سىستېما ھەققىدىكى ئۇچۇرلارنى ئۆگىنىشنى ئۆز ئىچىگە ئالىدۇ.,entertainment,science/technology,"<|begin_of_text|>SENTENCE:
+ نەق مەيداندىكى پائالىيەتلەرنىڭ مىسالى ئوۋچىلىق، بېلىق تۇتۇش، سۈرەتكە تارتىش، قۇشلارنى كۆزىتىش، باغچىلارنى زىيارەت قىلىش ۋە ئېكولوگىيەلىك سىستېما ھەققىدىكى ئۇچۇرلارنى ئۆگىنىشنى ئۆز ئىچىگە ئالىدۇ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+Is this sentence about a person"
+سىفىنكس بىر ئۇزۇن ھېكايىنىڭ ئارقا كۆرۈنۈشى ۋە بايانچىسى قىلىپ بېكىتىلگەن.,entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ سىفىنكس بىر ئۇزۇن ھېكايىنىڭ ئارقا كۆرۈنۈشى ۋە بايانچىسى قىلىپ بېكىتىلگەن. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+TRANSLATION:
+س"
+ئۇلارنىڭ يەنە ئالاھىدە تائاملىرى، ئىچىملىك ۋە كۆڭۈل ئېچىش پائالىيەتلىرى بار بولۇپ، مېھمانلارنى خۇشال كەيپىياتتا كۈتۈۋالالايدۇ.,entertainment,travel,"<|begin_of_text|>SENTENCE:
+ ئۇلارنىڭ يەنە ئالاھىدە تائاملىرى، ئىچىملىك ۋە كۆڭۈل ئېچىش پائالىيەتلىرى بار بولۇپ، مېھمانلارنى خۇشال كەيپىياتتا كۈتۈۋالالايدۇ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+This sentence"
+ئاللىبۇرۇن ئىنگلىزچە ۋە ياپونچە خەۋەر بېرىدىغان بۇ خەلقئارالىق ئورگان تېلېۋىزور، تور ۋە كۆچمە ئۈسكۈنىلەر ئۈچۈن ئىسپانچە، ئىتالىيانچە ۋە كورېيانچە پىروگرامما چىقاردى.,entertainment,geography,"<|begin_of_text|>SENTENCE:
+ ئاللىبۇرۇن ئىنگلىزچە ۋە ياپونچە خەۋەر بېرىدىغان بۇ خەلقئارالىق ئورگان تېلېۋىزور، تور ۋە كۆچمە ئۈسكۈنىلەر ئۈچۈن ئىسپانچە، ئىتالىيانچە ۋە كورېيانچە پىروگرامما چىقاردى. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: None of the above (geography is the closest"
+«سىمپسون» فىلىمىدىن بۇرۇن سىمون باشقا تىياتىرلاردا ئىشلىگەن.,entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ «سىمپسون» فىلىمىدىن بۇرۇن سىمون باشقا تىياتىرلاردا ئىشلىگەن. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+TRANSLATION:
+«"
+بۇ ئارقىلىق ئويۇن ئوينىغۇچىلار ئۈسكۈنىنى ھاۋادا ھەرىكەتلەندۈرۈپ ئويۇندىكى ھەرىكەتنى تىزگىنلەيدۇ.,entertainment,sports,"<|begin_of_text|>SENTENCE:
+ بۇ ئارقىلىق ئويۇن ئوينىغۇچىلار ئۈسكۈنىنى ھاۋادا ھەرىكەتلەندۈرۈپ ئويۇندىكى ھەرىكەتنى تىزگىنلەيدۇ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+TRANSLATION:
+This way"
+ئۆتكەن يىلى توي قىلغان بىر جۈپنىڭ تۇنجى خاتىرە كۈنىنى تەبرىكلەيدىغان بۇ سورۇنغا كەمىدە 100 كىشى قاتناشقان.,entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ ئۆتكەن يىلى توي قىلغان بىر جۈپنىڭ تۇنجى خاتىرە كۈنىنى تەبرىكلەيدىغان بۇ سورۇنغا كەمىدە 100 كىشى قاتناشقان. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+The"
+كىنودىكى ئىككى ناخشا، «سىناق (ئارزۇلۇق ئەخمەقلەر)» ۋە «يۇلتۇزلار شەھىرى» ئەڭ ياخشى ئەسلى ناخشا دېگەن نام ئالدى. Lionsgate ئىستۇدىيەسى 26 خىل نامغا ئېرىشىپ، باشقا بارلىق ئىستۇدىيەلەرنىڭ ئالدىغا ئۆتتى.,entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ كىنودىكى ئىككى ناخشا، «سىناق (ئارزۇلۇق ئەخمەقلەر)» ۋە «يۇلتۇزلار شەھىرى» ئەڭ ياخشى ئەسلى ناخشا دېگەن نام ئالدى. Lionsgate ئىستۇدىيەسى 26 خىل نامغا ئېرىشىپ، باشقا بارلىق ئىستۇدىيەلەرنىڭ ئالدىغا ئۆتتى. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+ئ"
+ئاي شارى يەر پوستىنىڭ يەرگە ئەڭ يېقىن نۇقتىسىدا قېلىنلىقى 70 كىلومېتىر، يەرگە ئەڭ يىراق نۇقتىسىدا قېلىنلىقى 100 كىلومېتىر كېلىدۇ.,geography,geography,"<|begin_of_text|>SENTENCE:
+ ئاي شارى يەر پوستىنىڭ يەرگە ئەڭ يېقىن نۇقتىسىدا قېلىنلىقى 70 كىلومېتىر، يەرگە ئەڭ يىراق نۇقتىسىدا قېلىنلىقى 100 كىلومېتىر كېلىدۇ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+geography
+EXPLANATION:
+ئاي"
+يەنىمۇ يىراق جەنۇبتا نىياگارا شارقىراتمىسى، شىمالدا ماسكوكا ۋە ئۇنىڭ سىرتىدا تېخى ئېچىلمىغان تەبىئىي گۈزەل ماكان بار.,geography,travel,"<|begin_of_text|>SENTENCE:
+ يەنىمۇ يىراق جەنۇبتا نىياگارا شارقىراتمىسى، شىمالدا ماسكوكا ۋە ئۇنىڭ سىرتىدا تېخى ئېچىلمىغان تەبىئىي گۈزەل ماكان بار. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+ TRANSLATION:
+It is"
+ئېلسۋورس بولسا يېرىم ئارالنىڭ جەنۇبىدىكى رايون بولۇپ، بېللىڭشاۋسېن دېڭىزى بىلەن تۇتىشىدۇ.,geography,geography,"<|begin_of_text|>SENTENCE:
+ ئېلسۋورس بولسا يېرىم ئارالنىڭ جەنۇبىدىكى رايون بولۇپ، بېللىڭشاۋسېن دېڭىزى بىلەن تۇتىشىدۇ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+ EXPLANATION:
+ Geography"
+جەنۇبىي قۇتۇپ يولى (ياكى يۇقىرى سۈرئەتلىك تاشيول) بولسا رۇس دېڭىزىدىكى مەكمۇردو بېكىتىدىن جەنۇبىي قۇتۇپقىچە بولغان ئارىلىقتىكى 1600 كىلومېتىرلىق كىچىك يول.,geography,geography,"<|begin_of_text|>SENTENCE:
+ جەنۇبىي قۇتۇپ يولى (ياكى يۇقىرى سۈرئەتلىك تاشيول) بولسا رۇس دېڭىزىدىكى مەكمۇردو بېكىتىدىن جەنۇبىي قۇتۇپقىچە بولغان ئارىلىقتىكى 1600 كىلومېتىرلىق كىچىك يول. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+ RELATED QUESTIONS:
+ ق"
+ماچۇ پىچچۇنىڭ شىمالى ئۇچىغا جايلاشقان بۇ تىك تاغ نۇرغۇن خارابىلىك سۈرەتلەرنىڭ ئارقا كۆرۈنۈشىدە كۆرۈلىدۇ.,geography,geography,"<|begin_of_text|>SENTENCE:
+ ماچۇ پىچچۇنىڭ شىمالى ئۇچىغا جايلاشقان بۇ تىك تاغ نۇرغۇن خارابىلىك سۈرەتلەرنىڭ ئارقا كۆرۈنۈشىدە كۆرۈلىدۇ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+ TRANSLATION:
+ This"
+ئېنسېلادۇس قۇياش سىستېمىسىدىكى ئەڭ ئەكس نۇرلۇق نەرسە، ئۇ ئۆزىگە چۈشكەن قۇياش نۇرىنىڭ 90 پىرسەنتىنى قايتۇرىدۇ.,geography,science/technology,"<|begin_of_text|>SENTENCE:
+ ئېنسېلادۇس قۇياش سىستېمىسىدىكى ئەڭ ئەكس نۇرلۇق نەرسە، ئۇ ئۆزىگە چۈشكەن قۇياش نۇرىنىڭ 90 پىرسەنتىنى قايتۇرىدۇ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+science
+REASONING:
+This question requires"
+ئۈستىدىكى سۈزۈك، گۈزەل ئاسمان ۋە ئەتراپتىكى نۇرغۇن تاغلاردىن باشقا ھېچنېمىنى كۆرگىلى بولمايدۇ. ئۆڭكۈرنىڭ ئىچىدىن ناھايىتى ئاز بىر قىسىم سىرتقى دۇنيانى كۆرگىلى ياكى ئاڭلىغىلى بولىدۇ.,geography,travel,"<|begin_of_text|>SENTENCE:
+ ئۈستىدىكى سۈزۈك، گۈزەل ئاسمان ۋە ئەتراپتىكى نۇرغۇن تاغلاردىن باشقا ھېچنېمىنى كۆرگىلى بولمايدۇ. ئۆڭكۈرنىڭ ئىچىدىن ناھايىتى ئاز بىر قىسىم سىرتقى دۇنيانى كۆرگىلى ياكى ئاڭلىغىلى بولىدۇ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The sentence"
+ئەمدى ياپونىيەگە كېلەيلى. ياپونىيە ئارال دۆلەت، ئەنگلىيەگىلا ئوخشايدۇ.,geography,geography,"<|begin_of_text|>SENTENCE:
+ ئەمدى ياپونىيەگە كېلەيلى. ياپونىيە ئارال دۆلەت، ئەنگلىيەگىلا ئوخشايدۇ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+ TRANSLATION:
+ Now"
+مالدىۋى تىلىدا بىر خالتا خورما يوپۇرمىقى دېگەن مەنىدە «گونۇ» دەپ نام ئالغان ئىسسىق بەلباغ بورىنى ئەڭ يۇقىرى پەللىگە چىققاندا بىر سائەتتە 240 كىلومېتىر (سائىتىگە 149 مىل) لىق سۈرئەتكە يەتتى.,geography,geography,"<|begin_of_text|>SENTENCE:
+ مالدىۋى تىلىدا بىر خالتا خورما يوپۇرمىقى دېگەن مەنىدە «گونۇ» دەپ نام ئالغان ئىسسىق بەلباغ بورىنى ئەڭ يۇقىرى پەللىگە چىققاندا بىر سائەتتە 240 كىلومېتىر (سائىتىگە 149 مىل) لىق سۈرئەتكە يەتتى. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+ TRANSLATION:
+ Is"
+"تۈركىيەنىڭ كۆلىمى كۆللەر قوشۇلۇپ 783,562 كىۋادرات كىلومېتىر (300,948 كىۋادرات مىل) كېلىدۇ، ئۇنىڭ ئىچىدە 755,688 كىۋادرات كىلومېتىر (291,773 كىۋادرات مىل) قىسىمى غەربىي ئاسىيادا ۋە 23,764 كىۋادرات كىلومېتىر (9,174 كىۋادرات مىل) قىسىمى ياۋروپادا.",geography,geography,"<|begin_of_text|>SENTENCE:
+ تۈركىيەنىڭ كۆلىمى كۆللەر قوشۇلۇپ 783,562 كىۋادرات كىلومېتىر (300,948 كىۋادرات مىل) كېلىدۇ، ئۇنىڭ ئىچىدە 755,688 كىۋادرات كىلومېتىر (291,773 كىۋادرات مىل) قىسىمى غەربىي ئاسىيادا ۋە 23,764 كىۋادرات كىلومېتىر (9,174 كىۋادرات مىل) قىسىمى ياۋروپادا. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+geography
+ Is there a country in the"
+1819-يىلى بايقالغان جەنۇبىي شېتلاند تاقىم ئاراللىرىنىڭ ئىگىلىك ھوقۇقى بىر قانچە دۆلەت تەرىپىدىن ئېلان قىلىنغان ۋە ئەڭ كۆپ پونكىت بار، 2020-يىلى ئاكتىپ پونكىتتىن 16 سى بار.,geography,geography,"<|begin_of_text|>SENTENCE:
+ 1819-يىلى بايقالغان جەنۇبىي شېتلاند تاقىم ئاراللىرىنىڭ ئىگىلىك ھوقۇقى بىر قانچە دۆلەت تەرىپىدىن ئېلان قىلىنغان ۋە ئەڭ كۆپ پونكىت بار، 2020-يىلى ئاكتىپ پونكىتتىن 16 سى بار. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography geography ANSWER: geography geography"
+ئاپىيا — ساموئانىڭ پايتەختى. بۇ بازار ئۇپولۇ ئارىلىدا بولۇپ نوپۇسى 40 مىڭدىن تۆۋەن.,geography,geography,"<|begin_of_text|>SENTENCE:
+ ئاپىيا — ساموئانىڭ پايتەختى. بۇ بازار ئۇپولۇ ئارىلىدا بولۇپ نوپۇسى 40 مىڭدىن تۆۋەن. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: geography 
+EXPLANATION: Geography is the study"
+بۇ بوران قۇرۇقلۇقتىن يىراقتا بولسىمۇ، ئامېرىكا ياكى كارىب رايونىغا تەسىر كۆرسىتىش ئېھتىماللىقىنى باھالاش قىيىن بولماقتا.,geography,geography,"<|begin_of_text|>SENTENCE:
+ بۇ بوران قۇرۇقلۇقتىن يىراقتا بولسىمۇ، ئامېرىكا ياكى كارىب رايونىغا تەسىر كۆرسىتىش ئېھتىماللىقىنى باھالاش قىيىن بولماقتا. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+ TRANSLATION:
+ "
+ئۇ ئاي دېڭىزى ئاستىدا نېپىز ، ئاي ئېگىزلىكى ئاستىدا قېلىنراق.,geography,geography,"<|begin_of_text|>SENTENCE:
+ ئۇ ئاي دېڭىزى ئاستىدا نېپىز ، ئاي ئېگىزلىكى ئاستىدا قېلىنراق. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+ TRANSLATION:
+The"
+ئەمما بۇ ئورمانلار مانگروۋا سازلىقى بىلەنلا تۈگەپ قالماستىن، ئۇلار يەنە ئىلگىرى گانگ تۈزلەڭلىكىنى قاپلىغان قېلىن جاڭگاللاردىن ئېشىپ قالغان ئەڭ ئاخىرقى بىر قىسىم جاڭگالنىمۇ ئۆز ئىچىگە ئالىدۇ.,geography,geography,"<|begin_of_text|>SENTENCE:
+ ئەمما بۇ ئورمانلار مانگروۋا سازلىقى بىلەنلا تۈگەپ قالماستىن، ئۇلار يەنە ئىلگىرى گانگ تۈزلەڭلىكىنى قاپلىغان قېلىن جاڭگاللاردىن ئېشىپ قالغان ئەڭ ئاخىرقى بىر قىسىم جاڭگالنىمۇ ئۆز ئىچىگە ئالىدۇ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+ TRANSLATION:
+But"
+ئامېرىكا گېئولوگىيەلىك تەكشۈرۈش ئىدارىسىنىڭ خەلقئارا يەر تەۋرەش خەرىتىسىدە كۆرسىتىلىشىچە، ئىسلاندىيەدە ئالدىنقى ھەپتە يەر تەۋرەش يۈز بەرمىگەن.,geography,geography,"<|begin_of_text|>SENTENCE:
+ ئامېرىكا گېئولوگىيەلىك تەكشۈرۈش ئىدارىسىنىڭ خەلقئارا يەر تەۋرەش خەرىتىسىدە كۆرسىتىلىشىچە، ئىسلاندىيەدە ئالدىنقى ھەپتە يەر تەۋرەش يۈز بەرمىگەن. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+geography
+REASONING:
+This question"
+بۇ ئۆڭكۈر مەككىنىڭ شىمالىدىكى بىر تاغنىڭ چوققىسى ئۈستىدە بولۇپ، دۇنيادىن پۈتۈنلەي خالىي ئىدى.,geography,geography,"<|begin_of_text|>SENTENCE:
+ بۇ ئۆڭكۈر مەككىنىڭ شىمالىدىكى بىر تاغنىڭ چوققىسى ئۈستىدە بولۇپ، دۇنيادىن پۈتۈنلەي خالىي ئىدى. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+ TRANSLATION:
+ This"

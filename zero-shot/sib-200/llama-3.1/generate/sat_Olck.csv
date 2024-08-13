@@ -1,0 +1,2881 @@
+text,actual_category,predicted_category,generated_text
+"ᱢᱤᱭᱩᱴᱮᱥᱚᱱ ᱱᱟᱶᱟ ᱡᱮᱱᱮᱴᱤᱠ ᱣᱮᱨᱤᱮᱥᱚᱱ ᱮ ᱟᱹᱜᱩᱭᱟᱭ, ᱟᱨ ᱵᱟᱪᱷᱟᱣ ᱫᱚ ᱯᱟᱥᱱᱟᱣᱟᱜ ᱣᱮᱨᱤᱮᱥᱚᱱ ᱨᱮᱭᱟᱜ ᱯᱩᱞ ᱠᱷᱚᱱ ᱚᱪᱚᱜᱟᱭ᱾",science/technology,N/A,"<|begin_of_text|>SENTENCE:
+ ᱢᱤᱭᱩᱴᱮᱥᱚᱱ ᱱᱟᱶᱟ ᱡᱮᱱᱮᱴᱤᱠ ᱣᱮᱨᱤᱮᱥᱚᱱ ᱮ ᱟᱹᱜᱩᱭᱟᱭ, ᱟᱨ ᱵᱟᱪᱷᱟᱣ ᱫᱚ ᱯᱟᱥᱱᱟᱣᱟᱜ ᱣᱮᱨᱤᱮᱥᱚᱱ ᱨᱮᱭᱟᱜ ᱯᱩᱞ ᱠᱷᱚᱱ ᱚᱪᱚᱜᱟᱭ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: None of the above 
+REASONING SKILL"
+ᱣᱤᱠᱷᱟᱱᱰᱟᱱ ᱵᱟᱢ ᱱᱚᱶᱟ ᱥᱤᱫᱷᱟᱱᱛ ᱨᱮ ᱠᱟᱹᱢᱤ ᱮᱫᱼᱟᱭ ᱡᱮ ᱟᱭᱢᱟ ᱯᱨᱚᱴᱚᱱ ᱟᱨ ᱱᱭᱩᱴᱨᱚᱱ ᱥᱟᱶ ᱢᱤᱫ ᱱᱟᱵᱷᱤᱠ ᱫᱚ ᱢᱤᱫ ᱥᱟᱶ ᱫᱚᱦᱚ ᱞᱟᱹᱜᱤᱫ ᱤᱱᱮᱨᱡᱤ ᱨᱮᱱᱟᱜ ᱞᱟᱹᱠᱛᱤ ᱠᱟᱱᱟ᱾,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ ᱣᱤᱠᱷᱟᱱᱰᱟᱱ ᱵᱟᱢ ᱱᱚᱶᱟ ᱥᱤᱫᱷᱟᱱᱛ ᱨᱮ ᱠᱟᱹᱢᱤ ᱮᱫᱼᱟᱭ ᱡᱮ ᱟᱭᱢᱟ ᱯᱨᱚᱴᱚᱱ ᱟᱨ ᱱᱭᱩᱴᱨᱚᱱ ᱥᱟᱶ ᱢᱤᱫ ᱱᱟᱵᱷᱤᱠ ᱫᱚ ᱢᱤᱫ ᱥᱟᱶ ᱫᱚᱦᱚ ᱞᱟᱹᱜᱤᱫ ᱤᱱᱮᱨᱡᱤ ᱨᱮᱱᱟᱜ ᱞᱟᱹᱠᱛᱤ ᱠᱟᱱᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science
+EXPLANATION:
+This sentence is about"
+ᱱᱤᱣᱠᱞᱤᱭᱟᱥ ᱵᱟᱨᱭᱟ ᱯᱟᱨᱴᱤᱠᱮᱞ ᱤᱫᱤ ᱠᱟᱛᱮ ᱵᱮᱱᱟᱣᱟ - ᱱᱤᱣᱴᱨᱚᱱ ᱟᱨ ᱯᱨᱳᱴᱚᱱᱥ᱾,science/technology,geography,"<|begin_of_text|>SENTENCE:
+ ᱱᱤᱣᱠᱞᱤᱭᱟᱥ ᱵᱟᱨᱭᱟ ᱯᱟᱨᱴᱤᱠᱮᱞ ᱤᱫᱤ ᱠᱟᱛᱮ ᱵᱮᱱᱟᱣᱟ - ᱱᱤᱣᱴᱨᱚᱱ ᱟᱨ ᱯᱨᱳᱴᱚᱱᱥ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+geography
+EXPLANATION:
+The sentence"
+ᱱᱚᱶᱟ ᱡᱩᱢ ᱞᱮᱸᱥ ᱨᱮᱱᱟᱜ ᱱᱤᱥᱪᱤᱛ ᱯᱷᱚᱠᱟᱞ ᱡᱮᱞᱮᱝ ᱟᱱᱟᱜ ᱞᱮᱸᱥ ᱦᱚᱛᱮᱛᱮ ᱧᱟᱢ ᱟᱠᱟᱱ ᱢᱤᱫ ᱜᱩᱱᱣᱟᱛᱟ ᱨᱮᱱᱟᱜ ᱛᱩᱞᱱᱟ ᱨᱮ ᱪᱤᱛᱟᱹᱨ ᱵᱟᱱᱟᱣ ᱨᱮᱱᱟᱜ ᱟᱱᱩᱢᱟᱛᱤ ᱮᱢ ᱢᱮᱱᱟᱜᱼᱟ᱾,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ ᱱᱚᱶᱟ ᱡᱩᱢ ᱞᱮᱸᱥ ᱨᱮᱱᱟᱜ ᱱᱤᱥᱪᱤᱛ ᱯᱷᱚᱠᱟᱞ ᱡᱮᱞᱮᱝ ᱟᱱᱟᱜ ᱞᱮᱸᱥ ᱦᱚᱛᱮᱛᱮ ᱧᱟᱢ ᱟᱠᱟᱱ ᱢᱤᱫ ᱜᱩᱱᱣᱟᱛᱟ ᱨᱮᱱᱟᱜ ᱛᱩᱞᱱᱟ ᱨᱮ ᱪᱤᱛᱟᱹᱨ ᱵᱟᱱᱟᱣ ᱨᱮᱱᱟᱜ ᱟᱱᱩᱢᱟᱛᱤ ᱮᱢ ᱢᱮᱱᱟᱜᱼᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science
+REASONING SKILL:
+ This question"
+"ᱩᱱᱠᱩ ᱟᱰᱤᱜᱟᱱ ᱠᱟᱨᱚᱱ ᱥᱟᱶᱛᱮ ᱣᱮᱵᱽ ᱯᱨᱳᱠᱥᱤ ᱠᱷᱚᱱ ᱵᱮᱥ ᱠᱟᱱᱟ: ᱩᱱᱠᱩ ᱫᱚ ᱡᱚᱛᱚ ᱤᱱᱴᱚᱨᱱᱮᱴ ᱴᱨᱟᱯᱷᱤᱠ ᱠᱚ ᱨᱤ-ᱨᱩᱴᱟ, ᱥᱩᱢᱩᱝ http ᱫᱚ ᱵᱟᱝ᱾",science/technology,N/A,"<|begin_of_text|>SENTENCE:
+ ᱩᱱᱠᱩ ᱟᱰᱤᱜᱟᱱ ᱠᱟᱨᱚᱱ ᱥᱟᱶᱛᱮ ᱣᱮᱵᱽ ᱯᱨᱳᱠᱥᱤ ᱠᱷᱚᱱ ᱵᱮᱥ ᱠᱟᱱᱟ: ᱩᱱᱠᱩ ᱫᱚ ᱡᱚᱛᱚ ᱤᱱᱴᱚᱨᱱᱮᱴ ᱴᱨᱟᱯᱷᱤᱠ ᱠᱚ ᱨᱤ-ᱨᱩᱴᱟ, ᱥᱩᱢᱩᱝ http ᱫᱚ ᱵᱟᱝ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: None of the above
+REASONING SKILL"
+"ᱥᱚᱢᱯᱟᱫᱚᱱ, ᱠᱟᱹᱦᱱᱤ ᱟᱸᱡᱚᱢ ᱮᱢᱟᱱ ᱤᱱᱴᱟᱨᱮᱠᱴᱤᱵᱷ ᱰᱤᱡᱟᱭᱤᱱ ᱞᱟᱹᱜᱤᱫ ᱢᱮᱱᱟᱜᱼᱟ ᱡᱮ ᱟᱢ ᱢᱤᱰᱤᱭᱟ ᱩᱛᱯᱟᱫᱟᱱ ᱵᱟᱵᱚᱫ ᱛᱮ ᱟᱢᱟᱜ ᱟᱣᱫᱷᱟᱨᱬᱟ ᱨᱮᱱᱟᱜ ᱫᱚᱦᱲᱟ ᱢᱩᱞᱭᱟᱝᱠᱟᱱ ᱢᱮ ᱟᱨ ᱮᱴᱟᱜ ᱨᱮᱠᱷᱤᱭᱚ ᱦᱚᱨᱟ ᱛᱮ ᱪᱮᱫ ᱢᱮ᱾",science/technology,N/A,"<|begin_of_text|>SENTENCE:
+ ᱥᱚᱢᱯᱟᱫᱚᱱ, ᱠᱟᱹᱦᱱᱤ ᱟᱸᱡᱚᱢ ᱮᱢᱟᱱ ᱤᱱᱴᱟᱨᱮᱠᱴᱤᱵᱷ ᱰᱤᱡᱟᱭᱤᱱ ᱞᱟᱹᱜᱤᱫ ᱢᱮᱱᱟᱜᱼᱟ ᱡᱮ ᱟᱢ ᱢᱤᱰᱤᱭᱟ ᱩᱛᱯᱟᱫᱟᱱ ᱵᱟᱵᱚᱫ ᱛᱮ ᱟᱢᱟᱜ ᱟᱣᱫᱷᱟᱨᱬᱟ ᱨᱮᱱᱟᱜ ᱫᱚᱦᱲᱟ ᱢᱩᱞᱭᱟᱝᱠᱟᱱ ᱢᱮ ᱟᱨ ᱮᱴᱟᱜ ᱨᱮᱠᱷᱤᱭᱚ ᱦᱚᱨᱟ ᱛᱮ ᱪᱮᱫ ᱢᱮ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+ None of the above, the correct answer is"
+"ᱱᱚᱣᱟ ᱫᱚ ᱟᱹᱰᱤ ᱥᱟᱫᱷᱟᱨᱚᱱ ᱠᱟᱛᱷᱟ ᱭᱮᱱᱟ, ᱢᱮᱱᱠᱷᱟᱱ ᱥᱟᱜᱟᱲ ᱠᱚᱨᱮᱱᱟᱜ ᱠᱟᱴ ᱪᱟᱠᱟ ᱠᱚᱨᱮ ᱢᱮᱬᱦᱮᱫ ᱡᱟᱹᱥᱛᱤ ᱵᱮᱵᱷᱟᱨᱮᱱᱟI",science/technology,N/A,"<|begin_of_text|>SENTENCE:
+ ᱱᱚᱣᱟ ᱫᱚ ᱟᱹᱰᱤ ᱥᱟᱫᱷᱟᱨᱚᱱ ᱠᱟᱛᱷᱟ ᱭᱮᱱᱟ, ᱢᱮᱱᱠᱷᱟᱱ ᱥᱟᱜᱟᱲ ᱠᱚᱨᱮᱱᱟᱜ ᱠᱟᱴ ᱪᱟᱠᱟ ᱠᱚᱨᱮ ᱢᱮᱬᱦᱮᱫ ᱡᱟᱹᱥᱛᱤ ᱵᱮᱵᱷᱟᱨᱮᱱᱟI 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: None of the above
+REASONING SKILL"
+"ᱜᱚᱨᱚᱵᱽ ᱢᱮᱱᱫᱚ ᱢᱤᱫᱴᱮᱱ ᱠᱷᱚᱱ ᱯᱮᱭᱟ ᱜᱟᱱ ᱟᱹᱱᱰᱤᱭᱟᱹ ᱠᱩᱞ ᱠᱚ ᱛᱟᱦᱮᱱᱟ, ᱚᱱᱟ ᱥᱟᱶ ᱯᱮ ᱜᱮᱞ ᱠᱷᱚᱱ ᱡᱟᱹᱥᱛᱤ ᱮᱝᱜᱟ ᱠᱩᱞ ᱟᱨ ᱦᱚᱯᱚᱱ ᱠᱚ᱾",science/technology,N/A,"<|begin_of_text|>SENTENCE:
+ ᱜᱚᱨᱚᱵᱽ ᱢᱮᱱᱫᱚ ᱢᱤᱫᱴᱮᱱ ᱠᱷᱚᱱ ᱯᱮᱭᱟ ᱜᱟᱱ ᱟᱹᱱᱰᱤᱭᱟᱹ ᱠᱩᱞ ᱠᱚ ᱛᱟᱦᱮᱱᱟ, ᱚᱱᱟ ᱥᱟᱶ ᱯᱮ ᱜᱮᱞ ᱠᱷᱚᱱ ᱡᱟᱹᱥᱛᱤ ᱮᱝᱜᱟ ᱠᱩᱞ ᱟᱨ ᱦᱚᱯᱚᱱ ᱠᱚ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+ None of the above 
+ REASONING:
+"
+"ᱡᱮᱦᱮᱛᱩ ᱮ ᱟᱭ ᱨᱮ ᱥᱟᱮᱬᱥ ᱠᱚᱛᱷᱚᱱ ᱨᱮᱭᱟᱜ ᱢᱤᱫᱴᱟᱹᱝ ᱠᱮᱴᱮᱡ ᱢᱮᱱᱮᱛ ᱠᱟᱱᱟ, ᱮ ᱟᱭ ᱠᱚᱢᱯᱭᱩᱴᱚᱨ ᱥᱟᱮᱬᱥ ᱨᱮᱭᱟᱜ ᱢᱤᱫᱴᱟᱹᱝ ᱟᱹᱰᱤ ᱡᱟᱹᱨᱩᱲ ᱛᱷᱚᱠ ᱠᱟᱱᱟ, ᱡᱟᱦᱟᱸᱭ ᱫᱚ ᱢᱮᱥᱤᱱ ᱨᱮᱭᱟᱜ ᱵᱮᱵᱷᱟᱨ, ᱪᱮᱫᱚᱜ ᱟᱨ ᱵᱩᱫᱷᱤᱢᱟᱹᱱ ᱚᱱᱩᱠᱩᱞ ᱥᱟᱶ ᱡᱩᱲᱟᱹᱣ ᱢᱮᱱᱟᱜᱼᱟ",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ ᱡᱮᱦᱮᱛᱩ ᱮ ᱟᱭ ᱨᱮ ᱥᱟᱮᱬᱥ ᱠᱚᱛᱷᱚᱱ ᱨᱮᱭᱟᱜ ᱢᱤᱫᱴᱟᱹᱝ ᱠᱮᱴᱮᱡ ᱢᱮᱱᱮᱛ ᱠᱟᱱᱟ, ᱮ ᱟᱭ ᱠᱚᱢᱯᱭᱩᱴᱚᱨ ᱥᱟᱮᱬᱥ ᱨᱮᱭᱟᱜ ᱢᱤᱫᱴᱟᱹᱝ ᱟᱹᱰᱤ ᱡᱟᱹᱨᱩᱲ ᱛᱷᱚᱠ ᱠᱟᱱᱟ, ᱡᱟᱦᱟᱸᱭ ᱫᱚ ᱢᱮᱥᱤᱱ ᱨᱮᱭᱟᱜ ᱵᱮᱵᱷᱟᱨ, ᱪᱮᱫᱚᱜ ᱟᱨ ᱵᱩᱫᱷᱤᱢᱟᱹᱱ ᱚᱱᱩᱠᱩᱞ ᱥᱟᱶ ᱡᱩᱲᱟᱹᱣ ᱢᱮᱱᱟᱜᱼᱟ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science
+EXPLANATION:
+The sentence is about"
+ᱱᱚᱶᱟ ᱯᱨᱟᱨᱩᱯ ᱨᱮᱱᱟᱜ ᱯᱟᱦᱞᱩ ᱟᱱᱩᱯᱟᱛ (ᱥᱟᱱᱟᱢ ᱠᱷᱚᱱ ᱥᱟᱨᱟᱞ ᱯᱩᱨᱬ ᱮᱞᱮᱞ ᱟᱱᱩᱯᱟᱛ ᱧᱟᱢ ᱞᱟᱹᱜᱤᱫ ᱜᱮᱞᱵᱟᱨ ᱥᱟᱶ ᱵᱤᱵᱷᱟᱡᱤᱛ) ᱚᱱᱟᱛᱮ ᱓:᱒ ᱢᱮᱛᱟᱣᱟᱜᱼᱟ᱾,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ ᱱᱚᱶᱟ ᱯᱨᱟᱨᱩᱯ ᱨᱮᱱᱟᱜ ᱯᱟᱦᱞᱩ ᱟᱱᱩᱯᱟᱛ (ᱥᱟᱱᱟᱢ ᱠᱷᱚᱱ ᱥᱟᱨᱟᱞ ᱯᱩᱨᱬ ᱮᱞᱮᱞ ᱟᱱᱩᱯᱟᱛ ᱧᱟᱢ ᱞᱟᱹᱜᱤᱫ ᱜᱮᱞᱵᱟᱨ ᱥᱟᱶ ᱵᱤᱵᱷᱟᱡᱤᱛ) ᱚᱱᱟᱛᱮ ᱓:᱒ ᱢᱮᱛᱟᱣᱟᱜᱼᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science
+EXPLANATION:
+This sentence is about"
+"ᱥᱮᱴᱮᱞᱟᱭᱤᱴ ᱯᱷᱚᱱ ᱫᱚ ᱡᱟᱣ ᱜᱮ ᱢᱤᱫ ᱢᱳᱵᱟᱭᱤᱞ ᱯᱷᱚᱱ ᱞᱟᱹᱜᱤᱫ ᱢᱤᱫ ᱯᱚᱨᱛᱤᱮᱥᱛᱷᱟᱯᱚᱱ ᱫᱚ ᱵᱟᱝ ᱦᱩᱭᱩᱜᱼᱟ, ᱪᱮᱫᱟᱜ ᱥᱮ ᱟᱢᱟᱜ ᱯᱷᱚᱱ ᱠᱚᱞ ᱞᱟᱹᱜᱤᱫ ᱥᱟᱴᱮᱞᱟᱭᱤᱴ ᱥᱟᱯᱷᱟ ᱧᱮᱞ ᱥᱟᱶᱛᱮ ᱵᱟᱦᱨᱮ ᱛᱟᱦᱮᱱ ᱦᱩᱭᱩᱜᱼᱟ᱾",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ ᱥᱮᱴᱮᱞᱟᱭᱤᱴ ᱯᱷᱚᱱ ᱫᱚ ᱡᱟᱣ ᱜᱮ ᱢᱤᱫ ᱢᱳᱵᱟᱭᱤᱞ ᱯᱷᱚᱱ ᱞᱟᱹᱜᱤᱫ ᱢᱤᱫ ᱯᱚᱨᱛᱤᱮᱥᱛᱷᱟᱯᱚᱱ ᱫᱚ ᱵᱟᱝ ᱦᱩᱭᱩᱜᱼᱟ, ᱪᱮᱫᱟᱜ ᱥᱮ ᱟᱢᱟᱜ ᱯᱷᱚᱱ ᱠᱚᱞ ᱞᱟᱹᱜᱤᱫ ᱥᱟᱴᱮᱞᱟᱭᱤᱴ ᱥᱟᱯᱷᱟ ᱧᱮᱞ ᱥᱟᱶᱛᱮ ᱵᱟᱦᱨᱮ ᱛᱟᱦᱮᱱ ᱦᱩᱭᱩᱜᱼᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science
+EXPLANATION:
+This sentence is about"
+"ᱦᱟᱞᱟᱝᱠᱤ ᱣᱟᱜᱚᱱᱥᱣᱮ ᱫᱚ ᱥᱟᱫᱷᱟᱨᱚᱱ ᱛᱮ ᱠᱟᱴ ᱨᱮᱭᱟᱜ ᱯᱟᱨᱟᱞᱮᱞ ᱯᱞᱟᱸᱠᱥ ᱛᱮ ᱵᱮᱱᱟᱣ ᱠᱚᱜ-ᱟ, ᱵᱤᱥᱛᱤ ᱥᱯᱤᱰ ᱥᱟᱵ ᱞᱟᱹᱜᱤᱫ ᱥᱟᱫᱚᱢ ᱠᱚ ᱜᱚᱦᱚᱲ ᱦᱚᱪᱚ ᱠᱚᱣᱟ ᱟᱨ ᱫᱤᱱ ᱨᱮᱭᱟᱜ ᱟᱹᱰᱤ ᱵᱟᱹᱲᱤᱡ ᱥᱚᱲᱚᱠ ᱨᱮ ᱵᱤᱥᱛᱤ ᱩᱡᱩᱱ ᱠᱚ ᱜᱚᱦᱟᱲᱟ᱾",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ ᱦᱟᱞᱟᱝᱠᱤ ᱣᱟᱜᱚᱱᱥᱣᱮ ᱫᱚ ᱥᱟᱫᱷᱟᱨᱚᱱ ᱛᱮ ᱠᱟᱴ ᱨᱮᱭᱟᱜ ᱯᱟᱨᱟᱞᱮᱞ ᱯᱞᱟᱸᱠᱥ ᱛᱮ ᱵᱮᱱᱟᱣ ᱠᱚᱜ-ᱟ, ᱵᱤᱥᱛᱤ ᱥᱯᱤᱰ ᱥᱟᱵ ᱞᱟᱹᱜᱤᱫ ᱥᱟᱫᱚᱢ ᱠᱚ ᱜᱚᱦᱚᱲ ᱦᱚᱪᱚ ᱠᱚᱣᱟ ᱟᱨ ᱫᱤᱱ ᱨᱮᱭᱟᱜ ᱟᱹᱰᱤ ᱵᱟᱹᱲᱤᱡ ᱥᱚᱲᱚᱠ ᱨᱮ ᱵᱤᱥᱛᱤ ᱩᱡᱩᱱ ᱠᱚ ᱜᱚᱦᱟᱲᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science
+EXPLANATION:
+This sentence is about"
+"ᱦᱚᱲ ᱠᱚ ᱥᱮᱫᱟᱭ ᱱᱟᱝ ᱠᱷᱚᱱ ᱵᱩᱱᱤᱭᱟᱫᱽ ᱠᱮᱢᱤᱠᱟᱞ ᱮᱞᱤᱢᱮᱱᱴ ᱞᱮᱠᱟᱱ ᱥᱚᱱᱟ, ᱪᱟᱸᱫᱤ ᱟᱨ ᱛᱟᱢᱵᱟ ᱵᱟᱵᱚᱫ ᱛᱮ ᱵᱟᱰᱟᱭ ᱮᱫ ᱛᱟᱦᱮᱱᱟ, ᱪᱮᱫᱟᱜ ᱥᱮ ᱱᱚᱶᱟ ᱠᱚ ᱥᱤᱨᱤᱡᱽ ᱨᱮ ᱢᱩᱬᱩᱛ ᱞᱮᱠᱟᱛᱮ ᱛᱚᱞᱟᱥ ᱦᱩᱭ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱟᱨ ᱟᱹᱫᱤᱢ ᱩᱯᱠᱟᱨᱟᱬ ᱥᱟᱶ ᱟᱯᱮᱪᱷᱟᱠᱨᱤᱛ ᱥᱟᱨᱟᱞ ᱢᱮᱱᱟᱜᱼᱟ᱾",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ ᱦᱚᱲ ᱠᱚ ᱥᱮᱫᱟᱭ ᱱᱟᱝ ᱠᱷᱚᱱ ᱵᱩᱱᱤᱭᱟᱫᱽ ᱠᱮᱢᱤᱠᱟᱞ ᱮᱞᱤᱢᱮᱱᱴ ᱞᱮᱠᱟᱱ ᱥᱚᱱᱟ, ᱪᱟᱸᱫᱤ ᱟᱨ ᱛᱟᱢᱵᱟ ᱵᱟᱵᱚᱫ ᱛᱮ ᱵᱟᱰᱟᱭ ᱮᱫ ᱛᱟᱦᱮᱱᱟ, ᱪᱮᱫᱟᱜ ᱥᱮ ᱱᱚᱶᱟ ᱠᱚ ᱥᱤᱨᱤᱡᱽ ᱨᱮ ᱢᱩᱬᱩᱛ ᱞᱮᱠᱟᱛᱮ ᱛᱚᱞᱟᱥ ᱦᱩᱭ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱟᱨ ᱟᱹᱫᱤᱢ ᱩᱯᱠᱟᱨᱟᱬ ᱥᱟᱶ ᱟᱯᱮᱪᱷᱟᱠᱨᱤᱛ ᱥᱟᱨᱟᱞ ᱢᱮᱱᱟᱜᱼᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science
+REASONING SKILL:
+ This question"
+"ᱪᱚᱠᱟ ᱫᱚ ᱵᱟᱝ ᱯᱟᱹᱛᱤᱭᱟᱣᱜ ᱞᱮᱠᱷᱟ ᱜᱮ ᱡᱮᱜᱮᱛ ᱵᱚᱫᱚᱞ ᱠᱟᱛᱮ ᱫᱚᱦᱚ ᱠᱮᱜᱼᱟᱭ᱾ ᱪᱚᱠᱟ ᱟᱵᱚ ᱞᱟᱹᱜᱩᱫ ᱡᱟᱦᱟ ᱠᱚᱨᱟᱣ ᱠᱮᱜᱼᱟᱭ, ᱚᱱᱟ ᱟᱵᱚ ᱟᱹᱰᱤ ᱟᱞᱜᱟ ᱟᱨ ᱞᱚᱜᱚᱱ ᱯᱚᱨᱤᱣᱟᱦᱟᱹᱱ ᱮᱢᱟ ᱠᱮᱫ ᱵᱚᱱᱟᱭ᱾",science/technology,N/A,"<|begin_of_text|>SENTENCE:
+ ᱪᱚᱠᱟ ᱫᱚ ᱵᱟᱝ ᱯᱟᱹᱛᱤᱭᱟᱣᱜ ᱞᱮᱠᱷᱟ ᱜᱮ ᱡᱮᱜᱮᱛ ᱵᱚᱫᱚᱞ ᱠᱟᱛᱮ ᱫᱚᱦᱚ ᱠᱮᱜᱼᱟᱭ᱾ ᱪᱚᱠᱟ ᱟᱵᱚ ᱞᱟᱹᱜᱩᱫ ᱡᱟᱦᱟ ᱠᱚᱨᱟᱣ ᱠᱮᱜᱼᱟᱭ, ᱚᱱᱟ ᱟᱵᱚ ᱟᱹᱰᱤ ᱟᱞᱜᱟ ᱟᱨ ᱞᱚᱜᱚᱱ ᱯᱚᱨᱤᱣᱟᱦᱟᱹᱱ ᱮᱢᱟ ᱠᱮᱫ ᱵᱚᱱᱟᱭ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: None of the above
+REASONING SKILL"
+ᱱᱚᱣᱟ ᱫᱚ ᱱᱤᱥᱪᱤᱛ ᱞᱟᱹᱜᱤᱫ ᱵᱮᱱᱟᱣ ᱟᱠᱟᱫᱟ ᱪᱮ ᱪᱤᱛᱟᱹᱨ ᱫᱚ ᱯᱩᱨᱟᱹ ᱤᱥᱠᱨᱤᱱ ᱮ ᱮᱥᱮᱫᱟ᱾ ᱱᱚᱣᱟ ᱫᱚ ᱚᱵᱷᱚᱨᱥᱠᱟᱱ ᱠᱚ ᱢᱮᱛᱟᱜᱼᱟI,science/technology,N/A,"<|begin_of_text|>SENTENCE:
+ ᱱᱚᱣᱟ ᱫᱚ ᱱᱤᱥᱪᱤᱛ ᱞᱟᱹᱜᱤᱫ ᱵᱮᱱᱟᱣ ᱟᱠᱟᱫᱟ ᱪᱮ ᱪᱤᱛᱟᱹᱨ ᱫᱚ ᱯᱩᱨᱟᱹ ᱤᱥᱠᱨᱤᱱ ᱮ ᱮᱥᱮᱫᱟ᱾ ᱱᱚᱣᱟ ᱫᱚ ᱚᱵᱷᱚᱨᱥᱠᱟᱱ ᱠᱚ ᱢᱮᱛᱟᱜᱼᱟI 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: None of the above
+REASONING SKILL"
+ᱡᱟᱹᱨᱢᱟᱹᱱ ᱯᱟᱹᱱᱰᱩᱵᱤ ᱫᱚ ᱭᱩᱼᱵᱚᱴ ᱠᱚ ᱢᱮᱛᱟ ᱠᱚᱣᱟ᱾ ᱡᱟᱹᱨᱢᱟᱹᱱ ᱟᱡᱟᱜ ᱯᱟᱹᱱᱰᱩᱵᱤ ᱫᱚ ᱫᱤᱥᱟᱹ ᱫᱮᱠᱷᱟᱣ ᱞᱟᱹᱜᱤᱫ ᱟᱨ ᱥᱚᱧᱪᱟᱞᱤᱛ ᱠᱚᱨᱟᱣ ᱞᱟᱹᱜᱤᱫ ᱵᱮᱥ ᱛᱟᱦᱮᱸ ᱠᱟᱱᱟ ᱠᱚ᱾,science/technology,N/A,"<|begin_of_text|>SENTENCE:
+ ᱡᱟᱹᱨᱢᱟᱹᱱ ᱯᱟᱹᱱᱰᱩᱵᱤ ᱫᱚ ᱭᱩᱼᱵᱚᱴ ᱠᱚ ᱢᱮᱛᱟ ᱠᱚᱣᱟ᱾ ᱡᱟᱹᱨᱢᱟᱹᱱ ᱟᱡᱟᱜ ᱯᱟᱹᱱᱰᱩᱵᱤ ᱫᱚ ᱫᱤᱥᱟᱹ ᱫᱮᱠᱷᱟᱣ ᱞᱟᱹᱜᱤᱫ ᱟᱨ ᱥᱚᱧᱪᱟᱞᱤᱛ ᱠᱚᱨᱟᱣ ᱞᱟᱹᱜᱤᱫ ᱵᱮᱥ ᱛᱟᱦᱮᱸ ᱠᱟᱱᱟ ᱠᱚ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: None of the above
+REASONING SKILL"
+"ᱦᱚᱭ ᱛᱚ ᱱᱚᱶᱟ ᱨᱮᱱᱟᱜ ᱯᱷᱤᱡᱤᱠᱟᱞ ᱟᱣᱟᱥᱛᱟ ᱵᱚᱫᱚᱞ ᱦᱩᱭ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ, ᱱᱚᱶᱟ ᱨᱮᱱᱟᱜ ᱠᱮᱢᱤᱠᱟᱞ ᱟᱣᱟᱥᱛᱟ ᱥᱚᱢᱟᱱ ᱛᱟᱦᱮᱱᱟ᱾",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ ᱦᱚᱭ ᱛᱚ ᱱᱚᱶᱟ ᱨᱮᱱᱟᱜ ᱯᱷᱤᱡᱤᱠᱟᱞ ᱟᱣᱟᱥᱛᱟ ᱵᱚᱫᱚᱞ ᱦᱩᱭ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ, ᱱᱚᱶᱟ ᱨᱮᱱᱟᱜ ᱠᱮᱢᱤᱠᱟᱞ ᱟᱣᱟᱥᱛᱟ ᱥᱚᱢᱟᱱ ᱛᱟᱦᱮᱱᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science
+REASONING SKILL:
+ This question"
+ᱥᱚᱨᱯᱷᱮᱥ ᱟᱹᱲᱤᱥ ᱤᱱᱟᱹᱠᱷᱟᱹᱛᱤᱨ ᱦᱩᱭᱩᱜ ᱠᱟᱱᱟ ᱪᱮᱫᱟᱜ ᱡᱮ ᱥᱚᱨᱯᱷᱮᱥ ᱨᱮ ᱫᱟᱜ ᱨᱮᱱᱟᱜ ᱢᱩᱞᱮᱠᱩᱞᱮ ᱨᱮᱱᱟᱜ ᱛᱩᱞᱟ ᱨᱮ ᱢᱤᱫᱴᱟᱝ ᱫᱚᱥᱟᱨ ᱯᱨᱚᱛᱤ ᱡᱟᱹᱥᱛᱤ ᱞᱟᱣᱮᱨ ᱛᱟᱦᱮᱱ ᱠᱟᱱᱟ᱾,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ ᱥᱚᱨᱯᱷᱮᱥ ᱟᱹᱲᱤᱥ ᱤᱱᱟᱹᱠᱷᱟᱹᱛᱤᱨ ᱦᱩᱭᱩᱜ ᱠᱟᱱᱟ ᱪᱮᱫᱟᱜ ᱡᱮ ᱥᱚᱨᱯᱷᱮᱥ ᱨᱮ ᱫᱟᱜ ᱨᱮᱱᱟᱜ ᱢᱩᱞᱮᱠᱩᱞᱮ ᱨᱮᱱᱟᱜ ᱛᱩᱞᱟ ᱨᱮ ᱢᱤᱫᱴᱟᱝ ᱫᱚᱥᱟᱨ ᱯᱨᱚᱛᱤ ᱡᱟᱹᱥᱛᱤ ᱞᱟᱣᱮᱨ ᱛᱟᱦᱮᱱ ᱠᱟᱱᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science
+EXPLANATION:
+The sentence is about"
+ᱥᱤᱱᱮᱢᱟ ᱫᱚ ᱰᱤ.ᱵᱷᱤ.ᱰᱤ ᱯᱷᱚᱨᱢᱟᱴ ᱨᱮ ᱵᱚᱫᱚᱞ ᱞᱟᱹᱜᱤᱫ ᱠᱩᱨᱩᱢᱩᱴᱩᱭ ᱚᱠᱛᱚ ᱡᱚᱛᱚ ᱠᱷᱚᱱ ᱵᱟᱹᱲᱛᱤ ᱢᱩᱥᱠᱤᱞ ᱠᱚ ᱠᱷᱚᱱ ᱢᱤᱫ ᱫᱚ ᱚᱵᱷᱚᱨᱥᱠᱟᱱ ᱠᱟᱱᱟI,science/technology,entertainment,"<|begin_of_text|>SENTENCE:
+ ᱥᱤᱱᱮᱢᱟ ᱫᱚ ᱰᱤ.ᱵᱷᱤ.ᱰᱤ ᱯᱷᱚᱨᱢᱟᱴ ᱨᱮ ᱵᱚᱫᱚᱞ ᱞᱟᱹᱜᱤᱫ ᱠᱩᱨᱩᱢᱩᱴᱩᱭ ᱚᱠᱛᱚ ᱡᱚᱛᱚ ᱠᱷᱚᱱ ᱵᱟᱹᱲᱛᱤ ᱢᱩᱥᱠᱤᱞ ᱠᱚ ᱠᱷᱚᱱ ᱢᱤᱫ ᱫᱚ ᱚᱵᱷᱚᱨᱥᱠᱟᱱ ᱠᱟᱱᱟI 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+REASONING SKILL"
+"ᱵᱤᱥᱮᱥ ᱨᱩᱯ ᱛᱮ, ᱱᱟᱶᱟ ᱫᱟᱣᱟ ᱜᱮᱭᱟ ᱡᱮ ᱡᱟᱦᱟᱸᱭ ᱦᱚᱲ ᱥᱩᱠᱥᱚᱢ ᱚᱵᱷᱤᱵᱤᱭᱚᱠᱛᱤ ᱨᱮᱭᱟᱜ ᱴᱷᱤᱠ ᱵᱮᱠᱷᱭᱟ ᱠᱟᱨᱟᱣ ᱠᱟᱛᱮ ᱱᱟᱶᱟ ᱯᱟᱱᱛᱮ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱭ ᱡᱮ ᱡᱟᱦᱟᱸ ᱦᱚᱲ ᱥᱟᱹᱨᱤ ᱞᱟᱹᱭ ᱟᱭ ᱥᱮ ᱵᱟᱝᱟ᱾",science/technology,N/A,"<|begin_of_text|>SENTENCE:
+ ᱵᱤᱥᱮᱥ ᱨᱩᱯ ᱛᱮ, ᱱᱟᱶᱟ ᱫᱟᱣᱟ ᱜᱮᱭᱟ ᱡᱮ ᱡᱟᱦᱟᱸᱭ ᱦᱚᱲ ᱥᱩᱠᱥᱚᱢ ᱚᱵᱷᱤᱵᱤᱭᱚᱠᱛᱤ ᱨᱮᱭᱟᱜ ᱴᱷᱤᱠ ᱵᱮᱠᱷᱭᱟ ᱠᱟᱨᱟᱣ ᱠᱟᱛᱮ ᱱᱟᱶᱟ ᱯᱟᱱᱛᱮ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱭ ᱡᱮ ᱡᱟᱦᱟᱸ ᱦᱚᱲ ᱥᱟᱹᱨᱤ ᱞᱟᱹᱭ ᱟᱭ ᱥᱮ ᱵᱟᱝᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: None of the above
+REASONING SKILL"
+ᱥᱚᱱᱟ ᱫᱚ ᱡᱚᱛᱚ ᱞᱮᱠᱟᱱᱟᱜ ᱥᱟᱸᱪᱟ ᱨᱮ ᱵᱮᱱᱟᱣ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ᱾ ᱱᱚᱣᱟ ᱦᱩᱰᱤᱧ ᱵᱮᱱᱟᱣ ᱨᱮᱦᱚᱸ ᱨᱚᱞ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ᱾,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ ᱥᱚᱱᱟ ᱫᱚ ᱡᱚᱛᱚ ᱞᱮᱠᱟᱱᱟᱜ ᱥᱟᱸᱪᱟ ᱨᱮ ᱵᱮᱱᱟᱣ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ᱾ ᱱᱚᱣᱟ ᱦᱩᱰᱤᱧ ᱵᱮᱱᱟᱣ ᱨᱮᱦᱚᱸ ᱨᱚᱞ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science
+REASONING SKILL:
+ This question"
+"ᱮ ᱟᱭ ᱦᱚᱨᱟ ᱫᱚ ᱱᱤᱛᱚᱜ ᱠᱟᱹᱣᱰᱤ ᱟᱹᱨᱤ, ᱨᱟᱱᱚᱜᱠᱚ, ᱤᱱᱡᱤᱱᱤᱭᱚᱨᱤᱝ ᱟᱨ ᱯᱷᱟᱹᱫᱽ‌ ᱨᱮᱭᱟᱜ ᱴᱚᱴᱷᱟ ᱨᱮ ᱵᱮᱵᱷᱟᱨᱚᱜ ᱠᱟᱱᱟ, ᱡᱮᱞᱠᱟ ᱡᱟᱦᱟᱸᱭ ᱫᱚ ᱟᱡᱟᱜ ᱚᱲᱟᱜ ᱨᱮᱭᱟᱜ ᱠᱚᱢᱯᱭᱩᱴᱚᱨ ᱟᱨ ᱣᱤᱰᱤᱭᱚ ᱜᱮᱢ ᱥᱚᱯᱷᱴᱣᱮᱨ ᱮᱯᱞᱤᱠᱮᱥᱚᱱ ᱨᱮ ᱛᱮᱭᱟᱨ ᱜᱮᱭᱟ ᱠᱚ᱾",science/technology,geography,"<|begin_of_text|>SENTENCE:
+ ᱮ ᱟᱭ ᱦᱚᱨᱟ ᱫᱚ ᱱᱤᱛᱚᱜ ᱠᱟᱹᱣᱰᱤ ᱟᱹᱨᱤ, ᱨᱟᱱᱚᱜᱠᱚ, ᱤᱱᱡᱤᱱᱤᱭᱚᱨᱤᱝ ᱟᱨ ᱯᱷᱟᱹᱫᱽ‌ ᱨᱮᱭᱟᱜ ᱴᱚᱴᱷᱟ ᱨᱮ ᱵᱮᱵᱷᱟᱨᱚᱜ ᱠᱟᱱᱟ, ᱡᱮᱞᱠᱟ ᱡᱟᱦᱟᱸᱭ ᱫᱚ ᱟᱡᱟᱜ ᱚᱲᱟᱜ ᱨᱮᱭᱟᱜ ᱠᱚᱢᱯᱭᱩᱴᱚᱨ ᱟᱨ ᱣᱤᱰᱤᱭᱚ ᱜᱮᱢ ᱥᱚᱯᱷᱴᱣᱮᱨ ᱮᱯᱞᱤᱠᱮᱥᱚᱱ ᱨᱮ ᱛᱮᱭᱟᱨ ᱜᱮᱭᱟ ᱠᱚ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+�"
+"ᱱᱚᱶᱟ ᱫᱚ ᱱᱤᱛ ᱦᱚᱸ ᱵᱮᱱᱟᱜ ᱠᱟᱱᱟ, ᱢᱮᱱᱠᱷᱟᱱ ᱱᱚᱶᱟ ᱦᱚᱸ ᱞᱟᱹᱠᱛᱤ ᱠᱟᱛᱷᱟ ᱢᱮᱱᱟᱜᱼᱟ ᱡᱮ ᱱᱚᱶᱟ ᱯᱟᱦᱞᱩ ᱟᱱᱩᱯᱟᱛ ᱰᱤᱡᱤᱴᱟᱞ ᱠᱮᱭᱢᱨᱟ ᱪᱷᱟᱵᱤ ᱥᱮᱱᱥᱟᱨ ᱯᱨᱟᱨᱩᱯ ᱦᱚᱛᱮᱛᱮ ᱵᱚᱝᱥᱚ ᱨᱮ ᱧᱟᱢ ᱟᱠᱟᱱᱟ᱾",science/technology,N/A,"<|begin_of_text|>SENTENCE:
+ ᱱᱚᱶᱟ ᱫᱚ ᱱᱤᱛ ᱦᱚᱸ ᱵᱮᱱᱟᱜ ᱠᱟᱱᱟ, ᱢᱮᱱᱠᱷᱟᱱ ᱱᱚᱶᱟ ᱦᱚᱸ ᱞᱟᱹᱠᱛᱤ ᱠᱟᱛᱷᱟ ᱢᱮᱱᱟᱜᱼᱟ ᱡᱮ ᱱᱚᱶᱟ ᱯᱟᱦᱞᱩ ᱟᱱᱩᱯᱟᱛ ᱰᱤᱡᱤᱴᱟᱞ ᱠᱮᱭᱢᱨᱟ ᱪᱷᱟᱵᱤ ᱥᱮᱱᱥᱟᱨ ᱯᱨᱟᱨᱩᱯ ᱦᱚᱛᱮᱛᱮ ᱵᱚᱝᱥᱚ ᱨᱮ ᱧᱟᱢ ᱟᱠᱟᱱᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: None of the above
+REASONING SKILL"
+ᱛᱤᱦᱟᱭᱤ ᱨᱮᱱᱟᱜ ᱵᱟᱹᱲᱛᱤ ᱵᱟᱹᱲᱤᱡ ᱵᱮᱵᱷᱟᱨ ᱟᱨ ᱚᱱᱠᱟ ᱩᱯᱦᱟᱥ ᱨᱮᱱᱟᱜ ᱟᱹᱨᱤ ᱢᱤᱫ ᱪᱷᱟᱵᱤ ᱨᱮ ᱠᱨᱚᱢ ᱨᱮᱱᱟᱜ ᱢᱟᱯ ᱫᱚᱦᱚᱭ ᱛᱞᱩᱞᱡ ᱜᱟᱛᱤᱥᱤᱞᱛᱟ ᱯᱟᱭᱫᱟ ᱟᱱᱟᱜ ᱢᱤᱫ ᱥᱟᱨᱟᱞ ᱫᱤᱥᱟᱱᱤᱨᱫᱮᱥ ᱠᱟᱱᱟ᱾,science/technology,N/A,"<|begin_of_text|>SENTENCE:
+ ᱛᱤᱦᱟᱭᱤ ᱨᱮᱱᱟᱜ ᱵᱟᱹᱲᱛᱤ ᱵᱟᱹᱲᱤᱡ ᱵᱮᱵᱷᱟᱨ ᱟᱨ ᱚᱱᱠᱟ ᱩᱯᱦᱟᱥ ᱨᱮᱱᱟᱜ ᱟᱹᱨᱤ ᱢᱤᱫ ᱪᱷᱟᱵᱤ ᱨᱮ ᱠᱨᱚᱢ ᱨᱮᱱᱟᱜ ᱢᱟᱯ ᱫᱚᱦᱚᱭ ᱛᱞᱩᱞᱡ ᱜᱟᱛᱤᱥᱤᱞᱛᱟ ᱯᱟᱭᱫᱟ ᱟᱱᱟᱜ ᱢᱤᱫ ᱥᱟᱨᱟᱞ ᱫᱤᱥᱟᱱᱤᱨᱫᱮᱥ ᱠᱟᱱᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: None of the above 
+REASONING SKILL"
+"ᱱᱚᱶᱟ ᱫᱚ ᱵᱟᱭ ᱴᱷᱟᱹᱣᱠᱟ.ᱣᱮᱫ ᱛᱟᱦᱮᱸᱫ ᱡᱮ ᱰᱟᱭᱱᱮᱥᱚᱨᱟᱜ ᱯᱷᱟᱹᱠᱬᱟ.ᱜ ᱛᱟᱦᱮᱸ ᱠᱟᱱᱟ, ᱢᱤᱫ ᱛᱷᱤᱣᱨᱤ ᱢᱟᱬᱟᱝ ᱠᱷᱚᱱᱮ ᱞᱟᱹᱭ ᱥᱟᱰᱮ ᱟᱠᱟᱫᱟ, ᱢᱮᱱᱠᱷᱟᱱ ᱦᱚᱲᱢᱚ ᱛᱚᱨᱚᱡ ᱱᱚᱶᱟ ᱠᱚ ᱵᱟᱭ ᱴᱷᱟᱹᱣᱠᱟᱹᱭᱟ ᱡᱮᱢᱚᱱ ᱨᱚᱝ ᱯᱮ-ᱰᱟᱭᱢᱮᱱᱥᱚᱱᱟᱞ ᱟᱨᱮᱸᱡᱽᱢᱮᱸᱴ᱾",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ ᱱᱚᱶᱟ ᱫᱚ ᱵᱟᱭ ᱴᱷᱟᱹᱣᱠᱟ.ᱣᱮᱫ ᱛᱟᱦᱮᱸᱫ ᱡᱮ ᱰᱟᱭᱱᱮᱥᱚᱨᱟᱜ ᱯᱷᱟᱹᱠᱬᱟ.ᱜ ᱛᱟᱦᱮᱸ ᱠᱟᱱᱟ, ᱢᱤᱫ ᱛᱷᱤᱣᱨᱤ ᱢᱟᱬᱟᱝ ᱠᱷᱚᱱᱮ ᱞᱟᱹᱭ ᱥᱟᱰᱮ ᱟᱠᱟᱫᱟ, ᱢᱮᱱᱠᱷᱟᱱ ᱦᱚᱲᱢᱚ ᱛᱚᱨᱚᱡ ᱱᱚᱶᱟ ᱠᱚ ᱵᱟᱭ ᱴᱷᱟᱹᱣᱠᱟᱹᱭᱟ ᱡᱮᱢᱚᱱ ᱨᱚᱝ ᱯᱮ-ᱰᱟᱭᱢᱮᱱᱥᱚᱱᱟᱞ ᱟᱨᱮᱸᱡᱽᱢᱮᱸᱴ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science
+EXPLANATION:
+This sentence is about"
+"ᱞᱳᱣ ᱨᱮᱱᱟᱜ ᱜᱨᱟᱵᱷᱤᱴᱤ ᱤᱧ ᱨᱮ ᱪᱤᱠᱟᱹᱛᱮ ᱧᱩᱨᱩᱜ-ᱟ? ᱡᱩᱫᱤ ᱟᱢ ᱞᱳᱣ ᱨᱮᱱᱟᱜ ᱟᱲᱮ ᱨᱮ ᱛᱤᱸᱜᱩᱱ ᱠᱷᱟᱱ, ᱛᱚᱵᱮ ᱟᱢᱟᱜ ᱦᱟᱢᱟᱞ ᱚᱛ ᱨᱮᱱᱟᱜ ᱛᱩᱞᱱᱟ ᱨᱮ ᱠᱚᱢᱚᱜ-ᱟI",science/technology,geography,"<|begin_of_text|>SENTENCE:
+ ᱞᱳᱣ ᱨᱮᱱᱟᱜ ᱜᱨᱟᱵᱷᱤᱴᱤ ᱤᱧ ᱨᱮ ᱪᱤᱠᱟᱹᱛᱮ ᱧᱩᱨᱩᱜ-ᱟ? ᱡᱩᱫᱤ ᱟᱢ ᱞᱳᱣ ᱨᱮᱱᱟᱜ ᱟᱲᱮ ᱨᱮ ᱛᱤᱸᱜᱩᱱ ᱠᱷᱟᱱ, ᱛᱚᱵᱮ ᱟᱢᱟᱜ ᱦᱟᱢᱟᱞ ᱚᱛ ᱨᱮᱱᱟᱜ ᱛᱩᱞᱱᱟ ᱨᱮ ᱠᱚᱢᱚᱜ-ᱟI 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+ᱱᱤᱠᱥᱡᱮᱱ ᱢᱤᱫᱴᱟᱹᱝ ᱱᱟᱠᱟ ᱯᱨᱚᱬᱟᱞᱤ ᱠᱟᱱᱟ ᱚᱠᱟ ᱫᱚ ᱮᱯᱷᱹᱮᱹᱮᱹ ᱨᱮᱭᱟᱜ ᱫᱟᱹᱵᱤ ᱢᱮᱱᱟᱜᱼᱟ ᱡᱮ ᱵᱤᱢᱟᱹᱱ ᱨᱮᱭᱟᱜ ᱦᱚᱯᱚᱱ ᱩᱰᱟᱹᱱ ᱪᱟᱞᱟᱣ ᱟᱨ ᱡᱷᱚᱛᱚ ᱥᱮᱨᱢᱟ ᱢᱤᱞᱤᱭᱚᱱ ᱜᱮᱞᱚᱱ ᱤᱱᱫᱷᱚᱱ ᱥᱟᱸᱪᱟᱣ ᱟᱨ ᱠᱟᱨᱵᱚᱱ ᱩᱛᱚᱨᱡᱚᱱ ᱨᱮ ᱠᱟᱴᱟᱣ ᱨᱮ ᱟᱫᱮᱨ ᱠᱚ ᱧᱟᱢᱟ᱾,science/technology,travel,"<|begin_of_text|>SENTENCE:
+ ᱱᱤᱠᱥᱡᱮᱱ ᱢᱤᱫᱴᱟᱹᱝ ᱱᱟᱠᱟ ᱯᱨᱚᱬᱟᱞᱤ ᱠᱟᱱᱟ ᱚᱠᱟ ᱫᱚ ᱮᱯᱷᱹᱮᱹᱮᱹ ᱨᱮᱭᱟᱜ ᱫᱟᱹᱵᱤ ᱢᱮᱱᱟᱜᱼᱟ ᱡᱮ ᱵᱤᱢᱟᱹᱱ ᱨᱮᱭᱟᱜ ᱦᱚᱯᱚᱱ ᱩᱰᱟᱹᱱ ᱪᱟᱞᱟᱣ ᱟᱨ ᱡᱷᱚᱛᱚ ᱥᱮᱨᱢᱟ ᱢᱤᱞᱤᱭᱚᱱ ᱜᱮᱞᱚᱱ ᱤᱱᱫᱷᱚᱱ ᱥᱟᱸᱪᱟᱣ ᱟᱨ ᱠᱟᱨᱵᱚᱱ ᱩᱛᱚᱨᱡᱚᱱ ᱨᱮ ᱠᱟᱴᱟᱣ ᱨᱮ ᱟᱫᱮᱨ ᱠᱚ ᱧᱟᱢᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The sentence"
+ᱱᱤᱭᱩᱨᱚᱵᱟᱭᱞᱚᱡᱤᱠ ᱰᱟᱴᱟ ᱚᱱᱩᱵᱷᱩᱛ ᱨᱮᱭᱟᱜ ᱡᱟᱸᱪ ᱞᱟᱹᱜᱤᱫ ᱥᱤᱫᱷᱟᱹᱱᱛᱤᱠ ᱫᱨᱩᱥᱴᱤᱠᱩᱬ ᱞᱟᱹᱜᱤᱫ ᱵᱷᱟᱹᱣᱛᱤᱠ ᱥᱟᱠᱷᱥᱭᱚ ᱮᱢᱚᱜᱼᱟᱭ᱾ ᱚᱱᱟ ᱞᱟᱹᱜᱤᱫ ᱚᱱᱟ ᱚᱱᱩᱥᱟᱹᱥᱤᱛ ᱡᱟᱭᱜᱟ ᱠᱚ ᱥᱚᱝᱠᱩᱪᱤᱛ ᱠᱚᱨᱟᱣ ᱟᱭ ᱟᱨ ᱱᱚᱶᱟ ᱟᱨᱦᱚᱸ ᱰᱷᱮᱨ ᱥᱚᱴᱷᱤᱠ ᱠᱚᱨᱟᱣ ᱟᱭ᱾,science/technology,N/A,"<|begin_of_text|>SENTENCE:
+ ᱱᱤᱭᱩᱨᱚᱵᱟᱭᱞᱚᱡᱤᱠ ᱰᱟᱴᱟ ᱚᱱᱩᱵᱷᱩᱛ ᱨᱮᱭᱟᱜ ᱡᱟᱸᱪ ᱞᱟᱹᱜᱤᱫ ᱥᱤᱫᱷᱟᱹᱱᱛᱤᱠ ᱫᱨᱩᱥᱴᱤᱠᱩᱬ ᱞᱟᱹᱜᱤᱫ ᱵᱷᱟᱹᱣᱛᱤᱠ ᱥᱟᱠᱷᱥᱭᱚ ᱮᱢᱚᱜᱼᱟᱭ᱾ ᱚᱱᱟ ᱞᱟᱹᱜᱤᱫ ᱚᱱᱟ ᱚᱱᱩᱥᱟᱹᱥᱤᱛ ᱡᱟᱭᱜᱟ ᱠᱚ ᱥᱚᱝᱠᱩᱪᱤᱛ ᱠᱚᱨᱟᱣ ᱟᱭ ᱟᱨ ᱱᱚᱶᱟ ᱟᱨᱦᱚᱸ ᱰᱷᱮᱨ ᱥᱚᱴᱷᱤᱠ ᱠᱚᱨᱟᱣ ᱟᱭ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: None of the above
+REASONING SKILL"
+"ᱟᱡᱟᱜ ᱒ ᱴᱟᱲᱟᱝ ᱨᱮᱱᱟᱜ ᱵᱷᱟᱥᱚᱱ ᱚᱠᱛᱚ ᱨᱮ ᱩᱱᱤᱫᱚ ᱢᱮᱱ ᱠᱮᱫᱟᱭ ᱡᱮ ""ᱛᱤᱦᱤᱧ Apple ᱯᱷᱚᱱ ᱫᱚᱦᱲᱟ ᱛᱮ ᱵᱮᱱᱟᱣ ᱮᱛᱚᱦᱚᱵ ᱪᱟᱞᱟᱜᱼᱟ, ᱛᱮᱦᱮᱧ ᱟᱞᱮ ᱱᱟᱜᱟᱢ ᱞᱮ ᱛᱮᱭᱟᱨ ᱞᱟᱹᱜᱤᱫᱚᱜ ᱠᱟᱱᱟ᱾",science/technology,entertainment,"<|begin_of_text|>SENTENCE:
+ ᱟᱡᱟᱜ ᱒ ᱴᱟᱲᱟᱝ ᱨᱮᱱᱟᱜ ᱵᱷᱟᱥᱚᱱ ᱚᱠᱛᱚ ᱨᱮ ᱩᱱᱤᱫᱚ ᱢᱮᱱ ᱠᱮᱫᱟᱭ ᱡᱮ ""ᱛᱤᱦᱤᱧ Apple ᱯᱷᱚᱱ ᱫᱚᱦᱲᱟ ᱛᱮ ᱵᱮᱱᱟᱣ ᱮᱛᱚᱦᱚᱵ ᱪᱟᱞᱟᱜᱼᱟ, ᱛᱮᱦᱮᱧ ᱟᱞᱮ ᱱᱟᱜᱟᱢ ᱞᱮ ᱛᱮᱭᱟᱨ ᱞᱟᱹᱜᱤᱫᱚᱜ ᱠᱟᱱᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+REASONING SKILL"
+ᱡᱩᱢ ᱞᱮᱸᱥ ᱨᱮᱱᱟᱜ ᱱᱩᱠᱥᱟᱱ ᱱᱚᱶᱟ ᱠᱟᱱᱟ ᱡᱮ ᱯᱷᱚᱠᱟᱞ ᱡᱮᱞᱮᱝ ᱨᱮᱱᱟᱝ ᱥᱤᱢᱟ ᱧᱟᱢ ᱞᱟᱹᱜᱤᱫ ᱞᱟᱹᱠᱛᱤᱭᱟᱱ ᱯᱷᱚᱠᱟᱞ ᱡᱟᱴᱤᱞᱛᱟ ᱟᱨ ᱞᱮᱸᱥ ᱛᱟᱛᱣᱚ ᱨᱮᱱᱟᱜ ᱮᱞᱮᱞ ᱯᱨᱟᱭᱤᱢ ᱞᱮᱸᱥ ᱨᱮᱱᱟᱜ ᱛᱩᱞ ᱨᱮ ᱟᱹᱰᱤ ᱵᱟᱹᱲᱛᱤ ᱢᱮᱱᱟᱜᱼᱟ᱾,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ ᱡᱩᱢ ᱞᱮᱸᱥ ᱨᱮᱱᱟᱜ ᱱᱩᱠᱥᱟᱱ ᱱᱚᱶᱟ ᱠᱟᱱᱟ ᱡᱮ ᱯᱷᱚᱠᱟᱞ ᱡᱮᱞᱮᱝ ᱨᱮᱱᱟᱝ ᱥᱤᱢᱟ ᱧᱟᱢ ᱞᱟᱹᱜᱤᱫ ᱞᱟᱹᱠᱛᱤᱭᱟᱱ ᱯᱷᱚᱠᱟᱞ ᱡᱟᱴᱤᱞᱛᱟ ᱟᱨ ᱞᱮᱸᱥ ᱛᱟᱛᱣᱚ ᱨᱮᱱᱟᱜ ᱮᱞᱮᱞ ᱯᱨᱟᱭᱤᱢ ᱞᱮᱸᱥ ᱨᱮᱱᱟᱜ ᱛᱩᱞ ᱨᱮ ᱟᱹᱰᱤ ᱵᱟᱹᱲᱛᱤ ᱢᱮᱱᱟᱜᱼᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science
+EXPLANATION:
+The sentence is about"
+"ᱴᱮᱞᱤᱵᱷᱤᱥᱚᱱ ᱨᱮᱭᱟᱜ ᱨᱤᱢᱚᱴ ᱞᱮᱠᱟᱱᱟᱜ, ᱠᱚᱱᱴᱨᱳᱞᱟᱨ ᱫᱚ ᱛᱷᱨᱤ-ᱰᱟᱭᱢᱮᱱᱥᱟᱱ ᱡᱟᱭᱜᱟ ᱨᱮ ᱚᱱᱟ ᱨᱮᱭᱟᱜ ᱴᱷᱟᱶ ᱯᱮᱠᱚᱬᱟᱠᱟᱨ ᱠᱚᱨᱟᱣ ᱞᱟᱹᱜᱤᱫ ᱵᱮᱵᱷᱟᱨᱤᱭᱟᱹ ᱟᱜ ᱴᱮᱞᱤᱵᱷᱤᱥᱚᱱ ᱥᱩᱨ ᱨᱮ ᱵᱟᱨᱭᱟ ᱥᱮᱱᱥᱟᱨ ᱮ ᱵᱮᱵᱷᱟᱨᱟ᱾",science/technology,travel,"<|begin_of_text|>SENTENCE:
+ ᱴᱮᱞᱤᱵᱷᱤᱥᱚᱱ ᱨᱮᱭᱟᱜ ᱨᱤᱢᱚᱴ ᱞᱮᱠᱟᱱᱟᱜ, ᱠᱚᱱᱴᱨᱳᱞᱟᱨ ᱫᱚ ᱛᱷᱨᱤ-ᱰᱟᱭᱢᱮᱱᱥᱟᱱ ᱡᱟᱭᱜᱟ ᱨᱮ ᱚᱱᱟ ᱨᱮᱭᱟᱜ ᱴᱷᱟᱶ ᱯᱮᱠᱚᱬᱟᱠᱟᱨ ᱠᱚᱨᱟᱣ ᱞᱟᱹᱜᱤᱫ ᱵᱮᱵᱷᱟᱨᱤᱭᱟᱹ ᱟᱜ ᱴᱮᱞᱤᱵᱷᱤᱥᱚᱱ ᱥᱩᱨ ᱨᱮ ᱵᱟᱨᱭᱟ ᱥᱮᱱᱥᱟᱨ ᱮ ᱵᱮᱵᱷᱟᱨᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+REASONING SKILL:
+"
+ᱥᱟᱬᱮᱥᱤᱭᱟ ᱠᱚᱣᱟᱜ ᱢᱮᱱ ᱠᱟᱱᱟ ᱡᱮ ᱱᱩᱭ ᱡᱟᱱᱣᱟᱨᱟᱜ ᱤᱞ ᱪᱮᱛᱟᱱ ᱠᱷᱚᱱ ᱥᱟᱦᱵᱩᱛ - ᱯᱮᱨᱮᱡ ᱨᱚᱝ ᱨᱮᱱᱟᱜ ᱛᱟᱦᱮᱸ ᱠᱟᱱᱟ ᱟᱨ ᱞᱟᱛᱟᱨ ᱟᱜ ᱦᱟᱹᱴᱤᱧ ᱫᱚ ᱥᱟᱥᱟᱝ ᱥᱮ ᱠᱮᱭᱨᱚᱴᱤᱱᱚᱭᱰ ᱨᱚᱝ ᱨᱮᱱᱟᱜ ᱛᱟᱦᱮᱸ ᱠᱟᱱᱟ᱾,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ ᱥᱟᱬᱮᱥᱤᱭᱟ ᱠᱚᱣᱟᱜ ᱢᱮᱱ ᱠᱟᱱᱟ ᱡᱮ ᱱᱩᱭ ᱡᱟᱱᱣᱟᱨᱟᱜ ᱤᱞ ᱪᱮᱛᱟᱱ ᱠᱷᱚᱱ ᱥᱟᱦᱵᱩᱛ - ᱯᱮᱨᱮᱡ ᱨᱚᱝ ᱨᱮᱱᱟᱜ ᱛᱟᱦᱮᱸ ᱠᱟᱱᱟ ᱟᱨ ᱞᱟᱛᱟᱨ ᱟᱜ ᱦᱟᱹᱴᱤᱧ ᱫᱚ ᱥᱟᱥᱟᱝ ᱥᱮ ᱠᱮᱭᱨᱚᱴᱤᱱᱚᱭᱰ ᱨᱚᱝ ᱨᱮᱱᱟᱜ ᱛᱟᱦᱮᱸ ᱠᱟᱱᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science
+EXPLANATION:
+The given sentence is"
+ᱣᱤᱥᱣᱚᱵᱤᱫᱭᱟᱞᱚᱭ ᱨᱤᱱ ᱥᱚᱫᱷᱠᱚᱨᱛᱟ ᱠᱚ ᱢᱮᱱ ᱠᱮᱜᱼᱟ ᱡᱮ ᱵᱟᱨᱭᱟ ᱭᱚᱜᱤᱠ ᱠᱨᱤᱥᱴᱤᱭᱟᱹᱱ ᱛᱮᱭᱟᱨ ᱞᱟᱹᱜᱩᱫ ᱱᱤᱡᱚᱨ ᱵᱷᱤᱛᱨᱭ ᱨᱮ ᱥᱟᱹᱜᱟᱹᱭ ᱛᱟᱦᱮᱸ ᱫᱚᱨᱠᱟᱨ ᱠᱟᱱᱟ ᱚᱠᱟ ᱫᱚ ᱠᱤᱰᱱᱤ ᱨᱮᱭᱟᱜ ᱠᱟᱹᱢᱤ ᱨᱮ ᱵᱟᱹᱫᱷᱟᱹ ᱮᱢ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱭ᱾,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ ᱣᱤᱥᱣᱚᱵᱤᱫᱭᱟᱞᱚᱭ ᱨᱤᱱ ᱥᱚᱫᱷᱠᱚᱨᱛᱟ ᱠᱚ ᱢᱮᱱ ᱠᱮᱜᱼᱟ ᱡᱮ ᱵᱟᱨᱭᱟ ᱭᱚᱜᱤᱠ ᱠᱨᱤᱥᱴᱤᱭᱟᱹᱱ ᱛᱮᱭᱟᱨ ᱞᱟᱹᱜᱩᱫ ᱱᱤᱡᱚᱨ ᱵᱷᱤᱛᱨᱭ ᱨᱮ ᱥᱟᱹᱜᱟᱹᱭ ᱛᱟᱦᱮᱸ ᱫᱚᱨᱠᱟᱨ ᱠᱟᱱᱟ ᱚᱠᱟ ᱫᱚ ᱠᱤᱰᱱᱤ ᱨᱮᱭᱟᱜ ᱠᱟᱹᱢᱤ ᱨᱮ ᱵᱟᱹᱫᱷᱟᱹ ᱮᱢ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱭ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science
+EXPLANATION:
+This sentence is about"
+ᱱᱚᱶᱟ ᱫᱚ ᱓᱕ ᱢᱤᱢᱤ ᱱᱟᱠᱟᱨᱟᱛᱢᱚᱠ (᱓᱑᱓᱖ ᱢᱤᱢᱤ ᱒ ᱵᱟᱱᱟᱢ ᱘᱖᱔) ᱠᱷᱚᱱ ᱪᱟᱹᱨ ᱜᱩᱱ ᱥᱚᱝᱠᱟᱞᱯ ᱮᱢᱚᱜ ᱠᱟᱱᱟᱭ᱾,science/technology,geography,"<|begin_of_text|>SENTENCE:
+ ᱱᱚᱶᱟ ᱫᱚ ᱓᱕ ᱢᱤᱢᱤ ᱱᱟᱠᱟᱨᱟᱛᱢᱚᱠ (᱓᱑᱓᱖ ᱢᱤᱢᱤ ᱒ ᱵᱟᱱᱟᱢ ᱘᱖᱔) ᱠᱷᱚᱱ ᱪᱟᱹᱨ ᱜᱩᱱ ᱥᱚᱝᱠᱟᱞᱯ ᱮᱢᱚᱜ ᱠᱟᱱᱟᱭ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+geography
+EXPLANATION:
+The sentence"
+"ᱭᱚᱨᱚᱯ ᱟᱨ ᱵᱽᱨᱚᱰᱵᱮᱸᱰ ᱥᱮᱴᱮᱞᱟᱹᱭᱤᱴ ᱞᱟᱹᱜᱤᱫ ᱛᱮ ᱞᱟᱛᱟᱨ ᱯᱷᱟᱹᱭᱵᱟᱨ ᱚᱯᱴᱤᱠᱚᱞ ᱠᱮᱵᱚᱞ ᱡᱚᱱᱚᱲ ᱞᱟᱹᱜᱤᱫ ᱛᱮ ᱥᱟᱨᱦᱟᱣ, ᱜᱽᱨᱤᱱᱞᱮᱸᱰ ᱙᱓% ᱟᱵᱟᱫ ᱥᱟᱶᱛᱮ ᱵᱮᱥ ᱞᱮᱠᱟᱛᱮ ᱡᱚᱲᱟᱣ ᱟᱠᱟᱱᱟᱭ, ᱡᱟᱦᱟᱸᱭ ᱟᱜ ᱚᱱᱛᱚᱨ ᱡᱟᱞᱟᱢ ᱢᱮᱱᱟᱜᱼᱟ᱾",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ ᱭᱚᱨᱚᱯ ᱟᱨ ᱵᱽᱨᱚᱰᱵᱮᱸᱰ ᱥᱮᱴᱮᱞᱟᱹᱭᱤᱴ ᱞᱟᱹᱜᱤᱫ ᱛᱮ ᱞᱟᱛᱟᱨ ᱯᱷᱟᱹᱭᱵᱟᱨ ᱚᱯᱴᱤᱠᱚᱞ ᱠᱮᱵᱚᱞ ᱡᱚᱱᱚᱲ ᱞᱟᱹᱜᱤᱫ ᱛᱮ ᱥᱟᱨᱦᱟᱣ, ᱜᱽᱨᱤᱱᱞᱮᱸᱰ ᱙᱓% ᱟᱵᱟᱫ ᱥᱟᱶᱛᱮ ᱵᱮᱥ ᱞᱮᱠᱟᱛᱮ ᱡᱚᱲᱟᱣ ᱟᱠᱟᱱᱟᱭ, ᱡᱟᱦᱟᱸᱭ ᱟᱜ ᱚᱱᱛᱚᱨ ᱡᱟᱞᱟᱢ ᱢᱮᱱᱟᱜᱼᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science
+EXPLANATION:
+This sentence is about"
+"ᱱᱚᱣᱟ ᱛᱷᱚᱠ ᱨᱮ ᱡᱚᱛᱚ ᱠᱷᱚᱱ ᱧᱩᱛᱩᱢᱟᱱ ᱮᱯᱥ ᱫᱚ ᱦᱩᱭᱩᱜ ᱠᱟᱱᱟ ᱜᱩᱜᱩᱞ ᱴᱨᱟᱱᱥᱞᱮᱴ, ᱡᱟᱦᱟᱸ ᱫᱚ ᱞᱟᱹᱠᱛᱤᱜᱠᱟᱱ ᱯᱟᱹᱨᱥᱤ ᱰᱮᱴᱟ ᱰᱟᱣᱩᱱᱞᱳᱰ ᱠᱟᱛᱮ ᱚᱯᱷᱞᱟᱭᱤᱱ ᱛᱚᱨᱡᱚᱢᱟ ᱨᱮᱭᱟᱜ ᱫᱟᱣ ᱮᱢᱚᱜᱼᱟᱭ᱾",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ ᱱᱚᱣᱟ ᱛᱷᱚᱠ ᱨᱮ ᱡᱚᱛᱚ ᱠᱷᱚᱱ ᱧᱩᱛᱩᱢᱟᱱ ᱮᱯᱥ ᱫᱚ ᱦᱩᱭᱩᱜ ᱠᱟᱱᱟ ᱜᱩᱜᱩᱞ ᱴᱨᱟᱱᱥᱞᱮᱴ, ᱡᱟᱦᱟᱸ ᱫᱚ ᱞᱟᱹᱠᱛᱤᱜᱠᱟᱱ ᱯᱟᱹᱨᱥᱤ ᱰᱮᱴᱟ ᱰᱟᱣᱩᱱᱞᱳᱰ ᱠᱟᱛᱮ ᱚᱯᱷᱞᱟᱭᱤᱱ ᱛᱚᱨᱡᱚᱢᱟ ᱨᱮᱭᱟᱜ ᱫᱟᱣ ᱮᱢᱚᱜᱼᱟᱭ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science
+EXPLANATION:
+This question requires in"
+"ᱱᱚᱶᱟ ᱟᱬᱣᱤᱠ ᱥᱟᱸᱨᱟᱪᱱᱟ ᱥᱚᱢᱟᱱ ᱜᱮ ᱢᱮᱱᱟᱜᱼᱟ ᱮᱱᱛᱮ ᱦᱚᱸ ᱚᱱᱟ ᱜᱮᱭᱥ ᱠᱟᱱ, ᱞᱤᱠᱣᱤᱰ ᱠᱟᱱ ᱥᱮ ᱥᱚᱞᱤᱰ ᱠᱟᱱᱟ᱾",science/technology,N/A,"<|begin_of_text|>SENTENCE:
+ ᱱᱚᱶᱟ ᱟᱬᱣᱤᱠ ᱥᱟᱸᱨᱟᱪᱱᱟ ᱥᱚᱢᱟᱱ ᱜᱮ ᱢᱮᱱᱟᱜᱼᱟ ᱮᱱᱛᱮ ᱦᱚᱸ ᱚᱱᱟ ᱜᱮᱭᱥ ᱠᱟᱱ, ᱞᱤᱠᱣᱤᱰ ᱠᱟᱱ ᱥᱮ ᱥᱚᱞᱤᱰ ᱠᱟᱱᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: None of the above 
+REASONING SKILL"
+"ᱣᱤᱰᱤᱭᱚ ᱨᱮᱠᱚᱰᱤᱝ ᱨᱮᱭᱟᱜ ᱵᱮᱵᱷᱟᱨ ᱫᱚ ᱥᱩᱠᱷᱭᱚᱢ ᱚᱵᱷᱤᱵᱤᱭᱚᱠᱛᱤ, ᱪᱮᱦᱨᱟ ᱨᱮᱭᱟᱜ ᱜᱚᱛᱤᱵᱤᱫᱷᱤ ᱨᱮᱭᱟᱜ ᱵᱮᱠᱷᱭᱟ ᱨᱮ ᱡᱟᱹᱨᱩᱲ ᱯᱟᱱᱛᱮ ᱠᱚ ᱡᱟᱱᱟᱢ ᱮᱢᱟᱫᱼᱟᱭ ᱡᱟᱦᱟᱸᱭ ᱫᱚ ᱛᱤᱱᱟᱹᱝ ᱢᱤᱞᱤᱥᱮᱠᱮᱸᱰ ᱫᱷᱟᱹᱵᱤᱡ ᱪᱟᱞᱟᱜᱼᱟ᱾",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ ᱣᱤᱰᱤᱭᱚ ᱨᱮᱠᱚᱰᱤᱝ ᱨᱮᱭᱟᱜ ᱵᱮᱵᱷᱟᱨ ᱫᱚ ᱥᱩᱠᱷᱭᱚᱢ ᱚᱵᱷᱤᱵᱤᱭᱚᱠᱛᱤ, ᱪᱮᱦᱨᱟ ᱨᱮᱭᱟᱜ ᱜᱚᱛᱤᱵᱤᱫᱷᱤ ᱨᱮᱭᱟᱜ ᱵᱮᱠᱷᱭᱟ ᱨᱮ ᱡᱟᱹᱨᱩᱲ ᱯᱟᱱᱛᱮ ᱠᱚ ᱡᱟᱱᱟᱢ ᱮᱢᱟᱫᱼᱟᱭ ᱡᱟᱦᱟᱸᱭ ᱫᱚ ᱛᱤᱱᱟᱹᱝ ᱢᱤᱞᱤᱥᱮᱠᱮᱸᱰ ᱫᱷᱟᱹᱵᱤᱡ ᱪᱟᱞᱟᱜᱼᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science
+REASONING SKILL:
+ This question"
+ᱢᱟᱹᱱᱢᱤᱠᱚ ᱜᱮᱥᱟᱥᱟᱭ ᱟᱨ ᱜᱮᱥᱟᱥᱟᱭ ᱥᱮᱨᱢᱟ ᱠᱷᱚᱱ ᱢᱟᱜᱱᱤᱯᱷᱤᱠᱮᱥᱚᱱ ᱞᱟᱹᱜᱤᱫ ᱞᱮᱸᱥ ᱠᱚ ᱵᱮᱱᱟᱣ ᱠᱟᱱᱟ ᱟᱨ ᱵᱮᱵᱷᱟᱨ ᱦᱩᱭᱩᱜ ᱠᱟᱱᱟ᱾,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ ᱢᱟᱹᱱᱢᱤᱠᱚ ᱜᱮᱥᱟᱥᱟᱭ ᱟᱨ ᱜᱮᱥᱟᱥᱟᱭ ᱥᱮᱨᱢᱟ ᱠᱷᱚᱱ ᱢᱟᱜᱱᱤᱯᱷᱤᱠᱮᱥᱚᱱ ᱞᱟᱹᱜᱤᱫ ᱞᱮᱸᱥ ᱠᱚ ᱵᱮᱱᱟᱣ ᱠᱟᱱᱟ ᱟᱨ ᱵᱮᱵᱷᱟᱨ ᱦᱩᱭᱩᱜ ᱠᱟᱱᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science
+EXPLANATION:
+This sentence is about"
+"ᱢᱮᱱᱠᱷᱟᱱ ᱱᱟᱶᱟ ᱫᱚ ᱮᱠᱞᱟ ᱵᱟᱝ ᱠᱟᱱᱟ, ᱯᱨᱚᱭᱚᱜᱽ, ᱟᱨ ᱢᱤᱫᱴᱟᱹᱝ ᱯᱨᱚᱭᱚᱜᱽ ᱨᱮᱭᱟᱜ ᱵᱤᱱᱤᱰ ᱠᱟᱱᱟ ᱡᱟᱦᱟᱸ ᱨᱮᱭᱟᱜ ᱵᱮᱵᱷᱟᱨ ᱢᱤᱫ ᱠᱷᱚᱱ ᱰᱷᱮᱨ ᱥᱚᱢᱵᱷᱟᱵᱤᱛ ᱯᱚᱨᱤᱠᱚᱞᱯᱚᱱᱟ ᱠᱚ ᱪᱟᱵᱟ ᱞᱟᱹᱜᱩᱫ ᱠᱚ ᱠᱟᱨᱟᱣ ᱟ,‌ ᱠᱩᱠᱞᱤ ᱫᱚᱦᱚ ᱟᱨ ᱧᱮᱞᱵᱤᱲᱟᱹᱣ ᱠᱚᱨᱟᱣ ᱦᱚᱸ ᱵᱚᱭᱜᱭᱟᱱᱤᱠ ᱚᱱᱩᱥᱚᱱᱫᱷᱟᱱ ᱨᱮᱭᱟᱜ ᱢᱟᱨᱜᱽᱫᱚᱨᱥᱚᱱ ᱮ ᱠᱚᱨᱟᱣ ᱟᱭ᱾",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ ᱢᱮᱱᱠᱷᱟᱱ ᱱᱟᱶᱟ ᱫᱚ ᱮᱠᱞᱟ ᱵᱟᱝ ᱠᱟᱱᱟ, ᱯᱨᱚᱭᱚᱜᱽ, ᱟᱨ ᱢᱤᱫᱴᱟᱹᱝ ᱯᱨᱚᱭᱚᱜᱽ ᱨᱮᱭᱟᱜ ᱵᱤᱱᱤᱰ ᱠᱟᱱᱟ ᱡᱟᱦᱟᱸ ᱨᱮᱭᱟᱜ ᱵᱮᱵᱷᱟᱨ ᱢᱤᱫ ᱠᱷᱚᱱ ᱰᱷᱮᱨ ᱥᱚᱢᱵᱷᱟᱵᱤᱛ ᱯᱚᱨᱤᱠᱚᱞᱯᱚᱱᱟ ᱠᱚ ᱪᱟᱵᱟ ᱞᱟᱹᱜᱩᱫ ᱠᱚ ᱠᱟᱨᱟᱣ ᱟ,‌ ᱠᱩᱠᱞᱤ ᱫᱚᱦᱚ ᱟᱨ ᱧᱮᱞᱵᱤᱲᱟᱹᱣ ᱠᱚᱨᱟᱣ ᱦᱚᱸ ᱵᱚᱭᱜᱭᱟᱱᱤᱠ ᱚᱱᱩᱥᱚᱱᱫᱷᱟᱱ ᱨᱮᱭᱟᱜ ᱢᱟᱨᱜᱽᱫᱚᱨᱥᱚᱱ ᱮ ᱠᱚᱨᱟᱣ ᱟᱭ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science
+REASONING SKILL:
+ This question"
+"ᱢᱩᱪᱟᱹᱫ ᱨᱮ, ᱠᱟᱴ ᱪᱟᱠᱟ ᱫᱚ ᱢᱮᱬᱦᱮᱫ ᱪᱟᱠᱟ ᱛᱮᱠᱚ ᱵᱚᱫᱚᱞ ᱠᱮᱜ-ᱟ᱾ ᱑᱗᱖᱗ ᱨᱮ ᱢᱮᱬᱦᱮᱫ ᱛᱮ ᱨᱮᱞ ᱠᱚ ᱮᱦᱚᱵ ᱞᱮᱜ-ᱟ᱾",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ ᱢᱩᱪᱟᱹᱫ ᱨᱮ, ᱠᱟᱴ ᱪᱟᱠᱟ ᱫᱚ ᱢᱮᱬᱦᱮᱫ ᱪᱟᱠᱟ ᱛᱮᱠᱚ ᱵᱚᱫᱚᱞ ᱠᱮᱜ-ᱟ᱾ ᱑᱗᱖᱗ ᱨᱮ ᱢᱮᱬᱦᱮᱫ ᱛᱮ ᱨᱮᱞ ᱠᱚ ᱮᱦᱚᱵ ᱞᱮᱜ-ᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science
+EXPLANATION:
+This sentence is about"
+"ᱡᱚᱠᱷᱚᱱ ᱵᱟᱹᱲᱛᱤ ᱠᱟᱨᱰ ᱡᱟᱦᱟᱸ ᱨᱮ ᱠᱚᱞ ᱞᱟᱹᱜᱤᱫ ᱵᱮᱥ ᱢᱮᱱᱟᱜᱼᱟ, ᱠᱤᱪᱷᱩ ᱫᱤᱥᱚᱢ ᱠᱚ ᱨᱮ ᱵᱤᱥᱤᱥᱴ ᱫᱚᱞ ᱠᱚ ᱜᱟᱱᱚᱜ ᱠᱚᱞ ᱫᱚᱨ ᱠᱚ ᱮᱢ ᱞᱟᱹᱜᱤᱫ ᱵᱤᱥᱮᱥᱚᱜᱤᱭᱚ ᱠᱚ ᱢᱮᱱᱟᱜ ᱠᱚᱣᱟ᱾",science/technology,N/A,"<|begin_of_text|>SENTENCE:
+ ᱡᱚᱠᱷᱚᱱ ᱵᱟᱹᱲᱛᱤ ᱠᱟᱨᱰ ᱡᱟᱦᱟᱸ ᱨᱮ ᱠᱚᱞ ᱞᱟᱹᱜᱤᱫ ᱵᱮᱥ ᱢᱮᱱᱟᱜᱼᱟ, ᱠᱤᱪᱷᱩ ᱫᱤᱥᱚᱢ ᱠᱚ ᱨᱮ ᱵᱤᱥᱤᱥᱴ ᱫᱚᱞ ᱠᱚ ᱜᱟᱱᱚᱜ ᱠᱚᱞ ᱫᱚᱨ ᱠᱚ ᱮᱢ ᱞᱟᱹᱜᱤᱫ ᱵᱤᱥᱮᱥᱚᱜᱤᱭᱚ ᱠᱚ ᱢᱮᱱᱟᱜ ᱠᱚᱣᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: None of the above
+REASONING SKILL"
+ᱟᱭᱢᱟ ᱱᱟᱦᱟᱜ ᱠᱷᱚᱸᱫᱽᱨᱚᱱ ᱴᱮᱞᱤᱥᱠᱳᱯ ᱠᱚᱫᱚ ᱯᱷᱮᱵᱳᱨᱮᱵᱚᱞ ᱦᱟᱣᱟᱢᱚᱱᱰᱚᱞ ᱚᱵᱚᱥᱛᱟ ᱠᱚ ᱥᱟᱶ ᱫᱩᱨᱜᱚᱢ ᱡᱟᱭᱜᱟ ᱨᱮ ᱟᱹᱰᱤ ᱥᱩᱵᱤᱫᱷᱟᱭᱟᱭI,science/technology,travel,"<|begin_of_text|>SENTENCE:
+ ᱟᱭᱢᱟ ᱱᱟᱦᱟᱜ ᱠᱷᱚᱸᱫᱽᱨᱚᱱ ᱴᱮᱞᱤᱥᱠᱳᱯ ᱠᱚᱫᱚ ᱯᱷᱮᱵᱳᱨᱮᱵᱚᱞ ᱦᱟᱣᱟᱢᱚᱱᱰᱚᱞ ᱚᱵᱚᱥᱛᱟ ᱠᱚ ᱥᱟᱶ ᱫᱩᱨᱜᱚᱢ ᱡᱟᱭᱜᱟ ᱨᱮ ᱟᱹᱰᱤ ᱥᱩᱵᱤᱫᱷᱟᱭᱟᱭI 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The sentence"
+ᱥᱚᱨᱯᱷᱮᱥ ᱟᱹᱲᱤᱥ ᱨᱮᱱᱟᱜ ᱚᱡᱮ ᱛᱮ ᱥᱴᱤᱞ ᱥᱩᱭ ᱫᱟᱜ ᱪᱮᱛᱟᱱ ᱯᱟᱭᱨᱟᱜ ᱠᱟᱱᱟ᱾,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ ᱥᱚᱨᱯᱷᱮᱥ ᱟᱹᱲᱤᱥ ᱨᱮᱱᱟᱜ ᱚᱡᱮ ᱛᱮ ᱥᱴᱤᱞ ᱥᱩᱭ ᱫᱟᱜ ᱪᱮᱛᱟᱱ ᱯᱟᱭᱨᱟᱜ ᱠᱟᱱᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science
+EXPLANATION:
+This sentence is about"
+"᱓᱕ᱢᱤᱢᱤ ᱯᱨᱟᱨᱩᱯ ᱥᱟᱹᱨᱤ ᱛᱮ, ᱛᱷᱚᱨᱟ ᱜᱟᱱ ᱵᱷᱨᱟᱢᱤᱛ ᱟᱱᱟᱜᱼᱟ, ᱚᱥᱟᱨ ᱨᱮ ᱓᱖ᱢᱤᱢᱤ ᱟᱨ ᱪᱮᱛᱟᱱᱨᱮ ᱒᱔ ᱢᱤᱢᱤ᱾",science/technology,geography,"<|begin_of_text|>SENTENCE:
+ ᱓᱕ᱢᱤᱢᱤ ᱯᱨᱟᱨᱩᱯ ᱥᱟᱹᱨᱤ ᱛᱮ, ᱛᱷᱚᱨᱟ ᱜᱟᱱ ᱵᱷᱨᱟᱢᱤᱛ ᱟᱱᱟᱜᱼᱟ, ᱚᱥᱟᱨ ᱨᱮ ᱓᱖ᱢᱤᱢᱤ ᱟᱨ ᱪᱮᱛᱟᱱᱨᱮ ᱒᱔ ᱢᱤᱢᱤ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+geography
+EXPLANATION:
+The sentence"
+"ᱠᱚᱥᱤᱠᱟᱹ ᱡᱤᱣᱚᱱ ᱨᱮ ᱥᱮᱸᱫᱽᱨᱟ ᱞᱟᱹᱜᱤᱫ ᱩᱱᱟᱹᱜ ᱵᱩᱱᱭᱟᱹᱫᱤ ᱟᱨ ᱢᱟᱦᱚᱛ ᱠᱟᱱᱟ ᱠᱚ, ᱥᱟᱹᱨᱤ ᱛᱮ, ᱩᱱᱠᱩ ᱫᱚ ""ᱡᱤᱣᱚᱱ ᱨᱮᱭᱟᱜ ᱱᱤᱛᱴᱨᱢᱟᱹᱬ ᱠᱷᱚᱸᱰ"" ᱨᱮᱭᱟᱜ ᱨᱩᱯ ᱛᱮ ᱵᱚ ᱵᱟᱲᱟᱭ ᱠᱚᱣᱟ᱾",science/technology,N/A,"<|begin_of_text|>SENTENCE:
+ ᱠᱚᱥᱤᱠᱟᱹ ᱡᱤᱣᱚᱱ ᱨᱮ ᱥᱮᱸᱫᱽᱨᱟ ᱞᱟᱹᱜᱤᱫ ᱩᱱᱟᱹᱜ ᱵᱩᱱᱭᱟᱹᱫᱤ ᱟᱨ ᱢᱟᱦᱚᱛ ᱠᱟᱱᱟ ᱠᱚ, ᱥᱟᱹᱨᱤ ᱛᱮ, ᱩᱱᱠᱩ ᱫᱚ ""ᱡᱤᱣᱚᱱ ᱨᱮᱭᱟᱜ ᱱᱤᱛᱴᱨᱢᱟᱹᱬ ᱠᱷᱚᱸᱰ"" ᱨᱮᱭᱟᱜ ᱨᱩᱯ ᱛᱮ ᱵᱚ ᱵᱟᱲᱟᱭ ᱠᱚᱣᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: None of the above
+REASONING SKILL"
+ᱟᱯᱱᱟᱜ ᱵᱷᱤᱹᱯᱤᱹᱮᱱᱹ (ᱵᱷᱟᱨᱪᱩᱣᱟᱞ ᱯᱨᱟᱵᱷᱮᱴ ᱱᱮᱴᱣᱟᱨᱠ) ᱫᱚ ᱵᱟᱱᱟᱨ ᱥᱮᱱᱥᱚᱨᱥᱤᱯ ᱟᱨ ᱠᱚᱢᱚᱨᱥᱤᱭᱟᱞ ᱟᱭᱤᱹᱯᱤᱹ-ᱡᱤᱭᱳᱯᱷᱤᱞᱴᱚᱨᱤᱝ ᱠᱷᱚᱱ ᱵᱟᱧᱪᱟᱣᱜ ᱨᱮᱱᱟᱜ ᱱᱟᱯᱟᱭ ᱰᱟᱦᱟᱨ ᱠᱟᱱᱟ᱾,science/technology,geography,"<|begin_of_text|>SENTENCE:
+ ᱟᱯᱱᱟᱜ ᱵᱷᱤᱹᱯᱤᱹᱮᱱᱹ (ᱵᱷᱟᱨᱪᱩᱣᱟᱞ ᱯᱨᱟᱵᱷᱮᱴ ᱱᱮᱴᱣᱟᱨᱠ) ᱫᱚ ᱵᱟᱱᱟᱨ ᱥᱮᱱᱥᱚᱨᱥᱤᱯ ᱟᱨ ᱠᱚᱢᱚᱨᱥᱤᱭᱟᱞ ᱟᱭᱤᱹᱯᱤᱹ-ᱡᱤᱭᱳᱯᱷᱤᱞᱴᱚᱨᱤᱝ ᱠᱷᱚᱱ ᱵᱟᱧᱪᱟᱣᱜ ᱨᱮᱱᱟᱜ ᱱᱟᱯᱟᱭ ᱰᱟᱦᱟᱨ ᱠᱟᱱᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+�"
+"ᱚᱱᱛᱚᱨᱤᱠᱥ ᱥᱴᱮᱥᱚᱱ ᱢᱤᱥᱚᱱ ᱨᱮ ᱯᱩᱭᱞᱩ ᱡᱟᱭᱨᱚᱥᱠᱚᱯ ᱨᱮᱭᱟᱜ ᱦᱟᱹᱱ ᱛᱮᱦᱚᱸ, ᱥᱯᱮᱥᱣᱟᱠ ᱨᱮᱭᱟᱜ ᱢᱤᱪᱟᱹᱫ ᱫᱷᱟᱹᱵᱤᱡ ᱥᱴᱮᱥᱚᱱ ᱟᱡᱟᱜ ᱢᱚᱱᱮ ᱫᱚᱦᱚ ᱟᱠᱟᱫᱼᱟᱭ᱾",science/technology,travel,"<|begin_of_text|>SENTENCE:
+ ᱚᱱᱛᱚᱨᱤᱠᱥ ᱥᱴᱮᱥᱚᱱ ᱢᱤᱥᱚᱱ ᱨᱮ ᱯᱩᱭᱞᱩ ᱡᱟᱭᱨᱚᱥᱠᱚᱯ ᱨᱮᱭᱟᱜ ᱦᱟᱹᱱ ᱛᱮᱦᱚᱸ, ᱥᱯᱮᱥᱣᱟᱠ ᱨᱮᱭᱟᱜ ᱢᱤᱪᱟᱹᱫ ᱫᱷᱟᱹᱵᱤᱡ ᱥᱴᱮᱥᱚᱱ ᱟᱡᱟᱜ ᱢᱚᱱᱮ ᱫᱚᱦᱚ ᱟᱠᱟᱫᱼᱟᱭ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The sentence"
+"ᱱᱚᱣᱟ ᱞᱮᱠᱟᱱᱟᱜ ᱦᱩᱫᱤᱥᱟᱱ ᱦᱚᱲᱟᱜ ᱛᱚᱨᱠᱤᱠ ᱦᱩᱫᱤᱥ ᱛᱟᱦᱮᱱᱟ, ᱯᱮᱨᱴᱚᱱ ᱫᱚ ᱩᱭᱦᱮᱨ ᱫᱚᱦᱚᱭ ᱢᱮ, ᱢᱩᱥᱠᱤᱞ ᱠᱚ ᱨᱮᱭᱟᱜ ᱦᱚᱞ ᱟᱨ ᱵᱮᱜᱭᱟᱱᱤᱠ ᱯᱚᱨᱤᱠᱪᱷᱟᱱ ᱠᱚ ᱨᱮ ᱥᱚᱠᱪᱷᱚᱢ ᱛᱟᱦᱮᱱᱟ᱾",science/technology,N/A,"<|begin_of_text|>SENTENCE:
+ ᱱᱚᱣᱟ ᱞᱮᱠᱟᱱᱟᱜ ᱦᱩᱫᱤᱥᱟᱱ ᱦᱚᱲᱟᱜ ᱛᱚᱨᱠᱤᱠ ᱦᱩᱫᱤᱥ ᱛᱟᱦᱮᱱᱟ, ᱯᱮᱨᱴᱚᱱ ᱫᱚ ᱩᱭᱦᱮᱨ ᱫᱚᱦᱚᱭ ᱢᱮ, ᱢᱩᱥᱠᱤᱞ ᱠᱚ ᱨᱮᱭᱟᱜ ᱦᱚᱞ ᱟᱨ ᱵᱮᱜᱭᱟᱱᱤᱠ ᱯᱚᱨᱤᱠᱪᱷᱟᱱ ᱠᱚ ᱨᱮ ᱥᱚᱠᱪᱷᱚᱢ ᱛᱟᱦᱮᱱᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: None of the above
+REASONING SKILL"
+"ᱳᱥᱮᱞᱮᱴ ᱠᱚ ᱠᱟᱹᱴᱤᱡ ᱡᱩᱱᱛᱩ ᱡᱚᱢ ᱠᱚ ᱠᱩᱥᱤᱦᱟᱠᱚᱣᱟ᱾ ᱩᱱᱠᱩ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱠᱚ ᱢᱮᱱᱠᱷᱟᱱ ᱦᱟᱹᱬᱩ ᱠᱚ, ᱵᱤᱧ ᱠᱚ, ᱨᱳᱰᱮᱸᱴ ᱠᱚ ᱟᱨ ᱪᱮᱬᱮ ᱠᱚ ᱥᱟᱵ ᱠᱚᱣᱟ᱾ ᱡᱟᱦᱟᱸ ᱛᱤᱱᱟᱹᱜ ᱜᱮ ᱡᱩᱱᱛᱩ ᱥᱤᱠᱟᱹᱨᱟ ᱠᱚ ᱩᱱᱠᱩ ᱠᱷᱚᱱ ᱚᱥᱮᱞᱮᱴ ᱫᱚ ᱡᱷᱚᱛᱚ ᱠᱷᱚᱱ ᱠᱚ ᱦᱩᱰᱤᱧᱟ᱾",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ ᱳᱥᱮᱞᱮᱴ ᱠᱚ ᱠᱟᱹᱴᱤᱡ ᱡᱩᱱᱛᱩ ᱡᱚᱢ ᱠᱚ ᱠᱩᱥᱤᱦᱟᱠᱚᱣᱟ᱾ ᱩᱱᱠᱩ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱠᱚ ᱢᱮᱱᱠᱷᱟᱱ ᱦᱟᱹᱬᱩ ᱠᱚ, ᱵᱤᱧ ᱠᱚ, ᱨᱳᱰᱮᱸᱴ ᱠᱚ ᱟᱨ ᱪᱮᱬᱮ ᱠᱚ ᱥᱟᱵ ᱠᱚᱣᱟ᱾ ᱡᱟᱦᱟᱸ ᱛᱤᱱᱟᱹᱜ ᱜᱮ ᱡᱩᱱᱛᱩ ᱥᱤᱠᱟᱹᱨᱟ ᱠᱚ ᱩᱱᱠᱩ ᱠᱷᱚᱱ ᱚᱥᱮᱞᱮᱴ ᱫᱚ ᱡᱷᱚᱛᱚ ᱠᱷᱚᱱ ᱠᱚ ᱦᱩᱰᱤᱧᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science
+EXPLANATION:
+This sentence is about"
+"ᱛᱤᱱᱟᱹᱜ ᱜᱟᱱ ᱛᱟᱞᱟ ᱮᱛᱦᱚᱵ ᱯᱷᱤᱞᱢ ᱠᱮᱢᱨᱟ ᱖ ᱠᱷᱚᱱ ᱖ ᱥᱤᱢᱟᱹ ᱯᱷᱚᱨᱢᱟᱴ ᱨᱮ ᱵᱮᱵᱷᱟᱨᱚᱜ ᱠᱟᱱᱟ, ᱰᱷᱮᱨ ᱥᱚᱴᱷᱤᱠ ᱦᱤᱥᱟᱹᱵ ᱛᱮ ᱕᱖ ᱢᱤᱢᱤ ᱱᱟᱠᱟᱨᱟᱛᱢᱚᱠ᱾",science/technology,entertainment,"<|begin_of_text|>SENTENCE:
+ ᱛᱤᱱᱟᱹᱜ ᱜᱟᱱ ᱛᱟᱞᱟ ᱮᱛᱦᱚᱵ ᱯᱷᱤᱞᱢ ᱠᱮᱢᱨᱟ ᱖ ᱠᱷᱚᱱ ᱖ ᱥᱤᱢᱟᱹ ᱯᱷᱚᱨᱢᱟᱴ ᱨᱮ ᱵᱮᱵᱷᱟᱨᱚᱜ ᱠᱟᱱᱟ, ᱰᱷᱮᱨ ᱥᱚᱴᱷᱤᱠ ᱦᱤᱥᱟᱹᱵ ᱛᱮ ᱕᱖ ᱢᱤᱢᱤ ᱱᱟᱠᱟᱨᱟᱛᱢᱚᱠ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+The"
+ᱫᱟᱬᱟ ᱠᱩᱜ ᱫᱚ ᱫᱨᱩᱰᱷᱛᱟᱹ ᱛᱮ ᱥᱚᱞᱟᱦ ᱮᱢᱟ ᱠᱚ ᱠᱟᱱᱟ ᱠᱚ ᱡᱮ ᱩᱱᱠᱩ ᱫᱚ ᱟᱠᱚ ᱡᱟᱭᱜᱟ ᱫᱚ ᱜᱚᱢᱵᱷᱤᱨ ᱦᱚᱭ ᱫᱟᱜ ᱨᱮᱭᱟᱜ ᱡᱟᱦᱟᱸ ᱡᱚᱠᱷᱤᱢ ᱠᱷᱚᱱ ᱪᱮᱛᱱᱟ ᱥᱟᱹᱦᱤᱡ ᱠᱚ ᱛᱟᱦᱮᱸᱱ ᱢᱟᱸ ᱪᱮᱫᱟᱜ ᱥᱮ ᱡᱟᱦᱟᱸ ᱡᱟᱭᱜᱟ ᱭᱚᱡᱽᱱᱟ ᱠᱚ ᱯᱨᱚᱵᱷᱟᱣᱤᱛ ᱮᱫ ᱠᱚᱣᱟᱭ᱾,travel,geography,"<|begin_of_text|>SENTENCE:
+ ᱫᱟᱬᱟ ᱠᱩᱜ ᱫᱚ ᱫᱨᱩᱰᱷᱛᱟᱹ ᱛᱮ ᱥᱚᱞᱟᱦ ᱮᱢᱟ ᱠᱚ ᱠᱟᱱᱟ ᱠᱚ ᱡᱮ ᱩᱱᱠᱩ ᱫᱚ ᱟᱠᱚ ᱡᱟᱭᱜᱟ ᱫᱚ ᱜᱚᱢᱵᱷᱤᱨ ᱦᱚᱭ ᱫᱟᱜ ᱨᱮᱭᱟᱜ ᱡᱟᱦᱟᱸ ᱡᱚᱠᱷᱤᱢ ᱠᱷᱚᱱ ᱪᱮᱛᱱᱟ ᱥᱟᱹᱦᱤᱡ ᱠᱚ ᱛᱟᱦᱮᱸᱱ ᱢᱟᱸ ᱪᱮᱫᱟᱜ ᱥᱮ ᱡᱟᱦᱟᱸ ᱡᱟᱭᱜᱟ ᱭᱚᱡᱽᱱᱟ ᱠᱚ ᱯᱨᱚᱵᱷᱟᱣᱤᱛ ᱮᱫ ᱠᱚᱣᱟᱭ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+"ᱵᱟᱥ ᱠᱚ ᱥᱟᱨᱟ ᱫᱤᱱ ᱤᱱᱴᱨᱟ-ᱰᱤᱥᱴᱨᱤᱠ ᱵᱟᱥ ᱥᱴᱮᱥᱚᱱ (ᱜᱟᱰᱟ ᱦᱟᱱᱟᱥᱟᱜ) ᱨᱮ ᱪᱟᱞᱟᱜᱼᱟ, ᱮᱱᱛᱮᱨᱮᱦᱚᱸ ᱡᱟᱹᱥᱛᱤ, ᱵᱮᱥᱮᱥ ᱠᱟᱭᱛᱮ ᱚᱱᱟ ᱠᱚ ᱡᱟᱦᱟᱸ ᱥᱟᱢᱟᱝ ᱥᱮᱫ ᱪᱟᱞᱟᱜᱼᱟ ᱟᱨ ᱡᱟᱠᱟᱨ/ᱵᱩᱢᱛᱷᱮᱝ ᱐᱖:᱓᱐ ᱟᱨ ᱐᱗:᱓᱐ ᱢᱩᱸᱫᱽ ᱨᱮᱭ ᱟᱲᱟᱜᱟ᱾",travel,travel,"<|begin_of_text|>SENTENCE:
+ ᱵᱟᱥ ᱠᱚ ᱥᱟᱨᱟ ᱫᱤᱱ ᱤᱱᱴᱨᱟ-ᱰᱤᱥᱴᱨᱤᱠ ᱵᱟᱥ ᱥᱴᱮᱥᱚᱱ (ᱜᱟᱰᱟ ᱦᱟᱱᱟᱥᱟᱜ) ᱨᱮ ᱪᱟᱞᱟᱜᱼᱟ, ᱮᱱᱛᱮᱨᱮᱦᱚᱸ ᱡᱟᱹᱥᱛᱤ, ᱵᱮᱥᱮᱥ ᱠᱟᱭᱛᱮ ᱚᱱᱟ ᱠᱚ ᱡᱟᱦᱟᱸ ᱥᱟᱢᱟᱝ ᱥᱮᱫ ᱪᱟᱞᱟᱜᱼᱟ ᱟᱨ ᱡᱟᱠᱟᱨ/ᱵᱩᱢᱛᱷᱮᱝ ᱐᱖:᱓᱐ ᱟᱨ ᱐᱗:᱓᱐ ᱢᱩᱸᱫᱽ ᱨᱮᱭ ᱟᱲᱟᱜᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The sentence"
+ᱩᱱᱤ ᱫᱚ ᱫᱮᱡ ᱞᱟᱹᱜᱩᱫ ᱛᱮ ᱰᱷᱮᱨ ᱥᱛᱷᱤᱨᱛᱟ ᱮᱢᱚᱜ ᱠᱟᱱᱟᱭ ᱦᱮᱞᱮ ᱫᱮᱡᱚᱜᱟᱹᱧ ᱠᱟᱴᱟ ᱨᱮᱭᱟᱜ ᱥᱚᱢᱵᱷᱟᱵᱚᱱ ᱞᱟᱹᱜᱤᱫ ᱛᱮ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱪᱤᱱᱛᱟᱹ ᱨᱮ ᱚᱱᱟ ᱨᱮ ᱯᱷᱚᱥᱟᱣ ᱞᱟᱹᱜᱤᱫ ᱠᱚᱨᱟᱣ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ᱾,travel,travel,"<|begin_of_text|>SENTENCE:
+ ᱩᱱᱤ ᱫᱚ ᱫᱮᱡ ᱞᱟᱹᱜᱩᱫ ᱛᱮ ᱰᱷᱮᱨ ᱥᱛᱷᱤᱨᱛᱟ ᱮᱢᱚᱜ ᱠᱟᱱᱟᱭ ᱦᱮᱞᱮ ᱫᱮᱡᱚᱜᱟᱹᱧ ᱠᱟᱴᱟ ᱨᱮᱭᱟᱜ ᱥᱚᱢᱵᱷᱟᱵᱚᱱ ᱞᱟᱹᱜᱤᱫ ᱛᱮ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱪᱤᱱᱛᱟᱹ ᱨᱮ ᱚᱱᱟ ᱨᱮ ᱯᱷᱚᱥᱟᱣ ᱞᱟᱹᱜᱤᱫ ᱠᱚᱨᱟᱣ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The sentence"
+"ᱵᱟᱹᱲᱛᱤ ᱠᱟᱭᱛᱮ ᱵᱤᱥᱤᱥᱴ ᱵᱟᱞᱴᱤᱠ ᱯᱚᱨᱤᱵᱷᱨᱚᱢᱚᱱ ᱥᱮᱸᱱᱴ ᱯᱤᱴᱚᱨᱥᱵᱳᱨᱜᱽ, ᱨᱩᱥᱤᱭᱟ ᱨᱮ ᱢᱤᱫ ᱵᱤᱥᱛᱟᱨᱤᱛ ᱯᱨᱚᱵᱟᱥ ᱨᱮᱭᱟᱜ ᱥᱩᱵᱤᱫᱷᱟ ᱮᱢᱚᱜ ᱠᱟᱱᱟᱭI",travel,geography,"<|begin_of_text|>SENTENCE:
+ ᱵᱟᱹᱲᱛᱤ ᱠᱟᱭᱛᱮ ᱵᱤᱥᱤᱥᱴ ᱵᱟᱞᱴᱤᱠ ᱯᱚᱨᱤᱵᱷᱨᱚᱢᱚᱱ ᱥᱮᱸᱱᱴ ᱯᱤᱴᱚᱨᱥᱵᱳᱨᱜᱽ, ᱨᱩᱥᱤᱭᱟ ᱨᱮ ᱢᱤᱫ ᱵᱤᱥᱛᱟᱨᱤᱛ ᱯᱨᱚᱵᱟᱥ ᱨᱮᱭᱟᱜ ᱥᱩᱵᱤᱫᱷᱟ ᱮᱢᱚᱜ ᱠᱟᱱᱟᱭI 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+geography
+REASONING SKILL:
+"
+"ᱥᱚᱞᱟᱦ ᱢᱟᱱᱟᱣᱮᱫᱟ ᱡᱮ ᱫᱟᱬᱟ ᱠᱚ ᱵᱟᱝ ᱠᱩᱢᱵᱰᱩᱜᱼᱟ, ᱚᱛᱤᱪᱟᱨ, ᱚᱣᱮᱫᱷ ᱵᱟᱡᱟᱨ ᱨᱮ ᱵᱷᱟᱜ ᱠᱚ ᱤᱫᱤ ᱮᱫᱟ, ᱵᱮᱜᱽ, ᱟᱨ ᱵᱟᱝ ᱮᱴᱟᱜ ᱦᱚᱲ ᱠᱚ ᱱᱤᱡᱚᱨ ᱞᱟᱵᱷ ᱞᱟᱹᱜᱤᱫ ᱯᱷᱟᱭᱫᱟᱹ ᱠᱚ ᱩᱴᱷᱟᱹᱣ ᱮᱫᱟ᱾",travel,N/A,"<|begin_of_text|>SENTENCE:
+ ᱥᱚᱞᱟᱦ ᱢᱟᱱᱟᱣᱮᱫᱟ ᱡᱮ ᱫᱟᱬᱟ ᱠᱚ ᱵᱟᱝ ᱠᱩᱢᱵᱰᱩᱜᱼᱟ, ᱚᱛᱤᱪᱟᱨ, ᱚᱣᱮᱫᱷ ᱵᱟᱡᱟᱨ ᱨᱮ ᱵᱷᱟᱜ ᱠᱚ ᱤᱫᱤ ᱮᱫᱟ, ᱵᱮᱜᱽ, ᱟᱨ ᱵᱟᱝ ᱮᱴᱟᱜ ᱦᱚᱲ ᱠᱚ ᱱᱤᱡᱚᱨ ᱞᱟᱵᱷ ᱞᱟᱹᱜᱤᱫ ᱯᱷᱟᱭᱫᱟᱹ ᱠᱚ ᱩᱴᱷᱟᱹᱣ ᱮᱫᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: None of the above
+REASONING SKILL"
+ᱯᱩᱭᱞᱩ ᱟᱨ ᱡᱟᱦᱟᱸᱭ ᱨᱮ ᱜᱮ ᱟᱢ ᱫᱟᱬᱟᱭ ᱟᱢ ᱛᱚ ᱟᱢ ᱫᱚ ᱟᱭᱢᱟ ᱡᱤᱱᱤᱥ ᱵᱟᱭ ᱠᱟᱜ ᱠᱟᱛᱟᱷ᱾,travel,entertainment,"<|begin_of_text|>SENTENCE:
+ ᱯᱩᱭᱞᱩ ᱟᱨ ᱡᱟᱦᱟᱸᱭ ᱨᱮ ᱜᱮ ᱟᱢ ᱫᱟᱬᱟᱭ ᱟᱢ ᱛᱚ ᱟᱢ ᱫᱚ ᱟᱭᱢᱟ ᱡᱤᱱᱤᱥ ᱵᱟᱭ ᱠᱟᱜ ᱠᱟᱛᱟᱷ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+�"
+"ᱞᱚᱞᱚ ᱫᱤᱱ ᱠᱚᱨᱮ, ᱡᱟᱹᱛᱨᱤᱠᱚ ᱢᱤᱨᱟᱡᱽ ᱟᱹᱭᱠᱟᱹᱣ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱠᱚ ᱡᱟᱦᱟᱸ ᱫᱟᱜ ᱨᱮᱭᱟᱜ ᱵᱷᱮᱣᱱᱟ ᱮᱢ ᱮᱫᱼᱟᱭ (ᱵᱟᱝᱢᱟ ᱮᱴᱟᱜ ᱡᱤᱱᱤᱥᱠᱚ)᱾",travel,science/technology,"<|begin_of_text|>SENTENCE:
+ ᱞᱚᱞᱚ ᱫᱤᱱ ᱠᱚᱨᱮ, ᱡᱟᱹᱛᱨᱤᱠᱚ ᱢᱤᱨᱟᱡᱽ ᱟᱹᱭᱠᱟᱹᱣ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱠᱚ ᱡᱟᱦᱟᱸ ᱫᱟᱜ ᱨᱮᱭᱟᱜ ᱵᱷᱮᱣᱱᱟ ᱮᱢ ᱮᱫᱼᱟᱭ (ᱵᱟᱝᱢᱟ ᱮᱴᱟᱜ ᱡᱤᱱᱤᱥᱠᱚ)᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science
+EXPLANATION:
+This sentence is about"
+"ᱜᱤᱫᱽᱨᱟᱹ ᱥᱟᱞᱟᱜ ᱜᱷᱟᱨᱚᱧᱡᱽ ᱦᱚᱲ ᱫᱚ ᱢᱤᱫᱴᱟᱹᱝ ᱫᱩᱨᱵᱚᱞ ᱱᱚᱡᱚᱨ ᱠᱟᱱᱟ, ᱦᱮᱞᱮ ᱛᱤᱱᱟᱹᱜ ᱪᱷᱟᱛᱨᱟᱣᱟᱥ ᱩᱱᱠᱩ ᱱᱤᱡᱤ ᱨᱩᱢ ᱨᱮ ᱚᱫᱮᱨ ᱮᱢᱟ ᱠᱚ ᱠᱟᱱᱟᱭ᱾",travel,N/A,"<|begin_of_text|>SENTENCE:
+ ᱜᱤᱫᱽᱨᱟᱹ ᱥᱟᱞᱟᱜ ᱜᱷᱟᱨᱚᱧᱡᱽ ᱦᱚᱲ ᱫᱚ ᱢᱤᱫᱴᱟᱹᱝ ᱫᱩᱨᱵᱚᱞ ᱱᱚᱡᱚᱨ ᱠᱟᱱᱟ, ᱦᱮᱞᱮ ᱛᱤᱱᱟᱹᱜ ᱪᱷᱟᱛᱨᱟᱣᱟᱥ ᱩᱱᱠᱩ ᱱᱤᱡᱤ ᱨᱩᱢ ᱨᱮ ᱚᱫᱮᱨ ᱮᱢᱟ ᱠᱚ ᱠᱟᱱᱟᱭ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: None of the above 
+REASONING SKILL"
+"ᱫᱟᱹᱭᱠᱟᱹ ᱞᱮᱠᱟᱛᱮ ᱞᱳᱭᱮᱨ ᱵᱷᱮᱞᱤ, ᱨᱮᱭᱤᱱ ᱵᱷᱮᱞᱤ ᱫᱩᱨᱜᱚ ᱦᱤᱨᱤ ᱵᱟᱝᱢᱟ ᱰᱮᱱᱭᱩᱵᱽ ᱨᱮ ᱢᱚᱱᱞᱚᱵᱷᱟᱣ ᱡᱟᱭᱜᱟ ᱦᱤᱨᱤ ᱵᱟᱝᱢᱟ ᱮᱨᱤ ᱠᱮᱱᱟᱞ ᱨᱮ ᱵᱳᱴᱤᱝ ᱠᱚᱨᱟᱣ᱾",travel,travel,"<|begin_of_text|>SENTENCE:
+ ᱫᱟᱹᱭᱠᱟᱹ ᱞᱮᱠᱟᱛᱮ ᱞᱳᱭᱮᱨ ᱵᱷᱮᱞᱤ, ᱨᱮᱭᱤᱱ ᱵᱷᱮᱞᱤ ᱫᱩᱨᱜᱚ ᱦᱤᱨᱤ ᱵᱟᱝᱢᱟ ᱰᱮᱱᱭᱩᱵᱽ ᱨᱮ ᱢᱚᱱᱞᱚᱵᱷᱟᱣ ᱡᱟᱭᱜᱟ ᱦᱤᱨᱤ ᱵᱟᱝᱢᱟ ᱮᱨᱤ ᱠᱮᱱᱟᱞ ᱨᱮ ᱵᱳᱴᱤᱝ ᱠᱚᱨᱟᱣ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+travel
+EXPLANATION:
+The sentence is"
+ᱱᱚᱶᱟ ᱫᱚ ᱢᱤᱫ ᱮᱡᱮᱸᱴ ᱨᱮᱭᱟᱜ ᱵᱮᱵᱷᱟᱨ ᱠᱚᱨᱟᱣ ᱴᱷᱤᱠ ᱦᱩᱭᱩᱜ ᱜᱮᱭᱟ ᱡᱟᱦᱟᱸᱭ ᱫᱚ ᱟᱢ ᱥᱚᱢᱟᱱ ᱭᱟᱛᱨᱟ ᱠᱚᱨᱟᱣ ᱪᱷᱚ ᱮᱫ ᱟᱭ᱾,travel,N/A,"<|begin_of_text|>SENTENCE:
+ ᱱᱚᱶᱟ ᱫᱚ ᱢᱤᱫ ᱮᱡᱮᱸᱴ ᱨᱮᱭᱟᱜ ᱵᱮᱵᱷᱟᱨ ᱠᱚᱨᱟᱣ ᱴᱷᱤᱠ ᱦᱩᱭᱩᱜ ᱜᱮᱭᱟ ᱡᱟᱦᱟᱸᱭ ᱫᱚ ᱟᱢ ᱥᱚᱢᱟᱱ ᱭᱟᱛᱨᱟ ᱠᱚᱨᱟᱣ ᱪᱷᱚ ᱮᱫ ᱟᱭ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: None of the above 
+REASONING SKILL"
+ᱠᱚᱢᱯᱭᱩᱴᱚᱨ ᱯᱨᱚᱜᱽᱨᱟᱢᱟᱹᱨ ᱠᱮ ᱥᱤ ᱯᱷᱮᱱᱴᱚᱱ ᱛᱟᱭᱚᱢ ᱠᱟᱸᱪᱥᱚᱯᱷᱤᱝ ᱨᱮᱭᱟᱜ ᱥᱛᱷᱟᱯᱱᱟ ᱟᱭᱞᱮᱸᱰ ᱞᱟᱹᱜᱤᱫ ᱢᱤᱫᱴᱟᱹᱝ ᱥᱚᱥᱛᱟ ᱩᱰᱟᱹᱱ ᱧᱟᱢ ᱮᱱᱟ ᱦᱮᱞᱮ ᱛᱟᱦᱮᱸ ᱞᱟᱹᱜᱤᱫ ᱢᱤᱫᱴᱟᱹᱝ ᱡᱟᱭᱜᱟ ᱜᱮ ᱵᱟᱝ ᱛᱟᱦᱮᱸ ᱠᱟᱱᱟ᱾,travel,travel,"<|begin_of_text|>SENTENCE:
+ ᱠᱚᱢᱯᱭᱩᱴᱚᱨ ᱯᱨᱚᱜᱽᱨᱟᱢᱟᱹᱨ ᱠᱮ ᱥᱤ ᱯᱷᱮᱱᱴᱚᱱ ᱛᱟᱭᱚᱢ ᱠᱟᱸᱪᱥᱚᱯᱷᱤᱝ ᱨᱮᱭᱟᱜ ᱥᱛᱷᱟᱯᱱᱟ ᱟᱭᱞᱮᱸᱰ ᱞᱟᱹᱜᱤᱫ ᱢᱤᱫᱴᱟᱹᱝ ᱥᱚᱥᱛᱟ ᱩᱰᱟᱹᱱ ᱧᱟᱢ ᱮᱱᱟ ᱦᱮᱞᱮ ᱛᱟᱦᱮᱸ ᱞᱟᱹᱜᱤᱫ ᱢᱤᱫᱴᱟᱹᱝ ᱡᱟᱭᱜᱟ ᱜᱮ ᱵᱟᱝ ᱛᱟᱦᱮᱸ ᱠᱟᱱᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+travel
+EXPLANATION:
+The sentence is"
+ᱯᱟᱹᱴᱷᱣᱟᱹ ᱣᱤᱡᱟ ᱫᱚ ᱡᱟᱣ ᱜᱮ ᱥᱟᱫᱷᱟᱨᱚᱱ ᱯᱟᱨᱭᱟᱴᱚᱠ ᱟᱨᱵᱟᱝ ᱵᱮᱯᱟᱨᱤᱠ ᱣᱤᱡᱟ ᱠᱷᱚᱱ ᱵᱟᱜᱟᱨ ᱞᱟᱹᱠᱛᱤᱭᱟ ᱟᱨ ᱟᱣᱮᱫᱚᱱ ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱦᱩᱭᱩᱜᱼᱟ᱾,travel,N/A,"<|begin_of_text|>SENTENCE:
+ ᱯᱟᱹᱴᱷᱣᱟᱹ ᱣᱤᱡᱟ ᱫᱚ ᱡᱟᱣ ᱜᱮ ᱥᱟᱫᱷᱟᱨᱚᱱ ᱯᱟᱨᱭᱟᱴᱚᱠ ᱟᱨᱵᱟᱝ ᱵᱮᱯᱟᱨᱤᱠ ᱣᱤᱡᱟ ᱠᱷᱚᱱ ᱵᱟᱜᱟᱨ ᱞᱟᱹᱠᱛᱤᱭᱟ ᱟᱨ ᱟᱣᱮᱫᱚᱱ ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱦᱩᱭᱩᱜᱼᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: None of the above 
+REASONING SKILL"
+ᱡᱚᱛᱚ ᱫᱤᱥᱚᱢ ᱨᱮᱭᱟᱜ ᱟᱞᱟᱫᱟ ᱠᱟᱹᱱᱩᱱ ᱠᱚ ᱢᱮᱱᱟᱜᱼᱟ ᱡᱟᱦᱟᱸ ᱠᱟᱨ ᱵᱷᱤᱛᱨᱤ ᱨᱮ ᱤᱢᱚᱨᱡᱮᱱᱥᱤ ᱡᱤᱱᱤᱥ ᱠᱚ ᱫᱚᱦᱚ ᱨᱮᱭᱟᱜ ᱞᱟᱹᱠᱛᱤ ᱢᱮᱱᱟᱜᱼᱟ᱾,travel,science/technology,"<|begin_of_text|>SENTENCE:
+ ᱡᱚᱛᱚ ᱫᱤᱥᱚᱢ ᱨᱮᱭᱟᱜ ᱟᱞᱟᱫᱟ ᱠᱟᱹᱱᱩᱱ ᱠᱚ ᱢᱮᱱᱟᱜᱼᱟ ᱡᱟᱦᱟᱸ ᱠᱟᱨ ᱵᱷᱤᱛᱨᱤ ᱨᱮ ᱤᱢᱚᱨᱡᱮᱱᱥᱤ ᱡᱤᱱᱤᱥ ᱠᱚ ᱫᱚᱦᱚ ᱨᱮᱭᱟᱜ ᱞᱟᱹᱠᱛᱤ ᱢᱮᱱᱟᱜᱼᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science
+EXPLANATION:
+This question requires the"
+"ᱢᱮᱱᱠᱷᱟᱱ ᱡᱟᱹᱥᱛᱤ ᱮᱡᱮᱱᱥᱤ ᱠᱚ ᱫᱚ ᱡᱷᱚᱛᱚ ᱠᱷᱚᱱ ᱱᱤᱢᱱᱚ ᱵᱤᱠᱤᱝ ᱤᱫᱤ ᱥᱟᱱᱟ ᱠᱚ ᱠᱟᱱᱟ, ᱦᱮᱞᱮ ᱛᱤᱱᱟᱹᱜ ᱜᱟᱱ ᱮᱡᱮᱸᱴ ᱫᱚ ᱵᱤᱵᱮᱥ ᱯᱨᱚᱠᱟᱨ ᱨᱮᱭᱟᱜ ᱫᱟᱬᱟ ᱨᱮᱭᱟᱜ ᱛᱮ ᱜᱮ, ᱵᱚᱡᱚᱴ ᱥᱨᱩᱝᱠᱞᱟ ᱟᱨ ᱵᱟᱝ ᱜᱚᱱᱛᱣᱮ ᱨᱮ ᱵᱤᱥᱮᱥᱚᱜᱭᱚ ᱢᱮᱱᱟᱜ ᱠᱚᱣᱟ᱾",travel,science/technology,"<|begin_of_text|>SENTENCE:
+ ᱢᱮᱱᱠᱷᱟᱱ ᱡᱟᱹᱥᱛᱤ ᱮᱡᱮᱱᱥᱤ ᱠᱚ ᱫᱚ ᱡᱷᱚᱛᱚ ᱠᱷᱚᱱ ᱱᱤᱢᱱᱚ ᱵᱤᱠᱤᱝ ᱤᱫᱤ ᱥᱟᱱᱟ ᱠᱚ ᱠᱟᱱᱟ, ᱦᱮᱞᱮ ᱛᱤᱱᱟᱹᱜ ᱜᱟᱱ ᱮᱡᱮᱸᱴ ᱫᱚ ᱵᱤᱵᱮᱥ ᱯᱨᱚᱠᱟᱨ ᱨᱮᱭᱟᱜ ᱫᱟᱬᱟ ᱨᱮᱭᱟᱜ ᱛᱮ ᱜᱮ, ᱵᱚᱡᱚᱴ ᱥᱨᱩᱝᱠᱞᱟ ᱟᱨ ᱵᱟᱝ ᱜᱚᱱᱛᱣᱮ ᱨᱮ ᱵᱤᱥᱮᱥᱚᱜᱭᱚ ᱢᱮᱱᱟᱜ ᱠᱚᱣᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science
+EXPLANATION:
+This sentence is about"
+ᱫᱟᱬᱟ ᱠᱩᱜ ᱫᱚ ᱡᱤᱣ ᱠᱤᱴ ᱠᱚ ᱥᱟᱹᱢᱱᱟᱹ ᱠᱚᱨᱟᱣ ᱛᱮ ᱦᱩᱭ ᱫᱟᱲᱮ ᱠᱚᱣᱟ ᱡᱮ ᱟᱠᱚ ᱫᱚ ᱱᱤᱡᱚᱨ ᱚᱲᱟᱜ ᱡᱟᱭᱜᱟ ᱨᱮ ᱵᱟᱠᱚ ᱯᱚᱨᱤᱪᱤᱛᱼᱟ᱾,travel,N/A,"<|begin_of_text|>SENTENCE:
+ ᱫᱟᱬᱟ ᱠᱩᱜ ᱫᱚ ᱡᱤᱣ ᱠᱤᱴ ᱠᱚ ᱥᱟᱹᱢᱱᱟᱹ ᱠᱚᱨᱟᱣ ᱛᱮ ᱦᱩᱭ ᱫᱟᱲᱮ ᱠᱚᱣᱟ ᱡᱮ ᱟᱠᱚ ᱫᱚ ᱱᱤᱡᱚᱨ ᱚᱲᱟᱜ ᱡᱟᱭᱜᱟ ᱨᱮ ᱵᱟᱠᱚ ᱯᱚᱨᱤᱪᱤᱛᱼᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: None of the above 
+REASONING SKILL"
+"ᱟᱨᱦᱚᱸ ᱮᱛᱚᱢ ᱱᱟᱠᱷᱟ ᱦᱚᱸ ᱚᱢᱚᱨ ᱞᱮᱰᱤ ᱚᱯᱷ ᱯᱷᱟᱛᱤᱢᱟ (ᱛᱤᱨᱛᱷ) ᱨᱮᱭᱟᱜ ᱧᱩᱢᱟᱱ ᱚᱵᱷᱚᱭᱟᱨᱚᱱ ᱧᱮᱞ ᱢᱟ, ᱡᱮᱜᱮᱛ ᱡᱟᱠᱟᱛ ᱨᱮᱭᱟᱜ ᱯᱨᱚᱥᱤᱫᱷ ᱢᱮᱨᱤᱭᱳᱱ ᱞᱩᱜᱽᱲᱤ ᱨᱮᱭᱟᱜ ᱯᱨᱚᱥᱤᱫᱷ ᱡᱟᱭᱜᱟ ᱠᱟᱱᱟ᱾",travel,geography,"<|begin_of_text|>SENTENCE:
+ ᱟᱨᱦᱚᱸ ᱮᱛᱚᱢ ᱱᱟᱠᱷᱟ ᱦᱚᱸ ᱚᱢᱚᱨ ᱞᱮᱰᱤ ᱚᱯᱷ ᱯᱷᱟᱛᱤᱢᱟ (ᱛᱤᱨᱛᱷ) ᱨᱮᱭᱟᱜ ᱧᱩᱢᱟᱱ ᱚᱵᱷᱚᱭᱟᱨᱚᱱ ᱧᱮᱞ ᱢᱟ, ᱡᱮᱜᱮᱛ ᱡᱟᱠᱟᱛ ᱨᱮᱭᱟᱜ ᱯᱨᱚᱥᱤᱫᱷ ᱢᱮᱨᱤᱭᱳᱱ ᱞᱩᱜᱽᱲᱤ ᱨᱮᱭᱟᱜ ᱯᱨᱚᱥᱤᱫᱷ ᱡᱟᱭᱜᱟ ᱠᱟᱱᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+geography
+REASONING SKILL:
+"
+ᱟᱢ ᱜᱚᱢᱟ ᱟᱰᱮ~ᱯᱟᱥᱮ ᱪᱟᱞᱟᱜ ᱞᱟᱹᱜᱤᱫ ᱟᱢ ᱵᱚᱰᱟᱼᱵᱚᱰᱟ (ᱢᱚᱴᱚᱨ ᱥᱟᱭᱠᱚᱞ ᱴᱮᱠᱥᱤ) ᱵᱮᱵᱷᱟᱨ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱢ᱾ ᱠᱷᱟᱴᱚ ᱚᱠᱛᱚ ᱫᱮᱡ ᱞᱟᱹᱜᱤᱫ ᱥᱟᱫᱷᱟᱨᱚᱱ (ᱞᱚᱠᱟᱞ) ᱜᱚᱱᱚᱝ ~᱕᱐᱐ ᱠᱚᱝᱜᱚᱞᱤᱡᱽ ᱯᱷᱨᱟᱸᱠᱥ ᱫᱚᱨᱠᱟᱨ᱾,travel,travel,"<|begin_of_text|>SENTENCE:
+ ᱟᱢ ᱜᱚᱢᱟ ᱟᱰᱮ~ᱯᱟᱥᱮ ᱪᱟᱞᱟᱜ ᱞᱟᱹᱜᱤᱫ ᱟᱢ ᱵᱚᱰᱟᱼᱵᱚᱰᱟ (ᱢᱚᱴᱚᱨ ᱥᱟᱭᱠᱚᱞ ᱴᱮᱠᱥᱤ) ᱵᱮᱵᱷᱟᱨ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱢ᱾ ᱠᱷᱟᱴᱚ ᱚᱠᱛᱚ ᱫᱮᱡ ᱞᱟᱹᱜᱤᱫ ᱥᱟᱫᱷᱟᱨᱚᱱ (ᱞᱚᱠᱟᱞ) ᱜᱚᱱᱚᱝ ~᱕᱐᱐ ᱠᱚᱝᱜᱚᱞᱤᱡᱽ ᱯᱷᱨᱟᱸᱠᱥ ᱫᱚᱨᱠᱟᱨ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The sentence"
+"ᱩᱱᱠᱩ ᱦᱚᱲᱠᱚ ᱡᱟᱦᱟᱸᱭ ᱵᱟᱨᱦᱮ ᱮᱠᱴᱤᱵᱷᱤᱴᱤᱠᱚ ᱨᱟᱹᱥᱠᱟᱹᱭᱮᱫ, ᱢᱤᱫ ᱵᱟᱹᱭᱵᱟᱹᱭ ᱛᱟᱲᱟᱢ ᱥᱟᱹᱢᱩᱸᱫᱽ ᱠᱷᱚᱱ ᱥᱮᱨᱢᱟ ᱦᱚᱸ ᱞᱟᱹᱠᱛᱤᱜᱮᱭᱟ᱾",travel,science/technology,"<|begin_of_text|>SENTENCE:
+ ᱩᱱᱠᱩ ᱦᱚᱲᱠᱚ ᱡᱟᱦᱟᱸᱭ ᱵᱟᱨᱦᱮ ᱮᱠᱴᱤᱵᱷᱤᱴᱤᱠᱚ ᱨᱟᱹᱥᱠᱟᱹᱭᱮᱫ, ᱢᱤᱫ ᱵᱟᱹᱭᱵᱟᱹᱭ ᱛᱟᱲᱟᱢ ᱥᱟᱹᱢᱩᱸᱫᱽ ᱠᱷᱚᱱ ᱥᱮᱨᱢᱟ ᱦᱚᱸ ᱞᱟᱹᱠᱛᱤᱜᱮᱭᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science
+EXPLANATION:
+This sentence is about"
+"ᱢᱤᱫᱴᱟᱹᱝ ᱪᱟᱞᱟᱣ ᱨᱮᱭᱟᱜ ᱥᱚᱯᱷᱟᱨᱤ (ᱡᱮᱞᱠᱟ ""ᱵᱩᱥ ᱣᱟᱠ"", ""ᱡᱤᱞᱤᱧ ᱛᱟᱲᱟᱢ ᱫᱟᱬᱟ ᱥᱚᱯᱷᱟᱨᱤ"" ᱢᱮᱛᱟᱜᱼᱟ ᱠᱚ, ᱟᱨ ᱵᱟᱝ ""ᱠᱟᱴᱟ"" ᱪᱟᱞᱟᱜ ᱠᱟᱱᱟ) ᱤᱧ ᱫᱚ ᱡᱤᱞᱤᱧ ᱛᱟᱲᱟᱢ ᱛᱮ ᱫᱟᱬᱟ ᱦᱩᱭᱩᱜ ᱠᱟᱱᱟ, ᱟᱨ ᱵᱟᱝ ᱛᱤᱱᱟᱹᱝ ᱴᱟᱲᱟᱝ ᱟᱨ ᱵᱟᱝ ᱟᱭᱢᱟ ᱢᱟᱦᱟᱸ ᱫᱷᱟᱹᱵᱤᱡ ᱦᱚᱸ᱾",travel,N/A,"<|begin_of_text|>SENTENCE:
+ ᱢᱤᱫᱴᱟᱹᱝ ᱪᱟᱞᱟᱣ ᱨᱮᱭᱟᱜ ᱥᱚᱯᱷᱟᱨᱤ (ᱡᱮᱞᱠᱟ ""ᱵᱩᱥ ᱣᱟᱠ"", ""ᱡᱤᱞᱤᱧ ᱛᱟᱲᱟᱢ ᱫᱟᱬᱟ ᱥᱚᱯᱷᱟᱨᱤ"" ᱢᱮᱛᱟᱜᱼᱟ ᱠᱚ, ᱟᱨ ᱵᱟᱝ ""ᱠᱟᱴᱟ"" ᱪᱟᱞᱟᱜ ᱠᱟᱱᱟ) ᱤᱧ ᱫᱚ ᱡᱤᱞᱤᱧ ᱛᱟᱲᱟᱢ ᱛᱮ ᱫᱟᱬᱟ ᱦᱩᱭᱩᱜ ᱠᱟᱱᱟ, ᱟᱨ ᱵᱟᱝ ᱛᱤᱱᱟᱹᱝ ᱴᱟᱲᱟᱝ ᱟᱨ ᱵᱟᱝ ᱟᱭᱢᱟ ᱢᱟᱦᱟᱸ ᱫᱷᱟᱹᱵᱤᱡ ᱦᱚᱸ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: None of the above
+CATEGORY:
+ general knowledge
+"
+"ᱱᱚᱣᱟ ᱛᱟᱯᱤᱥ ᱛᱮ ᱧᱟᱢ ᱞᱟᱹᱜᱤᱫ ᱮᱠᱢᱟᱛᱨᱚ ᱱᱚᱣᱟ ᱡᱟᱸᱪ ᱟᱠᱟᱫ ᱡᱤᱱᱥᱤ ᱞᱮᱠᱟ ᱛᱮ ᱠᱩᱞ ᱞᱮᱱ ᱛᱟᱦᱮᱱᱟ᱾ ᱮᱭᱟᱨᱞᱟᱭᱤᱱ-ᱟᱜ ᱱᱤᱭᱚᱢ ᱚᱱᱟ ᱵᱮᱜᱚᱨ ᱭᱟᱛᱨᱤᱣᱟᱜ ᱡᱤᱱᱤᱥ ᱠᱳᱞ ᱨᱮᱭᱟᱜ ᱚᱱᱩᱢᱟᱛᱤ ᱫᱚ ᱵᱟᱭ ᱮᱢᱚᱜᱼᱟ, ᱡᱟᱦᱟᱸ ᱠᱷᱚᱱ ᱟᱢ ᱦᱟᱹᱡᱩᱜ ᱠᱟᱱᱟ᱾",travel,science/technology,"<|begin_of_text|>SENTENCE:
+ ᱱᱚᱣᱟ ᱛᱟᱯᱤᱥ ᱛᱮ ᱧᱟᱢ ᱞᱟᱹᱜᱤᱫ ᱮᱠᱢᱟᱛᱨᱚ ᱱᱚᱣᱟ ᱡᱟᱸᱪ ᱟᱠᱟᱫ ᱡᱤᱱᱥᱤ ᱞᱮᱠᱟ ᱛᱮ ᱠᱩᱞ ᱞᱮᱱ ᱛᱟᱦᱮᱱᱟ᱾ ᱮᱭᱟᱨᱞᱟᱭᱤᱱ-ᱟᱜ ᱱᱤᱭᱚᱢ ᱚᱱᱟ ᱵᱮᱜᱚᱨ ᱭᱟᱛᱨᱤᱣᱟᱜ ᱡᱤᱱᱤᱥ ᱠᱳᱞ ᱨᱮᱭᱟᱜ ᱚᱱᱩᱢᱟᱛᱤ ᱫᱚ ᱵᱟᱭ ᱮᱢᱚᱜᱼᱟ, ᱡᱟᱦᱟᱸ ᱠᱷᱚᱱ ᱟᱢ ᱦᱟᱹᱡᱩᱜ ᱠᱟᱱᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science
+EXPLANATION:
+This sentence is about"
+"ᱟᱨ ᱓᱐᱐ ᱠᱭᱟᱨᱮᱡᱽ ᱟᱹᱜᱩ ᱠᱟᱛᱮ ᱠᱩᱞ ᱑,᱓᱐᱐ ᱜᱚᱴᱮᱡ ᱠᱭᱟᱨᱮᱡᱽ ᱛᱮ ᱵᱷᱤᱲ ᱡᱟᱭᱜᱟ ᱥᱟᱯᱷᱟ ᱦᱩᱭ ᱫᱟᱲᱮᱭᱟᱜ-ᱟ᱾",travel,N/A,"<|begin_of_text|>SENTENCE:
+ ᱟᱨ ᱓᱐᱐ ᱠᱭᱟᱨᱮᱡᱽ ᱟᱹᱜᱩ ᱠᱟᱛᱮ ᱠᱩᱞ ᱑,᱓᱐᱐ ᱜᱚᱴᱮᱡ ᱠᱭᱟᱨᱮᱡᱽ ᱛᱮ ᱵᱷᱤᱲ ᱡᱟᱭᱜᱟ ᱥᱟᱯᱷᱟ ᱦᱩᱭ ᱫᱟᱲᱮᱭᱟᱜ-ᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: None of the above 
+REASONING SKILL"
+"ᱦᱚᱯᱚᱱ ᱦᱚᱲ ᱠᱚᱨᱤᱱ ᱜᱷᱟᱨᱚᱧᱡᱽ ᱠᱚ ᱫᱚ ᱰᱷᱮᱨ ᱡᱚᱛᱱᱚ ᱨᱮᱭᱟᱜ ᱫᱚᱨᱠᱟᱨ ᱯᱟᱲᱟᱣᱫᱟᱲᱮᱭᱟᱜᱼᱟ, ᱦᱮᱞᱮ ᱜᱤᱫᱽᱲᱟᱹ ᱟᱨ ᱢᱟᱲᱟᱝ ᱟᱥᱲᱟ ᱨᱤᱱ ᱜᱤᱫᱽᱨᱟᱹ ᱥᱟᱶᱛᱮ ᱦᱚᱸ ᱢᱤᱫ ᱫᱤᱱ ᱟᱞᱜᱟ ᱛᱮᱜᱮ ᱥᱚᱢᱵᱷᱚᱵ ᱦᱩᱭ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ᱾",travel,N/A,"<|begin_of_text|>SENTENCE:
+ ᱦᱚᱯᱚᱱ ᱦᱚᱲ ᱠᱚᱨᱤᱱ ᱜᱷᱟᱨᱚᱧᱡᱽ ᱠᱚ ᱫᱚ ᱰᱷᱮᱨ ᱡᱚᱛᱱᱚ ᱨᱮᱭᱟᱜ ᱫᱚᱨᱠᱟᱨ ᱯᱟᱲᱟᱣᱫᱟᱲᱮᱭᱟᱜᱼᱟ, ᱦᱮᱞᱮ ᱜᱤᱫᱽᱲᱟᱹ ᱟᱨ ᱢᱟᱲᱟᱝ ᱟᱥᱲᱟ ᱨᱤᱱ ᱜᱤᱫᱽᱨᱟᱹ ᱥᱟᱶᱛᱮ ᱦᱚᱸ ᱢᱤᱫ ᱫᱤᱱ ᱟᱞᱜᱟ ᱛᱮᱜᱮ ᱥᱚᱢᱵᱷᱚᱵ ᱦᱩᱭ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: None of the above
+REASONING SKILL"
+"ᱡᱟᱦᱟᱸᱭ ᱜᱮ ᱪᱮᱛᱟᱱ ᱚᱠᱭᱟᱝᱥ ᱟᱨ ᱵᱟᱝ ᱯᱚᱨᱣᱚᱛ ᱪᱮᱛᱟᱱ ᱨᱮ ᱠᱟᱨᱟᱣ ᱪᱟᱠᱟᱜ ᱠᱟᱱᱟ ᱠᱚ, ᱩᱱᱤ ᱫᱚ ᱵᱚᱨᱯᱷ, ᱟᱨ ᱵᱟᱝ ᱨᱟᱵᱟᱝ ᱛᱟᱯᱢᱟᱱ ᱨᱮᱭᱟᱜ ᱥᱚᱢᱵᱷᱟᱣᱱᱟ ᱪᱮᱛᱟᱱ ᱨᱮ ᱣᱤᱪᱟᱹᱨ ᱠᱚᱨᱟᱣ ᱫᱚᱨᱠᱟᱨ ᱠᱟᱱᱟ᱾",travel,science/technology,"<|begin_of_text|>SENTENCE:
+ ᱡᱟᱦᱟᱸᱭ ᱜᱮ ᱪᱮᱛᱟᱱ ᱚᱠᱭᱟᱝᱥ ᱟᱨ ᱵᱟᱝ ᱯᱚᱨᱣᱚᱛ ᱪᱮᱛᱟᱱ ᱨᱮ ᱠᱟᱨᱟᱣ ᱪᱟᱠᱟᱜ ᱠᱟᱱᱟ ᱠᱚ, ᱩᱱᱤ ᱫᱚ ᱵᱚᱨᱯᱷ, ᱟᱨ ᱵᱟᱝ ᱨᱟᱵᱟᱝ ᱛᱟᱯᱢᱟᱱ ᱨᱮᱭᱟᱜ ᱥᱚᱢᱵᱷᱟᱣᱱᱟ ᱪᱮᱛᱟᱱ ᱨᱮ ᱣᱤᱪᱟᱹᱨ ᱠᱚᱨᱟᱣ ᱫᱚᱨᱠᱟᱨ ᱠᱟᱱᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science
+EXPLANATION:
+This sentence is about"
+"ᱛᱮᱦᱮᱸᱧ, ᱴᱤᱢᱵᱩᱠᱴᱩ ᱫᱚ ᱢᱤᱫᱴᱟᱹᱝ ᱨᱮᱝᱜᱮᱡ ᱥᱚᱦᱚᱨ ᱠᱟᱱᱟ, ᱢᱮᱱᱠᱷᱟᱱ  ᱱᱚᱶᱟ ᱨᱮᱭᱟᱜ ᱯᱨᱚᱛᱷᱤᱥᱴᱟᱹ ᱱᱚᱶᱟ ᱫᱚ ᱢᱤᱫᱴᱟᱹᱝ ᱯᱚᱨᱭᱚᱴᱚᱱ ᱟᱴᱨᱟᱠᱥᱚᱱ ᱛᱮᱭᱟᱨ ᱮ ᱠᱟᱱᱟᱭ, ᱟᱨ ᱱᱚᱶᱟ ᱨᱮ ᱢᱤᱫᱴᱟᱹᱝ ᱩᱰᱟᱹᱱ ᱜᱷᱟᱹᱴᱤ ᱦᱚᱸ ᱢᱮᱱᱟᱜᱼᱟ᱾",travel,travel,"<|begin_of_text|>SENTENCE:
+ ᱛᱮᱦᱮᱸᱧ, ᱴᱤᱢᱵᱩᱠᱴᱩ ᱫᱚ ᱢᱤᱫᱴᱟᱹᱝ ᱨᱮᱝᱜᱮᱡ ᱥᱚᱦᱚᱨ ᱠᱟᱱᱟ, ᱢᱮᱱᱠᱷᱟᱱ  ᱱᱚᱶᱟ ᱨᱮᱭᱟᱜ ᱯᱨᱚᱛᱷᱤᱥᱴᱟᱹ ᱱᱚᱶᱟ ᱫᱚ ᱢᱤᱫᱴᱟᱹᱝ ᱯᱚᱨᱭᱚᱴᱚᱱ ᱟᱴᱨᱟᱠᱥᱚᱱ ᱛᱮᱭᱟᱨ ᱮ ᱠᱟᱱᱟᱭ, ᱟᱨ ᱱᱚᱶᱟ ᱨᱮ ᱢᱤᱫᱴᱟᱹᱝ ᱩᱰᱟᱹᱱ ᱜᱷᱟᱹᱴᱤ ᱦᱚᱸ ᱢᱮᱱᱟᱜᱼᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+REASONING SKILL:
+"
+"ᱵᱟᱨᱯᱷᱤᱞᱟᱹ ᱛᱩᱯᱷᱟᱹᱱ ᱡᱷᱚᱜ, ᱟᱹᱰᱤ ᱠᱟᱢ ᱥᱚᱢᱚᱭ ᱨᱮᱜᱮ ᱛᱤᱱᱟᱹᱜ ᱜᱟᱱ ᱵᱚᱨᱚᱯᱷ ᱛᱮ ᱟᱢ ᱛᱟᱦᱮᱸ ᱠᱟᱛᱮ ᱧᱩᱨ ᱫᱟᱲᱮᱜᱼᱟᱢ᱾",travel,N/A,"<|begin_of_text|>SENTENCE:
+ ᱵᱟᱨᱯᱷᱤᱞᱟᱹ ᱛᱩᱯᱷᱟᱹᱱ ᱡᱷᱚᱜ, ᱟᱹᱰᱤ ᱠᱟᱢ ᱥᱚᱢᱚᱭ ᱨᱮᱜᱮ ᱛᱤᱱᱟᱹᱜ ᱜᱟᱱ ᱵᱚᱨᱚᱯᱷ ᱛᱮ ᱟᱢ ᱛᱟᱦᱮᱸ ᱠᱟᱛᱮ ᱧᱩᱨ ᱫᱟᱲᱮᱜᱼᱟᱢ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: None of the above 
+REASONING SKILL"
+"ᱡᱩᱫᱤ ᱟᱢ ᱠᱚᱧᱮ ᱜᱳᱞᱟᱨᱫᱷᱚ ᱫᱷᱟᱹᱨᱛᱤ ᱡᱟᱠᱟᱛ ᱨᱮ ᱯᱩᱨᱟᱹ ᱩᱰᱟᱹᱣᱜ ᱥᱟᱱᱟᱢ ᱠᱟᱱᱟ, ᱮᱱᱠᱷᱟᱱ ᱚᱱᱛᱚᱨ ᱢᱚᱦᱟᱫᱤᱯ ᱦᱚᱨ ᱚᱵᱷᱟᱵᱽ ᱠᱷᱟᱹᱛᱤᱨ ᱩᱰᱟᱹᱱ ᱜᱟᱹᱰᱤ ᱟᱨ ᱯᱚᱥᱚᱸᱫᱽ ᱴᱷᱟᱹᱣᱠᱟᱹ ᱡᱟᱭᱜᱟ ᱨᱮ ᱥᱮᱴᱚᱨ ᱥᱤᱢᱤᱛ ᱜᱮᱭᱟ᱾",travel,travel,"<|begin_of_text|>SENTENCE:
+ ᱡᱩᱫᱤ ᱟᱢ ᱠᱚᱧᱮ ᱜᱳᱞᱟᱨᱫᱷᱚ ᱫᱷᱟᱹᱨᱛᱤ ᱡᱟᱠᱟᱛ ᱨᱮ ᱯᱩᱨᱟᱹ ᱩᱰᱟᱹᱣᱜ ᱥᱟᱱᱟᱢ ᱠᱟᱱᱟ, ᱮᱱᱠᱷᱟᱱ ᱚᱱᱛᱚᱨ ᱢᱚᱦᱟᱫᱤᱯ ᱦᱚᱨ ᱚᱵᱷᱟᱵᱽ ᱠᱷᱟᱹᱛᱤᱨ ᱩᱰᱟᱹᱱ ᱜᱟᱹᱰᱤ ᱟᱨ ᱯᱚᱥᱚᱸᱫᱽ ᱴᱷᱟᱹᱣᱠᱟᱹ ᱡᱟᱭᱜᱟ ᱨᱮ ᱥᱮᱴᱚᱨ ᱥᱤᱢᱤᱛ ᱜᱮᱭᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The sentence"
+"ᱟᱢᱤᱨᱟᱛ, ᱮᱛᱤᱦᱟᱫ ᱮᱭᱟᱨᱣᱮᱡᱽ, ᱠᱟᱛᱟᱨ ᱮᱭᱟᱨᱣᱮᱡᱽ ᱟᱨ ᱛᱩᱨᱠᱤ ᱮᱭᱟᱨᱞᱟᱭᱤᱱ ᱡᱮᱞᱮᱠᱟᱱᱟᱜ ᱟᱯᱷᱨᱤᱠᱟ ᱨᱮ ᱟᱢᱟᱜ ᱥᱮᱣᱟ ᱠᱚ ᱯᱟᱥᱱᱟᱣ ᱟᱠᱟᱱᱟ, ᱟᱨ ᱮᱴᱟᱜ ᱭᱩᱨᱳᱯᱤ ᱮᱭᱟᱨᱞᱟᱭᱤᱱ ᱠᱚ ᱨᱮᱭᱟᱜ ᱠᱷᱚᱱ ᱯᱚᱨᱛᱤᱮᱥᱯᱟᱨᱫᱷᱟ ᱫᱚᱨ ᱠᱚ ᱨᱮᱭᱟᱜ ᱟᱥᱚᱢ ᱟᱯᱷᱨᱤᱠᱟ ᱥᱚᱦᱚᱨ ᱠᱚ ᱠᱷᱚᱱ ᱠᱚᱱᱮᱠᱥᱚᱱ ᱮᱢᱚᱜᱼᱟᱭ᱾",travel,travel,"<|begin_of_text|>SENTENCE:
+ ᱟᱢᱤᱨᱟᱛ, ᱮᱛᱤᱦᱟᱫ ᱮᱭᱟᱨᱣᱮᱡᱽ, ᱠᱟᱛᱟᱨ ᱮᱭᱟᱨᱣᱮᱡᱽ ᱟᱨ ᱛᱩᱨᱠᱤ ᱮᱭᱟᱨᱞᱟᱭᱤᱱ ᱡᱮᱞᱮᱠᱟᱱᱟᱜ ᱟᱯᱷᱨᱤᱠᱟ ᱨᱮ ᱟᱢᱟᱜ ᱥᱮᱣᱟ ᱠᱚ ᱯᱟᱥᱱᱟᱣ ᱟᱠᱟᱱᱟ, ᱟᱨ ᱮᱴᱟᱜ ᱭᱩᱨᱳᱯᱤ ᱮᱭᱟᱨᱞᱟᱭᱤᱱ ᱠᱚ ᱨᱮᱭᱟᱜ ᱠᱷᱚᱱ ᱯᱚᱨᱛᱤᱮᱥᱯᱟᱨᱫᱷᱟ ᱫᱚᱨ ᱠᱚ ᱨᱮᱭᱟᱜ ᱟᱥᱚᱢ ᱟᱯᱷᱨᱤᱠᱟ ᱥᱚᱦᱚᱨ ᱠᱚ ᱠᱷᱚᱱ ᱠᱚᱱᱮᱠᱥᱚᱱ ᱮᱢᱚᱜᱼᱟᱭ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+REASONING SKILL:
+"
+"ᱡᱟᱦᱟᱱᱟᱜ ᱥᱟᱣᱛᱟ ᱯᱚᱨᱤᱣᱟᱦᱟᱹᱱ ᱵᱟᱝ ᱞᱟᱜᱟᱣ ᱠᱟᱱᱟ ᱟᱨ ᱣᱮᱢᱵᱞᱤ ᱨᱮ ᱚᱣᱟᱹᱨᱜᱽᱨᱟᱩᱸᱰ ᱴᱨᱮᱱ ᱵᱟᱝ ᱟᱠᱚᱴᱚᱜᱼᱟ, ᱟᱨ ᱠᱟᱨ ᱯᱟᱨᱠᱤᱝ ᱟᱨ ᱯᱟᱨᱠᱼᱮᱸᱰᱼᱨᱟᱭᱤᱰ ᱥᱩᱵᱤᱫᱷᱟᱹ ᱱᱤᱛ ᱫᱷᱟᱹᱵᱤᱡ ᱵᱟᱹᱱᱩᱜᱼᱟ᱾",travel,N/A,"<|begin_of_text|>SENTENCE:
+ ᱡᱟᱦᱟᱱᱟᱜ ᱥᱟᱣᱛᱟ ᱯᱚᱨᱤᱣᱟᱦᱟᱹᱱ ᱵᱟᱝ ᱞᱟᱜᱟᱣ ᱠᱟᱱᱟ ᱟᱨ ᱣᱮᱢᱵᱞᱤ ᱨᱮ ᱚᱣᱟᱹᱨᱜᱽᱨᱟᱩᱸᱰ ᱴᱨᱮᱱ ᱵᱟᱝ ᱟᱠᱚᱴᱚᱜᱼᱟ, ᱟᱨ ᱠᱟᱨ ᱯᱟᱨᱠᱤᱝ ᱟᱨ ᱯᱟᱨᱠᱼᱮᱸᱰᱼᱨᱟᱭᱤᱰ ᱥᱩᱵᱤᱫᱷᱟᱹ ᱱᱤᱛ ᱫᱷᱟᱹᱵᱤᱡ ᱵᱟᱹᱱᱩᱜᱼᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: None of the above 
+REASONING SKILL"
+"ᱥᱟᱫᱷᱟᱨᱚᱱ ᱞᱮᱠᱟ ᱛᱮ, ᱡᱟᱦᱟᱸ ᱵᱤᱫᱮᱥ ᱫᱮᱥ ᱨᱮ ᱵᱟᱹᱲᱛᱤ ᱥᱚᱢᱚᱭ ᱦᱟᱹᱵᱤᱡ ᱛᱟᱦᱮᱱ ᱞᱟᱹᱜᱤᱫ ᱟᱢ ᱫᱚ ᱞᱟᱦᱟᱛᱮ ᱣᱤᱡᱟ ᱦᱟᱛᱟᱣ ᱞᱟᱹᱠᱛᱤ ᱟᱢᱟ᱾",travel,N/A,"<|begin_of_text|>SENTENCE:
+ ᱥᱟᱫᱷᱟᱨᱚᱱ ᱞᱮᱠᱟ ᱛᱮ, ᱡᱟᱦᱟᱸ ᱵᱤᱫᱮᱥ ᱫᱮᱥ ᱨᱮ ᱵᱟᱹᱲᱛᱤ ᱥᱚᱢᱚᱭ ᱦᱟᱹᱵᱤᱡ ᱛᱟᱦᱮᱱ ᱞᱟᱹᱜᱤᱫ ᱟᱢ ᱫᱚ ᱞᱟᱦᱟᱛᱮ ᱣᱤᱡᱟ ᱦᱟᱛᱟᱣ ᱞᱟᱹᱠᱛᱤ ᱟᱢᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: None of the above 
+REASONING SKILL"
+ᱡᱷᱚᱛᱚ ᱴᱨᱮᱱ ᱨᱮ ᱢᱮᱴᱨᱳᱯᱞᱚᱥ ᱟᱨ ᱢᱮᱴᱨᱳ ᱠᱚᱪ ᱵᱟᱱᱟᱨ ᱛᱟᱦᱮᱱ ᱠᱟᱱᱟ; ᱢᱮᱴᱨᱳᱯᱞᱚᱥ ᱠᱚᱪ ᱞᱮᱛᱟᱲ ᱠᱮᱯ ᱴᱟᱩᱱ ᱡᱟᱯᱟᱜ ᱴᱨᱮᱱ ᱢᱩᱪᱟᱹᱫ ᱨᱮ ᱛᱟᱦᱮᱱᱟ᱾,travel,science/technology,"<|begin_of_text|>SENTENCE:
+ ᱡᱷᱚᱛᱚ ᱴᱨᱮᱱ ᱨᱮ ᱢᱮᱴᱨᱳᱯᱞᱚᱥ ᱟᱨ ᱢᱮᱴᱨᱳ ᱠᱚᱪ ᱵᱟᱱᱟᱨ ᱛᱟᱦᱮᱱ ᱠᱟᱱᱟ; ᱢᱮᱴᱨᱳᱯᱞᱚᱥ ᱠᱚᱪ ᱞᱮᱛᱟᱲ ᱠᱮᱯ ᱴᱟᱩᱱ ᱡᱟᱯᱟᱜ ᱴᱨᱮᱱ ᱢᱩᱪᱟᱹᱫ ᱨᱮ ᱛᱟᱦᱮᱱᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science
+EXPLANATION:
+This sentence is about"
+ᱡᱷᱚᱛᱚ ᱜᱮ ᱥᱚᱢᱟᱡᱽ ᱨᱮ ᱵᱷᱟᱜ ᱠᱚ ᱤᱫᱤᱭᱮᱫᱼᱟ ᱟᱨ ᱯᱚᱨᱤᱣᱟᱦᱚᱱ ᱥᱮᱣᱟ ᱨᱮᱭᱟᱜ ᱵᱮᱵᱷᱟᱨ ᱠᱚᱨᱟᱣᱮᱫᱼᱟᱭ᱾ ᱯᱨᱟᱭ ᱡᱷᱚᱛᱚ ᱦᱚᱲ ᱯᱚᱨᱤᱣᱟᱦᱚᱱ ᱯᱨᱚᱬᱟᱞᱤ ᱵᱟᱵᱚᱛ ᱠᱷᱚᱵᱚᱨᱮᱫᱟ ᱠᱚ᱾,travel,science/technology,"<|begin_of_text|>SENTENCE:
+ ᱡᱷᱚᱛᱚ ᱜᱮ ᱥᱚᱢᱟᱡᱽ ᱨᱮ ᱵᱷᱟᱜ ᱠᱚ ᱤᱫᱤᱭᱮᱫᱼᱟ ᱟᱨ ᱯᱚᱨᱤᱣᱟᱦᱚᱱ ᱥᱮᱣᱟ ᱨᱮᱭᱟᱜ ᱵᱮᱵᱷᱟᱨ ᱠᱚᱨᱟᱣᱮᱫᱼᱟᱭ᱾ ᱯᱨᱟᱭ ᱡᱷᱚᱛᱚ ᱦᱚᱲ ᱯᱚᱨᱤᱣᱟᱦᱚᱱ ᱯᱨᱚᱬᱟᱞᱤ ᱵᱟᱵᱚᱛ ᱠᱷᱚᱵᱚᱨᱮᱫᱟ ᱠᱚ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science
+REASONING SKILL:
+ This question"
+"ᱱᱚᱶᱟ ᱴᱚᱴᱷᱟ ᱠᱚᱨᱮ ᱦᱚᱲ ᱛᱮᱠᱚ ᱠᱷᱟᱴᱚ ᱜᱮᱭᱟ, ᱟᱨ ᱢᱟᱨᱥᱟᱞ ᱯᱚᱞᱭᱩᱥᱚᱱ ᱠᱚ ᱠᱚᱢ ᱜᱮᱭᱟ, ᱚᱱᱟᱛᱮ ᱟᱢ ᱤᱯᱤᱞ ᱧᱮᱞ ᱞᱟᱹᱜᱤᱫ ᱪᱮᱫ ᱮᱴᱠᱮᱴᱚᱬᱮ ᱵᱟᱝ ᱟᱹᱭᱠᱟᱹᱣᱟᱢ᱾",travel,travel,"<|begin_of_text|>SENTENCE:
+ ᱱᱚᱶᱟ ᱴᱚᱴᱷᱟ ᱠᱚᱨᱮ ᱦᱚᱲ ᱛᱮᱠᱚ ᱠᱷᱟᱴᱚ ᱜᱮᱭᱟ, ᱟᱨ ᱢᱟᱨᱥᱟᱞ ᱯᱚᱞᱭᱩᱥᱚᱱ ᱠᱚ ᱠᱚᱢ ᱜᱮᱭᱟ, ᱚᱱᱟᱛᱮ ᱟᱢ ᱤᱯᱤᱞ ᱧᱮᱞ ᱞᱟᱹᱜᱤᱫ ᱪᱮᱫ ᱮᱴᱠᱮᱴᱚᱬᱮ ᱵᱟᱝ ᱟᱹᱭᱠᱟᱹᱣᱟᱢ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+travel
+EXPLANATION:
+The sentence is"
+ᱵᱷᱤᱥᱟ ᱨᱮᱭᱟᱜ ᱞᱟᱹᱠᱛᱤ ᱟᱨ ᱜᱚᱱᱚᱝ ᱫᱚ ᱫᱮᱥ ᱠᱷᱚᱱ ᱫᱮᱥ ᱵᱚᱫᱚᱞᱚᱜᱼᱟ ᱟᱨ ᱚᱠᱟ ᱫᱮᱥ ᱠᱷᱚᱱᱮᱢ ᱦᱮᱡ ᱟᱠᱟᱱᱟ ᱚᱱᱟ ᱪᱮᱛᱟᱱ ᱨᱮ ᱵᱤᱯᱮᱸᱰᱟᱭ᱾,travel,geography,"<|begin_of_text|>SENTENCE:
+ ᱵᱷᱤᱥᱟ ᱨᱮᱭᱟᱜ ᱞᱟᱹᱠᱛᱤ ᱟᱨ ᱜᱚᱱᱚᱝ ᱫᱚ ᱫᱮᱥ ᱠᱷᱚᱱ ᱫᱮᱥ ᱵᱚᱫᱚᱞᱚᱜᱼᱟ ᱟᱨ ᱚᱠᱟ ᱫᱮᱥ ᱠᱷᱚᱱᱮᱢ ᱦᱮᱡ ᱟᱠᱟᱱᱟ ᱚᱱᱟ ᱪᱮᱛᱟᱱ ᱨᱮ ᱵᱤᱯᱮᱸᱰᱟᱭ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+geography
+REASONING SKILL:
+"
+"ᱟᱥᱚᱠᱟᱭᱛᱮ ᱞᱟᱹᱭ ᱞᱮᱠᱷᱟᱱ, ᱮ ᱠᱷᱚᱱ ᱵᱤ ᱦᱟᱹᱵᱤᱡ ᱥᱤᱫᱷᱟᱹ ᱩᱰᱟᱹᱱ ᱨᱮᱭᱟᱜ ᱵᱤᱡᱽᱱᱮᱥ ᱵᱟᱝᱢᱟ ᱯᱷᱟᱥᱴ ᱠᱞᱟᱥ ᱨᱮᱭᱟᱜ ᱥᱤᱴᱠᱚ ᱞᱟᱹᱜᱤᱫ ᱪᱷᱩᱴ ᱨᱮᱭᱟᱜ ᱛᱚᱞᱟᱥ ᱨᱮ ᱪᱮᱫ ᱢᱮᱱᱮᱛ ᱦᱚᱸ ᱵᱟᱹᱱᱩᱜᱼᱟ᱾",travel,travel,"<|begin_of_text|>SENTENCE:
+ ᱟᱥᱚᱠᱟᱭᱛᱮ ᱞᱟᱹᱭ ᱞᱮᱠᱷᱟᱱ, ᱮ ᱠᱷᱚᱱ ᱵᱤ ᱦᱟᱹᱵᱤᱡ ᱥᱤᱫᱷᱟᱹ ᱩᱰᱟᱹᱱ ᱨᱮᱭᱟᱜ ᱵᱤᱡᱽᱱᱮᱥ ᱵᱟᱝᱢᱟ ᱯᱷᱟᱥᱴ ᱠᱞᱟᱥ ᱨᱮᱭᱟᱜ ᱥᱤᱴᱠᱚ ᱞᱟᱹᱜᱤᱫ ᱪᱷᱩᱴ ᱨᱮᱭᱟᱜ ᱛᱚᱞᱟᱥ ᱨᱮ ᱪᱮᱫ ᱢᱮᱱᱮᱛ ᱦᱚᱸ ᱵᱟᱹᱱᱩᱜᱼᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The sentence"
+ᱵᱩᱢᱟᱹᱨᱮᱝ ᱪᱟᱯᱟᱫ ᱛᱮᱭᱟᱜ ᱢᱤᱫᱴᱟᱹᱝ ᱧᱩᱛᱩᱢᱟᱱ ᱠᱚᱣᱥᱚᱞ ᱠᱟᱱᱟ ᱚᱠᱟ ᱫᱚ ᱟᱭᱢᱟ ᱯᱚᱨᱭᱚᱴᱚᱠ ᱦᱟᱢᱮᱴ ᱥᱟᱱᱟ ᱠᱚ ᱠᱟᱱᱟ᱾,travel,N/A,"<|begin_of_text|>SENTENCE:
+ ᱵᱩᱢᱟᱹᱨᱮᱝ ᱪᱟᱯᱟᱫ ᱛᱮᱭᱟᱜ ᱢᱤᱫᱴᱟᱹᱝ ᱧᱩᱛᱩᱢᱟᱱ ᱠᱚᱣᱥᱚᱞ ᱠᱟᱱᱟ ᱚᱠᱟ ᱫᱚ ᱟᱭᱢᱟ ᱯᱚᱨᱭᱚᱴᱚᱠ ᱦᱟᱢᱮᱴ ᱥᱟᱱᱟ ᱠᱚ ᱠᱟᱱᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: None of the above 
+REASONING SKILL"
+ᱡᱩᱫᱤ ᱟᱢ ᱠᱚᱧᱮ ᱯᱨᱚᱥᱟᱱᱛᱚ ᱟᱨ ᱠᱚᱧᱮ ᱟᱢᱮᱨᱤᱠᱟ ᱨᱮᱱᱟᱜ ᱯᱟᱪᱮ ᱥᱟᱹᱢᱩᱫ ᱟᱲᱮ ᱵᱟᱹᱜᱤ ᱥᱟᱱᱟᱢ ᱠᱟᱱᱟ ᱮᱱᱠᱷᱟᱱ ᱱᱚᱣᱟᱜᱮ ᱢᱤᱫᱥᱩᱢᱩᱝ ᱩᱰᱟᱹᱱ ᱵᱤᱠᱚᱞᱯᱚ ᱫᱚ ᱵᱟᱝ ᱠᱟᱱᱟ᱾ (ᱞᱟᱛᱟᱨ ᱧᱮᱞ ᱢᱟ),travel,travel,"<|begin_of_text|>SENTENCE:
+ ᱡᱩᱫᱤ ᱟᱢ ᱠᱚᱧᱮ ᱯᱨᱚᱥᱟᱱᱛᱚ ᱟᱨ ᱠᱚᱧᱮ ᱟᱢᱮᱨᱤᱠᱟ ᱨᱮᱱᱟᱜ ᱯᱟᱪᱮ ᱥᱟᱹᱢᱩᱫ ᱟᱲᱮ ᱵᱟᱹᱜᱤ ᱥᱟᱱᱟᱢ ᱠᱟᱱᱟ ᱮᱱᱠᱷᱟᱱ ᱱᱚᱣᱟᱜᱮ ᱢᱤᱫᱥᱩᱢᱩᱝ ᱩᱰᱟᱹᱱ ᱵᱤᱠᱚᱞᱯᱚ ᱫᱚ ᱵᱟᱝ ᱠᱟᱱᱟ᱾ (ᱞᱟᱛᱟᱨ ᱧᱮᱞ ᱢᱟ) 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+REASONING SKILL:
+"
+"ᱥᱟᱱ ᱯᱷᱨᱟᱱᱥᱮᱥᱠᱳ ᱟᱭᱢᱟ ᱦᱳᱴᱮᱞ, ᱨᱮᱥᱴᱳᱨᱟᱸᱴ, ᱟᱨ ᱥᱚᱢᱢᱮᱞᱚᱱ ᱞᱟᱹᱜᱤᱫ ᱥᱩᱵᱤᱫᱷᱟ ᱠᱚ ᱵᱮᱱᱟᱣ ᱠᱟᱛᱮ ᱢᱟᱨᱟᱝ ᱫᱟᱲᱟᱱ ᱤᱱᱯᱷᱨᱟᱥᱴᱨᱚᱠᱪᱟᱨ ᱠᱚ ᱵᱮᱱᱟᱣ ᱟᱠᱟᱫᱟ᱾",travel,N/A,"<|begin_of_text|>SENTENCE:
+ ᱥᱟᱱ ᱯᱷᱨᱟᱱᱥᱮᱥᱠᱳ ᱟᱭᱢᱟ ᱦᱳᱴᱮᱞ, ᱨᱮᱥᱴᱳᱨᱟᱸᱴ, ᱟᱨ ᱥᱚᱢᱢᱮᱞᱚᱱ ᱞᱟᱹᱜᱤᱫ ᱥᱩᱵᱤᱫᱷᱟ ᱠᱚ ᱵᱮᱱᱟᱣ ᱠᱟᱛᱮ ᱢᱟᱨᱟᱝ ᱫᱟᱲᱟᱱ ᱤᱱᱯᱷᱨᱟᱥᱴᱨᱚᱠᱪᱟᱨ ᱠᱚ ᱵᱮᱱᱟᱣ ᱟᱠᱟᱫᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: None of the above 
+REASONING SKILL"
+"ᱭᱟᱛᱨᱟ ᱚᱠᱛᱚ ᱥᱚᱢᱚᱭ ᱥᱣᱮᱢᱥᱮᱣᱟ ᱫᱚ ᱚᱱᱛᱚᱨ ᱵᱮᱱᱟᱣ ᱨᱮᱭᱟᱜ ᱢᱤᱫ ᱵᱮᱥ ᱛᱟᱨᱤᱠᱟ ᱠᱟᱱᱟ, ᱢᱮᱱᱠᱷᱟᱱ ᱱᱚᱣᱟ ᱫᱚ ᱮᱠᱮᱱ ᱮᱢ ᱵᱟᱠᱷᱨᱟ ᱨᱮ ᱫᱚ ᱵᱟᱱᱩᱜᱼᱟ᱾",travel,N/A,"<|begin_of_text|>SENTENCE:
+ ᱭᱟᱛᱨᱟ ᱚᱠᱛᱚ ᱥᱚᱢᱚᱭ ᱥᱣᱮᱢᱥᱮᱣᱟ ᱫᱚ ᱚᱱᱛᱚᱨ ᱵᱮᱱᱟᱣ ᱨᱮᱭᱟᱜ ᱢᱤᱫ ᱵᱮᱥ ᱛᱟᱨᱤᱠᱟ ᱠᱟᱱᱟ, ᱢᱮᱱᱠᱷᱟᱱ ᱱᱚᱣᱟ ᱫᱚ ᱮᱠᱮᱱ ᱮᱢ ᱵᱟᱠᱷᱨᱟ ᱨᱮ ᱫᱚ ᱵᱟᱱᱩᱜᱼᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: None of the above
+REASONING SKILL"
+ᱦᱚᱲ ᱠᱚᱫᱚ ᱯᱟᱞᱮ ᱵᱟᱠᱚ ᱚᱱᱩᱢᱟᱱ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱡᱮ ᱚᱲᱟᱜ ᱛᱮ ᱨᱩᱣᱟᱹᱲ ᱠᱟᱱ ᱡᱟᱹᱛᱨᱤ ᱠᱚ ᱞᱟᱹᱜᱤᱱ ᱦᱚᱸ ᱫᱷᱚᱨᱭᱚ ᱟᱨ ᱵᱩᱯᱩᱡᱷᱟᱹᱣ ᱞᱟᱹᱠᱛᱤ ᱠᱟᱱᱟI,travel,N/A,"<|begin_of_text|>SENTENCE:
+ ᱦᱚᱲ ᱠᱚᱫᱚ ᱯᱟᱞᱮ ᱵᱟᱠᱚ ᱚᱱᱩᱢᱟᱱ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱡᱮ ᱚᱲᱟᱜ ᱛᱮ ᱨᱩᱣᱟᱹᱲ ᱠᱟᱱ ᱡᱟᱹᱛᱨᱤ ᱠᱚ ᱞᱟᱹᱜᱤᱱ ᱦᱚᱸ ᱫᱷᱚᱨᱭᱚ ᱟᱨ ᱵᱩᱯᱩᱡᱷᱟᱹᱣ ᱞᱟᱹᱠᱛᱤ ᱠᱟᱱᱟI 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: None of the above, This sentence is related to"
+"ᱟᱯᱷᱨᱤᱠᱟ ᱠᱷᱚᱱ ᱵᱟᱦᱨᱮ ᱚᱱᱟ ᱡᱚᱛᱚ ᱡᱟᱭᱜᱟ ᱠᱚ ᱞᱟᱹᱜᱤᱫ ᱥᱟᱶᱛᱮᱭᱟᱜ ᱣᱤᱡᱟ, ᱮᱛᱚᱦᱚᱵ ᱡᱟᱭᱜᱟ, ᱵᱷᱩᱢᱤ ᱯᱚᱨᱤᱣᱟᱦᱚᱱ, ᱟᱨᱠᱚ ᱥᱟᱶᱛᱮᱭᱟᱜ ᱞᱟᱜᱚᱛ ᱡᱩᱲᱟᱣ ᱫᱚ ᱟᱞᱚᱢ ᱦᱤᱲᱤᱧᱟ᱾",travel,geography,"<|begin_of_text|>SENTENCE:
+ ᱟᱯᱷᱨᱤᱠᱟ ᱠᱷᱚᱱ ᱵᱟᱦᱨᱮ ᱚᱱᱟ ᱡᱚᱛᱚ ᱡᱟᱭᱜᱟ ᱠᱚ ᱞᱟᱹᱜᱤᱫ ᱥᱟᱶᱛᱮᱭᱟᱜ ᱣᱤᱡᱟ, ᱮᱛᱚᱦᱚᱵ ᱡᱟᱭᱜᱟ, ᱵᱷᱩᱢᱤ ᱯᱚᱨᱤᱣᱟᱦᱚᱱ, ᱟᱨᱠᱚ ᱥᱟᱶᱛᱮᱭᱟᱜ ᱞᱟᱜᱚᱛ ᱡᱩᱲᱟᱣ ᱫᱚ ᱟᱞᱚᱢ ᱦᱤᱲᱤᱧᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+geography
+EXPLANATION:
+The sentence"
+ᱛᱤᱱᱟᱹᱜ ᱜᱟᱱ ᱵᱤᱥᱠᱮᱠ ᱛᱟᱦᱮᱸᱱᱟᱱ ᱠᱚ ᱚᱨᱟᱡᱚᱠᱚᱛᱟ ᱞᱟᱹᱜᱤᱫ ᱫᱟᱠᱷᱤᱱ ᱨᱮᱱ ᱯᱨᱚᱫᱚᱨᱥᱚᱱᱣᱤᱭᱟᱹᱠᱚ ᱫᱚᱥ ᱠᱮᱫ ᱠᱚᱣᱟI,politics,N/A,"<|begin_of_text|>SENTENCE:
+ ᱛᱤᱱᱟᱹᱜ ᱜᱟᱱ ᱵᱤᱥᱠᱮᱠ ᱛᱟᱦᱮᱸᱱᱟᱱ ᱠᱚ ᱚᱨᱟᱡᱚᱠᱚᱛᱟ ᱞᱟᱹᱜᱤᱫ ᱫᱟᱠᱷᱤᱱ ᱨᱮᱱ ᱯᱨᱚᱫᱚᱨᱥᱚᱱᱣᱤᱭᱟᱹᱠᱚ ᱫᱚᱥ ᱠᱮᱫ ᱠᱚᱣᱟI 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: None of the above
+REASONING SKILL"
+ᱵᱮᱞᱡᱤᱭᱚᱢ ᱨᱮᱭᱟᱜ ᱱᱤᱛᱟᱜ ᱴᱚᱴᱷᱟ ᱫᱚ ᱥᱮᱫᱟᱭ ᱞᱚᱠᱡᱮᱢᱵᱚᱨᱜᱽ ᱨᱮ ᱛᱟᱦᱮᱸ ᱠᱟᱱᱟ ᱢᱮᱱᱠᱷᱟᱱ ᱑᱘᱓᱐ ᱜᱮᱞ ᱥᱮᱨᱢᱟ ᱨᱮᱭᱟᱜ ᱵᱮᱞᱡᱤᱭᱚᱢ ᱨᱤᱵᱷᱳᱞᱭᱩᱥᱚᱱ ᱛᱟᱭᱚᱢ ᱵᱮᱞᱡᱤᱭᱚᱢ ᱨᱮ ᱢᱮᱥᱟᱭᱮᱱᱟ᱾,politics,geography,"<|begin_of_text|>SENTENCE:
+ ᱵᱮᱞᱡᱤᱭᱚᱢ ᱨᱮᱭᱟᱜ ᱱᱤᱛᱟᱜ ᱴᱚᱴᱷᱟ ᱫᱚ ᱥᱮᱫᱟᱭ ᱞᱚᱠᱡᱮᱢᱵᱚᱨᱜᱽ ᱨᱮ ᱛᱟᱦᱮᱸ ᱠᱟᱱᱟ ᱢᱮᱱᱠᱷᱟᱱ ᱑᱘᱓᱐ ᱜᱮᱞ ᱥᱮᱨᱢᱟ ᱨᱮᱭᱟᱜ ᱵᱮᱞᱡᱤᱭᱚᱢ ᱨᱤᱵᱷᱳᱞᱭᱩᱥᱚᱱ ᱛᱟᱭᱚᱢ ᱵᱮᱞᱡᱤᱭᱚᱢ ᱨᱮ ᱢᱮᱥᱟᱭᱮᱱᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+geography
+EXPLANATION:
+The sentence"
+"᱑᱙᱘᱘ ᱠᱷᱚᱱ, ᱵᱷᱚᱴᱯᱮᱴᱤ ᱫᱚ ᱯᱟᱨᱫᱟᱨᱥᱤ ᱦᱩᱭᱩᱜ ᱞᱟᱹᱠᱛᱤᱭᱟ ᱡᱮᱢᱚᱱ ᱵᱷᱚᱴ ᱮᱢᱟᱱ ᱠᱚ ᱟᱨ ᱯᱟᱨᱭᱣᱮᱪᱷᱟᱠ ᱱᱚᱶᱟ ᱧᱮᱞ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱡᱮ ᱵᱷᱚᱴ ᱨᱮᱱᱟᱜ ᱮᱛᱚᱦᱚᱵ ᱨᱮ ᱡᱟᱦᱟᱱ ᱞᱤᱯᱷᱟᱯᱷᱟ ᱮᱢᱟᱱ ᱵᱟᱹᱱᱩᱜ ᱟᱨ ᱵᱤᱫᱷᱤᱣᱟᱛ ᱞᱮᱠᱷᱟ ᱟᱨ ᱟᱫᱷᱤᱠᱮᱤᱛ ᱵᱷᱚᱴ ᱮᱢᱟᱱ ᱠᱷᱚᱱ ᱮᱴᱟᱜ ᱞᱤᱯᱷᱟᱯᱷᱟ ᱵᱟᱝ ᱤᱠᱟᱹ ᱟᱠᱟᱱᱟ᱾",politics,science/technology,"<|begin_of_text|>SENTENCE:
+ ᱑᱙᱘᱘ ᱠᱷᱚᱱ, ᱵᱷᱚᱴᱯᱮᱴᱤ ᱫᱚ ᱯᱟᱨᱫᱟᱨᱥᱤ ᱦᱩᱭᱩᱜ ᱞᱟᱹᱠᱛᱤᱭᱟ ᱡᱮᱢᱚᱱ ᱵᱷᱚᱴ ᱮᱢᱟᱱ ᱠᱚ ᱟᱨ ᱯᱟᱨᱭᱣᱮᱪᱷᱟᱠ ᱱᱚᱶᱟ ᱧᱮᱞ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱡᱮ ᱵᱷᱚᱴ ᱨᱮᱱᱟᱜ ᱮᱛᱚᱦᱚᱵ ᱨᱮ ᱡᱟᱦᱟᱱ ᱞᱤᱯᱷᱟᱯᱷᱟ ᱮᱢᱟᱱ ᱵᱟᱹᱱᱩᱜ ᱟᱨ ᱵᱤᱫᱷᱤᱣᱟᱛ ᱞᱮᱠᱷᱟ ᱟᱨ ᱟᱫᱷᱤᱠᱮᱤᱛ ᱵᱷᱚᱴ ᱮᱢᱟᱱ ᱠᱷᱚᱱ ᱮᱴᱟᱜ ᱞᱤᱯᱷᱟᱯᱷᱟ ᱵᱟᱝ ᱤᱠᱟᱹ ᱟᱠᱟᱱᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science
+EXPLANATION:
+The sentence is about"
+ᱠᱟᱹᱢᱤᱪᱟᱪᱞᱟᱣᱤᱭᱟᱹ ᱯᱨᱚᱫᱷᱟᱱ ᱢᱚᱱᱛᱨᱤ ᱡᱩᱞᱤᱭᱟ ᱜᱤᱞᱞᱟᱨᱰ ᱫᱚ ᱒᱐᱑᱐ ᱨᱮᱭᱟᱜ ᱥᱚᱝᱜᱷᱤᱭᱚ ᱵᱟᱪᱷᱱᱟᱣ ᱨᱮᱭᱟᱜ ᱚᱵᱷᱤᱡᱟᱱ ᱦᱤᱨᱤ ᱢᱩᱸᱫᱽᱨᱮ ᱫᱟᱹᱵᱤ ᱠᱚᱨᱟᱣ ᱞᱮᱜᱼᱟᱭ ᱡᱮ ᱟᱡᱟᱜ ᱵᱩᱡᱷᱟᱹᱣ ᱨᱮ ᱢᱚᱦᱟᱨᱟᱱᱤ ᱮᱞᱤᱡᱟᱵᱮᱛᱷ ᱫᱚᱥᱟᱨ ᱥᱟᱥᱚᱱ ᱯᱟᱹᱨᱤ ᱢᱩᱪᱟᱹᱫ ᱨᱮ ᱚᱥᱴᱨᱮᱞᱤᱭᱟ ᱫᱚ ᱢᱤᱫᱴᱟᱹᱝ ᱜᱚᱬᱚᱨᱟᱡᱽᱭᱚ ᱵᱮᱱᱟᱣᱜ ᱞᱟᱹᱠᱛᱤ ᱢᱮᱱᱟᱜ-ᱟI,politics,politics,"<|begin_of_text|>SENTENCE:
+ ᱠᱟᱹᱢᱤᱪᱟᱪᱞᱟᱣᱤᱭᱟᱹ ᱯᱨᱚᱫᱷᱟᱱ ᱢᱚᱱᱛᱨᱤ ᱡᱩᱞᱤᱭᱟ ᱜᱤᱞᱞᱟᱨᱰ ᱫᱚ ᱒᱐᱑᱐ ᱨᱮᱭᱟᱜ ᱥᱚᱝᱜᱷᱤᱭᱚ ᱵᱟᱪᱷᱱᱟᱣ ᱨᱮᱭᱟᱜ ᱚᱵᱷᱤᱡᱟᱱ ᱦᱤᱨᱤ ᱢᱩᱸᱫᱽᱨᱮ ᱫᱟᱹᱵᱤ ᱠᱚᱨᱟᱣ ᱞᱮᱜᱼᱟᱭ ᱡᱮ ᱟᱡᱟᱜ ᱵᱩᱡᱷᱟᱹᱣ ᱨᱮ ᱢᱚᱦᱟᱨᱟᱱᱤ ᱮᱞᱤᱡᱟᱵᱮᱛᱷ ᱫᱚᱥᱟᱨ ᱥᱟᱥᱚᱱ ᱯᱟᱹᱨᱤ ᱢᱩᱪᱟᱹᱫ ᱨᱮ ᱚᱥᱴᱨᱮᱞᱤᱭᱟ ᱫᱚ ᱢᱤᱫᱴᱟᱹᱝ ᱜᱚᱬᱚᱨᱟᱡᱽᱭᱚ ᱵᱮᱱᱟᱣᱜ ᱞᱟᱹᱠᱛᱤ ᱢᱮᱱᱟᱜ-ᱟI 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+The sentence"
+ᱟᱭᱨᱤᱥ ᱥᱚᱨᱠᱟᱨ ᱥᱛᱷᱤᱛᱤ ᱥᱩᱫᱷᱟᱨ ᱞᱟᱹᱜᱤᱫ ᱥᱚᱸᱥᱟᱫᱤᱭᱟ ᱟᱹᱱᱟᱹᱨᱤ ᱨᱮ ᱱᱤᱛᱚᱜᱟᱜ ᱨᱮ ᱡᱚᱨ ᱮᱟᱢᱫ ᱠᱟᱱᱟᱭ᱾,politics,politics,"<|begin_of_text|>SENTENCE:
+ ᱟᱭᱨᱤᱥ ᱥᱚᱨᱠᱟᱨ ᱥᱛᱷᱤᱛᱤ ᱥᱩᱫᱷᱟᱨ ᱞᱟᱹᱜᱤᱫ ᱥᱚᱸᱥᱟᱫᱤᱭᱟ ᱟᱹᱱᱟᱹᱨᱤ ᱨᱮ ᱱᱤᱛᱚᱜᱟᱜ ᱨᱮ ᱡᱚᱨ ᱮᱟᱢᱫ ᱠᱟᱱᱟᱭ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+The sentence"
+ᱱᱚᱣᱟ ᱴᱚᱴᱷᱟ ᱨᱮ ᱨᱟᱡᱽᱟᱹᱨᱤ ᱡᱩᱠᱛᱤ ᱟᱨᱢᱮᱱᱤᱭᱟ ᱟᱨ ᱟᱡᱮᱨᱵᱟᱭᱡᱚᱱ ᱢᱩᱸᱫᱽᱨᱮ ᱠᱷᱟᱨᱟᱯ ᱥᱟᱹᱜᱟᱹᱭ ᱛᱚᱸᱜᱮ ᱞᱮᱱᱟ᱾,politics,politics,"<|begin_of_text|>SENTENCE:
+ ᱱᱚᱣᱟ ᱴᱚᱴᱷᱟ ᱨᱮ ᱨᱟᱡᱽᱟᱹᱨᱤ ᱡᱩᱠᱛᱤ ᱟᱨᱢᱮᱱᱤᱭᱟ ᱟᱨ ᱟᱡᱮᱨᱵᱟᱭᱡᱚᱱ ᱢᱩᱸᱫᱽᱨᱮ ᱠᱷᱟᱨᱟᱯ ᱥᱟᱹᱜᱟᱹᱭ ᱛᱚᱸᱜᱮ ᱞᱮᱱᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+politics
+EXPLANATION:
+The sentence"
+"ᱢᱟᱨᱟᱝ ᱢᱚᱱᱛᱨᱤ ᱥᱴᱤᱯᱷᱮᱱ ᱦᱟᱨᱯᱮᱨ PMO ᱨᱮ ᱵᱟᱞᱮ ᱢᱟᱦᱟᱸ ᱦᱤᱞᱚᱜ NDP ᱞᱤᱰᱚᱨ ᱡᱮᱠ ᱞᱟᱭᱴᱚᱱ ᱥᱟᱶ ᱒᱕ ᱴᱤᱯᱤᱡ ᱫᱩᱲᱩᱵ ᱨᱮ ᱨᱮᱵᱮᱱ ᱠᱟᱱᱟᱭ ᱡᱮ, 'ᱯᱷᱟᱨᱪᱟ ᱦᱟᱣᱟ ᱱᱤᱭᱟᱹᱢ'-ᱟᱜ ᱫᱚᱥᱟᱨ ᱯᱟᱲᱦᱟᱣ ᱞᱟᱦᱟᱨᱮ ᱥᱟᱱᱟᱢ ᱯᱟᱴᱤ ᱠᱩᱢᱩᱴ ᱠᱷᱚᱱ ᱨᱤᱵᱷᱭᱩ ᱠᱚ ᱮᱢ-ᱟ᱾",politics,politics,"<|begin_of_text|>SENTENCE:
+ ᱢᱟᱨᱟᱝ ᱢᱚᱱᱛᱨᱤ ᱥᱴᱤᱯᱷᱮᱱ ᱦᱟᱨᱯᱮᱨ PMO ᱨᱮ ᱵᱟᱞᱮ ᱢᱟᱦᱟᱸ ᱦᱤᱞᱚᱜ NDP ᱞᱤᱰᱚᱨ ᱡᱮᱠ ᱞᱟᱭᱴᱚᱱ ᱥᱟᱶ ᱒᱕ ᱴᱤᱯᱤᱡ ᱫᱩᱲᱩᱵ ᱨᱮ ᱨᱮᱵᱮᱱ ᱠᱟᱱᱟᱭ ᱡᱮ, 'ᱯᱷᱟᱨᱪᱟ ᱦᱟᱣᱟ ᱱᱤᱭᱟᱹᱢ'-ᱟᱜ ᱫᱚᱥᱟᱨ ᱯᱟᱲᱦᱟᱣ ᱞᱟᱦᱟᱨᱮ ᱥᱟᱱᱟᱢ ᱯᱟᱴᱤ ᱠᱩᱢᱩᱴ ᱠᱷᱚᱱ ᱨᱤᱵᱷᱭᱩ ᱠᱚ ᱮᱢ-ᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+politics
+REASONING SKILL:
+"
+"ᱪᱟᱞᱟᱣᱮᱱ ᱪᱟᱸᱫᱚ, ᱯᱳᱞᱟᱸᱰ ᱨᱮ ᱢᱤᱫ ᱢᱟᱨᱟᱝ ᱵᱤᱨᱚᱫᱷᱤ ᱦᱩᱭ ᱞᱮᱱᱟ ᱡᱚᱠᱷᱚᱱ ᱚᱱᱟ ᱫᱤᱥᱚᱢ ᱨᱮ ᱮᱹᱥᱤᱴᱤᱹᱮᱹ ᱥᱩᱦᱤ ᱮᱢ ᱞᱮᱜᱼᱟᱭ, ᱡᱟᱦᱟᱸ ᱠᱷᱟᱹᱛᱤᱨ ᱯᱳᱞᱟᱸᱰ ᱥᱚᱨᱠᱟᱨ ᱱᱤᱛᱚᱜ ᱞᱟᱹᱜᱤᱱ ᱨᱟᱹᱡᱤᱱᱟᱢᱟ ᱵᱟᱝ ᱟᱹᱭᱫᱟᱹᱨ ᱨᱮᱭᱟᱜ ᱴᱷᱟᱹᱣᱠᱟᱹ ᱟᱠᱟᱫ-ᱟᱭI",politics,politics,"<|begin_of_text|>SENTENCE:
+ ᱪᱟᱞᱟᱣᱮᱱ ᱪᱟᱸᱫᱚ, ᱯᱳᱞᱟᱸᱰ ᱨᱮ ᱢᱤᱫ ᱢᱟᱨᱟᱝ ᱵᱤᱨᱚᱫᱷᱤ ᱦᱩᱭ ᱞᱮᱱᱟ ᱡᱚᱠᱷᱚᱱ ᱚᱱᱟ ᱫᱤᱥᱚᱢ ᱨᱮ ᱮᱹᱥᱤᱴᱤᱹᱮᱹ ᱥᱩᱦᱤ ᱮᱢ ᱞᱮᱜᱼᱟᱭ, ᱡᱟᱦᱟᱸ ᱠᱷᱟᱹᱛᱤᱨ ᱯᱳᱞᱟᱸᱰ ᱥᱚᱨᱠᱟᱨ ᱱᱤᱛᱚᱜ ᱞᱟᱹᱜᱤᱱ ᱨᱟᱹᱡᱤᱱᱟᱢᱟ ᱵᱟᱝ ᱟᱹᱭᱫᱟᱹᱨ ᱨᱮᱭᱟᱜ ᱴᱷᱟᱹᱣᱠᱟᱹ ᱟᱠᱟᱫ-ᱟᱭI 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+The sentence"
+ᱫᱤᱥᱟᱹ ᱩᱫᱩᱜ ᱫᱚ ᱥᱩᱢᱩᱝ ᱢᱤᱫᱴᱟᱹᱝ ᱫᱤᱥᱚᱢ ᱨᱮ ᱨᱟᱡᱽᱟᱹᱨᱤ ᱦᱟᱞᱚᱛ ᱨᱮᱱᱟᱝ ᱢᱤᱫ ᱡᱟᱭᱛᱮᱫ ᱜᱮ ᱠᱟᱱᱟI,politics,politics,"<|begin_of_text|>SENTENCE:
+ ᱫᱤᱥᱟᱹ ᱩᱫᱩᱜ ᱫᱚ ᱥᱩᱢᱩᱝ ᱢᱤᱫᱴᱟᱹᱝ ᱫᱤᱥᱚᱢ ᱨᱮ ᱨᱟᱡᱽᱟᱹᱨᱤ ᱦᱟᱞᱚᱛ ᱨᱮᱱᱟᱝ ᱢᱤᱫ ᱡᱟᱭᱛᱮᱫ ᱜᱮ ᱠᱟᱱᱟI 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+politics
+REASONING SKILL:
+"
+"᱑᱙᱗᱖ ᱨᱮᱭᱟᱜ ᱵᱟᱪᱷᱱᱟᱣ ᱚᱠᱛᱚᱨᱮ ᱩᱱᱤ ᱯᱷᱚᱨᱮᱱ ᱯᱚᱞᱤᱥᱤ ᱵᱟᱲᱮᱛᱮ ᱠᱟᱨᱴᱚᱨ ᱟᱰᱵᱷᱟᱭᱤᱥ ᱮᱢᱟᱫᱮ ᱛᱟᱦᱮᱸᱫ, ᱚᱱᱟ ᱯᱚᱨ ᱑᱙᱗᱗ ᱠᱷᱚᱱ ᱑᱙᱘᱑ ᱦᱟᱹᱵᱤᱡ ᱱᱮᱥᱱᱟᱞ ᱥᱤᱠᱭᱩᱨᱤᱴᱤ ᱚᱯᱷ ᱟᱰᱵᱷᱟᱭᱡᱚᱨ (ᱮᱱ.ᱮᱥ.ᱮ.), ᱞᱮᱠᱟᱛᱮ ᱦᱮᱱᱨᱤ ᱠᱤᱥᱤᱝᱜᱚᱨᱮ ᱥᱚᱯᱷᱚᱲ ᱞᱮᱫᱮᱭᱟ᱾",politics,politics,"<|begin_of_text|>SENTENCE:
+ ᱑᱙᱗᱖ ᱨᱮᱭᱟᱜ ᱵᱟᱪᱷᱱᱟᱣ ᱚᱠᱛᱚᱨᱮ ᱩᱱᱤ ᱯᱷᱚᱨᱮᱱ ᱯᱚᱞᱤᱥᱤ ᱵᱟᱲᱮᱛᱮ ᱠᱟᱨᱴᱚᱨ ᱟᱰᱵᱷᱟᱭᱤᱥ ᱮᱢᱟᱫᱮ ᱛᱟᱦᱮᱸᱫ, ᱚᱱᱟ ᱯᱚᱨ ᱑᱙᱗᱗ ᱠᱷᱚᱱ ᱑᱙᱘᱑ ᱦᱟᱹᱵᱤᱡ ᱱᱮᱥᱱᱟᱞ ᱥᱤᱠᱭᱩᱨᱤᱴᱤ ᱚᱯᱷ ᱟᱰᱵᱷᱟᱭᱡᱚᱨ (ᱮᱱ.ᱮᱥ.ᱮ.), ᱞᱮᱠᱟᱛᱮ ᱦᱮᱱᱨᱤ ᱠᱤᱥᱤᱝᱜᱚᱨᱮ ᱥᱚᱯᱷᱚᱲ ᱞᱮᱫᱮᱭᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+The sentence"
+"ᱥᱟᱵ ᱦᱚᱪᱚ ᱟᱠᱟᱱ ᱟᱭ.ᱮᱥ.ᱟᱭ.ᱮᱥ ᱯᱷᱟᱭᱴᱚᱨ ᱠᱚ ᱫᱚ ᱛᱩᱨᱠᱤ ᱦᱚᱨᱦᱚ ᱠᱚᱣᱟᱭ, ᱟᱨ ᱦᱚᱸ ᱠᱟᱛᱷᱟ ᱞᱮᱠᱟᱛᱮ, ᱭᱩᱨᱩᱯᱤᱭᱟᱱ ᱱᱮᱥᱚᱱ ᱱᱚᱶᱟ ᱟᱠᱚ ᱢᱩᱞᱩᱠ ᱛᱮ ᱨᱩᱣᱟᱹᱲᱮ ᱢᱟᱱᱟ ᱟᱠᱟᱫᱟ᱾",politics,N/A,"<|begin_of_text|>SENTENCE:
+ ᱥᱟᱵ ᱦᱚᱪᱚ ᱟᱠᱟᱱ ᱟᱭ.ᱮᱥ.ᱟᱭ.ᱮᱥ ᱯᱷᱟᱭᱴᱚᱨ ᱠᱚ ᱫᱚ ᱛᱩᱨᱠᱤ ᱦᱚᱨᱦᱚ ᱠᱚᱣᱟᱭ, ᱟᱨ ᱦᱚᱸ ᱠᱟᱛᱷᱟ ᱞᱮᱠᱟᱛᱮ, ᱭᱩᱨᱩᱯᱤᱭᱟᱱ ᱱᱮᱥᱚᱱ ᱱᱚᱶᱟ ᱟᱠᱚ ᱢᱩᱞᱩᱠ ᱛᱮ ᱨᱩᱣᱟᱹᱲᱮ ᱢᱟᱱᱟ ᱟᱠᱟᱫᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: None of the above
+REASONING SKILL"
+"ᱡᱟᱭᱦᱚ, ᱱᱚᱶᱟ ᱯᱚᱱᱛᱷᱟ ᱠᱚ ᱠᱚᱢ ᱥᱮ ᱠᱚᱢ ᱧᱤᱸᱫᱟ ᱵᱷᱤᱛᱨᱤ ᱚᱯᱨᱟᱪᱟᱞᱤᱛ ᱠᱚᱨᱟᱣ ᱞᱮᱱᱟ, ᱡᱚᱠᱷᱚᱱ ᱥᱚᱵᱤᱭᱟᱛ ᱭᱩᱱᱤᱭᱚᱱ ᱨᱤᱱ ᱟᱨᱟᱜ ᱯᱷᱟᱹᱫᱽ ᱘᱐᱐,᱐᱐᱐ ᱠᱷᱚᱱ ᱡᱟᱹᱥᱛᱤ ᱥᱮᱱᱤᱠ ᱠᱚ ᱨᱤᱜᱟ ᱥᱟᱸᱛᱤ ᱥᱟᱸᱫᱷᱤ, ᱥᱚᱵᱤᱭᱟᱛ ᱼ ᱯᱚᱞᱤᱥ ᱜᱮᱨ ᱚᱠᱨᱚᱢᱠᱟᱛᱟ ᱟᱜ ᱩᱞᱟᱸᱜᱷᱟᱱ ᱨᱮ ᱯᱚᱞᱮᱸᱰ ᱨᱮᱱᱟᱝ ᱥᱟᱢᱟᱝ ᱴᱚᱴᱷᱟ ᱨᱮ ᱚᱠᱨᱚᱢᱚᱬ ᱛᱟᱭᱚᱢ ᱵᱮᱞᱟᱛᱩᱥᱤ ᱟᱨ ᱭᱩᱠᱨᱮᱱᱤ ᱢᱚᱨᱪᱟ ᱨᱮ ᱵᱚᱞᱚ ᱠᱟᱛᱮ ᱟᱨ ᱵᱮᱱᱟᱣ ᱠᱮᱫᱟ᱾ ᱥᱟᱸᱫᱷᱤ ᱟᱨ ᱮᱴᱟᱜ ᱡᱮᱜᱮᱛᱟᱨᱤ ᱥᱟᱸᱫᱷᱤ ᱠᱚ, ᱵᱟᱱᱟᱨ ᱜᱮ ᱵᱟᱭᱞᱟᱴᱮᱨᱞ ᱟᱨ ᱢᱟᱞᱴᱤᱞᱟᱴᱮᱨᱟᱞ᱾",politics,politics,"<|begin_of_text|>SENTENCE:
+ ᱡᱟᱭᱦᱚ, ᱱᱚᱶᱟ ᱯᱚᱱᱛᱷᱟ ᱠᱚ ᱠᱚᱢ ᱥᱮ ᱠᱚᱢ ᱧᱤᱸᱫᱟ ᱵᱷᱤᱛᱨᱤ ᱚᱯᱨᱟᱪᱟᱞᱤᱛ ᱠᱚᱨᱟᱣ ᱞᱮᱱᱟ, ᱡᱚᱠᱷᱚᱱ ᱥᱚᱵᱤᱭᱟᱛ ᱭᱩᱱᱤᱭᱚᱱ ᱨᱤᱱ ᱟᱨᱟᱜ ᱯᱷᱟᱹᱫᱽ ᱘᱐᱐,᱐᱐᱐ ᱠᱷᱚᱱ ᱡᱟᱹᱥᱛᱤ ᱥᱮᱱᱤᱠ ᱠᱚ ᱨᱤᱜᱟ ᱥᱟᱸᱛᱤ ᱥᱟᱸᱫᱷᱤ, ᱥᱚᱵᱤᱭᱟᱛ ᱼ ᱯᱚᱞᱤᱥ ᱜᱮᱨ ᱚᱠᱨᱚᱢᱠᱟᱛᱟ ᱟᱜ ᱩᱞᱟᱸᱜᱷᱟᱱ ᱨᱮ ᱯᱚᱞᱮᱸᱰ ᱨᱮᱱᱟᱝ ᱥᱟᱢᱟᱝ ᱴᱚᱴᱷᱟ ᱨᱮ ᱚᱠᱨᱚᱢᱚᱬ ᱛᱟᱭᱚᱢ ᱵᱮᱞᱟᱛᱩᱥᱤ ᱟᱨ ᱭᱩᱠᱨᱮᱱᱤ ᱢᱚᱨᱪᱟ ᱨᱮ ᱵᱚᱞᱚ ᱠᱟᱛᱮ ᱟᱨ ᱵᱮᱱᱟᱣ ᱠᱮᱫᱟ᱾ ᱥᱟᱸᱫᱷᱤ ᱟᱨ ᱮᱴᱟᱜ ᱡᱮᱜᱮᱛᱟᱨᱤ ᱥᱟᱸᱫᱷᱤ ᱠᱚ, ᱵᱟᱱᱟᱨ ᱜᱮ ᱵᱟᱭᱞᱟᱴᱮᱨᱞ ᱟᱨ ᱢᱟᱞᱴᱤᱞᱟᱴᱮᱨᱟᱞ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+The sentence"
+"ᱯᱨᱟᱥᱮᱥ ᱛᱟᱭᱚᱢ, ᱯᱨᱟᱠᱨᱤᱭᱟ ᱨᱮ ᱛᱟᱦᱮᱱ ᱞᱟᱹᱜᱤᱫ ᱒᱐᱑᱕ ᱟᱨ ᱵᱟᱝ ᱒᱐᱑᱖ ᱨᱮ ᱫᱟᱨᱟᱭ ᱵᱟᱪᱷᱱᱟᱣ ᱵᱤᱫᱷᱟᱭᱚᱠ ᱦᱟᱛᱮᱛᱮ ᱮᱪᱹᱡᱮᱹᱟᱨᱹ-᱓ ᱫᱚᱥᱟᱨ ᱛᱮᱠᱚ ᱧᱮᱞ ᱟᱹᱨᱩᱭᱟ᱾",politics,politics,"<|begin_of_text|>SENTENCE:
+ ᱯᱨᱟᱥᱮᱥ ᱛᱟᱭᱚᱢ, ᱯᱨᱟᱠᱨᱤᱭᱟ ᱨᱮ ᱛᱟᱦᱮᱱ ᱞᱟᱹᱜᱤᱫ ᱒᱐᱑᱕ ᱟᱨ ᱵᱟᱝ ᱒᱐᱑᱖ ᱨᱮ ᱫᱟᱨᱟᱭ ᱵᱟᱪᱷᱱᱟᱣ ᱵᱤᱫᱷᱟᱭᱚᱠ ᱦᱟᱛᱮᱛᱮ ᱮᱪᱹᱡᱮᱹᱟᱨᱹ-᱓ ᱫᱚᱥᱟᱨ ᱛᱮᱠᱚ ᱧᱮᱞ ᱟᱹᱨᱩᱭᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+The sentence"
+"᱔ ᱡᱩᱞᱟᱭ ᱦᱤᱞᱚᱜ ᱫᱚ ᱠᱚᱝᱜᱽᱨᱮᱥ ᱦᱚᱛᱮᱛᱮ ᱱᱚᱶᱟ ᱟᱯᱱᱟᱨ ᱛᱟᱭᱚᱢ, ᱠᱚᱝᱜᱽᱨᱮᱥ ᱟᱜ ᱟᱫᱷᱭᱟᱪᱷ ᱡᱚᱱ ᱦᱮᱭᱱᱠᱟᱹᱠ ᱟᱨ ᱥᱟᱪᱤᱣ ᱪᱟᱨᱞᱥ ᱛᱷᱚᱢᱥᱚᱱ ᱦᱚᱛᱮᱛᱮ ᱦᱟᱥᱛᱟᱪᱷᱟᱨᱤᱛ ᱢᱤᱫ ᱦᱟᱥᱛᱞᱤᱠᱷᱤᱛ ᱢᱟᱥᱚᱫᱟ ᱠᱚ ᱠᱤᱪᱷᱩ ᱵᱽᱞᱚᱠ ᱥᱟᱺᱜᱤᱧ ᱡᱚᱱ ᱰᱟᱱᱞᱚᱯ ᱨᱮᱱᱟᱜ ᱪᱷᱟᱯᱟ ᱫᱩᱠᱟᱱ ᱨᱮ ᱠᱩᱞ ᱦᱩᱭ ᱞᱮᱱ ᱛᱟᱦᱮᱱᱟ᱾",politics,politics,"<|begin_of_text|>SENTENCE:
+ ᱔ ᱡᱩᱞᱟᱭ ᱦᱤᱞᱚᱜ ᱫᱚ ᱠᱚᱝᱜᱽᱨᱮᱥ ᱦᱚᱛᱮᱛᱮ ᱱᱚᱶᱟ ᱟᱯᱱᱟᱨ ᱛᱟᱭᱚᱢ, ᱠᱚᱝᱜᱽᱨᱮᱥ ᱟᱜ ᱟᱫᱷᱭᱟᱪᱷ ᱡᱚᱱ ᱦᱮᱭᱱᱠᱟᱹᱠ ᱟᱨ ᱥᱟᱪᱤᱣ ᱪᱟᱨᱞᱥ ᱛᱷᱚᱢᱥᱚᱱ ᱦᱚᱛᱮᱛᱮ ᱦᱟᱥᱛᱟᱪᱷᱟᱨᱤᱛ ᱢᱤᱫ ᱦᱟᱥᱛᱞᱤᱠᱷᱤᱛ ᱢᱟᱥᱚᱫᱟ ᱠᱚ ᱠᱤᱪᱷᱩ ᱵᱽᱞᱚᱠ ᱥᱟᱺᱜᱤᱧ ᱡᱚᱱ ᱰᱟᱱᱞᱚᱯ ᱨᱮᱱᱟᱜ ᱪᱷᱟᱯᱟ ᱫᱩᱠᱟᱱ ᱨᱮ ᱠᱩᱞ ᱦᱩᱭ ᱞᱮᱱ ᱛᱟᱦᱮᱱᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: None of the above (politics is the closest"
+"ᱴᱷᱤᱠ ᱑᱑:᱐᱐ ᱵᱟᱡᱮ ᱛᱟᱭᱚᱢ, ᱯᱨᱚᱫᱚᱨᱥᱚᱱ ᱨᱮ ᱣᱦᱟᱭᱤᱴ ᱦᱚᱞ ᱨᱮ ᱮᱛᱚᱢ ᱥᱮᱫ ᱠᱷᱚᱱ ᱥᱮᱱᱚᱜ ᱟᱱᱟᱜ ᱜᱟᱹᱰᱤ ᱨᱮ ᱜᱟᱹᱰᱤ ᱢᱚᱴᱚᱨ ᱟᱣᱨᱩᱫᱷ ᱠᱟᱨ ᱮᱢ ᱮᱱᱟ᱾",politics,travel,"<|begin_of_text|>SENTENCE:
+ ᱴᱷᱤᱠ ᱑᱑:᱐᱐ ᱵᱟᱡᱮ ᱛᱟᱭᱚᱢ, ᱯᱨᱚᱫᱚᱨᱥᱚᱱ ᱨᱮ ᱣᱦᱟᱭᱤᱴ ᱦᱚᱞ ᱨᱮ ᱮᱛᱚᱢ ᱥᱮᱫ ᱠᱷᱚᱱ ᱥᱮᱱᱚᱜ ᱟᱱᱟᱜ ᱜᱟᱹᱰᱤ ᱨᱮ ᱜᱟᱹᱰᱤ ᱢᱚᱴᱚᱨ ᱟᱣᱨᱩᱫᱷ ᱠᱟᱨ ᱮᱢ ᱮᱱᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+travel
+EXPLANATION:
+This sentence is"
+"ᱡᱟᱭᱦᱚ, ᱡᱩᱱ ᱑᱙᱕᱖ ᱨᱮ, ᱠᱨᱩᱥᱪᱮᱵᱷ-ᱟᱜ ᱯᱨᱚᱢᱤᱡᱽ ᱠᱚ ᱯᱳᱞᱟᱸᱰᱨᱮ ᱫᱚᱝᱜᱟ ᱚᱠᱛᱚᱨᱮ ᱴᱮᱥᱴ ᱞᱮᱱᱟ, ᱡᱟᱦᱟᱸ ᱨᱮ ᱠᱟᱹᱢᱤᱭᱟᱹ ᱠᱚ ᱡᱚᱢᱟᱜ ᱚᱵᱷᱟᱵᱽ ᱟᱨ ᱫᱚᱨᱢᱟ ᱠᱚᱢ ᱠᱚ ᱵᱤᱨᱳᱫᱷᱮᱫ ᱛᱟᱦᱮᱸᱫ, ᱠᱚᱢᱭᱩᱱᱤᱥᱴ ᱵᱤᱨᱳᱫᱷ ᱨᱮ ᱢᱤᱫ ᱥᱟᱫᱷᱟᱨᱚᱱ ᱯᱨᱳᱴᱮᱥᱴ ᱨᱮ ᱵᱮᱱᱟᱣ ᱞᱮᱱᱟ᱾",politics,science/technology,"<|begin_of_text|>SENTENCE:
+ ᱡᱟᱭᱦᱚ, ᱡᱩᱱ ᱑᱙᱕᱖ ᱨᱮ, ᱠᱨᱩᱥᱪᱮᱵᱷ-ᱟᱜ ᱯᱨᱚᱢᱤᱡᱽ ᱠᱚ ᱯᱳᱞᱟᱸᱰᱨᱮ ᱫᱚᱝᱜᱟ ᱚᱠᱛᱚᱨᱮ ᱴᱮᱥᱴ ᱞᱮᱱᱟ, ᱡᱟᱦᱟᱸ ᱨᱮ ᱠᱟᱹᱢᱤᱭᱟᱹ ᱠᱚ ᱡᱚᱢᱟᱜ ᱚᱵᱷᱟᱵᱽ ᱟᱨ ᱫᱚᱨᱢᱟ ᱠᱚᱢ ᱠᱚ ᱵᱤᱨᱳᱫᱷᱮᱫ ᱛᱟᱦᱮᱸᱫ, ᱠᱚᱢᱭᱩᱱᱤᱥᱴ ᱵᱤᱨᱳᱫᱷ ᱨᱮ ᱢᱤᱫ ᱥᱟᱫᱷᱟᱨᱚᱱ ᱯᱨᱳᱴᱮᱥᱴ ᱨᱮ ᱵᱮᱱᱟᱣ ᱞᱮᱱᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science
+EXPLANATION:
+This sentence is about"
+"ᱱᱚᱶᱟ ᱫᱟᱨᱟᱭ ᱔᱐ ᱥᱮᱨᱢᱟ ᱦᱟᱹᱵᱤᱡ ᱪᱟᱞᱟᱣ ᱠᱚᱜᱼᱟ ᱟᱨ ᱥᱟᱹᱨᱤᱛᱮᱫ ᱞᱮᱠᱟᱨᱮ ᱠᱮᱢᱩᱯᱷᱞᱳᱡᱽ ᱥᱮᱱᱟ ᱫᱟᱨᱟᱭ ᱛᱮ, ᱟᱯᱷᱨᱤᱠᱟ ᱠᱷᱚᱱ ᱮᱥᱤᱭᱟ ᱦᱟᱹᱵᱤᱡ, ᱟᱯᱷᱜᱟᱱᱤᱥᱛᱟᱱ, ᱠᱭᱩᱵᱟ ᱟᱨ ᱟᱹᱰᱤ ᱟᱭᱢᱟ ᱴᱚᱴᱷᱟ ᱨᱮ ᱞᱟᱹᱲᱦᱟᱹᱭ ᱴᱟᱺᱰᱤ ᱞᱟᱹᱲᱦᱟᱹᱭ ᱦᱩᱭ ᱚᱪᱚᱜᱚᱜᱼᱟ᱾",politics,geography,"<|begin_of_text|>SENTENCE:
+ ᱱᱚᱶᱟ ᱫᱟᱨᱟᱭ ᱔᱐ ᱥᱮᱨᱢᱟ ᱦᱟᱹᱵᱤᱡ ᱪᱟᱞᱟᱣ ᱠᱚᱜᱼᱟ ᱟᱨ ᱥᱟᱹᱨᱤᱛᱮᱫ ᱞᱮᱠᱟᱨᱮ ᱠᱮᱢᱩᱯᱷᱞᱳᱡᱽ ᱥᱮᱱᱟ ᱫᱟᱨᱟᱭ ᱛᱮ, ᱟᱯᱷᱨᱤᱠᱟ ᱠᱷᱚᱱ ᱮᱥᱤᱭᱟ ᱦᱟᱹᱵᱤᱡ, ᱟᱯᱷᱜᱟᱱᱤᱥᱛᱟᱱ, ᱠᱭᱩᱵᱟ ᱟᱨ ᱟᱹᱰᱤ ᱟᱭᱢᱟ ᱴᱚᱴᱷᱟ ᱨᱮ ᱞᱟᱹᱲᱦᱟᱹᱭ ᱴᱟᱺᱰᱤ ᱞᱟᱹᱲᱦᱟᱹᱭ ᱦᱩᱭ ᱚᱪᱚᱜᱚᱜᱼᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+geography
+EXPLANATION:
+The sentence"
+ᱯᱟᱨᱚᱢᱮᱱ ᱪᱟᱸᱫᱚ ᱢᱤᱫ ᱫᱤᱥᱚᱢ ᱜᱚᱢᱠᱮ ᱟᱭᱳᱜᱽ ᱛᱮ ᱫᱤᱥᱚᱢ ᱫᱚ ᱱᱟᱶᱟ ᱵᱟᱪᱷᱟᱣ ᱨᱮᱱᱟᱜ ᱤᱫᱤ ᱨᱮᱱᱟᱜ ᱩᱯᱟᱹᱭ ᱢᱤᱫ ᱯᱮᱭᱠᱮᱡᱽ ᱨᱮᱱᱟᱜ ᱦᱟᱹᱴᱤᱧ ᱨᱩᱯ ᱨᱮ ᱥᱟᱢᱟᱝ ᱥᱤ ᱤ ᱯᱤ ᱨᱮᱱᱟᱜ ᱤᱥᱛᱤᱯᱷᱟ ᱨᱮᱱᱟᱜ ᱱᱮᱦᱚᱨ ᱞᱮᱫ ᱛᱟᱦᱮᱱᱟ᱾,politics,politics,"<|begin_of_text|>SENTENCE:
+ ᱯᱟᱨᱚᱢᱮᱱ ᱪᱟᱸᱫᱚ ᱢᱤᱫ ᱫᱤᱥᱚᱢ ᱜᱚᱢᱠᱮ ᱟᱭᱳᱜᱽ ᱛᱮ ᱫᱤᱥᱚᱢ ᱫᱚ ᱱᱟᱶᱟ ᱵᱟᱪᱷᱟᱣ ᱨᱮᱱᱟᱜ ᱤᱫᱤ ᱨᱮᱱᱟᱜ ᱩᱯᱟᱹᱭ ᱢᱤᱫ ᱯᱮᱭᱠᱮᱡᱽ ᱨᱮᱱᱟᱜ ᱦᱟᱹᱴᱤᱧ ᱨᱩᱯ ᱨᱮ ᱥᱟᱢᱟᱝ ᱥᱤ ᱤ ᱯᱤ ᱨᱮᱱᱟᱜ ᱤᱥᱛᱤᱯᱷᱟ ᱨᱮᱱᱟᱜ ᱱᱮᱦᱚᱨ ᱞᱮᱫ ᱛᱟᱦᱮᱱᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+The sentence"
+ᱟᱜᱟᱢ ᱯᱚᱱᱚᱛ ᱡᱮᱨᱩᱥᱮᱞᱚᱢ ᱨᱮᱭᱟᱜ ᱮᱴᱟᱜ ᱠᱟᱛᱷᱟ ᱠᱚ ᱢᱮᱥᱟ ᱦᱟᱠᱟᱱᱟ ᱡᱟᱦᱟᱸ ᱵᱟᱱᱟᱨ ᱫᱮᱥ ᱟᱨ ᱡᱳᱨᱰᱟᱱ ᱵᱷᱮᱞᱤ ᱤᱥᱩ ᱵᱟᱲᱮᱛᱮ ᱱᱟᱯᱟᱭᱚᱜ-ᱟ᱾,politics,geography,"<|begin_of_text|>SENTENCE:
+ ᱟᱜᱟᱢ ᱯᱚᱱᱚᱛ ᱡᱮᱨᱩᱥᱮᱞᱚᱢ ᱨᱮᱭᱟᱜ ᱮᱴᱟᱜ ᱠᱟᱛᱷᱟ ᱠᱚ ᱢᱮᱥᱟ ᱦᱟᱠᱟᱱᱟ ᱡᱟᱦᱟᱸ ᱵᱟᱱᱟᱨ ᱫᱮᱥ ᱟᱨ ᱡᱳᱨᱰᱟᱱ ᱵᱷᱮᱞᱤ ᱤᱥᱩ ᱵᱟᱲᱮᱛᱮ ᱱᱟᱯᱟᱭᱚᱜ-ᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+geography
+REASONING SKILL:
+"
+ᱱᱩᱠᱩ ᱴᱷᱮᱱ ᱯᱚᱱᱚᱛ ᱛᱟᱞᱟ ᱨᱮ ᱠᱟᱹᱱᱩᱱ ᱟᱨ ᱥᱩᱞᱠ ᱠᱚ ᱚᱣᱟᱹᱨᱼᱨᱟᱭᱤᱲ ᱞᱟᱹᱜᱤᱫ ᱪᱮᱫ ᱚᱫᱷᱤᱠᱟᱨ ᱵᱟᱝ ᱛᱟᱦᱮᱸ ᱠᱟᱱᱟ᱾,politics,geography,"<|begin_of_text|>SENTENCE:
+ ᱱᱩᱠᱩ ᱴᱷᱮᱱ ᱯᱚᱱᱚᱛ ᱛᱟᱞᱟ ᱨᱮ ᱠᱟᱹᱱᱩᱱ ᱟᱨ ᱥᱩᱞᱠ ᱠᱚ ᱚᱣᱟᱹᱨᱼᱨᱟᱭᱤᱲ ᱞᱟᱹᱜᱤᱫ ᱪᱮᱫ ᱚᱫᱷᱤᱠᱟᱨ ᱵᱟᱝ ᱛᱟᱦᱮᱸ ᱠᱟᱱᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+geography
+EXPLANATION:
+The sentence"
+ᱯᱷᱨᱟᱱᱥᱤᱥᱤ ᱪᱩᱱᱟᱣ ᱠᱟᱱᱩᱱ ᱠᱟᱨᱭᱟᱣᱟᱦᱤ ᱫᱚ ᱥᱚᱠᱷᱛᱤ ᱠᱷᱚᱱ ᱥᱟᱸᱦᱤᱛᱟᱵᱟᱫᱽ ᱮᱫᱟᱭ᱾,politics,geography,"<|begin_of_text|>SENTENCE:
+ ᱯᱷᱨᱟᱱᱥᱤᱥᱤ ᱪᱩᱱᱟᱣ ᱠᱟᱱᱩᱱ ᱠᱟᱨᱭᱟᱣᱟᱦᱤ ᱫᱚ ᱥᱚᱠᱷᱛᱤ ᱠᱷᱚᱱ ᱥᱟᱸᱦᱤᱛᱟᱵᱟᱫᱽ ᱮᱫᱟᱭ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+geography
+REASONING:
+The sentence"
+"ᱢᱟᱭᱟᱣᱫᱷᱤ ᱪᱩᱱᱟᱹᱣ ᱨᱮ ᱢᱤᱫ ᱮᱢᱟᱦᱟᱸ ᱨᱮᱱᱟᱜ ᱦᱟᱨᱟᱣᱮᱱ ᱛᱟᱭᱚᱢ, ᱵᱩᱥ ᱫᱚ ᱦᱚᱲᱠᱚ ᱮᱥᱤᱭᱟ ᱵᱮᱯᱟᱨ ᱨᱮᱱᱟᱜ ᱜᱟᱹᱦᱤᱨ ᱛᱮ ᱞᱟᱹᱭ ᱠᱮᱫᱟᱭ᱾",politics,travel,"<|begin_of_text|>SENTENCE:
+ ᱢᱟᱭᱟᱣᱫᱷᱤ ᱪᱩᱱᱟᱹᱣ ᱨᱮ ᱢᱤᱫ ᱮᱢᱟᱦᱟᱸ ᱨᱮᱱᱟᱜ ᱦᱟᱨᱟᱣᱮᱱ ᱛᱟᱭᱚᱢ, ᱵᱩᱥ ᱫᱚ ᱦᱚᱲᱠᱚ ᱮᱥᱤᱭᱟ ᱵᱮᱯᱟᱨ ᱨᱮᱱᱟᱜ ᱜᱟᱹᱦᱤᱨ ᱛᱮ ᱞᱟᱹᱭ ᱠᱮᱫᱟᱭ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+REASONING SKILL:
+"
+"ᱢᱚᱦᱚᱛᱟᱱ ᱢᱤᱞᱤᱴᱟᱨᱤ ᱟᱨ ᱥᱟᱫᱷᱟᱨᱚᱱ ᱱᱟᱜᱽᱨᱤᱠ ᱦᱟᱹᱯᱴᱤᱧ ᱠᱚ ᱵᱚᱱᱫᱽ ᱟᱛᱮ ᱱᱚᱶᱟ ᱨᱚᱬᱱᱤᱛ ᱯᱨᱚᱵᱷᱟᱵᱽᱥᱟᱞᱤ ᱯᱚᱨᱢᱟᱬ ᱟᱠᱟᱱᱟ, ᱡᱚᱠᱷᱚᱱ ᱱᱚᱶᱟ ᱟᱠᱚᱴ ᱪᱟᱞᱟᱣᱮᱱ ᱵᱟᱨᱭᱟ ᱥᱮᱧᱪᱩᱨᱤ ᱨᱮᱭᱟᱜ ᱟᱭᱢᱟ ᱡᱮᱡᱟᱹᱛᱤᱭᱟᱹᱨᱤ ᱪᱩᱠᱛᱤ ᱛᱮ ᱢᱟᱱᱟᱣᱞᱮᱱ ᱡᱮᱡᱟᱹᱛᱤᱭᱟᱹᱨᱤ ᱨᱤᱛ ᱠᱚ ᱛᱟᱞᱚᱢ ᱞᱚᱴᱚᱢ ᱞᱮᱜᱼᱟ᱾",politics,N/A,"<|begin_of_text|>SENTENCE:
+ ᱢᱚᱦᱚᱛᱟᱱ ᱢᱤᱞᱤᱴᱟᱨᱤ ᱟᱨ ᱥᱟᱫᱷᱟᱨᱚᱱ ᱱᱟᱜᱽᱨᱤᱠ ᱦᱟᱹᱯᱴᱤᱧ ᱠᱚ ᱵᱚᱱᱫᱽ ᱟᱛᱮ ᱱᱚᱶᱟ ᱨᱚᱬᱱᱤᱛ ᱯᱨᱚᱵᱷᱟᱵᱽᱥᱟᱞᱤ ᱯᱚᱨᱢᱟᱬ ᱟᱠᱟᱱᱟ, ᱡᱚᱠᱷᱚᱱ ᱱᱚᱶᱟ ᱟᱠᱚᱴ ᱪᱟᱞᱟᱣᱮᱱ ᱵᱟᱨᱭᱟ ᱥᱮᱧᱪᱩᱨᱤ ᱨᱮᱭᱟᱜ ᱟᱭᱢᱟ ᱡᱮᱡᱟᱹᱛᱤᱭᱟᱹᱨᱤ ᱪᱩᱠᱛᱤ ᱛᱮ ᱢᱟᱱᱟᱣᱞᱮᱱ ᱡᱮᱡᱟᱹᱛᱤᱭᱟᱹᱨᱤ ᱨᱤᱛ ᱠᱚ ᱛᱟᱞᱚᱢ ᱞᱚᱴᱚᱢ ᱞᱮᱜᱼᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: None of the above
+REASONING SKILL"
+ᱨᱟᱡᱽᱟᱹᱨᱤ ᱜᱟᱯᱟᱞᱢᱟᱨᱟᱣ ᱨᱮ ᱦᱟᱹᱨᱥᱩᱲ ᱛᱩᱞᱩᱡ ᱦᱚᱸ ᱢᱳᱞᱫᱳᱵᱷᱟ ᱨᱮᱭᱟᱜ ᱱᱚᱣᱟ ᱠᱤᱱ ᱦᱤᱸᱥ ᱨᱮ ᱠᱟᱹᱣᱰᱤ ᱟᱹᱨᱤ ᱥᱟᱹᱜᱟᱹᱭ ᱟᱨᱦᱚᱸ ᱡᱤᱭᱟᱹᱲ ᱨᱩᱣᱟᱹᱲ ᱟᱠᱟᱱᱟ᱾,politics,politics,"<|begin_of_text|>SENTENCE:
+ ᱨᱟᱡᱽᱟᱹᱨᱤ ᱜᱟᱯᱟᱞᱢᱟᱨᱟᱣ ᱨᱮ ᱦᱟᱹᱨᱥᱩᱲ ᱛᱩᱞᱩᱡ ᱦᱚᱸ ᱢᱳᱞᱫᱳᱵᱷᱟ ᱨᱮᱭᱟᱜ ᱱᱚᱣᱟ ᱠᱤᱱ ᱦᱤᱸᱥ ᱨᱮ ᱠᱟᱹᱣᱰᱤ ᱟᱹᱨᱤ ᱥᱟᱹᱜᱟᱹᱭ ᱟᱨᱦᱚᱸ ᱡᱤᱭᱟᱹᱲ ᱨᱩᱣᱟᱹᱲ ᱟᱠᱟᱱᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+politics
+REASONING SKILL:
+"
+"ᱩᱱ ᱚᱫᱷᱤᱠᱟᱨᱤ ᱠᱚ ᱥᱟᱶ, ᱩᱱᱠᱩ ᱴᱮᱠᱥᱚᱥ ᱨᱮᱭᱟᱜ ᱱᱟᱜᱽᱨᱤᱠ ᱠᱚ ᱟᱹᱥᱣᱟᱥᱚᱱ ᱠᱚ ᱮᱢᱟᱫ ᱠᱚᱣᱟ ᱡᱮ ᱦᱚᱲ ᱠᱚᱣᱟᱜ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱞᱟᱹᱜᱤᱫ ᱠᱟᱹᱢᱤ ᱦᱩᱭᱩᱜᱼᱟ᱾",politics,science/technology,"<|begin_of_text|>SENTENCE:
+ ᱩᱱ ᱚᱫᱷᱤᱠᱟᱨᱤ ᱠᱚ ᱥᱟᱶ, ᱩᱱᱠᱩ ᱴᱮᱠᱥᱚᱥ ᱨᱮᱭᱟᱜ ᱱᱟᱜᱽᱨᱤᱠ ᱠᱚ ᱟᱹᱥᱣᱟᱥᱚᱱ ᱠᱚ ᱮᱢᱟᱫ ᱠᱚᱣᱟ ᱡᱮ ᱦᱚᱲ ᱠᱚᱣᱟᱜ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱞᱟᱹᱜᱤᱫ ᱠᱟᱹᱢᱤ ᱦᱩᱭᱩᱜᱼᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science
+EXPLANATION:
+This sentence is about"
+ᱵᱮᱱᱟᱣ ᱫᱚᱦᱲᱟ ᱨᱮᱭᱟᱜ ᱯᱨᱚᱭᱟᱥ ᱨᱮᱭᱟᱜ ᱩᱫᱟᱨ ᱟᱞᱚᱪᱱᱟ ᱨᱮ ᱢᱮᱼᱢᱮᱱᱤᱡ ᱣᱟᱥᱤᱝᱴᱚᱱ ᱨᱤᱱᱤᱠ ᱵᱷᱤᱛᱨᱭ ᱥᱩᱛᱨᱚ ᱠᱚ ᱫᱩᱦᱲᱟᱹ ᱛᱮᱭᱟᱨ ᱠᱟᱨᱟᱣ ᱪᱷᱚ ᱞᱟᱹᱜᱩᱫ ᱫᱷᱭᱟᱱ ᱮᱢ ᱪᱷᱚ ᱠᱮᱜᱼᱟᱭ᱾,politics,N/A,"<|begin_of_text|>SENTENCE:
+ ᱵᱮᱱᱟᱣ ᱫᱚᱦᱲᱟ ᱨᱮᱭᱟᱜ ᱯᱨᱚᱭᱟᱥ ᱨᱮᱭᱟᱜ ᱩᱫᱟᱨ ᱟᱞᱚᱪᱱᱟ ᱨᱮ ᱢᱮᱼᱢᱮᱱᱤᱡ ᱣᱟᱥᱤᱝᱴᱚᱱ ᱨᱤᱱᱤᱠ ᱵᱷᱤᱛᱨᱭ ᱥᱩᱛᱨᱚ ᱠᱚ ᱫᱩᱦᱲᱟᱹ ᱛᱮᱭᱟᱨ ᱠᱟᱨᱟᱣ ᱪᱷᱚ ᱞᱟᱹᱜᱩᱫ ᱫᱷᱭᱟᱱ ᱮᱢ ᱪᱷᱚ ᱠᱮᱜᱼᱟᱭ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: None of the above
+REASONING SKILL"
+"᱒᱐᱑᱐ ᱨᱮᱭᱟᱜ ᱥᱚᱝᱜᱷᱤᱭᱚ ᱪᱩᱱᱟᱹᱣ ᱡᱷᱚᱜ, ᱑,᱔᱐᱐ ᱦᱚᱲ ᱠᱷᱚᱱ, ᱡᱟᱦᱟᱸᱭ ᱚᱥᱴᱨᱮᱞᱤᱭᱟ ᱨᱮᱭᱟᱜ ᱜᱚᱬᱨᱟᱡᱭᱚ ᱛᱮᱭᱟᱨ ᱨᱮᱭᱟᱜ ᱵᱤᱨᱚᱫᱷ ᱮᱫ ᱛᱟᱦᱮᱸᱡ ᱠᱚ, ᱒᱐᱐᱘ ᱨᱮ ᱘ ᱥᱚᱛ ᱠᱚ ᱰᱷᱮᱨ ᱮᱱᱟ ᱠᱚ᱾",politics,geography,"<|begin_of_text|>SENTENCE:
+ ᱒᱐᱑᱐ ᱨᱮᱭᱟᱜ ᱥᱚᱝᱜᱷᱤᱭᱚ ᱪᱩᱱᱟᱹᱣ ᱡᱷᱚᱜ, ᱑,᱔᱐᱐ ᱦᱚᱲ ᱠᱷᱚᱱ, ᱡᱟᱦᱟᱸᱭ ᱚᱥᱴᱨᱮᱞᱤᱭᱟ ᱨᱮᱭᱟᱜ ᱜᱚᱬᱨᱟᱡᱭᱚ ᱛᱮᱭᱟᱨ ᱨᱮᱭᱟᱜ ᱵᱤᱨᱚᱫᱷ ᱮᱫ ᱛᱟᱦᱮᱸᱡ ᱠᱚ, ᱒᱐᱐᱘ ᱨᱮ ᱘ ᱥᱚᱛ ᱠᱚ ᱰᱷᱮᱨ ᱮᱱᱟ ᱠᱚ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+�"
+ᱰᱤᱯᱞᱚᱢᱮᱴ ᱠᱚᱠᱚ ᱞᱟᱹᱭ ᱟᱠᱟᱫᱟ ᱡᱮ ᱨᱟᱱᱚᱯᱷ ᱵᱟᱝ ᱞᱟᱹᱠᱛᱤᱭᱟᱱ ᱞᱮᱠᱟᱛᱮ ᱴᱷᱟᱹᱣᱠᱟᱹ ᱞᱟᱹᱜᱤᱫ ᱩᱱᱠᱩ ᱟᱯᱷᱜᱟᱱ ᱥᱚᱝᱵᱤᱫᱷᱟᱱ ᱨᱮ ᱩᱱᱟᱹᱜ ᱜᱮ ᱮᱢᱵᱤᱜᱤᱣᱴᱤ ᱠᱚ ᱧᱟᱢ ᱟᱠᱟᱫᱟ᱾,politics,N/A,"<|begin_of_text|>SENTENCE:
+ ᱰᱤᱯᱞᱚᱢᱮᱴ ᱠᱚᱠᱚ ᱞᱟᱹᱭ ᱟᱠᱟᱫᱟ ᱡᱮ ᱨᱟᱱᱚᱯᱷ ᱵᱟᱝ ᱞᱟᱹᱠᱛᱤᱭᱟᱱ ᱞᱮᱠᱟᱛᱮ ᱴᱷᱟᱹᱣᱠᱟᱹ ᱞᱟᱹᱜᱤᱫ ᱩᱱᱠᱩ ᱟᱯᱷᱜᱟᱱ ᱥᱚᱝᱵᱤᱫᱷᱟᱱ ᱨᱮ ᱩᱱᱟᱹᱜ ᱜᱮ ᱮᱢᱵᱤᱜᱤᱣᱴᱤ ᱠᱚ ᱧᱟᱢ ᱟᱠᱟᱫᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: None of the above
+REASONING SKILL"
+"ᱚᱨᱡᱚ ᱚᱰᱚᱜ ᱮᱱ ᱛᱟᱭᱚᱢ, ᱜᱤᱝᱨᱤᱪ ᱥᱮᱱᱴᱚᱨᱟᱢ ᱮ ᱥᱟᱨᱦᱟᱣ ᱞᱮᱫᱮᱭᱟ, ᱨᱚᱢᱱᱤ ᱞᱟᱹᱜᱤᱫ ᱠᱮᱴᱮᱡ ᱟᱲᱟᱝ ᱛᱟᱦᱮᱸ ᱠᱟᱱᱟ, ᱡᱟᱦᱟᱸᱭ ᱯᱟᱥᱴᱟ ᱥᱮᱫ ᱠᱷᱚᱱ ᱟᱭᱳᱣᱟ ᱨᱮ ᱜᱤᱝᱨᱤᱪ ᱵᱤᱨᱩᱫᱽ ᱨᱮ ᱱᱮᱜᱮᱴᱤᱵᱷ ᱚᱵᱷᱤᱡᱟᱱ ᱮᱰᱵᱷᱟᱴᱟᱭᱤᱡᱽᱢᱮᱱᱴ ᱯᱟᱥᱱᱟᱣ ᱦᱩᱭ ᱞᱮᱱᱟ᱾",politics,entertainment,"<|begin_of_text|>SENTENCE:
+ ᱚᱨᱡᱚ ᱚᱰᱚᱜ ᱮᱱ ᱛᱟᱭᱚᱢ, ᱜᱤᱝᱨᱤᱪ ᱥᱮᱱᱴᱚᱨᱟᱢ ᱮ ᱥᱟᱨᱦᱟᱣ ᱞᱮᱫᱮᱭᱟ, ᱨᱚᱢᱱᱤ ᱞᱟᱹᱜᱤᱫ ᱠᱮᱴᱮᱡ ᱟᱲᱟᱝ ᱛᱟᱦᱮᱸ ᱠᱟᱱᱟ, ᱡᱟᱦᱟᱸᱭ ᱯᱟᱥᱴᱟ ᱥᱮᱫ ᱠᱷᱚᱱ ᱟᱭᱳᱣᱟ ᱨᱮ ᱜᱤᱝᱨᱤᱪ ᱵᱤᱨᱩᱫᱽ ᱨᱮ ᱱᱮᱜᱮᱴᱤᱵᱷ ᱚᱵᱷᱤᱡᱟᱱ ᱮᱰᱵᱷᱟᱴᱟᱭᱤᱡᱽᱢᱮᱱᱴ ᱯᱟᱥᱱᱟᱣ ᱦᱩᱭ ᱞᱮᱱᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+The"
+ᱱᱚᱶᱟ ᱫᱚ ᱯᱩᱱ ᱥᱮᱨᱢᱟ ᱨᱮ ᱢᱟᱨᱴᱮᱞᱤ ᱨᱮᱱᱟᱜ ᱢᱚᱬᱮᱭᱟᱜ ᱥᱤ ᱤ ᱯᱤ ᱠᱟᱱᱟ᱾,politics,N/A,"<|begin_of_text|>SENTENCE:
+ ᱱᱚᱶᱟ ᱫᱚ ᱯᱩᱱ ᱥᱮᱨᱢᱟ ᱨᱮ ᱢᱟᱨᱴᱮᱞᱤ ᱨᱮᱱᱟᱜ ᱢᱚᱬᱮᱭᱟᱜ ᱥᱤ ᱤ ᱯᱤ ᱠᱟᱱᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: None of the above 
+REASONING SKILL"
+"ᱚᱞᱚᱢᱯᱤᱠ ᱥᱟᱱᱟ ᱯᱚᱫᱟᱠ ᱵᱤᱡᱮᱛᱟ ᱫᱚ ᱡᱟᱹᱛᱤᱭᱟᱹᱨᱤ ᱢᱚᱱᱰᱟᱞ ᱠᱷᱮᱞ ᱨᱮ ᱑᱐᱐ ᱢᱤᱴᱚᱨ ᱟᱨ ᱒᱐᱐ ᱢᱤᱴᱚᱨ ᱯᱷᱨᱤᱥᱴᱟᱭᱤᱞ ᱟᱨ ᱯᱮᱭᱟ ᱨᱤᱠᱮ ᱨᱮ ᱛᱟᱦᱮᱸ ᱠᱟᱱᱟᱭ, ᱦᱮᱞᱮ ᱟᱡᱟᱜ ᱱᱟᱹᱞᱤᱥ ᱠᱷᱟᱹᱛᱤᱨ ᱛᱮ ᱟᱡᱟᱜ ᱯᱷᱩᱨᱛᱤ ᱥᱚᱱᱫᱮᱦ ᱨᱮ ᱢᱮᱱᱟᱜᱼᱟ᱾",sports,sports,"<|begin_of_text|>SENTENCE:
+ ᱚᱞᱚᱢᱯᱤᱠ ᱥᱟᱱᱟ ᱯᱚᱫᱟᱠ ᱵᱤᱡᱮᱛᱟ ᱫᱚ ᱡᱟᱹᱛᱤᱭᱟᱹᱨᱤ ᱢᱚᱱᱰᱟᱞ ᱠᱷᱮᱞ ᱨᱮ ᱑᱐᱐ ᱢᱤᱴᱚᱨ ᱟᱨ ᱒᱐᱐ ᱢᱤᱴᱚᱨ ᱯᱷᱨᱤᱥᱴᱟᱭᱤᱞ ᱟᱨ ᱯᱮᱭᱟ ᱨᱤᱠᱮ ᱨᱮ ᱛᱟᱦᱮᱸ ᱠᱟᱱᱟᱭ, ᱦᱮᱞᱮ ᱟᱡᱟᱜ ᱱᱟᱹᱞᱤᱥ ᱠᱷᱟᱹᱛᱤᱨ ᱛᱮ ᱟᱡᱟᱜ ᱯᱷᱩᱨᱛᱤ ᱥᱚᱱᱫᱮᱦ ᱨᱮ ᱢᱮᱱᱟᱜᱼᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+sports
+EXPLANATION:
+The sentence is"
+"ᱥᱟᱶᱛᱮ ᱜᱮ ᱢᱤᱫ ᱢᱟᱨᱮ ᱳᱞᱟᱢᱯᱤᱠ ᱟᱨ ᱡᱮᱜᱮᱫ ᱯᱟᱢᱯᱤᱭᱚᱱ, ᱥᱮᱴᱳ ᱟᱡᱟᱜ ᱜᱩᱨ ᱚᱠᱛᱮ ᱟᱹᱞ ᱡᱟᱯᱟᱱ ᱡᱩᱰᱳ ᱯᱷᱮᱰᱨᱮᱥᱟᱱ ᱯᱨᱚᱥᱤᱠᱷᱟᱱ ᱠᱩᱢᱩᱴ ᱨᱤᱱ ᱟᱫᱷᱭᱟᱪᱷ ᱠᱚ ᱛᱟᱦᱮᱸ ᱠᱟᱱᱟ᱾",sports,geography,"<|begin_of_text|>SENTENCE:
+ ᱥᱟᱶᱛᱮ ᱜᱮ ᱢᱤᱫ ᱢᱟᱨᱮ ᱳᱞᱟᱢᱯᱤᱠ ᱟᱨ ᱡᱮᱜᱮᱫ ᱯᱟᱢᱯᱤᱭᱚᱱ, ᱥᱮᱴᱳ ᱟᱡᱟᱜ ᱜᱩᱨ ᱚᱠᱛᱮ ᱟᱹᱞ ᱡᱟᱯᱟᱱ ᱡᱩᱰᱳ ᱯᱷᱮᱰᱨᱮᱥᱟᱱ ᱯᱨᱚᱥᱤᱠᱷᱟᱱ ᱠᱩᱢᱩᱴ ᱨᱤᱱ ᱟᱫᱷᱭᱟᱪᱷ ᱠᱚ ᱛᱟᱦᱮᱸ ᱠᱟᱱᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+"ᱛᱮᱦᱮᱧ ᱵᱚᱨᱞᱤᱱ ᱱᱚᱣᱟ ᱨᱮᱭᱟᱜ ᱮᱠᱡᱤᱠᱭᱩᱴᱤᱵᱽ ᱫᱩᱯᱲᱩᱵ ᱨᱮ ᱡᱮᱜᱮᱛᱟᱹᱨᱤ ᱚᱞᱚᱢᱯᱤᱠ ᱠᱩᱢᱩᱴ ᱫᱚ ᱱᱚᱣᱟ ᱠᱷᱮᱞ ᱥᱟᱹᱢᱤᱞ ᱞᱟᱹᱜᱤᱫ ᱵᱟᱪᱷᱚᱱ ᱟᱠᱟᱫ-ᱟᱭ᱾ ᱚᱞᱚᱢᱯᱤᱠ ᱨᱮ ᱥᱟᱹᱢᱤᱞ ᱵᱤᱪᱟᱹᱨ ᱞᱟᱹᱜᱤᱫ, ᱵᱤᱥᱮᱥᱠᱟᱭᱛᱮ ᱨᱳᱜᱽᱵᱤ ᱭᱩᱱᱤᱭᱳᱱ ᱮᱴᱟᱜ ᱢᱚᱬᱮ ᱜᱚᱴᱟᱝ ᱠᱷᱮᱞ ᱠᱷᱚᱱ ᱨᱳᱜᱽᱵᱤ ᱟᱨ ᱜᱚᱞᱯᱷ ᱠᱚ ᱵᱟᱪᱷᱚᱱ ᱟᱠᱟᱫ-ᱟI",sports,sports,"<|begin_of_text|>SENTENCE:
+ ᱛᱮᱦᱮᱧ ᱵᱚᱨᱞᱤᱱ ᱱᱚᱣᱟ ᱨᱮᱭᱟᱜ ᱮᱠᱡᱤᱠᱭᱩᱴᱤᱵᱽ ᱫᱩᱯᱲᱩᱵ ᱨᱮ ᱡᱮᱜᱮᱛᱟᱹᱨᱤ ᱚᱞᱚᱢᱯᱤᱠ ᱠᱩᱢᱩᱴ ᱫᱚ ᱱᱚᱣᱟ ᱠᱷᱮᱞ ᱥᱟᱹᱢᱤᱞ ᱞᱟᱹᱜᱤᱫ ᱵᱟᱪᱷᱚᱱ ᱟᱠᱟᱫ-ᱟᱭ᱾ ᱚᱞᱚᱢᱯᱤᱠ ᱨᱮ ᱥᱟᱹᱢᱤᱞ ᱵᱤᱪᱟᱹᱨ ᱞᱟᱹᱜᱤᱫ, ᱵᱤᱥᱮᱥᱠᱟᱭᱛᱮ ᱨᱳᱜᱽᱵᱤ ᱭᱩᱱᱤᱭᱳᱱ ᱮᱴᱟᱜ ᱢᱚᱬᱮ ᱜᱚᱴᱟᱝ ᱠᱷᱮᱞ ᱠᱷᱚᱱ ᱨᱳᱜᱽᱵᱤ ᱟᱨ ᱜᱚᱞᱯᱷ ᱠᱚ ᱵᱟᱪᱷᱚᱱ ᱟᱠᱟᱫ-ᱟI 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+sports
+EXPLANATION:
+The sentence is"
+ᱥᱟᱞ ᱨᱮᱭᱟᱜ ᱡᱚᱛᱚ ᱠᱷᱚᱱ ᱢᱟᱨᱟᱝ ᱴᱩᱨᱱᱟᱢᱮᱸᱴ ᱰᱤᱥᱮᱢᱵᱚᱨ ᱨᱮ ᱞᱟᱥ ᱠᱚᱱᱤᱴᱟᱥ ᱨᱮ ᱯᱚᱞᱚ ᱰᱟᱹᱦᱤ ᱨᱮ ᱦᱩᱭ ᱟᱹᱜᱩᱜ ᱠᱟᱱᱟI,sports,travel,"<|begin_of_text|>SENTENCE:
+ ᱥᱟᱞ ᱨᱮᱭᱟᱜ ᱡᱚᱛᱚ ᱠᱷᱚᱱ ᱢᱟᱨᱟᱝ ᱴᱩᱨᱱᱟᱢᱮᱸᱴ ᱰᱤᱥᱮᱢᱵᱚᱨ ᱨᱮ ᱞᱟᱥ ᱠᱚᱱᱤᱴᱟᱥ ᱨᱮ ᱯᱚᱞᱚ ᱰᱟᱹᱦᱤ ᱨᱮ ᱦᱩᱭ ᱟᱹᱜᱩᱜ ᱠᱟᱱᱟI 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+REASONING SKILL:
+"
+"ᱠᱮᱭᱴᱞᱟᱱ - ᱨᱟᱡᱽᱫᱷᱟᱱᱤ, ᱣᱤᱰᱟᱞ ᱨᱮ ᱠᱞᱟᱵᱽ ᱞᱟᱹᱜᱤᱫ ᱔᱙ ᱜᱚᱴᱝ ᱢᱣᱭᱪ ᱠᱷᱤᱞᱚᱸᱰ ᱞᱮᱱᱟᱭ᱾",sports,sports,"<|begin_of_text|>SENTENCE:
+ ᱠᱮᱭᱴᱞᱟᱱ - ᱨᱟᱡᱽᱫᱷᱟᱱᱤ, ᱣᱤᱰᱟᱞ ᱨᱮ ᱠᱞᱟᱵᱽ ᱞᱟᱹᱜᱤᱫ ᱔᱙ ᱜᱚᱴᱝ ᱢᱣᱭᱪ ᱠᱷᱤᱞᱚᱸᱰ ᱞᱮᱱᱟᱭ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+sports
+EXPLANATION:
+The sentence is"
+"ᱦᱮᱞᱫᱤ ᱮᱱᱟᱨᱡᱤ ᱵᱮᱱᱟᱣ ᱫᱚᱦᱚᱭ, ᱞᱟᱹᱠᱛᱤᱭᱟᱱ ᱦᱟᱭᱰᱨᱚᱡᱮᱱ ᱦᱮᱣᱟ ᱯᱨᱮᱠᱴᱤᱥ, ᱟᱨ ᱥᱟᱯᱞᱤᱢᱮᱱᱴᱮᱥᱚᱱ ᱯᱨᱮᱠᱴᱤᱥ ᱨᱮᱭᱟᱜ ᱱᱟᱱᱟᱼᱦᱩᱱᱟᱹᱨ ᱦᱚᱨᱟ ᱵᱩᱡᱷᱟᱹᱣ ᱠᱷᱮᱞᱚᱸᱰᱤᱭᱟᱹ ᱠᱚ ᱟᱠᱚᱣᱟᱜ ᱠᱟᱹᱢᱤ ᱫᱟᱲᱮ ᱩᱛᱱᱟᱹᱣ ᱟᱨ ᱠᱷᱮᱞᱚᱸᱰ ᱨᱮ ᱨᱟᱹᱥᱠᱟᱹ ᱵᱟᱲᱦᱟᱣ ᱨᱮᱭ ᱜᱚᱲᱚᱭᱟ᱾",sports,sports,"<|begin_of_text|>SENTENCE:
+ ᱦᱮᱞᱫᱤ ᱮᱱᱟᱨᱡᱤ ᱵᱮᱱᱟᱣ ᱫᱚᱦᱚᱭ, ᱞᱟᱹᱠᱛᱤᱭᱟᱱ ᱦᱟᱭᱰᱨᱚᱡᱮᱱ ᱦᱮᱣᱟ ᱯᱨᱮᱠᱴᱤᱥ, ᱟᱨ ᱥᱟᱯᱞᱤᱢᱮᱱᱴᱮᱥᱚᱱ ᱯᱨᱮᱠᱴᱤᱥ ᱨᱮᱭᱟᱜ ᱱᱟᱱᱟᱼᱦᱩᱱᱟᱹᱨ ᱦᱚᱨᱟ ᱵᱩᱡᱷᱟᱹᱣ ᱠᱷᱮᱞᱚᱸᱰᱤᱭᱟᱹ ᱠᱚ ᱟᱠᱚᱣᱟᱜ ᱠᱟᱹᱢᱤ ᱫᱟᱲᱮ ᱩᱛᱱᱟᱹᱣ ᱟᱨ ᱠᱷᱮᱞᱚᱸᱰ ᱨᱮ ᱨᱟᱹᱥᱠᱟᱹ ᱵᱟᱲᱦᱟᱣ ᱨᱮᱭ ᱜᱚᱲᱚᱭᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+sports
+EXPLANATION:
+The sentence is"
+"ᱵᱟᱨᱜᱮᱞ ᱯᱚᱭᱮᱸᱱᱴ ᱛᱟᱭᱚᱢ ᱨᱮ, ᱛᱚᱵᱮ ᱵᱚᱣᱭᱮᱨ ᱠᱷᱚᱱ ᱫᱚ ᱢᱚᱬᱮ ᱯᱚᱭᱮᱸᱱᱴ ᱞᱟᱦᱟ ᱨᱮ᱾ ᱠᱟᱦᱱᱮ ᱟᱨ ᱴᱨᱩᱠᱥ ᱡᱩᱱᱤᱭᱚᱨ ᱠᱨᱚᱢᱚᱥ ᱒,᱒᱒᱐ ᱟᱨ ᱒,᱒᱐᱗ ᱯᱚᱭᱮᱸᱱᱴ ᱥᱟᱶᱛᱮ ᱯᱩᱱᱟᱜ ᱟᱨ ᱢᱚᱬᱮᱭᱟᱱᱟᱜ ᱴᱷᱟᱶ ᱨᱮ ᱢᱮᱱᱟᱜ ᱠᱤᱱᱟI",sports,geography,"<|begin_of_text|>SENTENCE:
+ ᱵᱟᱨᱜᱮᱞ ᱯᱚᱭᱮᱸᱱᱴ ᱛᱟᱭᱚᱢ ᱨᱮ, ᱛᱚᱵᱮ ᱵᱚᱣᱭᱮᱨ ᱠᱷᱚᱱ ᱫᱚ ᱢᱚᱬᱮ ᱯᱚᱭᱮᱸᱱᱴ ᱞᱟᱦᱟ ᱨᱮ᱾ ᱠᱟᱦᱱᱮ ᱟᱨ ᱴᱨᱩᱠᱥ ᱡᱩᱱᱤᱭᱚᱨ ᱠᱨᱚᱢᱚᱥ ᱒,᱒᱒᱐ ᱟᱨ ᱒,᱒᱐᱗ ᱯᱚᱭᱮᱸᱱᱴ ᱥᱟᱶᱛᱮ ᱯᱩᱱᱟᱜ ᱟᱨ ᱢᱚᱬᱮᱭᱟᱱᱟᱜ ᱴᱷᱟᱶ ᱨᱮ ᱢᱮᱱᱟᱜ ᱠᱤᱱᱟI 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+ᱱᱟᱰᱟᱞ ᱟᱜ ᱵᱚᱦᱚᱜ ᱠᱟᱱᱟᱰᱤᱭᱟᱱ ᱟᱵ ᱠᱷᱤᱞᱟᱯ ᱦᱮᱢ ᱨᱤᱠᱚᱨᱰ ᱗–᱒ ᱢᱮᱱᱟᱜᱼᱟ᱾,sports,N/A,"<|begin_of_text|>SENTENCE:
+ ᱱᱟᱰᱟᱞ ᱟᱜ ᱵᱚᱦᱚᱜ ᱠᱟᱱᱟᱰᱤᱭᱟᱱ ᱟᱵ ᱠᱷᱤᱞᱟᱯ ᱦᱮᱢ ᱨᱤᱠᱚᱨᱰ ᱗–᱒ ᱢᱮᱱᱟᱜᱼᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: None of the above 
+REASONING SKILL"
+ᱡᱚᱨᱠ ᱫᱤᱱ ᱨᱮ ᱤᱴᱞᱤ ᱨᱮᱱᱟᱜ ᱠᱚᱣᱚᱨᱥᱤᱭᱟᱱᱚ ᱨᱮ ᱯᱨᱤ ᱥᱤᱡᱚᱱ ᱟᱹᱠᱤᱞ ᱮᱫ ᱛᱟᱦᱮᱱᱟᱭ᱾ ᱩᱱᱤ ᱥᱤᱸᱜᱮ ᱢᱟᱦᱟᱸ ᱦᱤᱞᱚᱜ ᱵᱚᱞᱚᱱᱤᱭᱟ ᱠᱷᱤᱞᱚᱯ ᱨᱮ ᱦᱩᱭᱩᱜ ᱟᱱᱟᱜ ᱢᱮᱪ ᱠᱷᱚᱱ ᱢᱟᱬᱟᱝ ᱴᱤᱢ ᱠᱚ ᱦᱚᱴᱮᱞ ᱨᱮᱠᱚ ᱡᱤᱨᱟᱹᱣ ᱞᱮᱱᱟ᱾,sports,travel,"<|begin_of_text|>SENTENCE:
+ ᱡᱚᱨᱠ ᱫᱤᱱ ᱨᱮ ᱤᱴᱞᱤ ᱨᱮᱱᱟᱜ ᱠᱚᱣᱚᱨᱥᱤᱭᱟᱱᱚ ᱨᱮ ᱯᱨᱤ ᱥᱤᱡᱚᱱ ᱟᱹᱠᱤᱞ ᱮᱫ ᱛᱟᱦᱮᱱᱟᱭ᱾ ᱩᱱᱤ ᱥᱤᱸᱜᱮ ᱢᱟᱦᱟᱸ ᱦᱤᱞᱚᱜ ᱵᱚᱞᱚᱱᱤᱭᱟ ᱠᱷᱤᱞᱚᱯ ᱨᱮ ᱦᱩᱭᱩᱜ ᱟᱱᱟᱜ ᱢᱮᱪ ᱠᱷᱚᱱ ᱢᱟᱬᱟᱝ ᱴᱤᱢ ᱠᱚ ᱦᱚᱴᱮᱞ ᱨᱮᱠᱚ ᱡᱤᱨᱟᱹᱣ ᱞᱮᱱᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The sentence"
+ᱯᱚᱨᱤᱣᱟᱦᱚᱱ ᱨᱮᱭᱟᱜ ᱠᱚᱢᱤ ᱵᱚᱛᱚᱨ ᱛᱮ ᱱᱟᱶᱟ ᱥᱚᱢᱵᱷᱟᱣᱱᱟ ᱵᱚᱰᱷᱟᱣ ᱠᱮᱜᱼᱟᱭ ᱡᱮ ᱫᱳᱞ ᱠᱚᱣᱟᱜ ᱥᱚᱢᱚᱨᱛᱷᱚᱱ ᱵᱤᱱᱟᱹ ᱨᱮ ᱠᱷᱮᱞ ᱫᱚ ᱵᱚᱸᱫ ᱫᱩᱣᱟᱹᱨ ᱛᱟᱭᱟᱢ ᱨᱮ ᱮᱱᱮᱡ ᱞᱟᱹᱜᱩᱫ ᱡᱩᱨ ᱮᱢᱟᱫ ᱠᱚᱣᱟ ᱠᱚ᱾,sports,N/A,"<|begin_of_text|>SENTENCE:
+ ᱯᱚᱨᱤᱣᱟᱦᱚᱱ ᱨᱮᱭᱟᱜ ᱠᱚᱢᱤ ᱵᱚᱛᱚᱨ ᱛᱮ ᱱᱟᱶᱟ ᱥᱚᱢᱵᱷᱟᱣᱱᱟ ᱵᱚᱰᱷᱟᱣ ᱠᱮᱜᱼᱟᱭ ᱡᱮ ᱫᱳᱞ ᱠᱚᱣᱟᱜ ᱥᱚᱢᱚᱨᱛᱷᱚᱱ ᱵᱤᱱᱟᱹ ᱨᱮ ᱠᱷᱮᱞ ᱫᱚ ᱵᱚᱸᱫ ᱫᱩᱣᱟᱹᱨ ᱛᱟᱭᱟᱢ ᱨᱮ ᱮᱱᱮᱡ ᱞᱟᱹᱜᱩᱫ ᱡᱩᱨ ᱮᱢᱟᱫ ᱠᱚᱣᱟ ᱠᱚ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: None of the above 
+REASONING SKILL"
+"ᱴᱚᱢᱤ ᱰᱨᱤᱢᱟᱨ ᱮ ᱞᱟᱹᱭ ᱟᱠᱟᱫᱟ ""ᱞᱩᱱᱟ ᱫᱚ ᱮᱠᱥᱴᱨᱤᱢ ᱨᱮᱱ ᱯᱩᱭᱞᱩ ᱨᱟᱹᱱᱤ ᱮ ᱛᱟᱦᱮᱸ ᱠᱟᱱᱟ᱾ ᱤᱧ ᱨᱮᱱ ᱯᱩᱭᱞᱩ ᱢᱮᱱᱮᱡᱟᱨ᱾ ᱞᱩᱱᱟ ᱫᱚᱥᱟᱨ ᱠᱩᱱᱟᱹᱢᱤ ᱨᱮᱭ ᱵᱚᱸᱜᱟ ᱛᱟᱞᱟ ᱮᱱᱟ᱾ ᱩᱱᱤ ᱞᱮᱠᱟ ᱜᱮ ᱟᱹᱰᱤ ᱪᱚᱨᱚᱠ᱾ ᱫᱟᱲᱮᱭᱟᱱ ᱛᱤᱨᱞᱟᱹ᱾""",sports,N/A,"<|begin_of_text|>SENTENCE:
+ ᱴᱚᱢᱤ ᱰᱨᱤᱢᱟᱨ ᱮ ᱞᱟᱹᱭ ᱟᱠᱟᱫᱟ ""ᱞᱩᱱᱟ ᱫᱚ ᱮᱠᱥᱴᱨᱤᱢ ᱨᱮᱱ ᱯᱩᱭᱞᱩ ᱨᱟᱹᱱᱤ ᱮ ᱛᱟᱦᱮᱸ ᱠᱟᱱᱟ᱾ ᱤᱧ ᱨᱮᱱ ᱯᱩᱭᱞᱩ ᱢᱮᱱᱮᱡᱟᱨ᱾ ᱞᱩᱱᱟ ᱫᱚᱥᱟᱨ ᱠᱩᱱᱟᱹᱢᱤ ᱨᱮᱭ ᱵᱚᱸᱜᱟ ᱛᱟᱞᱟ ᱮᱱᱟ᱾ ᱩᱱᱤ ᱞᱮᱠᱟ ᱜᱮ ᱟᱹᱰᱤ ᱪᱚᱨᱚᱠ᱾ ᱫᱟᱲᱮᱭᱟᱱ ᱛᱤᱨᱞᱟᱹ᱾"" 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: None of the above
+REASONING SKILL"
+ᱯᱚᱞᱮᱸᱰ ᱨᱤᱱ ᱠᱚᱲᱟ ᱨᱤᱱ ᱫᱤᱵᱭᱟᱝ ᱥᱠᱤᱭᱟᱹᱨ ᱢᱟᱥᱤᱡᱽ ᱠᱨᱮᱡᱮᱞ ᱟᱨ ᱜᱟᱭᱤᱰ ᱟᱱᱟ ᱚᱜᱟᱨᱡᱤᱱᱥᱠᱟ ᱥᱩᱯᱟᱹᱨ ᱡᱤ ᱨᱮ ᱜᱮᱯᱮ ᱛᱷᱟᱨ ᱨᱮ ᱛᱟᱦᱮᱸ ᱠᱟᱱᱟᱭ᱾ ᱠᱚᱸᱭᱮ ᱠᱚᱨᱤᱭᱟ ᱨᱮᱭᱟᱜ ᱡᱟᱝ ᱥᱤᱭᱚᱨᱠ ᱯᱟᱨᱠ ᱠᱚᱲᱟ ᱨᱮᱭᱟᱜ ᱥᱩᱯᱟᱹᱨ ᱡᱤ ᱫᱩᱯᱲᱩᱵ ᱨᱮ ᱵᱟᱜᱮᱢᱚᱬᱮ ᱛᱷᱟᱨ ᱨᱮ ᱛᱟᱦᱮᱸ ᱞᱮᱱᱟᱭ᱾,sports,N/A,"<|begin_of_text|>SENTENCE:
+ ᱯᱚᱞᱮᱸᱰ ᱨᱤᱱ ᱠᱚᱲᱟ ᱨᱤᱱ ᱫᱤᱵᱭᱟᱝ ᱥᱠᱤᱭᱟᱹᱨ ᱢᱟᱥᱤᱡᱽ ᱠᱨᱮᱡᱮᱞ ᱟᱨ ᱜᱟᱭᱤᱰ ᱟᱱᱟ ᱚᱜᱟᱨᱡᱤᱱᱥᱠᱟ ᱥᱩᱯᱟᱹᱨ ᱡᱤ ᱨᱮ ᱜᱮᱯᱮ ᱛᱷᱟᱨ ᱨᱮ ᱛᱟᱦᱮᱸ ᱠᱟᱱᱟᱭ᱾ ᱠᱚᱸᱭᱮ ᱠᱚᱨᱤᱭᱟ ᱨᱮᱭᱟᱜ ᱡᱟᱝ ᱥᱤᱭᱚᱨᱠ ᱯᱟᱨᱠ ᱠᱚᱲᱟ ᱨᱮᱭᱟᱜ ᱥᱩᱯᱟᱹᱨ ᱡᱤ ᱫᱩᱯᱲᱩᱵ ᱨᱮ ᱵᱟᱜᱮᱢᱚᱬᱮ ᱛᱷᱟᱨ ᱨᱮ ᱛᱟᱦᱮᱸ ᱞᱮᱱᱟᱭ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: None of the above
+REASONING SKILL"
+"ᱴᱩᱱᱟᱢᱮᱱᱴ ᱨᱮ ᱥᱚᱢᱟᱪᱟᱨ ᱞᱟᱹᱜᱤᱫ ᱯᱚᱞᱚ ᱢᱮᱪ ᱞᱟᱹᱜᱤᱫ ᱴᱤᱠᱚᱴ ᱚᱠᱟᱨᱮ ᱠᱤᱨᱤᱧᱟᱢ, ᱮᱥᱚᱥᱤᱭᱮᱥᱚᱱ ᱟᱨᱡᱮᱱᱴᱤᱱᱟ ᱰᱤ ᱯᱟᱞᱚ ᱨᱮ ᱡᱟᱧᱪ ᱢᱮ᱾",sports,science/technology,"<|begin_of_text|>SENTENCE:
+ ᱴᱩᱱᱟᱢᱮᱱᱴ ᱨᱮ ᱥᱚᱢᱟᱪᱟᱨ ᱞᱟᱹᱜᱤᱫ ᱯᱚᱞᱚ ᱢᱮᱪ ᱞᱟᱹᱜᱤᱫ ᱴᱤᱠᱚᱴ ᱚᱠᱟᱨᱮ ᱠᱤᱨᱤᱧᱟᱢ, ᱮᱥᱚᱥᱤᱭᱮᱥᱚᱱ ᱟᱨᱡᱮᱱᱴᱤᱱᱟ ᱰᱤ ᱯᱟᱞᱚ ᱨᱮ ᱡᱟᱧᱪ ᱢᱮ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science
+EXPLANATION:
+This sentence is about"
+"ᱠᱷᱮᱞ ᱠᱚᱫᱚ ᱑᱐:᱐᱐ ᱵᱟᱡᱮ ᱠᱷᱚᱱ ᱵᱮᱥ ᱯᱟᱜᱚ ᱥᱟᱞᱟᱜ ᱮᱦᱚᱵ ᱞᱮᱱᱟ ᱟᱨ ᱛᱟᱞᱟ ᱵᱟᱹᱥᱭᱟᱹᱢ ᱛᱮ ᱡᱷᱤᱯᱤᱨ ᱫᱟᱜ ᱡᱟᱹᱲᱤᱛᱮ ᱞᱚᱜᱚᱱ ᱜᱮ ᱥᱟᱯᱷᱟ ᱮᱱᱟ, ᱱᱚᱣᱟ ᱫᱚ ᱗'ᱟᱱᱟᱜ ᱨᱳᱜᱽᱵᱤ ᱞᱟᱹᱜᱤᱫ ᱵᱮᱥ ᱫᱤᱱ ᱛᱟᱦᱮᱸ ᱠᱟᱱᱟ।",sports,travel,"<|begin_of_text|>SENTENCE:
+ ᱠᱷᱮᱞ ᱠᱚᱫᱚ ᱑᱐:᱐᱐ ᱵᱟᱡᱮ ᱠᱷᱚᱱ ᱵᱮᱥ ᱯᱟᱜᱚ ᱥᱟᱞᱟᱜ ᱮᱦᱚᱵ ᱞᱮᱱᱟ ᱟᱨ ᱛᱟᱞᱟ ᱵᱟᱹᱥᱭᱟᱹᱢ ᱛᱮ ᱡᱷᱤᱯᱤᱨ ᱫᱟᱜ ᱡᱟᱹᱲᱤᱛᱮ ᱞᱚᱜᱚᱱ ᱜᱮ ᱥᱟᱯᱷᱟ ᱮᱱᱟ, ᱱᱚᱣᱟ ᱫᱚ ᱗'ᱟᱱᱟᱜ ᱨᱳᱜᱽᱵᱤ ᱞᱟᱹᱜᱤᱫ ᱵᱮᱥ ᱫᱤᱱ ᱛᱟᱦᱮᱸ ᱠᱟᱱᱟ। 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The sentence"
+ᱢᱮᱠᱥᱤᱠᱚ ᱨᱤᱱᱤᱡ ᱟᱹᱨᱞᱤ ᱣᱮᱞᱟᱥᱠᱮᱡᱽ ᱠᱚᱲᱟ ᱨᱮᱭᱟᱜ ᱥᱩᱯᱟᱹᱨ ᱡᱤ ᱨᱮ ᱜᱮᱢᱚᱬ ᱛᱷᱟᱨ ᱨᱮ ᱛᱟᱦᱮᱸ ᱠᱟᱱᱟ ᱠᱚ᱾ ᱠᱚᱲᱟ ᱠᱚᱣᱟᱜ ᱛᱤᱝᱜᱩᱱ ᱥᱩᱯᱟᱹᱨ ᱡᱤ ᱨᱤᱱ ᱮᱰᱟᱹᱢ ᱦᱟᱹᱞ ᱟᱨᱮ ᱛᱷᱟᱨ ᱨᱮ ᱛᱟᱦᱮᱸ ᱠᱟᱱᱟᱭ᱾,sports,N/A,"<|begin_of_text|>SENTENCE:
+ ᱢᱮᱠᱥᱤᱠᱚ ᱨᱤᱱᱤᱡ ᱟᱹᱨᱞᱤ ᱣᱮᱞᱟᱥᱠᱮᱡᱽ ᱠᱚᱲᱟ ᱨᱮᱭᱟᱜ ᱥᱩᱯᱟᱹᱨ ᱡᱤ ᱨᱮ ᱜᱮᱢᱚᱬ ᱛᱷᱟᱨ ᱨᱮ ᱛᱟᱦᱮᱸ ᱠᱟᱱᱟ ᱠᱚ᱾ ᱠᱚᱲᱟ ᱠᱚᱣᱟᱜ ᱛᱤᱝᱜᱩᱱ ᱥᱩᱯᱟᱹᱨ ᱡᱤ ᱨᱤᱱ ᱮᱰᱟᱹᱢ ᱦᱟᱹᱞ ᱟᱨᱮ ᱛᱷᱟᱨ ᱨᱮ ᱛᱟᱦᱮᱸ ᱠᱟᱱᱟᱭ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: None of the above 
+REASONING SKILL"
+"ᱥᱤᱨᱤᱡᱽ ᱨᱮᱱᱟᱜ ᱯᱷᱟᱭᱱᱟᱞ ᱢᱮᱭᱪ ᱫᱚᱥᱟᱨ ᱦᱟᱯᱛᱟ ᱡᱚᱦᱟᱱᱵᱟᱨᱜᱽ ᱨᱮᱱᱟᱜ ᱮᱞᱤᱥ ᱯᱟᱨᱠ ᱨᱮ ᱦᱩᱭᱩᱜᱼᱟ, ᱡᱚᱠᱷᱚᱱ ᱥᱯᱨᱤᱝᱜᱽᱵᱚᱠᱥ ᱟᱥᱴᱨᱮᱞᱤᱭᱟ ᱠᱷᱚᱱ ᱠᱚ ᱠᱷᱮᱞᱚᱜᱼᱟ᱾",sports,travel,"<|begin_of_text|>SENTENCE:
+ ᱥᱤᱨᱤᱡᱽ ᱨᱮᱱᱟᱜ ᱯᱷᱟᱭᱱᱟᱞ ᱢᱮᱭᱪ ᱫᱚᱥᱟᱨ ᱦᱟᱯᱛᱟ ᱡᱚᱦᱟᱱᱵᱟᱨᱜᱽ ᱨᱮᱱᱟᱜ ᱮᱞᱤᱥ ᱯᱟᱨᱠ ᱨᱮ ᱦᱩᱭᱩᱜᱼᱟ, ᱡᱚᱠᱷᱚᱱ ᱥᱯᱨᱤᱝᱜᱽᱵᱚᱠᱥ ᱟᱥᱴᱨᱮᱞᱤᱭᱟ ᱠᱷᱚᱱ ᱠᱚ ᱠᱷᱮᱞᱚᱜᱼᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The sentence"
+ᱵᱮᱥ ᱯᱚᱨᱤᱥᱛᱷᱤᱛᱤ ᱨᱮ ᱟᱢ ᱛᱟᱲᱟᱢ ᱨᱮᱭᱟᱜ ᱛᱤᱱᱟᱹᱜ ᱫᱷᱟᱹᱵᱤᱡ ᱜᱮ ᱰᱷᱮᱨ ᱡᱷᱟᱹᱞ ᱫᱷᱟᱹᱵᱤᱡ ᱪᱟᱞᱟᱜ ᱜᱟᱱᱟᱢ - ᱦᱮᱞᱮ ᱯᱟᱞᱮ ᱜᱮ ᱟᱵᱚ ᱠᱚ ᱫᱚ ᱟᱯᱮᱭᱟᱜ ᱜᱽᱨᱚᱢ ᱯᱚᱴᱨᱭ ᱨᱮ ᱵᱷᱚᱨᱟᱣ ᱠᱟᱱ ᱵᱮᱜᱽᱯᱮᱠ ᱨᱮᱭᱟᱜ ᱵᱤᱱᱟᱹ ᱛᱮ ᱠᱨᱚᱥ ᱫᱤᱥᱚᱢ ᱥᱠᱤ ᱨᱮᱛᱟᱜ ᱜᱚᱛᱤ ᱧᱟᱢ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ᱾,sports,N/A,"<|begin_of_text|>SENTENCE:
+ ᱵᱮᱥ ᱯᱚᱨᱤᱥᱛᱷᱤᱛᱤ ᱨᱮ ᱟᱢ ᱛᱟᱲᱟᱢ ᱨᱮᱭᱟᱜ ᱛᱤᱱᱟᱹᱜ ᱫᱷᱟᱹᱵᱤᱡ ᱜᱮ ᱰᱷᱮᱨ ᱡᱷᱟᱹᱞ ᱫᱷᱟᱹᱵᱤᱡ ᱪᱟᱞᱟᱜ ᱜᱟᱱᱟᱢ - ᱦᱮᱞᱮ ᱯᱟᱞᱮ ᱜᱮ ᱟᱵᱚ ᱠᱚ ᱫᱚ ᱟᱯᱮᱭᱟᱜ ᱜᱽᱨᱚᱢ ᱯᱚᱴᱨᱭ ᱨᱮ ᱵᱷᱚᱨᱟᱣ ᱠᱟᱱ ᱵᱮᱜᱽᱯᱮᱠ ᱨᱮᱭᱟᱜ ᱵᱤᱱᱟᱹ ᱛᱮ ᱠᱨᱚᱥ ᱫᱤᱥᱚᱢ ᱥᱠᱤ ᱨᱮᱛᱟᱜ ᱜᱚᱛᱤ ᱧᱟᱢ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: None of the above
+REASONING SKILL"
+"ᱮᱭᱟᱭ ᱯᱚᱭᱮᱱᱴ ᱛᱟᱭᱚᱢ, ᱒,᱒᱔᱓ ᱯᱚᱭᱮᱱᱴ ᱥᱟᱶᱛᱮ ᱡᱚᱱᱥᱚᱱ ᱫᱚᱥᱟᱨ ᱴᱷᱟᱶ ᱨᱮ ᱢᱮᱱᱮᱭᱟ᱾",sports,travel,"<|begin_of_text|>SENTENCE:
+ ᱮᱭᱟᱭ ᱯᱚᱭᱮᱱᱴ ᱛᱟᱭᱚᱢ, ᱒,᱒᱔᱓ ᱯᱚᱭᱮᱱᱴ ᱥᱟᱶᱛᱮ ᱡᱚᱱᱥᱚᱱ ᱫᱚᱥᱟᱨ ᱴᱷᱟᱶ ᱨᱮ ᱢᱮᱱᱮᱭᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+travel
+EXPLANATION:
+The sentence is"
+"ᱠᱮᱱᱭᱚᱱᱤᱝ (ᱟᱨ ᱵᱟᱝ: ᱠᱮᱱᱭᱚᱱᱟᱹᱨᱤᱝ) ᱢᱤᱫᱴᱟᱹᱝ ᱜᱷᱟᱹᱴᱤ ᱞᱟᱛᱟᱨ ᱨᱮ ᱪᱟᱞᱟᱣᱜ ᱨᱮᱭᱟᱜ ᱢᱮᱱᱟᱜᱼᱟ, ᱚᱠᱟ ᱫᱚ ᱫᱟᱜ ᱛᱮ ᱯᱮᱨᱮᱡ ᱠᱟᱱᱟ᱾",sports,science/technology,"<|begin_of_text|>SENTENCE:
+ ᱠᱮᱱᱭᱚᱱᱤᱝ (ᱟᱨ ᱵᱟᱝ: ᱠᱮᱱᱭᱚᱱᱟᱹᱨᱤᱝ) ᱢᱤᱫᱴᱟᱹᱝ ᱜᱷᱟᱹᱴᱤ ᱞᱟᱛᱟᱨ ᱨᱮ ᱪᱟᱞᱟᱣᱜ ᱨᱮᱭᱟᱜ ᱢᱮᱱᱟᱜᱼᱟ, ᱚᱠᱟ ᱫᱚ ᱫᱟᱜ ᱛᱮ ᱯᱮᱨᱮᱡ ᱠᱟᱱᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science
+EXPLANATION:
+This question requires in"
+ᱨᱳᱵᱤᱱ ᱩᱛᱷᱯᱯᱟ ᱫᱚ ᱢᱚᱦᱚᱡ ᱔᱑ ᱜᱮᱸᱫᱟ ᱨᱮ ᱑᱑ ᱪᱟᱹᱣᱠᱟᱹ ᱟᱨ ᱒ ᱪᱷᱟᱠᱠᱟ ᱨᱮᱱᱟᱝ ᱜᱚᱲᱚ ᱛᱮ ᱗᱐ ᱨᱚᱱ ᱵᱮᱱᱟᱣ ᱠᱟᱛᱮ ᱯᱟᱹᱨᱤ ᱨᱮᱱᱟᱝ ᱥᱟᱣᱳᱨᱪ ᱥᱠᱚᱨ ᱵᱮᱱᱟᱣ ᱠᱮᱫᱟ᱾,sports,geography,"<|begin_of_text|>SENTENCE:
+ ᱨᱳᱵᱤᱱ ᱩᱛᱷᱯᱯᱟ ᱫᱚ ᱢᱚᱦᱚᱡ ᱔᱑ ᱜᱮᱸᱫᱟ ᱨᱮ ᱑᱑ ᱪᱟᱹᱣᱠᱟᱹ ᱟᱨ ᱒ ᱪᱷᱟᱠᱠᱟ ᱨᱮᱱᱟᱝ ᱜᱚᱲᱚ ᱛᱮ ᱗᱐ ᱨᱚᱱ ᱵᱮᱱᱟᱣ ᱠᱟᱛᱮ ᱯᱟᱹᱨᱤ ᱨᱮᱱᱟᱝ ᱥᱟᱣᱳᱨᱪ ᱥᱠᱚᱨ ᱵᱮᱱᱟᱣ ᱠᱮᱫᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+"ᱮᱛᱚᱢ ᱯᱟᱦᱴᱟ ᱨᱮ ᱨᱟᱵᱟᱝ ᱠᱷᱮᱞ ᱡᱷᱚᱛᱚ ᱠᱷᱚᱱ ᱧᱩᱛᱩᱢᱟᱱ ᱠᱟᱱᱟ, ᱤᱴᱟᱞᱤᱭᱟᱹᱱ ᱡᱮᱜᱮᱛᱤᱭᱟᱹ ᱠᱷᱮᱞ ᱟᱨ ᱟᱞᱮᱢᱯᱤᱠ ᱟᱹᱭᱚᱡᱚᱱ ᱨᱮ ᱦᱮᱯᱨᱟᱣ ᱠᱚ ᱠᱚᱨᱟᱣᱟ᱾",sports,sports,"<|begin_of_text|>SENTENCE:
+ ᱮᱛᱚᱢ ᱯᱟᱦᱴᱟ ᱨᱮ ᱨᱟᱵᱟᱝ ᱠᱷᱮᱞ ᱡᱷᱚᱛᱚ ᱠᱷᱚᱱ ᱧᱩᱛᱩᱢᱟᱱ ᱠᱟᱱᱟ, ᱤᱴᱟᱞᱤᱭᱟᱹᱱ ᱡᱮᱜᱮᱛᱤᱭᱟᱹ ᱠᱷᱮᱞ ᱟᱨ ᱟᱞᱮᱢᱯᱤᱠ ᱟᱹᱭᱚᱡᱚᱱ ᱨᱮ ᱦᱮᱯᱨᱟᱣ ᱠᱚ ᱠᱚᱨᱟᱣᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+sports
+EXPLANATION:
+The sentence is"
+"ᱢᱟᱨᱩᱪᱤᱰᱚᱨ ᱥᱤᱲᱷᱤ ᱪᱮᱛᱟᱱᱨᱮ ᱨᱮ ᱪᱟᱵᱟ ᱦᱩᱭ ᱟᱠᱟᱱ ᱛᱟᱦᱮᱸ ᱠᱟᱱᱟ, ᱫᱚᱥᱟᱨ ᱨᱮ ᱱᱩᱥᱟ ᱠᱷᱚᱱ ᱛᱩᱨᱩᱭ ᱮᱞ ᱥᱚᱫᱚᱨ ᱜᱮᱭᱟ᱾",sports,N/A,"<|begin_of_text|>SENTENCE:
+ ᱢᱟᱨᱩᱪᱤᱰᱚᱨ ᱥᱤᱲᱷᱤ ᱪᱮᱛᱟᱱᱨᱮ ᱨᱮ ᱪᱟᱵᱟ ᱦᱩᱭ ᱟᱠᱟᱱ ᱛᱟᱦᱮᱸ ᱠᱟᱱᱟ, ᱫᱚᱥᱟᱨ ᱨᱮ ᱱᱩᱥᱟ ᱠᱷᱚᱱ ᱛᱩᱨᱩᱭ ᱮᱞ ᱥᱚᱫᱚᱨ ᱜᱮᱭᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: None of the above 
+REASONING SKILL"
+"ᱢᱟᱭᱠᱮᱞ ᱥᱩᱢᱟᱠᱟᱨ ᱮᱞᱚᱱᱥᱳ ᱛᱟᱭᱚᱢ ᱜᱮ ᱟᱡᱟᱜ ᱨᱮᱥ ᱨᱮ ᱢᱩᱪᱟᱹᱫ ᱞᱮᱫᱟ, ᱪᱮᱫᱟᱜ ᱥᱮ ᱨᱮᱥ ᱚᱠᱛᱚ ᱱᱟᱱᱟᱼᱦᱩᱱᱟᱹᱨ ᱞᱟᱹᱰᱷᱟᱹᱭ ᱥᱟᱥᱯᱮᱱᱥᱟᱱ ᱰᱮᱢᱮᱡᱽ ᱮᱱ ᱠᱷᱟᱹᱛᱤᱨ᱾",sports,politics,"<|begin_of_text|>SENTENCE:
+ ᱢᱟᱭᱠᱮᱞ ᱥᱩᱢᱟᱠᱟᱨ ᱮᱞᱚᱱᱥᱳ ᱛᱟᱭᱚᱢ ᱜᱮ ᱟᱡᱟᱜ ᱨᱮᱥ ᱨᱮ ᱢᱩᱪᱟᱹᱫ ᱞᱮᱫᱟ, ᱪᱮᱫᱟᱜ ᱥᱮ ᱨᱮᱥ ᱚᱠᱛᱚ ᱱᱟᱱᱟᱼᱦᱩᱱᱟᱹᱨ ᱞᱟᱹᱰᱷᱟᱹᱭ ᱥᱟᱥᱯᱮᱱᱥᱟᱱ ᱰᱮᱢᱮᱡᱽ ᱮᱱ ᱠᱷᱟᱹᱛᱤᱨ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+The sentence"
+"ᱠᱷᱟᱹᱞᱤ ᱡᱚᱛᱷᱟᱛ ᱯᱩᱥᱴᱤ ᱯᱨᱮᱠᱴᱤᱥ ᱮᱞᱤᱴ ᱯᱟᱹᱨᱯᱷᱚᱨᱢᱮᱱᱥ ᱵᱟᱭ ᱛᱮᱭᱟᱨ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ, ᱛᱚᱵᱮ ᱚᱱᱟ ᱠᱚ ᱡᱩᱣᱟᱹᱱ ᱠᱷᱮᱞᱚᱸᱰᱤᱭᱟᱹᱣᱟᱜ ᱜᱚᱴᱟ ᱜᱩᱴᱤ ᱣᱮᱞᱱᱮᱥ ᱵᱷᱟᱜᱮ ᱞᱮᱠᱟᱭ ᱚᱨᱥᱚᱝ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ᱾",sports,sports,"<|begin_of_text|>SENTENCE:
+ ᱠᱷᱟᱹᱞᱤ ᱡᱚᱛᱷᱟᱛ ᱯᱩᱥᱴᱤ ᱯᱨᱮᱠᱴᱤᱥ ᱮᱞᱤᱴ ᱯᱟᱹᱨᱯᱷᱚᱨᱢᱮᱱᱥ ᱵᱟᱭ ᱛᱮᱭᱟᱨ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ, ᱛᱚᱵᱮ ᱚᱱᱟ ᱠᱚ ᱡᱩᱣᱟᱹᱱ ᱠᱷᱮᱞᱚᱸᱰᱤᱭᱟᱹᱣᱟᱜ ᱜᱚᱴᱟ ᱜᱩᱴᱤ ᱣᱮᱞᱱᱮᱥ ᱵᱷᱟᱜᱮ ᱞᱮᱠᱟᱭ ᱚᱨᱥᱚᱝ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+sports
+EXPLANATION:
+The sentence is"
+ᱩᱱᱤ ᱟᱡᱟᱜ ᱫᱚᱨᱫ ᱠᱚᱢ ᱞᱟᱹᱜᱤᱫ ᱡᱟᱹᱨᱩᱲ ᱨᱟᱱ ᱵᱟᱝ ᱤᱫᱤ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱪᱮᱫᱟᱜ ᱥᱮ ᱩᱱᱤ ᱫᱚ ᱠᱷᱮᱞ ᱠᱷᱚᱱ ᱠᱚ ᱵᱟᱫ ᱠᱮᱭᱮᱭᱟ ᱠᱚ᱾,sports,N/A,"<|begin_of_text|>SENTENCE:
+ ᱩᱱᱤ ᱟᱡᱟᱜ ᱫᱚᱨᱫ ᱠᱚᱢ ᱞᱟᱹᱜᱤᱫ ᱡᱟᱹᱨᱩᱲ ᱨᱟᱱ ᱵᱟᱝ ᱤᱫᱤ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱪᱮᱫᱟᱜ ᱥᱮ ᱩᱱᱤ ᱫᱚ ᱠᱷᱮᱞ ᱠᱷᱚᱱ ᱠᱚ ᱵᱟᱫ ᱠᱮᱭᱮᱭᱟ ᱠᱚ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: None of the above 
+REASONING SKILL"
+ᱥᱚᱫᱷ ᱨᱮ ᱵᱟᱲᱟᱭ ᱞᱮᱱᱟ ᱡᱮ ᱠᱚᱲᱟ ᱨᱟᱭᱟᱜ ᱛᱩᱞᱱᱟᱹ ᱨᱮ ᱠᱩᱲᱤ ᱨᱮ ᱮᱢᱹᱮᱥᱹ ᱛᱟᱦᱮᱸ ᱨᱮᱭᱟᱜ ᱥᱚᱢᱵᱷᱟᱣᱱᱟ ᱫᱚ ᱜᱩᱱᱟᱹ ᱰᱷᱮᱨ ᱜᱮ ᱛᱟᱦᱮᱸᱱ ᱠᱟᱱᱟ᱾,health,science/technology,"<|begin_of_text|>SENTENCE:
+ ᱥᱚᱫᱷ ᱨᱮ ᱵᱟᱲᱟᱭ ᱞᱮᱱᱟ ᱡᱮ ᱠᱚᱲᱟ ᱨᱟᱭᱟᱜ ᱛᱩᱞᱱᱟᱹ ᱨᱮ ᱠᱩᱲᱤ ᱨᱮ ᱮᱢᱹᱮᱥᱹ ᱛᱟᱦᱮᱸ ᱨᱮᱭᱟᱜ ᱥᱚᱢᱵᱷᱟᱣᱱᱟ ᱫᱚ ᱜᱩᱱᱟᱹ ᱰᱷᱮᱨ ᱜᱮ ᱛᱟᱦᱮᱸᱱ ᱠᱟᱱᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science
+EXPLANATION:
+This sentence is about"
+"ᱢᱮᱛᱷᱟᱱᱩᱞ ᱞᱮᱠᱟᱱᱟᱜ ᱟᱭᱢᱟ ᱵᱟᱹᱲᱤᱡ ᱡᱤᱱᱤᱥ ᱠᱚ ᱢᱮᱥᱟ ᱟᱛᱮ ᱵᱮᱱᱟᱣ ᱟᱠᱟᱱ ᱤᱞᱤᱜᱟᱞ ᱥᱯᱤᱨᱤᱴ, ᱡᱟᱦᱟᱸ ᱫᱚ ᱠᱟᱬᱟᱜ ᱨᱮᱭᱟᱜ ᱠᱟᱨᱚᱱ ᱟᱨᱵᱟᱝ ᱠᱚᱢ ᱰᱳᱡᱽ ᱧᱩ ᱛᱮᱦᱚᱸ ᱜᱩᱡ ᱦᱩᱭ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ᱾",health,science/technology,"<|begin_of_text|>SENTENCE:
+ ᱢᱮᱛᱷᱟᱱᱩᱞ ᱞᱮᱠᱟᱱᱟᱜ ᱟᱭᱢᱟ ᱵᱟᱹᱲᱤᱡ ᱡᱤᱱᱤᱥ ᱠᱚ ᱢᱮᱥᱟ ᱟᱛᱮ ᱵᱮᱱᱟᱣ ᱟᱠᱟᱱ ᱤᱞᱤᱜᱟᱞ ᱥᱯᱤᱨᱤᱴ, ᱡᱟᱦᱟᱸ ᱫᱚ ᱠᱟᱬᱟᱜ ᱨᱮᱭᱟᱜ ᱠᱟᱨᱚᱱ ᱟᱨᱵᱟᱝ ᱠᱚᱢ ᱰᱳᱡᱽ ᱧᱩ ᱛᱮᱦᱚᱸ ᱜᱩᱡ ᱦᱩᱭ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science
+REASONING SKILL:
+ This question"
+"ᱱᱤᱭᱚᱢᱤᱛ ᱦᱟᱹᱯᱛᱟᱹ ᱥᱚᱝᱨᱚᱪᱤᱛ ᱯᱤᱹᱮᱹ ᱨᱮᱭᱟᱜ ᱯᱨᱚᱜᱽᱨᱟᱢ ᱞᱟᱹᱜᱤᱫ ᱠᱷᱟᱹᱞᱤ ᱵᱤᱱᱟᱹᱥᱠᱟᱹᱨᱤ ᱯᱨᱚᱵᱷᱟᱣ, ᱟᱹᱣᱥᱟᱹᱫ ᱟᱨ ᱵᱚᱛᱚᱨ ᱵᱟᱝ ᱛᱟᱦᱮᱸ ᱠᱟᱱᱟ᱾",health,N/A,"<|begin_of_text|>SENTENCE:
+ ᱱᱤᱭᱚᱢᱤᱛ ᱦᱟᱹᱯᱛᱟᱹ ᱥᱚᱝᱨᱚᱪᱤᱛ ᱯᱤᱹᱮᱹ ᱨᱮᱭᱟᱜ ᱯᱨᱚᱜᱽᱨᱟᱢ ᱞᱟᱹᱜᱤᱫ ᱠᱷᱟᱹᱞᱤ ᱵᱤᱱᱟᱹᱥᱠᱟᱹᱨᱤ ᱯᱨᱚᱵᱷᱟᱣ, ᱟᱹᱣᱥᱟᱹᱫ ᱟᱨ ᱵᱚᱛᱚᱨ ᱵᱟᱝ ᱛᱟᱦᱮᱸ ᱠᱟᱱᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: None of the above
+REASONING SKILL"
+"ᱞᱟᱴᱩ ᱚᱠᱚᱡᱛᱮ ᱠᱟᱨ ᱨᱮᱱ ᱢᱟᱞᱤᱠ ᱛᱮ ᱥᱚᱲᱚᱠ ᱨᱮ ᱫᱩᱨᱜᱷᱟᱴᱱᱟ ᱠᱚ ᱨᱮᱭᱟᱜ ᱵᱟᱲᱛᱤ ᱜᱷᱚᱴᱚᱱᱟ ᱦᱩᱭᱩᱜ ᱠᱟᱱᱟ, ᱡᱟᱦᱟ ᱨᱮ ᱦᱟᱹᱱ ᱟᱠᱟᱱ ᱡᱤᱱᱤᱥ ᱠᱚ ᱨᱮᱭᱟᱜ ᱢᱟᱨᱟᱢᱚᱛ ᱞᱟᱹᱜᱤᱫ ᱥᱣᱟᱥᱛᱷᱭᱚ ᱫᱮᱠᱷᱵᱷᱟᱞ ᱨᱮ ᱱᱟᱣᱟ ᱛᱟᱠᱱᱤᱠ ᱠᱚ ᱨᱮᱭᱟᱜ ᱜᱚᱲᱦᱚᱱ ᱦᱩᱭᱩᱜ ᱠᱟᱱᱟ᱾",health,N/A,"<|begin_of_text|>SENTENCE:
+ ᱞᱟᱴᱩ ᱚᱠᱚᱡᱛᱮ ᱠᱟᱨ ᱨᱮᱱ ᱢᱟᱞᱤᱠ ᱛᱮ ᱥᱚᱲᱚᱠ ᱨᱮ ᱫᱩᱨᱜᱷᱟᱴᱱᱟ ᱠᱚ ᱨᱮᱭᱟᱜ ᱵᱟᱲᱛᱤ ᱜᱷᱚᱴᱚᱱᱟ ᱦᱩᱭᱩᱜ ᱠᱟᱱᱟ, ᱡᱟᱦᱟ ᱨᱮ ᱦᱟᱹᱱ ᱟᱠᱟᱱ ᱡᱤᱱᱤᱥ ᱠᱚ ᱨᱮᱭᱟᱜ ᱢᱟᱨᱟᱢᱚᱛ ᱞᱟᱹᱜᱤᱫ ᱥᱣᱟᱥᱛᱷᱭᱚ ᱫᱮᱠᱷᱵᱷᱟᱞ ᱨᱮ ᱱᱟᱣᱟ ᱛᱟᱠᱱᱤᱠ ᱠᱚ ᱨᱮᱭᱟᱜ ᱜᱚᱲᱦᱚᱱ ᱦᱩᱭᱩᱜ ᱠᱟᱱᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: None of the above
+REASONING SKILL"
+"ᱢᱟᱬᱟᱝ-ᱟᱱ ᱥᱮᱱᱫᱽᱨᱟᱠᱤᱭᱟᱹ ᱠᱚᱣᱟᱜ ᱢᱮᱱ ᱫᱚ ᱠᱷᱟᱴᱚ ᱟᱨᱡᱟᱣ ᱫᱤᱥᱚᱢ ᱠᱚᱨᱮ ᱱᱚᱶᱟ ᱫᱚ ᱟᱡᱟᱨᱤᱭᱟᱹ ᱠᱚᱣᱟᱜ ᱠᱮᱱᱥᱟᱨ, ᱴᱭᱩᱵᱮᱨᱠᱭᱩᱞᱚᱥᱤᱥ, ᱮᱪ.ᱟᱭ.ᱵᱷᱤ. ᱟᱨ ᱢᱮᱞᱮᱨᱤᱭᱟᱹ ᱠᱚᱭ ᱥᱟᱵᱽ-ᱟ, ᱡᱟᱦᱟᱸ ᱨᱮ ᱵᱨᱮᱥᱴ ᱠᱮᱱᱥᱟᱨ ᱛᱮ ᱜᱩᱡᱩᱜ ᱦᱚᱲ ᱠᱤᱥᱟᱹᱬ ᱫᱤᱥᱚᱢ ᱠᱷᱚᱱ ᱟᱫᱷᱟᱜ ᱦᱩᱭ ᱫᱟᱲᱮᱭᱟᱜ-ᱟ᱾",health,geography,"<|begin_of_text|>SENTENCE:
+ ᱢᱟᱬᱟᱝ-ᱟᱱ ᱥᱮᱱᱫᱽᱨᱟᱠᱤᱭᱟᱹ ᱠᱚᱣᱟᱜ ᱢᱮᱱ ᱫᱚ ᱠᱷᱟᱴᱚ ᱟᱨᱡᱟᱣ ᱫᱤᱥᱚᱢ ᱠᱚᱨᱮ ᱱᱚᱶᱟ ᱫᱚ ᱟᱡᱟᱨᱤᱭᱟᱹ ᱠᱚᱣᱟᱜ ᱠᱮᱱᱥᱟᱨ, ᱴᱭᱩᱵᱮᱨᱠᱭᱩᱞᱚᱥᱤᱥ, ᱮᱪ.ᱟᱭ.ᱵᱷᱤ. ᱟᱨ ᱢᱮᱞᱮᱨᱤᱭᱟᱹ ᱠᱚᱭ ᱥᱟᱵᱽ-ᱟ, ᱡᱟᱦᱟᱸ ᱨᱮ ᱵᱨᱮᱥᱴ ᱠᱮᱱᱥᱟᱨ ᱛᱮ ᱜᱩᱡᱩᱜ ᱦᱚᱲ ᱠᱤᱥᱟᱹᱬ ᱫᱤᱥᱚᱢ ᱠᱷᱚᱱ ᱟᱫᱷᱟᱜ ᱦᱩᱭ ᱫᱟᱲᱮᱭᱟᱜ-ᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+�"
+"ᱰᱨᱹ ᱮᱦᱩᱫᱽ ᱩᱨ, ᱦᱟᱞᱤᱯᱷᱟᱠᱥ ᱨᱮᱭᱟᱜ ᱰᱟᱞᱦᱟᱣᱥᱤ ᱵᱤᱨᱫᱟᱹᱜᱟᱲ ᱨᱤᱱᱤᱡ ᱢᱮᱰᱤᱥᱤᱱ ᱯᱨᱚᱯᱷᱮᱥᱟᱨ, ᱱᱚᱣᱟ ᱥᱠᱚᱴᱤᱭᱟ ᱟᱨ ᱪᱮᱭᱟᱨ ᱚᱯᱷ ᱠᱞᱤᱱᱤᱠᱟᱞ ᱟᱨ ᱠᱟᱱᱟᱰᱤᱭᱟᱱ ᱰᱟᱭᱵᱮᱴᱤᱥ ᱜᱟᱶᱛᱟ ᱨᱮᱭᱟᱜ ᱥᱟᱬᱮᱥᱤᱭᱟᱹ ᱪᱟᱸᱜᱟ ᱠᱚ ᱥᱟᱣᱫᱷᱟᱱ ᱟᱠᱟᱫᱟ ᱡᱮ ᱠᱷᱚᱡᱽ ᱫᱚ ᱮᱛᱚᱦᱚᱵ ᱢᱟᱦᱟᱸ ᱨᱮᱜᱮ ᱢᱮᱱᱟᱜᱼᱟ᱾",health,science/technology,"<|begin_of_text|>SENTENCE:
+ ᱰᱨᱹ ᱮᱦᱩᱫᱽ ᱩᱨ, ᱦᱟᱞᱤᱯᱷᱟᱠᱥ ᱨᱮᱭᱟᱜ ᱰᱟᱞᱦᱟᱣᱥᱤ ᱵᱤᱨᱫᱟᱹᱜᱟᱲ ᱨᱤᱱᱤᱡ ᱢᱮᱰᱤᱥᱤᱱ ᱯᱨᱚᱯᱷᱮᱥᱟᱨ, ᱱᱚᱣᱟ ᱥᱠᱚᱴᱤᱭᱟ ᱟᱨ ᱪᱮᱭᱟᱨ ᱚᱯᱷ ᱠᱞᱤᱱᱤᱠᱟᱞ ᱟᱨ ᱠᱟᱱᱟᱰᱤᱭᱟᱱ ᱰᱟᱭᱵᱮᱴᱤᱥ ᱜᱟᱶᱛᱟ ᱨᱮᱭᱟᱜ ᱥᱟᱬᱮᱥᱤᱭᱟᱹ ᱪᱟᱸᱜᱟ ᱠᱚ ᱥᱟᱣᱫᱷᱟᱱ ᱟᱠᱟᱫᱟ ᱡᱮ ᱠᱷᱚᱡᱽ ᱫᱚ ᱮᱛᱚᱦᱚᱵ ᱢᱟᱦᱟᱸ ᱨᱮᱜᱮ ᱢᱮᱱᱟᱜᱼᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science
+EXPLANATION:
+The sentence is about"
+"ᱱᱩᱠᱩ ᱜᱤᱫᱽᱨᱟᱹ ᱟᱹᱰᱤ ᱢᱩᱥᱠᱤᱞ ᱨᱮ ᱯᱟᱲᱟᱣᱜ ᱠᱟᱱᱟ ᱠᱚ, ᱪᱮᱫᱟᱜ ᱥᱮ ᱩᱱᱠᱩ ᱫᱚ ᱟᱠᱚᱣᱟᱜ ᱵᱷᱮᱡᱟ ᱩᱛᱮᱡᱤᱛ ᱩᱠᱥᱟᱹᱣ ᱞᱟᱹᱜᱤᱫ ""ᱠᱷᱟᱛᱨᱟ ᱠᱟᱹᱭ ᱠᱚ ᱠᱚᱨᱟᱣᱟ, ᱛᱟᱯᱟᱢ ᱨᱮ ᱯᱟᱲᱟᱣᱜ ᱠᱟᱱᱟ ᱠᱚ ᱟᱨ ᱰᱷᱮᱨ ᱜᱮ ᱪᱩᱱᱚᱣᱛᱤ ᱠᱚ ᱮᱢᱟ ᱠᱚᱣᱟ"", ᱪᱮᱫᱟᱜ ᱥᱮ ᱩᱱᱠᱩᱣᱟᱜ ᱵᱷᱮᱡᱟ ᱠᱚ ᱥᱟᱢᱟᱱᱭᱚ ᱛᱚᱨᱠᱟ ᱛᱮ ᱩᱠᱥᱟᱹᱣ ᱵᱟᱭ ᱜᱟᱱᱚᱜᱼᱟ᱾",health,N/A,"<|begin_of_text|>SENTENCE:
+ ᱱᱩᱠᱩ ᱜᱤᱫᱽᱨᱟᱹ ᱟᱹᱰᱤ ᱢᱩᱥᱠᱤᱞ ᱨᱮ ᱯᱟᱲᱟᱣᱜ ᱠᱟᱱᱟ ᱠᱚ, ᱪᱮᱫᱟᱜ ᱥᱮ ᱩᱱᱠᱩ ᱫᱚ ᱟᱠᱚᱣᱟᱜ ᱵᱷᱮᱡᱟ ᱩᱛᱮᱡᱤᱛ ᱩᱠᱥᱟᱹᱣ ᱞᱟᱹᱜᱤᱫ ""ᱠᱷᱟᱛᱨᱟ ᱠᱟᱹᱭ ᱠᱚ ᱠᱚᱨᱟᱣᱟ, ᱛᱟᱯᱟᱢ ᱨᱮ ᱯᱟᱲᱟᱣᱜ ᱠᱟᱱᱟ ᱠᱚ ᱟᱨ ᱰᱷᱮᱨ ᱜᱮ ᱪᱩᱱᱚᱣᱛᱤ ᱠᱚ ᱮᱢᱟ ᱠᱚᱣᱟ"", ᱪᱮᱫᱟᱜ ᱥᱮ ᱩᱱᱠᱩᱣᱟᱜ ᱵᱷᱮᱡᱟ ᱠᱚ ᱥᱟᱢᱟᱱᱭᱚ ᱛᱚᱨᱠᱟ ᱛᱮ ᱩᱠᱥᱟᱹᱣ ᱵᱟᱭ ᱜᱟᱱᱚᱜᱼᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: None of the above
+REASONING SKILL"
+ᱦᱚᱭ ᱟᱨ ᱣᱮᱵᱽ ᱛᱮ ᱢᱮᱥᱟ ᱦᱟᱠᱟᱱ ᱟᱯᱷᱮᱠᱴᱮᱰ ᱫᱟᱜ ᱥᱟᱦᱮᱫ ᱛᱮ ᱤᱫᱤ ᱞᱮᱠᱷᱟᱱ ᱦᱚᱲ ᱦᱚᱸ ᱠᱚ ᱥᱚᱝᱠᱨᱚᱢᱤᱛᱚᱜ-ᱟ᱾,health,science/technology,"<|begin_of_text|>SENTENCE:
+ ᱦᱚᱭ ᱟᱨ ᱣᱮᱵᱽ ᱛᱮ ᱢᱮᱥᱟ ᱦᱟᱠᱟᱱ ᱟᱯᱷᱮᱠᱴᱮᱰ ᱫᱟᱜ ᱥᱟᱦᱮᱫ ᱛᱮ ᱤᱫᱤ ᱞᱮᱠᱷᱟᱱ ᱦᱚᱲ ᱦᱚᱸ ᱠᱚ ᱥᱚᱝᱠᱨᱚᱢᱤᱛᱚᱜ-ᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science
+EXPLANATION:
+This sentence is about"
+ᱠᱤᱪᱷᱩᱜᱟᱱ ᱦᱚᱲᱟᱜ ᱢᱮᱱ ᱠᱟᱱᱟ ᱡᱮ ᱠᱨᱤᱛᱨᱤᱢ ᱨᱩᱯ ᱛᱮ ᱯᱨᱮᱨᱤᱛ ᱟᱹᱰᱤ ᱥᱯᱚᱥᱴ ᱠᱩᱠᱢᱩ ᱧᱮᱧᱮᱞ ᱞᱮᱠᱟ ᱜᱮ ᱟᱹᱰᱤᱜᱟᱱ ᱛᱷᱟᱠᱟᱣ ᱦᱩᱭ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ᱾,health,N/A,"<|begin_of_text|>SENTENCE:
+ ᱠᱤᱪᱷᱩᱜᱟᱱ ᱦᱚᱲᱟᱜ ᱢᱮᱱ ᱠᱟᱱᱟ ᱡᱮ ᱠᱨᱤᱛᱨᱤᱢ ᱨᱩᱯ ᱛᱮ ᱯᱨᱮᱨᱤᱛ ᱟᱹᱰᱤ ᱥᱯᱚᱥᱴ ᱠᱩᱠᱢᱩ ᱧᱮᱧᱮᱞ ᱞᱮᱠᱟ ᱜᱮ ᱟᱹᱰᱤᱜᱟᱱ ᱛᱷᱟᱠᱟᱣ ᱦᱩᱭ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: None of the above
+REASONING SKILL"
+ᱯᱚᱛᱨᱚ ᱫᱚ ᱱᱤᱭᱟᱹ ᱚᱠᱛᱮ ᱟᱡᱟᱜ ᱛᱟᱨᱮᱱ ᱨᱮᱱᱟᱜ ᱤᱞᱟᱡᱽ ᱚᱪᱚᱭᱮᱱᱟᱭ ᱢᱮᱱᱠᱷᱟᱱ ᱠᱷᱤᱞᱚᱸᱰ ᱨᱮ ᱨᱩᱣᱟᱹᱲ ᱞᱟᱹᱜᱤᱫ ᱮ ᱯᱟᱥ ᱮᱱᱟ᱾,health,sports,"<|begin_of_text|>SENTENCE:
+ ᱯᱚᱛᱨᱚ ᱫᱚ ᱱᱤᱭᱟᱹ ᱚᱠᱛᱮ ᱟᱡᱟᱜ ᱛᱟᱨᱮᱱ ᱨᱮᱱᱟᱜ ᱤᱞᱟᱡᱽ ᱚᱪᱚᱭᱮᱱᱟᱭ ᱢᱮᱱᱠᱷᱟᱱ ᱠᱷᱤᱞᱚᱸᱰ ᱨᱮ ᱨᱩᱣᱟᱹᱲ ᱞᱟᱹᱜᱤᱫ ᱮ ᱯᱟᱥ ᱮᱱᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+sports
+EXPLANATION:
+The sentence is"
+"ᱱᱚᱣᱟ ᱠᱷᱚᱱ ᱵᱟᱹᱲᱛᱤ, ᱱᱚᱝᱠᱟ ᱠᱚᱨᱟᱣ ᱨᱮ ᱵᱮᱨᱛᱷᱟ ᱨᱮᱱᱟᱝ ᱜᱟᱹᱦᱤᱸᱨ ᱚᱨᱥᱚᱝ ᱛᱟᱦᱮᱸᱱ ᱠᱟᱱᱟ ᱺ ᱵᱤᱠᱟᱥ ᱚᱵᱽᱥᱟᱫ, ᱠᱩᱯᱚᱥᱚᱱ ᱟᱨ ᱢᱩᱪᱟᱹᱫ ᱨᱮ ᱜᱩᱡᱩᱜI",health,N/A,"<|begin_of_text|>SENTENCE:
+ ᱱᱚᱣᱟ ᱠᱷᱚᱱ ᱵᱟᱹᱲᱛᱤ, ᱱᱚᱝᱠᱟ ᱠᱚᱨᱟᱣ ᱨᱮ ᱵᱮᱨᱛᱷᱟ ᱨᱮᱱᱟᱝ ᱜᱟᱹᱦᱤᱸᱨ ᱚᱨᱥᱚᱝ ᱛᱟᱦᱮᱸᱱ ᱠᱟᱱᱟ ᱺ ᱵᱤᱠᱟᱥ ᱚᱵᱽᱥᱟᱫ, ᱠᱩᱯᱚᱥᱚᱱ ᱟᱨ ᱢᱩᱪᱟᱹᱫ ᱨᱮ ᱜᱩᱡᱩᱜI 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: None of the above
+REASONING SKILL"
+ᱟᱢᱥᱴᱚᱨᱰᱟᱢ ᱥᱚᱦᱚᱨ ᱟᱨ ᱟᱱᱱᱮ ᱯᱷᱨᱟᱸᱠ ᱥᱚᱝᱜᱨᱚᱦᱟᱲᱚᱭ ᱨᱤᱱ ᱚᱫᱷᱤᱠᱟᱨᱤ ᱠᱚᱣᱟᱜ ᱢᱮᱱ ᱛᱟᱦᱮᱸ ᱠᱟᱱᱟ ᱡᱮ ᱫᱟᱨᱮ ᱢᱤᱫ ᱜᱩᱢᱟᱹ ᱛᱮ ᱥᱚᱝᱠᱨᱚᱢᱤᱛ ᱟᱠᱟᱱᱟ ᱟᱨ ᱥᱟᱱᱟᱢ ᱱᱤᱯᱷᱩᱴ ᱥᱤᱫ ᱞᱟᱹᱜᱤᱫ ᱵᱚᱛᱚᱨ ᱨᱮᱭᱟᱜ ᱠᱟᱛᱷᱟ ᱠᱟᱱᱟ ᱪᱮᱫᱟᱜ ᱥᱮ ᱩᱱᱠᱩᱣᱟᱜ ᱛᱚᱨᱠᱚ ᱠᱟᱱᱟ ᱡᱮ ᱚᱱᱟ ᱫᱟᱨᱮ ᱫᱚ ᱵᱷᱤᱸᱫᱟᱹᱲ ᱫᱟᱲᱮᱭᱟᱜᱼᱟI,health,science/technology,"<|begin_of_text|>SENTENCE:
+ ᱟᱢᱥᱴᱚᱨᱰᱟᱢ ᱥᱚᱦᱚᱨ ᱟᱨ ᱟᱱᱱᱮ ᱯᱷᱨᱟᱸᱠ ᱥᱚᱝᱜᱨᱚᱦᱟᱲᱚᱭ ᱨᱤᱱ ᱚᱫᱷᱤᱠᱟᱨᱤ ᱠᱚᱣᱟᱜ ᱢᱮᱱ ᱛᱟᱦᱮᱸ ᱠᱟᱱᱟ ᱡᱮ ᱫᱟᱨᱮ ᱢᱤᱫ ᱜᱩᱢᱟᱹ ᱛᱮ ᱥᱚᱝᱠᱨᱚᱢᱤᱛ ᱟᱠᱟᱱᱟ ᱟᱨ ᱥᱟᱱᱟᱢ ᱱᱤᱯᱷᱩᱴ ᱥᱤᱫ ᱞᱟᱹᱜᱤᱫ ᱵᱚᱛᱚᱨ ᱨᱮᱭᱟᱜ ᱠᱟᱛᱷᱟ ᱠᱟᱱᱟ ᱪᱮᱫᱟᱜ ᱥᱮ ᱩᱱᱠᱩᱣᱟᱜ ᱛᱚᱨᱠᱚ ᱠᱟᱱᱟ ᱡᱮ ᱚᱱᱟ ᱫᱟᱨᱮ ᱫᱚ ᱵᱷᱤᱸᱫᱟᱹᱲ ᱫᱟᱲᱮᱭᱟᱜᱼᱟI 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science
+EXPLANATION:
+The sentence is about"
+"ᱟᱥᱯᱟᱛᱟᱞ ᱫᱚ ᱥᱚᱸᱠᱨᱚᱢᱚᱬ ᱞᱟᱹᱜᱤᱫ ᱛᱮ ᱯᱨᱚᱴᱚᱠᱚᱞ ᱨᱮᱭᱟᱜ ᱮ ᱯᱟᱞᱚᱱ ᱠᱮᱫᱟ, ᱡᱟᱦᱟᱸ ᱫᱚ ᱫᱚᱥᱟᱨ ᱫᱟᱲᱮᱭᱟᱱ ᱥᱚᱸᱠᱨᱚᱢᱚᱬ ᱠᱚ ᱴᱮᱠᱟᱣ ᱫᱟᱨᱟᱢ ᱞᱟᱹᱜᱤᱫ ᱨᱩᱣᱟᱹ ᱦᱚᱲ ᱮᱴᱟᱜ ᱠᱷᱚᱱ ᱵᱷᱮᱜᱟᱨ ᱠᱚᱨᱟᱣ ᱥᱮᱞᱮᱫ ᱢᱮᱱᱟᱜᱼᱟ᱾",health,N/A,"<|begin_of_text|>SENTENCE:
+ ᱟᱥᱯᱟᱛᱟᱞ ᱫᱚ ᱥᱚᱸᱠᱨᱚᱢᱚᱬ ᱞᱟᱹᱜᱤᱫ ᱛᱮ ᱯᱨᱚᱴᱚᱠᱚᱞ ᱨᱮᱭᱟᱜ ᱮ ᱯᱟᱞᱚᱱ ᱠᱮᱫᱟ, ᱡᱟᱦᱟᱸ ᱫᱚ ᱫᱚᱥᱟᱨ ᱫᱟᱲᱮᱭᱟᱱ ᱥᱚᱸᱠᱨᱚᱢᱚᱬ ᱠᱚ ᱴᱮᱠᱟᱣ ᱫᱟᱨᱟᱢ ᱞᱟᱹᱜᱤᱫ ᱨᱩᱣᱟᱹ ᱦᱚᱲ ᱮᱴᱟᱜ ᱠᱷᱚᱱ ᱵᱷᱮᱜᱟᱨ ᱠᱚᱨᱟᱣ ᱥᱮᱞᱮᱫ ᱢᱮᱱᱟᱜᱼᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: None of the above, This sentence is not in"
+ᱦᱟᱭᱴᱤᱭᱚᱱ ᱤᱱᱥᱴᱤᱪᱩᱴ ᱚᱯᱷ ᱡᱚᱥᱴᱤᱥ ᱟᱨ ᱰᱮᱢᱳᱠᱨᱟᱥᱤ ᱫᱚ ᱱᱤᱡᱮ ᱛᱮ ᱯᱟᱲᱦᱟᱣ ᱠᱚ ᱨᱮᱭᱟᱜ ᱥᱚᱱᱫᱚᱨᱵᱷᱚ ᱮᱢ ᱞᱮᱫᱟ ᱡᱮ ᱱᱮᱯᱟᱞᱤ ᱥᱟᱝᱭᱩᱠᱛ ᱨᱟᱥᱴᱨᱚ ᱥᱟᱹᱱᱛᱤ ᱵᱮᱨᱮᱫ  ᱵᱟᱴᱟᱞᱤᱭᱚᱱ ᱫᱚ ᱵᱟᱝ ᱵᱟᱰᱟᱭ ᱛᱮ ᱱᱚᱣᱟ ᱨᱳᱜᱽ ᱦᱟᱭᱛᱤ ᱛᱮ ᱟᱜᱩ ᱞᱮᱫ-ᱟᱭI,health,politics,"<|begin_of_text|>SENTENCE:
+ ᱦᱟᱭᱴᱤᱭᱚᱱ ᱤᱱᱥᱴᱤᱪᱩᱴ ᱚᱯᱷ ᱡᱚᱥᱴᱤᱥ ᱟᱨ ᱰᱮᱢᱳᱠᱨᱟᱥᱤ ᱫᱚ ᱱᱤᱡᱮ ᱛᱮ ᱯᱟᱲᱦᱟᱣ ᱠᱚ ᱨᱮᱭᱟᱜ ᱥᱚᱱᱫᱚᱨᱵᱷᱚ ᱮᱢ ᱞᱮᱫᱟ ᱡᱮ ᱱᱮᱯᱟᱞᱤ ᱥᱟᱝᱭᱩᱠᱛ ᱨᱟᱥᱴᱨᱚ ᱥᱟᱹᱱᱛᱤ ᱵᱮᱨᱮᱫ  ᱵᱟᱴᱟᱞᱤᱭᱚᱱ ᱫᱚ ᱵᱟᱝ ᱵᱟᱰᱟᱭ ᱛᱮ ᱱᱚᱣᱟ ᱨᱳᱜᱽ ᱦᱟᱭᱛᱤ ᱛᱮ ᱟᱜᱩ ᱞᱮᱫ-ᱟᱭI 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+politics
+REASONING SKILL:
+"
+"ᱥᱚᱝᱠᱨᱚᱢᱚᱠ ᱨᱚᱜᱽ ᱥᱟᱶ, ᱟᱨ ᱵᱟᱝ ᱠᱷᱚᱛᱚᱨᱱᱟᱹᱠ ᱡᱤᱣ ᱡᱚᱱᱛᱩ ᱡᱟᱦᱟᱸᱭ ᱫᱚ ᱦᱚᱲ ᱠᱚ ᱜᱷᱟᱹᱛ ᱟᱨ ᱵᱟᱝ ᱜᱚᱡ ᱫᱟᱲᱮ ᱠᱚᱣᱟᱭ, ᱚᱝᱠᱟ ᱜᱮ ᱠᱤᱥ ᱦᱤᱥᱟᱹᱵ ᱛᱮ ᱵᱟᱠᱚ ᱛᱟᱦᱮᱸᱱ ᱠᱟᱱᱟ᱾",health,N/A,"<|begin_of_text|>SENTENCE:
+ ᱥᱚᱝᱠᱨᱚᱢᱚᱠ ᱨᱚᱜᱽ ᱥᱟᱶ, ᱟᱨ ᱵᱟᱝ ᱠᱷᱚᱛᱚᱨᱱᱟᱹᱠ ᱡᱤᱣ ᱡᱚᱱᱛᱩ ᱡᱟᱦᱟᱸᱭ ᱫᱚ ᱦᱚᱲ ᱠᱚ ᱜᱷᱟᱹᱛ ᱟᱨ ᱵᱟᱝ ᱜᱚᱡ ᱫᱟᱲᱮ ᱠᱚᱣᱟᱭ, ᱚᱝᱠᱟ ᱜᱮ ᱠᱤᱥ ᱦᱤᱥᱟᱹᱵ ᱛᱮ ᱵᱟᱠᱚ ᱛᱟᱦᱮᱸᱱ ᱠᱟᱱᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: None of the above 
+REASONING SKILL"
+"ᱮᱹᱰᱤᱹᱰᱤ ᱜᱤᱫᱽᱨᱟᱹ ᱠᱚ ᱟᱥᱲᱟ ᱨᱮᱭᱟᱜ ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱪᱮᱛᱟᱱ ᱨᱮ ᱫᱷᱮᱭᱟᱱ ᱮᱢ ᱨᱮ ᱢᱩᱥᱠᱤᱞ ᱦᱩᱭᱩᱜ ᱠᱟᱱᱟ, ᱢᱮᱱᱠᱷᱟᱱ ᱩᱱᱠᱩ ᱚᱱᱟ ᱡᱤᱱᱤᱥ ᱪᱮᱛᱟᱱ ᱨᱮ ᱫᱷᱮᱭᱟᱱ ᱮᱢ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱠᱚ ᱡᱟᱦᱟᱸ ᱠᱚᱨᱟᱣ ᱨᱮ ᱩᱱᱠᱩ ᱢᱚᱡᱟ ᱠᱚ ᱵᱩᱡᱷᱟᱹᱣᱼᱟ ᱡᱮᱞᱠᱟ ᱠᱷᱮᱞ ᱚᱞ ᱠᱚ ᱟᱨ ᱵᱟᱝ ᱱᱤᱡᱚᱨ ᱠᱩᱥᱤᱭᱟᱜ ᱠᱟᱴᱩᱱ ᱧᱮᱞ ᱟᱨ ᱵᱟᱝ ᱵᱤᱱᱟᱹ ᱪᱤᱱᱦᱟᱹ ᱛᱮ ᱟᱹᱭᱟᱹᱛ ᱠᱚ ᱚᱞ᱾",health,N/A,"<|begin_of_text|>SENTENCE:
+ ᱮᱹᱰᱤᱹᱰᱤ ᱜᱤᱫᱽᱨᱟᱹ ᱠᱚ ᱟᱥᱲᱟ ᱨᱮᱭᱟᱜ ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱪᱮᱛᱟᱱ ᱨᱮ ᱫᱷᱮᱭᱟᱱ ᱮᱢ ᱨᱮ ᱢᱩᱥᱠᱤᱞ ᱦᱩᱭᱩᱜ ᱠᱟᱱᱟ, ᱢᱮᱱᱠᱷᱟᱱ ᱩᱱᱠᱩ ᱚᱱᱟ ᱡᱤᱱᱤᱥ ᱪᱮᱛᱟᱱ ᱨᱮ ᱫᱷᱮᱭᱟᱱ ᱮᱢ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱠᱚ ᱡᱟᱦᱟᱸ ᱠᱚᱨᱟᱣ ᱨᱮ ᱩᱱᱠᱩ ᱢᱚᱡᱟ ᱠᱚ ᱵᱩᱡᱷᱟᱹᱣᱼᱟ ᱡᱮᱞᱠᱟ ᱠᱷᱮᱞ ᱚᱞ ᱠᱚ ᱟᱨ ᱵᱟᱝ ᱱᱤᱡᱚᱨ ᱠᱩᱥᱤᱭᱟᱜ ᱠᱟᱴᱩᱱ ᱧᱮᱞ ᱟᱨ ᱵᱟᱝ ᱵᱤᱱᱟᱹ ᱪᱤᱱᱦᱟᱹ ᱛᱮ ᱟᱹᱭᱟᱹᱛ ᱠᱚ ᱚᱞ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: None of the above
+REASONING SKILL"
+ᱢᱤᱫ ᱥᱮᱨᱢᱟ ᱨᱮ ᱢᱤᱫ ᱤᱱᱯᱷᱮᱠᱴᱮᱰ ᱦᱚᱲ ᱥᱩᱨᱼᱥᱩᱯᱩᱨ ᱑᱐ ᱠᱷᱚᱱ ᱑᱕ ᱦᱚᱲ ᱮ ᱤᱱᱯᱷᱮᱠᱴ ᱫᱟᱲᱮᱭᱟᱠᱚᱣᱟ᱾,health,travel,"<|begin_of_text|>SENTENCE:
+ ᱢᱤᱫ ᱥᱮᱨᱢᱟ ᱨᱮ ᱢᱤᱫ ᱤᱱᱯᱷᱮᱠᱴᱮᱰ ᱦᱚᱲ ᱥᱩᱨᱼᱥᱩᱯᱩᱨ ᱑᱐ ᱠᱷᱚᱱ ᱑᱕ ᱦᱚᱲ ᱮ ᱤᱱᱯᱷᱮᱠᱴ ᱫᱟᱲᱮᱭᱟᱠᱚᱣᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The sentence"
+"ᱚᱠᱟ ᱡᱷᱚᱜ ᱫᱟᱠᱛᱚᱨᱠᱷᱟᱱᱟ ᱤᱫᱤ ᱠᱟᱛᱮ ᱛᱟᱯᱟᱢ ᱠᱚ ᱵᱚᱸᱫ ᱦᱩᱭ ᱮᱱᱟ, ᱛᱚ ᱵᱟᱧᱪᱟᱣ ᱠᱟᱱ ᱔᱐ ᱴᱤ ᱜᱟᱱ ᱮᱴᱟᱜ ᱠᱚᱭᱫᱤ ᱭᱟᱰ ᱨᱮ ᱛᱟᱦᱮᱸ ᱮᱱᱟ ᱠᱚ ᱟᱨ ᱟᱠᱚᱣᱟᱜ ᱵᱤᱵᱷᱟᱜᱽ ᱛᱮ ᱪᱟᱞᱟᱣ ᱠᱚ ᱢᱟᱱᱟ ᱠᱮᱜᱼᱟ᱾",health,N/A,"<|begin_of_text|>SENTENCE:
+ ᱚᱠᱟ ᱡᱷᱚᱜ ᱫᱟᱠᱛᱚᱨᱠᱷᱟᱱᱟ ᱤᱫᱤ ᱠᱟᱛᱮ ᱛᱟᱯᱟᱢ ᱠᱚ ᱵᱚᱸᱫ ᱦᱩᱭ ᱮᱱᱟ, ᱛᱚ ᱵᱟᱧᱪᱟᱣ ᱠᱟᱱ ᱔᱐ ᱴᱤ ᱜᱟᱱ ᱮᱴᱟᱜ ᱠᱚᱭᱫᱤ ᱭᱟᱰ ᱨᱮ ᱛᱟᱦᱮᱸ ᱮᱱᱟ ᱠᱚ ᱟᱨ ᱟᱠᱚᱣᱟᱜ ᱵᱤᱵᱷᱟᱜᱽ ᱛᱮ ᱪᱟᱞᱟᱣ ᱠᱚ ᱢᱟᱱᱟ ᱠᱮᱜᱼᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: None of the above
+REASONING SKILL"
+ᱥᱟᱢᱨᱟᱡᱽᱭᱚ ᱚᱜᱚᱥᱴᱚᱥ ᱦᱚᱛᱮᱛᱮ ᱢᱮᱰᱤᱠᱟᱞ ᱨᱮᱱᱟᱝ ᱵᱷᱟᱨᱛᱤ ᱮᱛᱚᱦᱚᱵ ᱦᱩᱭ ᱞᱮᱱᱟ ᱟᱨ ᱱᱚᱸᱰᱮ ᱦᱟᱹᱵᱤᱡ ᱞᱟᱹᱲᱦᱟᱹᱭ ᱛᱟᱭᱚᱢ ᱵᱮᱵᱷᱟᱨ ᱞᱟᱹᱜᱤᱫ ᱯᱩᱭᱞᱩ ᱫᱷᱟᱣ ᱨᱚᱢᱟᱱ ᱢᱮᱰᱤᱠᱟᱞ ᱠᱚᱨ ᱨᱮᱱᱟᱜ ᱵᱮᱱᱟᱣ ᱦᱩᱭ ᱮᱱᱟ᱾,health,health,"<|begin_of_text|>SENTENCE:
+ ᱥᱟᱢᱨᱟᱡᱽᱭᱚ ᱚᱜᱚᱥᱴᱚᱥ ᱦᱚᱛᱮᱛᱮ ᱢᱮᱰᱤᱠᱟᱞ ᱨᱮᱱᱟᱝ ᱵᱷᱟᱨᱛᱤ ᱮᱛᱚᱦᱚᱵ ᱦᱩᱭ ᱞᱮᱱᱟ ᱟᱨ ᱱᱚᱸᱰᱮ ᱦᱟᱹᱵᱤᱡ ᱞᱟᱹᱲᱦᱟᱹᱭ ᱛᱟᱭᱚᱢ ᱵᱮᱵᱷᱟᱨ ᱞᱟᱹᱜᱤᱫ ᱯᱩᱭᱞᱩ ᱫᱷᱟᱣ ᱨᱚᱢᱟᱱ ᱢᱮᱰᱤᱠᱟᱞ ᱠᱚᱨ ᱨᱮᱱᱟᱜ ᱵᱮᱱᱟᱣ ᱦᱩᱭ ᱮᱱᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+health
+EXPLANATION:
+The sentence is"
+ᱢᱮᱱᱠᱷᱟᱱ ᱰᱟᱭᱵᱷᱚᱨᱟᱜ ᱵᱚᱦᱚᱜ ᱨᱮ ᱟᱹᱰᱤ ᱜᱟᱺᱦᱤᱨ  ᱮ  ᱜᱷᱟᱹᱞ ᱟᱠᱟᱱᱟ᱾,health,science/technology,"<|begin_of_text|>SENTENCE:
+ ᱢᱮᱱᱠᱷᱟᱱ ᱰᱟᱭᱵᱷᱚᱨᱟᱜ ᱵᱚᱦᱚᱜ ᱨᱮ ᱟᱹᱰᱤ ᱜᱟᱺᱦᱤᱨ  ᱮ  ᱜᱷᱟᱹᱞ ᱟᱠᱟᱱᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science
+REASONING SKILL:
+ This question"
+"⁣ᱩᱱᱤ ᱞᱟᱹᱭ ᱠᱮᱜ-ᱟᱭ, ""ᱟᱞᱮ ᱴᱷᱮᱱ ᱔ ᱪᱟᱸᱫᱚ ᱨᱤᱱᱤᱡ ᱜᱩᱰᱩ ᱢᱮᱱᱟᱭᱟ ᱡᱟᱦᱟᱸᱭ ᱫᱚ ᱵᱟᱭ ᱰᱟᱭᱵᱮᱴᱤᱥᱟ ᱩᱱᱤ ᱯᱩᱭᱞᱩ ᱰᱟᱭᱵᱮᱴᱤᱥ ᱛᱟᱦᱮᱸᱠᱟᱱᱟ᱾""",health,N/A,"<|begin_of_text|>SENTENCE:
+ ⁣ᱩᱱᱤ ᱞᱟᱹᱭ ᱠᱮᱜ-ᱟᱭ, ""ᱟᱞᱮ ᱴᱷᱮᱱ ᱔ ᱪᱟᱸᱫᱚ ᱨᱤᱱᱤᱡ ᱜᱩᱰᱩ ᱢᱮᱱᱟᱭᱟ ᱡᱟᱦᱟᱸᱭ ᱫᱚ ᱵᱟᱭ ᱰᱟᱭᱵᱮᱴᱤᱥᱟ ᱩᱱᱤ ᱯᱩᱭᱞᱩ ᱰᱟᱭᱵᱮᱴᱤᱥ ᱛᱟᱦᱮᱸᱠᱟᱱᱟ᱾"" 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: None of the above
+REASONING SKILL"
+ᱚᱱᱛᱚᱨ ᱵᱤᱥ ᱠᱟᱹᱢᱤ ᱥᱚᱸᱜᱮ ᱛᱮ ᱵᱟᱝ ᱵᱩᱡᱷᱟᱹᱣ ᱜᱚᱫᱚᱜᱼᱟ᱾ ᱵᱮᱜ ᱞᱮᱠᱟᱱ ᱞᱚᱠᱠᱷᱚᱱ ᱟᱹᱰᱤ ᱥᱟᱫᱷᱟᱨᱚᱱ ᱜᱮᱭᱟ ᱚᱱᱟᱛᱮ ᱥᱚᱸᱜᱮ~ᱥᱚᱸᱜᱮ ᱛᱮ ᱨᱩᱣᱟᱹ ᱵᱟᱝ ᱵᱩᱡᱷᱟᱹᱜᱼᱟ᱾,health,N/A,"<|begin_of_text|>SENTENCE:
+ ᱚᱱᱛᱚᱨ ᱵᱤᱥ ᱠᱟᱹᱢᱤ ᱥᱚᱸᱜᱮ ᱛᱮ ᱵᱟᱝ ᱵᱩᱡᱷᱟᱹᱣ ᱜᱚᱫᱚᱜᱼᱟ᱾ ᱵᱮᱜ ᱞᱮᱠᱟᱱ ᱞᱚᱠᱠᱷᱚᱱ ᱟᱹᱰᱤ ᱥᱟᱫᱷᱟᱨᱚᱱ ᱜᱮᱭᱟ ᱚᱱᱟᱛᱮ ᱥᱚᱸᱜᱮ~ᱥᱚᱸᱜᱮ ᱛᱮ ᱨᱩᱣᱟᱹ ᱵᱟᱝ ᱵᱩᱡᱷᱟᱹᱜᱼᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: None of the above
+REASONING SKILL"
+"ᱚᱨᱡᱚ ᱞᱮᱠᱟᱛᱮ, ᱵᱟᱰᱚᱦᱤ ᱥᱴᱮᱡᱽ ᱨᱮ ᱦᱩᱠᱟᱹ ᱨᱮᱭᱟᱜ ᱡᱚᱭᱮᱱᱴ ᱮ ᱧᱩᱭᱮᱫ ᱠᱟᱱᱟ, ᱟᱨ ᱛᱷᱤᱭᱮᱴᱟᱨ ᱟᱡ ᱜᱮ ᱧᱮᱧᱮᱞᱤᱭᱟᱹ ᱠᱚ ᱱᱚᱣᱟ ᱨᱮ ᱥᱮᱞᱮᱫᱚᱜ ᱞᱟᱹᱜᱤᱫ ᱮ ᱩᱫᱽᱜᱟᱹᱣᱮᱫ ᱠᱚᱣᱟ᱾",entertainment,travel,"<|begin_of_text|>SENTENCE:
+ ᱚᱨᱡᱚ ᱞᱮᱠᱟᱛᱮ, ᱵᱟᱰᱚᱦᱤ ᱥᱴᱮᱡᱽ ᱨᱮ ᱦᱩᱠᱟᱹ ᱨᱮᱭᱟᱜ ᱡᱚᱭᱮᱱᱴ ᱮ ᱧᱩᱭᱮᱫ ᱠᱟᱱᱟ, ᱟᱨ ᱛᱷᱤᱭᱮᱴᱟᱨ ᱟᱡ ᱜᱮ ᱧᱮᱧᱮᱞᱤᱭᱟᱹ ᱠᱚ ᱱᱚᱣᱟ ᱨᱮ ᱥᱮᱞᱮᱫᱚᱜ ᱞᱟᱹᱜᱤᱫ ᱮ ᱩᱫᱽᱜᱟᱹᱣᱮᱫ ᱠᱚᱣᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The sentence"
+ᱮᱨᱚᱥᱢᱤᱛᱷ ᱫᱚ ᱟᱡᱟᱜ ᱫᱚᱣᱨᱟ ᱨᱮ ᱟᱡᱟᱜ ᱥᱟᱨᱮᱡ ᱵᱟᱡᱟᱣ ᱠᱟᱨᱭᱚᱠᱨᱟᱢ ᱵᱚᱸᱫᱽ ᱠᱮᱫᱼᱟᱭ᱾,entertainment,N/A,"<|begin_of_text|>SENTENCE:
+ ᱮᱨᱚᱥᱢᱤᱛᱷ ᱫᱚ ᱟᱡᱟᱜ ᱫᱚᱣᱨᱟ ᱨᱮ ᱟᱡᱟᱜ ᱥᱟᱨᱮᱡ ᱵᱟᱡᱟᱣ ᱠᱟᱨᱭᱚᱠᱨᱟᱢ ᱵᱚᱸᱫᱽ ᱠᱮᱫᱼᱟᱭ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: None of the above 
+REASONING SKILL"
+ᱡᱩᱫᱤ ᱟᱢ ᱚᱱᱟ ᱠᱟᱨᱟᱣᱟᱦᱤ ᱥᱩᱨ ᱨᱮ ᱛᱟᱦᱮᱸ ᱥᱟᱱᱟᱢ ᱠᱟᱱᱟ ᱢᱮᱱᱠᱷᱟᱱ ᱛᱚ ᱟᱢ ᱥᱮᱨᱮᱧ ᱥᱩᱨ ᱛᱮ ᱢᱤᱫᱴᱟᱹᱝ ᱠᱮᱢᱯᱤᱝ ᱥᱟᱭᱤᱴ ᱮᱢᱚᱜ ᱞᱟᱹᱜᱤᱫ ᱞᱚᱜᱚᱱ ᱦᱮᱡ ᱛᱮ ᱯᱟᱲᱟᱣᱟᱢᱟ᱾,entertainment,travel,"<|begin_of_text|>SENTENCE:
+ ᱡᱩᱫᱤ ᱟᱢ ᱚᱱᱟ ᱠᱟᱨᱟᱣᱟᱦᱤ ᱥᱩᱨ ᱨᱮ ᱛᱟᱦᱮᱸ ᱥᱟᱱᱟᱢ ᱠᱟᱱᱟ ᱢᱮᱱᱠᱷᱟᱱ ᱛᱚ ᱟᱢ ᱥᱮᱨᱮᱧ ᱥᱩᱨ ᱛᱮ ᱢᱤᱫᱴᱟᱹᱝ ᱠᱮᱢᱯᱤᱝ ᱥᱟᱭᱤᱴ ᱮᱢᱚᱜ ᱞᱟᱹᱜᱤᱫ ᱞᱚᱜᱚᱱ ᱦᱮᱡ ᱛᱮ ᱯᱟᱲᱟᱣᱟᱢᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+REASONING SKILL:
+"
+ᱛᱤᱱᱟᱹᱜ ᱮᱴᱟᱜᱼᱮᱴᱟᱜ ᱯᱷᱤᱞᱢ ᱯᱨᱟᱨᱩᱯ ᱢᱮᱱᱟᱜᱼᱟ ᱡᱟᱦᱟᱸ ᱨᱮᱭᱟᱜ ᱵᱮᱵᱷᱟᱨ ᱥᱮᱫᱟᱭ ᱥᱮᱨᱢᱟ ᱠᱷᱟᱱ ᱠᱚᱨᱟᱣ ᱦᱟᱹᱡᱩᱜ ᱠᱟᱱᱟ᱾ ᱢᱟᱱᱚᱠ ᱓᱕ᱢᱤᱢᱤ ᱯᱷᱤᱞᱢ (᱓᱖ ᱠᱷᱚᱱ ᱒᱔ ᱢᱤᱢᱤ ᱱᱮᱜᱮᱴᱤᱵᱷ) ᱟᱹᱰᱤ ᱟᱹᱢ ᱧᱚᱜ ᱜᱮᱭᱟ᱾,entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ ᱛᱤᱱᱟᱹᱜ ᱮᱴᱟᱜᱼᱮᱴᱟᱜ ᱯᱷᱤᱞᱢ ᱯᱨᱟᱨᱩᱯ ᱢᱮᱱᱟᱜᱼᱟ ᱡᱟᱦᱟᱸ ᱨᱮᱭᱟᱜ ᱵᱮᱵᱷᱟᱨ ᱥᱮᱫᱟᱭ ᱥᱮᱨᱢᱟ ᱠᱷᱟᱱ ᱠᱚᱨᱟᱣ ᱦᱟᱹᱡᱩᱜ ᱠᱟᱱᱟ᱾ ᱢᱟᱱᱚᱠ ᱓᱕ᱢᱤᱢᱤ ᱯᱷᱤᱞᱢ (᱓᱖ ᱠᱷᱚᱱ ᱒᱔ ᱢᱤᱢᱤ ᱱᱮᱜᱮᱴᱤᱵᱷ) ᱟᱹᱰᱤ ᱟᱹᱢ ᱧᱚᱜ ᱜᱮᱭᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+�"
+"ᱡᱮᱢᱚᱱ ᱱᱚᱶᱟ ᱫᱚ ᱟᱹᱰᱤ ᱥᱟᱫᱷᱟᱨᱚᱱ ᱠᱟᱛᱷᱟ ᱠᱟᱱᱟ, ᱱᱚᱶᱟ ᱫᱚ ᱰᱤᱥᱱᱤ ᱦᱚᱛᱮᱛᱮ ᱵᱟᱨᱚᱱ ᱜᱮᱭᱟ: ᱱᱚᱶᱟ ᱴᱤᱠᱤᱴ ᱫᱚ ᱮᱢ-ᱪᱟᱞ ᱫᱚ ᱵᱟᱝ ᱜᱟᱱᱚᱜᱼᱟ᱾",entertainment,N/A,"<|begin_of_text|>SENTENCE:
+ ᱡᱮᱢᱚᱱ ᱱᱚᱶᱟ ᱫᱚ ᱟᱹᱰᱤ ᱥᱟᱫᱷᱟᱨᱚᱱ ᱠᱟᱛᱷᱟ ᱠᱟᱱᱟ, ᱱᱚᱶᱟ ᱫᱚ ᱰᱤᱥᱱᱤ ᱦᱚᱛᱮᱛᱮ ᱵᱟᱨᱚᱱ ᱜᱮᱭᱟ: ᱱᱚᱶᱟ ᱴᱤᱠᱤᱴ ᱫᱚ ᱮᱢ-ᱪᱟᱞ ᱫᱚ ᱵᱟᱝ ᱜᱟᱱᱚᱜᱼᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: None of the above
+REASONING SKILL"
+ᱡᱷᱚᱛᱚ ᱮᱯᱤᱥᱳᱰ ᱨᱮᱭᱟᱜ ᱢᱮᱞᱟᱝᱠᱤ ᱢᱤᱫᱴᱟᱹᱝ ᱯᱚᱛᱚᱵ ᱛᱷᱤᱢ ᱪᱮᱛᱟᱱ ᱨᱮ ᱯᱷᱚᱠᱚᱥ ᱦᱩᱭ ᱠᱚᱜ-ᱟ ᱟᱨ ᱚᱱᱟ ᱛᱟᱭᱚᱢ ᱟᱭᱢᱟ ᱠᱟᱹᱦᱱᱤ ᱦᱚᱛᱮᱛᱮ ᱚᱱᱟ ᱥᱟᱛᱟᱢ ᱥᱮᱸᱫᱽᱨᱟᱜᱼᱟ।,entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ ᱡᱷᱚᱛᱚ ᱮᱯᱤᱥᱳᱰ ᱨᱮᱭᱟᱜ ᱢᱮᱞᱟᱝᱠᱤ ᱢᱤᱫᱴᱟᱹᱝ ᱯᱚᱛᱚᱵ ᱛᱷᱤᱢ ᱪᱮᱛᱟᱱ ᱨᱮ ᱯᱷᱚᱠᱚᱥ ᱦᱩᱭ ᱠᱚᱜ-ᱟ ᱟᱨ ᱚᱱᱟ ᱛᱟᱭᱚᱢ ᱟᱭᱢᱟ ᱠᱟᱹᱦᱱᱤ ᱦᱚᱛᱮᱛᱮ ᱚᱱᱟ ᱥᱟᱛᱟᱢ ᱥᱮᱸᱫᱽᱨᱟᱜᱼᱟ। 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+REASONING SKILL"
+ᱦᱚᱲᱠᱚ ᱥᱚᱢᱟᱨᱚᱦ ᱧᱮᱞ ᱞᱟᱹᱜᱤᱫ ᱨᱳᱢ ᱨᱮᱭᱟᱜ ᱟᱹᱰᱤ ᱜᱟᱱ ᱡᱩᱫᱟᱹ-ᱡᱩᱫᱟ. ᱡᱟᱭᱜᱟ ᱠᱚᱨᱮ ᱟᱹᱰᱤ ᱜᱟᱱ ᱢᱟᱨᱟᱝ ᱴᱮᱞᱤᱵᱤᱡᱚᱱ ᱥᱠᱨᱤᱱ ᱞᱟᱜᱟᱣ ᱞᱮᱫ ᱛᱟᱦᱮᱸᱱ ᱟᱠᱚI,entertainment,travel,"<|begin_of_text|>SENTENCE:
+ ᱦᱚᱲᱠᱚ ᱥᱚᱢᱟᱨᱚᱦ ᱧᱮᱞ ᱞᱟᱹᱜᱤᱫ ᱨᱳᱢ ᱨᱮᱭᱟᱜ ᱟᱹᱰᱤ ᱜᱟᱱ ᱡᱩᱫᱟᱹ-ᱡᱩᱫᱟ. ᱡᱟᱭᱜᱟ ᱠᱚᱨᱮ ᱟᱹᱰᱤ ᱜᱟᱱ ᱢᱟᱨᱟᱝ ᱴᱮᱞᱤᱵᱤᱡᱚᱱ ᱥᱠᱨᱤᱱ ᱞᱟᱜᱟᱣ ᱞᱮᱫ ᱛᱟᱦᱮᱸᱱ ᱟᱠᱚI 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The sentence"
+ᱥᱳᱯᱷᱳᱠᱞᱤᱱ ᱟᱨ ᱮᱨᱤᱥᱴᱳᱯᱷᱮᱱᱥ ᱱᱤᱛ ᱦᱚᱸ ᱧᱩᱛᱩᱢᱟᱱ ᱠᱷᱚᱸᱰ ᱚᱱᱟᱞᱤᱭᱟᱹ ᱠᱟᱱᱟ ᱠᱤᱱ ᱟᱨ ᱩᱱᱠᱤᱱᱟᱜ ᱠᱷᱮᱞᱚᱸᱰ ᱫᱚ ᱡᱮᱜᱮᱫ ᱥᱟᱶᱦᱮᱫ ᱨᱮ ᱢᱟᱨᱟᱝ ᱠᱟᱹᱢᱤ ᱢᱮᱱᱛᱮ ᱞᱮᱠᱷᱟᱜᱼᱟ᱾,entertainment,N/A,"<|begin_of_text|>SENTENCE:
+ ᱥᱳᱯᱷᱳᱠᱞᱤᱱ ᱟᱨ ᱮᱨᱤᱥᱴᱳᱯᱷᱮᱱᱥ ᱱᱤᱛ ᱦᱚᱸ ᱧᱩᱛᱩᱢᱟᱱ ᱠᱷᱚᱸᱰ ᱚᱱᱟᱞᱤᱭᱟᱹ ᱠᱟᱱᱟ ᱠᱤᱱ ᱟᱨ ᱩᱱᱠᱤᱱᱟᱜ ᱠᱷᱮᱞᱚᱸᱰ ᱫᱚ ᱡᱮᱜᱮᱫ ᱥᱟᱶᱦᱮᱫ ᱨᱮ ᱢᱟᱨᱟᱝ ᱠᱟᱹᱢᱤ ᱢᱮᱱᱛᱮ ᱞᱮᱠᱷᱟᱜᱼᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: None of the above
+REASONING SKILL"
+ᱡᱷᱚᱛᱚ ᱥᱚ ᱚᱱᱟ ᱯᱚᱛᱚᱵ ᱞᱟᱹᱜᱤᱫ ᱨᱤᱠᱚᱢᱮᱱᱰᱮᱥᱚᱱ ᱦᱚᱸ ᱡᱟᱹᱨᱤ ᱠᱚᱜᱟᱭ ᱡᱟᱦᱟᱸ ᱨᱮ ᱜᱤᱫᱽᱨᱟᱹ ᱠᱚ ᱞᱟᱭᱵᱽᱨᱮᱨᱭ ᱨᱮ ᱪᱟᱞᱟᱣ ᱠᱟᱛᱮ ᱧᱮᱞ ᱠᱟᱛᱷᱟ᱾,entertainment,science/technology,"<|begin_of_text|>SENTENCE:
+ ᱡᱷᱚᱛᱚ ᱥᱚ ᱚᱱᱟ ᱯᱚᱛᱚᱵ ᱞᱟᱹᱜᱤᱫ ᱨᱤᱠᱚᱢᱮᱱᱰᱮᱥᱚᱱ ᱦᱚᱸ ᱡᱟᱹᱨᱤ ᱠᱚᱜᱟᱭ ᱡᱟᱦᱟᱸ ᱨᱮ ᱜᱤᱫᱽᱨᱟᱹ ᱠᱚ ᱞᱟᱭᱵᱽᱨᱮᱨᱭ ᱨᱮ ᱪᱟᱞᱟᱣ ᱠᱟᱛᱮ ᱧᱮᱞ ᱠᱟᱛᱷᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science
+EXPLANATION:
+This sentence is about"
+"ᱚᱠᱚᱨᱰᱤᱭᱚᱱ ᱨᱮ, ᱵᱷᱮᱜᱟᱨ ᱛᱮ ᱜᱟᱱᱟᱜ ᱧᱟᱢ ᱞᱟᱹᱜᱤᱫ ᱛᱮ, ᱟᱢ ᱡᱟᱹᱥᱛᱤ ᱠᱮᱴᱮᱡ ᱟᱨᱵᱟᱝ ᱡᱚᱨ ᱛᱮ ᱫᱷᱩᱠᱟᱹᱣ ᱨᱮᱱᱟᱝ ᱵᱮᱵᱷᱟᱨ ᱦᱩᱭᱩᱜ ᱠᱟᱱᱟ᱾",entertainment,N/A,"<|begin_of_text|>SENTENCE:
+ ᱚᱠᱚᱨᱰᱤᱭᱚᱱ ᱨᱮ, ᱵᱷᱮᱜᱟᱨ ᱛᱮ ᱜᱟᱱᱟᱜ ᱧᱟᱢ ᱞᱟᱹᱜᱤᱫ ᱛᱮ, ᱟᱢ ᱡᱟᱹᱥᱛᱤ ᱠᱮᱴᱮᱡ ᱟᱨᱵᱟᱝ ᱡᱚᱨ ᱛᱮ ᱫᱷᱩᱠᱟᱹᱣ ᱨᱮᱱᱟᱝ ᱵᱮᱵᱷᱟᱨ ᱦᱩᱭᱩᱜ ᱠᱟᱱᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: None of the above 
+REASONING SKILL"
+ᱟᱯ ᱯᱤᱨᱟᱢᱤᱰ ᱠᱚ ᱧᱩᱛ ᱨᱮᱢ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱟᱨ ᱥᱳ ᱮᱛᱚᱦᱚᱵ ᱞᱮᱱ ᱢᱟᱬᱟᱝ ᱟᱢ ᱚᱱᱟ ᱛᱷᱤᱨ ᱠᱮᱛᱮᱡ ᱮᱢ ᱧᱮᱞ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ᱾,entertainment,N/A,"<|begin_of_text|>SENTENCE:
+ ᱟᱯ ᱯᱤᱨᱟᱢᱤᱰ ᱠᱚ ᱧᱩᱛ ᱨᱮᱢ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱟᱨ ᱥᱳ ᱮᱛᱚᱦᱚᱵ ᱞᱮᱱ ᱢᱟᱬᱟᱝ ᱟᱢ ᱚᱱᱟ ᱛᱷᱤᱨ ᱠᱮᱛᱮᱡ ᱮᱢ ᱧᱮᱞ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: None of the above 
+REASONING SKILL"
+"ᱥᱟᱭᱤᱴ ᱠᱟᱹᱢᱤᱠᱟᱹᱥᱱᱤᱠᱚ ᱨᱮᱱᱟᱜ ᱫᱟᱹᱭᱠᱟᱹ ᱠᱚᱨᱮ ᱥᱮᱸᱫᱽᱨᱟ, ᱦᱟᱹᱠᱩ ᱥᱟᱵ, ᱯᱷᱚᱴᱚᱜᱨᱟᱯᱷᱤ, ᱪᱮᱬᱮ ᱪᱤᱯᱨᱩ ᱧᱮᱞ ᱟᱨ ᱯᱟᱨᱠ ᱠᱚᱨᱮ ᱫᱟᱬᱟᱱ ᱟᱨ ᱤᱠᱳᱥᱤᱥᱴᱚᱢ ᱤᱫᱤᱭᱟᱛᱮ ᱵᱟᱰᱟᱭ ᱨᱮᱱᱟᱜ ᱯᱚᱲᱦᱚᱱ ᱟᱹᱠᱤᱞ ᱥᱮᱞᱮᱫ ᱢᱮᱱᱟᱜᱼᱟI",entertainment,science/technology,"<|begin_of_text|>SENTENCE:
+ ᱥᱟᱭᱤᱴ ᱠᱟᱹᱢᱤᱠᱟᱹᱥᱱᱤᱠᱚ ᱨᱮᱱᱟᱜ ᱫᱟᱹᱭᱠᱟᱹ ᱠᱚᱨᱮ ᱥᱮᱸᱫᱽᱨᱟ, ᱦᱟᱹᱠᱩ ᱥᱟᱵ, ᱯᱷᱚᱴᱚᱜᱨᱟᱯᱷᱤ, ᱪᱮᱬᱮ ᱪᱤᱯᱨᱩ ᱧᱮᱞ ᱟᱨ ᱯᱟᱨᱠ ᱠᱚᱨᱮ ᱫᱟᱬᱟᱱ ᱟᱨ ᱤᱠᱳᱥᱤᱥᱴᱚᱢ ᱤᱫᱤᱭᱟᱛᱮ ᱵᱟᱰᱟᱭ ᱨᱮᱱᱟᱜ ᱯᱚᱲᱦᱚᱱ ᱟᱹᱠᱤᱞ ᱥᱮᱞᱮᱫ ᱢᱮᱱᱟᱜᱼᱟI 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science
+EXPLANATION:
+This sentence is about"
+ᱥᱤᱸᱯᱷᱠᱥ ᱫᱚ ᱢᱤᱫ ᱡᱤᱞᱤᱧ ᱠᱟᱦᱱᱤ ᱨᱮᱭᱟᱜ ᱥᱟᱠᱟᱢ ᱟᱨ ᱞᱮᱞᱮᱤᱜ ᱞᱮᱠᱟ ᱛᱮ ᱵᱟᱹᱦᱟᱞ ᱟᱠᱟᱱᱟ᱾,entertainment,N/A,"<|begin_of_text|>SENTENCE:
+ ᱥᱤᱸᱯᱷᱠᱥ ᱫᱚ ᱢᱤᱫ ᱡᱤᱞᱤᱧ ᱠᱟᱦᱱᱤ ᱨᱮᱭᱟᱜ ᱥᱟᱠᱟᱢ ᱟᱨ ᱞᱮᱞᱮᱤᱜ ᱞᱮᱠᱟ ᱛᱮ ᱵᱟᱹᱦᱟᱞ ᱟᱠᱟᱱᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: None of the above
+REASONING SKILL"
+"ᱯᱮᱲᱟ ᱦᱚᱲ ᱠᱚ ᱵᱮᱥ ᱢᱩᱰ ᱨᱮ ᱫᱚᱦᱚ ᱟᱨ ᱩᱱᱠᱩ ᱟᱫᱷᱟᱨ ᱛᱮ ᱫᱟᱦᱚ ᱞᱟᱹᱜᱤᱫ, ᱩᱱᱠᱩ ᱴᱷᱮᱱ ᱚᱝᱠᱟ ᱜᱮ ᱵᱤᱥᱮᱥ ᱡᱚᱢᱟᱜ, ᱧᱩᱸ ᱟᱨ ᱢᱚᱱᱚᱨᱚᱧᱡᱚᱱ ᱯᱨᱚᱥᱛᱟᱵ ᱛᱟᱦᱮᱸᱱ ᱠᱟᱱᱟ᱾",entertainment,N/A,"<|begin_of_text|>SENTENCE:
+ ᱯᱮᱲᱟ ᱦᱚᱲ ᱠᱚ ᱵᱮᱥ ᱢᱩᱰ ᱨᱮ ᱫᱚᱦᱚ ᱟᱨ ᱩᱱᱠᱩ ᱟᱫᱷᱟᱨ ᱛᱮ ᱫᱟᱦᱚ ᱞᱟᱹᱜᱤᱫ, ᱩᱱᱠᱩ ᱴᱷᱮᱱ ᱚᱝᱠᱟ ᱜᱮ ᱵᱤᱥᱮᱥ ᱡᱚᱢᱟᱜ, ᱧᱩᱸ ᱟᱨ ᱢᱚᱱᱚᱨᱚᱧᱡᱚᱱ ᱯᱨᱚᱥᱛᱟᱵ ᱛᱟᱦᱮᱸᱱ ᱠᱟᱱᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: None of the above 
+REASONING SKILL"
+"ᱢᱟᱲᱟᱝ ᱠᱷᱚᱱ ᱜᱮ ᱤᱝᱨᱨᱟᱡᱤ ᱟᱨ ᱡᱟᱯᱟᱱᱤᱡᱽ ᱛᱮ ᱨᱤᱯᱚᱴᱤᱝ, ᱣᱮᱥᱣᱤᱠ ᱥᱚᱝᱜᱚᱴᱷᱚᱱ ᱴᱮᱞᱤᱣᱤᱡᱚᱱ, ᱣᱮᱵᱽ ᱟᱨ ᱢᱚᱵᱟᱭᱤᱞ ᱩᱯᱠᱚᱨᱚᱬ ᱞᱟᱹᱜᱤᱫ ᱥᱯᱮᱱᱤᱥ, ᱤᱛᱟᱞᱣᱤ ᱟᱨ ᱠᱟᱨᱤᱭᱟᱭ ᱯᱟᱹᱨᱥᱤ ᱨᱮᱭᱟᱜ ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱮᱛᱦᱚᱵᱚᱜ ᱠᱟᱱᱟ᱾",entertainment,N/A,"<|begin_of_text|>SENTENCE:
+ ᱢᱟᱲᱟᱝ ᱠᱷᱚᱱ ᱜᱮ ᱤᱝᱨᱨᱟᱡᱤ ᱟᱨ ᱡᱟᱯᱟᱱᱤᱡᱽ ᱛᱮ ᱨᱤᱯᱚᱴᱤᱝ, ᱣᱮᱥᱣᱤᱠ ᱥᱚᱝᱜᱚᱴᱷᱚᱱ ᱴᱮᱞᱤᱣᱤᱡᱚᱱ, ᱣᱮᱵᱽ ᱟᱨ ᱢᱚᱵᱟᱭᱤᱞ ᱩᱯᱠᱚᱨᱚᱬ ᱞᱟᱹᱜᱤᱫ ᱥᱯᱮᱱᱤᱥ, ᱤᱛᱟᱞᱣᱤ ᱟᱨ ᱠᱟᱨᱤᱭᱟᱭ ᱯᱟᱹᱨᱥᱤ ᱨᱮᱭᱟᱜ ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱮᱛᱦᱚᱵᱚᱜ ᱠᱟᱱᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+ None of the above 
+ This sentence is about"
+ᱫᱟ ᱥᱤᱢᱯᱥᱟᱸᱥ ᱠᱷᱚᱱ ᱢᱟᱬᱟᱝ ᱥᱟᱹᱭᱢᱟᱱ ᱫᱚ ᱵᱷᱮᱜᱟᱨ ᱵᱷᱮᱜᱟᱨ ᱯᱚᱫ ᱠᱚᱨᱮ ᱟᱹᱰᱤᱜᱟᱱ ᱥᱚ ᱨᱮ ᱠᱟᱹᱢᱤ ᱠᱚᱨᱟᱣ ᱞᱮᱫᱟ᱾,entertainment,N/A,"<|begin_of_text|>SENTENCE:
+ ᱫᱟ ᱥᱤᱢᱯᱥᱟᱸᱥ ᱠᱷᱚᱱ ᱢᱟᱬᱟᱝ ᱥᱟᱹᱭᱢᱟᱱ ᱫᱚ ᱵᱷᱮᱜᱟᱨ ᱵᱷᱮᱜᱟᱨ ᱯᱚᱫ ᱠᱚᱨᱮ ᱟᱹᱰᱤᱜᱟᱱ ᱥᱚ ᱨᱮ ᱠᱟᱹᱢᱤ ᱠᱚᱨᱟᱣ ᱞᱮᱫᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: None of the above 
+REASONING SKILL"
+ᱱᱚᱣᱟ ᱫᱚ ᱠᱷᱮᱞᱚᱸᱰᱤᱭᱟᱹ ᱠᱚ ᱦᱚᱭ ᱛᱟᱞᱟ ᱛᱮ ᱰᱤᱵᱷᱟᱭᱤᱥ ᱦᱟᱸᱛᱮᱼᱱᱟᱸᱛᱮ ᱠᱟᱛᱮ ᱵᱷᱤᱰᱤᱭᱚ ᱜᱮᱢᱥ ᱨᱮᱭᱟᱜ ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱟᱨ ᱦᱟᱞᱪᱟᱞ ᱠᱚ ᱪᱟᱪᱞᱟᱣ ᱨᱮᱭᱟᱜ ᱫᱟᱣ ᱮ ᱮᱢᱟ ᱠᱚᱣᱟ᱾,entertainment,sports,"<|begin_of_text|>SENTENCE:
+ ᱱᱚᱣᱟ ᱫᱚ ᱠᱷᱮᱞᱚᱸᱰᱤᱭᱟᱹ ᱠᱚ ᱦᱚᱭ ᱛᱟᱞᱟ ᱛᱮ ᱰᱤᱵᱷᱟᱭᱤᱥ ᱦᱟᱸᱛᱮᱼᱱᱟᱸᱛᱮ ᱠᱟᱛᱮ ᱵᱷᱤᱰᱤᱭᱚ ᱜᱮᱢᱥ ᱨᱮᱭᱟᱜ ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱟᱨ ᱦᱟᱞᱪᱟᱞ ᱠᱚ ᱪᱟᱪᱞᱟᱣ ᱨᱮᱭᱟᱜ ᱫᱟᱣ ᱮ ᱮᱢᱟ ᱠᱚᱣᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+sports
+EXPLANATION:
+The sentence is"
+ᱯᱟᱨᱚᱢᱮᱱ ᱥᱮᱨᱢᱟ ᱨᱮ ᱢᱤᱫ ᱡᱚᱲᱟ ᱨᱮᱱᱟᱜ ᱵᱟᱯᱞᱟ ᱨᱮᱱᱟᱜ ᱯᱩᱭᱞᱩ ᱥᱟᱞᱜᱤᱨᱟᱦ ᱢᱟᱱᱟᱣ ᱞᱟᱹᱜᱤᱫ ᱯᱟᱨᱴᱤ ᱨᱮ ᱠᱚᱢ ᱠᱷᱚᱱ ᱠᱚᱢ ᱑᱐᱐ ᱦᱚᱲ ᱠᱚ ᱢᱮᱥᱟ ᱞᱮᱱ ᱛᱟᱦᱮᱱᱟ᱾,entertainment,N/A,"<|begin_of_text|>SENTENCE:
+ ᱯᱟᱨᱚᱢᱮᱱ ᱥᱮᱨᱢᱟ ᱨᱮ ᱢᱤᱫ ᱡᱚᱲᱟ ᱨᱮᱱᱟᱜ ᱵᱟᱯᱞᱟ ᱨᱮᱱᱟᱜ ᱯᱩᱭᱞᱩ ᱥᱟᱞᱜᱤᱨᱟᱦ ᱢᱟᱱᱟᱣ ᱞᱟᱹᱜᱤᱫ ᱯᱟᱨᱴᱤ ᱨᱮ ᱠᱚᱢ ᱠᱷᱚᱱ ᱠᱚᱢ ᱑᱐᱐ ᱦᱚᱲ ᱠᱚ ᱢᱮᱥᱟ ᱞᱮᱱ ᱛᱟᱦᱮᱱᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: None of the above 
+REASONING SKILL"
+"ᱯᱷᱤᱞᱢ ᱨᱮᱭᱟᱜ ᱵᱟᱨᱭᱟ ᱥᱮᱨᱮᱧ, ᱚᱰᱤᱥᱚᱱ (ᱫᱤ ᱯᱷᱩᱞᱥ ᱦᱩ ᱰᱨᱤᱢ) ᱟᱨ ᱥᱤᱴᱤ ᱚᱯᱷ ᱥᱴᱟᱨᱥ, ᱫᱚ ᱥᱚᱨᱮᱥ ᱢᱩᱞ ᱥᱮᱨᱮᱧ ᱞᱟᱹᱜᱤᱫ ᱢᱚᱱᱚᱱᱤᱛ ᱧᱟ ᱞᱮᱱᱟ᱾ ᱞᱟᱭᱚᱱᱥᱜᱮᱴ ᱥᱴᱩᱰᱤᱭᱳ ᱫᱚ ᱒᱖ ᱢᱚᱱᱚᱱᱤᱛ ᱧᱟᱢ ᱞᱮᱫ-ᱟᱭ — ᱟᱨ ᱮᱴᱟᱜ ᱥᱴᱩᱰᱤᱭᱳ ᱠᱷᱚᱱ ᱰᱷᱮᱨ ᱜᱮI",entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ ᱯᱷᱤᱞᱢ ᱨᱮᱭᱟᱜ ᱵᱟᱨᱭᱟ ᱥᱮᱨᱮᱧ, ᱚᱰᱤᱥᱚᱱ (ᱫᱤ ᱯᱷᱩᱞᱥ ᱦᱩ ᱰᱨᱤᱢ) ᱟᱨ ᱥᱤᱴᱤ ᱚᱯᱷ ᱥᱴᱟᱨᱥ, ᱫᱚ ᱥᱚᱨᱮᱥ ᱢᱩᱞ ᱥᱮᱨᱮᱧ ᱞᱟᱹᱜᱤᱫ ᱢᱚᱱᱚᱱᱤᱛ ᱧᱟ ᱞᱮᱱᱟ᱾ ᱞᱟᱭᱚᱱᱥᱜᱮᱴ ᱥᱴᱩᱰᱤᱭᱳ ᱫᱚ ᱒᱖ ᱢᱚᱱᱚᱱᱤᱛ ᱧᱟᱢ ᱞᱮᱫ-ᱟᱭ — ᱟᱨ ᱮᱴᱟᱜ ᱥᱴᱩᱰᱤᱭᱳ ᱠᱷᱚᱱ ᱰᱷᱮᱨ ᱜᱮI 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+The"
+ᱠᱨᱟᱥᱴ ᱥᱩᱨ ᱥᱮᱫ ᱞᱟᱜᱽᱵᱷᱟᱜᱽ ᱗᱐ ᱠᱤᱢᱤ ᱜᱟᱱ ᱢᱚᱴᱟ ᱟᱨ ᱥᱟᱺᱜᱤᱧ ᱨᱮᱱᱟᱜ ᱥᱮᱫ ᱑᱐᱐ ᱠᱤᱢᱤ ᱢᱚᱴᱟ ᱢᱮᱱᱟᱜᱼᱟ᱾,geography,geography,"<|begin_of_text|>SENTENCE:
+ ᱠᱨᱟᱥᱴ ᱥᱩᱨ ᱥᱮᱫ ᱞᱟᱜᱽᱵᱷᱟᱜᱽ ᱗᱐ ᱠᱤᱢᱤ ᱜᱟᱱ ᱢᱚᱴᱟ ᱟᱨ ᱥᱟᱺᱜᱤᱧ ᱨᱮᱱᱟᱜ ᱥᱮᱫ ᱑᱐᱐ ᱠᱤᱢᱤ ᱢᱚᱴᱟ ᱢᱮᱱᱟᱜᱼᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+geography
+EXPLANATION:
+The sentence"
+ᱥᱟᱺᱜᱤᱱ ᱠᱚᱧᱮᱸ ᱯᱟᱦᱴᱟ ᱨᱮ ᱱᱤᱭᱟᱜᱽᱨᱟ ᱯᱷᱚᱞᱥ ᱢᱮᱱᱟᱜᱼᱟ ᱟᱨ ᱮᱛᱚᱢ ᱨᱮ ᱢᱩᱥᱠᱚᱠᱟ ᱟᱨ ᱚᱱᱟ ᱠᱷᱚᱱ ᱞᱟᱦᱟ ᱨᱮᱱᱟᱜ ᱵᱟᱝ ᱵᱮᱵᱷᱟᱨ ᱟᱠᱟᱱ ᱥᱚᱨᱮᱥ ᱥᱤᱨᱡᱚᱱᱤᱭᱟᱹ ᱟᱜ ᱚᱲᱟᱜ ᱢᱮᱱᱟᱜᱼᱟ᱾,geography,geography,"<|begin_of_text|>SENTENCE:
+ ᱥᱟᱺᱜᱤᱱ ᱠᱚᱧᱮᱸ ᱯᱟᱦᱴᱟ ᱨᱮ ᱱᱤᱭᱟᱜᱽᱨᱟ ᱯᱷᱚᱞᱥ ᱢᱮᱱᱟᱜᱼᱟ ᱟᱨ ᱮᱛᱚᱢ ᱨᱮ ᱢᱩᱥᱠᱚᱠᱟ ᱟᱨ ᱚᱱᱟ ᱠᱷᱚᱱ ᱞᱟᱦᱟ ᱨᱮᱱᱟᱜ ᱵᱟᱝ ᱵᱮᱵᱷᱟᱨ ᱟᱠᱟᱱ ᱥᱚᱨᱮᱥ ᱥᱤᱨᱡᱚᱱᱤᱭᱟᱹ ᱟᱜ ᱚᱲᱟᱜ ᱢᱮᱱᱟᱜᱼᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+geography
+EXPLANATION:
+The sentence"
+"ᱮᱞᱥᱣᱟᱨᱛᱷ ᱞᱮᱸᱰ ᱯᱨᱟᱭᱫᱤᱯ ᱨᱮᱭᱟᱜ ᱫᱟᱠᱷᱤᱱ ᱨᱮ ᱢᱮᱱᱟᱜ ᱴᱚᱴᱷᱟ ᱠᱟᱱᱟ, ᱡᱟᱦᱟᱸ ᱫᱚ ᱵᱮᱞᱤᱝᱥᱦᱚᱥᱮᱱ ᱫᱚᱨᱭᱟ ᱛᱮ ᱜᱷᱮᱨᱟᱣ ᱟᱠᱟᱱᱟ᱾",geography,geography,"<|begin_of_text|>SENTENCE:
+ ᱮᱞᱥᱣᱟᱨᱛᱷ ᱞᱮᱸᱰ ᱯᱨᱟᱭᱫᱤᱯ ᱨᱮᱭᱟᱜ ᱫᱟᱠᱷᱤᱱ ᱨᱮ ᱢᱮᱱᱟᱜ ᱴᱚᱴᱷᱟ ᱠᱟᱱᱟ, ᱡᱟᱦᱟᱸ ᱫᱚ ᱵᱮᱞᱤᱝᱥᱦᱚᱥᱮᱱ ᱫᱚᱨᱭᱟ ᱛᱮ ᱜᱷᱮᱨᱟᱣ ᱟᱠᱟᱱᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+geography
+EXPLANATION:
+The sentence"
+ᱫᱟᱠᱷᱤᱱ ᱫᱷᱨᱩᱵᱽ ᱴᱨᱮᱣᱚᱥ (ᱟᱨᱵᱟᱝ ᱨᱟᱡᱽᱰᱟᱦᱟᱨ) ᱨᱚᱥ ᱫᱚᱨᱭᱟ ᱨᱮ ᱢᱮᱠᱢᱩᱨᱰᱳ ᱮᱥᱴᱮᱥᱚᱱ ᱠᱷᱚᱱ ᱫᱷᱨᱩᱵᱽ ᱦᱟᱹᱵᱤᱡ ᱑᱖᱐᱐ ᱠᱤᱢᱤ ᱨᱮᱭᱟᱜ ᱰᱟᱦᱟᱨ ᱢᱮᱱᱟᱜᱼᱟ᱾,geography,travel,"<|begin_of_text|>SENTENCE:
+ ᱫᱟᱠᱷᱤᱱ ᱫᱷᱨᱩᱵᱽ ᱴᱨᱮᱣᱚᱥ (ᱟᱨᱵᱟᱝ ᱨᱟᱡᱽᱰᱟᱦᱟᱨ) ᱨᱚᱥ ᱫᱚᱨᱭᱟ ᱨᱮ ᱢᱮᱠᱢᱩᱨᱰᱳ ᱮᱥᱴᱮᱥᱚᱱ ᱠᱷᱚᱱ ᱫᱷᱨᱩᱵᱽ ᱦᱟᱹᱵᱤᱡ ᱑᱖᱐᱐ ᱠᱤᱢᱤ ᱨᱮᱭᱟᱜ ᱰᱟᱦᱟᱨ ᱢᱮᱱᱟᱜᱼᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The sentence"
+"ᱢᱟᱪᱩ ᱯᱤᱪᱩ ᱨᱮᱭᱟᱜ ᱮᱛᱚᱢ ᱫᱷᱟᱨᱮ ᱨᱮᱭᱟᱜ ᱪᱮᱛᱟᱱ ᱴᱟᱣᱟᱨᱤᱝ ᱱᱚᱶᱟ ᱨᱟᱠᱟᱵ ᱠᱟᱱ ᱵᱩᱨᱩ ᱠᱟᱱᱟ, ᱚᱝᱠᱟ ᱜᱮ ᱠᱷᱚᱱᱰᱦᱚᱨ ᱨᱮᱭᱟᱜ ᱟᱭᱢᱟ ᱪᱤᱛᱟᱹᱨᱤ ᱯᱨᱩᱥᱴᱵᱷᱩᱢᱤ᱾",geography,geography,"<|begin_of_text|>SENTENCE:
+ ᱢᱟᱪᱩ ᱯᱤᱪᱩ ᱨᱮᱭᱟᱜ ᱮᱛᱚᱢ ᱫᱷᱟᱨᱮ ᱨᱮᱭᱟᱜ ᱪᱮᱛᱟᱱ ᱴᱟᱣᱟᱨᱤᱝ ᱱᱚᱶᱟ ᱨᱟᱠᱟᱵ ᱠᱟᱱ ᱵᱩᱨᱩ ᱠᱟᱱᱟ, ᱚᱝᱠᱟ ᱜᱮ ᱠᱷᱚᱱᱰᱦᱚᱨ ᱨᱮᱭᱟᱜ ᱟᱭᱢᱟ ᱪᱤᱛᱟᱹᱨᱤ ᱯᱨᱩᱥᱴᱵᱷᱩᱢᱤ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+geography
+EXPLANATION:
+The sentence"
+"ᱮᱱᱥᱮᱞᱰᱟᱥ ᱫᱚ ᱥᱚᱞᱟᱨ ᱥᱤᱥᱴᱟᱢ ᱨᱮ ᱥᱟᱱᱟᱢ ᱠᱷᱚᱱ ᱨᱤᱯᱷᱞᱮᱠᱴᱤᱵᱷ ᱚᱵᱽᱡᱮᱠᱴ ᱠᱟᱱᱟ, ᱡᱟᱦᱟᱸ ᱫᱚ ᱙᱐ ᱯᱟᱨᱥᱮᱱᱴ ᱜᱟᱱ ᱥᱤᱧ ᱪᱟᱸᱫᱚ ᱟᱜ ᱢᱟᱨᱥᱟᱞ ᱛᱮ ᱞᱚᱞᱚ ᱮᱫᱟᱭ᱾",geography,geography,"<|begin_of_text|>SENTENCE:
+ ᱮᱱᱥᱮᱞᱰᱟᱥ ᱫᱚ ᱥᱚᱞᱟᱨ ᱥᱤᱥᱴᱟᱢ ᱨᱮ ᱥᱟᱱᱟᱢ ᱠᱷᱚᱱ ᱨᱤᱯᱷᱞᱮᱠᱴᱤᱵᱷ ᱚᱵᱽᱡᱮᱠᱴ ᱠᱟᱱᱟ, ᱡᱟᱦᱟᱸ ᱫᱚ ᱙᱐ ᱯᱟᱨᱥᱮᱱᱴ ᱜᱟᱱ ᱥᱤᱧ ᱪᱟᱸᱫᱚ ᱟᱜ ᱢᱟᱨᱥᱟᱞ ᱛᱮ ᱞᱚᱞᱚ ᱮᱫᱟᱭ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+�"
+"ᱪᱮᱛᱟᱱ ᱥᱟᱯᱷᱟ, ᱪᱚᱨᱚᱠ ᱥᱮᱨᱢᱟ ᱟᱨ ᱟᱸᱰᱮᱯᱟᱥᱮ ᱢᱮᱱᱟᱜ ᱟᱭᱢᱟ ᱵᱩᱨᱩ ᱠᱚ ᱪᱷᱚᱲᱟ ᱟᱨ ᱪᱮᱫ ᱠᱚ ᱦᱚᱸ ᱧᱮᱞ ᱵᱟᱭ ᱜᱟᱱᱚᱜᱼᱟ᱾ ᱱᱚᱶᱟ ᱡᱮᱜᱮᱛ ᱨᱮ ᱜᱷᱚᱸᱜᱚᱨ ᱵᱷᱤᱛᱨᱭ ᱨᱮ ᱟᱹᱰᱤ ᱠᱚᱢ ᱜᱮ ᱟᱸᱡᱚᱢ ᱜᱟᱱᱚᱜ ᱠᱟᱱᱟ᱾",geography,geography,"<|begin_of_text|>SENTENCE:
+ ᱪᱮᱛᱟᱱ ᱥᱟᱯᱷᱟ, ᱪᱚᱨᱚᱠ ᱥᱮᱨᱢᱟ ᱟᱨ ᱟᱸᱰᱮᱯᱟᱥᱮ ᱢᱮᱱᱟᱜ ᱟᱭᱢᱟ ᱵᱩᱨᱩ ᱠᱚ ᱪᱷᱚᱲᱟ ᱟᱨ ᱪᱮᱫ ᱠᱚ ᱦᱚᱸ ᱧᱮᱞ ᱵᱟᱭ ᱜᱟᱱᱚᱜᱼᱟ᱾ ᱱᱚᱶᱟ ᱡᱮᱜᱮᱛ ᱨᱮ ᱜᱷᱚᱸᱜᱚᱨ ᱵᱷᱤᱛᱨᱭ ᱨᱮ ᱟᱹᱰᱤ ᱠᱚᱢ ᱜᱮ ᱟᱸᱡᱚᱢ ᱜᱟᱱᱚᱜ ᱠᱟᱱᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+geography
+REASONING SKILL:
+"
+"ᱱᱤᱛ ᱫᱚ ᱡᱟᱯᱟᱱ ᱞᱟᱹᱜᱤᱫ, ᱡᱟᱯᱟᱱ ᱫᱚ ᱢᱤᱫ ᱫᱤᱯ ᱫᱤᱥᱚᱢ ᱛᱟᱦᱮᱸ ᱠᱟᱱᱟ, ᱵᱽᱨᱤᱴᱮᱱ ᱞᱮᱠᱟ ᱜᱮ᱾",geography,geography,"<|begin_of_text|>SENTENCE:
+ ᱱᱤᱛ ᱫᱚ ᱡᱟᱯᱟᱱ ᱞᱟᱹᱜᱤᱫ, ᱡᱟᱯᱟᱱ ᱫᱚ ᱢᱤᱫ ᱫᱤᱯ ᱫᱤᱥᱚᱢ ᱛᱟᱦᱮᱸ ᱠᱟᱱᱟ, ᱵᱽᱨᱤᱴᱮᱱ ᱞᱮᱠᱟ ᱜᱮ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+geography
+EXPLANATION:
+The sentence"
+"ᱟᱯᱱᱟᱨ ᱪᱟᱨᱟᱢ ᱨᱮ, ᱩᱥᱬᱠᱟᱴᱤᱵᱟᱸᱫᱷᱤᱭᱚ ᱪᱟᱠᱨᱟᱣᱟᱛ ᱜᱳᱱᱩ, ᱡᱟᱦᱟᱸᱭ ᱫᱚ ᱢᱟᱞᱫᱤᱣ ᱨᱮᱱᱟᱜ ᱨᱚᱲ ᱨᱮ ᱛᱟᱲ ᱨᱮᱱᱟᱜ ᱥᱟᱠᱟᱢ ᱨᱮᱱᱟᱜ ᱢᱤᱫ ᱵᱮᱭᱜᱽ ᱥᱟᱶ ᱧᱩᱛᱩᱢ ᱛᱮ ᱵᱟᱰᱟᱭᱚᱜ ᱠᱟᱱᱟ, ᱒᱔᱐ ᱠᱤᱢᱤ ᱯᱨᱚᱛᱤ ᱴᱟᱲᱟᱝ (᱑᱔᱙ ᱢᱤᱞ ᱯᱨᱟᱛᱤ ᱴᱟᱲᱟᱝ) ᱨᱮᱱᱟᱜ ᱱᱤᱨᱟᱸᱛᱟᱨ ᱦᱚᱭ ᱵᱟᱹᱵᱤᱡ ᱥᱮᱴᱮᱨ ᱮᱱᱟ᱾",geography,geography,"<|begin_of_text|>SENTENCE:
+ ᱟᱯᱱᱟᱨ ᱪᱟᱨᱟᱢ ᱨᱮ, ᱩᱥᱬᱠᱟᱴᱤᱵᱟᱸᱫᱷᱤᱭᱚ ᱪᱟᱠᱨᱟᱣᱟᱛ ᱜᱳᱱᱩ, ᱡᱟᱦᱟᱸᱭ ᱫᱚ ᱢᱟᱞᱫᱤᱣ ᱨᱮᱱᱟᱜ ᱨᱚᱲ ᱨᱮ ᱛᱟᱲ ᱨᱮᱱᱟᱜ ᱥᱟᱠᱟᱢ ᱨᱮᱱᱟᱜ ᱢᱤᱫ ᱵᱮᱭᱜᱽ ᱥᱟᱶ ᱧᱩᱛᱩᱢ ᱛᱮ ᱵᱟᱰᱟᱭᱚᱜ ᱠᱟᱱᱟ, ᱒᱔᱐ ᱠᱤᱢᱤ ᱯᱨᱚᱛᱤ ᱴᱟᱲᱟᱝ (᱑᱔᱙ ᱢᱤᱞ ᱯᱨᱟᱛᱤ ᱴᱟᱲᱟᱝ) ᱨᱮᱱᱟᱜ ᱱᱤᱨᱟᱸᱛᱟᱨ ᱦᱚᱭ ᱵᱟᱹᱵᱤᱡ ᱥᱮᱴᱮᱨ ᱮᱱᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+"ᱡᱷᱤᱞ ᱥᱟᱶᱛᱮ ᱛᱩᱨᱠᱤ ᱨᱮᱭᱟᱜ ᱠᱷᱮᱛᱨᱚᱯᱷᱚᱞ ᱗᱘᱓,᱕᱖᱒ ᱣᱚᱨᱜᱽ ᱠᱤᱞᱚᱢᱤᱴᱚᱨ (᱓᱐᱐,᱙᱔᱘ ᱪᱟᱹᱣᱠᱟᱹ ᱠᱤᱢᱤᱹ) ᱢᱮᱱᱟᱜᱼᱟ, ᱡᱟᱦᱟᱸᱭ ᱠᱷᱚᱱ ᱗᱕᱕,᱖᱘᱘ ᱣᱚᱨᱜᱽ ᱠᱤᱞᱚᱢᱤᱴᱚᱨ (᱒᱙᱑,᱗᱗᱓ ᱪᱟᱹᱣᱠᱟᱹ ᱠᱤᱹᱢᱤᱹ) ᱠᱚᱸᱭᱮ ᱯᱟᱪᱮ ᱮᱥᱤᱭᱟ ᱨᱮ ᱟᱨ ᱒᱓,᱗᱖᱔ ᱣᱚᱨᱜᱽ ᱠᱤᱞᱚᱢᱤᱴᱚᱨ (᱙,᱑᱗᱔ ᱪᱟᱹᱣᱠᱟᱹ ᱠᱤᱹᱢᱤᱹ) ᱭᱩᱨᱚᱯ ᱨᱮ ᱢᱮᱱᱟᱜᱼᱟ᱾",geography,geography,"<|begin_of_text|>SENTENCE:
+ ᱡᱷᱤᱞ ᱥᱟᱶᱛᱮ ᱛᱩᱨᱠᱤ ᱨᱮᱭᱟᱜ ᱠᱷᱮᱛᱨᱚᱯᱷᱚᱞ ᱗᱘᱓,᱕᱖᱒ ᱣᱚᱨᱜᱽ ᱠᱤᱞᱚᱢᱤᱴᱚᱨ (᱓᱐᱐,᱙᱔᱘ ᱪᱟᱹᱣᱠᱟᱹ ᱠᱤᱢᱤᱹ) ᱢᱮᱱᱟᱜᱼᱟ, ᱡᱟᱦᱟᱸᱭ ᱠᱷᱚᱱ ᱗᱕᱕,᱖᱘᱘ ᱣᱚᱨᱜᱽ ᱠᱤᱞᱚᱢᱤᱴᱚᱨ (᱒᱙᱑,᱗᱗᱓ ᱪᱟᱹᱣᱠᱟᱹ ᱠᱤᱹᱢᱤᱹ) ᱠᱚᱸᱭᱮ ᱯᱟᱪᱮ ᱮᱥᱤᱭᱟ ᱨᱮ ᱟᱨ ᱒᱓,᱗᱖᱔ ᱣᱚᱨᱜᱽ ᱠᱤᱞᱚᱢᱤᱴᱚᱨ (᱙,᱑᱗᱔ ᱪᱟᱹᱣᱠᱟᱹ ᱠᱤᱹᱢᱤᱹ) ᱭᱩᱨᱚᱯ ᱨᱮ ᱢᱮᱱᱟᱜᱼᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+᱑᱘᱑᱙ ᱨᱮ ᱛᱚᱞᱟᱥ ᱟᱠᱟᱫ ᱫᱟᱠᱷᱤᱱ ᱥᱮᱴᱞᱮᱸᱰ ᱫᱤᱯ ᱞᱟᱹᱠᱛᱤ ᱨᱮ ᱡᱟᱦᱟᱸ ᱫᱤᱥᱚᱢ ᱠᱚ ᱫᱟᱨᱟᱭ ᱛᱮ ᱫᱟᱵᱤ ᱟᱠᱟᱫᱟ ᱟᱨ ᱒᱐᱒᱐ ᱨᱮ ᱜᱮᱞ ᱵᱟᱨ ᱛᱩᱨᱩᱭ ᱥᱚᱠᱪᱷᱚᱢ ᱥᱟᱶᱛᱮ ᱡᱚᱛᱚ ᱠᱷᱚᱱ ᱵᱟᱹᱲᱛᱤ ᱴᱤᱠᱮᱱᱟ ᱢᱮᱱᱟᱜᱼᱟ᱾,geography,geography,"<|begin_of_text|>SENTENCE:
+ ᱑᱘᱑᱙ ᱨᱮ ᱛᱚᱞᱟᱥ ᱟᱠᱟᱫ ᱫᱟᱠᱷᱤᱱ ᱥᱮᱴᱞᱮᱸᱰ ᱫᱤᱯ ᱞᱟᱹᱠᱛᱤ ᱨᱮ ᱡᱟᱦᱟᱸ ᱫᱤᱥᱚᱢ ᱠᱚ ᱫᱟᱨᱟᱭ ᱛᱮ ᱫᱟᱵᱤ ᱟᱠᱟᱫᱟ ᱟᱨ ᱒᱐᱒᱐ ᱨᱮ ᱜᱮᱞ ᱵᱟᱨ ᱛᱩᱨᱩᱭ ᱥᱚᱠᱪᱷᱚᱢ ᱥᱟᱶᱛᱮ ᱡᱚᱛᱚ ᱠᱷᱚᱱ ᱵᱟᱹᱲᱛᱤ ᱴᱤᱠᱮᱱᱟ ᱢᱮᱱᱟᱜᱼᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+�"
+"ᱟᱯᱤᱭᱟ ᱫᱚ ᱥᱟᱢᱳᱣᱟ ᱨᱮᱭᱟᱜ ᱨᱟᱡᱽᱫᱷᱟᱹᱱᱤ ᱠᱟᱱᱟ᱾ ᱱᱚᱶᱟ ᱵᱟᱡᱟᱨ ᱫᱚ ᱩᱯᱳᱞᱩ ᱫᱤᱯ ᱪᱮᱛᱟᱱ ᱨᱮ ᱢᱮᱱᱟᱜᱼᱟ ᱟᱨ ᱔᱐,᱐᱐᱐ ᱦᱚᱲ ᱢᱮᱱᱟᱜ ᱠᱚᱣᱟ᱾",geography,geography,"<|begin_of_text|>SENTENCE:
+ ᱟᱯᱤᱭᱟ ᱫᱚ ᱥᱟᱢᱳᱣᱟ ᱨᱮᱭᱟᱜ ᱨᱟᱡᱽᱫᱷᱟᱹᱱᱤ ᱠᱟᱱᱟ᱾ ᱱᱚᱶᱟ ᱵᱟᱡᱟᱨ ᱫᱚ ᱩᱯᱳᱞᱩ ᱫᱤᱯ ᱪᱮᱛᱟᱱ ᱨᱮ ᱢᱮᱱᱟᱜᱼᱟ ᱟᱨ ᱔᱐,᱐᱐᱐ ᱦᱚᱲ ᱢᱮᱱᱟᱜ ᱠᱚᱣᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+�"
+"ᱦᱚᱭᱼᱵᱟᱹᱲᱰᱩ ᱞᱮᱱᱰᱯᱷᱚᱞ ᱠᱷᱚᱱ ᱥᱟᱺᱜᱤᱧ ᱨᱮ ᱢᱮᱱᱟᱜ ᱛᱮ, ᱥᱮᱞᱮᱫ ᱯᱚᱱᱚᱛ ᱟᱢᱮᱨᱤᱠᱟ ᱟᱨ ᱠᱮᱨᱤᱵᱤᱭᱟᱱ ᱨᱮ ᱱᱚᱣᱟ ᱨᱮᱭᱟᱜ ᱚᱨᱥᱚᱝ ᱵᱟᱝ ᱟᱹᱭᱩᱢᱟᱱ ᱜᱟᱱᱚᱜ ᱠᱟᱱᱟ᱾",geography,geography,"<|begin_of_text|>SENTENCE:
+ ᱦᱚᱭᱼᱵᱟᱹᱲᱰᱩ ᱞᱮᱱᱰᱯᱷᱚᱞ ᱠᱷᱚᱱ ᱥᱟᱺᱜᱤᱧ ᱨᱮ ᱢᱮᱱᱟᱜ ᱛᱮ, ᱥᱮᱞᱮᱫ ᱯᱚᱱᱚᱛ ᱟᱢᱮᱨᱤᱠᱟ ᱟᱨ ᱠᱮᱨᱤᱵᱤᱭᱟᱱ ᱨᱮ ᱱᱚᱣᱟ ᱨᱮᱭᱟᱜ ᱚᱨᱥᱚᱝ ᱵᱟᱝ ᱟᱹᱭᱩᱢᱟᱱ ᱜᱟᱱᱚᱜ ᱠᱟᱱᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+geography
+REASONING SKILL:
+"
+ᱱᱚᱶᱟ ᱢᱟᱨᱤᱭᱟ ᱞᱟᱛᱟᱨ ᱨᱮᱱᱟᱜ ᱫᱚ ᱱᱟᱱᱦᱟ ᱟᱨ ᱦᱟᱭᱤᱞᱮᱱᱰᱥ ᱞᱟᱛᱟᱨ ᱢᱚᱴᱟ ᱛᱟᱦᱮᱱ ᱠᱟᱱᱟ᱾,geography,geography,"<|begin_of_text|>SENTENCE:
+ ᱱᱚᱶᱟ ᱢᱟᱨᱤᱭᱟ ᱞᱟᱛᱟᱨ ᱨᱮᱱᱟᱜ ᱫᱚ ᱱᱟᱱᱦᱟ ᱟᱨ ᱦᱟᱭᱤᱞᱮᱱᱰᱥ ᱞᱟᱛᱟᱨ ᱢᱚᱴᱟ ᱛᱟᱦᱮᱱ ᱠᱟᱱᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+geography
+EXPLANATION:
+The sentence"
+ᱵᱤᱨ ᱫᱚ ᱠᱷᱟᱹᱞᱤ ᱢᱮᱝᱜᱽᱨᱳᱵᱷ ᱥᱣᱟᱢᱯᱥ ᱵᱟᱝ ᱠᱟᱱᱟ — ᱱᱚᱣᱟ ᱨᱮ ᱚᱱᱟ ᱫᱟᱲᱮᱭᱟᱱ ᱵᱤᱨᱠᱚ ᱨᱮᱭᱟᱜ ᱢᱩᱪᱟᱹᱫ ᱥᱟᱨᱮᱡ ᱛᱤᱸᱜᱩ ᱢᱮᱱᱟᱜᱼᱟ ᱡᱟᱦᱟᱸ ᱢᱤᱫ ᱚᱠᱛᱚ ᱜᱟᱝᱜᱮᱴᱤᱠ ᱯᱞᱮᱱ ᱮᱥᱮᱫ ᱛᱟᱦᱮᱸ ᱠᱟᱱᱟ᱾,geography,science/technology,"<|begin_of_text|>SENTENCE:
+ ᱵᱤᱨ ᱫᱚ ᱠᱷᱟᱹᱞᱤ ᱢᱮᱝᱜᱽᱨᱳᱵᱷ ᱥᱣᱟᱢᱯᱥ ᱵᱟᱝ ᱠᱟᱱᱟ — ᱱᱚᱣᱟ ᱨᱮ ᱚᱱᱟ ᱫᱟᱲᱮᱭᱟᱱ ᱵᱤᱨᱠᱚ ᱨᱮᱭᱟᱜ ᱢᱩᱪᱟᱹᱫ ᱥᱟᱨᱮᱡ ᱛᱤᱸᱜᱩ ᱢᱮᱱᱟᱜᱼᱟ ᱡᱟᱦᱟᱸ ᱢᱤᱫ ᱚᱠᱛᱚ ᱜᱟᱝᱜᱮᱴᱤᱠ ᱯᱞᱮᱱ ᱮᱥᱮᱫ ᱛᱟᱦᱮᱸ ᱠᱟᱱᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science
+EXPLANATION:
+The given sentence is"
+ᱭᱩᱱᱟᱭᱴᱮᱰ ᱥᱴᱮᱴᱥ ᱨᱮᱭᱟᱜ ᱡᱤᱭᱳᱞᱳᱡᱤᱠᱟᱞ ᱥᱚᱨᱵᱷᱮ ᱡᱮ-ᱡᱟᱹᱛᱤᱭᱟᱨᱤ ᱵᱷᱩᱠᱚᱢᱯ ᱢᱮᱸᱯ ᱫᱚ ᱢᱤᱫ ᱦᱟᱯᱛᱟ ᱢᱟᱬᱟᱝ ᱟᱭᱤᱥᱞᱟᱸᱰ ᱨᱮ ᱪᱮᱫ ᱵᱷᱩᱠᱚᱢᱯ ᱵᱟᱭ ᱫᱮᱠᱷᱟᱣ ᱞᱮᱫ-ᱟᱭ᱾,geography,science/technology,"<|begin_of_text|>SENTENCE:
+ ᱭᱩᱱᱟᱭᱴᱮᱰ ᱥᱴᱮᱴᱥ ᱨᱮᱭᱟᱜ ᱡᱤᱭᱳᱞᱳᱡᱤᱠᱟᱞ ᱥᱚᱨᱵᱷᱮ ᱡᱮ-ᱡᱟᱹᱛᱤᱭᱟᱨᱤ ᱵᱷᱩᱠᱚᱢᱯ ᱢᱮᱸᱯ ᱫᱚ ᱢᱤᱫ ᱦᱟᱯᱛᱟ ᱢᱟᱬᱟᱝ ᱟᱭᱤᱥᱞᱟᱸᱰ ᱨᱮ ᱪᱮᱫ ᱵᱷᱩᱠᱚᱢᱯ ᱵᱟᱭ ᱫᱮᱠᱷᱟᱣ ᱞᱮᱫ-ᱟᱭ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science
+EXPLANATION:
+The sentence is about"
+"ᱢᱟᱹᱠᱠᱟ ᱨᱮᱭᱟᱜ ᱮᱛᱚᱢ ᱨᱮᱭᱟᱜ ᱵᱩᱨᱩ ᱠᱷᱚᱱ ᱢᱤᱫᱴᱟᱹᱝ ᱪᱟᱹᱴᱤ ᱨᱮ ᱢᱮᱱᱟᱜᱼᱟ, ᱜᱷᱚᱸᱜᱚᱨ ᱫᱚ ᱵᱟᱹᱠᱤ ᱡᱟᱭᱜᱟ ᱠᱷᱚᱱ ᱯᱩᱨᱟᱹᱼᱯᱩᱨᱤ ᱵᱷᱮᱜᱟᱨ ᱜᱮᱭᱟ᱾",geography,geography,"<|begin_of_text|>SENTENCE:
+ ᱢᱟᱹᱠᱠᱟ ᱨᱮᱭᱟᱜ ᱮᱛᱚᱢ ᱨᱮᱭᱟᱜ ᱵᱩᱨᱩ ᱠᱷᱚᱱ ᱢᱤᱫᱴᱟᱹᱝ ᱪᱟᱹᱴᱤ ᱨᱮ ᱢᱮᱱᱟᱜᱼᱟ, ᱜᱷᱚᱸᱜᱚᱨ ᱫᱚ ᱵᱟᱹᱠᱤ ᱡᱟᱭᱜᱟ ᱠᱷᱚᱱ ᱯᱩᱨᱟᱹᱼᱯᱩᱨᱤ ᱵᱷᱮᱜᱟᱨ ᱜᱮᱭᱟ᱾ 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+geography
+EXPLANATION:
+The sentence"

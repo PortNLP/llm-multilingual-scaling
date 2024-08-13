@@ -1,0 +1,3011 @@
+text,actual_category,predicted_category,generated_text
+"Mae mwtaniad yn ychwanegu amrywiad genetig newydd, ac mae detholiad yn ei dynnu o'r gronfa o amrywiad a fynegir.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Mae mwtaniad yn ychwanegu amrywiad genetig newydd, ac mae detholiad yn ei dynnu o'r gronfa o amrywiad a fynegir. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Mae"
+Mae'r bom ymholltiad yn gweithio ar yr egwyddor ei bod yn cymryd ynni i ffurfio niwclews â llawer o brotonau a niwtronau.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Mae'r bom ymholltiad yn gweithio ar yr egwyddor ei bod yn cymryd ynni i ffurfio niwclews â llawer o brotonau a niwtronau. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science
+EXPLANATION:
+Mae'r g"
+Mae'r niwclews yn cynnwys dau ronyn - niwtronau a phrotonau.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Mae'r niwclews yn cynnwys dau ronyn - niwtronau a phrotonau. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science
+EXPLANATION:
+Mae'r g"
+Mae hyn wedi caniatáu i lensys chwyddo gynhyrchu llunia o ansawdd tebyg i'r ansawdd a gyflawnir gan lensys â hyd ffocal sefydlog.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Mae hyn wedi caniatáu i lensys chwyddo gynhyrchu llunia o ansawdd tebyg i'r ansawdd a gyflawnir gan lensys â hyd ffocal sefydlog. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science
+EXPLANATION:
+Hwn yw"
+"Maen nhw'n well na dirprwyon gwe am nifer o resymau: maen nhw'n arall-gyfeirio holl draffig y Rhyngrwyd, nid http yn unig.",science/technology,entertainment,"<|begin_of_text|>SENTENCE:
+ Maen nhw'n well na dirprwyon gwe am nifer o resymau: maen nhw'n arall-gyfeirio holl draffig y Rhyngrwyd, nid http yn unig. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+This"
+Mae dylunio rhyngweithiol yn gofyn i chi ail-asesu eich rhagdybiaethau am gynhyrchu cyfryngau a dysgu i feddwl mewn ffyrdd aflinol.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Mae dylunio rhyngweithiol yn gofyn i chi ail-asesu eich rhagdybiaethau am gynhyrchu cyfryngau a dysgu i feddwl mewn ffyrdd aflinol. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Mae"
+"Daeth hyn yn arfer cyffredin, ond achosodd yr haearn ragor o draul ar olwynion coed y wagenni.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Daeth hyn yn arfer cyffredin, ond achosodd yr haearn ragor o draul ar olwynion coed y wagenni. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+This sentence"
+"Mae cnudoedd yn cynnwys un i dri o lewod gwrywaidd aeddfed sy'n perthyn, ynghyd â hyd at ddeg ar hugain o ferched a chenawon.",science/technology,geography,"<|begin_of_text|>SENTENCE:
+ Mae cnudoedd yn cynnwys un i dri o lewod gwrywaidd aeddfed sy'n perthyn, ynghyd â hyd at ddeg ar hugain o ferched a chenawon. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION: Mae"
+"Er bod arwyddocâd o ffuglen wyddonol i Ddeallusrwydd Artiffisial, mae Deallusrwydd Artiffisial yn ffurfio cangen bwysig iawn o gyfrifiadureg, gan ddelio gydag ymddygiad, dysgu ac addasu deallus mewn peiriant.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Er bod arwyddocâd o ffuglen wyddonol i Ddeallusrwydd Artiffisial, mae Deallusrwydd Artiffisial yn ffurfio cangen bwysig iawn o gyfrifiadureg, gan ddelio gydag ymddygiad, dysgu ac addasu deallus mewn peiriant. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science
+ REASONING: 
+ This question requires"
+Felly dywedir mai cymhareb agwedd y fformat hwn (gan rannu â deuddeg i gael y gymhareb rhif cyfan mwyaf syml) yw 3:2.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Felly dywedir mai cymhareb agwedd y fformat hwn (gan rannu â deuddeg i gael y gymhareb rhif cyfan mwyaf syml) yw 3:2. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+ Mae'r"
+"Nid yw ffôn lloeren yn gyffredinol yn cymryd lle ffôn symudol, gan fod rhaid i chi fod y tu allan gyda llinell welediad glir i'r lloeren i wneud galwad ffôn.",science/technology,travel,"<|begin_of_text|>SENTENCE:
+ Nid yw ffôn lloeren yn gyffredinol yn cymryd lle ffôn symudol, gan fod rhaid i chi fod y tu allan gyda llinell welediad glir i'r lloeren i wneud galwad ffôn. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+ Mae'r"
+"Er bod cledrau wagenni'n cynnwys planciau cyfochrog o bren yn unig, roeddent yn galluogi ceffylau i'w tynnu i gyflawni cyflymderau uwch a thynnu llwythi mwy nac ar ffyrdd ychydig mwy garw'r cyfnod.",science/technology,geography,"<|begin_of_text|>SENTENCE:
+ Er bod cledrau wagenni'n cynnwys planciau cyfochrog o bren yn unig, roeddent yn galluogi ceffylau i'w tynnu i gyflawni cyflymderau uwch a thynnu llwythi mwy nac ar ffyrdd ychydig mwy garw'r cyfnod. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+ Mae"
+"Mae pobl wedi gwybod am elfennau cemegol sylfaenol fel aur, arian, a chopr ers yr hen oesoedd, gan y gall bob un o'r rhain gael eu darganfod mewn ffurf gynhenid ac maen nhw'n gymharol syml i'w cloddio ag offer cyntefig.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Mae pobl wedi gwybod am elfennau cemegol sylfaenol fel aur, arian, a chopr ers yr hen oesoedd, gan y gall bob un o'r rhain gael eu darganfod mewn ffurf gynhenid ac maen nhw'n gymharol syml i'w cloddio ag offer cyntefig. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Mae"
+Mae'r olwyn wedi newid y byd mewn ffyrdd anhygoel. Y peth mwyaf mae'r olwyn wedi ei wneud i ni yw rhoi cludiant llawer haws a chyflymach i ni.,science/technology,travel,"<|begin_of_text|>SENTENCE:
+ Mae'r olwyn wedi newid y byd mewn ffyrdd anhygoel. Y peth mwyaf mae'r olwyn wedi ei wneud i ni yw rhoi cludiant llawer haws a chyflymach i ni. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Mae"
+Mae hyn yn cael ei wneud i wneud yn siwr bod y ddelwedd yn cwmpasu'r sgrin i gyd. Yr enw ar hynny yw dros-sgan.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Mae hyn yn cael ei wneud i wneud yn siwr bod y ddelwedd yn cwmpasu'r sgrin i gyd. Yr enw ar hynny yw dros-sgan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Mae"
+Cychod-U oedd enw llongau tanfor yr Almaen. Roedd yr Almaenwyr yn dda iawn am fordwyo a gweithredu eu llongau tanfor.,science/technology,geography,"<|begin_of_text|>SENTENCE:
+ Cychod-U oedd enw llongau tanfor yr Almaen. Roedd yr Almaenwyr yn dda iawn am fordwyo a gweithredu eu llongau tanfor. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+ Mae"
+"Er y gall ei gyflwr ffisegol newid, mae ei gyflwr cemegol yn aros yr un fath.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Er y gall ei gyflwr ffisegol newid, mae ei gyflwr cemegol yn aros yr un fath. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+ Mae'r"
+Mae tyndra arwyneb yn digwydd oherwydd bod moleciwlau dŵr ar arwyneb y dŵr wedi'u denu'n gryf at ei gilydd yn fwy nac y maen nhw at y moleciwlau aer uwch eu pennau.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Mae tyndra arwyneb yn digwydd oherwydd bod moleciwlau dŵr ar arwyneb y dŵr wedi'u denu'n gryf at ei gilydd yn fwy nac y maen nhw at y moleciwlau aer uwch eu pennau. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science
+EXPLANATION:
+Hwn yw"
+Un o'r problemau mwyaf cyffredin wrth geisio trosi ffilm i fformat DVD yw'r tros-sgan.,science/technology,entertainment,"<|begin_of_text|>SENTENCE:
+ Un o'r problemau mwyaf cyffredin wrth geisio trosi ffilm i fformat DVD yw'r tros-sgan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+ Mae"
+"Yn benodol, honnir y gellir darganfod a yw unigolyn yn dweud celwydd trwy ddehongli microfynegiadau yn gywir.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Yn benodol, honnir y gellir darganfod a yw unigolyn yn dweud celwydd trwy ddehongli microfynegiadau yn gywir. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+ Mae'r"
+Mae modd gweithio aur i bob math o siapiau. Mae'n gallu cael ei rolio i siapiau bychain.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Mae modd gweithio aur i bob math o siapiau. Mae'n gallu cael ei rolio i siapiau bychain. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Mae"
+"Mae'r system AI yn awr yn cael ei defnyddio'n aml ym meysydd economeg, meddygaeth, peirianneg a'r lluoedd arfog, fel y mae wedi'i adeiladu mewn sawl ap cyfrifiadur cartref a meddalwedd gemau fideo.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Mae'r system AI yn awr yn cael ei defnyddio'n aml ym meysydd economeg, meddygaeth, peirianneg a'r lluoedd arfog, fel y mae wedi'i adeiladu mewn sawl ap cyfrifiadur cartref a meddalwedd gemau fideo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Mae"
+"Mae'n dal i gael ei gynhyrchu heddiw, ond yn bwysicach mae ei gymhareb agwedd wedi cael ei etifeddu gan fformatau synhwyrydd delwedd camerâu digidol.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Mae'n dal i gael ei gynhyrchu heddiw, ond yn bwysicach mae ei gymhareb agwedd wedi cael ei etifeddu gan fformatau synhwyrydd delwedd camerâu digidol. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Mae"
+Mae'r rheol draeanau sy'n cael ei cham-drin a'i gwawdio'n aml yn ganllaw syml sy'n creu deinameg wrth gadw mesur o drefn mewn delwedd.,science/technology,geography,"<|begin_of_text|>SENTENCE:
+ Mae'r rheol draeanau sy'n cael ei cham-drin a'i gwawdio'n aml yn ganllaw syml sy'n creu deinameg wrth gadw mesur o drefn mewn delwedd. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION: Mae"
+"Yn ogystal â chadarnhau bod gan rai deinosoriaid o leiaf blu, damcaniaeth sydd eisoes ar led, mae hefyd yn darparu manylion na all ffosiliau yn gyffredinol, megis lliw a threfn tri-dimensiwn.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Yn ogystal â chadarnhau bod gan rai deinosoriaid o leiaf blu, damcaniaeth sydd eisoes ar led, mae hefyd yn darparu manylion na all ffosiliau yn gyffredinol, megis lliw a threfn tri-dimensiwn. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+ Mae'r"
+"Sut fyddai disgyrchiant Io yn tynnu arnaf fi? Pe byddech chi'n sefyll ar wyneb Io, byddech chi'n pwyso llai nag yr ydych chi ar y Ddaear.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Sut fyddai disgyrchiant Io yn tynnu arnaf fi? Pe byddech chi'n sefyll ar wyneb Io, byddech chi'n pwyso llai nag yr ydych chi ar y Ddaear. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+ Mae'r"
+Mae NextGen yn system y mae'r FAA yn honni fyddai'n caniatáu i awyrennau hedfan ar lwybrau byrrach ac arbed miliynau o alwyni o danwydd bob blwyddyn a lleihau allyriadau carbon.,science/technology,travel,"<|begin_of_text|>SENTENCE:
+ Mae NextGen yn system y mae'r FAA yn honni fyddai'n caniatáu i awyrennau hedfan ar lwybrau byrrach ac arbed miliynau o alwyni o danwydd bob blwyddyn a lleihau allyriadau carbon. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Mae"
+Mae data niwrofiolegol yn darparu tystiolaeth gorfforol ar gyfer ymagwedd ddamcaniaethol at ymchwilio i wybyddiaeth. Felly mae'n cyfyngu maes yr ymchwil ac yn ei wneud yn llawer mwy manwl.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Mae data niwrofiolegol yn darparu tystiolaeth gorfforol ar gyfer ymagwedd ddamcaniaethol at ymchwilio i wybyddiaeth. Felly mae'n cyfyngu maes yr ymchwil ac yn ei wneud yn llawer mwy manwl. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science
+EXPLANATION:
+Hwn yw"
+"Yn ystod ei araith 2 awr, fe wnaeth ddatgan ""Heddiw mae Apple yn mynd i ailddyfeisio'r ffôn, Rydyn ni am greu hanes heddiw"".",science/technology,entertainment,"<|begin_of_text|>SENTENCE:
+ Yn ystod ei araith 2 awr, fe wnaeth ddatgan ""Heddiw mae Apple yn mynd i ailddyfeisio'r ffôn, Rydyn ni am greu hanes heddiw"". 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+ Mae"
+Anfantais lensys chwyddo yw bod cymhlethdod ffocal a'r nifer o elfennau lens sydd eu hangen yn fwy o lawer nac ar gyfer lensys safonol.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Anfantais lensys chwyddo yw bod cymhlethdod ffocal a'r nifer o elfennau lens sydd eu hangen yn fwy o lawer nac ar gyfer lensys safonol. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+ Mae'r"
+"Yn debyg i reolydd teledu o bell, mae'r rheolydd yn defnyddio dau synhwyrydd wedi'u lleoli yn agos at deledu'r defnyddiwr i driongli ei safle mewn gofod tri dimensiwn.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Yn debyg i reolydd teledu o bell, mae'r rheolydd yn defnyddio dau synhwyrydd wedi'u lleoli yn agos at deledu'r defnyddiwr i driongli ei safle mewn gofod tri dimensiwn. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+ Mae'r"
+Mae gwyddonwyr yn dweud fod plu'r anifail hwn yn frown castan ar yr ochr uwch gydag ochr waelod lliw gwelw neu garetonaidd.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Mae gwyddonwyr yn dweud fod plu'r anifail hwn yn frown castan ar yr ochr uwch gydag ochr waelod lliw gwelw neu garetonaidd. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Mae"
+"Mae'r ddau gyfansoddyn yn adweithio gyda'i gilydd i ffurfio crisialu sy'n gallu atal gwaith yr arennau, meddai ymchwilwyr yn y brifysgol.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Mae'r ddau gyfansoddyn yn adweithio gyda'i gilydd i ffurfio crisialu sy'n gallu atal gwaith yr arennau, meddai ymchwilwyr yn y brifysgol. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science
+EXPLANATION:
+This sentence is about"
+Mae hyn yn rhoi manylrwydd sydd bron i bedair gwaith manylrwydd negatif 35 mm (3136 mm2 yn erbyn 864).,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Mae hyn yn rhoi manylrwydd sydd bron i bedair gwaith manylrwydd negatif 35 mm (3136 mm2 yn erbyn 864). 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Mae"
+"Diolch i gysylltiadau cebl ffibr optig tanfor ag Ewrop a lloeren band eang, mae gan yr Ynys Las gysylltiad da gyda 93% o'r boblogaeth yn meddu ar fynediad i'r rhyngrwyd.",science/technology,geography,"<|begin_of_text|>SENTENCE:
+ Diolch i gysylltiadau cebl ffibr optig tanfor ag Ewrop a lloeren band eang, mae gan yr Ynys Las gysylltiad da gyda 93% o'r boblogaeth yn meddu ar fynediad i'r rhyngrwyd. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+ REASONING:
+ This"
+"Un o'r apiau mwyaf blaenllaw yn y categori hwn yw Google Translate, sy'n caniatáu cyfieithu all-lein ar ôl lawrlwytho'r data iaith a ddymunir.",science/technology,travel,"<|begin_of_text|>SENTENCE:
+ Un o'r apiau mwyaf blaenllaw yn y categori hwn yw Google Translate, sy'n caniatáu cyfieithu all-lein ar ôl lawrlwytho'r data iaith a ddymunir. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+ Mae'r"
+"Mae ganddo'r un strwythur moleciwlaidd p'un a yw'n nwy, yn hylif, neu'n solid.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Mae ganddo'r un strwythur moleciwlaidd p'un a yw'n nwy, yn hylif, neu'n solid. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Mae"
+"Mae'r defnydd o recordio fideo wedi arwain at ddarganfyddiadau pwysig yn nehongliad micro-fynegiannau, sef symudiadau'r wyneb sy'n parhau ychydig filieiliadau.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Mae'r defnydd o recordio fideo wedi arwain at ddarganfyddiadau pwysig yn nehongliad micro-fynegiannau, sef symudiadau'r wyneb sy'n parhau ychydig filieiliadau. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science
+EXPLANATION: Mae hwn yn"
+Mae bodau dynol wedi bod yn gwneud a defnyddio lensys ar gyfer chwyddo ers miloedd ar filoedd o flynyddoedd.,science/technology,health,"<|begin_of_text|>SENTENCE:
+ Mae bodau dynol wedi bod yn gwneud a defnyddio lensys ar gyfer chwyddo ers miloedd ar filoedd o flynyddoedd. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health 
+EXPLANATION:
+Mae bod"
+"Nid yw ar ei ben ei hun fodd bynnag, mae arbrofi, sef prawf sy'n cael ei ddefnyddio i ddileu un neu ragor o'r damcaniaethau posibl, gofyn cwestiynau, a gwneud arsylwadau, hefyd yn llywio ymchwil gwyddonol.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Nid yw ar ei ben ei hun fodd bynnag, mae arbrofi, sef prawf sy'n cael ei ddefnyddio i ddileu un neu ragor o'r damcaniaethau posibl, gofyn cwestiynau, a gwneud arsylwadau, hefyd yn llywio ymchwil gwyddonol. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+ Mae'r"
+"Yn y pen draw, cafodd olwynion pren eu disodli gan olwynion haearn. Yn 1767, cafodd y rheiliau haearn llawn cyntaf eu cyflwyno.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Yn y pen draw, cafodd olwynion pren eu disodli gan olwynion haearn. Yn 1767, cafodd y rheiliau haearn llawn cyntaf eu cyflwyno. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+ Mae'r"
+"Er bod y rhan fwyaf o gardiau yn dda ar gyfer galw unrhyw le, mae rhai yn arbenigo mewn darparu cyfraddau galw ffafriol i grwpiau penodol o wledydd.",science/technology,geography,"<|begin_of_text|>SENTENCE:
+ Er bod y rhan fwyaf o gardiau yn dda ar gyfer galw unrhyw le, mae rhai yn arbenigo mewn darparu cyfraddau galw ffafriol i grwpiau penodol o wledydd. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+ EXPLANATION:
+ Mae"
+Mae'r rhan fwyaf o delesgopau ymchwil modern yn gyfleusterau enfawr mewn ardaloedd anghysbell ag amodau atmosfferig ffafriol.,science/technology,geography,"<|begin_of_text|>SENTENCE:
+ Mae'r rhan fwyaf o delesgopau ymchwil modern yn gyfleusterau enfawr mewn ardaloedd anghysbell ag amodau atmosfferig ffafriol. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+ REASONS:
+ This"
+Mae'r nodwydd ddur yn arnofio ar ben y dŵr oherwydd tyndra arwyneb.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Mae'r nodwydd ddur yn arnofio ar ben y dŵr oherwydd tyndra arwyneb. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science
+EXPLANATION:
+Yr enw"
+"36mm o led a 24mm o uchder ydy'r fformat 35mm mewn gwirionedd, sydd ychydig yn ddryslyd.",science/technology,geography,"<|begin_of_text|>SENTENCE:
+ 36mm o led a 24mm o uchder ydy'r fformat 35mm mewn gwirionedd, sydd ychydig yn ddryslyd. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+ EXPLANATION:
+ Mae"
+"Mae celloedd mor sylfaenol a hanfodol i astudio bywyd, mewn gwirionedd, y cyfeirir atyn nhw'n aml fel ""blociau adeiladu bywyd"".",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Mae celloedd mor sylfaenol a hanfodol i astudio bywyd, mewn gwirionedd, y cyfeirir atyn nhw'n aml fel ""blociau adeiladu bywyd"". 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Mae"
+Mae darparwyr VPN (rhwydwaith preifat rhithiol) personol yn ffordd ardderchog o osgoi sensoriaeth wleidyddol yn ogystal â geohidlo Eiddo Deallusol masnachol.,science/technology,politics,"<|begin_of_text|>SENTENCE:
+ Mae darparwyr VPN (rhwydwaith preifat rhithiol) personol yn ffordd ardderchog o osgoi sensoriaeth wleidyddol yn ogystal â geohidlo Eiddo Deallusol masnachol. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+Mae"
+"Fe wnaeth yr orsaf gynnal ei hagwedd, er gwaethaf colli geirosgop yn gynharach yn nhaith yr orsaf i'r gofod, tan ddiwedd y tro yn y gofod.",science/technology,geography,"<|begin_of_text|>SENTENCE:
+ Fe wnaeth yr orsaf gynnal ei hagwedd, er gwaethaf colli geirosgop yn gynharach yn nhaith yr orsaf i'r gofod, tan ddiwedd y tro yn y gofod. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+The"
+"Mae gan bobl a'r math hwn o feddwl, feddwl rhesymegol, sy'n gallu cofio patrymau, datrys problemau a gweithio ar brofion gwyddonol.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Mae gan bobl a'r math hwn o feddwl, feddwl rhesymegol, sy'n gallu cofio patrymau, datrys problemau a gweithio ar brofion gwyddonol. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Mae"
+"Mae Oselotiaid yn hoffi bwyta anifeiliaid bach. Byddant yn dal mwncïod, nadroedd, cnofilod ac adar os ydyn nhw'n gallu. Mae'r holl anifeiliaid mae oselotiaid yn eu hela bron yn llawer llai nag ef ei hun.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Mae Oselotiaid yn hoffi bwyta anifeiliaid bach. Byddant yn dal mwncïod, nadroedd, cnofilod ac adar os ydyn nhw'n gallu. Mae'r holl anifeiliaid mae oselotiaid yn eu hela bron yn llawer llai nag ef ei hun. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science
+EXPLANATION: Mae hwn yn"
+"Mae rhai camerâu ffilm fformat canolig yn defnyddio fformat 6 wrth 6 cm, yn fanylach negatif 56 wrth 56 mm.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Mae rhai camerâu ffilm fformat canolig yn defnyddio fformat 6 wrth 6 cm, yn fanylach negatif 56 wrth 56 mm. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Mae"
+Cynghorir teithwyr yn gryf i fod yn ymwybodol o unrhyw risg o dywydd garw yn effeithio ar eu hardal gan y gallant effeithio ar unrhyw gynlluniau i deithio.,travel,travel,"<|begin_of_text|>SENTENCE:
+ Cynghorir teithwyr yn gryf i fod yn ymwybodol o unrhyw risg o dywydd garw yn effeithio ar eu hardal gan y gallant effeithio ar unrhyw gynlluniau i deithio. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+ REASONING:
+ This question"
+"Mae bysiau'n gadael yr orsaf fysiau rhyng-ardal (dros yr afon) drwy gydol y dydd, er bod y mwyafrif, yn enwedig y rhai hynny sy'n mynd i'r dwyrain a Jakar/Bumthang yn gadael rhwng 06:30 a 07:30.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Mae bysiau'n gadael yr orsaf fysiau rhyng-ardal (dros yr afon) drwy gydol y dydd, er bod y mwyafrif, yn enwedig y rhai hynny sy'n mynd i'r dwyrain a Jakar/Bumthang yn gadael rhwng 06:30 a 07:30. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Mae"
+Maent yn cynnig mwy o sefydlogrwydd i'r marchog ond gall fod ganddynt broblemau diogelwch oherwydd y posibilrwydd o draed y marchog yn mynd yn sownd ynddynt.,travel,N/A,"<|begin_of_text|>SENTENCE:
+ Maent yn cynnig mwy o sefydlogrwydd i'r marchog ond gall fod ganddynt broblemau diogelwch oherwydd y posibilrwydd o draed y marchog yn mynd yn sownd ynddynt. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: None of the above 
+EXPLANATION:
+This"
+"Mae'r mwyafrif o'r Mordeithiau Baltig gwahanol yn cynnwys arhosiad hir yn St Petersburg, Rwsia.",travel,geography,"<|begin_of_text|>SENTENCE:
+ Mae'r mwyafrif o'r Mordeithiau Baltig gwahanol yn cynnwys arhosiad hir yn St Petersburg, Rwsia. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+ REASONING: Mae"
+"Mae'r cyngor yn tybio nad yw teithwyr yn dwyn, yn tresmasu, yn cymryd rhan yn y farchnad anghyfreithlon, yn cardota, nac yn camfanteisio ar bobl eraill mewn unrhyw ffordd arall er eu budd eu hunain.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Mae'r cyngor yn tybio nad yw teithwyr yn dwyn, yn tresmasu, yn cymryd rhan yn y farchnad anghyfreithlon, yn cardota, nac yn camfanteisio ar bobl eraill mewn unrhyw ffordd arall er eu budd eu hunain. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Mae"
+Mae llawer o bethau y mae'n rhaid i chi eu hystyried cyn a phan fyddwch chi'n teithio i rywle.,travel,travel,"<|begin_of_text|>SENTENCE:
+ Mae llawer o bethau y mae'n rhaid i chi eu hystyried cyn a phan fyddwch chi'n teithio i rywle. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Mae"
+"Yng ngwres y dydd, mae teithwyr yn gallu profi rhithluniau sy'n edrych fel dŵr (neu bethau eraill).",travel,science/technology,"<|begin_of_text|>SENTENCE:
+ Yng ngwres y dydd, mae teithwyr yn gallu profi rhithluniau sy'n edrych fel dŵr (neu bethau eraill). 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+ Mae'r"
+"Mae teuluoedd â phlant yn olygfa brin, ond mae rhai hosteli yn eu caniatáu mewn ystafelloedd preifat.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Mae teuluoedd â phlant yn olygfa brin, ond mae rhai hosteli yn eu caniatáu mewn ystafelloedd preifat. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Mae"
+"Er enghraifft, ymweld â chestyll yn Nyffryn Loire, dyffryn Rhein neu gymryd dyfrdaith i ddinasoedd diddorol ar y Ddonwy neu gymryd cwch ar hyd Canal Erie.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Er enghraifft, ymweld â chestyll yn Nyffryn Loire, dyffryn Rhein neu gymryd dyfrdaith i ddinasoedd diddorol ar y Ddonwy neu gymryd cwch ar hyd Canal Erie. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+ EXPLANATION:
+ Mae'r"
+Gall fod yn well i ddefnyddio asiant sy'n archebu teithiau tebyg i'ch un chi yn aml.,travel,travel,"<|begin_of_text|>SENTENCE:
+ Gall fod yn well i ddefnyddio asiant sy'n archebu teithiau tebyg i'ch un chi yn aml. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+ Mae'r"
+Cafodd Couchsurfing ei sefydlu yn Ionawr 2004 ar ôl i'r rhaglennydd cyfrifiaduron Casey Fenton ganfod hediad rhad i Wlad yr Iâ ond nid oedd ganddo le i aros.,travel,travel,"<|begin_of_text|>SENTENCE:
+ Cafodd Couchsurfing ei sefydlu yn Ionawr 2004 ar ôl i'r rhaglennydd cyfrifiaduron Casey Fenton ganfod hediad rhad i Wlad yr Iâ ond nid oedd ganddo le i aros. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+travel
+EXPLANATION:
+Mae'r"
+"Yn gyffredinol, mae gan fisâu myfyrwyr ofynion a gweithdrefnau cyflwyno ceisiadau gwahanol i fisâu twristaidd neu fusnes arferol.",travel,science/technology,"<|begin_of_text|>SENTENCE:
+ Yn gyffredinol, mae gan fisâu myfyrwyr ofynion a gweithdrefnau cyflwyno ceisiadau gwahanol i fisâu twristaidd neu fusnes arferol. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+ Mae'r"
+Mae gan bob gwlad hefyd ddeddfau unigryw sy'n nodi pa eitemau argyfwng sydd angen bod yn y car.,travel,politics,"<|begin_of_text|>SENTENCE:
+ Mae gan bob gwlad hefyd ddeddfau unigryw sy'n nodi pa eitemau argyfwng sydd angen bod yn y car. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+Mae"
+"Er bod y rhan fwyaf o asiantaethau'n barod i dderbyn y mwyafrif o archebion rheolaidd, mae nifer o asiantaethau yn arbenigo mewn mathau penodol o deithio, ystodau cyllideb neu gyrchfannau.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Er bod y rhan fwyaf o asiantaethau'n barod i dderbyn y mwyafrif o archebion rheolaidd, mae nifer o asiantaethau yn arbenigo mewn mathau penodol o deithio, ystodau cyllideb neu gyrchfannau. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+ EXPLANATION:
+ Mae'r"
+Gallai teithwyr ddod ar draws plâu nad ydynt yn gyfarwydd â hwy yn eu rhanbarthau cartref.,travel,geography,"<|begin_of_text|>SENTENCE:
+ Gallai teithwyr ddod ar draws plâu nad ydynt yn gyfarwydd â hwy yn eu rhanbarthau cartref. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+ Mae"
+"Hefyd i'r gogledd ymwelwch â Noddfa Ein Gwraig Fatima (Cysegrfa), man enwog yn fyd-eang am ymddangosiadau Mair.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Hefyd i'r gogledd ymwelwch â Noddfa Ein Gwraig Fatima (Cysegrfa), man enwog yn fyd-eang am ymddangosiadau Mair. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+ Mae'r"
+Gallwch ddefnyddio boda-boda (tacsi beic modur) i deithio o amgylch Goma. Y pris arferol (lleol) yw ~500 Ffranc Congolaidd am daith fer.,travel,travel,"<|begin_of_text|>SENTENCE:
+ Gallwch ddefnyddio boda-boda (tacsi beic modur) i deithio o amgylch Goma. Y pris arferol (lleol) yw ~500 Ffranc Congolaidd am daith fer. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+DEFINITION:
+Boda"
+"Ar gyfer y rhai sy'n mwynhau gweithgareddau awyr agored, mae taith i fyny'r coridor Sea to Sky yn hanfodol.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Ar gyfer y rhai sy'n mwynhau gweithgareddau awyr agored, mae taith i fyny'r coridor Sea to Sky yn hanfodol. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+ Mae'r"
+"Mae'r saffari cerdded (hefyd yn cael ei alw'n ""dro gwylltir"", ""saffari heicio"", neu hyd yn oed ""droedio"") yn cynnwys heicio, naill ai am ychydig oriau neu sawl diwrnod.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Mae'r saffari cerdded (hefyd yn cael ei alw'n ""dro gwylltir"", ""saffari heicio"", neu hyd yn oed ""droedio"") yn cynnwys heicio, naill ai am ychydig oriau neu sawl diwrnod. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Mae"
+"Yr unig ffordd i'w gael drwodd yn gyflymach oedd ei anfon fel bagiau wedi'u cofnodi. Ni fydd rheoliadau'r cwmni hedfan yn caniatáu iddynt anfon bagiau heb deithiwr, a dyna lle rydych chi'n dod yn berthnasol.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Yr unig ffordd i'w gael drwodd yn gyflymach oedd ei anfon fel bagiau wedi'u cofnodi. Ni fydd rheoliadau'r cwmni hedfan yn caniatáu iddynt anfon bagiau heb deithiwr, a dyna lle rydych chi'n dod yn berthnasol. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+ Mae'r"
+"Mae 300 ychwanegol yn dod â'r cyfanswm i 1,300 o gerbydau i'w caffael i leddfu gorlenwi.",travel,N/A,"<|begin_of_text|>SENTENCE:
+ Mae 300 ychwanegol yn dod â'r cyfanswm i 1,300 o gerbydau i'w caffael i leddfu gorlenwi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- None of the above 
+ REASONING"
+"Gallai fod angen rhagor o baratoadau ar gyfer teuluoedd a phlant bach, ond mae diwrnod y tu allan yn bosibl hyd yn oed gyda babanod a phlant o dan oedran ysgol.",travel,health,"<|begin_of_text|>SENTENCE:
+ Gallai fod angen rhagor o baratoadau ar gyfer teuluoedd a phlant bach, ond mae diwrnod y tu allan yn bosibl hyd yn oed gyda babanod a phlant o dan oedran ysgol. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health
+EXPLANATION:
+Mae'r"
+"Dylai unrhyw un sy'n mynd i yrru ar ledredau uchel neu dros fylchau mynyddoedd ystyried y posibilrwydd o eira, rhew, neu dymereddau rhewi.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Dylai unrhyw un sy'n mynd i yrru ar ledredau uchel neu dros fylchau mynyddoedd ystyried y posibilrwydd o eira, rhew, neu dymereddau rhewi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+ Mae'r"
+"Heddiw, mae Timbuktu yn dref dlotach, er bod ei henw da yn ei gwneud hi'n atyniad i dwristiaid, ac mae ganddi faes awyr.",travel,geography,"<|begin_of_text|>SENTENCE:
+ Heddiw, mae Timbuktu yn dref dlotach, er bod ei henw da yn ei gwneud hi'n atyniad i dwristiaid, ac mae ganddi faes awyr. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+ Mae"
+"Yn ystod stormydd eira, mae digon o eira i'ch caethiwo chi yn gallu syrthio mewn ychydig iawn o amser.",travel,geography,"<|begin_of_text|>SENTENCE:
+ Yn ystod stormydd eira, mae digon o eira i'ch caethiwo chi yn gallu syrthio mewn ychydig iawn o amser. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+Y"
+"Os oes eisiau hedfan o gwmpas y byd arnoch chi yn gyfan gwbl yn Hemisffer y De, mae'r dewis o hediadau a chyrchfannau yn gyfyngedig oherwydd prinder llwybrau ar draws cefnforoedd.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Os oes eisiau hedfan o gwmpas y byd arnoch chi yn gyfan gwbl yn Hemisffer y De, mae'r dewis o hediadau a chyrchfannau yn gyfyngedig oherwydd prinder llwybrau ar draws cefnforoedd. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+ Mae'r"
+"Mae cwmnïau hedfan fel Emirates, Etihad Airways, Qatar Airways a Turkish Airlines wedi ehangu'u gwasanaethau i Affrica yn fawr, ac yn cynnig cysylltiadau â llawer o ddinasoedd Affricanaidd mawr ar gyfraddau mwy cystadleuol na chwmnïau hedfan Ewropeaidd eraill.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Mae cwmnïau hedfan fel Emirates, Etihad Airways, Qatar Airways a Turkish Airlines wedi ehangu'u gwasanaethau i Affrica yn fawr, ac yn cynnig cysylltiadau â llawer o ddinasoedd Affricanaidd mawr ar gyfraddau mwy cystadleuol na chwmnïau hedfan Ewropeaidd eraill. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+ REASONING: Mae'r"
+"Nid oes cludiant ychwanegol yn cael ei drefnu ac ni fydd trenau uwchben y ddaear yn aros yn Wembley, ac nid yw parcio ceir na chyfleusterau parcio a theithio ar gael yn y stadiwm.",travel,sports,"<|begin_of_text|>SENTENCE:
+ Nid oes cludiant ychwanegol yn cael ei drefnu ac ni fydd trenau uwchben y ddaear yn aros yn Wembley, ac nid yw parcio ceir na chyfleusterau parcio a theithio ar gael yn y stadiwm. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports 
+EXPLANATION:
+This sentence is about"
+"Yn gyffredinol, bydd aros mewn gwlad dramor am gyfnod estynedig o amser yn gofyn i chi sicrhau fisa o flaen llaw.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Yn gyffredinol, bydd aros mewn gwlad dramor am gyfnod estynedig o amser yn gofyn i chi sicrhau fisa o flaen llaw. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+ Mae'r"
+Mae gan bob trên gerbydau MetroPlus a Metro; mae cerbydau MetroPlus bob amser ar ben y trên sydd agosaf at Cape Town.,travel,travel,"<|begin_of_text|>SENTENCE:
+ Mae gan bob trên gerbydau MetroPlus a Metro; mae cerbydau MetroPlus bob amser ar ben y trên sydd agosaf at Cape Town. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+ REASONING: Mae'r"
+Mae pawb yn cymryd rhan mewn cymdeithas ac yn defnyddio systemau cludo. Mae bron pawb yn cwyno am systemau cludo.,travel,travel,"<|begin_of_text|>SENTENCE:
+ Mae pawb yn cymryd rhan mewn cymdeithas ac yn defnyddio systemau cludo. Mae bron pawb yn cwyno am systemau cludo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Mae"
+"Gan fod poblogaeth yr ardaloedd yn brin, a llygredd golau felly ddim yn broblem yn aml, byddwch hefyd yn gallu gweld y sêr.",travel,geography,"<|begin_of_text|>SENTENCE:
+ Gan fod poblogaeth yr ardaloedd yn brin, a llygredd golau felly ddim yn broblem yn aml, byddwch hefyd yn gallu gweld y sêr. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: geography 
+EXPLANATION: Mae'r gair"
+Mae gofynion a chostau fisa yn amrywio o genedl i genedl ac mae'r wlad rydych chi'n dod ohoni yn effeithio arnyn nhw.,travel,geography,"<|begin_of_text|>SENTENCE:
+ Mae gofynion a chostau fisa yn amrywio o genedl i genedl ac mae'r wlad rydych chi'n dod ohoni yn effeithio arnyn nhw. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+M"
+"Yn gyffredinol, nid oes diben mewn chwilio hyd yn oed am ostyngiadau ar gyfer seddi dosbarth busnes neu ddosbarth cyntaf ar hediadau uniongyrchol o A i B.",travel,geography,"<|begin_of_text|>SENTENCE:
+ Yn gyffredinol, nid oes diben mewn chwilio hyd yn oed am ostyngiadau ar gyfer seddi dosbarth busnes neu ddosbarth cyntaf ar hediadau uniongyrchol o A i B. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+ Mae"
+Mae taflu bwmerang yn sgil boblogaidd y mae nifer o dwristiaid am ei meithrin.,travel,geography,"<|begin_of_text|>SENTENCE:
+ Mae taflu bwmerang yn sgil boblogaidd y mae nifer o dwristiaid am ei meithrin. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+ REASONING: Mae"
+Nid yr hediad hwn yw'r unig ddewis os ydych chi'n dymuno hepgor De'r Môr Tawel ac arfordir gorllewinol De America. (gweler isod),travel,geography,"<|begin_of_text|>SENTENCE:
+ Nid yr hediad hwn yw'r unig ddewis os ydych chi'n dymuno hepgor De'r Môr Tawel ac arfordir gorllewinol De America. (gweler isod) 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+ Mae"
+"Mae San Francisco wedi datblygu seilwaith mawr ar gyfer twristiaid gyda gwestyau, tai bwyta, a chyfleusterau cynadledda niferus o'r safon uchaf.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Mae San Francisco wedi datblygu seilwaith mawr ar gyfer twristiaid gyda gwestyau, tai bwyta, a chyfleusterau cynadledda niferus o'r safon uchaf. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+ REASONING: Mae'r"
+Mae gwirfoddoli tra'n teithio yn ffordd wych o wneud gwahaniaeth ond nid yw'n ymwneud â rhoi yn unig.,travel,travel,"<|begin_of_text|>SENTENCE:
+ Mae gwirfoddoli tra'n teithio yn ffordd wych o wneud gwahaniaeth ond nid yw'n ymwneud â rhoi yn unig. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Mae"
+Mae'n bosibl nad yw pobl yn rhag-weld bod amynedd a dealltwriaeth yn angenrheidiol hefyd i deithwyr sy'n dychwelyd adref.,travel,travel,"<|begin_of_text|>SENTENCE:
+ Mae'n bosibl nad yw pobl yn rhag-weld bod amynedd a dealltwriaeth yn angenrheidiol hefyd i deithwyr sy'n dychwelyd adref. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Mae"
+"Peidiwch ag anghofio ychwanegu costau ychwanegol fisâu ychwanegol, trethi ymadael, cludo ar y ddaear, ayb. ar gyfer yr holl leoedd hynny y tu allan i Affrica.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Peidiwch ag anghofio ychwanegu costau ychwanegol fisâu ychwanegol, trethi ymadael, cludo ar y ddaear, ayb. ar gyfer yr holl leoedd hynny y tu allan i Affrica. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+ Mae'r"
+Roedd nifer o drigolion Bishkek yn beio protestwyr o'r de am yr anhrefn.,politics,politics,"<|begin_of_text|>SENTENCE:
+ Roedd nifer o drigolion Bishkek yn beio protestwyr o'r de am yr anhrefn. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+ Mae'r"
+Roedd rhannau o'r Wlad Belg bresennol yn rhan o Lwcsembwrg yn y gorffennol ond daethant yn rhan o Wlad Belg ar ôl Chwyldro Belgaidd yr 1830au.,politics,geography,"<|begin_of_text|>SENTENCE:
+ Roedd rhannau o'r Wlad Belg bresennol yn rhan o Lwcsembwrg yn y gorffennol ond daethant yn rhan o Wlad Belg ar ôl Chwyldro Belgaidd yr 1830au. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+ EXPLANATION:
+ Mae"
+"Ers 1998, mae'n rhaid i flychau pleidleisio fod yn dryloyw fel bod pleidleiswyr ac arsylwyr yn gallu tystio nad oes dim amlenni yn bresennol ar ddechrau'r bleidlais heblaw am rai'r pleidleiswyr awdurdodedig a gafodd eu cyfrif yn briodol.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Ers 1998, mae'n rhaid i flychau pleidleisio fod yn dryloyw fel bod pleidleiswyr ac arsylwyr yn gallu tystio nad oes dim amlenni yn bresennol ar ddechrau'r bleidlais heblaw am rai'r pleidleiswyr awdurdodedig a gafodd eu cyfrif yn briodol. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+ EXPLANATION:
+ Mae'r"
+Fe wnaeth y Prif Weinidog Dros Dro Julia Gillard honni yn ystod ymgyrch etholiadol 2010 ei bod yn credu y dylai Awstralia ddod yn weriniaeth ar ddiwedd teyrnasiad y Frenhines Elizabeth II.,politics,politics,"<|begin_of_text|>SENTENCE:
+ Fe wnaeth y Prif Weinidog Dros Dro Julia Gillard honni yn ystod ymgyrch etholiadol 2010 ei bod yn credu y dylai Awstralia ddod yn weriniaeth ar ddiwedd teyrnasiad y Frenhines Elizabeth II. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+ Mae'r"
+Mae llywodraeth Iwerddon yn pwysleisio brys deddfwriaeth seneddol i gywiro'r sefyllfa.,politics,politics,"<|begin_of_text|>SENTENCE:
+ Mae llywodraeth Iwerddon yn pwysleisio brys deddfwriaeth seneddol i gywiro'r sefyllfa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+Mae"
+Mae dadleuon diplomyddol dros y rhanbarth yn parhau i amharu ar berthnasoedd rhwng Armenia ac Aserbaijan.,politics,politics,"<|begin_of_text|>SENTENCE:
+ Mae dadleuon diplomyddol dros y rhanbarth yn parhau i amharu ar berthnasoedd rhwng Armenia ac Aserbaijan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+Mae"
+"Mae'r Prif Weinidog Stephen Harper wedi cytuno i anfon ""Deddf Aer Glân"" y llywodraeth at bwyllgor trawsbleidiol i'w hadolygu, cyn ei hail ddarlleniad, ar ôl cyfarfod 25 munud ddydd Mawrth gydag arweinydd NDP, Jack Layton, yn Swyddfa'r Prif Weinidog.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Mae'r Prif Weinidog Stephen Harper wedi cytuno i anfon ""Deddf Aer Glân"" y llywodraeth at bwyllgor trawsbleidiol i'w hadolygu, cyn ei hail ddarlleniad, ar ôl cyfarfod 25 munud ddydd Mawrth gydag arweinydd NDP, Jack Layton, yn Swyddfa'r Prif Weinidog. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+politics
+EXPLANATION:
+Mae"
+"Fis diwethaf, roedd protestiadau mawr yng Ngwlad Pwyl pan lofnododd y wlad honno ACTA, sydd wedi arwain at y Llywodraeth Bwylaidd yn penderfynu peidio â chymeradwyo'r cytundeb, am y tro.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Fis diwethaf, roedd protestiadau mawr yng Ngwlad Pwyl pan lofnododd y wlad honno ACTA, sydd wedi arwain at y Llywodraeth Bwylaidd yn penderfynu peidio â chymeradwyo'r cytundeb, am y tro. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+ Mae'r"
+Mae dogfennau cynghori yn grynodeb byr o'r sefyllfa wleidyddol mewn un wlad yn unig.,politics,politics,"<|begin_of_text|>SENTENCE:
+ Mae dogfennau cynghori yn grynodeb byr o'r sefyllfa wleidyddol mewn un wlad yn unig. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+Mae"
+"Yn ystod detholiadau 1976 bu'n cynghori Carter ar bolisi tramor, yna gwasanaethodd fel Ymgynghorydd Diogelwch Cenedlaethol (NSA) rhwng 1977 a 1981, gan olynu Henry Kissinger.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Yn ystod detholiadau 1976 bu'n cynghori Carter ar bolisi tramor, yna gwasanaethodd fel Ymgynghorydd Diogelwch Cenedlaethol (NSA) rhwng 1977 a 1981, gan olynu Henry Kissinger. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+ Mae'r"
+"Byddai Twrci hefyd yn cymryd cyfrifoldeb dros warchod ymladdwyr ISIS a gafodd eu dal y mae, yn ôl y datganiad, y cenhedloedd Ewropeaidd wedi gwrthod eu hanfon adref.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Byddai Twrci hefyd yn cymryd cyfrifoldeb dros warchod ymladdwyr ISIS a gafodd eu dal y mae, yn ôl y datganiad, y cenhedloedd Ewropeaidd wedi gwrthod eu hanfon adref. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+ Mae'r"
+"Fodd bynnag, cafodd y cynlluniau hyn eu disodli dros nos bron, pan aeth dros 800,000 o filwyr o Fyddin Goch yr Undeb Sofietaidd i mewn a chreu ffryntiau Belarws a'r Wcrain ar ôl ymosod ar ranbarthau dwyreiniol Gwlad Pwyl yn groes i Gytundeb Heddwch Riga, y Cytundeb Anymosod Sofiet-Pwylaidd, a chytundebau rhyngwladol eraill, dwyochrog yn ogystal ag amlochrog.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Fodd bynnag, cafodd y cynlluniau hyn eu disodli dros nos bron, pan aeth dros 800,000 o filwyr o Fyddin Goch yr Undeb Sofietaidd i mewn a chreu ffryntiau Belarws a'r Wcrain ar ôl ymosod ar ranbarthau dwyreiniol Gwlad Pwyl yn groes i Gytundeb Heddwch Riga, y Cytundeb Anymosod Sofiet-Pwylaidd, a chytundebau rhyngwladol eraill, dwyochrog yn ogystal ag amlochrog. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+politics
+EXPLANATION:
+The sentence"
+"Yn dilyn y broses, bydd HJR-3 yn cael ei adolygu eto erbyn y ddeddfwrfa etholedig nesaf yn naill ai 2015 neu 2016 i aros yn y broses.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Yn dilyn y broses, bydd HJR-3 yn cael ei adolygu eto erbyn y ddeddfwrfa etholedig nesaf yn naill ai 2015 neu 2016 i aros yn y broses. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+HJR"
+"Ar ôl iddo gael ei fabwysiadu gan y Gyngres ar Orffennaf 4, cafodd drafft mewn llawysgrifen wedi'i lofnodi gan Lywydd y Gyngres John Hancock a'r Ysgrifennydd Charles Thomson ei anfon ychydig o flociau i ffwrdd at siop argraffu John Dunlap.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Ar ôl iddo gael ei fabwysiadu gan y Gyngres ar Orffennaf 4, cafodd drafft mewn llawysgrifen wedi'i lofnodi gan Lywydd y Gyngres John Hancock a'r Ysgrifennydd Charles Thomson ei anfon ychydig o flociau i ffwrdd at siop argraffu John Dunlap. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+ Mae'r"
+"Ychydig ar ôl 11:00, rhwystrodd gwrthdystwyr draffig ar y ffordd tua'r gogledd yn Whitehall.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Ychydig ar ôl 11:00, rhwystrodd gwrthdystwyr draffig ar y ffordd tua'r gogledd yn Whitehall. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+ Mae'r"
+"Fodd bynnag, ym mis Mehefin 1956, rhoddwyd addewidion Krushchev ar brawf pan drodd terfysgoedd yng Ngwlad Pwyl, lle'r oedd gweithwyr yn protestio yn erbyn prinder bwyd a thoriadau cyflog, yn brotest gyffredinol yn erbyn Comiwnyddiaeth.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Fodd bynnag, ym mis Mehefin 1956, rhoddwyd addewidion Krushchev ar brawf pan drodd terfysgoedd yng Ngwlad Pwyl, lle'r oedd gweithwyr yn protestio yn erbyn prinder bwyd a thoriadau cyflog, yn brotest gyffredinol yn erbyn Comiwnyddiaeth. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+ Mae'r"
+"Roedd i barhau am y 40 mlynedd nesaf a byddai'n cael ei ymladd yn wirioneddol, gan fyddinoedd dirprwyol, ar feysydd brwydro o Affrica i Asia, yn Affganistan, Ciwba, a llawer o leoedd eraill.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Roedd i barhau am y 40 mlynedd nesaf a byddai'n cael ei ymladd yn wirioneddol, gan fyddinoedd dirprwyol, ar feysydd brwydro o Affrica i Asia, yn Affganistan, Ciwba, a llawer o leoedd eraill. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+ Mae'r"
+Fis diwethaf argymhellodd comisiwn arlywydddol ymddiswyddiad y CEP blaenorol fel rhan o becyn o fesurau i symud y wlad tuag at etholiadau newydd.,politics,politics,"<|begin_of_text|>SENTENCE:
+ Fis diwethaf argymhellodd comisiwn arlywydddol ymddiswyddiad y CEP blaenorol fel rhan o becyn o fesurau i symud y wlad tuag at etholiadau newydd. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+ Mae'r"
+Ymhlith pynciau eraill yr ymdrinnir â hwy yn ôl y sôn mae cyflwr Jerwsalem yn y dyfodol sy'n sanctaidd i'r ddwy genedl a mater Dyffryn yr Iorddonen.,politics,geography,"<|begin_of_text|>SENTENCE:
+ Ymhlith pynciau eraill yr ymdrinnir â hwy yn ôl y sôn mae cyflwr Jerwsalem yn y dyfodol sy'n sanctaidd i'r ddwy genedl a mater Dyffryn yr Iorddonen. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: geography 
+EXPLANATION:
+Geography is the"
+Nid oedd ganddo awdurdod chwaith i sarnu cyfreithiau treth a thariffau rhwng taleithiau.,politics,politics,"<|begin_of_text|>SENTENCE:
+ Nid oedd ganddo awdurdod chwaith i sarnu cyfreithiau treth a thariffau rhwng taleithiau. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+ Mae'r"
+Mae cyfraith etholiadol Ffrainc yn cyfundrefnu achosion yn eithaf llym.,politics,politics,"<|begin_of_text|>SENTENCE:
+ Mae cyfraith etholiadol Ffrainc yn cyfundrefnu achosion yn eithaf llym. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+Mae"
+"Yn dilyn wythnos o golledion yn yr etholiad canol tymor, dywedodd Bush wrth gynulleidfa am ehangu masnach yn Asia.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Yn dilyn wythnos o golledion yn yr etholiad canol tymor, dywedodd Bush wrth gynulleidfa am ehangu masnach yn Asia. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+ Mae'r"
+"Profodd y strategaeth yn effeithiol, gan rwystro cyflenwadau milwrol a sifilaidd hanfodol, er bod y blocâd hwn yn tramgwyddo cyfraith ryngwladol wedi'i derbyn yn gyffredinol wedi'i chyfundrefnu gan sawl cytundeb rhyngwladol o'r ddwy ganrif ddiwethaf.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Profodd y strategaeth yn effeithiol, gan rwystro cyflenwadau milwrol a sifilaidd hanfodol, er bod y blocâd hwn yn tramgwyddo cyfraith ryngwladol wedi'i derbyn yn gyffredinol wedi'i chyfundrefnu gan sawl cytundeb rhyngwladol o'r ddwy ganrif ddiwethaf. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+ Mae'r"
+Mae cysylltiadau economaidd wedi cael eu hailsefydlu rhwng y ddwy ran hyn o Moldofa er gwaetha'r methiant mewn trafodaethau gwleidyddol.,politics,politics,"<|begin_of_text|>SENTENCE:
+ Mae cysylltiadau economaidd wedi cael eu hailsefydlu rhwng y ddwy ran hyn o Moldofa er gwaetha'r methiant mewn trafodaethau gwleidyddol. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+politics
+EXPLANATION:
+Mae"
+"Yng nghwmni'r swyddogion hyn, sicrhaodd e ddinasyddion Tecsas fod camau'n cael eu cymryd i amddiffyn diogelwch y cyhoedd.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Yng nghwmni'r swyddogion hyn, sicrhaodd e ddinasyddion Tecsas fod camau'n cael eu cymryd i amddiffyn diogelwch y cyhoedd. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+ Mae'r"
+Mae beirniadaeth ryddfrydol o'r ymdrech ailadeiladu wedi canolbwyntio ar roi contractau ailadeiladu i rai sy'n cael eu hystyried fel pobl sydd y tu mewn i Washington.,politics,politics,"<|begin_of_text|>SENTENCE:
+ Mae beirniadaeth ryddfrydol o'r ymdrech ailadeiladu wedi canolbwyntio ar roi contractau ailadeiladu i rai sy'n cael eu hystyried fel pobl sydd y tu mewn i Washington. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics 
+EXPLANATION: Mae'r gair"
+"Allan o 1,400 o bobl a gafodd eu holi cyn etholiad ffederal 2010, tyfodd y rheini sy'n gwrthwynebu i Awstralia ddod yn weriniaeth o 8 y cant ers 2008.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Allan o 1,400 o bobl a gafodd eu holi cyn etholiad ffederal 2010, tyfodd y rheini sy'n gwrthwynebu i Awstralia ddod yn weriniaeth o 8 y cant ers 2008. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+ EXPLANATION:
+ Mae'r"
+Dywedodd diplomatiaid eu bod wedi dod o hyd i ddigon o amwysedd yng nghyfansoddiad Affganistan i benderfynu nad oedd angen yr ail-etholiad.,politics,politics,"<|begin_of_text|>SENTENCE:
+ Dywedodd diplomatiaid eu bod wedi dod o hyd i ddigon o amwysedd yng nghyfansoddiad Affganistan i benderfynu nad oedd angen yr ail-etholiad. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics 
+EXPLANATION:
+ Mae'r"
+"Ar ôl i'r canlyniadau ddod i mewn, fe wnaeth Gingrich ganmol Santorum, ond roedd ganddo eiriau caled i Romney, y darlledwyd hysbysebion ymgyrch negyddol yn erbyn Gingrich yn Iowa ar ei ran.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Ar ôl i'r canlyniadau ddod i mewn, fe wnaeth Gingrich ganmol Santorum, ond roedd ganddo eiriau caled i Romney, y darlledwyd hysbysebion ymgyrch negyddol yn erbyn Gingrich yn Iowa ar ei ran. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+ TRANSLATION:
+ After the"
+Dyma bumed CEP Martelly mewn pedair blynedd.,politics,politics,"<|begin_of_text|>SENTENCE:
+ Dyma bumed CEP Martelly mewn pedair blynedd. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+ Mae'r"
+"Roedd enillydd y fedal aur Olympaidd i fod i nofio yn y dull rhydd 100m a 230m ac mewn tair ras gyfnewid yng Ngemau'r Gymanwlad, ond oherwydd ei broblemau mae amheuaeth am ei ffitrwydd.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Roedd enillydd y fedal aur Olympaidd i fod i nofio yn y dull rhydd 100m a 230m ac mewn tair ras gyfnewid yng Ngemau'r Gymanwlad, ond oherwydd ei broblemau mae amheuaeth am ei ffitrwydd. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+ Mae'r"
+"Yn ogystal â bod yn gyn-bencampwr Olympaidd a'r Byd, roedd Saito yn gadeirydd pwyllgor hyfforddi Ffederasiwn Jiwdo Japan Gyfan ar adeg ei farwolaeth.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Yn ogystal â bod yn gyn-bencampwr Olympaidd a'r Byd, roedd Saito yn gadeirydd pwyllgor hyfforddi Ffederasiwn Jiwdo Japan Gyfan ar adeg ei farwolaeth. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+ Mae'r"
+"Fe wnaeth y Pwyllgor Olympaidd Rhyngwladol bleidleisio i gynnwys y campau yng nghyfarfod ei fwrdd gweithredol ym Merlin heddiw. Dewiswyd rygbi, rygbi undeb yn benodol, a golff dros bum camp arall i'w hystyried i fod yn rhan o'r Gemau Olympaidd.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Fe wnaeth y Pwyllgor Olympaidd Rhyngwladol bleidleisio i gynnwys y campau yng nghyfarfod ei fwrdd gweithredol ym Merlin heddiw. Dewiswyd rygbi, rygbi undeb yn benodol, a golff dros bum camp arall i'w hystyried i fod yn rhan o'r Gemau Olympaidd. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+ EXPLANATION:
+ Mae'r"
+Mae twrnamaint mwya'r flwyddyn yn digwydd yn Rhagfyr ar y caeau polo yn Las Cañitas.,sports,sports,"<|begin_of_text|>SENTENCE:
+ Mae twrnamaint mwya'r flwyddyn yn digwydd yn Rhagfyr ar y caeau polo yn Las Cañitas. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+Mae"
+"Ers iddo symud i brifddinas Catalwnia, roedd Vidal wedi chwarae 49 gêm dros y clwb.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Ers iddo symud i brifddinas Catalwnia, roedd Vidal wedi chwarae 49 gêm dros y clwb. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+ EXPLANATION:
+ Mae'r"
+"Gall cynnal cydbwysedd egni iach, ymarfer arferion hydradu effeithiol, a deall agweddau amrywiol ymarferion ychwanegiadau helpu athletwyr i wella'u perfformiad a chynyddu eu mwynhad o'r gamp.",sports,health,"<|begin_of_text|>SENTENCE:
+ Gall cynnal cydbwysedd egni iach, ymarfer arferion hydradu effeithiol, a deall agweddau amrywiol ymarferion ychwanegiadau helpu athletwyr i wella'u perfformiad a chynyddu eu mwynhad o'r gamp. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health
+ EXPLANATION:
+ Mae'r sent"
+"Yn drydydd, mae Hamlin ugain pwynt y tu ôl, ond pump o flaen Bowyer. Mae Kahne a Truex, Jr. yn bumed a chweched yn y drefn honno gyda 2,200 a 2,207 pwynt.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Yn drydydd, mae Hamlin ugain pwynt y tu ôl, ond pump o flaen Bowyer. Mae Kahne a Truex, Jr. yn bumed a chweched yn y drefn honno gyda 2,200 a 2,207 pwynt. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+ Mae'r"
+Record Nadal yn erbyn y gŵr o Ganada yw 7-2.,sports,sports,"<|begin_of_text|>SENTENCE:
+ Record Nadal yn erbyn y gŵr o Ganada yw 7-2. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports 
+EXPLANATION:
+ Mae'r gair"
+Roedd Jarque yn ymarfer yn ystod hyfforddiant cyn dechrau'r tymor yn Coverciano yn yr Eidal yn gynharach yn y diwrnod. Roedd yn aros yng ngwesty'r tîm cyn gêm yn erbyn Bolonia a drefnwyd ar gyfer dydd Sul.,sports,sports,"<|begin_of_text|>SENTENCE:
+ Roedd Jarque yn ymarfer yn ystod hyfforddiant cyn dechrau'r tymor yn Coverciano yn yr Eidal yn gynharach yn y diwrnod. Roedd yn aros yng ngwesty'r tîm cyn gêm yn erbyn Bolonia a drefnwyd ar gyfer dydd Sul. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+ Mae'r"
+Cododd ofnau am ddiffyg trafnidiaeth y posibilrwydd y byddai'r gêm yn cael ei gorfodi i'w chwarae y tu ôl i ddrysau caeëdig heb gefnogwyr y tîm.,sports,sports,"<|begin_of_text|>SENTENCE:
+ Cododd ofnau am ddiffyg trafnidiaeth y posibilrwydd y byddai'r gêm yn cael ei gorfodi i'w chwarae y tu ôl i ddrysau caeëdig heb gefnogwyr y tîm. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+ Mae'r"
+"Dywedodd Tommy Dreamer ""Luna oedd Brenhines gyntaf Eithafiaeth. Fy rheolwraig gyntaf. Bu farw Luna ar noson dwy leuad. Go unigryw yn union fel hi. Menyw gref"".",sports,entertainment,"<|begin_of_text|>SENTENCE:
+ Dywedodd Tommy Dreamer ""Luna oedd Brenhines gyntaf Eithafiaeth. Fy rheolwraig gyntaf. Bu farw Luna ar noson dwy leuad. Go unigryw yn union fel hi. Menyw gref"". 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: ENTERTAINMENT
+ REASONING: 
+"
+Gorffennodd y sgïwr a nam ar ei olwg o Wlad Pwyl Maciej Krezel a'i dywysydd Anna Ogarzynska yn drydydd ar ddeg yn y Super-G. Gorffennodd Jong Seork Parh o Dde Corea yn bedwerydd ar hugain yn Super-G eistedd y dynion.,sports,sports,"<|begin_of_text|>SENTENCE:
+ Gorffennodd y sgïwr a nam ar ei olwg o Wlad Pwyl Maciej Krezel a'i dywysydd Anna Ogarzynska yn drydydd ar ddeg yn y Super-G. Gorffennodd Jong Seork Parh o Dde Corea yn bedwerydd ar hugain yn Super-G eistedd y dynion. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+ Mae'r"
+"I gael newyddion am dwrnameintiau a ble i brynu tocynnau ar gyfer gemau polo, gwiriwch Asociacion Argentina de Polo.",sports,sports,"<|begin_of_text|>SENTENCE:
+ I gael newyddion am dwrnameintiau a ble i brynu tocynnau ar gyfer gemau polo, gwiriwch Asociacion Argentina de Polo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+sports
+EXPLANATION:
+The sentence is"
+"Dechreuodd y gemau am 10:00am gyda thywydd gwych a heblaw am law mân ganol bore a gliriodd yn gyflym, roedd hi'n ddiwrnod perffaith ar gyfer rygbi 7 pob ochr.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Dechreuodd y gemau am 10:00am gyda thywydd gwych a heblaw am law mân ganol bore a gliriodd yn gyflym, roedd hi'n ddiwrnod perffaith ar gyfer rygbi 7 pob ochr. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+ Mae'r"
+Gorffennodd Arly Velasquez o Fecsico yn bymthegfed yn Super-G eistedd y dynion. Gorffennodd Adam Hall o Seland Newydd yn nawfed yn Super-G sefyll y dynion.,sports,sports,"<|begin_of_text|>SENTENCE:
+ Gorffennodd Arly Velasquez o Fecsico yn bymthegfed yn Super-G eistedd y dynion. Gorffennodd Adam Hall o Seland Newydd yn nawfed yn Super-G sefyll y dynion. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+ EXPLANATION:
+ This is"
+"Bydd gêm ola'r gyfres yn digwydd ym Mharc Ellis yn Johannesburg wythnos nesaf, pan fydd y Springboks yn chwarae yn erbyn Awstralia.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Bydd gêm ola'r gyfres yn digwydd ym Mharc Ellis yn Johannesburg wythnos nesaf, pan fydd y Springboks yn chwarae yn erbyn Awstralia. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports 
+EXPLANATION: Mae'r gair"
+Mewn amodau da gallwch deithio pellteroedd dipyn yn fwy na cherdded - ond anaml iawn y byddwch yn cael cyflymdra sgïo traws gwlad heb gwarbac trwm mewn llwybrau graenus.,sports,travel,"<|begin_of_text|>SENTENCE:
+ Mewn amodau da gallwch deithio pellteroedd dipyn yn fwy na cherdded - ond anaml iawn y byddwch yn cael cyflymdra sgïo traws gwlad heb gwarbac trwm mewn llwybrau graenus. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+ Mae'r"
+"Saith pwynt ar ei hôl hi, mae Johnson yn ail gyda 2,243.",sports,N/A,"<|begin_of_text|>SENTENCE:
+ Saith pwynt ar ei hôl hi, mae Johnson yn ail gyda 2,243. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- None of the above 
+EXPLANATION"
+"Mae ceunantu (neu geunantannu) yn golygu mynd i waelod ceunant, sydd naill ai'n sych neu'n llawn dŵr.",sports,travel,"<|begin_of_text|>SENTENCE:
+ Mae ceunantu (neu geunantannu) yn golygu mynd i waelod ceunant, sydd naill ai'n sych neu'n llawn dŵr. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Ceun"
+"Gwnaeth Robin Uthappa sgôr uchaf y batiad, 70 rhediad mewn 41 pelen yn unig trwy daro 11 pedwar a 2 chwech.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Gwnaeth Robin Uthappa sgôr uchaf y batiad, 70 rhediad mewn 41 pelen yn unig trwy daro 11 pedwar a 2 chwech. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+Mae"
+"Mae chwaraeon y gaeaf yn fwyaf poblogaidd yn y rhanbarthau Gogleddol, gydag Eidalwyr yn cystadlu mewn gemau rhyngwladol a digwyddiadau Olympaidd.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Mae chwaraeon y gaeaf yn fwyaf poblogaidd yn y rhanbarthau Gogleddol, gydag Eidalwyr yn cystadlu mewn gemau rhyngwladol a digwyddiadau Olympaidd. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+ REASONING: Mae'r"
+"Roedd Maroochydore wedi gorffen ar frig yr ysgol, chwe phwynt yn glir o Noosa yn ail.",sports,geography,"<|begin_of_text|>SENTENCE:
+ Roedd Maroochydore wedi gorffen ar frig yr ysgol, chwe phwynt yn glir o Noosa yn ail. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+ REASONING:
+ This"
+"Daeth Michael Schumacher â'i ras i ben ychydig ar ôl Alonso, oherwydd y difrod i hongiad y car yn y brwydrau niferus yn ystod y ras.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Daeth Michael Schumacher â'i ras i ben ychydig ar ôl Alonso, oherwydd y difrod i hongiad y car yn y brwydrau niferus yn ystod y ras. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+ Mae'r"
+"Ni all arferion maethyddol priodol yn unig gynhyrchu perfformiadau elitaidd, ond gallent effeithio ar les cyffredinol athletwyr ifanc yn sylweddol.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Ni all arferion maethyddol priodol yn unig gynhyrchu perfformiadau elitaidd, ond gallent effeithio ar les cyffredinol athletwyr ifanc yn sylweddol. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+ EXPLANATION:
+ Mae'r"
+Dyw e ddim wedi gallu cymryd y cyffuriau sydd eu hangen i oresgyn ei boen gan eu bod wedi'u gwahardd o'r Gemau.,sports,health,"<|begin_of_text|>SENTENCE:
+ Dyw e ddim wedi gallu cymryd y cyffuriau sydd eu hangen i oresgyn ei boen gan eu bod wedi'u gwahardd o'r Gemau. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+health
+EXPLANATION:
+Dyw e"
+Mae ymchwil wedi canfod bod menywod ddwywaith yn fwy tebygol o gael Sglerosis Ymledol na gwrywod.,health,health,"<|begin_of_text|>SENTENCE:
+ Mae ymchwil wedi canfod bod menywod ddwywaith yn fwy tebygol o gael Sglerosis Ymledol na gwrywod. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health
+ TRANSLATION:
+ Research has found"
+"Gall gwirodydd anghyfreithlon gynnwys amhurdebau enbyd amrywiol gan gynnwys methanol, sy'n gallu achosi dallineb neu farwolaeth hyd yn oed mewn dosau bach.",health,health,"<|begin_of_text|>SENTENCE:
+ Gall gwirodydd anghyfreithlon gynnwys amhurdebau enbyd amrywiol gan gynnwys methanol, sy'n gallu achosi dallineb neu farwolaeth hyd yn oed mewn dosau bach. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health
+EXPLANATION:
+Gall gw"
+"Dim ond effeithiau trychinebu, nid iselder ac ofn oedd yn amodol ar sesiynau strwythuredig wythnosol PA.",health,health,"<|begin_of_text|>SENTENCE:
+ Dim ond effeithiau trychinebu, nid iselder ac ofn oedd yn amodol ar sesiynau strwythuredig wythnosol PA. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health
+EXPLANATION:
+The sentence is"
+"Mae perchnogaeth dorfol o geir hefyd yn arwain at nifer uwch o ddamweiniau ar y ffyrdd, sy'n arwain at ddyfeisio technegau newydd mewn gofal iechyd ar gyfer trwsio cyrff wedi'u difrodi.",health,health,"<|begin_of_text|>SENTENCE:
+ Mae perchnogaeth dorfol o geir hefyd yn arwain at nifer uwch o ddamweiniau ar y ffyrdd, sy'n arwain at ddyfeisio technegau newydd mewn gofal iechyd ar gyfer trwsio cyrff wedi'u difrodi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health
+EXPLANATION:
+Mae'r"
+"Mae ymchwilwyr blaenllaw yn dweud y gallai hyn ddod â darganfod cynnar canser, twbercwlosis, HIV a malaria i gleifion mewn gwledydd incwm isel, lle mae'r gyfradd oroesi ar gyfer afiechydon fel canser y fron yn hanner rhai gwledydd cyfoethocach.",health,health,"<|begin_of_text|>SENTENCE:
+ Mae ymchwilwyr blaenllaw yn dweud y gallai hyn ddod â darganfod cynnar canser, twbercwlosis, HIV a malaria i gleifion mewn gwledydd incwm isel, lle mae'r gyfradd oroesi ar gyfer afiechydon fel canser y fron yn hanner rhai gwledydd cyfoethocach. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health
+ REASONING: Mae'r g"
+"Fe wnaeth Dr Ehud Ur, athro meddygaeth ym Mhrifysgol Dalhousie yn Halifax, Nova Scotia, a chadeirydd adran glinigol Cymdeithas Clefyd Siwgr Canada rybuddio bod yr ymchwil yn dal yn ei ddyddiau cynnar.",health,health,"<|begin_of_text|>SENTENCE:
+ Fe wnaeth Dr Ehud Ur, athro meddygaeth ym Mhrifysgol Dalhousie yn Halifax, Nova Scotia, a chadeirydd adran glinigol Cymdeithas Clefyd Siwgr Canada rybuddio bod yr ymchwil yn dal yn ei ddyddiau cynnar. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: health 
+-REASONING: The sentence is"
+"Mae'r plant yn dueddol o fynd i lawer o drwbl, oherwydd maen nhw'n ""ymwneud mewn ymddygiadau peryglus, yn cwffio, ac yn herio awdurdod"" er mwyn ysgogi eu hymennydd, gan na ellir ysgogi eu hymennydd trwy ddulliau arferol.",health,health,"<|begin_of_text|>SENTENCE:
+ Mae'r plant yn dueddol o fynd i lawer o drwbl, oherwydd maen nhw'n ""ymwneud mewn ymddygiadau peryglus, yn cwffio, ac yn herio awdurdod"" er mwyn ysgogi eu hymennydd, gan na ellir ysgogi eu hymennydd trwy ddulliau arferol. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health
+EXPLANATION:
+Mae'r"
+Mae bodau dynol yn gallu cael eu heffeithio gan anadlu dŵr wedi'i effeithio sydd wedi'i gymryd i'r awyr gan wynt a thonnau.,health,science/technology,"<|begin_of_text|>SENTENCE:
+ Mae bodau dynol yn gallu cael eu heffeithio gan anadlu dŵr wedi'i effeithio sydd wedi'i gymryd i'r awyr gan wynt a thonnau. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Mae"
+Mae rhai pobl yn credu bod profi llawer o freuddwydion eglur wedi'u hachosi'n artiffisial yn gallu bod yn flinderus iawn.,health,science/technology,"<|begin_of_text|>SENTENCE:
+ Mae rhai pobl yn credu bod profi llawer o freuddwydion eglur wedi'u hachosi'n artiffisial yn gallu bod yn flinderus iawn. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Mae"
+Derbyniodd Potro driniaeth i'w ysgwydd ar yr adeg hon ond llwyddodd i ddychwelyd i'r gêm.,health,sports,"<|begin_of_text|>SENTENCE:
+ Derbyniodd Potro driniaeth i'w ysgwydd ar yr adeg hon ond llwyddodd i ddychwelyd i'r gêm. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+ Mae'r"
+"Ymhellach, mae gan fethu a gwneud hynny ganlyniadau difrifol: arafu twf, diffyg maeth, ac yn y pen draw marwolaeth.",health,health,"<|begin_of_text|>SENTENCE:
+ Ymhellach, mae gan fethu a gwneud hynny ganlyniadau difrifol: arafu twf, diffyg maeth, ac yn y pen draw marwolaeth. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health
+EXPLANATION:
+Mae'r"
+Mae swyddogion dinas Amsterdam ac Amgueddfa Anne Frank yn datgan bod y goeden wedi'i heintio â ffwng ac yn peri perygl iechyd cyhoeddus wrth iddynt ddadlau ei bod mewn perygl o syrthio'n fuan.,health,health,"<|begin_of_text|>SENTENCE:
+ Mae swyddogion dinas Amsterdam ac Amgueddfa Anne Frank yn datgan bod y goeden wedi'i heintio â ffwng ac yn peri perygl iechyd cyhoeddus wrth iddynt ddadlau ei bod mewn perygl o syrthio'n fuan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: health 
+EXPLANATION:
+Mae'r g"
+"Mae'r ysbyty wedi dilyn protocol ar gyfer rheoli heintiau, gan gynnwys gwahanu'r cleifion oddi wrth eraill i atal heintio posibl pobl eraill.",health,health,"<|begin_of_text|>SENTENCE:
+ Mae'r ysbyty wedi dilyn protocol ar gyfer rheoli heintiau, gan gynnwys gwahanu'r cleifion oddi wrth eraill i atal heintio posibl pobl eraill. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+health
+EXPLANATION:
+Mae'r"
+Mae Sefydliad Heddwch a Democratiaeth Haiti wedi cyfeirio at astudiaethau annibynnol sy'n awgrymu bod bataliwn cadw heddwch Nepal y Cenhedloedd Unedig wedi dod â'r afiechyd i Haiti yn ddiarwybod.,health,politics,"<|begin_of_text|>SENTENCE:
+ Mae Sefydliad Heddwch a Democratiaeth Haiti wedi cyfeirio at astudiaethau annibynnol sy'n awgrymu bod bataliwn cadw heddwch Nepal y Cenhedloedd Unedig wedi dod â'r afiechyd i Haiti yn ddiarwybod. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: politics 
+EXPLANATION: Mae hyn yn"
+"Nid yw afiechydon heintus eu hunain, nac anifeiliaid peryglus sy'n medru anafu neu ladd pobl trwy rym, yn cael eu hystyried yn blâu fel arfer.",health,health,"<|begin_of_text|>SENTENCE:
+ Nid yw afiechydon heintus eu hunain, nac anifeiliaid peryglus sy'n medru anafu neu ladd pobl trwy rym, yn cael eu hystyried yn blâu fel arfer. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health
+EXPLANATION:
+Mae'r"
+"Mae plant ag ADD yn ei chael hi'n anodd canolbwyntio ar bethau fel gwaith ysgol, ond gallant ganolbwyntio ar bethau y maen nhw'n mwynhau eu gwneud fel chwarae gemau neu wylio eu hoff gartwnau neu ysgrifennu brawddegau heb atalnodi.",health,entertainment,"<|begin_of_text|>SENTENCE:
+ Mae plant ag ADD yn ei chael hi'n anodd canolbwyntio ar bethau fel gwaith ysgol, ond gallant ganolbwyntio ar bethau y maen nhw'n mwynhau eu gwneud fel chwarae gemau neu wylio eu hoff gartwnau neu ysgrifennu brawddegau heb atalnodi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: ENTERTAINMENT
+ REASONING: Mae"
+"Ymhen blwyddyn, gall unigolyn heintiedig heintio 10 i 15 o gysylltiadau agos.",health,health,"<|begin_of_text|>SENTENCE:
+ Ymhen blwyddyn, gall unigolyn heintiedig heintio 10 i 15 o gysylltiadau agos. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health
+EXPLANATION:
+Mae'r"
+"Pan ddaeth yr ymladd i ben ar ôl i'r rhai a anafwyd gael eu cludo i'r ysbyty, arhosodd tua 40 o'r carcharorion eraill oedd ar ôl yn yr iard a gwrthod dychwelyd i'w celloedd.",health,health,"<|begin_of_text|>SENTENCE:
+ Pan ddaeth yr ymladd i ben ar ôl i'r rhai a anafwyd gael eu cludo i'r ysbyty, arhosodd tua 40 o'r carcharorion eraill oedd ar ôl yn yr iard a gwrthod dychwelyd i'w celloedd. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+health
+EXPLANATION:
+Mae'r"
+Dechreuodd feddygon gael eu recriwtio gan yr Ymerawdwr Awgwstws a hyd yn oed ffurfio'r Corfflu Meddygol Rhufeinig cyntaf i'w ddefnyddio yn sgìl brwydrau.,health,health,"<|begin_of_text|>SENTENCE:
+ Dechreuodd feddygon gael eu recriwtio gan yr Ymerawdwr Awgwstws a hyd yn oed ffurfio'r Corfflu Meddygol Rhufeinig cyntaf i'w ddefnyddio yn sgìl brwydrau. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: health 
+EXPLANATION:
+This sentence is about"
+"Fodd bynnag, cafodd y gyrrwr anafiadau difrifol i'w ben.",health,health,"<|begin_of_text|>SENTENCE:
+ Fodd bynnag, cafodd y gyrrwr anafiadau difrifol i'w ben. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health
+EXPLANATION:
+ Mae'r gy"
+"""Mae gennym ni nawr lygod pedwar mis oed sydd ddim yn ddiabetig oedd yn arfer bod yn ddiabetig"", ychwanegodd e.",health,health,"<|begin_of_text|>SENTENCE:
+ ""Mae gennym ni nawr lygod pedwar mis oed sydd ddim yn ddiabetig oedd yn arfer bod yn ddiabetig"", ychwanegodd e. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: health 
+-EXPLANATION: Mae'r g"
+"Efallai na fydd gwenwyno mewnol yn amlwg ar unwaith. Mae symptomau, fel chwydu, yn ddigon cyffredinol fel na ellir gwneud diagnosis ar unwaith.",health,health,"<|begin_of_text|>SENTENCE:
+ Efallai na fydd gwenwyno mewnol yn amlwg ar unwaith. Mae symptomau, fel chwydu, yn ddigon cyffredinol fel na ellir gwneud diagnosis ar unwaith. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health
+EXPLANATION:
+ Mae'r g"
+"O ganlyniad, mae'r perfformwyr yn ysmygu smôcs canabis ar y llwyfan, ac mae'r theatr ei hun yn annog y gynulleidfa i ymuno.",entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ O ganlyniad, mae'r perfformwyr yn ysmygu smôcs canabis ar y llwyfan, ac mae'r theatr ei hun yn annog y gynulleidfa i ymuno. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+ EXPLANATION:
+ Mae"
+Mae Aerosmith wedi canslo'r cyngherddau sy'n weddill ar eu taith.,entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Mae Aerosmith wedi canslo'r cyngherddau sy'n weddill ar eu taith. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+ REASONING: Mae"
+"Os ydych chi eisiau bod yn agos at y digwyddiadau, bydd rhaid i chi fynd i mewn yn gynnar i gael maes gwersylla'n agos at y gerddoriaeth.",entertainment,travel,"<|begin_of_text|>SENTENCE:
+ Os ydych chi eisiau bod yn agos at y digwyddiadau, bydd rhaid i chi fynd i mewn yn gynnar i gael maes gwersylla'n agos at y gerddoriaeth. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+ Mae'r"
+Mae llawer o fformatau ffilm wedi cael eu defnyddio dros y blynyddoedd. Ffilm 35 mm (36 wrth 24 mm) yw'r un mwyaf cyffredin o ddigon.,entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Mae llawer o fformatau ffilm wedi cael eu defnyddio dros y blynyddoedd. Ffilm 35 mm (36 wrth 24 mm) yw'r un mwyaf cyffredin o ddigon. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment 
+EXPLANATION: Mae"
+"Er bod hwn yn weithgaredd cyffredin iawn, mae'n cael ei wahardd gan Disney: nid yw'r tocynnau'n drosglwyddadwy.",entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Er bod hwn yn weithgaredd cyffredin iawn, mae'n cael ei wahardd gan Disney: nid yw'r tocynnau'n drosglwyddadwy. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: ENTERTAINMENT
+ REASONING: Mae"
+Byddai pob pennod o'r sioe yn canolbwyntio ar thema mewn llyfr penodol ac yna'n archwilio'r thema honno drwy straeon lluosog.,entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Byddai pob pennod o'r sioe yn canolbwyntio ar thema mewn llyfr penodol ac yna'n archwilio'r thema honno drwy straeon lluosog. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+M"
+Cafodd sawl sgrîn deledu fawr eu gosod mewn lleoedd amrywiol yn Rhufain i adael i'r bobl wylio'r seremoni.,entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Cafodd sawl sgrîn deledu fawr eu gosod mewn lleoedd amrywiol yn Rhufain i adael i'r bobl wylio'r seremoni. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+Y"
+Mae Sophocles ac Aristophanes yn dal i fod yn ddramodwyr poblogaidd ac ystyrir bod eu dramâu ymhlith gweithiau llenyddol gorau'r byd.,entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Mae Sophocles ac Aristophanes yn dal i fod yn ddramodwyr poblogaidd ac ystyrir bod eu dramâu ymhlith gweithiau llenyddol gorau'r byd. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+M"
+Byddai pob sioe hefyd yn cynnig argymhellion ar gyfer llyfrau y dylai plant chwilio amdanyn nhw pan roedden nhw'n mynd i'w llyfrgell.,entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Byddai pob sioe hefyd yn cynnig argymhellion ar gyfer llyfrau y dylai plant chwilio amdanyn nhw pan roedden nhw'n mynd i'w llyfrgell. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+ Mae"
+"Ar yr acordion, i gael sain ychwanegol, rydych chi'n defnyddio'r meginau â mwy o bwysau neu gyflymder.",entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Ar yr acordion, i gael sain ychwanegol, rydych chi'n defnyddio'r meginau â mwy o bwysau neu gyflymder. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+ Mae"
+Rydych chi'n gallu gweld y pyramidiau yn y tywyllwch ac rydych chi'n gallu eu gweld mewn tawelwch cyn i'r sioe gychwyn.,entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Rydych chi'n gallu gweld y pyramidiau yn y tywyllwch ac rydych chi'n gallu eu gweld mewn tawelwch cyn i'r sioe gychwyn. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+ Mae"
+"Mae enghreifftiau o weithgareddau ar y safle yn cynnwys hela, pysgota, ffotograffiaeth, gwylio adar, ac ymweld â pharciau ac astudio gwybodaeth am yr ecosystem.",entertainment,science/technology,"<|begin_of_text|>SENTENCE:
+ Mae enghreifftiau o weithgareddau ar y safle yn cynnwys hela, pysgota, ffotograffiaeth, gwylio adar, ac ymweld â pharciau ac astudio gwybodaeth am yr ecosystem. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Mae"
+Mae'r Sffincs yn cael ei osod fel cefndir ac adroddwr stori hir.,entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Mae'r Sffincs yn cael ei osod fel cefndir ac adroddwr stori hir. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+M"
+"Mae ganddyn nhw fel arfer gynigion bwyd, diod ac adloniant arbennig, i gadw gwesteion mewn hwyliau da, a'u cadw yn yr adeilad.",entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Mae ganddyn nhw fel arfer gynigion bwyd, diod ac adloniant arbennig, i gadw gwesteion mewn hwyliau da, a'u cadw yn yr adeilad. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+M"
+"Eisoes yn adrodd yn Saesneg a Siapaneg, mae'r sefydliad byd-eang yn lansio rhaglenni Sbaeneg, Eidaleg a Chorëeg eu hiaith, ar gyfer y teledu, y we, a dyfeisiau symudol.",entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Eisoes yn adrodd yn Saesneg a Siapaneg, mae'r sefydliad byd-eang yn lansio rhaglenni Sbaeneg, Eidaleg a Chorëeg eu hiaith, ar gyfer y teledu, y we, a dyfeisiau symudol. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+ Mae"
+Cyn The Simpsons roedd Simon wedi gweithio ar nifer o sioeau mewn gwahanol swyddi.,entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Cyn The Simpsons roedd Simon wedi gweithio ar nifer o sioeau mewn gwahanol swyddi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+ Mae"
+Bydd hyn yn caniatáu i chwaraewyr reoli gweithrediadau a symudiadau mewn gemau fideo trwy symud y ddyfais yn yr awyr.,entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Bydd hyn yn caniatáu i chwaraewyr reoli gweithrediadau a symudiadau mewn gemau fideo trwy symud y ddyfais yn yr awyr. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+ Mae"
+"Roedd o leiaf 100 o bobl wedi mynychu'r parti, er mwyn dathlu pen-blwydd priodas cyntaf cwpl a briododd y llynedd.",entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Roedd o leiaf 100 o bobl wedi mynychu'r parti, er mwyn dathlu pen-blwydd priodas cyntaf cwpl a briododd y llynedd. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+ Mae"
+"Derbyniodd dwy gân o'r ffilm, Audition (The Fools Who Dream) a City of Stars, enwebiadau am y gân wreiddiol orau. Derbyniodd stiwdio Lionsgate 26 enwebiad - mwy nac unrhyw stiwdio arall.",entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Derbyniodd dwy gân o'r ffilm, Audition (The Fools Who Dream) a City of Stars, enwebiadau am y gân wreiddiol orau. Derbyniodd stiwdio Lionsgate 26 enwebiad - mwy nac unrhyw stiwdio arall. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+ Mae"
+Mae'r gramen tua 70 cilomedr o drwch ar yr ochr agos a thua 100 cilomedr o drwch ar yr ochr bellaf.,geography,geography,"<|begin_of_text|>SENTENCE:
+ Mae'r gramen tua 70 cilomedr o drwch ar yr ochr agos a thua 100 cilomedr o drwch ar yr ochr bellaf. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+ REASONING: Mae"
+Ymhellach i'r de mae Rhaeadr Niagra ac mae'r gogledd yn gartref i harddwch naturiol Muskoka a thu hwnt sydd heb ei gyffwrdd.,geography,geography,"<|begin_of_text|>SENTENCE:
+ Ymhellach i'r de mae Rhaeadr Niagra ac mae'r gogledd yn gartref i harddwch naturiol Muskoka a thu hwnt sydd heb ei gyffwrdd. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+ EXPLANATION:
+ Mae"
+"Tir Ellsworth yw'r rhanbarth i'r de o'r Penrhyn, wedi'i ffinio â Môr Bellingshausen.",geography,geography,"<|begin_of_text|>SENTENCE:
+ Tir Ellsworth yw'r rhanbarth i'r de o'r Penrhyn, wedi'i ffinio â Môr Bellingshausen. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+ EXPLANATION:
+ Mae"
+Mae Traffordd (neu Briffordd) Pegwn y De yn llwybr 1600 cilomedr o Orsaf McMurdo ar Fôr Ross i'r Pegwn.,geography,travel,"<|begin_of_text|>SENTENCE:
+ Mae Traffordd (neu Briffordd) Pegwn y De yn llwybr 1600 cilomedr o Orsaf McMurdo ar Fôr Ross i'r Pegwn. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Mae"
+"Yn sefyll yn uchel uwchben pen gogleddol Machu Picchu mae'r mynydd serth hwn, sy'n gefndir i nifer o luniau o'r adfeilion yn aml.",geography,geography,"<|begin_of_text|>SENTENCE:
+ Yn sefyll yn uchel uwchben pen gogleddol Machu Picchu mae'r mynydd serth hwn, sy'n gefndir i nifer o luniau o'r adfeilion yn aml. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+ Mae"
+"Enceladus yw'r gwrthrych mwyaf adlewyrchol yng nghysawd yr haul, gan adlewyrchu tua 90 y cant o oleuni'r haul sy'n ei daro.",geography,science/technology,"<|begin_of_text|>SENTENCE:
+ Enceladus yw'r gwrthrych mwyaf adlewyrchol yng nghysawd yr haul, gan adlewyrchu tua 90 y cant o oleuni'r haul sy'n ei daro. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Mae"
+Nid oes modd gweld dim heblaw'r awyr glir hardd uwchben a'r mynyddoedd niferus amgylchynol. Ychydig iawn o'r byd hwn y gellir ei weld neu'i glywed o'r tu mewn i'r ogof.,geography,geography,"<|begin_of_text|>SENTENCE:
+ Nid oes modd gweld dim heblaw'r awyr glir hardd uwchben a'r mynyddoedd niferus amgylchynol. Ychydig iawn o'r byd hwn y gellir ei weld neu'i glywed o'r tu mewn i'r ogof. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+"Nawr am Siapan. Gwlad ynys oedd Siapan, yn union fel Prydain.",geography,geography,"<|begin_of_text|>SENTENCE:
+ Nawr am Siapan. Gwlad ynys oedd Siapan, yn union fel Prydain. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+"Ar ei anterth, cyrhaeddodd Seiclon Trofannol Gonu, wedi'i enwi ar ôl bag o ddail palmwydd yn iaith y Maldifau, wyntoedd cyson o 240 cilomedr yr awr (149 milltir yr awr).",geography,geography,"<|begin_of_text|>SENTENCE:
+ Ar ei anterth, cyrhaeddodd Seiclon Trofannol Gonu, wedi'i enwi ar ôl bag o ddail palmwydd yn iaith y Maldifau, wyntoedd cyson o 240 cilomedr yr awr (149 milltir yr awr). 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+ Mae"
+"Mae arwynebedd Twrci, gan gynnwys llynnoedd, yn meddiannu 783,562 cilomedr sgwâr (300,948 milltir sgwâr), gyda 755,688 cilomedr sgwâr (291,773 milltir sgwâr) ohonynt yn ne-orllewin Asia a 23,764 cilomedr sgwar (9,174 Milltir sgwar) yn Ewrop.",geography,geography,"<|begin_of_text|>SENTENCE:
+ Mae arwynebedd Twrci, gan gynnwys llynnoedd, yn meddiannu 783,562 cilomedr sgwâr (300,948 milltir sgwâr), gyda 755,688 cilomedr sgwâr (291,773 milltir sgwâr) ohonynt yn ne-orllewin Asia a 23,764 cilomedr sgwar (9,174 Milltir sgwar) yn Ewrop. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+geography
+ EXPLANATION:
+ The sentence"
+"Mae Ynysoedd De Shetland, a ddarganfuwyd ym 1819, yn cael eu hawlio gan nifer o wledydd ac mae'n meddu ar y nifer fwyaf o orsafoedd, gydag un ar bymtheg yn weithredol yn 2020.",geography,geography,"<|begin_of_text|>SENTENCE:
+ Mae Ynysoedd De Shetland, a ddarganfuwyd ym 1819, yn cael eu hawlio gan nifer o wledydd ac mae'n meddu ar y nifer fwyaf o orsafoedd, gydag un ar bymtheg yn weithredol yn 2020. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+geography 
+EXPLANATION:
+Mae"
+"Apia yw prifddinas Samoa. Mae'r dref ar ynys Upolu ac mae ganddi boblogaeth o ychydig llai na 40,000.",geography,geography,"<|begin_of_text|>SENTENCE:
+ Apia yw prifddinas Samoa. Mae'r dref ar ynys Upolu ac mae ganddi boblogaeth o ychydig llai na 40,000. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+ EXPLANATION:
+ Mae"
+"Gan fod y storm yn bell o ddod i olwg tir, mae'n dal yn anodd asesu'r effaith bosibl ar yr Unol Daleithiau neu'r Caribî.",geography,geography,"<|begin_of_text|>SENTENCE:
+ Gan fod y storm yn bell o ddod i olwg tir, mae'n dal yn anodd asesu'r effaith bosibl ar yr Unol Daleithiau neu'r Caribî. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+ REASONING:
+ Mae"
+Mae'n deneuach o dan y maria ac yn fwy trwchus o dan yr ucheldiroedd.,geography,geography,"<|begin_of_text|>SENTENCE:
+ Mae'n deneuach o dan y maria ac yn fwy trwchus o dan yr ucheldiroedd. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION: Mae"
+Nid corsydd mangrof mo'r fforestydd yn unig fodd bynnag - maen nhw'n cynnwys rhai o'r safiadau olaf o'r jynglau mawr oedd yn gorchuddio gwastadedd Gangetig ar un adeg.,geography,geography,"<|begin_of_text|>SENTENCE:
+ Nid corsydd mangrof mo'r fforestydd yn unig fodd bynnag - maen nhw'n cynnwys rhai o'r safiadau olaf o'r jynglau mawr oedd yn gorchuddio gwastadedd Gangetig ar un adeg. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+geography
+EXPLANATION:
+ Mae'r"
+Ni ddangosodd map daeargrynfeydd rhyngwladol Arolwg Daearegol yr Unol Daleithiau ddim daeargrynfeydd yng Ngwlad yr Iâ yn yr wythnos flaenorol.,geography,geography,"<|begin_of_text|>SENTENCE:
+ Ni ddangosodd map daeargrynfeydd rhyngwladol Arolwg Daearegol yr Unol Daleithiau ddim daeargrynfeydd yng Ngwlad yr Iâ yn yr wythnos flaenorol. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+ Mae"
+"Yn gorwedd ar gopa un o'r mynyddoedd i'r gogledd o Mecca, mae'r ogof yn wedi'i hynysu'n llwyr oddi wrth weddill y byd.",geography,geography,"<|begin_of_text|>SENTENCE:
+ Yn gorwedd ar gopa un o'r mynyddoedd i'r gogledd o Mecca, mae'r ogof yn wedi'i hynysu'n llwyr oddi wrth weddill y byd. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+geography
+EXPLANATION:
+ Mae'r"

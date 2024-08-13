@@ -1,0 +1,3013 @@
+text,actual_category,predicted_category,generated_text
+"Kugucuka kwesimo kungeta kuhlukahlukana kwelufuto, futsi lokukhetsa kuyakususa kulelicembu lekuhlukahlukana lokuvetiwe.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Kugucuka kwesimo kungeta kuhlukahlukana kwelufuto, futsi lokukhetsa kuyakususa kulelicembu lekuhlukahlukana lokuvetiwe. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Kug"
+Ibhomu ye-fission isebenta ngalesimiso sekutsi itsatsa emandla ihlanganise inyukliyasi lenemaphrotoni lamaningi kanye nemanyuthroni.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Ibhomu ye-fission isebenta ngalesimiso sekutsi itsatsa emandla ihlanganise inyukliyasi lenemaphrotoni lamaningi kanye nemanyuthroni. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: -science
+EXPLANATION:
+Ibhom"
+Inyukliyasi inetintfo letimbili - emanyuthroni nemaphrothoni.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Inyukliyasi inetintfo letimbili - emanyuthroni nemaphrothoni. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+This sentence"
+Loku kubangele kutsi emalensi e-zoom akhicite titfombe letisezingeni lelisetulu naticatsaniswa netitfombe letivamile letiphuma kulamanye emalensi.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Loku kubangele kutsi emalensi e-zoom akhicite titfombe letisezingeni lelisetulu naticatsaniswa netitfombe letivamile letiphuma kulamanye emalensi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+This sentence"
+"Bawati kahle emawebhusayithi latsite ngenca yetizatfu letinyenti: Emalayini e-Inthaneti bawahambisa ngalenye indlela, hhayi nje kuphela i-http.",science/technology,travel,"<|begin_of_text|>SENTENCE:
+ Bawati kahle emawebhusayithi latsite ngenca yetizatfu letinyenti: Emalayini e-Inthaneti bawahambisa ngalenye indlela, hhayi nje kuphela i-http. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The sentence"
+Kusebentisana nekwakheka kwentfo letsite kudzinga kutsi uphindze uhlolisise loko lokucabangako mayelana netintfo tekusakata futsi ufundze kucabanga ngendlela lecondzile.,science/technology,N/A,"<|begin_of_text|>SENTENCE:
+ Kusebentisana nekwakheka kwentfo letsite kudzinga kutsi uphindze uhlolisise loko lokucabangako mayelana netintfo tekusakata futsi ufundze kucabanga ngendlela lecondzile. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- None of the above 
+REASONING"
+"Loku kwaba ngumkhuba lochubekako, kodvwa lensimi yabangela umonakalo lomkhulu kulamadondvo alencola yesigodvo.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Loku kwaba ngumkhuba lochubekako, kodvwa lensimi yabangela umonakalo lomkhulu kulamadondvo alencola yesigodvo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+The sentence"
+"Bantfu labafiva babakhulu futsi babalulekile kungaba ngemadvodza lamatsatfu, nakacatsaniswa nebafati labangemashumi lamatsatfu labativa ngaleyo ndlela.",science/technology,geography,"<|begin_of_text|>SENTENCE:
+ Bantfu labafiva babakhulu futsi babalulekile kungaba ngemadvodza lamatsatfu, nakacatsaniswa nebafati labangemashumi lamatsatfu labativa ngaleyo ndlela. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+The"
+"Ngisho noma Al anenchazelo lecinile ngenganekwane yesayensi, Al wakha ligatja lelibalulekile lesayensi yabongcondvomshini, akhuluma ngendlela tintfo letitiphatsa ngayo, nangekuhlakanipha lokusemishinini.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Ngisho noma Al anenchazelo lecinile ngenganekwane yesayensi, Al wakha ligatja lelibalulekile lesayensi yabongcondvomshini, akhuluma ngendlela tintfo letitiphatsa ngayo, nangekuhlakanipha lokusemishinini. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+The sentence"
+Lolu hlobo lwebukhulu (kuhlukanisa ngelishumi nambili kutfola inombolo lephelele longayitfola) ngakoke kutsiwa iba ngu 3:2.,science/technology,N/A,"<|begin_of_text|>SENTENCE:
+ Lolu hlobo lwebukhulu (kuhlukanisa ngelishumi nambili kutfola inombolo lephelele longayitfola) ngakoke kutsiwa iba ngu 3:2. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- None of the above 
+EXPLANATION"
+"Lucingo lwesathelayithi alitsatsi sikhala sefoni yamakhala ekhikhini, njengobe kufanele uphumele ngaphandle lakute khona lokungavimba isathelayithi kute ukhone kufona.",science/technology,N/A,"<|begin_of_text|>SENTENCE:
+ Lucingo lwesathelayithi alitsatsi sikhala sefoni yamakhala ekhikhini, njengobe kufanele uphumele ngaphandle lakute khona lokungavimba isathelayithi kute ukhone kufona. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- None of the above.  This is"
+"Ngisho noma tindlela tekuhamba tincola ngalokuvamile takhiwa ngemapulango, tivumela emahhashi ladvonsa letincola kutsi akhone kuhamba ngelitubane lelikhulu abe advonsa imitfwalo lesindzako ngalokungafani nalapho ahamba emigwacweni lemibi legcwele ematje.",science/technology,travel,"<|begin_of_text|>SENTENCE:
+ Ngisho noma tindlela tekuhamba tincola ngalokuvamile takhiwa ngemapulango, tivumela emahhashi ladvonsa letincola kutsi akhone kuhamba ngelitubane lelikhulu abe advonsa imitfwalo lesindzako ngalokungafani nalapho ahamba emigwacweni lemibi legcwele ematje. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+This sentence"
+"Bantfu bebaloku bati ngetici temakhemikhali letiyinhloko njengeligolide, lisiliva, ikhopha kusukela emandvulo, njengaloku konkhe loku kungatfolakala emvelweni lokwenta kube melula ngetimayini kutsi bakugubhe ngaphandle kwemathuluzi lakhetsekile.",science/technology,geography,"<|begin_of_text|>SENTENCE:
+ Bantfu bebaloku bati ngetici temakhemikhali letiyinhloko njengeligolide, lisiliva, ikhopha kusukela emandvulo, njengaloku konkhe loku kungatfolakala emvelweni lokwenta kube melula ngetimayini kutsi bakugubhe ngaphandle kwemathuluzi lakhetsekile. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+Tintfo tekuhamba tiwushitntjile umhlaba ngetindlela letisimanga. Intfo lenkhulu tintfo tekuhamba letiyentile kutsi tisente sihambe kalula futsi nangekushesha.,science/technology,geography,"<|begin_of_text|>SENTENCE:
+ Tintfo tekuhamba tiwushitntjile umhlaba ngetindlela letisimanga. Intfo lenkhulu tintfo tekuhamba letiyentile kutsi tisente sihambe kalula futsi nangekushesha. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+Loku kwentiwa kuze kucinisekiswe kutsi lesitfombe simbonye sonkhe sikrini. Loko kubitwa ngekutsi kugcwalisa sitfombe esikrinini.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Loku kwentiwa kuze kucinisekiswe kutsi lesitfombe simbonye sonkhe sikrini. Loko kubitwa ngekutsi kugcwalisa sitfombe esikrinini. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+This sentence"
+Imikhumbi yaseJalimane lehamba ngaphansi kwemanti yayibitwa ngekutsi yi-U-Boats. EmaJalimane bekanelikhono lelihle kakhulu ekufuneni lemikhumbi yawo nekuyisebentisa.,science/technology,geography,"<|begin_of_text|>SENTENCE:
+ Imikhumbi yaseJalimane lehamba ngaphansi kwemanti yayibitwa ngekutsi yi-U-Boats. EmaJalimane bekanelikhono lelihle kakhulu ekufuneni lemikhumbi yawo nekuyisebentisa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+I"
+"Ngisho noma simo semtimba singase sishintje, kodvwa simo semakhemikhali sihlala sinjalo.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Ngisho noma simo semtimba singase sishintje, kodvwa simo semakhemikhali sihlala sinjalo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+The sentence"
+Kucindzeteleka kwendzawo kwenteka ngobe emanti lasendzaweni yemanti ahlanganiswe ngemandla ndzawonye kunangendlela langiyo nawasahamba emoyeni ngetulu kwawo.,science/technology,geography,"<|begin_of_text|>SENTENCE:
+ Kucindzeteleka kwendzawo kwenteka ngobe emanti lasendzaweni yemanti ahlanganiswe ngemandla ndzawonye kunangendlela langiyo nawasahamba emoyeni ngetulu kwawo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+The"
+Lenye yetinkinga levame kakhulu nawuzama kushintja lifilimu libe luhlobo lwe-DVD nguloku-ovaskena.,science/technology,entertainment,"<|begin_of_text|>SENTENCE:
+ Lenye yetinkinga levame kakhulu nawuzama kushintja lifilimu libe luhlobo lwe-DVD nguloku-ovaskena. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+I"
+"Ngalokucondzile, itsi umuntfu angakhona kubona nangabe lotsite acamba emanga ngekubuka simo sakhe sebuso.",science/technology,N/A,"<|begin_of_text|>SENTENCE:
+ Ngalokucondzile, itsi umuntfu angakhona kubona nangabe lotsite acamba emanga ngekubuka simo sakhe sebuso. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- None of the above 
+EXPLANATION"
+Igolide ingase ibunjwe ibe ngunoma yini. Ingabunjwa ibe tintfo letincane.,science/technology,geography,"<|begin_of_text|>SENTENCE:
+ Igolide ingase ibunjwe ibe ngunoma yini. Ingabunjwa ibe tintfo letincane. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+REASONING:
+The"
+"Luhlelo lwe-Al nyalo lusentjentiswa kakhulu emkhakheni wetemnotfo, tekwelapha, tebunjiniyela netembutfo wokuvikela, njengoba lwakhiwe etinhlelweni letimbalwa temakhompyutha kanye nemidlalo yevidiyo.",science/technology,entertainment,"<|begin_of_text|>SENTENCE:
+ Luhlelo lwe-Al nyalo lusentjentiswa kakhulu emkhakheni wetemnotfo, tekwelapha, tebunjiniyela netembutfo wokuvikela, njengoba lwakhiwe etinhlelweni letimbalwa temakhompyutha kanye nemidlalo yevidiyo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+I"
+"Isakhiwa namanje, kodvwa lokubaluleke kakhulu kutsi seyitsatselwe sikhundla ngemakhamera esimanjenje manje.",science/technology,geography,"<|begin_of_text|>SENTENCE:
+ Isakhiwa namanje, kodvwa lokubaluleke kakhulu kutsi seyitsatselwe sikhundla ngemakhamera esimanjenje manje. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+REASONING SKILL"
+Lomtsetfo wesitsatfu lohlukubetwa kakhulu futsi lovame kubukelwa phansi ungumtsetfo lolula lowakha kuhluka ube ugcina kuhleleka kwesitfombe.,science/technology,N/A,"<|begin_of_text|>SENTENCE:
+ Lomtsetfo wesitsatfu lohlukubetwa kakhulu futsi lovame kubukelwa phansi ungumtsetfo lolula lowakha kuhluka ube ugcina kuhleleka kwesitfombe. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- None of the above 
+ REASONING"
+"Loku akucinisekisi nje kuphela kutsi emadayinosa anetinsiba, inkholelo leyandzile, kodvwa iniketa imininingwane ngetinsalele, kufaka ekhatsi imibala neluhlelo lwetincenye letintsatfu.",science/technology,N/A,"<|begin_of_text|>SENTENCE:
+ Loku akucinisekisi nje kuphela kutsi emadayinosa anetinsiba, inkholelo leyandzile, kodvwa iniketa imininingwane ngetinsalele, kufaka ekhatsi imibala neluhlelo lwetincenye letintsatfu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- None of the above 
+ This is a"
+"Emandla ladvonsela phansi ase-lo angangidvonsa njani mine? Nawume phansi ku-lo, ungaba sisindvo lesingaphansi kwaleso longiso eMhlabeni.",science/technology,geography,"<|begin_of_text|>SENTENCE:
+ Emandla ladvonsela phansi ase-lo angangidvonsa njani mine? Nawume phansi ku-lo, ungaba sisindvo lesingaphansi kwaleso longiso eMhlabeni. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+The"
+I-NextGen luhlelo i-FAA lebanga kutsi ingabangela kutsi tindiza tindize tindlela letimfisha lokutokonga tigidzi taphethiloli umnyaka ngamunye futsi tinciphise kungcola kwekhabhoni.,science/technology,geography,"<|begin_of_text|>SENTENCE:
+ I-NextGen luhlelo i-FAA lebanga kutsi ingabangela kutsi tindiza tindize tindlela letimfisha lokutokonga tigidzi taphethiloli umnyaka ngamunye futsi tinciphise kungcola kwekhabhoni. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+I"
+Imininingwane lemayelana nekufundza imiva nengcondvo yebantfu netilwane iniketa bufakazi lobuphatsekako kwendlela yekucabanga kuhlolisisa likhono lekucondza. Ngako-ke kunciphisa lapho kudzinga kucwaningwe khona futsi kwenta lolucwaningo lube ngulolucondzile.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Imininingwane lemayelana nekufundza imiva nengcondvo yebantfu netilwane iniketa bufakazi lobuphatsekako kwendlela yekucabanga kuhlolisisa likhono lekucondza. Ngako-ke kunciphisa lapho kudzinga kucwaningwe khona futsi kwenta lolucwaningo lube ngulolucondzile. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Imin"
+"Ngesikhatsi enta inkhulumo yakhe leyatsatsa ema-awa lamabili watsi ""Lamuhla i-Apple itokwakha kabusha lucingo, sitocopha umlandvo lamuhla"".",science/technology,entertainment,"<|begin_of_text|>SENTENCE:
+ Ngesikhatsi enta inkhulumo yakhe leyatsatsa ema-awa lamabili watsi ""Lamuhla i-Apple itokwakha kabusha lucingo, sitocopha umlandvo lamuhla"". 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+I"
+Lokukabi ngetibuko tekubukela dvute kutsi le-focal complexity nelinani letintfo letidzengekako kutfola budze bema-focal kukhulu kunaletinye tibuko letivamile.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Lokukabi ngetibuko tekubukela dvute kutsi le-focal complexity nelinani letintfo letidzengekako kutfola budze bema-focal kukhulu kunaletinye tibuko letivamile. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+This sentence"
+"Ngalokufanana nerimothi yamabonakudze, loyo loyichafatako usebentisa tintfo tekuva letimbili letibekwa eceleni kwalomabonakudze kuze ayehlukanise ibe tincenye letintsatfu.",science/technology,N/A,"<|begin_of_text|>SENTENCE:
+ Ngalokufanana nerimothi yamabonakudze, loyo loyichafatako usebentisa tintfo tekuva letimbili letibekwa eceleni kwalomabonakudze kuze ayehlukanise ibe tincenye letintsatfu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- None of the above 
+REASONING"
+. Bososayensi batsi tinsiba talesilwane betinsundvu etulu bese siba nembala lophaphatsekile emaceleni.,science/technology,N/A,"<|begin_of_text|>SENTENCE:
+. Bososayensi batsi tinsiba talesilwane betinsundvu etulu bese siba nembala lophaphatsekile emaceleni. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: None of the above
+REASONING SKILL"
+Bacwaningi kulenyuvesi batsi letinhlanganisela letimbili tiyahlangana kuze takhe emakristalu lokungenteka avale tinso.,science/technology,N/A,"<|begin_of_text|>SENTENCE:
+ Bacwaningi kulenyuvesi batsi letinhlanganisela letimbili tiyahlangana kuze takhe emakristalu lokungenteka avale tinso. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- None of the above 
+EXPLANATION"
+Loku kwenta lesitfombe sibe sikhulu ngalokuphindve kane nasicatsaniswa nesitfombe lesinespoko saso lesingu 35mm(3136mm2 versus 864),science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Loku kwenta lesitfombe sibe sikhulu ngalokuphindve kane nasicatsaniswa nesitfombe lesinespoko saso lesingu 35mm(3136mm2 versus 864) 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+The sentence"
+"Sibonga tintsambo te-fiber optic letingaphansi kwelwandle letichumanisa iYurophu nesethelithe ye-inthenethi, iGreenland ichumene kahle njengoba emaphesenti langu-93 elinani lebantfu bayakhona kungena ku-inthanethi.",science/technology,geography,"<|begin_of_text|>SENTENCE:
+ Sibonga tintsambo te-fiber optic letingaphansi kwelwandle letichumanisa iYurophu nesethelithe ye-inthenethi, iGreenland ichumene kahle njengoba emaphesenti langu-93 elinani lebantfu bayakhona kungena ku-inthanethi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+I"
+"Lenye yema-apps ledvume kakhulu kulelihlangotsi yiGoogle Translate, levumela kuhumusha ngaphandle kwe-intanethi emva kwekutsi udawunilode lemininigwane yalolulimi.",science/technology,entertainment,"<|begin_of_text|>SENTENCE:
+ Lenye yema-apps ledvume kakhulu kulelihlangotsi yiGoogle Translate, levumela kuhumusha ngaphandle kwe-intanethi emva kwekutsi udawunilode lemininigwane yalolulimi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+I"
+"Inendlela lefanako neyekwakhiwa kwemangcamzana kungaba egesi, emanti, noma entfo lecinile.",science/technology,geography,"<|begin_of_text|>SENTENCE:
+ Inendlela lefanako neyekwakhiwa kwemangcamzana kungaba egesi, emanti, noma entfo lecinile. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+In"
+"Kurekhodwa kwe-video kuphumele ekutfoleni tintfo letibalulekile ekuhumusheni, ekuboneni kunyakata kwebuso kwaloyo lorekhodiwe lokutsatsa sikhashana nje.",science/technology,N/A,"<|begin_of_text|>SENTENCE:
+ Kurekhodwa kwe-video kuphumele ekutfoleni tintfo letibalulekile ekuhumusheni, ekuboneni kunyakata kwebuso kwaloyo lorekhodiwe lokutsatsa sikhashana nje. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- None of the above. This sentence is"
+Bantfu bebenta futsi basebentisa tibuko kubukela tintfo madvute tinkhulungwane tetinkhulungwane teminyaka.,science/technology,geography,"<|begin_of_text|>SENTENCE:
+ Bantfu bebenta futsi basebentisa tibuko kubukela tintfo madvute tinkhulungwane tetinkhulungwane teminyaka. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+The"
+"Kuhlola kungulenye yetindlela tekususa tinkholelo lite, imibuto lesinayo ngentfotsite kuphindze kwente kutsi bososayensi babone kutsi tintfo tenteka njani, lokubasita bente kahle lucwaningo lwabo",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Kuhlola kungulenye yetindlela tekususa tinkholelo lite, imibuto lesinayo ngentfotsite kuphindze kwente kutsi bososayensi babone kutsi tintfo tenteka njani, lokubasita bente kahle lucwaningo lwabo 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+The sentence"
+"Ngekuhamba kwesikhatsi, emasondvo lakhiwe ngelikhuni atsatselwa indzawo ngulawo lakhiwe ngensimbi. Nga-1767, bonkhe bojantji besitimela bakhiwa ngensimbi.",science/technology,travel,"<|begin_of_text|>SENTENCE:
+ Ngekuhamba kwesikhatsi, emasondvo lakhiwe ngelikhuni atsatselwa indzawo ngulawo lakhiwe ngensimbi. Nga-1767, bonkhe bojantji besitimela bakhiwa ngensimbi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Nge"
+"Ngisho noma lamanyenti emakhadi kukahle kushaya ngawo lucingo noma ngukuphi, lamanye ngalokukhetsekile akuniketa emanani laphasi ekushaya nawushayela emave latsite kuphela.",science/technology,N/A,"<|begin_of_text|>SENTENCE:
+ Ngisho noma lamanyenti emakhadi kukahle kushaya ngawo lucingo noma ngukuphi, lamanye ngalokukhetsekile akuniketa emanani laphasi ekushaya nawushayela emave latsite kuphela. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- None of the above. This is a"
+Tibonakudze tesimanjemanje tekucwaninga tinkhulu futsi telizinga leliphakeme futsi tingasetjentiswa etindzaweni letikhashane letinesimo lesihle.,science/technology,geography,"<|begin_of_text|>SENTENCE:
+ Tibonakudze tesimanjemanje tekucwaninga tinkhulu futsi telizinga leliphakeme futsi tingasetjentiswa etindzaweni letikhashane letinesimo lesihle. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+This"
+Inyalitsi yensimbi beyintanta etu kwemanti ngobe yekucina kwendzawo labekuyo.,science/technology,geography,"<|begin_of_text|>SENTENCE:
+ Inyalitsi yensimbi beyintanta etu kwemanti ngobe yekucina kwendzawo labekuyo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+In"
+"Lefomethi lengu-35 wemamilimitha mbambambamba, inguledidako, budze lobungu-36 wemamilimitha lokhlanganiswe nekuphakama lokungu-24 wemamilimitha.",science/technology,geography,"<|begin_of_text|>SENTENCE:
+ Lefomethi lengu-35 wemamilimitha mbambambamba, inguledidako, budze lobungu-36 wemamilimitha lokhlanganiswe nekuphakama lokungu-24 wemamilimitha. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+This"
+"Emangcamuza ayintfo lesisekelo nalebucayi etifundvweni tetintfo letiphilako, ecinisweni, njalo nakukhulunywa ngawo kutsiwa ""titina tekwakha kuphila"".",science/technology,N/A,"<|begin_of_text|>SENTENCE:
+ Emangcamuza ayintfo lesisekelo nalebucayi etifundvweni tetintfo letiphilako, ecinisweni, njalo nakukhulunywa ngawo kutsiwa ""titina tekwakha kuphila"". 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- None of the above (This is a"
+I-VPN Yemuntfu (inethiwekhi yemuntfu sicu yekutibonakalisa) iniketa indlela lencono kakhulu yekubonakalisa kusebentisana kwepolitiki kanye nemnotfo.,science/technology,politics,"<|begin_of_text|>SENTENCE:
+ I-VPN Yemuntfu (inethiwekhi yemuntfu sicu yekutibonakalisa) iniketa indlela lencono kakhulu yekubonakalisa kusebentisana kwepolitiki kanye nemnotfo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+I-"
+"Bantfu labasebenta kulesiteshi bachubeke nesimo sabo sengcondvo lesihle, ngisho noma kulahleke i-gyroscope ekucaleni, futsi batakwenta loko luze luphele luhambo lwasemkhatsini.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Bantfu labasebenta kulesiteshi bachubeke nesimo sabo sengcondvo lesihle, ngisho noma kulahleke i-gyroscope ekucaleni, futsi batakwenta loko luze luphele luhambo lwasemkhatsini. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+The sentence"
+"Bantfu labanaloluhlobo lwekucabanga bacabanga ngendlela letsite lehleliwe, bayakhona kukhumbula tinhlelo, kusombulula tinkinga nekusebenta ngekuhlolwa kwesayensi.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Bantfu labanaloluhlobo lwekucabanga bacabanga ngendlela letsite lehleliwe, bayakhona kukhumbula tinhlelo, kusombulula tinkinga nekusebenta ngekuhlolwa kwesayensi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+The sentence"
+"Ema-ocelots atsandza kudla tilwane letincane. Abamba timfene, tinyoka, ema-rodents netinyoni uma akhona. Cishe tonkhe letilwane ema-ocelot lakatitingelako tincane kakhulu kunawo.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Ema-ocelots atsandza kudla tilwane letincane. Abamba timfene, tinyoka, ema-rodents netinyoni uma akhona. Cishe tonkhe letilwane ema-ocelot lakatitingelako tincane kakhulu kunawo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+This sentence"
+"Letinye tinhlelo temakhamera letimafilimu tisebentisa luhlelo lwe-6 x 6, lokukhulu nakakhulu ku-56 x 56 wemamilimitha.",science/technology,entertainment,"<|begin_of_text|>SENTENCE:
+ Letinye tinhlelo temakhamera letimafilimu tisebentisa luhlelo lwe-6 x 6, lokukhulu nakakhulu ku-56 x 56 wemamilimitha. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: ENTERTAINMENT
+EXPLANATION:
+I"
+Tivakashi tikhutsatwa kakhulu kutsi tinake bungoti besimo selitulu lesishubile lesitsintsa lendzawo yekuvakasha ngoba singaphatamisa emalungiselelo eluvakasho.,travel,geography,"<|begin_of_text|>SENTENCE:
+ Tivakashi tikhutsatwa kakhulu kutsi tinake bungoti besimo selitulu lesishubile lesitsintsa lendzawo yekuvakasha ngoba singaphatamisa emalungiselelo eluvakasho. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+The"
+"Emabhasi asuka esiteshini semabhasi alesigodzi (ngesheya kwemfula) lilanga lonkhe, noma-nje esikhatsini lesiningi, ikakhulukati lawo laya empumalanga neJakar/Bumthang asuka nga-06:30 nanga-07:30.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Emabhasi asuka esiteshini semabhasi alesigodzi (ngesheya kwemfula) lilanga lonkhe, noma-nje esikhatsini lesiningi, ikakhulukati lawo laya empumalanga neJakar/Bumthang asuka nga-06:30 nanga-07:30. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The sentence"
+Benta bagibeli basimame kodvwa bangakhatsateka ngenca yengoti yekutsi umgibeli linyawo lakhe lingabambeka nakagibela.,travel,geography,"<|begin_of_text|>SENTENCE:
+ Benta bagibeli basimame kodvwa bangakhatsateka ngenca yengoti yekutsi umgibeli linyawo lakhe lingabambeka nakagibela. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+"Imvamisa yekuhluka kweBaltic Cruises ifaka ekhatsi kuhlala lokwengetiwe eSt. Petersburg, eRussia.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Imvamisa yekuhluka kweBaltic Cruises ifaka ekhatsi kuhlala lokwengetiwe eSt. Petersburg, eRussia. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Iz"
+"Licebiso lisikisela kutsi bavakashi abantjontji, abangeni lapho kungangenwa khona, noma batsengise ngalokungekho emtsetfweni, aticeli, noma tirobhe labanye bantfu kuze tizuze.",travel,health,"<|begin_of_text|>SENTENCE:
+ Licebiso lisikisela kutsi bavakashi abantjontji, abangeni lapho kungangenwa khona, noma batsengise ngalokungekho emtsetfweni, aticeli, noma tirobhe labanye bantfu kuze tizuze. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+health
+EXPLANATION:
+The sentence is"
+Kunetintfo letinyenti lokufanele uticabangele ngaphambi kwekwenta lokutsite noma kwekuya endzaweni letsite.,travel,travel,"<|begin_of_text|>SENTENCE:
+ Kunetintfo letinyenti lokufanele uticabangele ngaphambi kwekwenta lokutsite noma kwekuya endzaweni letsite. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Kun"
+"Nakushisa emini, bantfu labahambako bangativa babulawa yinhloko lematima kube shengatsi bamanti (noma letinye tintfo).",travel,health,"<|begin_of_text|>SENTENCE:
+ Nakushisa emini, bantfu labahambako bangativa babulawa yinhloko lematima kube shengatsi bamanti (noma letinye tintfo). 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+health
+EXPLANATION:
+Nakush"
+"Imindeni lenebantfwana ayikavami kubonakala, kodvwa lamanye emahhotela ayabavumela kutsi bangene emakamelweni latsite.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Imindeni lenebantfwana ayikavami kubonakala, kodvwa lamanye emahhotela ayabavumela kutsi bangene emakamelweni latsite. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Imind"
+"Ngekwesibonelo kuvakashela sigodlo saseSigodzini iLoire, sigodzi iRhine noma kuhamba uye emadolobheni lamahle eDanube noma kuhamba ngesikebhe e-Erie Canal.",travel,geography,"<|begin_of_text|>SENTENCE:
+ Ngekwesibonelo kuvakashela sigodlo saseSigodzini iLoire, sigodzi iRhine noma kuhamba uye emadolobheni lamahle eDanube noma kuhamba ngesikebhe e-Erie Canal. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+I"
+Kungaba kahle kukhetsa ummeleli lovamise kubhuka luhambo lokufanana nalolu lwakho.,travel,N/A,"<|begin_of_text|>SENTENCE:
+ Kungaba kahle kukhetsa ummeleli lovamise kubhuka luhambo lokufanana nalolu lwakho. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- None of the above 
+EXPLANATION"
+"Kuhlangana nebantfu uhleti ekhaya kwacala ngaBhimbidvwane 2004 ngemuva kwekutsi umhleli wetihlelo tekhompyutha, Casey Fenton atfole indizamshini leshibhile leya e-Iceland kepha bekete indzawo yekuhlala.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Kuhlangana nebantfu uhleti ekhaya kwacala ngaBhimbidvwane 2004 ngemuva kwekutsi umhleli wetihlelo tekhompyutha, Casey Fenton atfole indizamshini leshibhile leya e-Iceland kepha bekete indzawo yekuhlala. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Iceland"
+Kuze utfole ivisa nawungumfundzi lenchubo netintfo lokudzingeka ube nato tihlukile kunanawufuna ivisa yekuvakasha noma yekuyokwenta ibhizinisi.,travel,travel,"<|begin_of_text|>SENTENCE:
+ Kuze utfole ivisa nawungumfundzi lenchubo netintfo lokudzingeka ube nato tihlukile kunanawufuna ivisa yekuvakasha noma yekuyokwenta ibhizinisi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The sentence"
+Live ngalinye linemtsetfo lohlukile lofuna kube netintfo letitsite emotweni tetimo letiphutfumako.,travel,travel,"<|begin_of_text|>SENTENCE:
+ Live ngalinye linemtsetfo lohlukile lofuna kube netintfo letitsite emotweni tetimo letiphutfumako. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+This sentence"
+"Ngisho noma bameleli labanyenti banesifiso sekutsatsa labanyenti lababhukile, bameleli labanyenti bagcila kakhulu etindleleni letitsite tekuhamba, sabelomali siyehluka hluka noma tindzawo lokuyiwa kuto.",travel,N/A,"<|begin_of_text|>SENTENCE:
+ Ngisho noma bameleli labanyenti banesifiso sekutsatsa labanyenti lababhukile, bameleli labanyenti bagcila kakhulu etindleleni letitsite tekuhamba, sabelomali siyehluka hluka noma tindzawo lokuyiwa kuto. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- None of the above (isiNde"
+Tivakashi tingahlangabetana netilokatana letiyingoti letingakajwayelani nato endzaweni yakito.,travel,geography,"<|begin_of_text|>SENTENCE:
+ Tivakashi tingahlangabetana netilokatana letiyingoti letingakajwayelani nato endzaweni yakito. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+The"
+"Futsi ekuvakasheleni enyakatfo endzaweni lenkhulu Lengcwele yaWesifazane wetfu longu-Fatima (Indzawo lengcwele), indzawo ledvumile emhlabeni wonkhe ya-Marian.",travel,geography,"<|begin_of_text|>SENTENCE:
+ Futsi ekuvakasheleni enyakatfo endzaweni lenkhulu Lengcwele yaWesifazane wetfu longu-Fatima (Indzawo lengcwele), indzawo ledvumile emhlabeni wonkhe ya-Marian. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+Ungasebentisa i-boda-boda (tidududu letingematekisi) kuze uhamba hambe eGoma. Imali levamile (yasendzaweni) loyibhadala kuba ngu ~500 Congolese Francs nawuhamba libanga lelifishane.,travel,travel,"<|begin_of_text|>SENTENCE:
+ Ungasebentisa i-boda-boda (tidududu letingematekisi) kuze uhamba hambe eGoma. Imali levamile (yasendzaweni) loyibhadala kuba ngu ~500 Congolese Francs nawuhamba libanga lelifishane. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The sentence"
+"Kulabo labajabulela kwenta imidlalo yangephandle, luhambo lolusuka elwandle luya esibhabhakani lubalulekile.",travel,geography,"<|begin_of_text|>SENTENCE:
+ Kulabo labajabulela kwenta imidlalo yangephandle, luhambo lolusuka elwandle luya esibhabhakani lubalulekile. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+The"
+"Kuhamba ubona tilwane (futsi lokubitwa ""ngekuhamba emahlatsini"", ""luhambo ubona tilwane"", noma uhamba ""ngetinyawo"") kufaka ekhatsi kukhwela intsaba, lelingaba lwema-awa lambalwa noma emalanga lambalwa.",travel,N/A,"<|begin_of_text|>SENTENCE:
+ Kuhamba ubona tilwane (futsi lokubitwa ""ngekuhamba emahlatsini"", ""luhambo ubona tilwane"", noma uhamba ""ngetinyawo"") kufaka ekhatsi kukhwela intsaba, lelingaba lwema-awa lambalwa noma emalanga lambalwa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- None of the above, this is a"
+"Lokukuphela kwendlela longayendlulisa ngayo ngekushesha bekukutsi uyitfumele njengeliputumende lelihloliwe. Imitsetfo yetindiza angeke ibavumele kutsi batfumele liputumende angekho umnikati walo, kulapho-ke wena lawungena khona.",travel,politics,"<|begin_of_text|>SENTENCE:
+ Lokukuphela kwendlela longayendlulisa ngayo ngekushesha bekukutsi uyitfumele njengeliputumende lelihloliwe. Imitsetfo yetindiza angeke ibavumele kutsi batfumele liputumende angekho umnikati walo, kulapho-ke wena lawungena khona. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+The sentence"
+"Lomunye 300 ungenta lelinani libe tincola letingu-1,300 kuze tisite kungabi khona siminye minye.",travel,geography,"<|begin_of_text|>SENTENCE:
+ Lomunye 300 ungenta lelinani libe tincola letingu-1,300 kuze tisite kungabi khona siminye minye. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+This"
+"Imindeni lenebantfwana labancane ingase idzinge kulungiselela kakhudlwana, kodvwa lilanga linye nje ungephandle lingatilungela ngisho netinswane nebantfwana labasafundza enkhulisa.",travel,entertainment,"<|begin_of_text|>SENTENCE:
+ Imindeni lenebantfwana labancane ingase idzinge kulungiselela kakhudlwana, kodvwa lilanga linye nje ungephandle lingatilungela ngisho netinswane nebantfwana labasafundza enkhulisa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+The"
+"Noma ngabe ngubani lotawushayela endzaweni lephakeme noma etintsabeni kufanele akucabangele kutsi kungenteka likhitsike, kube nelichwa, noma kubandze.",travel,geography,"<|begin_of_text|>SENTENCE:
+ Noma ngabe ngubani lotawushayela endzaweni lephakeme noma etintsabeni kufanele akucabangele kutsi kungenteka likhitsike, kube nelichwa, noma kubandze. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+The"
+"Namuhla, iTimbuktu lidolobha leliphuyile, kepha lidvumela lalo lilenta libe lidolobha lelitsandza kuvakashelwa tivakashi, futsi linesikhungo setindiza.",travel,geography,"<|begin_of_text|>SENTENCE:
+ Namuhla, iTimbuktu lidolobha leliphuyile, kepha lidvumela lalo lilenta libe lidolobha lelitsandza kuvakashelwa tivakashi, futsi linesikhungo setindiza. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+I"
+Ngesikhatsi kuwa lichwa lelihambisana nemoya lohhusha ngemandla lichwa lelikhulu lingawa likubambe kwesikhashana.,travel,geography,"<|begin_of_text|>SENTENCE:
+ Ngesikhatsi kuwa lichwa lelihambisana nemoya lohhusha ngemandla lichwa lelikhulu lingawa likubambe kwesikhashana. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+The"
+"Nangabe ufuna kundiza utungelete umhlaba ngolokugvwele eNshonalanga neHemisphere, kukhetsa tindiza nalofikela khona kumbalwa ngenca yekubabente kwetindlela tekuhamba elwandle.",travel,geography,"<|begin_of_text|>SENTENCE:
+ Nangabe ufuna kundiza utungelete umhlaba ngolokugvwele eNshonalanga neHemisphere, kukhetsa tindiza nalofikela khona kumbalwa ngenca yekubabente kwetindlela tekuhamba elwandle. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+"Tindiza letifaka ekhatsi taka-Emirates, Etihad Airways, Qatar Airways kanye neTurkish Airlines setihamba nakakhulu e-Afrika, futsi tiya emadolobheni lamanyenti lamakhulu e-Afrika ngemanani langasiwo lamakhulu nakucatsaniswa naletinye tindiza eYurophu.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Tindiza letifaka ekhatsi taka-Emirates, Etihad Airways, Qatar Airways kanye neTurkish Airlines setihamba nakakhulu e-Afrika, futsi tiya emadolobheni lamanyenti lamakhulu e-Afrika ngemanani langasiwo lamakhulu nakucatsaniswa naletinye tindiza eYurophu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+ TRANSLATION:
+Tind"
+"Kute tekuhamba letengetiwe litifakwako futsi titimela letihamba etulu ebaleni angeke time eWembley, futsi takhiwo tekupaka timoto nekupaka ugibele kute langetulu ebaleni.",travel,sports,"<|begin_of_text|>SENTENCE:
+ Kute tekuhamba letengetiwe litifakwako futsi titimela letihamba etulu ebaleni angeke time eWembley, futsi takhiwo tekupaka timoto nekupaka ugibele kute langetulu ebaleni. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+The sentence"
+"Ngalokuvamile, kuhlala kulelinye live sikhatsi lesidze kutawudzinga kutsi utfole ivisa usengakayi kulelo live.",travel,N/A,"<|begin_of_text|>SENTENCE:
+ Ngalokuvamile, kuhlala kulelinye live sikhatsi lesidze kutawudzinga kutsi utfole ivisa usengakayi kulelo live. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+ None of the above
+ REASONING:
+"
+Tonkhe titimela tinendzwo lebitwa ngekutsi yi-MetroPlus kanye nematrogo labitwa ngekutsi ma-Metro; ema-MetroPlus ngaso sonkhe sikhatsi atfolakala ekugcineni kwesitimela dvutane naseCape Town.,travel,travel,"<|begin_of_text|>SENTENCE:
+ Tonkhe titimela tinendzwo lebitwa ngekutsi yi-MetroPlus kanye nematrogo labitwa ngekutsi ma-Metro; ema-MetroPlus ngaso sonkhe sikhatsi atfolakala ekugcineni kwesitimela dvutane naseCape Town. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+ REASONING:
+ This question"
+Bonkhe bantfu bayahlanganyela kulokwentiwa emphakatsini futsi basebentisa tintfo temphakatsi tekuhamba. Cishe bonkhe bantfu bayakhonona ngetintfo tekuhamba temphakatsi.,travel,travel,"<|begin_of_text|>SENTENCE:
+ Bonkhe bantfu bayahlanganyela kulokwentiwa emphakatsini futsi basebentisa tintfo temphakatsi tekuhamba. Cishe bonkhe bantfu bayakhonona ngetintfo tekuhamba temphakatsi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The sentence"
+"Njengoba tindzawo tinebantfu labambalwa, buningi bekukhanya abuvamisile kutsi bube inkhinga, ungakhona kujabulela kubuka tinkanyezi.",travel,geography,"<|begin_of_text|>SENTENCE:
+ Njengoba tindzawo tinebantfu labambalwa, buningi bekukhanya abuvamisile kutsi bube inkhinga, ungakhona kujabulela kubuka tinkanyezi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+N"
+Imininingwane yekutfola i-visa kanye netindleko kuyashiyana emaveni ngemave futsi live losuka kilo lingaba nemtselela kuloku.,travel,travel,"<|begin_of_text|>SENTENCE:
+ Imininingwane yekutfola i-visa kanye netindleko kuyashiyana emaveni ngemave futsi live losuka kilo lingaba nemtselela kuloku. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Imin"
+"Nasesikhuluma nje ngalokuvamile, asikho sidzingo sekufuna sephulelo ebhizinisini noma tihlalo telizinga lekucala endizeni lesuka ngalokucondzile ku-A iye ku-B.",travel,politics,"<|begin_of_text|>SENTENCE:
+ Nasesikhuluma nje ngalokuvamile, asikho sidzingo sekufuna sephulelo ebhizinisini noma tihlalo telizinga lekucala endizeni lesuka ngalokucondzile ku-A iye ku-B. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+Nases"
+Kujikijela i-boomerang likhono lelivamile lelo tivakashi letifuna kulati.,travel,travel,"<|begin_of_text|>SENTENCE:
+ Kujikijela i-boomerang likhono lelivamile lelo tivakashi letifuna kulati. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The sentence"
+Indiza akusiyo nje kuphela intfo longahamba ngayo nawufuna kungahambi ngeSouth Pacific nangaselwandle lasenshonalanga yeNingizimu yaseMelika. (buka lapha ngentasi.),travel,travel,"<|begin_of_text|>SENTENCE:
+ Indiza akusiyo nje kuphela intfo longahamba ngayo nawufuna kungahambi ngeSouth Pacific nangaselwandle lasenshonalanga yeNingizimu yaseMelika. (buka lapha ngentasi.) 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The sentence"
+"E-San Francisco kwakhiwe tintfo letinyenti letitawuba lusito kubantfu labavakashile, emahhotela lamnyenti, tindzawo tekudlela, netindawo letisezingeni lelisetulu tekubamba imihlangano.",travel,travel,"<|begin_of_text|>SENTENCE:
+ E-San Francisco kwakhiwe tintfo letinyenti letitawuba lusito kubantfu labavakashile, emahhotela lamnyenti, tindzawo tekudlela, netindawo letisezingeni lelisetulu tekubamba imihlangano. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+I-S"
+Kuvolontiya uma uvakashile indlela lekahle kwenta lushintjo kepha akusiko nje kupha kuphela.,travel,geography,"<|begin_of_text|>SENTENCE:
+ Kuvolontiya uma uvakashile indlela lekahle kwenta lushintjo kepha akusiko nje kupha kuphela. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+K"
+Bantfu ngeke bakwati kucagela kutsi kubeketela kanye nekuvisisa kubalulekile kubavakashi lababuyela ekhaya.,travel,travel,"<|begin_of_text|>SENTENCE:
+ Bantfu ngeke bakwati kucagela kutsi kubeketela kanye nekuvisisa kubalulekile kubavakashi lababuyela ekhaya. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The sentence"
+"Ungakhohlwa kunenetela tindleko letingetulu tema-visa, ikhumbi yekuhamba, imoto yekukuhambisa, njll. kuleto tindzawo letingaphandle kwase-Afrika.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Ungakhohlwa kunenetela tindleko letingetulu tema-visa, ikhumbi yekuhamba, imoto yekukuhambisa, njll. kuleto tindzawo letingaphandle kwase-Afrika. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The sentence"
+Takhamuti letinyenti taseBishkek tibhikishe tisuka eningizimu tikhala ngekwephulwa kwemtsetfo.,politics,geography,"<|begin_of_text|>SENTENCE:
+ Takhamuti letinyenti taseBishkek tibhikishe tisuka eningizimu tikhala ngekwephulwa kwemtsetfo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+REASONING:
+This"
+Tincenye tamanje teBelgium betiyincenye yeLuxembourg esikhatsini lesendlulile kodvwa tabese tiba yiBelgian ngemuva kwa-1830 ngemuva Kwetingucuko taseBelgian.,politics,geography,"<|begin_of_text|>SENTENCE:
+ Tincenye tamanje teBelgium betiyincenye yeLuxembourg esikhatsini lesendlulile kodvwa tabese tiba yiBelgian ngemuva kwa-1830 ngemuva Kwetingucuko taseBelgian. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+ TRANSLATION:
+ The"
+"Kusukela nga-1988, emabhokisi ekufaka timvilophi tekuvota bekubonakala lokungekhatsi kuwo kuze kutsi kungabi nemvilophi lefakwa kusengakacali kuvota nekutsi kute timvilophi letengetwako ngaphandle kwaleto letifakwe bantfu labavote ngalokusemtsetfweni.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Kusukela nga-1988, emabhokisi ekufaka timvilophi tekuvota bekubonakala lokungekhatsi kuwo kuze kutsi kungabi nemvilophi lefakwa kusengakacali kuvota nekutsi kute timvilophi letengetwako ngaphandle kwaleto letifakwe bantfu labavote ngalokusemtsetfweni. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+Kus"
+Lonakekela Ndvunankhulu Julia Gillard ngesikhatsi kuchubeka umkhankhaso welukhetfo wanga-2010 watsi ukholelwa kutsi i-Australia itoba live lelibuswa ngalokukhululekile nakuphela kubusa kweNdlovukazi Elizabeth II.,politics,politics,"<|begin_of_text|>SENTENCE:
+ Lonakekela Ndvunankhulu Julia Gillard ngesikhatsi kuchubeka umkhankhaso welukhetfo wanga-2010 watsi ukholelwa kutsi i-Australia itoba live lelibuswa ngalokukhululekile nakuphela kubusa kweNdlovukazi Elizabeth II. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+ EXPLANATION:
+ The sentence"
+Hulumende we-Ireland ugcizelela kuphutfuma kwekubeka umtsetfo kwahulunde kulungisa lesimo.,politics,geography,"<|begin_of_text|>SENTENCE:
+ Hulumende we-Ireland ugcizelela kuphutfuma kwekubeka umtsetfo kwahulunde kulungisa lesimo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+The"
+Timpikiswano tahulumende esifundzeni liyachubeka nokonakalisa buhlobo emkhatsini we-Armenia ne-Azerbaijan.,politics,politics,"<|begin_of_text|>SENTENCE:
+ Timpikiswano tahulumende esifundzeni liyachubeka nokonakalisa buhlobo emkhatsini we-Armenia ne-Azerbaijan. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+Timp"
+"Ndvunankhulu Stephen Harper uvumile kutfumela umtsetfo wahulumende lotsi 'Clean Air Act' ekomidini kuze iwubuyekete, ngaphambi kwekutsi ufundvwe lihlandla lesibili, ngemuva kwemhlangano wemizuzu lengu-25 wangaLesibili nemholi we-NDP Jack Layton e-PMO.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Ndvunankhulu Stephen Harper uvumile kutfumela umtsetfo wahulumende lotsi 'Clean Air Act' ekomidini kuze iwubuyekete, ngaphambi kwekutsi ufundvwe lihlandla lesibili, ngemuva kwemhlangano wemizuzu lengu-25 wangaLesibili nemholi we-NDP Jack Layton e-PMO. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+politics
+EXPLANATION:
+Iz"
+"Kulenyanga lendlulile, bekunemibhikisho leminingi lebeyenteka ePoland ngesikhatsi lelive lisayina i-ACTA, leyente kutsi hulumende wasePoland ancume kungasisayini sivumelwano, kwanyalo.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Kulenyanga lendlulile, bekunemibhikisho leminingi lebeyenteka ePoland ngesikhatsi lelive lisayina i-ACTA, leyente kutsi hulumende wasePoland ancume kungasisayini sivumelwano, kwanyalo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+Kul"
+Beluleki bamane nje basifinyeto sesimo setepolitiki eveni lelitsite.,politics,politics,"<|begin_of_text|>SENTENCE:
+ Beluleki bamane nje basifinyeto sesimo setepolitiki eveni lelitsite. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+REASONING:
+This sentence"
+"Phakatsi nelukhetfo lwanga-1976 wacebisa Carter ngemtsetfo lophatselene nemave angaphandle, wabese wasebenta njengaMeluleki Wetekuvikela Telive (NSA) kusuka nga-1977 kuya nga-1981, endlula Henry Kissinger.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Phakatsi nelukhetfo lwanga-1976 wacebisa Carter ngemtsetfo lophatselene nemave angaphandle, wabese wasebenta njengaMeluleki Wetekuvikela Telive (NSA) kusuka nga-1977 kuya nga-1981, endlula Henry Kissinger. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+Iz"
+"I-Turkey ingatsatsa kugadza bantfu labalwela i-ISIS lababanjiwe, lombiko washo, emave eYurophu alile kubuya.",politics,politics,"<|begin_of_text|>SENTENCE:
+ I-Turkey ingatsatsa kugadza bantfu labalwela i-ISIS lababanjiwe, lombiko washo, emave eYurophu alile kubuya. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+The sentence"
+"Kodvwa, lamacebo kwatsiwa ngeke asasebenta ngebusuku bunye nje, ngenca yemasotja lati-800,000 lasuka kuSoviet Union Red Army langena futsi akha tingcinamba taseBelarussia nase Ukraine ngemva kwekuhlasela tigodzi tasemphumalanga yePoland ephula umtsetfo iRiga Peace Treaty, neSoviet-Polish Non-Agression Pact, naleminye imitsetfo yemave emhlaba, lehlanganisa lamave omabili nalamanye lamanyenti.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Kodvwa, lamacebo kwatsiwa ngeke asasebenta ngebusuku bunye nje, ngenca yemasotja lati-800,000 lasuka kuSoviet Union Red Army langena futsi akha tingcinamba taseBelarussia nase Ukraine ngemva kwekuhlasela tigodzi tasemphumalanga yePoland ephula umtsetfo iRiga Peace Treaty, neSoviet-Polish Non-Agression Pact, naleminye imitsetfo yemave emhlaba, lehlanganisa lamave omabili nalamanye lamanyenti. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+ EXPLANATION:
+ This sentence"
+"Kulandzelwa lenchubo, HJR-3 utawubuyeketwa futsi sishayamtsetfo lesikhetsiwe nga-2015 noma 2016 kuze uchubeke usebenta.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Kulandzelwa lenchubo, HJR-3 utawubuyeketwa futsi sishayamtsetfo lesikhetsiwe nga-2015 noma 2016 kuze uchubeke usebenta. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+HJR"
+"Ngemuva kwekwemukelwa Engcungcutseleni yanga-July 4, kwatiswa lokubhaliwe lokusayinwe nguMengameli waleNgcungcutsela John Hancock kanye namaBhalane Charles Thomson kwatfunyelwa endzaweni lesedvutane esitolo sekuphrinta sa-John Dunlap.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Ngemuva kwekwemukelwa Engcungcutseleni yanga-July 4, kwatiswa lokubhaliwe lokusayinwe nguMengameli waleNgcungcutsela John Hancock kanye namaBhalane Charles Thomson kwatfunyelwa endzaweni lesedvutane esitolo sekuphrinta sa-John Dunlap. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+Ngemu"
+Nakusandza kushaya 11 babhikishi bavale imigwaco inorthbound ne Whitehall.,politics,travel,"<|begin_of_text|>SENTENCE:
+ Nakusandza kushaya 11 babhikishi bavale imigwaco inorthbound ne Whitehall. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+REASONING:
+This sentence"
+"Kodvwa, ngeNhlaba 1956, titsembiso taKrushchev tabekwa esivivinyweni lapho umbhikisho ePoland, tisebenti betikhonona ngekuswelakala kwekudla nekuncishiswa kwemaholo, washintja waba umbhikisho ngalokumelene nebuKhomanisi.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Kodvwa, ngeNhlaba 1956, titsembiso taKrushchev tabekwa esivivinyweni lapho umbhikisho ePoland, tisebenti betikhonona ngekuswelakala kwekudla nekuncishiswa kwemaholo, washintja waba umbhikisho ngalokumelene nebuKhomanisi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+Kod"
+"Bekumele ibe khona iminyaka lengu-40 iliwe mbamba, ngemabutfo langesiwo banikati bemphi, emabaleni emphi ase-Afrika kuya e-Asia, e-Afghanistan, Cuba naletinye tindzawo letinyenti.",politics,travel,"<|begin_of_text|>SENTENCE:
+ Bekumele ibe khona iminyaka lengu-40 iliwe mbamba, ngemabutfo langesiwo banikati bemphi, emabaleni emphi ase-Afrika kuya e-Asia, e-Afghanistan, Cuba naletinye tindzawo letinyenti. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The sentence"
+Kulenyanga lendlulile khomishane webungameli ukhetse kusala esikhundleni kwe-CEP njengencenye yetindlela tekwenta live lichubekele phambili elukhetfweni lolusha.,politics,politics,"<|begin_of_text|>SENTENCE:
+ Kulenyanga lendlulile khomishane webungameli ukhetse kusala esikhundleni kwe-CEP njengencenye yetindlela tekwenta live lichubekele phambili elukhetfweni lolusha. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+ REASONING:
+This sentence"
+Letinye tihloko letibikiwe tihlanganisa hulumende lolandzelako waseJerusalema nalokungiso lesibalulekile kuto totimbili tive kanye nendzaba yaseJordan Valley.,politics,politics,"<|begin_of_text|>SENTENCE:
+ Letinye tihloko letibikiwe tihlanganisa hulumende lolandzelako waseJerusalema nalokungiso lesibalulekile kuto totimbili tive kanye nendzaba yaseJordan Valley. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+Iz"
+Beyiphindze ite imvume yekungayinaki imitsetfo yemtselo kanye neluhlelo lwemtselo lolubekwe nguhulumende.,politics,politics,"<|begin_of_text|>SENTENCE:
+ Beyiphindze ite imvume yekungayinaki imitsetfo yemtselo kanye neluhlelo lwemtselo lolubekwe nguhulumende. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+Bey"
+Umtsetfo waseFrance uhlanganisa lenchubo ngalokucinile.,politics,travel,"<|begin_of_text|>SENTENCE:
+ Umtsetfo waseFrance uhlanganisa lenchubo ngalokucinile. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Umt"
+"Ngemuva kweliviki ehlulekile elukhetfweni, Bush utjele labebamlalele ngekwenwetjwa kwetentsengiselwano e-Asia.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Ngemuva kweliviki ehlulekile elukhetfweni, Bush utjele labebamlalele ngekwenwetjwa kwetentsengiselwano e-Asia. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+Ngemu"
+"Lelisu libonakale lisebenta, kuvalwa kwekufakelwa kwemasosha kanye nemphakatsi, loku kuvalwa kwephula umtsetfo lowetayelekile wemhlaba wonkhe lohlanganiswe netivumelwane letihlukahlukene temave emhlaba letentiwa kulamashumi lamabili eminyaka.",politics,geography,"<|begin_of_text|>SENTENCE:
+ Lelisu libonakale lisebenta, kuvalwa kwekufakelwa kwemasosha kanye nemphakatsi, loku kuvalwa kwephula umtsetfo lowetayelekile wemhlaba wonkhe lohlanganiswe netivumelwane letihlukahlukene temave emhlaba letentiwa kulamashumi lamabili eminyaka. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+ REASONING:
+ The"
+Lokuchumanisa umnotfo kwakhiwa kabusha emkhatsini walamacembu lamabili aseMoldova ngetulu kwekuhluleka kwetinkulumo tepolitiki.,politics,politics,"<|begin_of_text|>SENTENCE:
+ Lokuchumanisa umnotfo kwakhiwa kabusha emkhatsini walamacembu lamabili aseMoldova ngetulu kwekuhluleka kwetinkulumo tepolitiki. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+ REASONING:
+ This sentence"
+"Ahamba naleto tiphatsimandla, ucinisekise takhamuti taseTexas kutsi kutsatfwa tinyatselo kuze kuvikelwe bantfu.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Ahamba naleto tiphatsimandla, ucinisekise takhamuti taseTexas kutsi kutsatfwa tinyatselo kuze kuvikelwe bantfu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+The sentence"
+Kusolwa lokubanti ngemitamo yekwakha kabusha igcile ngekuniketa ngetinkontileka tekwakha kabusha kulabo lababukile labangekhetsi eWashington.,politics,geography,"<|begin_of_text|>SENTENCE:
+ Kusolwa lokubanti ngemitamo yekwakha kabusha igcile ngekuniketa ngetinkontileka tekwakha kabusha kulabo lababukile labangekhetsi eWashington. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+The"
+"Kubantfu labayi-1400 labaphakamisa emavoti elukhetfweni lwanga-2010, labo lababephikisana ne-Australia kutsi ibe live lelibuswa ngalokukhululekile bakhula ngemaphesenti lasi-8 kusuka nga-2008.",politics,geography,"<|begin_of_text|>SENTENCE:
+ Kubantfu labayi-1400 labaphakamisa emavoti elukhetfweni lwanga-2010, labo lababephikisana ne-Australia kutsi ibe live lelibuswa ngalokukhululekile bakhula ngemaphesenti lasi-8 kusuka nga-2008. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+ EXPLANATION:
+ The"
+Bosomachinga batsi batfole incazelo leyanele yemtsetfosisekelo wase-Afghan kutewuchata ngelukhetfo lolungenasidzingo.,politics,geography,"<|begin_of_text|>SENTENCE:
+ Bosomachinga batsi batfole incazelo leyanele yemtsetfosisekelo wase-Afghan kutewuchata ngelukhetfo lolungenasidzingo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+The"
+"Naseyiphumile imiphumela, Gingrich wamdvumisa Santorum, kodvwa washo emavi lacinile kuRomney, lobekasho emavi ekudzicela phansi Gingrich.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Naseyiphumile imiphumela, Gingrich wamdvumisa Santorum, kodvwa washo emavi lacinile kuRomney, lobekasho emavi ekudzicela phansi Gingrich. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+Nase"
+Sikhatsi sesihlanu e-CEP saMartelly eminyakeni lemine.,politics,politics,"<|begin_of_text|>SENTENCE:
+ Sikhatsi sesihlanu e-CEP saMartelly eminyakeni lemine. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+This sentence"
+"Loyo lowaphumelela kuma-Olimphiki watfola indondo yegolide bekufanele angenele umcudzelwano wekubhukusha 100m na-200m ku-freestyle angenele nema-relay lamatsatfu eMidlalweni yeCommonwealth, kodvwa ngenca yekungaphili kakhle kuyangabateka kutsi uwulungele lomcudzelwano.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Loyo lowaphumelela kuma-Olimphiki watfola indondo yegolide bekufanele angenele umcudzelwano wekubhukusha 100m na-200m ku-freestyle angenele nema-relay lamatsatfu eMidlalweni yeCommonwealth, kodvwa ngenca yekungaphili kakhle kuyangabateka kutsi uwulungele lomcudzelwano. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+ EXPLANATION:
+ The sentence"
+"Kanye nalowake waba sihlabani kuma-Olimpiki neseMhlaba wonkhe, Saito bekangusihlalo welikomiti le-All Japan Judo Federation ngesikhatsi lafa ngaso.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Kanye nalowake waba sihlabani kuma-Olimpiki neseMhlaba wonkhe, Saito bekangusihlalo welikomiti le-All Japan Judo Federation ngesikhatsi lafa ngaso. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+Kanye"
+"Likomidi le-Olimpiki yeMave emhlaba ivotele kungeta imidlalo yalo emhlanganweni webaphatsi bayo eBerlin namuhla. I-rugby, ngalokukhetsekile inyonyane ye-rugby, negalufa yakhetfwa kunaleminye imidlalo lesihlanu lebeyibalelwe kudlalwa kuma-Olimpiki.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Likomidi le-Olimpiki yeMave emhlaba ivotele kungeta imidlalo yalo emhlanganweni webaphatsi bayo eBerlin namuhla. I-rugby, ngalokukhetsekile inyonyane ye-rugby, negalufa yakhetfwa kunaleminye imidlalo lesihlanu lebeyibalelwe kudlalwa kuma-Olimpiki. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+I-r"
+Umncintiswano lomkhulu kunayo yonkhe wemnyaka wenteka ngeNgongoni etinkhundleni tepolo eLas Cañitas.,sports,travel,"<|begin_of_text|>SENTENCE:
+ Umncintiswano lomkhulu kunayo yonkhe wemnyaka wenteka ngeNgongoni etinkhundleni tepolo eLas Cañitas. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Umnc"
+"Kusukela ahamba waya enhloko dolobha lebitwa ngekutsi yiCatalan, Vidal sowudlale imidlalo lengu-49 kulelicembu.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Kusukela ahamba waya enhloko dolobha lebitwa ngekutsi yiCatalan, Vidal sowudlale imidlalo lengu-49 kulelicembu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+ REASONING:
+ The SENT"
+"Kutigcina unemphilo lekahle futsi unemandla, kuticecesha kuze ujwayele kugcina umtima wakho unemanti, nekuvisisa tindlela letihlukene tekusebentisa tinsita kungasita tingijimi kutsi titfutfukise indlela letigijima ngayo tiphindze tijabule ngalomdlalo.",sports,N/A,"<|begin_of_text|>SENTENCE:
+ Kutigcina unemphilo lekahle futsi unemandla, kuticecesha kuze ujwayele kugcina umtima wakho unemanti, nekuvisisa tindlela letihlukene tekusebentisa tinsita kungasita tingijimi kutsi titfutfukise indlela letigijima ngayo tiphindze tijabule ngalomdlalo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- none of the above (this is a"
+"Ngelihlandla lesitsatfu, Hamlin usemuva ngemaphuzu langemashumi lamabili, kodvwa uphambili ngalasihlanu kuBowyer. Kahne naTruex, Jr. basendzaweni yesihlanu neyesitfupha ngekulandzelana ngemaphuzu langu-2,220 nalangu-2,207.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Ngelihlandla lesitsatfu, Hamlin usemuva ngemaphuzu langemashumi lamabili, kodvwa uphambili ngalasihlanu kuBowyer. Kahne naTruex, Jr. basendzaweni yesihlanu neyesitfupha ngekulandzelana ngemaphuzu langu-2,220 nalangu-2,207. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+Ngel"
+Lirekhodi laNadal nakatfolana nalomKhanada lingu 7-2.,sports,sports,"<|begin_of_text|>SENTENCE:
+ Lirekhodi laNadal nakatfolana nalomKhanada lingu 7-2. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+Lire"
+Jarque bekatilolonga umncintiswano ungakacali eCoverciano eTaliyane ekuseni. Bekahlala ehhotela lelicembu ngembikwemdlalo lolungiselelwe ngeLisontfo neBolonia.,sports,travel,"<|begin_of_text|>SENTENCE:
+ Jarque bekatilolonga umncintiswano ungakacali eCoverciano eTaliyane ekuseni. Bekahlala ehhotela lelicembu ngembikwemdlalo lolungiselelwe ngeLisontfo neBolonia. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The sentence"
+Kwesaba kutsi angeke kube khona kwekuhamba kwente kutsi likhule lizinga lekutsi kuphoceleleke kutsi lomdlalo udlalwe tingekho tibukeli.,sports,N/A,"<|begin_of_text|>SENTENCE:
+ Kwesaba kutsi angeke kube khona kwekuhamba kwente kutsi likhule lizinga lekutsi kuphoceleleke kutsi lomdlalo udlalwe tingekho tibukeli. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- None of the above. This is a"
+"Tommy Dreamer watsi, ""Luna bekayiNdlovukazi yekucala Leyendlulele. Umphatsi wami wekucala. Luna washona kulobusuku betinyanga letimbili. Amuhle ahlukile njengaye. Wesifazane locinile"".",sports,entertainment,"<|begin_of_text|>SENTENCE:
+ Tommy Dreamer watsi, ""Luna bekayiNdlovukazi yekucala Leyendlulele. Umphatsi wami wekucala. Luna washona kulobusuku betinyanga letimbili. Amuhle ahlukile njengaye. Wesifazane locinile"". 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+REASONING:
+The"
+Indvodza lengaboni emehlweni yasePoland lentjuza echweni Maciej Krezel nalomsitako Anna Ogarzynska baphume namba 13 emcudzelwaneni weSuper G. Kwatsi Jong Seork Park wase Korea waphuma namba 24 emcudzelwaneni wemadvodza lantjuza ahleti ku Super G.,sports,sports,"<|begin_of_text|>SENTENCE:
+ Indvodza lengaboni emehlweni yasePoland lentjuza echweni Maciej Krezel nalomsitako Anna Ogarzynska baphume namba 13 emcudzelwaneni weSuper G. Kwatsi Jong Seork Park wase Korea waphuma namba 24 emcudzelwaneni wemadvodza lantjuza ahleti ku Super G. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+ EXPLANATION:
+ The sentence"
+"Kuze utfole tindzaba ngalomcudzelwano nekutsi emathikithi ekungena emidlalweni yepolo ungawatsenga kuphi, hlola ku-Asociacion Argentina de Polo.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Kuze utfole tindzaba ngalomcudzelwano nekutsi emathikithi ekungena emidlalweni yepolo ungawatsenga kuphi, hlola ku-Asociacion Argentina de Polo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+ TRANSLATION:
+Kuze"
+"Lemidlalo icale nga-10:00 ekuseni esimeni lesikahle selitulu futsi ngaphandle kwekukhemetela lokuncane ekuseni lokusheshe kwaphela, bekulilanga lelikahle le-rugby 7.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Lemidlalo icale nga-10:00 ekuseni esimeni lesikahle selitulu futsi ngaphandle kwekukhemetela lokuncane ekuseni lokusheshe kwaphela, bekulilanga lelikahle le-rugby 7. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+Iz"
+Arly Velasquez waseMexico ucedze esendzaweni yelishumi nesihlanu emdlalweni wabobabe wasechweni lodlalwa uhleli iSuper-G. Adam Hall waseNew Zealand waphuma imfica emdlalweni wabobabe wasechweni lodlalwa umile iSuper-G.,sports,sports,"<|begin_of_text|>SENTENCE:
+ Arly Velasquez waseMexico ucedze esendzaweni yelishumi nesihlanu emdlalweni wabobabe wasechweni lodlalwa uhleli iSuper-G. Adam Hall waseNew Zealand waphuma imfica emdlalweni wabobabe wasechweni lodlalwa umile iSuper-G. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+ EXPLANATION:
+ This SENT"
+"Umdlalo wekugcina waloluchungechunge utobanjelwa e-Ellis Park eJozi kuleliviki lelitako, Amabhokobhoko atodlala ne-Australia.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Umdlalo wekugcina waloluchungechunge utobanjelwa e-Ellis Park eJozi kuleliviki lelitako, Amabhokobhoko atodlala ne-Australia. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+Umdl"
+Esimeni lesikahle utawukwati kuhlanganisa sigaba lesidze kunekuhamba ngetinyawo – kodvwa ngetikhatsi letingakavami utawutfola lijubane lekuya kulelinye live ushushuluza echweni.,sports,N/A,"<|begin_of_text|>SENTENCE:
+ Esimeni lesikahle utawukwati kuhlanganisa sigaba lesidze kunekuhamba ngetinyawo – kodvwa ngetikhatsi letingakavami utawutfola lijubane lekuya kulelinye live ushushuluza echweni. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- None of the above. This sentence is"
+"Usemuva ngemaphuzu lasikhombisa, Johnson usendzaweni yesibili nga-2,243.",sports,travel,"<|begin_of_text|>SENTENCE:
+ Usemuva ngemaphuzu lasikhombisa, Johnson usendzaweni yesibili nga-2,243. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Ngem"
+"Kuzuba etindzaweni letisemaweni (nobe kucanca) kuhlanisa kuya esicongweni sentsaba, leyomile nobe legcwele emanti.",sports,geography,"<|begin_of_text|>SENTENCE:
+ Kuzuba etindzaweni letisemaweni (nobe kucanca) kuhlanisa kuya esicongweni sentsaba, leyomile nobe legcwele emanti. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+The"
+"Robin Uthappa wente ema-innings laphakeme, waba nema-runs langu-70 emabholeni langu-41 washaya ka-11 emahlandla lamane nema-6 lamabili.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Robin Uthappa wente ema-innings laphakeme, waba nema-runs langu-70 emabholeni langu-41 washaya ka-11 emahlandla lamane nema-6 lamabili. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+ This sentence"
+"Imidlalo yasebusika idvumile etigodzini taseNyakatfo, baseTaliyane bacudzelana emidlalweni yemhlaba wonkhe nasemibutsanweni yema-Oliphiki.",sports,geography,"<|begin_of_text|>SENTENCE:
+ Imidlalo yasebusika idvumile etigodzini taseNyakatfo, baseTaliyane bacudzelana emidlalweni yemhlaba wonkhe nasemibutsanweni yema-Oliphiki. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+I"
+"Maroochydore bekacedze ahleli etulu, emaphuzu lasitfupha kundlula Noosa wesibili.",sports,geography,"<|begin_of_text|>SENTENCE:
+ Maroochydore bekacedze ahleli etulu, emaphuzu lasitfupha kundlula Noosa wesibili. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+"Michael Schumacher ucedze umjaho wakhe kungasikudzala emuva kwa-Alonso, ngenca yekumiswa tikhatsi letimbalwa emcintiswaneni.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Michael Schumacher ucedze umjaho wakhe kungasikudzala emuva kwa-Alonso, ngenca yekumiswa tikhatsi letimbalwa emcintiswaneni. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+ TRANSLATION:
+Michael Sch"
+"Umkhuba wekudla kudla lokunemsoco nje kuphela angeke ukwente wente tintfo ngelizinga lelisetulu, kodvwa kungaba nemtselela etingijimini letisetincane ekuphileni kwato.",sports,N/A,"<|begin_of_text|>SENTENCE:
+ Umkhuba wekudla kudla lokunemsoco nje kuphela angeke ukwente wente tintfo ngelizinga lelisetulu, kodvwa kungaba nemtselela etingijimini letisetincane ekuphileni kwato. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+ None of the above. This sentence is in"
+Bekasolo angakhoni kunatsa emaphilisi ladzingekile kuze acedze lobuhlungu lanabo njengoba angakavunyelwa kuLomdlalo.,sports,health,"<|begin_of_text|>SENTENCE:
+ Bekasolo angakhoni kunatsa emaphilisi ladzingekile kuze acedze lobuhlungu lanabo njengoba angakavunyelwa kuLomdlalo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER:  health 
+EXPLANATION:
+Bekas"
+Lucwaningo lutfole kutsi bantfu besifazane basematfubeni lamakhulu ekuba ne-MS kunebantfu besilisa.,health,geography,"<|begin_of_text|>SENTENCE:
+ Lucwaningo lutfole kutsi bantfu besifazane basematfubeni lamakhulu ekuba ne-MS kunebantfu besilisa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+The"
+"Emaspirithi langekho emtsetfweni angafaka ekhatsi kungcola lokuningi lokuyingoti lokufaka ekhatsi imethanol, lengabangela bumphumphutse noma ngisho nekufa ngisho kufakwe kancane.",health,science/technology,"<|begin_of_text|>SENTENCE:
+ Emaspirithi langekho emtsetfweni angafaka ekhatsi kungcola lokuningi lokuyingoti lokufaka ekhatsi imethanol, lengabangela bumphumphutse noma ngisho nekufa ngisho kufakwe kancane. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+The sentence"
+"Bekubangelwe kucabanga nje, bekungasiko kucindzeteleka, bekaneluvalo lekutsi kungahle kube khona langakumbisi kahle kuletinhlelo tePA lebetenteka maviki onkhe.",health,N/A,"<|begin_of_text|>SENTENCE:
+ Bekubangelwe kucabanga nje, bekungasiko kucindzeteleka, bekaneluvalo lekutsi kungahle kube khona langakumbisi kahle kuletinhlelo tePA lebetenteka maviki onkhe. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- None of the above 
+EXPLANATION"
+"Kuba khona kwetimoto ngebunyenti kungaholela ekubeni netingoti leniningi emgwacweni, lokuholela ekwenteni tindlela letisha tebuchwephesha ekwelapheni bantfu labalimele.",health,travel,"<|begin_of_text|>SENTENCE:
+ Kuba khona kwetimoto ngebunyenti kungaholela ekubeni netingoti leniningi emgwacweni, lokuholela ekwenteni tindlela letisha tebuchwephesha ekwelapheni bantfu labalimele. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The sentence"
+"Bacwaningi labahamba embili batsi loku kungabangela kutfolakala kwemdlavuza kusenesikhatsi, sifuba sengati, i-HIV malaleveva etigulaleni letisemaveni lahola kancane, lapho kuphila nangabe unesifo lesinjengemdlavuza welibele kungaba sehhafini kumave lanotsile.",health,health,"<|begin_of_text|>SENTENCE:
+ Bacwaningi labahamba embili batsi loku kungabangela kutfolakala kwemdlavuza kusenesikhatsi, sifuba sengati, i-HIV malaleveva etigulaleni letisemaveni lahola kancane, lapho kuphila nangabe unesifo lesinjengemdlavuza welibele kungaba sehhafini kumave lanotsile. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+health
+EXPLANATION:
+This sentence is"
+"Dkt. Ehud Ur, solwati wetemphilo eNyuvesi yaseDalhousie eHalifax, Nova Scotia kanye nasihlalo wetemphilo nenhlangano yesayensi yeNhlangano Yelabanesifo Sashukela yaseCanada wacaphelisa ngekutsi loluphenyo lusasemalangeni alo ekucala.",health,science/technology,"<|begin_of_text|>SENTENCE:
+ Dkt. Ehud Ur, solwati wetemphilo eNyuvesi yaseDalhousie eHalifax, Nova Scotia kanye nasihlalo wetemphilo nenhlangano yesayensi yeNhlangano Yelabanesifo Sashukela yaseCanada wacaphelisa ngekutsi loluphenyo lusasemalangeni alo ekucala. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Iz"
+"Labantfwana bavamisa kungena etinkingeni letinkhulu, ngoba ""benta tintfo letiyingoti, bayalwa, futsi baphikisane neligunya"" kuze basitwe endleleni labacabanga ngayo, njengoba tingcodvo tabo tingeke tisitwe tindlela letivamile nje.",health,science/technology,"<|begin_of_text|>SENTENCE:
+ Labantfwana bavamisa kungena etinkingeni letinkhulu, ngoba ""benta tintfo letiyingoti, bayalwa, futsi baphikisane neligunya"" kuze basitwe endleleni labacabanga ngayo, njengoba tingcodvo tabo tingeke tisitwe tindlela letivamile nje. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Labant"
+Bantfu bangatsintseka uma baphefumula emanti langcolile laletfwa ngumoya nemagagasi emoyeni labawuphefumulako.,health,science/technology,"<|begin_of_text|>SENTENCE:
+ Bantfu bangatsintseka uma baphefumula emanti langcolile laletfwa ngumoya nemagagasi emoyeni labawuphefumulako. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+This sentence"
+Labanye bantfu bakholelwa kutsi emaphupho etintfo tekutakhela angaba ngulakhatsatako mbamba.,health,N/A,"<|begin_of_text|>SENTENCE:
+ Labanye bantfu bakholelwa kutsi emaphupho etintfo tekutakhela angaba ngulakhatsatako mbamba. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- None of the above 
+REASONING"
+Potro welashwa lihlombe ngaso leso sikhatsi futsi wakhona kubuyela achubeke nemdlalo.,health,sports,"<|begin_of_text|>SENTENCE:
+ Potro welashwa lihlombe ngaso leso sikhatsi futsi wakhona kubuyela achubeke nemdlalo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+The sentence"
+"Ngetulu kwaloko, kwehluleka kwenta njalo kunemiphumela lebuhlungu: kucindzeteleka, kungadli kahle, nekufa.",health,health,"<|begin_of_text|>SENTENCE:
+ Ngetulu kwaloko, kwehluleka kwenta njalo kunemiphumela lebuhlungu: kucindzeteleka, kungadli kahle, nekufa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: -health
+EXPLANATION:
+The sentence is"
+Tikhulu telidolobhakati lase-Amsterdam ne-Anne Frank Museum tiyasho kutsi lesihlahla satfola ifungus futsi siyingoti emphilweni yesive ngoba tigcizelela kutsi kusedvute ngalokuyingoti kutsi siwe.,health,travel,"<|begin_of_text|>SENTENCE:
+ Tikhulu telidolobhakati lase-Amsterdam ne-Anne Frank Museum tiyasho kutsi lesihlahla satfola ifungus futsi siyingoti emphilweni yesive ngoba tigcizelela kutsi kusedvute ngalokuyingoti kutsi siwe. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+ REASONING:
+ This sentence"
+"Lesibhedlela silandzele imitsetfo yekulawula kutseleleka ngesifo, kuhlanganise nekuhlukanisa lesigule nalabanye kuvikela kutselela labanye lokungahle kwenteke.",health,N/A,"<|begin_of_text|>SENTENCE:
+ Lesibhedlela silandzele imitsetfo yekulawula kutseleleka ngesifo, kuhlanganise nekuhlukanisa lesigule nalabanye kuvikela kutselela labanye lokungahle kwenteke. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- None of the above 
+EXPLANATION"
+I-Haitian Institute for Justice and Democracy ibale timfundvo letitimele letiveta kutsi emabutfo aseNepal aMhlabuhlangene lagcina kuthula ngekungati aletsa lesifo eHaiti.,health,geography,"<|begin_of_text|>SENTENCE:
+ I-Haitian Institute for Justice and Democracy ibale timfundvo letitimele letiveta kutsi emabutfo aseNepal aMhlabuhlangene lagcina kuthula ngekungati aletsa lesifo eHaiti. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+The"
+"Tifo letitsatselwano ngekwato, noma tilwane letiyingoti letingalimata noma tibulale bantfu ngelulaka, ngalokuvamile akusikahle kutsi tifuywe.",health,health,"<|begin_of_text|>SENTENCE:
+ Tifo letitsatselwano ngekwato, noma tilwane letiyingoti letingalimata noma tibulale bantfu ngelulaka, ngalokuvamile akusikahle kutsi tifuywe. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: -health
+EXPLANATION:
+This sentence is"
+"Bantfwana labane-ADD bakutfola kumantima kugcila etintfweni letifana nemsebenti wesikolwa, kepha bayakhona kugcila etintfweni labatsandzako kutenta njengekudlala imidlalo nobe kubukela bopopayi lababatsandzako nobe kubhala imisho lengenatimphawu tekukhuluma.",health,entertainment,"<|begin_of_text|>SENTENCE:
+ Bantfwana labane-ADD bakutfola kumantima kugcila etintfweni letifana nemsebenti wesikolwa, kepha bayakhona kugcila etintfweni labatsandzako kutenta njengekudlala imidlalo nobe kubukela bopopayi lababatsandzako nobe kubhala imisho lengenatimphawu tekukhuluma. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+I"
+"Ngemnyaka munye, umuntfu lonesifo angase atselele bantfu labangu-10 kuya kulabangu-15 lake waba nabo.",health,geography,"<|begin_of_text|>SENTENCE:
+ Ngemnyaka munye, umuntfu lonesifo angase atselele bantfu labangu-10 kuya kulabangu-15 lake waba nabo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+"Nakuphela lokulwa emvakwekutsi labalimele bamikiswe esibhedlela, letinye tiboshwa letingaba ngema-40 lebetisele tahlala ngaphandle tala kubuyela ngekhatsi etindlini tato tekuboshwa.",health,N/A,"<|begin_of_text|>SENTENCE:
+ Nakuphela lokulwa emvakwekutsi labalimele bamikiswe esibhedlela, letinye tiboshwa letingaba ngema-40 lebetisele tahlala ngaphandle tala kubuyela ngekhatsi etindlini tato tekuboshwa. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- None of the above 
+ This sentence is"
+Bodokotela bacala kucashwa iNkhosi Augustus yaphindze yakha iRoman Medical Corps yekucala yekusentjentiswa ngemuva kwetimphi.,health,health,"<|begin_of_text|>SENTENCE:
+ Bodokotela bacala kucashwa iNkhosi Augustus yaphindze yakha iRoman Medical Corps yekucala yekusentjentiswa ngemuva kwetimphi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+health
+EXPLANATION:
+The sentence is"
+"Kodvwa, lomshayela walimala kakhulu lapha enhloko.",health,travel,"<|begin_of_text|>SENTENCE:
+ Kodvwa, lomshayela walimala kakhulu lapha enhloko. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Kod"
+"""Nyalo sesinemagundvwane lanetinyanga letine budzala lasekete shukela labekanawo shukela"", wangeta.",health,N/A,"<|begin_of_text|>SENTENCE:
+ ""Nyalo sesinemagundvwane lanetinyanga letine budzala lasekete shukela labekanawo shukela"", wangeta. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+ None of the above 
+ REASONING:"
+"Kudliswa shevu kungase kungabonakali ngekushesha, Timphawu letifaka ekhatsi kuhlanta tibonakala melula kangangekutsi angeke kudzingeke ucilongwe ngekushesha.",health,N/A,"<|begin_of_text|>SENTENCE:
+ Kudliswa shevu kungase kungabonakali ngekushesha, Timphawu letifaka ekhatsi kuhlanta tibonakala melula kangangekutsi angeke kudzingeke ucilongwe ngekushesha. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- None of the above
+REASONING"
+Labantfu labaphefomako babhema insangu nabasesiteji lokwenta kutsi wonkhe umuntfu lolangekhatsi afise kubhema.,entertainment,geography,"<|begin_of_text|>SENTENCE:
+ Labantfu labaphefomako babhema insangu nabasesiteji lokwenta kutsi wonkhe umuntfu lolangekhatsi afise kubhema. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+Aerosmith ukhansele emakhonsathi akhe lasele eluhambeni lwakhe.,entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Aerosmith ukhansele emakhonsathi akhe lasele eluhambeni lwakhe. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+REASONING SKILL"
+Uma ufuna kuba dvute nalombukiso kufuneka usheshe ungene kutfola likamu lelidvute nalomculo.,entertainment,N/A,"<|begin_of_text|>SENTENCE:
+ Uma ufuna kuba dvute nalombukiso kufuneka usheshe ungene kutfola likamu lelidvute nalomculo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- None of the above 
+REASONING"
+Kunetindlela letinyenti tekwakha emafilimu letisetjentisiwe kuleminyaka leyendlulile. Kusukela kulavamile langu-35 mm (36 nanga-24).,entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Kunetindlela letinyenti tekwakha emafilimu letisetjentisiwe kuleminyaka leyendlulile. Kusukela kulavamile langu-35 mm (36 nanga-24). 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+K"
+"Ngisho lona kungumdlalo lovamile, awukavunyelwa nguDisney: nemathikithi awo angeke uwendlulisele kulomunye.",entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Ngisho lona kungumdlalo lovamile, awukavunyelwa nguDisney: nemathikithi awo angeke uwendlulisele kulomunye. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+Ng"
+Sigcawu ngasinye sembukiso sitogcila esihlokweni lesitsite sencwadzi futsi sisandzise lesihloko ngetidzaba letinyenti.,entertainment,geography,"<|begin_of_text|>SENTENCE:
+ Sigcawu ngasinye sembukiso sitogcila esihlokweni lesitsite sencwadzi futsi sisandzise lesihloko ngetidzaba letinyenti. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+The"
+Bomabonakudze labanyenti labakhulu bafakiwe etindzaweni letinyenti taseRoma kuze bantfu babukele lombutsano.,entertainment,geography,"<|begin_of_text|>SENTENCE:
+ Bomabonakudze labanyenti labakhulu bafakiwe etindzaweni letinyenti taseRoma kuze bantfu babukele lombutsano. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+ REASONING:
+This"
+Sophocles na-Aristophanes kusengibo babhali bemibukiso labadvumile futsi imibukiso yabo itsatfwa njengaleminye lemikhulu emisebentini yekubhala emhlabeni.,entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Sophocles na-Aristophanes kusengibo babhali bemibukiso labadvumile futsi imibukiso yabo itsatfwa njengaleminye lemikhulu emisebentini yekubhala emhlabeni. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+REASONING:
+The"
+Luhlelo ngalunye lutoniketa nalokutuswako encwadzini ebantfwana labangakubheka nabaya emtapweni wetincwadzi.,entertainment,geography,"<|begin_of_text|>SENTENCE:
+ Luhlelo ngalunye lutoniketa nalokutuswako encwadzini ebantfwana labangakubheka nabaya emtapweni wetincwadzi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+The"
+"Kulenkositini, kutfola umsindvo lowengetiwe, usebentisa tifutfo leticindzetela kakhulu noma letinesivinini lesikhulu.",entertainment,N/A,"<|begin_of_text|>SENTENCE:
+ Kulenkositini, kutfola umsindvo lowengetiwe, usebentisa tifutfo leticindzetela kakhulu noma letinesivinini lesikhulu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- None of the above 
+EXPLANATION"
+Ungabona lama-pyramids ebumnyameni futsi ungawabona nanasekuthulile ngaphambi kwekutsi lombukiso ucale.,entertainment,geography,"<|begin_of_text|>SENTENCE:
+ Ungabona lama-pyramids ebumnyameni futsi ungawabona nanasekuthulile ngaphambi kwekutsi lombukiso ucale. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+U"
+"Tibonelo tetintfo letentiwa endzaweni levulekile kutingela, kudoba, kutsebula titfombe, kubukela tinyoni, nekuvakashela emapaki kanye nekufundza imininingwane lemayelana nemvelo.",entertainment,N/A,"<|begin_of_text|>SENTENCE:
+ Tibonelo tetintfo letentiwa endzaweni levulekile kutingela, kudoba, kutsebula titfombe, kubukela tinyoni, nekuvakashela emapaki kanye nekufundza imininingwane lemayelana nemvelo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- None of the above
+ REASONING"
+Sphinx sentiwa kutsi sibe semuva kanye naloyo lochaza indzaba.,entertainment,geography,"<|begin_of_text|>SENTENCE:
+ Sphinx sentiwa kutsi sibe semuva kanye naloyo lochaza indzaba. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+REASONING:
+The"
+"Ngalokuvamile baba nekudla lokukhetsekile, kwekunatsa nekutijabulisa, kuze bagcine tihambeli tijabulile, futsi tigcineke tikulendzawo.",entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Ngalokuvamile baba nekudla lokukhetsekile, kwekunatsa nekutijabulisa, kuze bagcine tihambeli tijabulile, futsi tigcineke tikulendzawo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+This"
+"Njengoba kakadze ibika ngesiNgisi nangesi-Japanese, inhlangano yemhlaba wonkhe icalisa luhlelo ngelulwimi lwe-Spanish, siTaliyane, kanye nesi-Korea kumabonakudze, kuwebhu, nakubomakhalekhikhini.",entertainment,geography,"<|begin_of_text|>SENTENCE:
+ Njengoba kakadze ibika ngesiNgisi nangesi-Japanese, inhlangano yemhlaba wonkhe icalisa luhlelo ngelulwimi lwe-Spanish, siTaliyane, kanye nesi-Korea kumabonakudze, kuwebhu, nakubomakhalekhikhini. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+ REASONING SKILL"
+"Ngembi kwekusebentela iSimpsons, Simon bekasebente emicimbini lembalwa etikhudleni letihlukahlukene.",entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Ngembi kwekusebentela iSimpsons, Simon bekasebente emicimbini lembalwa etikhudleni letihlukahlukene. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+Ng"
+Loku kutovumela badlali kutsi balawule tento kanye nekushukuma emidlalweni yevidiyo ngekuhambisa umshini emoyeni.,entertainment,travel,"<|begin_of_text|>SENTENCE:
+ Loku kutovumela badlali kutsi balawule tento kanye nekushukuma emidlalweni yevidiyo ngekuhambisa umshini emoyeni. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The sentence"
+"Cishe bangu-100 bantfu labafikile emcimbini, kutohalalisela umnyaka wekucala beshadili labashadikazi labashade ngemnyaka lophelile.",entertainment,geography,"<|begin_of_text|>SENTENCE:
+ Cishe bangu-100 bantfu labafikile emcimbini, kutohalalisela umnyaka wekucala beshadili labashadikazi labashade ngemnyaka lophelile. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+The"
+"Tingoma letimbili kulefilimi, i-Audition (Letilima LetiPhuphako) kanye ne-City of Stars, taphakanyiswa ehlangotsini letingoma tekuticambela letihambe embili. Situdiyo iLionsgate yatfola tiphakamiso letingema-26 - kwendlula noma ngutiphi letinye titudiyo.",entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Tingoma letimbili kulefilimi, i-Audition (Letilima LetiPhuphako) kanye ne-City of Stars, taphakanyiswa ehlangotsini letingoma tekuticambela letihambe embili. Situdiyo iLionsgate yatfola tiphakamiso letingema-26 - kwendlula noma ngutiphi letinye titudiyo. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+I"
+Lencenye yenyeti lebitwa ngekutsi yi-crust ingemakhilomitha langu 70 bududla ngasehlangotsini loludvute bese iba ngemakhilomitha langu 100 bududla ngasehlangotsini lolukhashane.,geography,geography,"<|begin_of_text|>SENTENCE:
+ Lencenye yenyeti lebitwa ngekutsi yi-crust ingemakhilomitha langu 70 bududla ngasehlangotsini loludvute bese iba ngemakhilomitha langu 100 bududla ngasehlangotsini lolukhashane. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+I"
+Nawehla uya eNingizimu utawutfola Timpophphoma taseNiagara kantsi nawukhuphukela eNyakatfo utotfola buhle beMoskoka.,geography,geography,"<|begin_of_text|>SENTENCE:
+ Nawehla uya eNingizimu utawutfola Timpophphoma taseNiagara kantsi nawukhuphukela eNyakatfo utotfola buhle beMoskoka. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+ REASONING:
+ The"
+"I-Ellsworth Land sifundza lesiseningizimu yePeninsula, lehlanganiswe Nelulwandle iBellingshausen.",geography,geography,"<|begin_of_text|>SENTENCE:
+ I-Ellsworth Land sifundza lesiseningizimu yePeninsula, lehlanganiswe Nelulwandle iBellingshausen. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+I"
+ISouth Pole Traverse (noma iHighway) ingu-1600 km kusuka eMcMurdo Station eRoss Sea kuya kule Pole.,geography,geography,"<|begin_of_text|>SENTENCE:
+ ISouth Pole Traverse (noma iHighway) ingu-1600 km kusuka eMcMurdo Station eRoss Sea kuya kule Pole. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+ REASONING SKILL"
+"Lentsaba lenyukelako ilengemuva kweMachu Pichu ehlangotsini loluseNyakatfo, etitfombeni letinyenti taletindzala iyavela.",geography,travel,"<|begin_of_text|>SENTENCE:
+ Lentsaba lenyukelako ilengemuva kweMachu Pichu ehlangotsini loluseNyakatfo, etitfombeni letinyenti taletindzala iyavela. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Lents"
+Inyeti i-enceladus ngiyo letsatsa kukhanya ikujikise kwendlula noma yini lenye emkhatsini ingajikisa kukhanya lokuyimfica ekhulwini.,geography,science/technology,"<|begin_of_text|>SENTENCE:
+ Inyeti i-enceladus ngiyo letsatsa kukhanya ikujikise kwendlula noma yini lenye emkhatsini ingajikisa kukhanya lokuyimfica ekhulwini. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+The sentence"
+"Kute lokubonakalako ngaphandle kwesibhakabhaka lesisetulu lesicacile, futsi lesihle naletintsaba letinengi letitungeletile. Lokuncane kakhulu kwalomhlaba kungabonakala nobe kuviwe ngekhatsi kwalomhume.",geography,geography,"<|begin_of_text|>SENTENCE:
+ Kute lokubonakalako ngaphandle kwesibhakabhaka lesisetulu lesicacile, futsi lesihle naletintsaba letinengi letitungeletile. Lokuncane kakhulu kwalomhlaba kungabonakala nobe kuviwe ngekhatsi kwalomhume. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+"Nyalo yiJapane. IJapane beyilive lelisichingi, njengeBrithani nje.",geography,geography,"<|begin_of_text|>SENTENCE:
+ Nyalo yiJapane. IJapane beyilive lelisichingi, njengeBrithani nje. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+"Nangabe siphakama, Siphepho iGonu, leyetsiwa ngetikhwama temacembe esihlahla selisundu ngelulwimi lwaseMaldives, sifinyelele sivinini lesingemakhilomitha langu-240 ngeli-awa (149 yemamayela ngeli-awa) .",geography,travel,"<|begin_of_text|>SENTENCE:
+ Nangabe siphakama, Siphepho iGonu, leyetsiwa ngetikhwama temacembe esihlahla selisundu ngelulwimi lwaseMaldives, sifinyelele sivinini lesingemakhilomitha langu-240 ngeli-awa (149 yemamayela ngeli-awa). 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+ REASONING:
+ This sentence"
+"Indzawo yase-Turkey, kufaka ekhatsi emachibi, ivala 783,562 wema-square khilomitha (300,948 sq mi), ema-square khilomitha langu 755,688 (291,773 sq mi) angaseningizimu nenshonalanga ye-Asia bese nema-square khilomitha langu-23,764 (9,174 sq mi) eYurophu.",geography,geography,"<|begin_of_text|>SENTENCE:
+ Indzawo yase-Turkey, kufaka ekhatsi emachibi, ivala 783,562 wema-square khilomitha (300,948 sq mi), ema-square khilomitha langu 755,688 (291,773 sq mi) angaseningizimu nenshonalanga ye-Asia bese nema-square khilomitha langu-23,764 (9,174 sq mi) eYurophu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+ EXPLANATION:
+ This"
+Tihlenge taseNingizimu Shetland tive letinyenti titsi letihlenge tato. Tinetindzawo tekudlala letilishumi nesitfupha lebetisolo tisebenta kuze kube ngu 2020. Letihlenge tatfolakala nga1819.,geography,geography,"<|begin_of_text|>SENTENCE:
+ Tihlenge taseNingizimu Shetland tive letinyenti titsi letihlenge tato. Tinetindzawo tekudlala letilishumi nesitfupha lebetisolo tisebenta kuze kube ngu 2020. Letihlenge tatfolakala nga1819. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+T"
+"I-Apia inhloko dolobha yase-Samoa. Lelidolobha lisesichingini sase-Upolu futsi linebantfu labangephansi kwa-40,000.",geography,geography,"<|begin_of_text|>SENTENCE:
+ I-Apia inhloko dolobha yase-Samoa. Lelidolobha lisesichingini sase-Upolu futsi linebantfu labangephansi kwa-40,000. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+geography
+EXPLANATION:
+I-A"
+"Njengoba siphepho sikhashane nekuwa kwemhlabatsi, kuhlala kumantima kubona umonakalo lowentekile eMelika noma eCaribbean.",geography,travel,"<|begin_of_text|>SENTENCE:
+ Njengoba siphepho sikhashane nekuwa kwemhlabatsi, kuhlala kumantima kubona umonakalo lowentekile eMelika noma eCaribbean. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Hii"
+Yincane ngephansi kwelwandle futsi yinkhulu etindzaweni letiphakeme.,geography,geography,"<|begin_of_text|>SENTENCE:
+ Yincane ngephansi kwelwandle futsi yinkhulu etindzaweni letiphakeme. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+Lamahlatsi akasito nje tihlahla letimila endzaweni yemanti noma afaka ekhatsi lamanye emahlatsi ekugcina lamile lakake avala iGangetic plain.,geography,geography,"<|begin_of_text|>SENTENCE:
+ Lamahlatsi akasito nje tihlahla letimila endzaweni yemanti noma afaka ekhatsi lamanye emahlatsi ekugcina lamile lakake avala iGangetic plain. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+Lucwaningo Lwendzawo Lwase Melika lukhombisa kutsi emephini yemhlaba yekutamatama kwemhlaba kute kutamatama kwemhlaba lokwenteke e-Iceland kuleliviki lelegcile.,geography,geography,"<|begin_of_text|>SENTENCE:
+ Lucwaningo Lwendzawo Lwase Melika lukhombisa kutsi emephini yemhlaba yekutamatama kwemhlaba kute kutamatama kwemhlaba lokwenteke e-Iceland kuleliviki lelegcile. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+ REASONING:
+ This"
+"Kuphumula etulu kuyinye yetintsaba tasenyakatfo yeMecca, lomhume ukhashane kuletinye tindzawo emhlabeni.",geography,travel,"<|begin_of_text|>SENTENCE:
+ Kuphumula etulu kuyinye yetintsaba tasenyakatfo yeMecca, lomhume ukhashane kuletinye tindzawo emhlabeni. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The sentence"

@@ -1,0 +1,3051 @@
+text,actual_category,predicted_category,generated_text
+"Mutācija pievieno jaunu ģenētisko variāciju, bet atlase to noņem no izteiktās variācijas kopuma.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Mutācija pievieno jaunu ģenētisko variāciju, bet atlase to noņem no izteiktās variācijas kopuma. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: \- science
+EXPLANATION:
+Mutā"
+"Atombumba darbojas pēc principa, ka ir vajadzīga enerģija, lai saliktu kodolu ar daudziem protoniem un neitroniem.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Atombumba darbojas pēc principa, ka ir vajadzīga enerģija, lai saliktu kodolu ar daudziem protoniem un neitroniem. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Šī"
+Kodols sastāv no divām daļiņām - neitroniem un protoniem.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Kodols sastāv no divām daļiņām - neitroniem un protoniem. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Kod"
+"Tas ļāva tālummaiņas objektīviem radīt tādas kvalitātes attēlus, kas ir līdzvērtīgi tiem, ko nodrošina objektīvi ar noteiktu fokusa attālumu.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Tas ļāva tālummaiņas objektīviem radīt tādas kvalitātes attēlus, kas ir līdzvērtīgi tiem, ko nodrošina objektīvi ar noteiktu fokusa attālumu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: \- science
+EXPLANATION:
+This sentence"
+"Tie ir pirmšķirīgāki par tīmekļa starpniekserveriem vairāku iemeslu dēļ: tie maina visu interneta trafiku, ne tikai http.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Tie ir pirmšķirīgāki par tīmekļa starpniekserveriem vairāku iemeslu dēļ: tie maina visu interneta trafiku, ne tikai http. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Šī"
+"Veicot interaktīvu izstrādi, jums jāpārvērtē savi pieņēmumi par producēšanu plašsaziņas līdzekļu jomā un jāiemācās domāt nelineāri.",science/technology,entertainment,"<|begin_of_text|>SENTENCE:
+ Veicot interaktīvu izstrādi, jums jāpārvērtē savi pieņēmumi par producēšanu plašsaziņas līdzekļu jomā un jāiemācās domāt nelineāri. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+Š"
+"Tā kļuva par ierastu praksi, bet dzelzs izraisīja lielāku vagonu koka riteņu nodilumu.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Tā kļuva par ierastu praksi, bet dzelzs izraisīja lielāku vagonu koka riteņu nodilumu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Šī"
+Baru veido viens līdz trīs radniecīgi pieauguši tēviņi un līdz pat trīsdesmit mātītēm un mazuļiem.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Baru veido viens līdz trīs radniecīgi pieauguši tēviņi un līdz pat trīsdesmit mātītēm un mazuļiem. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Šī"
+"Lai arī mākslīgais intelekts tiek lielā mērā saistīts ar zinātnisko fantastiku, tas ir ārkārtīgi svarīgs datorzinātnes virziens, kas pēta tehnoloģiju izturēšanos, mācīšanos un inteliģentu pielāgošanos.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Lai arī mākslīgais intelekts tiek lielā mērā saistīts ar zinātnisko fantastiku, tas ir ārkārtīgi svarīgs datorzinātnes virziens, kas pēta tehnoloģiju izturēšanos, mācīšanos un inteliģentu pielāgošanos. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Šī"
+"Tāpēc šī formāta malu attiecība (dalot ar divpadsmit, lai iegūtu vienkāršāko veselo skaitļu attiecību) ir 3:2.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Tāpēc šī formāta malu attiecība (dalot ar divpadsmit, lai iegūtu vienkāršāko veselo skaitļu attiecību) ir 3:2. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+This sentence"
+"Satelīttālrunis nav gluži tas pats, kas mobilais tālrunis, jo zvana veikšanai nepieciešams atrasties ārā un tiešā līnijā pret satelītu.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Satelīttālrunis nav gluži tas pats, kas mobilais tālrunis, jo zvana veikšanai nepieciešams atrasties ārā un tiešā līnijā pret satelītu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Satel"
+"Lai arī zirgu dzelzceļš sastāvēja tikai no paralēli novietotiem koka dēļiem, tie ļāva vilcējzirgiem sasniegt lielāku ātrumu un vilkt lielākas kravas nekā pa tā laika grumbuļainajiem ceļiem.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Lai arī zirgu dzelzceļš sastāvēja tikai no paralēli novietotiem koka dēļiem, tie ļāva vilcējzirgiem sasniegt lielāku ātrumu un vilkt lielākas kravas nekā pa tā laika grumbuļainajiem ceļiem. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science 
+EXPLANATION:
+Šī"
+"Cilvēki ir pazinuši tādus ķīmiskos pamatelementus kā zelts, sudrabs un varš jau no seniem laikiem, jo tie visi ir atrodami dabā brīvā veidā un ir relatīvi viegli izrokami ar primitīviem rīkiem.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Cilvēki ir pazinuši tādus ķīmiskos pamatelementus kā zelts, sudrabs un varš jau no seniem laikiem, jo tie visi ir atrodami dabā brīvā veidā un ir relatīvi viegli izrokami ar primitīviem rīkiem. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Šī"
+"Ritenis ir mainījis pasauli neticamos veidos. Lielākais, ko ritenis mūsu labā ir izdarījis - tas mums nodrošina daudz vienkāršāku un ātrāku pārvadāšanu.",science/technology,travel,"<|begin_of_text|>SENTENCE:
+ Ritenis ir mainījis pasauli neticamos veidos. Lielākais, ko ritenis mūsu labā ir izdarījis - tas mums nodrošina daudz vienkāršāku un ātrāku pārvadāšanu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Šī"
+"Tas tiek darīts, lai nodrošinātu, ka attēls aptver visu ekrānu. To sauc par attēla izvērsi.",science/technology,entertainment,"<|begin_of_text|>SENTENCE:
+ Tas tiek darīts, lai nodrošinātu, ka attēls aptver visu ekrānu. To sauc par attēla izvērsi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+The"
+"Vācu zemūdenes tika sauktas par ""U-Boats"". Vācieši lieliski prata vadīt un izmantot savas zemūdenes.",science/technology,geography,"<|begin_of_text|>SENTENCE:
+ Vācu zemūdenes tika sauktas par ""U-Boats"". Vācieši lieliski prata vadīt un izmantot savas zemūdenes. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+The"
+"Lai arī tā fizikālais stāvoklis var mainīties, tā ķīmiskais sastāvs paliek nemainīgs.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Lai arī tā fizikālais stāvoklis var mainīties, tā ķīmiskais sastāvs paliek nemainīgs. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Šī"
+"Virsmas spraigums notiek tāpēc, ka ūdens molekulas ūdens virsmā spēcīgi pievelkas viena otrai, vairāk nekā gaisa molekulām virs tām.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Virsmas spraigums notiek tāpēc, ka ūdens molekulas ūdens virsmā spēcīgi pievelkas viena otrai, vairāk nekā gaisa molekulām virs tām. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Šī"
+"Viena no izplatītākajām problēmām, mēģinot filmu pārveidot DVD formātā, ir attēla izvērse.",science/technology,entertainment,"<|begin_of_text|>SENTENCE:
+ Viena no izplatītākajām problēmām, mēģinot filmu pārveidot DVD formātā, ir attēla izvērse. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment 
+REASONING:
+This"
+"Jo īpaši tiek apgalvots, ka cilvēks var noteikt, vai kāds melo, pareizi izprotot sejas mikroizteiksmes.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Jo īpaši tiek apgalvots, ka cilvēks var noteikt, vai kāds melo, pareizi izprotot sejas mikroizteiksmes. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Šī"
+Zeltu var izliet visu veidu formās. To var izrullēt pat ļoti sīkās formās.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Zeltu var izliet visu veidu formās. To var izrullēt pat ļoti sīkās formās. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+The sentence"
+"AI sistēmu tagad bieži izmanto ekonomikas, medicīnas, inženierzinātņu un militārajā jomā, kā arī tā ir iebūvēta vairākās mājas datoru un videospēļu programmatūras lietojumprogrammās.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ AI sistēmu tagad bieži izmanto ekonomikas, medicīnas, inženierzinātņu un militārajā jomā, kā arī tā ir iebūvēta vairākās mājas datoru un videospēļu programmatūras lietojumprogrammās. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Šī"
+"Tas  joprojām tiek ražots, bet svarīgāk, ka tā attēla proporcijas tagad izmanto digitālo kameru attēlu sensoru formātos.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Tas  joprojām tiek ražots, bet svarīgāk, ka tā attēla proporcijas tagad izmanto digitālo kameru attēlu sensoru formātos. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Šī"
+"Daudz izkropļotais un bieži izsmietais trešo daļu likums ir vienkārša vadlīnija, kas rada dinamiku, vienlaikus saglabājot attēla kārtību.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Daudz izkropļotais un bieži izsmietais trešo daļu likums ir vienkārša vadlīnija, kas rada dinamiku, vienlaikus saglabājot attēla kārtību. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Šī"
+"Tas ne tikai apstiprina, ka vismaz dažiem dinozauriem bija spalvas, šī teorija jau bija plaši izplatīta, bet arī sniedz informāciju, ko fosilijas vispārīgi nevar, piemēram, krāsu un trīsdimensiju izvietojumu.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Tas ne tikai apstiprina, ka vismaz dažiem dinozauriem bija spalvas, šī teorija jau bija plaši izplatīta, bet arī sniedz informāciju, ko fosilijas vispārīgi nevar, piemēram, krāsu un trīsdimensiju izvietojumu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Šī"
+"Kā Īo gravitācija mani ietekmētu? Ja tu stāvētu uz Īo virsmas, tu svērtu mazāk nekā uz Zemes.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Kā Īo gravitācija mani ietekmētu? Ja tu stāvētu uz Īo virsmas, tu svērtu mazāk nekā uz Zemes. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Kā"
+"„NextGen” ir sistēma, kura, pēc FAA teiktā, ļautu lidmašīnai lidot īsākus maršrutus un katru gadu ietaupīt miljoniem galonu degvielas, kā arī samazināt oglekļa emisiju.",science/technology,travel,"<|begin_of_text|>SENTENCE:
+ „NextGen” ir sistēma, kura, pēc FAA teiktā, ļautu lidmašīnai lidot īsākus maršrutus un katru gadu ietaupīt miljoniem galonu degvielas, kā arī samazināt oglekļa emisiju. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel 
+EXPLANATION:
+Šī"
+Neirobioloģiskie dati sniedz fizisku pierādījumu izzināšanas spēju izpētes teorētiskajai pieejai. Tādēļ tā sašaurina izpētes jomu un padara to precīzāku.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Neirobioloģiskie dati sniedz fizisku pierādījumu izzināšanas spēju izpētes teorētiskajai pieejai. Tādēļ tā sašaurina izpētes jomu un padara to precīzāku. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Šī"
+"Savā 2 stundu ilgajā runā viņš norādīja, ka ""šobrīd ""Apple"" no jauna izgudros tālruni. Mēs ierakstīsim šo brīdi vēsturē"".",science/technology,entertainment,"<|begin_of_text|>SENTENCE:
+ Savā 2 stundu ilgajā runā viņš norādīja, ka ""šobrīd ""Apple"" no jauna izgudros tālruni. Mēs ierakstīsim šo brīdi vēsturē"". 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment 
+REASONING:
+The"
+"Tālummaiņas objektīvu trūkums ir tāds, ka fokusa sarežģītība un objektīvu elementu skaits, kas nepieciešami fokusa attāluma diapazona sasniegšanai, ir daudz lielāks nekā pamata objektīviem.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Tālummaiņas objektīvu trūkums ir tāds, ka fokusa sarežģītība un objektīvu elementu skaits, kas nepieciešami fokusa attāluma diapazona sasniegšanai, ir daudz lielāks nekā pamata objektīviem. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+The sentence"
+"Vadāmierīce līdzinās televizora tālvadības pultij, un tā izmanto divus lietotāja televizora tuvumā novietotus sensorus, lai triangulētu savu pozīciju trīsdimensiju telpā.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Vadāmierīce līdzinās televizora tālvadības pultij, un tā izmanto divus lietotāja televizora tuvumā novietotus sensorus, lai triangulētu savu pozīciju trīsdimensiju telpā. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Šī"
+". Zinātnieki saka, ka šī dzīvnieka apspalvojums augšpusē bija kastaņbrūnā krāsā, bet apakšpusē — karotinoīdu krāsās.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+. Zinātnieki saka, ka šī dzīvnieka apspalvojums augšpusē bija kastaņbrūnā krāsā, bet apakšpusē — karotinoīdu krāsās. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Šī"
+"Divi savienojumi reaģē viens ar otru, veidojot kristālus, kas var bloķēt nieru darbību, sacīja universitātes pētnieki.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Divi savienojumi reaģē viens ar otru, veidojot kristālus, kas var bloķēt nieru darbību, sacīja universitātes pētnieki. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+\ science
+EXPLANATION:
+Šī"
+Tādējādi izšķirtspēja ir gandrīz četrreiz lielāka par 35 mm negatīvu (3136 mm2 pret 864).,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Tādējādi izšķirtspēja ir gandrīz četrreiz lielāka par 35 mm negatīvu (3136 mm2 pret 864). 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science
+EXPLANATION:
+This sentence is about"
+"Pateicoties zemūdens optisko kabeļu savienojumiem ar Eiropu un platjoslas satelītam, Grenlandē labi sakari ir ar 93% iedzīvotāju, kuriem ir piekļuve internetam.",science/technology,geography,"<|begin_of_text|>SENTENCE:
+ Pateicoties zemūdens optisko kabeļu savienojumiem ar Eiropu un platjoslas satelītam, Grenlandē labi sakari ir ar 93% iedzīvotāju, kuriem ir piekļuve internetam. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+"Viena no izcilākajām šīs kategorijas lietotnēm ir „Google Translate”, kurā pēc vajadzīgās valodas datu lejupielādes iespējams tulkot bezsaistē.",science/technology,geography,"<|begin_of_text|>SENTENCE:
+ Viena no izcilākajām šīs kategorijas lietotnēm ir „Google Translate”, kurā pēc vajadzīgās valodas datu lejupielādes iespējams tulkot bezsaistē. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- None of the above (geography is"
+"Tam ir vienāda molekulārā struktūra gāzveida, šķidruma un cietā formā.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Tam ir vienāda molekulārā struktūra gāzveida, šķidruma un cietā formā. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: -science
+EXPLANATION:
+Šeit"
+"Videoierakstu izmantošana ir novedusi pie svarīgiem atklājumiem mikro izteiksmju - sejas kustību, kas ilgst dažas milisekundes - interpretācijā.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Videoierakstu izmantošana ir novedusi pie svarīgiem atklājumiem mikro izteiksmju - sejas kustību, kas ilgst dažas milisekundes - interpretācijā. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+This sentence"
+Cilvēki jau tūkstošiem gadu izgatavo un izmanto palielināmos stiklus.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Cilvēki jau tūkstošiem gadu izgatavo un izmanto palielināmos stiklus. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Šī"
+"Pastāv arī  eksperimentēšana, un eksperiments ir tests, kas tiek izmantots, lai izslēgtu vienu vai vairākas iespējamās hipotēzes. Jautājumu uzdošana un novērojumi arī var virzīt zinātnisko pētniecību.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Pastāv arī  eksperimentēšana, un eksperiments ir tests, kas tiek izmantots, lai izslēgtu vienu vai vairākas iespējamās hipotēzes. Jautājumu uzdošana un novērojumi arī var virzīt zinātnisko pētniecību. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Šī"
+Galu galā koka riteņi tika nomainīti ar dzelzs riteņiem. 1767. gadā tika ieviestas pirmās pilnībā no dzelzs izgatavotās sliedes.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Galu galā koka riteņi tika nomainīti ar dzelzs riteņiem. 1767. gadā tika ieviestas pirmās pilnībā no dzelzs izgatavotās sliedes. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Šī"
+"Lai gan lielāko daļu karšu var izmantot zvanīšanai uz jebkuru valsti, dažām kartēm tiek piedāvāti izdevīgi tarifi zvanīšanai uz noteiktām valstu grupām.",science/technology,travel,"<|begin_of_text|>SENTENCE:
+ Lai gan lielāko daļu karšu var izmantot zvanīšanai uz jebkuru valsti, dažām kartēm tiek piedāvāti izdevīgi tarifi zvanīšanai uz noteiktām valstu grupām. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Šī"
+"Vairums izpētei paredzēto mūsdienu teleskopu ir milzīgas ēkas, kas atrodas attālos rajonos ar labvēlīgiem atmosfēras apstākļiem.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Vairums izpētei paredzēto mūsdienu teleskopu ir milzīgas ēkas, kas atrodas attālos rajonos ar labvēlīgiem atmosfēras apstākļiem. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Šī"
+Tērauda adata peld pa ūdens virsmu virsmas spraiguma dēļ.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Tērauda adata peld pa ūdens virsmu virsmas spraiguma dēļ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Tē"
+"35 mm formāts patiesībā, nedaudz mulsinoši, ir 36 mm platumā un 24 mm augstumā.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ 35 mm formāts patiesībā, nedaudz mulsinoši, ir 36 mm platumā un 24 mm augstumā. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+The sentence"
+"Šūnas ir būtiski pamatelementi dzīvu būtņu pētniecībā, ka patiesība tās bieži vien sauc par ""dzīvības pamatsastāvdaļām"".",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Šūnas ir būtiski pamatelementi dzīvu būtņu pētniecībā, ka patiesība tās bieži vien sauc par ""dzīvības pamatsastāvdaļām"". 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Šū"
+"Personīgā VPN (virtuāls privāts tīkls) nodrošinātāji ir izcils veids, kā apiet gan politisko cenzūru, gan IP filtrēšanu pēc ģeogrāfiskās atrašanās vietas komerciālos nolūkos.",science/technology,politics,"<|begin_of_text|>SENTENCE:
+ Personīgā VPN (virtuāls privāts tīkls) nodrošinātāji ir izcils veids, kā apiet gan politisko cenzūru, gan IP filtrēšanu pēc ģeogrāfiskās atrašanās vietas komerciālos nolūkos. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+Šī"
+"Stacija saglabāja savu attieksmi līdz iziešanas kosmosā beigām, neskatoties uz žiroskopa pazaudēšanu agrāk kosmosa stacijas misijā.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Stacija saglabāja savu attieksmi līdz iziešanas kosmosā beigām, neskatoties uz žiroskopa pazaudēšanu agrāk kosmosa stacijas misijā. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+This sentence"
+"Cilvēkiem ar šāda veida domāšanu piemīt loģiskā domāšana, un viņi spēj iegaumēt modeļus, risināt problēmas un strādāt pie zinātniskiem izmēģinājumiem.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Cilvēkiem ar šāda veida domāšanu piemīt loģiskā domāšana, un viņi spēj iegaumēt modeļus, risināt problēmas un strādāt pie zinātniskiem izmēģinājumiem. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Šī"
+"Ocelotiem patīk ēst mazus dzīvniekus. Ja ir iespēja, viņi ķer pērtiķus, čūskas, grauzējus un putnus. Gandrīz visi dzīvnieki, kurus medī ocelots, ir daudz mazāki par viņu pašu.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Ocelotiem patīk ēst mazus dzīvniekus. Ja ir iespēja, viņi ķer pērtiķus, čūskas, grauzējus un putnus. Gandrīz visi dzīvnieki, kurus medī ocelots, ir daudz mazāki par viņu pašu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Ocel"
+"Dažām vidēja formāta filmu kamerām ir 6 x6 cm formāts, precīzāk, 56 x 56 mm negatīvs.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Dažām vidēja formāta filmu kamerām ir 6 x6 cm formāts, precīzāk, 56 x 56 mm negatīvs. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Šī"
+"Ceļotājiem ir ļoti ieteicams apzināties jebkādu bargu laikapstākļu risku, kas ietekmē teritoriju, jo tie var ietekmēt visus ceļojuma plānus.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Ceļotājiem ir ļoti ieteicams apzināties jebkādu bargu laikapstākļu risku, kas ietekmē teritoriju, jo tie var ietekmēt visus ceļojuma plānus. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Ce�"
+"Autobusi atiet no starppilsētu autobusu stacijas (otrpus upei) visas dienas garumā, taču vairums, jo īpaši austrumu virziena un Džakāras/Bumtangas maršrutos, atiet laikā no plkst. 06:30 līdz 07:30.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Autobusi atiet no starppilsētu autobusu stacijas (otrpus upei) visas dienas garumā, taču vairums, jo īpaši austrumu virziena un Džakāras/Bumtangas maršrutos, atiet laikā no plkst. 06:30 līdz 07:30. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The sentence"
+"Tie nodrošina lielāku jātnieka stabilitāti, bet var radīt bažas par drošību, jo jātnieka kājas var tajos iestrēgt.",travel,health,"<|begin_of_text|>SENTENCE:
+ Tie nodrošina lielāku jātnieka stabilitāti, bet var radīt bažas par drošību, jo jātnieka kājas var tajos iestrēgt. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health
+EXPLANATION:
+Šīs"
+"Vairākumā atšķirīgo Baltijas jūras kruīzu ir ietverta pagarināta uzturēšanās Sanktpēterburgā, Krievijā.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Vairākumā atšķirīgo Baltijas jūras kruīzu ir ietverta pagarināta uzturēšanās Sanktpēterburgā, Krievijā. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+ REASONING:
+ This question"
+"Padomā tiek pieņemts, ka ceļotāji nezog, nepārkāpj, nepiedalās nelegālajā tirgū, nelūdz un kā citādi neizmanto citus cilvēkus sava labuma gūšanai.",travel,politics,"<|begin_of_text|>SENTENCE:
+ Padomā tiek pieņemts, ka ceļotāji nezog, nepārkāpj, nepiedalās nelegālajā tirgū, nelūdz un kā citādi neizmanto citus cilvēkus sava labuma gūšanai. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+The sentence"
+Pirms ceļošanas un tās laikā jums ir jāņem vērā daudzas lietas.,travel,travel,"<|begin_of_text|>SENTENCE:
+ Pirms ceļošanas un tās laikā jums ir jāņem vērā daudzas lietas. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Šī"
+"Dienas karstajā laikā ceļotāji var redzēt mirāžu, kas rada ūdens (vai citu lietu) ilūziju.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Dienas karstajā laikā ceļotāji var redzēt mirāžu, kas rada ūdens (vai citu lietu) ilūziju. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Šī"
+"Ģimenes ar bērniem ir ļoti reta parādība, taču daži hosteļi ļauj tiem apmesties privātās istabās.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Ģimenes ar bērniem ir ļoti reta parādība, taču daži hosteļi ļauj tiem apmesties privātās istabās. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Šī"
+"Piemēram, apmeklēt pilis Luāras ielejā, Reinas ielejā vai doties kruīza izbraucienā uz interesantām vietām pa Donavu vai braukt ar kuģīti pa Erijas kanālu.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Piemēram, apmeklēt pilis Luāras ielejā, Reinas ielejā vai doties kruīza izbraucienā uz interesantām vietām pa Donavu vai braukt ar kuģīti pa Erijas kanālu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Šī"
+"Varētu būt noderīgāk izmantot aģentu, kas bieži pasūta jūsu braucienam līdzīgus braucienus.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Varētu būt noderīgāk izmantot aģentu, kas bieži pasūta jūsu braucienam līdzīgus braucienus. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+REASONING:
+This sentence"
+"Couchsurfing platforma tika izveidota 2004. gada janvārī pēc tam, kad datorprogrammētājs Keisijs Fentons atrada lētu lidojumu uz Islandi, taču viņam nebija, kur apmesties.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Couchsurfing platforma tika izveidota 2004. gada janvārī pēc tam, kad datorprogrammētājs Keisijs Fentons atrada lētu lidojumu uz Islandi, taču viņam nebija, kur apmesties. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Šī"
+Studentu vīzām parasti ir atšķirīgas prasības un pieteikšanās kārtība nekā parastajām tūrisma vai biznesa vīzām.,travel,travel,"<|begin_of_text|>SENTENCE:
+ Studentu vīzām parasti ir atšķirīgas prasības un pieteikšanās kārtība nekā parastajām tūrisma vai biznesa vīzām. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Šī"
+"Katrai valstij ir arī savi unikāli likumi, kuri nosaka, kādiem ārkārtas situācijas priekšmetiem ir jāatrodas automašīnā.",travel,geography,"<|begin_of_text|>SENTENCE:
+ Katrai valstij ir arī savi unikāli likumi, kuri nosaka, kādiem ārkārtas situācijas priekšmetiem ir jāatrodas automašīnā. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+REASONING:
+This"
+"Lai arī vairums aģentūru labprāt pieņem izplatītākos pasūtījumus, daudzi aģenti specializējas konkrētos ceļojumu veidos un piedāvā ceļojumus noteiktu budžetu ietvaros vai uz noteiktiem galamērķiem.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Lai arī vairums aģentūru labprāt pieņem izplatītākos pasūtījumus, daudzi aģenti specializējas konkrētos ceļojumu veidos un piedāvā ceļojumus noteiktu budžetu ietvaros vai uz noteiktiem galamērķiem. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Šī"
+"Ceļotāji var saskarties ar dzīvnieku parazītiem, kuri viņiem nav zināmi viņu dzimtajos reģionos.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Ceļotāji var saskarties ar dzīvnieku parazītiem, kuri viņiem nav zināmi viņu dzimtajos reģionos. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Šī"
+"Tālāk uz ziemeļiem apmeklējiet arī Dievmātes sanktuāriju Fatimas pilsētā (svētnīcu), kas ir slavena visā pasaulē ar Jaunavas Marijas parādīšanos.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Tālāk uz ziemeļiem apmeklējiet arī Dievmātes sanktuāriju Fatimas pilsētā (svētnīcu), kas ir slavena visā pasaulē ar Jaunavas Marijas parādīšanos. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Šī"
+"Lai pārvietotos pa Gomu, varat izmantot „boda-boda” (motociklu taksometrs). Parastā (vietējā) cena par īsu braucienu ir aptuveni 500 Kongo franki.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Lai pārvietotos pa Gomu, varat izmantot „boda-boda” (motociklu taksometrs). Parastā (vietējā) cena par īsu braucienu ir aptuveni 500 Kongo franki. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Šī"
+"Tiem, kam patīk aktivitātes brīvajā dabā, noteikti jāizmēģina dabas takas kalnu pārejas reģionā ""Sea to Sky"".",travel,travel,"<|begin_of_text|>SENTENCE:
+ Tiem, kam patīk aktivitātes brīvajā dabā, noteikti jāizmēģina dabas takas kalnu pārejas reģionā ""Sea to Sky"". 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Šī"
+"Safari gājiens (ko sauc arī par ""krūmu gājienu"", ""safari pārgājienu"" vai iešanu ""ar kājām"") ir pārgājiens, kas var ilgt no dažām stundām līdz pat vairākām dienām.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Safari gājiens (ko sauc arī par ""krūmu gājienu"", ""safari pārgājienu"" vai iešanu ""ar kājām"") ir pārgājiens, kas var ilgt no dažām stundām līdz pat vairākām dienām. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+DEFINITION:
+Safari"
+"Vienīgais veids, kā ātrāk to nokārtot, bija nosūtīt to kā reģistrētu bagāžu. Aviokompānijas noteikumi neļaus viņiem sūtīt bagāžu bez pasažiera, tad jums vajadzēs iesaistīties.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Vienīgais veids, kā ātrāk to nokārtot, bija nosūtīt to kā reģistrētu bagāžu. Aviokompānijas noteikumi neļaus viņiem sūtīt bagāžu bez pasažiera, tad jums vajadzēs iesaistīties. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Šī"
+"Iegādājoties papildu 300 vagonus, pavisam kopā būs 1300, tādējādi mazinot pasažieru pārpildītību.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Iegādājoties papildu 300 vagonus, pavisam kopā būs 1300, tādējādi mazinot pasažieru pārpildītību. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+This sentence"
+"Ģimenēm ar maziem bērniem var būt nepieciešama lielāka sagatavošanās, taču dienu brīvā dabā var viegli pavadīt pat ar zīdaiņiem vai pirmsskolas bērniem.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Ģimenēm ar maziem bērniem var būt nepieciešama lielāka sagatavošanās, taču dienu brīvā dabā var viegli pavadīt pat ar zīdaiņiem vai pirmsskolas bērniem. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Šī"
+"Ikvienam, kurš grasās vadīt transportlīdzekli polārajos rajonos vai pār kalnu pārejām, jāņem vērā sniega, ledus vai stindzinošu temperatūru iespējamība.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Ikvienam, kurš grasās vadīt transportlīdzekli polārajos rajonos vai pār kalnu pārejām, jāņem vērā sniega, ledus vai stindzinošu temperatūru iespējamība. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Šī"
+"Mūsdienās Timbuktu ir nabadzīga pilsēta, lai gan tās reputācija padara to par tūristus piesaistošu objektu un tai ir lidosta.",travel,geography,"<|begin_of_text|>SENTENCE:
+ Mūsdienās Timbuktu ir nabadzīga pilsēta, lai gan tās reputācija padara to par tūristus piesaistošu objektu un tai ir lidosta. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+Ge"
+"Sniegavētrās pavisam īsā laika var uzsnigt tik daudz sniega, kas var radīt sastrēgumu.",travel,science/technology,"<|begin_of_text|>SENTENCE:
+ Sniegavētrās pavisam īsā laika var uzsnigt tik daudz sniega, kas var radīt sastrēgumu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+This sentence"
+"Ja vēlaties aplidot apkārt pasaulei tikai dienvidu puslodē, ir ierobežota reisu un galamērķu izvēle, jo nav maršrutu pāri okeānam.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Ja vēlaties aplidot apkārt pasaulei tikai dienvidu puslodē, ir ierobežota reisu un galamērķu izvēle, jo nav maršrutu pāri okeānam. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Šī"
+"Vairākas aviokompānijas, piemēram, ""Emirates"", ""Etihad Airways"", ""Qatar Airways"" un ""Turkish Airlines"" ir ievērojami paplašinājušas savus maršrutus uz Āfriku un piedāvā reisus uz daudzām lielākajām Āfrikas pilsētām par daudz izdevīgākām cenām nekā citas Eiropas valstu aviolīnijas.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Vairākas aviokompānijas, piemēram, ""Emirates"", ""Etihad Airways"", ""Qatar Airways"" un ""Turkish Airlines"" ir ievērojami paplašinājušas savus maršrutus uz Āfriku un piedāvā reisus uz daudzām lielākajām Āfrikas pilsētām par daudz izdevīgākām cenām nekā citas Eiropas valstu aviolīnijas. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Šī"
+"Netiek plānota papildu transportlīdzekļu pievienošana, virszemes vilcieni pie Vemblija stadiona neapstāsies, bet autostāvvietas un „novieto un brauc” iespējas šajā vietā nebūs pieejamas.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Netiek plānota papildu transportlīdzekļu pievienošana, virszemes vilcieni pie Vemblija stadiona neapstāsies, bet autostāvvietas un „novieto un brauc” iespējas šajā vietā nebūs pieejamas. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+ REASONING:
+ This question"
+"Parasti, lai uzturētos citā valstī ilgstoši, iepriekš jāsaņem vīza.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Parasti, lai uzturētos citā valstī ilgstoši, iepriekš jāsaņem vīza. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Šī"
+"Ikvienam vilcienam ir gan ""MetroPlus"", gan ""Metro"" vagoni. ""MetroPlus"" vagoni vienmēr atrodas vilciena galā tuvāk Keiptaunai.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Ikvienam vilcienam ir gan ""MetroPlus"", gan ""Metro"" vagoni. ""MetroPlus"" vagoni vienmēr atrodas vilciena galā tuvāk Keiptaunai. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Šī"
+Ikviens ir sabiedrības daļa un piedalās transporta sistēmās. Gandrīz ikviens sūdzas par transporta sistēmām.,travel,N/A,"<|begin_of_text|>SENTENCE:
+ Ikviens ir sabiedrības daļa un piedalās transporta sistēmās. Gandrīz ikviens sūdzas par transporta sistēmām. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- None of the above 
+ REASONING"
+"Tā kā šīs teritorijas nav blīvi apdzīvotas un līdz ar to gaismas piesārņojums bieži vien nerada problēmu, jūs varēsiet arī lūkoties zvaigznēs.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Tā kā šīs teritorijas nav blīvi apdzīvotas un līdz ar to gaismas piesārņojums bieži vien nerada problēmu, jūs varēsiet arī lūkoties zvaigznēs. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Šī"
+"Vīzu prasības un izmaksas dažādās valstīs ir atšķirīgas, un tās ietekmē tas, no kuras valsts esat.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Vīzu prasības un izmaksas dažādās valstīs ir atšķirīgas, un tās ietekmē tas, no kuras valsts esat. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Šī"
+Būtībā nav nozīmes pat meklēt atlaides biznesa vai pirmās klases sēdvietām tiešajos lidojumos no A uz B.,travel,travel,"<|begin_of_text|>SENTENCE:
+ Būtībā nav nozīmes pat meklēt atlaides biznesa vai pirmās klases sēdvietām tiešajos lidojumos no A uz B. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The sentence"
+"Bumeranga mešana ir populāra prasme, ko vēlas apgūt daudzi tūristi.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Bumeranga mešana ir populāra prasme, ko vēlas apgūt daudzi tūristi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Bumer"
+"Šis lidojums nav vienīgā iespēja, ja vēlaties izlaist Klusā okeāna dienvidu daļu un Dienvidamerikas rietumu krastu. (skatīt zemāk)",travel,travel,"<|begin_of_text|>SENTENCE:
+ Šis lidojums nav vienīgā iespēja, ja vēlaties izlaist Klusā okeāna dienvidu daļu un Dienvidamerikas rietumu krastu. (skatīt zemāk) 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+REASONING SKILL:
+"
+"Sanfrancisko ir plaši attīstīta tūrisma infrastruktūra, kurā ietilpst daudz viesnīcu, restorānu un augstākā līmeņa ēku sanāksmju rīkošanai.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Sanfrancisko ir plaši attīstīta tūrisma infrastruktūra, kurā ietilpst daudz viesnīcu, restorānu un augstākā līmeņa ēku sanāksmju rīkošanai. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Šī"
+"Brīvprātīgais darbs ceļojuma laikā ir lielisks veids, kā kaut ko mainīt, bet runa nav tikai par došanu.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Brīvprātīgais darbs ceļojuma laikā ir lielisks veids, kā kaut ko mainīt, bet runa nav tikai par došanu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+REASONING:
+This question"
+"Cilvēki var nenojaust, ka arī ceļotājiem, kuri atgriežas mājās, ir nepieciešama pacietība un sapratne.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Cilvēki var nenojaust, ka arī ceļotājiem, kuri atgriežas mājās, ir nepieciešama pacietība un sapratne. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Šī"
+"Neaizmirstiet pierēķināt papildu izmaksas par papildu vīzām, izlidošanas nodokļiem, sauszemes transportu u.c. visās vietās ārpus Āfrikas.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Neaizmirstiet pierēķināt papildu izmaksas par papildu vīzām, izlidošanas nodokļiem, sauszemes transportu u.c. visās vietās ārpus Āfrikas. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+This sentence"
+"Vairāki Biškekas iedzīvotāji nelikumībās vainoja protestētājus, kas bija ieradušies no dienvidiem.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Vairāki Biškekas iedzīvotāji nelikumībās vainoja protestētājus, kas bija ieradušies no dienvidiem. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+This sentence"
+"Beļģijas tagadējās daļas senāk piederēja Luksemburgai, taču tika pievienotas Beļģijai pēc 1830. gadu revolūcijas.",politics,geography,"<|begin_of_text|>SENTENCE:
+ Beļģijas tagadējās daļas senāk piederēja Luksemburgai, taču tika pievienotas Beļģijai pēc 1830. gadu revolūcijas. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+The"
+"Kopš 1988. gada vēlēšanu urnām ir jābūt caurspīdīgām, lai vēlētāji un novērotāji var apliecināt, ka vēlēšanu sākumā tajās nav nevienas aploksnes un ka netiek pievienotas nekādas citas aploksnes, izņemot pienācīgi reģistrēto un pilnvaroto vēlētāju aploksnes.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Kopš 1988. gada vēlēšanu urnām ir jābūt caurspīdīgām, lai vēlētāji un novērotāji var apliecināt, ka vēlēšanu sākumā tajās nav nevienas aploksnes un ka netiek pievienotas nekādas citas aploksnes, izņemot pienācīgi reģistrēto un pilnvaroto vēlētāju aploksnes. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+Šī"
+"Premjerministra vietas izpildītāja Džūlija Gilarde 2010. gada federālo vēlēšanu kampaņas laikā apgalvoja, ka, viņasprāt, pēc Karalienes Elizabetes II valdīšanas beigām Austrālijai būtu jākļūst par republiku.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Premjerministra vietas izpildītāja Džūlija Gilarde 2010. gada federālo vēlēšanu kampaņas laikā apgalvoja, ka, viņasprāt, pēc Karalienes Elizabetes II valdīšanas beigām Austrālijai būtu jākļūst par republiku. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+politics
+EXPLANATION:
+Šī"
+Situācijas labošanai Īrijas valdība uzsver parlamentārās likumdošanas steidzamību.,politics,politics,"<|begin_of_text|>SENTENCE:
+ Situācijas labošanai Īrijas valdība uzsver parlamentārās likumdošanas steidzamību. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+This sentence"
+Diplomātiskie strīdi attiecībā par šo reģionu joprojām bojā attiecības starp Armēniju un Azerbaidžānu.,politics,politics,"<|begin_of_text|>SENTENCE:
+ Diplomātiskie strīdi attiecībā par šo reģionu joprojām bojā attiecības starp Armēniju un Azerbaidžānu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+This sentence"
+"Otrdien pēc 25 minūšu ilgas tikšanās savā birojā ar Jaunās demokrātiskās partijas (NDP) vadītāju Džeku Leitonu premjerministrs Stīvens Hārpers piekrita valdības Likumu par tīru gaisu nosūtīt komitejai, kurā ietilpst visas partijas, lai tā to izskatītu pirms otrā lasījuma.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Otrdien pēc 25 minūšu ilgas tikšanās savā birojā ar Jaunās demokrātiskās partijas (NDP) vadītāju Džeku Leitonu premjerministrs Stīvens Hārpers piekrita valdības Likumu par tīru gaisu nosūtīt komitejai, kurā ietilpst visas partijas, lai tā to izskatītu pirms otrā lasījuma. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+politics
+EXPLANATION:
+Šī"
+"Pagājušajā mēnesī, kad valsts parakstīja ACTA līgumu, Polijā norisinājās lieli protesti, tādēļ Polijas valdība nolēma šo līgumu pagaidām neratificēt.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Pagājušajā mēnesī, kad valsts parakstīja ACTA līgumu, Polijā norisinājās lieli protesti, tādēļ Polijas valdība nolēma šo līgumu pagaidām neratificēt. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+Šī"
+Ceļveži sniedz tikai īsu apkopojumu par politisko situāciju vienā valstī.,politics,politics,"<|begin_of_text|>SENTENCE:
+ Ceļveži sniedz tikai īsu apkopojumu par politisko situāciju vienā valstī. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+Ce�"
+"1976. gada vēlēšanās viņš konsultēja Kārteru par ārpolitiku; pēc tam no 1977. līdz 1981. gadam no viņš ieņēma nacionālās drošības padomnieka (NSA) amatu, pārņemot Henrija Kisingera pienākumus.",politics,politics,"<|begin_of_text|>SENTENCE:
+ 1976. gada vēlēšanās viņš konsultēja Kārteru par ārpolitiku; pēc tam no 1977. līdz 1981. gadam no viņš ieņēma nacionālās drošības padomnieka (NSA) amatu, pārņemot Henrija Kisingera pienākumus. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+Šī"
+"Turcija pārņems arī sagūstīto ISIS kaujinieku apsargāšanu, kurus, kā teikts paziņojumā, Eiropas valstis ir atteikušās repatriēt.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Turcija pārņems arī sagūstīto ISIS kaujinieku apsargāšanu, kurus, kā teikts paziņojumā, Eiropas valstis ir atteikušās repatriēt. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+This sentence"
+"Tomēr šie plāni morāli novecoja gandrīz vai dienas laikā, kad ieradās vairāk nekā 800 000 Padomju Savienības Sarkanās Armijas karavīru un izveidoja Baltkrievijas un Ukrainas frontes pēc tam, kad bija okupējuši Polijas austrumu reģionus, pārkāpjot Rīgas miera līgumu, Padomju-Polijas neagresijas paktu un citus starptautiskos divpusējos un daudzpusējos līgumus.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Tomēr šie plāni morāli novecoja gandrīz vai dienas laikā, kad ieradās vairāk nekā 800 000 Padomju Savienības Sarkanās Armijas karavīru un izveidoja Baltkrievijas un Ukrainas frontes pēc tam, kad bija okupējuši Polijas austrumu reģionus, pārkāpjot Rīgas miera līgumu, Padomju-Polijas neagresijas paktu un citus starptautiskos divpusējos un daudzpusējos līgumus. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+politics
+EXPLANATION:
+Šī"
+"Procesam beidzoties, HJR-3 atkārtoti izskatīs nākamā ievēlētā likumdevēja vara 2015. vai 2016. gadā, lai tā arī turpmāk tiktu iesaistīta procesā.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Procesam beidzoties, HJR-3 atkārtoti izskatīs nākamā ievēlētā likumdevēja vara 2015. vai 2016. gadā, lai tā arī turpmāk tiktu iesaistīta procesā. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+HJR"
+"Pēc tās pieņemšanas Kongresā 4. jūlijā, Kongresa prezidenta Džona Hankoka un sekretāra Čārlza Tomsona ar roku parakstītais dokumenta projekts tika nosūtīts Džona Dunlapa tipogrāfijai, kas atradās pāris kvartālus tālāk.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Pēc tās pieņemšanas Kongresā 4. jūlijā, Kongresa prezidenta Džona Hankoka un sekretāra Čārlza Tomsona ar roku parakstītais dokumenta projekts tika nosūtīts Džona Dunlapa tipogrāfijai, kas atradās pāris kvartālus tālāk. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+politics
+EXPLANATION:
+Šī"
+Uzreiz pēc plkst. 11.00 protestētāji Vaitholā bloķēja satiksmi uz brauktuves ziemeļu virzienā.,politics,politics,"<|begin_of_text|>SENTENCE:
+ Uzreiz pēc plkst. 11.00 protestētāji Vaitholā bloķēja satiksmi uz brauktuves ziemeļu virzienā. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+Šī"
+"Tomēr 1956. gada jūnijā Hruščova solījumu patiesums tika pārbaudīts, kad Polijā sākās nemieri, kuros strādnieki protestēja pret pārtikas trūkumu un algu samazinājumu un kuri kļuva par vispārēju protestu pret komunismu.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Tomēr 1956. gada jūnijā Hruščova solījumu patiesums tika pārbaudīts, kad Polijā sākās nemieri, kuros strādnieki protestēja pret pārtikas trūkumu un algu samazinājumu un kuri kļuva par vispārēju protestu pret komunismu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+Šī"
+"Tam bija lemts ilgt nākamos 40 gadus un, izmantojot pastarpinātas armijas, tika veikta reāla karadarbība kaujaslaukos no Āfrikas līdz Āzijai, Afganistānā, Kubā un daudzās citās vietās.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Tam bija lemts ilgt nākamos 40 gadus un, izmantojot pastarpinātas armijas, tika veikta reāla karadarbība kaujaslaukos no Āfrikas līdz Āzijai, Afganistānā, Kubā un daudzās citās vietās. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+Šī"
+"Pagājušajā mēnesī prezidenta komisija rosināja agrāku CEP atkāpšanos kā daļu no pasākumu paketes, kas paredzēta, lai tuvinātu valsti jaunām vēlēšanām.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Pagājušajā mēnesī prezidenta komisija rosināja agrāku CEP atkāpšanos kā daļu no pasākumu paketes, kas paredzēta, lai tuvinātu valsti jaunām vēlēšanām. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+Šī"
+"Kā ziņots, tika pārrunāti arī tādi temati kā Jeruzalemes, kas ir svēta abām tautām, turpmākais stāvoklis un Jordānas ielejas jautājums.",politics,geography,"<|begin_of_text|>SENTENCE:
+ Kā ziņots, tika pārrunāti arī tādi temati kā Jeruzalemes, kas ir svēta abām tautām, turpmākais stāvoklis un Jordānas ielejas jautājums. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+The"
+Tam arī nebija pilnvaru atcelt nodokļu tiesību aktus un tarifus starp valstīm.,politics,politics,"<|begin_of_text|>SENTENCE:
+ Tam arī nebija pilnvaru atcelt nodokļu tiesību aktus un tarifus starp valstīm. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+This sentence"
+Francijas vēlēšanu likums nosaka diezgan stingru kārtību attiecībā uz velēšanu procesu.,politics,politics,"<|begin_of_text|>SENTENCE:
+ Francijas vēlēšanu likums nosaka diezgan stingru kārtību attiecībā uz velēšanu procesu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+The sentence"
+Nedēļu pēc zaudēšanas vidustermiņa vēlēšanās Bušs paziņoja klātesošajiem par tirdzniecības paplašināšanu Āzijā.,politics,politics,"<|begin_of_text|>SENTENCE:
+ Nedēļu pēc zaudēšanas vidustermiņa vēlēšanās Bušs paziņoja klātesošajiem par tirdzniecības paplašināšanu Āzijā. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+Šī"
+"Stratēģija izrādījās efektīva, pārtraucot vitāli svarīgas militārās un civilās piegādes, kaut arī šī blokāde pārkāpa vispārpieņemtos starptautiskos tiesību aktus, kas kodificēti vairākos pēdējo divu gadsimtu starptautiskajos līgumos.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Stratēģija izrādījās efektīva, pārtraucot vitāli svarīgas militārās un civilās piegādes, kaut arī šī blokāde pārkāpa vispārpieņemtos starptautiskos tiesību aktus, kas kodificēti vairākos pēdējo divu gadsimtu starptautiskajos līgumos. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+This sentence"
+Par spīti nesekmīgajām politiskajām sarunām starp šīm abām Moldovas daļām ir atjaunotas ekonomiskās saites.,politics,politics,"<|begin_of_text|>SENTENCE:
+ Par spīti nesekmīgajām politiskajām sarunām starp šīm abām Moldovas daļām ir atjaunotas ekonomiskās saites. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+Šī"
+"Viņš kopā ar šiem ierēdņiem pārliecināja Teksasas iedzīvotājus, ka tiek veikti pasākumi, lai aizsargātu sabiedrības drošību.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Viņš kopā ar šiem ierēdņiem pārliecināja Teksasas iedzīvotājus, ka tiek veikti pasākumi, lai aizsargātu sabiedrības drošību. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+Šī"
+"Liberāļu kritikas par atjaunošanas pasākumiem centrā ir aizdomas, ka Vašingtons atjaunošanas līgumus piešķir „saviem cilvēkiem”.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Liberāļu kritikas par atjaunošanas pasākumiem centrā ir aizdomas, ka Vašingtons atjaunošanas līgumus piešķir „saviem cilvēkiem”. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+This sentence"
+"No 1400 iedzīvotājiem, kas tika aptaujāti pirms 2010. gada federālajām vēlēšanām, to cilvēku skaits, kas iebilda pret Austrālijas kā republikas pārveidi, bija pieaudzis par 8 procentiem salīdzinājumā ar 2008. gadu.",politics,politics,"<|begin_of_text|>SENTENCE:
+ No 1400 iedzīvotājiem, kas tika aptaujāti pirms 2010. gada federālajām vēlēšanām, to cilvēku skaits, kas iebilda pret Austrālijas kā republikas pārveidi, bija pieaudzis par 8 procentiem salīdzinājumā ar 2008. gadu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics 
+EXPLANATION:
+Šī"
+"Diplomāti sacīja, ka viņi ir atraduši pietiekami daudz neskaidrību Afganistānas konstitūcijā, lai atzītu vēlēšanu kārtu par nevajadzīgu.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Diplomāti sacīja, ka viņi ir atraduši pietiekami daudz neskaidrību Afganistānas konstitūcijā, lai atzītu vēlēšanu kārtu par nevajadzīgu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+Šī"
+"Pēc rezultātu paziņošanas Gingričs uzslavēja Santorumu, taču nelabvēlīgi izteicās par Romniju, kura vārdā Aiovas štatā pret Gingriču gaisā plīvoja nomelnojoši kampaņas plakāti.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Pēc rezultātu paziņošanas Gingričs uzslavēja Santorumu, taču nelabvēlīgi izteicās par Romniju, kura vārdā Aiovas štatā pret Gingriču gaisā plīvoja nomelnojoši kampaņas plakāti. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+politics
+EXPLANATION:
+Šī"
+Tas ir Marteli piektais CEP četros gados.,politics,travel,"<|begin_of_text|>SENTENCE:
+ Tas ir Marteli piektais CEP četros gados. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+REASONING:
+This sentence"
+"Olimpiskajam zelta medaļniekam Sadraudzības spēlēs bija jāpeld 100 m un 200 m brīvajā stilā un trīs stafetēs, taču viņa sūdzību dēļ viņa sagatavotība tiek apšaubīta.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Olimpiskajam zelta medaļniekam Sadraudzības spēlēs bija jāpeld 100 m un 200 m brīvajā stilā un trīs stafetēs, taču viņa sūdzību dēļ viņa sagatavotība tiek apšaubīta. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+This sentence"
+Vēl bez bijuša olimpiskā un pasaules čempiona titula Saito savas nāves brīdī ieņēma arī Visjapānas džudo federācijas Treniņu komitejas priekšsēdētāja amatu.,sports,sports,"<|begin_of_text|>SENTENCE:
+ Vēl bez bijuša olimpiskā un pasaules čempiona titula Saito savas nāves brīdī ieņēma arī Visjapānas džudo federācijas Treniņu komitejas priekšsēdētāja amatu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+The SENT"
+"Starptautiskā Olimpiskā komiteja šodien Berlīnē notikušajā valdes sēdē balsoja par sporta veidu iekļaušanu. No pieciem citiem sporta veidiem tika izvēlēti regbijs, īpaši regbija savienība, un golfs, lai apsvērtu to iekļaušanu olimpiskajās spēlēs.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Starptautiskā Olimpiskā komiteja šodien Berlīnē notikušajā valdes sēdē balsoja par sporta veidu iekļaušanu. No pieciem citiem sporta veidiem tika izvēlēti regbijs, īpaši regbija savienība, un golfs, lai apsvērtu to iekļaušanu olimpiskajās spēlēs. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+sports
+EXPLANATION:
+Šīs"
+Gada lielākais turnīrs notiek decembrī Las Kanjitas polo laukumos.,sports,sports,"<|begin_of_text|>SENTENCE:
+ Gada lielākais turnīrs notiek decembrī Las Kanjitas polo laukumos. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+ REASONING SKILL:"
+Kopš pārcelšanās uz Katalonijas galvaspilsētu Vidals kluba sastāvā ir aizvadījis 49 spēles.,sports,sports,"<|begin_of_text|>SENTENCE:
+ Kopš pārcelšanās uz Katalonijas galvaspilsētu Vidals kluba sastāvā ir aizvadījis 49 spēles. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+ REASONING:
+ This question"
+"Uzturot veselīgu enerģijas līdzsvaru, praktizējot efektīvus ūdens uzņemšanas paradumus un izprotot dažādus sporta uztura bagātinātāju lietošanas aspektus, atlēti var uzlabot savu sniegumu un vairāk izbaudīt sportošanu.",sports,health,"<|begin_of_text|>SENTENCE:
+ Uzturot veselīgu enerģijas līdzsvaru, praktizējot efektīvus ūdens uzņemšanas paradumus un izprotot dažādus sporta uztura bagātinātāju lietošanas aspektus, atlēti var uzlabot savu sniegumu un vairāk izbaudīt sportošanu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+health
+REASONING:
+This sentence is"
+"Trešajā Hamlins atpalika par divdesmit punktiem, lai gan viņam bija par pieciem punktiem vairāk nekā Boijeram. Kāne un Truē jaunākais ir piektajā un sestajā vietā attiecīgi ar 2220 un 2207 punktiem.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Trešajā Hamlins atpalika par divdesmit punktiem, lai gan viņam bija par pieciem punktiem vairāk nekā Boijeram. Kāne un Truē jaunākais ir piektajā un sestajā vietā attiecīgi ar 2220 un 2207 punktiem. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- None of the above (sports) 
+"
+Nadala rekords duelī pret kanādieti ir 7–2.,sports,sports,"<|begin_of_text|>SENTENCE:
+ Nadala rekords duelī pret kanādieti ir 7–2. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+ REASONING SKILL:
+"
+"Agrāk tajā pašā dienā Harke aizvadīja pirmssezonas treniņus Koverčiano, Itālijā. Viņš bija apmeties komandas viesnīcā pirms svētdien gaidāmā mača pret Boloņu.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Agrāk tajā pašā dienā Harke aizvadīja pirmssezonas treniņus Koverčiano, Itālijā. Viņš bija apmeties komandas viesnīcā pirms svētdien gaidāmā mača pret Boloņu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+Šī"
+"Bailes par transporta trūkumu palielināja iespēju, ka spēli nāksies spēlēt aiz aizvērtām durvīm bez komandas atbalstītājiem.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Bailes par transporta trūkumu palielināja iespēju, ka spēli nāksies spēlēt aiz aizvērtām durvīm bez komandas atbalstītājiem. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+Bailes"
+"Tomijs Drīmers sacīja: ""Luna bija pirmā Extreme karaliene. Mana pirmā menedžere. Luna nomira naktī, kad bija redzami divi Mēneši. Diezgan unikāli, tāpat kā viņa. Stipra sieviete.""",sports,entertainment,"<|begin_of_text|>SENTENCE:
+ Tomijs Drīmers sacīja: ""Luna bija pirmā Extreme karaliene. Mana pirmā menedžere. Luna nomira naktī, kad bija redzami divi Mēneši. Diezgan unikāli, tāpat kā viņa. Stipra sieviete."" 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+Š"
+"Polijas vājredzīgais slēpotājs Macejs Krecels un pavadone Anna Ogarzinska supergigantā ieguva trīspadsmito vietu. Dienvidkorejietis Jongs Seorks Paks vīriešu supergigantā, ko veica sēdus, finišēja divdesmit ceturtais.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Polijas vājredzīgais slēpotājs Macejs Krecels un pavadone Anna Ogarzinska supergigantā ieguva trīspadsmito vietu. Dienvidkorejietis Jongs Seorks Paks vīriešu supergigantā, ko veica sēdus, finišēja divdesmit ceturtais. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+sports
+EXPLANATION:
+This sentence is"
+"Informāciju par turnīriem un vietām, kur var iegādāties biļetes uz polo spēlēm, meklējiet asociācijas ""Asociacion Argentina de Polo"" vietnē.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Informāciju par turnīriem un vietām, kur var iegādāties biļetes uz polo spēlēm, meklējiet asociācijas ""Asociacion Argentina de Polo"" vietnē. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+Šī"
+"Spēles sākās plkst. 10:00 lieliskos laikapstākļos, un, ja neskaita rīta vidusdaļas nelielo lietu, kas ātri beidzās, tā bija lieliska diena ""7"" regbijam.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Spēles sākās plkst. 10:00 lieliskos laikapstākļos, un, ja neskaita rīta vidusdaļas nelielo lietu, kas ātri beidzās, tā bija lieliska diena ""7"" regbijam. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+The sentence"
+"Meksikas sportists Ārlijs Velaskess finišēja piecpadsmitais vīriešu gigantiskajā slalomā, startējot sēdus. Jaunzēlandes sportists Edams Hols finišēja devītais vīriešu gigantiskajā slalomā, startējot stāvus.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Meksikas sportists Ārlijs Velaskess finišēja piecpadsmitais vīriešu gigantiskajā slalomā, startējot sēdus. Jaunzēlandes sportists Edams Hols finišēja devītais vīriešu gigantiskajā slalomā, startējot stāvus. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+Šī"
+"Sērijas noslēguma spēle notiks nākamnedēļ Elisas parkā Johannesburgā, kad izlase ""Springboks"" spēlēs ar Austrālijas izlasi.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Sērijas noslēguma spēle notiks nākamnedēļ Elisas parkā Johannesburgā, kad izlase ""Springboks"" spēlēs ar Austrālijas izlasi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+The SENT"
+Labos apstākļos varēsiet pārvarēt lielākus attālumus nekā staigājot — tomēr jums ļoti reti izdosies sasniegt distanču slēpošanas ātrumu bez smagas mugursomas un gatavas trases.,sports,sports,"<|begin_of_text|>SENTENCE:
+ Labos apstākļos varēsiet pārvarēt lielākus attālumus nekā staigājot — tomēr jums ļoti reti izdosies sasniegt distanču slēpošanas ātrumu bez smagas mugursomas un gatavas trases. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+Šī"
+"Atpaliekot par 7 punktiem, Džonsons ar 2243 punktiem ieņem otro vietu.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Atpaliekot par 7 punktiem, Džonsons ar 2243 punktiem ieņem otro vietu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports 
+EXPLANATION:
+Šī"
+"Kanjonings nozīmē nolaisties līdz kanjona apakšai, kas var būt sausa vai piepildīta ar ūdeni.",sports,travel,"<|begin_of_text|>SENTENCE:
+ Kanjonings nozīmē nolaisties līdz kanjona apakšai, kas var būt sausa vai piepildīta ar ūdeni. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Kan"
+Robins Utapa īningos sasniedza visaugstāko rezultātu: 70 skrējienos trāpot tieši 41 bumbiņai un gūstot šādu rezultātu: 11 skrējieni 4 punktu vērtībā un 2 skrējieni 6 punktu vērtībā.,sports,sports,"<|begin_of_text|>SENTENCE:
+ Robins Utapa īningos sasniedza visaugstāko rezultātu: 70 skrējienos trāpot tieši 41 bumbiņai un gūstot šādu rezultātu: 11 skrējieni 4 punktu vērtībā un 2 skrējieni 6 punktu vērtībā. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+Šī"
+"Ziemas sporta veidi ir vispopulārākie ziemeļu reģionos, un itāļi sacenšas gan starptautiskajās, gan olimpiskajās spēlēs.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Ziemas sporta veidi ir vispopulārākie ziemeļu reģionos, un itāļi sacenšas gan starptautiskajās, gan olimpiskajās spēlēs. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+The SENT"
+"„Maroochydore” izcīnīja uzvaru, otrajā puslaikā pārspējot komandu „Noosa” ar 6:0.",sports,sports,"<|begin_of_text|>SENTENCE:
+ „Maroochydore” izcīnīja uzvaru, otrajā puslaikā pārspējot komandu „Noosa” ar 6:0. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports 
+EXPLANATION:
+The SENT"
+"Mihaels Šumahers beidza savas ātrumsacīkstes neilgi pēc Alonso, jo daudzo cīņu dēļ bija bojāta piekare.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Mihaels Šumahers beidza savas ātrumsacīkstes neilgi pēc Alonso, jo daudzo cīņu dēļ bija bojāta piekare. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+Šis"
+"Tikai ar pareizu uzturvielu uzņemšanu vien nevar nodrošināt augstas meistarības sniegumu, tomēr tā var ievērojami ietekmēt jauno atlētu vispārējo sagatavotību.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Tikai ar pareizu uzturvielu uzņemšanu vien nevar nodrošināt augstas meistarības sniegumu, tomēr tā var ievērojami ietekmēt jauno atlētu vispārējo sagatavotību. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+Šī"
+"Viņš nedrīkstēja lietot zāles, lai mazinātu sāpes, jo tie ir šajās spēlēs aizliegti pretsāpju līdzekļi.",sports,health,"<|begin_of_text|>SENTENCE:
+ Viņš nedrīkstēja lietot zāles, lai mazinātu sāpes, jo tie ir šajās spēlēs aizliegti pretsāpju līdzekļi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health
+EXPLANATION:
+This sentence is"
+"Pētījumos tika atklāts, ka sievietēm ir divreiz lielāka iespēja saslimt ar MS nekā vīriešiem.",health,health,"<|begin_of_text|>SENTENCE:
+ Pētījumos tika atklāts, ka sievietēm ir divreiz lielāka iespēja saslimt ar MS nekā vīriešiem. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health
+ REASONING:
+ This question requires"
+"Nelegālais alkohols var saturēt dažādus bīstamus piemaisījumus, tostarp metanolu, kas var izraisīt aklumu vai nāvi pat mazās devās.",health,health,"<|begin_of_text|>SENTENCE:
+ Nelegālais alkohols var saturēt dažādus bīstamus piemaisījumus, tostarp metanolu, kas var izraisīt aklumu vai nāvi pat mazās devās. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health
+EXPLANATION:
+This sentence is"
+"Strukturētas fizisko aktivitāšu nodarbības, kas notika regulāri katru nedēļu, izraisīja tikai dramatizēšanu, nevis depresiju un bailes.",health,health,"<|begin_of_text|>SENTENCE:
+ Strukturētas fizisko aktivitāšu nodarbības, kas notika regulāri katru nedēļu, izraisīja tikai dramatizēšanu, nevis depresiju un bailes. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+health
+REASONING:
+This question requires"
+"Liels daudzums privāto automašīnu nozīmē arī lielāku nelaimes gadījumu skaitu, kā rezultātā veselības aprūpē tiek izgudrotas jaunas metodes, kā salabot ķermeņu bojājumus.",health,health,"<|begin_of_text|>SENTENCE:
+ Liels daudzums privāto automašīnu nozīmē arī lielāku nelaimes gadījumu skaitu, kā rezultātā veselības aprūpē tiek izgudrotas jaunas metodes, kā salabot ķermeņu bojājumus. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health
+ REASONING:
+ This question requires"
+"Vadošie pētnieki teica, ka ar tā palīdzību, iespējams, varēs agrīni atklāt vēzi, tuberkulozi, HIV un malāriju pacientiem valstīs ar zemiem ienākumiem, kur izdzīvošanas rādītājs no tādām slimībām kā krūts vēzis var būt pat uz pusi zemāks nekā bagātākajās valstīs.",health,health,"<|begin_of_text|>SENTENCE:
+ Vadošie pētnieki teica, ka ar tā palīdzību, iespējams, varēs agrīni atklāt vēzi, tuberkulozi, HIV un malāriju pacientiem valstīs ar zemiem ienākumiem, kur izdzīvošanas rādītājs no tādām slimībām kā krūts vēzis var būt pat uz pusi zemāks nekā bagātākajās valstīs. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health
+ REASONING:
+ This question requires"
+"Dalhuzī Universitātes, kas atrodas Helifeksā, Jaunskotijā, medicīnas profesors un Kanādas Diabēta asociācijas Klīniskā un zinātniskā departamenta priekšsēdētājs Dr. Ehuds Ūrs brīdināja, ka pētījums vēl ir tikai pašā sākuma stadijā.",health,health,"<|begin_of_text|>SENTENCE:
+ Dalhuzī Universitātes, kas atrodas Helifeksā, Jaunskotijā, medicīnas profesors un Kanādas Diabēta asociācijas Klīniskā un zinātniskā departamenta priekšsēdētājs Dr. Ehuds Ūrs brīdināja, ka pētījums vēl ir tikai pašā sākuma stadijā. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+health
+REASONING:
+This question requires"
+"Šie bērni mēdz nonākt daudzās nepatikšanās, jo viņi ""nododas riskantai uzvedībai, iesaistās kautiņos un izaicina autoritāti"", lai stimulētu savas smadzenes, jo viņu smadzenes nevar stimulēt ar parastām metodēm.",health,health,"<|begin_of_text|>SENTENCE:
+ Šie bērni mēdz nonākt daudzās nepatikšanās, jo viņi ""nododas riskantai uzvedībai, iesaistās kautiņos un izaicina autoritāti"", lai stimulētu savas smadzenes, jo viņu smadzenes nevar stimulēt ar parastām metodēm. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health
+EXPLANATION:
+Šīs"
+"Cilvēkus var ietekmēt tāda ūdens ieelpošana, kas nonācis gaisā vēja un viļņu dēl.",health,science/technology,"<|begin_of_text|>SENTENCE:
+ Cilvēkus var ietekmēt tāda ūdens ieelpošana, kas nonācis gaisā vēja un viļņu dēl. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Šī"
+"Daži cilvēki uzskata, ka gana bieža daudzu mākslīgi izraisītu apzināto sapņu pieredzēšana var būt ļoti nogurdinoša.",health,science/technology,"<|begin_of_text|>SENTENCE:
+ Daži cilvēki uzskata, ka gana bieža daudzu mākslīgi izraisītu apzināto sapņu pieredzēšana var būt ļoti nogurdinoša. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Šī"
+"Tad Potro plecam tika veikta procedūra, un viņš varēja atgriezties spēlē.",health,sports,"<|begin_of_text|>SENTENCE:
+ Tad Potro plecam tika veikta procedūra, un viņš varēja atgriezties spēlē. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+Tad"
+"Turklāt, tam var būt nopietnas sekas: kavēta augšana, nepietiekams uzturs un pat nāve.",health,health,"<|begin_of_text|>SENTENCE:
+ Turklāt, tam var būt nopietnas sekas: kavēta augšana, nepietiekams uzturs un pat nāve. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health
+EXPLANATION:
+This sentence is"
+"Amsterdamas pilsētas amatpersonas un Annas Frankas muzejs, diskutējot par nenovēršamajiem draudiem kokam nogāzties, konstatē, ka tas ir inficēts ar sēni un rada apdraudējumu sabiedrības veselībai.",health,health,"<|begin_of_text|>SENTENCE:
+ Amsterdamas pilsētas amatpersonas un Annas Frankas muzejs, diskutējot par nenovēršamajiem draudiem kokam nogāzties, konstatē, ka tas ir inficēts ar sēni un rada apdraudējumu sabiedrības veselībai. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+health
+REASONING:
+This question requires"
+"Slimnīca ir ievērojusi infekcijas kontroles protokolu, ieskaitot pacienta nodalīšanu no citiem, lai novērstu citu iespējamo inficēšanu.",health,health,"<|begin_of_text|>SENTENCE:
+ Slimnīca ir ievērojusi infekcijas kontroles protokolu, ieskaitot pacienta nodalīšanu no citiem, lai novērstu citu iespējamo inficēšanu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health 
+EXPLANATION:
+This sentence is"
+"Haiti Tiesiskuma un demokrātijas institūts atsaucās uz neatkarīgiem pētījumiem, kas rosina domāt, ka ANO Nepālas miera uzturēšanas bataljons neapzināti ieveda šo slimību Haiti.",health,politics,"<|begin_of_text|>SENTENCE:
+ Haiti Tiesiskuma un demokrātijas institūts atsaucās uz neatkarīgiem pētījumiem, kas rosina domāt, ka ANO Nepālas miera uzturēšanas bataljons neapzināti ieveda šo slimību Haiti. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+politics
+EXPLANATION:
+Šī"
+"Infekcijas slimības pašas par sevi vai bīstami dzīvnieki, kas var ievainot vai nogalināt cilvēkus, parasti netiek uzskatīti par kaitēkļiem.",health,health,"<|begin_of_text|>SENTENCE:
+ Infekcijas slimības pašas par sevi vai bīstami dzīvnieki, kas var ievainot vai nogalināt cilvēkus, parasti netiek uzskatīti par kaitēkļiem. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health 
+EXPLANATION:
+This sentence is"
+"Bērni ar uzmanības deficīta sindromu nespēj koncentrēties, piemēram, uz mācībām, taču spēj ilgstoši nodarboties ar to, kas viņiem patīk, piemēram, spēlēt spēles vai skatīties savas iemīļotās multfilmas vai rakstīt teikumus bez pieturzīmēm.",health,health,"<|begin_of_text|>SENTENCE:
+ Bērni ar uzmanības deficīta sindromu nespēj koncentrēties, piemēram, uz mācībām, taču spēj ilgstoši nodarboties ar to, kas viņiem patīk, piemēram, spēlēt spēles vai skatīties savas iemīļotās multfilmas vai rakstīt teikumus bez pieturzīmēm. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+health
+EXPLANATION:
+Šīs"
+Gada laikā viena inficēta persona var inficēt 10 līdz 15 tuvas kontaktpersonas.,health,health,"<|begin_of_text|>SENTENCE:
+ Gada laikā viena inficēta persona var inficēt 10 līdz 15 tuvas kontaktpersonas. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health
+EXPLANATION:
+This sentence is"
+"Kad pēc ievainoto nogādāšanas slimnīcā kautiņi bija pārtraukti, aptuveni 40 pārējie ieslodzītie palika pagalmā un atteicās atgriezties savās kamerās.",health,health,"<|begin_of_text|>SENTENCE:
+ Kad pēc ievainoto nogādāšanas slimnīcā kautiņi bija pārtraukti, aptuveni 40 pārējie ieslodzītie palika pagalmā un atteicās atgriezties savās kamerās. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+health
+REASONING:
+This question requires"
+"Ārstus sāka algot imperators Augusts, kurš izveidoja pat pirmo romiešu medicīnas korpusu, kuru izmantoja karotāju ārstēšanai pēc cīņām.",health,health,"<|begin_of_text|>SENTENCE:
+ Ārstus sāka algot imperators Augusts, kurš izveidoja pat pirmo romiešu medicīnas korpusu, kuru izmantoja karotāju ārstēšanai pēc cīņām. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+health
+REASONING:
+This sentence is"
+Tomēr vadītājs guva smagas galvas traumas.,health,health,"<|begin_of_text|>SENTENCE:
+ Tomēr vadītājs guva smagas galvas traumas. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health
+EXPLANATION:
+The word """
+"Mums tagad ir 4 mēnešus vecas peles, kas nav diabēta slimnieces, bet kuras agrāk bija diabēta slimnieces, viņš piebilda.",health,health,"<|begin_of_text|>SENTENCE:
+ Mums tagad ir 4 mēnešus vecas peles, kas nav diabēta slimnieces, bet kuras agrāk bija diabēta slimnieces, viņš piebilda. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health
+EXPLANATION:
+Šīs"
+"Iekšēju saindēšanos var uzreiz nepamanīt. Tādi simptomi kā vemšana ir pietiekami vispārēji, lai uzreiz neuzstādītu diagnozi.",health,health,"<|begin_of_text|>SENTENCE:
+ Iekšēju saindēšanos var uzreiz nepamanīt. Tādi simptomi kā vemšana ir pietiekami vispārēji, lai uzreiz neuzstādītu diagnozi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health
+EXPLANATION:
+This sentence is"
+Tā rezultātā izpildītāji uz skatuves smēķē marihuānu un izrādes laikā skatītāji tiek aicināti iesaistīties.,entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Tā rezultātā izpildītāji uz skatuves smēķē marihuānu un izrādes laikā skatītāji tiek aicināti iesaistīties. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+Š"
+"Grupa ""Aerosmith"" ir atcēlusi visus pārējos koncertus šajā koncerttūrē.",entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Grupa ""Aerosmith"" ir atcēlusi visus pārējos koncertus šajā koncerttūrē. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+Gr"
+"Ja vēlaties atrasties tuvu notikumu epicentram, jums jāierodas agri, lai atrastu telts vietu, kas ir tuvu mūzikai.",entertainment,travel,"<|begin_of_text|>SENTENCE:
+ Ja vēlaties atrasties tuvu notikumu epicentram, jums jāierodas agri, lai atrastu telts vietu, kas ir tuvu mūzikai. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Šī"
+Gadu gaitā ir tikuši izmantoti daudz dažādu filmu formāti. Standarta 35 mm filma (36 x 24 mm negatīvs) ir visizplatītākā.,entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Gadu gaitā ir tikuši izmantoti daudz dažādu filmu formāti. Standarta 35 mm filma (36 x 24 mm negatīvs) ir visizplatītākā. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+The"
+"Lai gan tā ir izplatīta prakse, uzņēmums „Disney” to ir aizliedzis: biļetes nedrīkst nodot tālāk.",entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Lai gan tā ir izplatīta prakse, uzņēmums „Disney” to ir aizliedzis: biļetes nedrīkst nodot tālāk. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+This"
+Katra raidījuma epizode aplūko kādas konkrētas grāmatas tēmu un pēc tam iepazīst to plašāk ar dažādu stāstu palīdzību.,entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Katra raidījuma epizode aplūko kādas konkrētas grāmatas tēmu un pēc tam iepazīst to plašāk ar dažādu stāstu palīdzību. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+The"
+"Dažādās Romas vietās tika uzstādīti vairāki lieli televizora ekrāni, lai cilvēki varētu vērot ceremoniju.",entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Dažādās Romas vietās tika uzstādīti vairāki lieli televizora ekrāni, lai cilvēki varētu vērot ceremoniju. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+Š"
+"Sofokls un Aristofans joprojām ir populāri dramaturgi, un viņu lugas tiek uzskatītas par daļu no ievērojamākajiem pasaules literatūras darbiem.",entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Sofokls un Aristofans joprojām ir populāri dramaturgi, un viņu lugas tiek uzskatītas par daļu no ievērojamākajiem pasaules literatūras darbiem. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment 
+EXPLANATION:
+Š"
+"Katrā pārraidē tiek sniegti arī ieteikumi attiecībā par grāmatām, kuras bērniem būtu jāmeklē savā bibliotēkā.",entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Katrā pārraidē tiek sniegti arī ieteikumi attiecībā par grāmatām, kuras bērniem būtu jāmeklē savā bibliotēkā. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+This"
+"Spēlējot akordeonu, skaļuma palielināšanai plēšas tiek vilktas ar lielāku spiedienu vai ātrumu.",entertainment,science/technology,"<|begin_of_text|>SENTENCE:
+ Spēlējot akordeonu, skaļuma palielināšanai plēšas tiek vilktas ar lielāku spiedienu vai ātrumu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Šī"
+"Pirms sācies šovs, varat aplūkot piramīdas tumsā un klusumā.",entertainment,travel,"<|begin_of_text|>SENTENCE:
+ Pirms sācies šovs, varat aplūkot piramīdas tumsā un klusumā. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Šov"
+"Šajās vietās var nodarboties, piemēram, ar medībām, zvejošanu, fotografēšanu, putnu vērošanu, vai arī apmeklēt parkus un pētīt informāciju par ekosistēmu.",entertainment,travel,"<|begin_of_text|>SENTENCE:
+ Šajās vietās var nodarboties, piemēram, ar medībām, zvejošanu, fotografēšanu, putnu vērošanu, vai arī apmeklēt parkus un pētīt informāciju par ekosistēmu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Šaj"
+Sfinksa ir kā gara stāsta fons un stāstītājs.,entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Sfinksa ir kā gara stāsta fons un stāstītājs. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+S"
+"Viņiem parasti ir īpaši ēdieni, dzērieni un izklaides piedāvājumi, lai uzturētu viesus labā noskaņojumā un noturētu telpās.",entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Viņiem parasti ir īpaši ēdieni, dzērieni un izklaides piedāvājumi, lai uzturētu viesus labā noskaņojumā un noturētu telpās. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+Š"
+"Šī vispasaules organizācija, kas jau pārraida ziņas angļu un japāņu valodās, tagad sāk veidot programmas spāņu, itāļu un korejiešu valodās to pārraidīšanai televīzijā, internetā un mobilajās ierīcēs.",entertainment,N/A,"<|begin_of_text|>SENTENCE:
+ Šī vispasaules organizācija, kas jau pārraida ziņas angļu un japāņu valodās, tagad sāk veidot programmas spāņu, itāļu un korejiešu valodās to pārraidīšanai televīzijā, internetā un mobilajās ierīcēs. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+ None of the above 
+ This sentence is about"
+"Pirms seriāla ""Simpsoni"" Saimons bija strādājis vairāku citu pārraižu veidošanā dažādos amatos.",entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Pirms seriāla ""Simpsoni"" Saimons bija strādājis vairāku citu pārraižu veidošanā dažādos amatos. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+S"
+"Tas ļaus spēlētājiem kontrolēt darbības un kustības videospēlēs, pārvietojot ierīci pa gaisu.",entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Tas ļaus spēlētājiem kontrolēt darbības un kustības videospēlēs, pārvietojot ierīci pa gaisu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+The"
+"Pasākumā piedalījās vismaz 100 cilvēki, lai nosvinētu jaunā pāra viena gada kāzu jubileju.",entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Pasākumā piedalījās vismaz 100 cilvēki, lai nosvinētu jaunā pāra viena gada kāzu jubileju. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+Pas"
+"Divas filmas dziesmas — ""Audition (The Fools Who Dream)"" un ""City of Stars"" — saņēma nominācijas par labāko oriģināldziesmu. Studija ""Lionsgate"" saņēma 26 nominācijas — vairāk nekā jebkura cita studija.",entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Divas filmas dziesmas — ""Audition (The Fools Who Dream)"" un ""City of Stars"" — saņēma nominācijas par labāko oriģināldziesmu. Studija ""Lionsgate"" saņēma 26 nominācijas — vairāk nekā jebkura cita studija. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+ TRANSLATION:
+ Fil"
+"Garoza tuvākajā pusē ir aptuveni 70 km bieza, bet tālākajā pusē - 100 km bieza.",geography,geography,"<|begin_of_text|>SENTENCE:
+ Garoza tuvākajā pusē ir aptuveni 70 km bieza, bet tālākajā pusē - 100 km bieza. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+Š"
+"Tālāk uz dienvidiem atrodas Niagāras ūdenskritums, savukārt ziemeļdaļā var baudīt Muskokas neskarto dabas skaistumu un vēl daudz ko citu.",geography,geography,"<|begin_of_text|>SENTENCE:
+ Tālāk uz dienvidiem atrodas Niagāras ūdenskritums, savukārt ziemeļdaļā var baudīt Muskokas neskarto dabas skaistumu un vēl daudz ko citu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+Š"
+"Elsvortlenda ir reģions, kas atrodas pussalas dienvidos un to apskalo Belingshauzena jūra.",geography,geography,"<|begin_of_text|>SENTENCE:
+ Elsvortlenda ir reģions, kas atrodas pussalas dienvidos un to apskalo Belingshauzena jūra. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+The"
+Dienvidpola traverss (vai automaģistrāle) ir 1600 km gara taka no Makmerdo stacijas pie Rosas jūras līdz Dienvidpolam.,geography,geography,"<|begin_of_text|>SENTENCE:
+ Dienvidpola traverss (vai automaģistrāle) ir 1600 km gara taka no Makmerdo stacijas pie Rosas jūras līdz Dienvidpolam. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+ EXPLANATION:
+ The"
+"Šis stāvais kalns, kas atrodas aiz Maču Pikču ziemeļu daļas, bieži vien ir fons daudzām drupu fotogrāfijām.",geography,geography,"<|begin_of_text|>SENTENCE:
+ Šis stāvais kalns, kas atrodas aiz Maču Pikču ziemeļu daļas, bieži vien ir fons daudzām drupu fotogrāfijām. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+Š"
+"Encelads ir visspožākais objekts saules sistēmā, kas atstaro apmēram 90% no izstarotās saules gaismas.",geography,science/technology,"<|begin_of_text|>SENTENCE:
+ Encelads ir visspožākais objekts saules sistēmā, kas atstaro apmēram 90% no izstarotās saules gaismas. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Šī"
+"Nekas vairāk par skaidrām, skaistām debesīm virs galvas un daudziem kalniem visapkārt nav redzams. No alas iekšpuses neko daudz no ārpasaules nevar ne redzēt, ne dzirdēt.",geography,geography,"<|begin_of_text|>SENTENCE:
+ Nekas vairāk par skaidrām, skaistām debesīm virs galvas un daudziem kalniem visapkārt nav redzams. No alas iekšpuses neko daudz no ārpasaules nevar ne redzēt, ne dzirdēt. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+"Tagad par Japānu. Japāna, tāpat kā Anglija, bija salu valsts.",geography,geography,"<|begin_of_text|>SENTENCE:
+ Tagad par Japānu. Japāna, tāpat kā Anglija, bija salu valsts. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+The"
+"Tropiskais ciklons Gonu, kura nosaukums maldīviešu valodā nozīmē ar palmu lapām piepildītu maisu, kulminācijas brīdī sasniedza ilgstošu vēju līdz 240 km/stundā (149 jūdzes/stundā).",geography,geography,"<|begin_of_text|>SENTENCE:
+ Tropiskais ciklons Gonu, kura nosaukums maldīviešu valodā nozīmē ar palmu lapām piepildītu maisu, kulminācijas brīdī sasniedza ilgstošu vēju līdz 240 km/stundā (149 jūdzes/stundā). 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+T"
+"Turcijas platība, ieskaitot ezerus, aizņem 783 562 kvadrātkilometrus (300 948 kv. jūdzes), no kuriem 755 688 kvadrātkilometri (291 773 kv. jūdzes) atrodas Āzijas dienvidrietumos un 23 764 kvadrātkilometri (9174 kv. jūdzes) Eiropā.",geography,geography,"<|begin_of_text|>SENTENCE:
+ Turcijas platība, ieskaitot ezerus, aizņem 783 562 kvadrātkilometrus (300 948 kv. jūdzes), no kuriem 755 688 kvadrātkilometri (291 773 kv. jūdzes) atrodas Āzijas dienvidrietumos un 23 764 kvadrātkilometri (9174 kv. jūdzes) Eiropā. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+ EXPLANATION:
+ The"
+"Vairākām valstīm ir teritoriālās pretenzijas uz Dienvidšetlendu salām, kuras tika atklātas 1819. gadā, un tajās ir visvairāk bāzu - 2020. gadā aktīvas ir sešpadsmit.",geography,geography,"<|begin_of_text|>SENTENCE:
+ Vairākām valstīm ir teritoriālās pretenzijas uz Dienvidšetlendu salām, kuras tika atklātas 1819. gadā, un tajās ir visvairāk bāzu - 2020. gadā aktīvas ir sešpadsmit. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+Ge"
+"Apija ir Samoa galvaspilsēta. Pilsēta atrodas Upolu salā, un tās iedzīvotāju skaits sasniedz tikai nepilnus 40 000.",geography,geography,"<|begin_of_text|>SENTENCE:
+ Apija ir Samoa galvaspilsēta. Pilsēta atrodas Upolu salā, un tās iedzīvotāju skaits sasniedz tikai nepilnus 40 000. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+Š"
+"Tā kā vētra atrodas tālu no kontinenta, joprojām ir grūti novērtēt iespējamo ietekmi uz Amerikas Savienotajām Valstīm vai Karību salām.",geography,geography,"<|begin_of_text|>SENTENCE:
+ Tā kā vētra atrodas tālu no kontinenta, joprojām ir grūti novērtēt iespējamo ietekmi uz Amerikas Savienotajām Valstīm vai Karību salām. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+The"
+Tas ir plānāks zem bazalta līdzenuma un biezāks zem augstienēm.,geography,geography,"<|begin_of_text|>SENTENCE:
+ Tas ir plānāks zem bazalta līdzenuma un biezāks zem augstienēm. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+The"
+"Meži tomēr nav tikai mangrovju purvi - tie ietver dažas no pēdējām atlikušajām vareno džungļu audzēm, kas kādreiz klāja Gandžetika līdzenumu.",geography,geography,"<|begin_of_text|>SENTENCE:
+ Meži tomēr nav tikai mangrovju purvi - tie ietver dažas no pēdējām atlikušajām vareno džungļu audzēm, kas kādreiz klāja Gandžetika līdzenumu. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+"Amerikas Savienoto Valstu Ģeoloģijas dienesta starptautiskā zemestrīču karte neuzrādīja, ka iepriekšējā nedēļā Islandē būtu bijusi zemestrīce.",geography,geography,"<|begin_of_text|>SENTENCE:
+ Amerikas Savienoto Valstu Ģeoloģijas dienesta starptautiskā zemestrīču karte neuzrādīja, ka iepriekšējā nedēļā Islandē būtu bijusi zemestrīce. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+Š"
+Ala atrodas vienā no kalnu virsotnēm ziemeļos no Mekas un ir pilnībā izolēta no pārējās pasaules.,geography,geography,"<|begin_of_text|>SENTENCE:
+ Ala atrodas vienā no kalnu virsotnēm ziemeļos no Mekas un ir pilnībā izolēta no pārējās pasaules. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+Š"

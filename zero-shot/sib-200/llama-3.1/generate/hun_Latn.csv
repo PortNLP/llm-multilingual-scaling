@@ -1,0 +1,3054 @@
+text,actual_category,predicted_category,generated_text
+"A mutáció új genetikai variációra nyújt lehetőséget, a szelekció viszont eltávolítja a kifejezett variáció halmazából.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ A mutáció új genetikai variációra nyújt lehetőséget, a szelekció viszont eltávolítja a kifejezett variáció halmazából. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science
+EXPLANATION:
+A válasz"
+"A hasadásos bomba azon az elven működik, hogy az atommag sok protonnal és neutronnal való összeütköztetése energiát igényel.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ A hasadásos bomba azon az elven működik, hogy az atommag sok protonnal és neutronnal való összeütköztetése energiát igényel. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: -science
+EXPLANATION:
+A SENTENCED"
+Az atommag kétféle elemi részecskéből áll: protonokból és neutronokból.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Az atommag kétféle elemi részecskéből áll: protonokból és neutronokból. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science
+EXPLANATION:
+A szöve"
+"Ez lehetővé tette a lencsék ráközelítését, hogy olyan minőségű képeket hozzanak létre, amilyeneket a rögzített fókuszú lencsékkel lehet elérni.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Ez lehetővé tette a lencsék ráközelítését, hogy olyan minőségű képeket hozzanak létre, amilyeneket a rögzített fókuszú lencsékkel lehet elérni. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Ez"
+Számos szempontból felülmúlják a webes proxykat: a http-n kívül még az összes webes forgalmat is átirányítják.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Számos szempontból felülmúlják a webes proxykat: a http-n kívül még az összes webes forgalmat is átirányítják. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+A SENT"
+Az interaktív tervezés a médiagyártással kapcsolatos feltevések újraértékelését és a nem-lineáris gondolkodás elsajátítását feltételezi.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Az interaktív tervezés a médiagyártással kapcsolatos feltevések újraértékelését és a nem-lineáris gondolkodás elsajátítását feltételezi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: \- science
+EXPLANATION:
+Az inter"
+"Ez mindennapi gyakorlattá vált, de a vas jobban igénybe vette a vagon fából készült kerekeit.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Ez mindennapi gyakorlattá vált, de a vas jobban igénybe vette a vagon fából készült kerekeit. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+A sz"
+"A falkák egy-három, egymással rokoni kapcsolatban álló hímből, és akár harminc nőstényből és kölyökből állnak.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ A falkák egy-három, egymással rokoni kapcsolatban álló hímből, és akár harminc nőstényből és kölyökből állnak. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+A f"
+"Annak ellenére, hogy az AI erős tudományos-fantasztikus többletjelentéssel rendelkezik, valójában a számítástechnika egyik nagyon fontos ágát képezi, amely a gépek viselkedésével, tanulásával és intelligens alkalmazkodásával foglalkozik.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Annak ellenére, hogy az AI erős tudományos-fantasztikus többletjelentéssel rendelkezik, valójában a számítástechnika egyik nagyon fontos ágát képezi, amely a gépek viselkedésével, tanulásával és intelligens alkalmazkodásával foglalkozik. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+A SENT"
+Ennek a formátumnak az oldalaránya (12-es osztás után a legegyszerűbb egész szám arány eléréséhez) ennél fogva 3:2-re tehető.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Ennek a formátumnak az oldalaránya (12-es osztás után a legegyszerűbb egész szám arány eléréséhez) ennél fogva 3:2-re tehető. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+A SENT"
+"A műholdas telefon általában nem helyettesíti a mobiltelefonokat, mivel telefonhíváshoz a szabadban kell tartózkodni, a műholdra akadálytalan rálátással.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ A műholdas telefon általában nem helyettesíti a mobiltelefonokat, mivel telefonhíváshoz a szabadban kell tartózkodni, a műholdra akadálytalan rálátással. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+A m"
+"Bár a nyompályák csak párhuzamosan lefektetett pallókból álltak, lehetővé tették, hogy a lovak gyorsabban és nagyobb terhet vontassanak rajtuk, mint a korszak viszonylag kevés, göröngyös útján.",science/technology,travel,"<|begin_of_text|>SENTENCE:
+ Bár a nyompályák csak párhuzamosan lefektetett pallókból álltak, lehetővé tették, hogy a lovak gyorsabban és nagyobb terhet vontassanak rajtuk, mint a korszak viszonylag kevés, göröngyös útján. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+A ny"
+"Az emberek már az ókorban ismertek olyan alapvető kémiai elemeket, mint az aranyat, ezüstöt és rezet, mivel ezek mindegyike felfedezhető a természetben nyersanyag formában, és primitív eszközökkel is viszonylag egyszerűen bányászhatók.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Az emberek már az ókorban ismertek olyan alapvető kémiai elemeket, mint az aranyat, ezüstöt és rezet, mivel ezek mindegyike felfedezhető a természetben nyersanyag formában, és primitív eszközökkel is viszonylag egyszerűen bányászhatók. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+A SENT"
+"A kerék hihetetlen változásokat hozott a világban. A legnagyobb dolog, amit a keréknek köszönhetünk: a sokkal könnyebb és gyorsabb szállítás.",science/technology,travel,"<|begin_of_text|>SENTENCE:
+ A kerék hihetetlen változásokat hozott a világban. A legnagyobb dolog, amit a keréknek köszönhetünk: a sokkal könnyebb és gyorsabb szállítás. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+A ker"
+"Ez arra szolgál, hogy a kép az egész képernyőt lefedje. Ezt túlpásztázásnak hívjuk.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Ez arra szolgál, hogy a kép az egész képernyőt lefedje. Ezt túlpásztázásnak hívjuk. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+A tú"
+A német tengeralattjárókat egyszerűen U-Boat-oknak nevezték. A németek rendkívüli jártasságra tettek szert a tengeralattjárók navigálásának és üzemeltetésének terén.,science/technology,geography,"<|begin_of_text|>SENTENCE:
+ A német tengeralattjárókat egyszerűen U-Boat-oknak nevezték. A németek rendkívüli jártasságra tettek szert a tengeralattjárók navigálásának és üzemeltetésének terén. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+A"
+"Habár fizikai állapota változhat, kémiai állapota ugyanaz marad.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Habár fizikai állapota változhat, kémiai állapota ugyanaz marad. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+A kém"
+"Felületi feszültség azért jön létre, mert a víz felszínén lévő vízmolekulák jobban vonzzák egymást, mint amennyire a felettük lévő levegőmolekulák vonzzák őket.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Felületi feszültség azért jön létre, mert a víz felszínén lévő vízmolekulák jobban vonzzák egymást, mint amennyire a felettük lévő levegőmolekulák vonzzák őket. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+A SENT"
+Az egyik leggyakoribb probléma a filmek DVD formátumba történő konvertálása során a túlpásztázás.,science/technology,entertainment,"<|begin_of_text|>SENTENCE:
+ Az egyik leggyakoribb probléma a filmek DVD formátumba történő konvertálása során a túlpásztázás. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+A"
+"Főleg, ha azt állítják, hogy egyesek az arc bizonyos kifejezéseiből is helyesen meg tudják állapítani, ha valaki hazudik.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Főleg, ha azt állítják, hogy egyesek az arc bizonyos kifejezéseiből is helyesen meg tudják állapítani, ha valaki hazudik. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+A sz"
+"Az arany bármilyen alakra formálható, akár apró méretben is megmunkálható.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Az arany bármilyen alakra formálható, akár apró méretben is megmunkálható. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Az ar"
+"A mesterséges intelligenciarendszert ma már gyakran használják gazdasági, orvosi, műszaki és katonai területeken, ahogyan számos otthoni számítógép és videojáték szoftverébe is beépítették.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ A mesterséges intelligenciarendszert ma már gyakran használják gazdasági, orvosi, műszaki és katonai területeken, ahogyan számos otthoni számítógép és videojáték szoftverébe is beépítették. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+A mest"
+"A gyártása még ma is folyik, de ami lényeges, hogy méretarányát a digitális kamera képérzékelő formátuma átvette.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ A gyártása még ma is folyik, de ami lényeges, hogy méretarányát a digitális kamera képérzékelő formátuma átvette. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+A gy"
+"A sokszor helytelenül használt és gyakran nevetség tárgyát képező harmadok szabálya egy egyszerű irányelv, ami dinamizmust hoz létre, miközben megtartja a rend mértékét egy képben.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ A sokszor helytelenül használt és gyakran nevetség tárgyát képező harmadok szabálya egy egyszerű irányelv, ami dinamizmust hoz létre, miközben megtartja a rend mértékét egy képben. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+A harm"
+"Ez nem csak azt igazolja, hogy a dinoszauruszok némelyike tollas volt, hiszen az az elmélet már korábban elterjedt, hanem olyan részletekre is fényt derít, melyek feltárására a kövületek általában nem képesek - mint például a szín- és a háromdimenziós elrendezés.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Ez nem csak azt igazolja, hogy a dinoszauruszok némelyike tollas volt, hiszen az az elmélet már korábban elterjedt, hanem olyan részletekre is fényt derít, melyek feltárására a kövületek általában nem képesek - mint például a szín- és a háromdimenziós elrendezés. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+A SENT"
+"Hogyan hatna rám az Io gravitációja? Ha az Io felszínén állnál, kevesebbet nyomnál, mint a Földön.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Hogyan hatna rám az Io gravitációja? Ha az Io felszínén állnál, kevesebbet nyomnál, mint a Földön. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+ science
+EXPLANATION:
+ A válas"
+"A NextGen egy olyan rendszer, amely a FAA  szerint lehetővé tenné, hogy a repülőgépek rövidebb utakat tegyenek meg, több millió gallon üzemanyagot megtakarítva minden évben és csökkentenék a széndioxid kibocsátást.",science/technology,travel,"<|begin_of_text|>SENTENCE:
+ A NextGen egy olyan rendszer, amely a FAA  szerint lehetővé tenné, hogy a repülőgépek rövidebb utakat tegyenek meg, több millió gallon üzemanyagot megtakarítva minden évben és csökkentenék a széndioxid kibocsátást. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+A Next"
+A neurobiológiai adatok fizikai bizonyítékot nyújtanak a megismerés vizsgálatának elméleti megközelítéséhez. Ezért ez leszűkíti a kutatási területet és sokkal pontosabbá teszi azt.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ A neurobiológiai adatok fizikai bizonyítékot nyújtanak a megismerés vizsgálatának elméleti megközelítéséhez. Ezért ez leszűkíti a kutatási területet és sokkal pontosabbá teszi azt. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science
+EXPLANATION:
+A szöve"
+Kétórás beszéde során kijelentette: „Ma az Apple újra feltalálja a telefont. Ma történelmet írunk”.,science/technology,entertainment,"<|begin_of_text|>SENTENCE:
+ Kétórás beszéde során kijelentette: „Ma az Apple újra feltalálja a telefont. Ma történelmet írunk”. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+Az"
+"A zoom objektívek hátránya, hogy a fókusz bonyolultsága és a fókusztávolság eléréséhez szükséges lencseelemek száma sokkal nagyobb, mint a fix gyújtótávolságú objektíveknél.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ A zoom objektívek hátránya, hogy a fókusz bonyolultsága és a fókusztávolság eléréséhez szükséges lencseelemek száma sokkal nagyobb, mint a fix gyújtótávolságú objektíveknél. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+ Ez a"
+"A televíziós távirányítóhoz hasonlóan a vezérlő két, a felhasználó televíziója közelében elhelyezett érzékelőt használ, hogy háromszögeléssel határozza meg a helyzetét háromdimenziós térben.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ A televíziós távirányítóhoz hasonlóan a vezérlő két, a felhasználó televíziója közelében elhelyezett érzékelőt használ, hogy háromszögeléssel határozza meg a helyzetét háromdimenziós térben. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+A telev"
+"A tudósok azt mondják, hogy az állat tollazata felül gesztenyebarna volt, oldalt pedig világos vagy narancssárgás árnyalatú.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ A tudósok azt mondják, hogy az állat tollazata felül gesztenyebarna volt, oldalt pedig világos vagy narancssárgás árnyalatú. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+A tud"
+"Az egyetem kutatói szerint a két vegyület reakcióba lép egymással, és a vese működését akadályozó kristályokat képez.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Az egyetem kutatói szerint a két vegyület reakcióba lép egymással, és a vese működését akadályozó kristályokat képez. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+A SENT"
+Ez a felbontás csaknem négyszerese a 35 mm-es negatívnak (3 136 négyzetmilliméter a 864-gyel szemben).,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Ez a felbontás csaknem négyszerese a 35 mm-es negatívnak (3 136 négyzetmilliméter a 864-gyel szemben). 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+A SENT"
+"A tengeralatti üvegszálas kábelnek köszönhetően az Európához és a szélessávú hálózat műholdjához kapcsolódva, Grönland internethozzáférése segítségével a lakosság 93%-ával tud kapcsolatot tartani.",science/technology,geography,"<|begin_of_text|>SENTENCE:
+ A tengeralatti üvegszálas kábelnek köszönhetően az Európához és a szélessávú hálózat műholdjához kapcsolódva, Grönland internethozzáférése segítségével a lakosság 93%-ával tud kapcsolatot tartani. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+A"
+"Az egyik legmegbízhatóbb alkalmazás ebben a kategóriában a Google Translate, ami lehetővé teszi az offline fordítást a kívánt nyelvi adatok letöltését követően.",science/technology,travel,"<|begin_of_text|>SENTENCE:
+ Az egyik legmegbízhatóbb alkalmazás ebben a kategóriában a Google Translate, ami lehetővé teszi az offline fordítást a kívánt nyelvi adatok letöltését követően. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+A SENT"
+"Molekuláris szerkezete ugyanolyan, legyen gáznemű, folyékony vagy szilárd.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Molekuláris szerkezete ugyanolyan, legyen gáznemű, folyékony vagy szilárd. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+A mole"
+"A videó felvételek használata fontos felfedezésekhez vezetett a mikro-arckifejezések, a néhány milliszekundumig tartó arcmozgások  értelmezésében.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ A videó felvételek használata fontos felfedezésekhez vezetett a mikro-arckifejezések, a néhány milliszekundumig tartó arcmozgások  értelmezésében. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+A vide"
+Az emberek évezredek óta állítanak elő és használnak nagyító lencséket.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Az emberek évezredek óta állítanak elő és használnak nagyító lencséket. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+A nag"
+"Azonban ez nem egyedül ebből áll. A kísérletezés, és egy kísérlet olyan teszt, amely egy vagy több lehetséges hipotézis kizárására, kérdések feltevésére és megfigyelésre szolgál, melyek szintén segítik a tudományos kutatást.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Azonban ez nem egyedül ebből áll. A kísérletezés, és egy kísérlet olyan teszt, amely egy vagy több lehetséges hipotézis kizárására, kérdések feltevésére és megfigyelésre szolgál, melyek szintén segítik a tudományos kutatást. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+A sz"
+Végül a fából készült kerekeket vaskerekek váltották fel. 1767-ben bevezették az első teljesen vasból készült síneket.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Végül a fából készült kerekeket vaskerekek váltották fel. 1767-ben bevezették az első teljesen vasból készült síneket. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+A SENT"
+"Noha a legtöbb kártya alkalmas bárhova történő telefonálásra, egyesekre speciálisan az jellemző, hogy kedvező hívási tarifákat biztosítanak adott országcsoportok számára.",science/technology,travel,"<|begin_of_text|>SENTENCE:
+ Noha a legtöbb kártya alkalmas bárhova történő telefonálásra, egyesekre speciálisan az jellemző, hogy kedvező hívási tarifákat biztosítanak adott országcsoportok számára. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+A SENT"
+A modern kutatási teleszkópok legtöbbje egy hatalmas berendezés egy kedvező légköri viszonyokkal rendelkező elszigetelt területen.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ A modern kutatási teleszkópok legtöbbje egy hatalmas berendezés egy kedvező légköri viszonyokkal rendelkező elszigetelt területen. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+A kut"
+A felületi feszültség miatt az acéltű a víz tetején lebeg.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ A felületi feszültség miatt az acéltű a víz tetején lebeg. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+A fel"
+"A 35 mm-es formátum valójában, némileg zavaróan, 36 m szélességet és 24 mm magasságot jelent.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ A 35 mm-es formátum valójában, némileg zavaróan, 36 m szélességet és 24 mm magasságot jelent. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+A "
+"A sejtek rendkívül alapvetőek és fontosak az élet tanulmányozásában, többen is  „az élet építőkockáiként” utalnak rájuk.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ A sejtek rendkívül alapvetőek és fontosak az élet tanulmányozásában, többen is  „az élet építőkockáiként” utalnak rájuk. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+A se"
+A politikai cenzúra és kereskedelmi IP-geofiltering kijátszására kiváló módszer a személyes VPN (virtuális magánhálózat).,science/technology,politics,"<|begin_of_text|>SENTENCE:
+ A politikai cenzúra és kereskedelmi IP-geofiltering kijátszására kiváló módszer a személyes VPN (virtuális magánhálózat). 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+A politik"
+"Az állomás tartotta a magasságot az űrséta végéig, annak ellenére, hogy korábban a giroszkópot az űrállomás küldetésén elvesztették.",science/technology,travel,"<|begin_of_text|>SENTENCE:
+ Az állomás tartotta a magasságot az űrséta végéig, annak ellenére, hogy korábban a giroszkópot az űrállomás küldetésén elvesztették. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Az �"
+"Az ilyen észjárású emberek logikusan gondolkodnak, képesek felismerni a mintákat, problémákat oldanak meg és tudományos teszteken dolgoznak.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Az ilyen észjárású emberek logikusan gondolkodnak, képesek felismerni a mintákat, problémákat oldanak meg és tudományos teszteken dolgoznak. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+A SENT"
+"Az ocelotok szívesen fogyasztanak kisállatokat. Ha képesek rá, elkapják a majmokat, kígyókat, rágcsálókat és madarakat is. Szinte az összes állat, amelyre az ocelot vadászik, saját magánál jóval kisebb.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Az ocelotok szívesen fogyasztanak kisállatokat. Ha képesek rá, elkapják a majmokat, kígyókat, rágcsálókat és madarakat is. Szinte az összes állat, amelyre az ocelot vadászik, saját magánál jóval kisebb. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Az o"
+"Néhány közepes formátumú filmkamera 6 x 6 cm-es formátumot, egészen pontosan 56 × 56 mm-es negatívot használ.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ Néhány közepes formátumú filmkamera 6 x 6 cm-es formátumot, egészen pontosan 56 × 56 mm-es negatívot használ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+A film"
+"Az utazóknak erősen javasoljuk, hogy tájékozódjanak a területet érintő súlyos időjárási kockázatokról, mivel ezek befolyásolhatják az utazási terveiket.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Az utazóknak erősen javasoljuk, hogy tájékozódjanak a területet érintő súlyos időjárási kockázatokról, mivel ezek befolyásolhatják az utazási terveiket. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+A SENT"
+"Egész nap indulnak buszok a körzetközi buszállomásról (a folyón át), de a legtöbbjük, különösen a keletre és Jakar/Bumthang irányába tartók, 06:30 és 07:30 között indulnak.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Egész nap indulnak buszok a körzetközi buszállomásról (a folyón át), de a legtöbbjük, különösen a keletre és Jakar/Bumthang irányába tartók, 06:30 és 07:30 között indulnak. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+A SENT"
+"A lovas számára nagyobb stabilitást nyújtanak, azonban használata biztonsági aggályokat vet fel, ugyanis a lovas lábfeje beleakadhat.",travel,science/technology,"<|begin_of_text|>SENTENCE:
+ A lovas számára nagyobb stabilitást nyújtanak, azonban használata biztonsági aggályokat vet fel, ugyanis a lovas lábfeje beleakadhat. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+\science
+EXPLANATION:
+A lo"
+A legtöbb kiemelt balti-tengeri hajóút egy hosszú megállót kínál az oroszországi Szentpéterváron.,travel,travel,"<|begin_of_text|>SENTENCE:
+ A legtöbb kiemelt balti-tengeri hajóút egy hosszú megállót kínál az oroszországi Szentpéterváron. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Ez"
+"Az útmutató feltételezi, hogy az utazók nem lopnak, nem követnek el birtokháborítást, nem vesznek részt feketepiaci tevékenységekben, nem koldulnak és más módon sem használják ki az embereket saját javukra.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Az útmutató feltételezi, hogy az utazók nem lopnak, nem követnek el birtokháborítást, nem vesznek részt feketepiaci tevékenységekben, nem koldulnak és más módon sem használják ki az embereket saját javukra. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Az ut"
+"Számos tényezőt szükséges számba venni,  mielőtt bárhova útra kelnénk.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Számos tényezőt szükséges számba venni,  mielőtt bárhova útra kelnénk. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+A sz"
+"A nappali hőségben az utazók délibábokat tapasztalhatnak, amelyek a víz (vagy más dolgok) illúzióját keltik.",travel,travel,"<|begin_of_text|>SENTENCE:
+ A nappali hőségben az utazók délibábokat tapasztalhatnak, amelyek a víz (vagy más dolgok) illúzióját keltik. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+A dé"
+"A kisgyermekes családok ritkák, de néhány szálló biztosít számukra külön szobát.",travel,travel,"<|begin_of_text|>SENTENCE:
+ A kisgyermekes családok ritkák, de néhány szálló biztosít számukra külön szobát. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+A k"
+"Például a Loire-völgyi kastélyokban vagy a Rajna völgyében tett látogatás, vagy sétahajózás az érdekesebb városok érintésével a Dunán, esetleg csónakázás az Erie-csatorna mentén.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Például a Loire-völgyi kastélyokban vagy a Rajna völgyében tett látogatás, vagy sétahajózás az érdekesebb városok érintésével a Dunán, esetleg csónakázás az Erie-csatorna mentén. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+ EXPLANATION:
+ Ez a"
+"Jobb olyan ügynökhöz fordulni, aki gyakran foglal az önéhez hasonló utakat.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Jobb olyan ügynökhöz fordulni, aki gyakran foglal az önéhez hasonló utakat. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Ez"
+"A Couchsurfing-et 2004 januárjában alapították, miután Casey Fenton programozó talált egy olcsó járatot Izlandra, de nem volt hol megszállnia.",travel,travel,"<|begin_of_text|>SENTENCE:
+ A Couchsurfing-et 2004 januárjában alapították, miután Casey Fenton programozó talált egy olcsó járatot Izlandra, de nem volt hol megszállnia. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+A SENT"
+"A diák vízumokra általában más követelmények és kérelmezési eljárások vonatkoznak, mint a szokásos turista vagy üzleti vízumokra.",travel,travel,"<|begin_of_text|>SENTENCE:
+ A diák vízumokra általában más követelmények és kérelmezési eljárások vonatkoznak, mint a szokásos turista vagy üzleti vízumokra. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+A SENT"
+"Minden országban egyedi törvények írják elő, hogy milyen elsősegély-nyújtási felszerelés kell legyen az autóban.",travel,health,"<|begin_of_text|>SENTENCE:
+ Minden országban egyedi törvények írják elő, hogy milyen elsősegély-nyújtási felszerelés kell legyen az autóban. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health 
+-REASONING:
+This question"
+"Habár a legtöbb iroda hajlandó vállalni a rendszeres foglalást, sok ügynökség az utazások, költség keretek vagy célállomások különböző típusaira specializálódik.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Habár a legtöbb iroda hajlandó vállalni a rendszeres foglalást, sok ügynökség az utazások, költség keretek vagy célállomások különböző típusaira specializálódik. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+A SENT"
+"Az utazók olyan kártevő állatokkal találkozhatnak, amelyekkel korábban esetleg még nem találkoztak otthonukban.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Az utazók olyan kártevő állatokkal találkozhatnak, amelyekkel korábban esetleg még nem találkoztak otthonukban. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Az ut"
+"Északon látogassa meg a Fátimai Miasszonyunk nagyszentélyt is, amely egy világszerte híres Mária-jelenés helyszíne.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Északon látogassa meg a Fátimai Miasszonyunk nagyszentélyt is, amely egy világszerte híres Mária-jelenés helyszíne. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+A SENT"
+A Gomán belüli közlekedéshez a boda-bodát (motortaxit) lehet használni. Egy rövidebb út szokásos (helyi) díjszabása 500 kongói frank körül van.,travel,travel,"<|begin_of_text|>SENTENCE:
+ A Gomán belüli közlekedéshez a boda-bodát (motortaxit) lehet használni. Egy rövidebb út szokásos (helyi) díjszabása 500 kongói frank körül van. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+A G"
+"Akik élvezik a szabadtéri tevékenységeket, azoknak elengedhetetlen a Sea to Sky folyosóhoz vezető út megtétele.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Akik élvezik a szabadtéri tevékenységeket, azoknak elengedhetetlen a Sea to Sky folyosóhoz vezető út megtétele. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+A sz"
+"A sétáló szafari (amelyet „bokorsétának”, „kiránduló szafarinak” vagy „talpazásnak” is neveznek) néhány órás vagy több napos túrázásból áll.",travel,travel,"<|begin_of_text|>SENTENCE:
+ A sétáló szafari (amelyet „bokorsétának”, „kiránduló szafarinak” vagy „talpazásnak” is neveznek) néhány órás vagy több napos túrázásból áll. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+A s"
+"A gyorsabb átjutás érdekében ellenőrzött poggyászként adtuk fel. A légitársaság szabályai nem teszik lehetővé egy csomag utas nélküli küldését, itt jössz be te a képbe.",travel,travel,"<|begin_of_text|>SENTENCE:
+ A gyorsabb átjutás érdekében ellenőrzött poggyászként adtuk fel. A légitársaság szabályai nem teszik lehetővé egy csomag utas nélküli küldését, itt jössz be te a képbe. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+A gy"
+"A túlzsúfoltság enyhítése érdekében további 300, azaz összesen 1300 kocsit kell beszerezni.",travel,N/A,"<|begin_of_text|>SENTENCE:
+ A túlzsúfoltság enyhítése érdekében további 300, azaz összesen 1300 kocsit kell beszerezni. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- None of the above 
+EXPLANATION"
+"A kisgyermekes családoknak több előkészületre lehet szükségük, de egy szabadban eltöltött nap csecsemők és óvodás gyermekek számára is könnyedén megvalósítható.",travel,travel,"<|begin_of_text|>SENTENCE:
+ A kisgyermekes családoknak több előkészületre lehet szükségük, de egy szabadban eltöltött nap csecsemők és óvodás gyermekek számára is könnyedén megvalósítható. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+A sz"
+"Minden nagy tengerszint feletti magasságon vagy hegyi hágókon vezetőnek figyelembe kell vennie a hó, jég vagy fagypont alatti hőmérséklet lehetőségét.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Minden nagy tengerszint feletti magasságon vagy hegyi hágókon vezetőnek figyelembe kell vennie a hó, jég vagy fagypont alatti hőmérséklet lehetőségét. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+A sz"
+"Ma Timbuktu egy elszegényedett város, bár hírneve miatt turisztikai látványosság és repülőtérrel is rendelkezik.",travel,geography,"<|begin_of_text|>SENTENCE:
+ Ma Timbuktu egy elszegényedett város, bár hírneve miatt turisztikai látványosság és repülőtérrel is rendelkezik. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+A"
+"Hóviharok során nagyon rövid idő alatt lehullhat annyi hó, amennyi elakadást okoz.",travel,science/technology,"<|begin_of_text|>SENTENCE:
+ Hóviharok során nagyon rövid idő alatt lehullhat annyi hó, amennyi elakadást okoz. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Hó"
+"Ha a déli féltekén szeretné teljesen körülrepülni a világot, a járatok és úti célok választéka korlátozott a tengerentúli járatok hiánya miatt.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Ha a déli féltekén szeretné teljesen körülrepülni a világot, a járatok és úti célok választéka korlátozott a tengerentúli járatok hiánya miatt. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+A SENT"
+"Az olyan légitársaságok, mint az Emirates, az Etihad Airways, a Qatar Airways és a Turkish Airlines, jelentősen kiterjesztették a szolgáltatásaikat Afrikában, és az európai légitársaságokkal szemben, sok más afrikai városba kínálnak járatokat versenyképes áron.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Az olyan légitársaságok, mint az Emirates, az Etihad Airways, a Qatar Airways és a Turkish Airlines, jelentősen kiterjesztették a szolgáltatásaikat Afrikában, és az európai légitársaságokkal szemben, sok más afrikai városba kínálnak járatokat versenyképes áron. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+ EXPLANATION:
+ Ez a"
+"Nem lesznek plusz közlekedési lehetőségek, a földfelszínen közlekedő vonatok nem fognak megállni a Wembleynél, a parkolás és a P+R parkolóhelyek pedig nem lesznek elérhetőek.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Nem lesznek plusz közlekedési lehetőségek, a földfelszínen közlekedő vonatok nem fognak megállni a Wembleynél, a parkolás és a P+R parkolóhelyek pedig nem lesznek elérhetőek. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+This sentence"
+Általában egy hosszabban elhúzódó tartózkodáshoz egy külföldi országban előzetesen vízumra kell szert tennie.,travel,travel,"<|begin_of_text|>SENTENCE:
+ Általában egy hosszabban elhúzódó tartózkodáshoz egy külföldi országban előzetesen vízumra kell szert tennie. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+A SENT"
+Minden vonaton van MetroPlus és Metro kocsi is: a MetroPlus osztályú kocsik mindig a szerelvény Cape Townhoz legközelebbi végén vannak.,travel,travel,"<|begin_of_text|>SENTENCE:
+ Minden vonaton van MetroPlus és Metro kocsi is: a MetroPlus osztályú kocsik mindig a szerelvény Cape Townhoz legközelebbi végén vannak. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+ EXPLANATION:
+ A vá"
+Mindenki részese a társadalomnak és használ közlekedési rendszereket. Majdnem mindenkinek van panasza ezekkel kapcsolatban.,travel,N/A,"<|begin_of_text|>SENTENCE:
+ Mindenki részese a társadalomnak és használ közlekedési rendszereket. Majdnem mindenkinek van panasza ezekkel kapcsolatban. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- None of the above 
+ REASONING"
+"Mivel a térségek szórványosan lakottak, és a fényszennyezés ritkán okoz gondot, a csillagok nézésében is gyönyörködhetsz.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Mivel a térségek szórványosan lakottak, és a fényszennyezés ritkán okoz gondot, a csillagok nézésében is gyönyörködhetsz. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+A sz"
+"A vízumkövetelmények és költségek nemzetenként változnak, és a származási ország is befolyásolja.",travel,travel,"<|begin_of_text|>SENTENCE:
+ A vízumkövetelmények és költségek nemzetenként változnak, és a származási ország is befolyásolja. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+A SENT"
+Általánosságban beszélve nincs semmi értelme kedvezményeket keresni az A és B pont közötti üzleti vagy elsőosztályú helyeknél.,travel,travel,"<|begin_of_text|>SENTENCE:
+ Általánosságban beszélve nincs semmi értelme kedvezményeket keresni az A és B pont közötti üzleti vagy elsőosztályú helyeknél. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+A sz"
+"A bumeráng dobás egy olyan népszerű készség, amit sok turista szeretne elsajátítani.",travel,travel,"<|begin_of_text|>SENTENCE:
+ A bumeráng dobás egy olyan népszerű készség, amit sok turista szeretne elsajátítani. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+A b"
+"Ez a repülőjárat nem az egyetlen lehetőség, amennyiben át akarjuk ugrani a Dél-Csendes-óceánt és Dél-Amerika nyugati partját. (lásd lent)",travel,travel,"<|begin_of_text|>SENTENCE:
+ Ez a repülőjárat nem az egyetlen lehetőség, amennyiben át akarjuk ugrani a Dél-Csendes-óceánt és Dél-Amerika nyugati partját. (lásd lent) 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Ez"
+"San Francisco terjedelmes turisztikai infrastruktúrát fejlesztett ki rengeteg hotellel, étteremmel és első osztályú kongresszusi létesítménnyel.",travel,travel,"<|begin_of_text|>SENTENCE:
+ San Francisco terjedelmes turisztikai infrastruktúrát fejlesztett ki rengeteg hotellel, étteremmel és első osztályú kongresszusi létesítménnyel. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+A SENT"
+"Az utazás közbeni önkénteskedés nagyszerű módja a segítségnyújtásnak, de nem minden csak az adásról szól.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Az utazás közbeni önkénteskedés nagyszerű módja a segítségnyújtásnak, de nem minden csak az adásról szól. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+Az ut"
+"Az emberek valószínűleg nem gondolják, hogy a hazatérő utazóknak türelemre és a megértésre van szükségük.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Az emberek valószínűleg nem gondolják, hogy a hazatérő utazóknak türelemre és a megértésre van szükségük. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+A SENT"
+"Ne felejtse el hozzáadni a további vízumok, reptéri illeték, földi fuvarozás stb. többletköltségeit az Afrikán kívüli összes hely esetén.",travel,travel,"<|begin_of_text|>SENTENCE:
+ Ne felejtse el hozzáadni a további vízumok, reptéri illeték, földi fuvarozás stb. többletköltségeit az Afrikán kívüli összes hely esetén. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+This sentence"
+Számos bishkeki lakos a délről érkező tüntetőket hibáztatta a törvénytelenségért.,politics,politics,"<|begin_of_text|>SENTENCE:
+ Számos bishkeki lakos a délről érkező tüntetőket hibáztatta a törvénytelenségért. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+A sz"
+"Belgium egyes jelenlegi részei a múltban Luxemburg részét képezték, de az 1830-as belga forradalmat követően belga területté váltak.",politics,geography,"<|begin_of_text|>SENTENCE:
+ Belgium egyes jelenlegi részei a múltban Luxemburg részét képezték, de az 1830-as belga forradalmat követően belga területté váltak. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+A"
+"1988 óta a szavazóurnáknak átlátszóknak kell lenniük, hogy a szavazók és megfigyelők láthassák, hogy a szavazás előtt nincs bennük boríték, és hogy csak a megfelelően számon tartott és jogosult szavazók  tehessenek bele borítékot.",politics,politics,"<|begin_of_text|>SENTENCE:
+ 1988 óta a szavazóurnáknak átlátszóknak kell lenniük, hogy a szavazók és megfigyelők láthassák, hogy a szavazás előtt nincs bennük boríték, és hogy csak a megfelelően számon tartott és jogosult szavazók  tehessenek bele borítékot. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+A sz"
+"Az ügyvivő miniszterelnök, Julia Gillard a 2010-es szövetségi választások kampánya során azt állította, hogy II. Erzsébet királynő királyságának végén Ausztráliának köztársasággá kell válnia.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Az ügyvivő miniszterelnök, Julia Gillard a 2010-es szövetségi választások kampánya során azt állította, hogy II. Erzsébet királynő királyságának végén Ausztráliának köztársasággá kell válnia. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+A vá"
+Az ír kormány a helyzet orvoslása érdekében sürgeti a határozat parlament általi törvényi szintre való emelését.,politics,politics,"<|begin_of_text|>SENTENCE:
+ Az ír kormány a helyzet orvoslása érdekében sürgeti a határozat parlament általi törvényi szintre való emelését. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+A SENT"
+A térséggel kapcsolatos diplomáciai viták továbbra is gyengítik az Örményország és Azerbajdzsán közötti kapcsolatokat.,politics,politics,"<|begin_of_text|>SENTENCE:
+ A térséggel kapcsolatos diplomáciai viták továbbra is gyengítik az Örményország és Azerbajdzsán közötti kapcsolatokat. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+A SENT"
+"Jack Laytonnal, az NDP vezetőjével kedden, a miniszterelnöki irodában folytatott 25 perces megbeszélést követően Stephen Harper miniszterelnök egyetértett azzal, hogy a kormány „tiszta levegőről szóló törvényét” a második olvasat előtt terjesszék elő egy összpárti bizottságnak felülvizsgálatra.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Jack Laytonnal, az NDP vezetőjével kedden, a miniszterelnöki irodában folytatott 25 perces megbeszélést követően Stephen Harper miniszterelnök egyetértett azzal, hogy a kormány „tiszta levegőről szóló törvényét” a második olvasat előtt terjesszék elő egy összpárti bizottságnak felülvizsgálatra. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+politics
+EXPLANATION:
+A SENT"
+"Az elmúlt hónapban nagyszabású tiltakozások voltak Lengyelországban - mivel az ország csatlakozott az ACTA egyezményhez - melynek hatására a lengyel kormány úgy döntött, egyelőre nem ratifikálja a megállapodást.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Az elmúlt hónapban nagyszabású tiltakozások voltak Lengyelországban - mivel az ország csatlakozott az ACTA egyezményhez - melynek hatására a lengyel kormány úgy döntött, egyelőre nem ratifikálja a megállapodást. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+ Ez a"
+A tájékoztatók csupán rövid összefoglalók egy ország politikai helyzetéről.,politics,politics,"<|begin_of_text|>SENTENCE:
+ A tájékoztatók csupán rövid összefoglalók egy ország politikai helyzetéről. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+A tá"
+"Az 1976-os választások során Carter külpolitikai tanácsadója volt, majd Nemzetbiztonsági Tanácsadóként (NSA) szolgált 1977-1981 között, Henry Kissinger után.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Az 1976-os választások során Carter külpolitikai tanácsadója volt, majd Nemzetbiztonsági Tanácsadóként (NSA) szolgált 1977-1981 között, Henry Kissinger után. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+A SENT"
+"Törökország átvenné azon elfogott ISIS harcosok őrzését is, akik visszatelepítését a nyilatkozat szerint az európai nemzetek megtagadták.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Törökország átvenné azon elfogott ISIS harcosok őrzését is, akik visszatelepítését a nyilatkozat szerint az európai nemzetek megtagadták. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+ A SENT"
+"Ugyanakkor ezek a tervek szinte egyik napról a másikra idejétmúlttá lettek nyilvánítva, amikor több mint 800 000 katona a szovjet vörös hadseregből belépett és létrehozta a belorusz és ukrán frontokat, miután lerohanták Lengyelország keleti részét, megszegve ezzel a rigai békeszerződést, a szovjet-lengyel megnemtámadási egyezményt és más nemzetközi két- és többoldalú megállapodásokat.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Ugyanakkor ezek a tervek szinte egyik napról a másikra idejétmúlttá lettek nyilvánítva, amikor több mint 800 000 katona a szovjet vörös hadseregből belépett és létrehozta a belorusz és ukrán frontokat, miután lerohanták Lengyelország keleti részét, megszegve ezzel a rigai békeszerződést, a szovjet-lengyel megnemtámadási egyezményt és más nemzetközi két- és többoldalú megállapodásokat. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+ Ez a"
+"A folyamatot követően a HJR-3 2015-ben vagy 2016-ban megint felülvizsgálásra kerül, hogy a következő megválasztott törvényhozás alatt is folyamatban maradhasson.",politics,politics,"<|begin_of_text|>SENTENCE:
+ A folyamatot követően a HJR-3 2015-ben vagy 2016-ban megint felülvizsgálásra kerül, hogy a következő megválasztott törvényhozás alatt is folyamatban maradhasson. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+A SENT"
+"A Kongresszuson történő július 4-i bevezetését követően a Kongresszus elnöke, John Hancock és az államtitkár Charles Thomson által aláírt kéziratú vázlatot átküldték a John Dunlap néhány háztömbbel odébb található nyomdájába.",politics,politics,"<|begin_of_text|>SENTENCE:
+ A Kongresszuson történő július 4-i bevezetését követően a Kongresszus elnöke, John Hancock és az államtitkár Charles Thomson által aláírt kéziratú vázlatot átküldték a John Dunlap néhány háztömbbel odébb található nyomdájába. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+A vá"
+Közvetlenül 11:00 óra után tüntetők zárták el a forgalom útját a Whitehall északi részén.,politics,politics,"<|begin_of_text|>SENTENCE:
+ Közvetlenül 11:00 óra után tüntetők zárták el a forgalom útját a Whitehall északi részén. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+A politik"
+"1956 júniusában azonban Hruscsov ígéreteit próbára tették a Lengyelországi zavargások, amikor a munkások élelmiszerhiány és bércsökkentések elleni tüntetései kommunizmus elleni általános tiltakozássá fajultak.",politics,politics,"<|begin_of_text|>SENTENCE:
+ 1956 júniusában azonban Hruscsov ígéreteit próbára tették a Lengyelországi zavargások, amikor a munkások élelmiszerhiány és bércsökkentések elleni tüntetései kommunizmus elleni általános tiltakozássá fajultak. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+A SENT"
+"Az elkövetkező 40 éven át tartott és proxy hadseregek csaptak össze Afrikában, Ázsiában, Afganisztánban, Kubában, és sok más helyszínen.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Az elkövetkező 40 éven át tartott és proxy hadseregek csaptak össze Afrikában, Ázsiában, Afganisztánban, Kubában, és sok más helyszínen. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+A SENT"
+"Múlt hónapban egy elnöki bizottság ajánlotta az előző CEP lemondását egy intézkedéscsomag részeként, amivel az országot új választások felé vezetnék.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Múlt hónapban egy elnöki bizottság ajánlotta az előző CEP lemondását egy intézkedéscsomag részeként, amivel az országot új választások felé vezetnék. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+A SENT"
+"Állítólag az érintett többi téma között szerepelt Jeruzsálem jövőbeni helyzete, mely mindkét nemzet számára szent, és a Jordán-völgy problémája.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Állítólag az érintett többi téma között szerepelt Jeruzsálem jövőbeni helyzete, mely mindkét nemzet számára szent, és a Jordán-völgy problémája. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+A SENT"
+Nem volt felhatalmazása az adóügyi törvények és államok közötti vámtarifák felülbírálására sem.,politics,politics,"<|begin_of_text|>SENTENCE:
+ Nem volt felhatalmazása az adóügyi törvények és államok közötti vámtarifák felülbírálására sem. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+A sz"
+A francia választói jog elég szigorúan szabályozza a lebonyolítást.,politics,politics,"<|begin_of_text|>SENTENCE:
+ A francia választói jog elég szigorúan szabályozza a lebonyolítást. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+A vá"
+Az időközi választásokon elszenvedett vereségekkel teli hetet követően Bush közölte a résztvevőkkel az ázsiai kereskedelmi terjeszkedési szándékát.,politics,politics,"<|begin_of_text|>SENTENCE:
+ Az időközi választásokon elszenvedett vereségekkel teli hetet követően Bush közölte a résztvevőkkel az ázsiai kereskedelmi terjeszkedési szándékát. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+A vá"
+"A stratégia hatékonynak bizonyult, elzárva létfontosságú katonai és civil ellátmányokat, bár a blokád megsértette az előző két évszázad több nemzetközi  megállapodásában megfogalmazott általános nemzetközi jogokat.",politics,politics,"<|begin_of_text|>SENTENCE:
+ A stratégia hatékonynak bizonyult, elzárva létfontosságú katonai és civil ellátmányokat, bár a blokád megsértette az előző két évszázad több nemzetközi  megállapodásában megfogalmazott általános nemzetközi jogokat. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+A strat"
+A politikai tárgyalások kudarca ellenére a gazdasági kapcsolatokat Moldova e két része között helyreállították.,politics,politics,"<|begin_of_text|>SENTENCE:
+ A politikai tárgyalások kudarca ellenére a gazdasági kapcsolatokat Moldova e két része között helyreállították. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+A politik"
+"Hivatalos személyekkel körülvéve magát biztosította a texasi állampolgárokat, hogy lépéseket tesznek meg a közbiztonság érdekében.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Hivatalos személyekkel körülvéve magát biztosította a texasi állampolgárokat, hogy lépéseket tesznek meg a közbiztonság érdekében. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+A SENT"
+Az újjáépítési erőfeszítések liberális kritikája az újjáépítési szerződések odaítélésére összpontosított a feltételezett washingtoni bennfentesek számára.,politics,politics,"<|begin_of_text|>SENTENCE:
+ Az újjáépítési erőfeszítések liberális kritikája az újjáépítési szerződések odaítélésére összpontosított a feltételezett washingtoni bennfentesek számára. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+A politik"
+"A 2010-es szövetségi választást megelőzően a megkérdezett 1400 ember között azok aránya, akik ellenezték, hogy Ausztrália köztársasággá váljon, 8%-kal nőtt 2008 óta.",politics,politics,"<|begin_of_text|>SENTENCE:
+ A 2010-es szövetségi választást megelőzően a megkérdezett 1400 ember között azok aránya, akik ellenezték, hogy Ausztrália köztársasággá váljon, 8%-kal nőtt 2008 óta. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+A vá"
+"A diplomaták azt mondták, hogy elegendő kétértelműséget találtak az afgán alkotmányban ahhoz, hogy a további fordulót szükségtelennek ítéljék.",politics,politics,"<|begin_of_text|>SENTENCE:
+ A diplomaták azt mondták, hogy elegendő kétértelműséget találtak az afgán alkotmányban ahhoz, hogy a további fordulót szükségtelennek ítéljék. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+A diplomat"
+"Az eredmények megjelenése után Gingrich dicsérte Santorumot, de kemény szavakkal illette Romney-t, akinek a nevében Iowában negatív kampányhirdetéseket jelentettek Gingrich ellen.",politics,politics,"<|begin_of_text|>SENTENCE:
+ Az eredmények megjelenése után Gingrich dicsérte Santorumot, de kemény szavakkal illette Romney-t, akinek a nevében Iowában negatív kampányhirdetéseket jelentettek Gingrich ellen. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+A SENT"
+Ez Martelly ötödik CEP-je a négy év alatt.,politics,politics,"<|begin_of_text|>SENTENCE:
+ Ez Martelly ötödik CEP-je a négy év alatt. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+REASONING:
+This sentence"
+"Az olimpiai aranyérmes úszó 100 és 200 méteren teljesített volna gyorsúszásban és három váltó versenyszámban a Nemzetközösségi Játékokon, de panaszai miatt az erőnléte felől kétségek merültek fel.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Az olimpiai aranyérmes úszó 100 és 200 méteren teljesített volna gyorsúszásban és három váltó versenyszámban a Nemzetközösségi Játékokon, de panaszai miatt az erőnléte felől kétségek merültek fel. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+A SENT"
+"Mint korábbi olimpiai és világbajnok, halálának napján Saito volt a Japán Judo Szövetség tréning bizottságának elnöke.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Mint korábbi olimpiai és világbajnok, halálának napján Saito volt a Japán Judo Szövetség tréning bizottságának elnöke. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+A SENT"
+"A Nemzetközi Olimpiai Bizottság igazgatótanácsa arra szavazott, hogy a sportok bekerüljenek a mai berlini igazgatói tárgyalásba. A rögbit, különösen az egyesületi rögbi, és a golfot öt másik sport helyett választották ki, hogy része legyen az Olimpiai Játékoknak.",sports,sports,"<|begin_of_text|>SENTENCE:
+ A Nemzetközi Olimpiai Bizottság igazgatótanácsa arra szavazott, hogy a sportok bekerüljenek a mai berlini igazgatói tárgyalásba. A rögbit, különösen az egyesületi rögbi, és a golfot öt másik sport helyett választották ki, hogy része legyen az Olimpiai Játékoknak. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+A Nem"
+Az év legnagyobb versenysorozata decemberben lesz a  Las Cañitas lovaspóló pályán.,sports,sports,"<|begin_of_text|>SENTENCE:
+ Az év legnagyobb versenysorozata decemberben lesz a  Las Cañitas lovaspóló pályán. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+A SENT"
+"Mióta a katalán fővárosba költözött, Vidal 49 meccsen lépett pályára a klubban.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Mióta a katalán fővárosba költözött, Vidal 49 meccsen lépett pályára a klubban. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+ REASONING:
+ This SENT"
+"Az egészséges energiaháztartás fenntartása, a hatékony hidratálási gyakorlatok és a kiegészítő étrend különféle vonatkozásainak megértése elősegítheti a sportolók teljesítményének javítását és a sport élvezetének fokozását.",sports,health,"<|begin_of_text|>SENTENCE:
+ Az egészséges energiaháztartás fenntartása, a hatékony hidratálási gyakorlatok és a kiegészítő étrend különféle vonatkozásainak megértése elősegítheti a sportolók teljesítményének javítását és a sport élvezetének fokozását. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+health
+EXPLANATION:
+A szö"
+"Hamlin harmadikként húsz ponttal van lemaradva, de Bowyer előtt van öttel.  Kahne és Truex, Jr. az ötödik és hatodik helyen áll 2220 és 2207 ponttal.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Hamlin harmadikként húsz ponttal van lemaradva, de Bowyer előtt van öttel.  Kahne és Truex, Jr. az ötödik és hatodik helyen áll 2220 és 2207 ponttal. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+A SENT"
+Nadal kanadiai versenyző elleni rekordja 7 - 2.,sports,sports,"<|begin_of_text|>SENTENCE:
+ Nadal kanadiai versenyző elleni rekordja 7 - 2. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+ REASONING SKILL:
+"
+Jarque az olaszországi Covercianóban gyakorolt az előszezoni edzések keretében a mai nap során. A csapat szállodájában szállt meg a vasárnapra tervezett Bolonia elleni meccs előtt.,sports,travel,"<|begin_of_text|>SENTENCE:
+ Jarque az olaszországi Covercianóban gyakorolt az előszezoni edzések keretében a mai nap során. A csapat szállodájában szállt meg a vasárnapra tervezett Bolonia elleni meccs előtt. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+ REASONING SKILL:
+"
+"A szállítás hiányával kapcsolatos félelmek felvetették a lehetőséget, hogy a játékot kötelező módon zárt ajtók mögött folytassák le a csapat szurkolói nélkül.",sports,entertainment,"<|begin_of_text|>SENTENCE:
+ A szállítás hiányával kapcsolatos félelmek felvetették a lehetőséget, hogy a játékot kötelező módon zárt ajtók mögött folytassák le a csapat szurkolói nélkül. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+A"
+"Tommy Dreamer azt mondta: „Luna volt az extremitás első királynője. Az első menedzserem. Luna kétholdas éjen hunyt el. Nagyon egyedi volt, pont úgy, mint ő maga. Erős nő.”",sports,entertainment,"<|begin_of_text|>SENTENCE:
+ Tommy Dreamer azt mondta: „Luna volt az extremitás első királynője. Az első menedzserem. Luna kétholdas éjen hunyt el. Nagyon egyedi volt, pont úgy, mint ő maga. Erős nő.” 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+Az"
+"A lengyelországi látássérült síelő, Maciej Krezel és vezetője, Anna Ogarzynska a tizenharmadik helyet érte el a Super-G versenyen. A dél-koreai Jong Seork Park huszonnegyedik lett a férfiak ülő Super-G versenyén.",sports,sports,"<|begin_of_text|>SENTENCE:
+ A lengyelországi látássérült síelő, Maciej Krezel és vezetője, Anna Ogarzynska a tizenharmadik helyet érte el a Super-G versenyen. A dél-koreai Jong Seork Park huszonnegyedik lett a férfiak ülő Super-G versenyén. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+A sports"
+A bajnokságokkal kapcsolatos hírekért és a pólómeccsekre szóló jegyek megvásárlásával kapcsolatban keresse fel az Asociacion Argentina de Polo honlapját.,sports,sports,"<|begin_of_text|>SENTENCE:
+ A bajnokságokkal kapcsolatos hírekért és a pólómeccsekre szóló jegyek megvásárlásával kapcsolatban keresse fel az Asociacion Argentina de Polo honlapját. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+sports
+EXPLANATION:
+A SENTENC"
+"A torna 10 órakor kezdődött remek időjárásban, és a reggeli átmeneti szemerkélő esőtől eltekintve tökéletes nap volt a 7-es rögbi számára.",sports,sports,"<|begin_of_text|>SENTENCE:
+ A torna 10 órakor kezdődött remek időjárásban, és a reggeli átmeneti szemerkélő esőtől eltekintve tökéletes nap volt a 7-es rögbi számára. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+A torn"
+"Arly Velasques Mexikóból lett a férfi ülő Szuper-G tizenötödik helyezettje, míg az új-zélandi Adam Hall kilencedik helyen zárta a férfi ülő Szuper-G versenyt.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Arly Velasques Mexikóból lett a férfi ülő Szuper-G tizenötödik helyezettje, míg az új-zélandi Adam Hall kilencedik helyen zárta a férfi ülő Szuper-G versenyt. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+sports
+EXPLANATION:
+ Ez a mon"
+"A sorozat utolsó mérkőzése jövő héten, a johannesburgi Ellis Parkban kerül megrendezésre, ahol a Springboks Ausztrália ellen játszik.",sports,sports,"<|begin_of_text|>SENTENCE:
+ A sorozat utolsó mérkőzése jövő héten, a johannesburgi Ellis Parkban kerül megrendezésre, ahol a Springboks Ausztrália ellen játszik. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+A sor"
+"Jó körülmények között nagyobb távolságot tud majd megtenni, mint gyalogolva - de csak ritkán érheti el a sífutáshoz szükséges sebességet egy nehéz hátizsák nélkül a gondozott pályákon.",sports,travel,"<|begin_of_text|>SENTENCE:
+ Jó körülmények között nagyobb távolságot tud majd megtenni, mint gyalogolva - de csak ritkán érheti el a sífutáshoz szükséges sebességet egy nehéz hátizsák nélkül a gondozott pályákon. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+A SENT"
+"Hét ponttal lemaradva, Johnson a második 2.243-al.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Hét ponttal lemaradva, Johnson a második 2.243-al. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+A sports"
+"A canyoning azt jelenti, hogy lemegyünk egy kanyon aljára, amely vagy száraz, vagy tele van vízzel.",sports,travel,"<|begin_of_text|>SENTENCE:
+ A canyoning azt jelenti, hogy lemegyünk egy kanyon aljára, amely vagy száraz, vagy tele van vízzel. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+A can"
+"Robin Uthappa szerezte a játékrész legmagasabb pontszámát: 70 pont mindössze 41 labdából, 11 négyes és 2 hatos ütéssel.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Robin Uthappa szerezte a játékrész legmagasabb pontszámát: 70 pont mindössze 41 labdából, 11 négyes és 2 hatos ütéssel. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+A SENT"
+"A téli sportok a legnépszerűbbek az északi régiókban, nemzetközi játékokban és olimpiai eseményekben versenyző olaszokkal.",sports,sports,"<|begin_of_text|>SENTENCE:
+ A téli sportok a legnépszerűbbek az északi régiókban, nemzetközi játékokban és olimpiai eseményekben versenyző olaszokkal. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+A SENT"
+"Maroochydore a csúcson végzett, hat ponttal a második helyezett Noosa előtt.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Maroochydore a csúcson végzett, hat ponttal a második helyezett Noosa előtt. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+A SENT"
+"Michael Schumacher nem sokkal Alonso után fejezte be a versenyt, a futóművének a verseny közbeni összecsapások miatti károsodásai miatt.",sports,sports,"<|begin_of_text|>SENTENCE:
+ Michael Schumacher nem sokkal Alonso után fejezte be a versenyt, a futóművének a verseny közbeni összecsapások miatti károsodásai miatt. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+A SENT"
+"A helyes táplálkozás önmagában nem feltételez kiemelkedő teljesítményt, ám jelentősen befolyásolni tudja a fiatal sportolók általános jóllétét.",sports,health,"<|begin_of_text|>SENTENCE:
+ A helyes táplálkozás önmagában nem feltételez kiemelkedő teljesítményt, ám jelentősen befolyásolni tudja a fiatal sportolók általános jóllétét. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health 
+-EXPLANATION:
+A SENT"
+"Nem tudta beszedni azokat a gyógyszereket, melyek a fájdalom legyőzéséhez kellettek, mivel tiltva vannak a játékoktól.",sports,health,"<|begin_of_text|>SENTENCE:
+ Nem tudta beszedni azokat a gyógyszereket, melyek a fájdalom legyőzéséhez kellettek, mivel tiltva vannak a játékoktól. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health
+EXPLANATION:
+ Ez a mon"
+"A kutatások azt mutatták, hogy a nőknek kétszer nagyobb valószínűséggel lehet szklerózis multiplexük, mint a férfiaknak.",health,health,"<|begin_of_text|>SENTENCE:
+ A kutatások azt mutatták, hogy a nőknek kétszer nagyobb valószínűséggel lehet szklerózis multiplexük, mint a férfiaknak. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health
+EXPLANATION:
+A szö"
+"Az illegális szesz különféle veszélyes szennyeződéseket tartalmazhat, beleértve a metanolt is, amely már kis dózisban is vakságot vagy halált okozhat",health,health,"<|begin_of_text|>SENTENCE:
+ Az illegális szesz különféle veszélyes szennyeződéseket tartalmazhat, beleértve a metanolt is, amely már kis dózisban is vakságot vagy halált okozhat 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health
+EXPLANATION:
+A szö"
+"A heti rendszerességű, szisztematikus testmozgásos foglalkozások csak a fájdalom felnagyításának hatásaira hatottak ki, a depresszióra és a félelemre nem.",health,health,"<|begin_of_text|>SENTENCE:
+ A heti rendszerességű, szisztematikus testmozgásos foglalkozások csak a fájdalom felnagyításának hatásaira hatottak ki, a depresszióra és a félelemre nem. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health
+EXPLANATION:
+A szö"
+"A tömeges autóbirtoklás ugyanakkor magas közúti baleset számokhoz is vezet, ami az egészségügyben új, a sérült testek gyógyítására hivatott technikák feltalálását ösztönzi.",health,science/technology,"<|begin_of_text|>SENTENCE:
+ A tömeges autóbirtoklás ugyanakkor magas közúti baleset számokhoz is vezet, ami az egészségügyben új, a sérült testek gyógyítására hivatott technikák feltalálását ösztönzi. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+A SENT"
+"Vezető kutatók azt állítják, hogy ez a rák, a tuberkulózis, a HIV és a malária korai észlelését hozhatja magával az alacsony jövedelmű országokban, ahol az olyan betegségek, mint a mellrák túlélési aránya fele akkora, mint a gazdagabb országokban.",health,health,"<|begin_of_text|>SENTENCE:
+ Vezető kutatók azt állítják, hogy ez a rák, a tuberkulózis, a HIV és a malária korai észlelését hozhatja magával az alacsony jövedelmű országokban, ahol az olyan betegségek, mint a mellrák túlélési aránya fele akkora, mint a gazdagabb országokban. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health
+EXPLANATION:
+A szö"
+"Dr. Ehud Ur, az új-Skóciai Halifaxban lévő Dalhousie Egyetem orvosprofesszora és a Kanadai Diabétesz Társaság klinikai és tudományos részlegének elnöke figyelmeztetett, hogy a kutatás még korai szakaszában tart.",health,health,"<|begin_of_text|>SENTENCE:
+ Dr. Ehud Ur, az új-Skóciai Halifaxban lévő Dalhousie Egyetem orvosprofesszora és a Kanadai Diabétesz Társaság klinikai és tudományos részlegének elnöke figyelmeztetett, hogy a kutatás még korai szakaszában tart. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+health
+REASONING SKILL:
+ Em"
+"Ezek a gyerekek gyakran keverednek bajba, mert agyuk stimulálása érdekében „kockázatosan viselkednek, verekedésbe kerülnek és lázadnak a tekintély ellen”, mivel agyukat normál módszerekkel nem lehet stimulálni.",health,science/technology,"<|begin_of_text|>SENTENCE:
+ Ezek a gyerekek gyakran keverednek bajba, mert agyuk stimulálása érdekében „kockázatosan viselkednek, verekedésbe kerülnek és lázadnak a tekintély ellen”, mivel agyukat normál módszerekkel nem lehet stimulálni. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+A SENT"
+A szél és hullámok által a levegőbe kevert szennyezett víz belégzésén keresztül az emberek is érintettek lehetnek.,health,health,"<|begin_of_text|>SENTENCE:
+ A szél és hullámok által a levegőbe kevert szennyezett víz belégzésén keresztül az emberek is érintettek lehetnek. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health
+EXPLANATION:
+Ez a"
+"Néhányan úgy vélik, hogy a gyakori mesterségesen előidézett tudatos álmodás rendkívül megterhelő lehet.",health,science/technology,"<|begin_of_text|>SENTENCE:
+ Néhányan úgy vélik, hogy a gyakori mesterségesen előidézett tudatos álmodás rendkívül megterhelő lehet. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+A sz"
+"Potro a meccsnek ezen a pontján ápolásban részesült a válla miatt, de aztán ismét játékba tudott állni.",health,health,"<|begin_of_text|>SENTENCE:
+ Potro a meccsnek ezen a pontján ápolásban részesült a válla miatt, de aztán ismét játékba tudott állni. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+health
+EXPLANATION:
+The word """
+"Mi több, komoly következményei vannak, ha ez nem teljesül: növekedési depresszió, helytelen táplálkozás és végső soron halál.",health,health,"<|begin_of_text|>SENTENCE:
+ Mi több, komoly következményei vannak, ha ez nem teljesül: növekedési depresszió, helytelen táplálkozás és végső soron halál. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health
+EXPLANATION:
+Ez a"
+"Amszterdam városának és az Anne Frank Múzeumnak tisztviselői azt állítják, hogy a fa gombával fertőzött, és közegészségügyi veszélyt jelent, mivel állításuk szerint fennáll a kidőlés közvetlen veszélye.",health,health,"<|begin_of_text|>SENTENCE:
+ Amszterdam városának és az Anne Frank Múzeumnak tisztviselői azt állítják, hogy a fa gombával fertőzött, és közegészségügyi veszélyt jelent, mivel állításuk szerint fennáll a kidőlés közvetlen veszélye. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+health
+EXPLANATION:
+A válas"
+"A kórház a fertőzés elleni védekezés protokollját követte, ideértve a beteg másoktól való elkülönítését is, hogy ezzel megelőzzék mások esetleges megfertőződését.",health,health,"<|begin_of_text|>SENTENCE:
+ A kórház a fertőzés elleni védekezés protokollját követte, ideértve a beteg másoktól való elkülönítését is, hogy ezzel megelőzzék mások esetleges megfertőződését. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health
+EXPLANATION:
+Ez a"
+"A Haiti Igazságügyi és Demokráciai Intézet független tanulmányokra hivatkozott, amelyek szerint a nepáli ENSZ békefenntartó zászlóalj tudtán kívül Haitire hozta a betegséget.",health,politics,"<|begin_of_text|>SENTENCE:
+ A Haiti Igazságügyi és Demokráciai Intézet független tanulmányokra hivatkozott, amelyek szerint a nepáli ENSZ békefenntartó zászlóalj tudtán kívül Haitire hozta a betegséget. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+A SENT"
+"Maguk a fertőző betegségek, vagy az olyan veszélyes állatok, melyek sérülést okozhatnak vagy megölhetnek embereket, általában nem minősülnek kártevőknek.",health,health,"<|begin_of_text|>SENTENCE:
+ Maguk a fertőző betegségek, vagy az olyan veszélyes állatok, melyek sérülést okozhatnak vagy megölhetnek embereket, általában nem minősülnek kártevőknek. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health
+EXPLANATION:
+A maguk"
+"Az ADD-s gyerekek nehezen tudnak olyan dolgokra összpontosítani, mint például az iskolai munka, de képesek odafigyelni az élvezetes dolgokra, például játszás, kedvenc rajzfilmek nézése, vagy központozás nélküli mondatok írása.",health,entertainment,"<|begin_of_text|>SENTENCE:
+ Az ADD-s gyerekek nehezen tudnak olyan dolgokra összpontosítani, mint például az iskolai munka, de képesek odafigyelni az élvezetes dolgokra, például játszás, kedvenc rajzfilmek nézése, vagy központozás nélküli mondatok írása. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+Az"
+Egy év alatt egy fertőzött 10-15 közeli kapcsolatát fertőzheti meg.,health,health,"<|begin_of_text|>SENTENCE:
+ Egy év alatt egy fertőzött 10-15 közeli kapcsolatát fertőzheti meg. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health
+EXPLANATION:
+A szö"
+"A harc végén a sebesülteket a kórházba szállították, míg a többi körülbelül 40 rab az udvaron maradt és megtagadta a cellákba való visszatérést.",health,politics,"<|begin_of_text|>SENTENCE:
+ A harc végén a sebesülteket a kórházba szállították, míg a többi körülbelül 40 rab az udvaron maradt és megtagadta a cellákba való visszatérést. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+A harc"
+"Az orvosokat Augustus császár kezdte alkalmazni, sőt, ő volt az, aki létre hozta az első római orvosi testületet a csaták utóhatásainak kezelésére.",health,health,"<|begin_of_text|>SENTENCE:
+ Az orvosokat Augustus császár kezdte alkalmazni, sőt, ő volt az, aki létre hozta az első római orvosi testületet a csaták utóhatásainak kezelésére. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health 
+-EXPLANATION:
+Az or"
+A sofőr azonban súlyos fejsérüléseket szenvedett.,health,health,"<|begin_of_text|>SENTENCE:
+ A sofőr azonban súlyos fejsérüléseket szenvedett. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health
+EXPLANATION:
+The word """
+"„Vannak olyan négy hónapos egereink, melyek már nem cukorbetegek, míg előtte azok voltak” - tette hozzá.",health,health,"<|begin_of_text|>SENTENCE:
+ „Vannak olyan négy hónapos egereink, melyek már nem cukorbetegek, míg előtte azok voltak” - tette hozzá. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+health
+EXPLANATION:
+A szö"
+"A belső mérgezés nem feltétlenül nyilvánvaló azonnal. Az olyan tünetek, mint például a hányás túlságosan általánosak ahhoz, hogy egy azonnali diagnózist lehessen megállapítani.",health,health,"<|begin_of_text|>SENTENCE:
+ A belső mérgezés nem feltétlenül nyilvánvaló azonnal. Az olyan tünetek, mint például a hányás túlságosan általánosak ahhoz, hogy egy azonnali diagnózist lehessen megállapítani. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health
+EXPLANATION:
+A szö"
+"Ebből az lett, hogy az előadók kannabiszt szívtak a színpadon, és a színház arra bátorítja a közönséget hogy csatlakozzanak.",entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Ebből az lett, hogy az előadók kannabiszt szívtak a színpadon, és a színház arra bátorítja a közönséget hogy csatlakozzanak. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+Az"
+Az Aerosmith lemondta a turnéjuk fennmaradó koncertjeit.,entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Az Aerosmith lemondta a turnéjuk fennmaradó koncertjeit. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+Az"
+"Ha közel szeretne lenni a történéshez, korán kell érkeznie, hogy a zenéhez közeli kempinghelyhez jusson.",entertainment,travel,"<|begin_of_text|>SENTENCE:
+ Ha közel szeretne lenni a történéshez, korán kell érkeznie, hogy a zenéhez közeli kempinghelyhez jusson. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+A SENT"
+"Sok különféle filmformátum létezik, melyet az évek során használtak. A leggyakoribb a standard 35 mm-es film (36x24 mm negatív).",entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Sok különféle filmformátum létezik, melyet az évek során használtak. A leggyakoribb a standard 35 mm-es film (36x24 mm negatív). 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+A"
+"Bár a tevékenység nagyon is gyakori, a Disney nem engedélyezi a jegyek átruházását.",entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Bár a tevékenység nagyon is gyakori, a Disney nem engedélyezi a jegyek átruházását. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+A"
+"A műsor minden epizódja egy témára koncentrál egy adott könyvből, melyet több történettel is elemzünk.",entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ A műsor minden epizódja egy témára koncentrál egy adott könyvből, melyet több történettel is elemzünk. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+A"
+"Róma különböző pontjain nagyméretű televízió képernyőket helyeztek ki, hogy az emberek követhessék a ceremóniát.",entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Róma különböző pontjain nagyméretű televízió képernyőket helyeztek ki, hogy az emberek követhessék a ceremóniát. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+Az"
+"Szophoklész és Arisztotelész még mindig népszerű drámaírók, és színdarabjaikat a világirodalom legjelentősebb darabjaiként tartják számon.",entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Szophoklész és Arisztotelész még mindig népszerű drámaírók, és színdarabjaikat a világirodalom legjelentősebb darabjaiként tartják számon. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+Az"
+"Minden műsorban volt könyvajánló is a gyerekeknek olyan könyvekről, amelyeket az iskolai könyvtárban megtalálhattak.",entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Minden műsorban volt könyvajánló is a gyerekeknek olyan könyvekről, amelyeket az iskolai könyvtárban megtalálhattak. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+Az"
+A harmonikán extra hangerő eléréséhez a fújtatót nagyobb nyomással vagy sebességgel kell használni.,entertainment,science/technology,"<|begin_of_text|>SENTENCE:
+ A harmonikán extra hangerő eléréséhez a fújtatót nagyobb nyomással vagy sebességgel kell használni. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+A harmon"
+Láthatjuk a piramisokat a sötétben és csendben még a show kezdete előtt.,entertainment,travel,"<|begin_of_text|>SENTENCE:
+ Láthatjuk a piramisokat a sötétben és csendben még a show kezdete előtt. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+A pir"
+"A helyszíni programok között szerepel a vadászat, halászat, fényképezés, madárlesés, parklátogatás és az ökoszisztémával kapcsolatos információk tanulmányozása.",entertainment,travel,"<|begin_of_text|>SENTENCE:
+ A helyszíni programok között szerepel a vadászat, halászat, fényképezés, madárlesés, parklátogatás és az ökoszisztémával kapcsolatos információk tanulmányozása. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+A SENT"
+"A szfinx szolgáltatja a hátteret, és ő a narrátora egy hosszú történetnek.",entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ A szfinx szolgáltatja a hátteret, és ő a narrátora egy hosszú történetnek. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+A"
+"Általában különleges étel, ital és szórakozási ajánlataik vannak, hogy a vendégeknek jó hangulata legyen, és a helyiségben tartsák őket.",entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Általában különleges étel, ital és szórakozási ajánlataik vannak, hogy a vendégeknek jó hangulata legyen, és a helyiségben tartsák őket. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+Az"
+"Az angol és japán nyelven már közvetítő globális szervezet elindítja spanyol, olasz és koreai nyelvű televíziós, online és mobileszközökre szánt programjait.",entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Az angol és japán nyelven már közvetítő globális szervezet elindítja spanyol, olasz és koreai nyelvű televíziós, online és mobileszközökre szánt programjait. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment 
+REASONING:
+This"
+A Simpson család előtt Simon különböző műsorokban és munkakörökben dolgozott.,entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ A Simpson család előtt Simon különböző műsorokban és munkakörökben dolgozott. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+A"
+Ez lehetővé teszi a játékosok számára a videojátékok műveleteinek és mozgásainak ellenőrzését az eszköznek a levegőben történő mozgatásával.,entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Ez lehetővé teszi a játékosok számára a videojátékok műveleteinek és mozgásainak ellenőrzését az eszköznek a levegőben történő mozgatásával. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+A"
+"Legalább 100 ember vett részt a fogadáson, hogy megünnepeljék egy pár egy évvel korábban tartott esküvőjének évfordulóját.",entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ Legalább 100 ember vett részt a fogadáson, hogy megünnepeljék egy pár egy évvel korábban tartott esküvőjének évfordulóját. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+Az"
+"A film két dalát is - Audition (The Fools Who Dream) és City of Stars - a legjobb eredeti dal díjra jelölték. A Lionsgate stúdió 26 nevezéssel büszkélkedhet - többel, mint bármely más stúdió.",entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ A film két dalát is - Audition (The Fools Who Dream) és City of Stars - a legjobb eredeti dal díjra jelölték. A Lionsgate stúdió 26 nevezéssel büszkélkedhet - többel, mint bármely más stúdió. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+Az"
+A kéreg körülbelül 70 km vastag a közeli oldalon és 100 km vastag a túloldalon.,geography,geography,"<|begin_of_text|>SENTENCE:
+ A kéreg körülbelül 70 km vastag a közeli oldalon és 100 km vastag a túloldalon. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+A"
+"Délebbre a Niagara-vízesés, északon pedig a kiaknázatlan természeti szépségű Muskoka található.",geography,travel,"<|begin_of_text|>SENTENCE:
+ Délebbre a Niagara-vízesés, északon pedig a kiaknázatlan természeti szépségű Muskoka található. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+A SENT"
+"Az Ellsworth Land a Bellingshausen-tenger által határolt, a félszigettől délre eső terület.",geography,geography,"<|begin_of_text|>SENTENCE:
+ Az Ellsworth Land a Bellingshausen-tenger által határolt, a félszigettől délre eső terület. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+A"
+A South Pole Traverse (vagy Highway) egy 1600 km hosszú útvonal a McMurdo állomástól a Ross-tengeren a sarkkörig.,geography,geography,"<|begin_of_text|>SENTENCE:
+ A South Pole Traverse (vagy Highway) egy 1600 km hosszú útvonal a McMurdo állomástól a Ross-tengeren a sarkkörig. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+A"
+"A Machu Picchu északi vége fölé tornyosul ez a meredek hegy, mely gyakran a romokról készült sok fotó háttereként látható.",geography,geography,"<|begin_of_text|>SENTENCE:
+ A Machu Picchu északi vége fölé tornyosul ez a meredek hegy, mely gyakran a romokról készült sok fotó háttereként látható. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+A"
+"Az Enceladus a Naprendszer leginkább fényvisszaverő objektuma, mely a rávetődő napfénynek mintegy 90%-át veri vissza.",geography,science/technology,"<|begin_of_text|>SENTENCE:
+ Az Enceladus a Naprendszer leginkább fényvisszaverő objektuma, mely a rávetődő napfénynek mintegy 90%-át veri vissza. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+Az Enc"
+"Semmi egyebet nem lehet látni, csak a tiszta, gyönyörű égboltot és a környező hegyeket. Ez a világ kevéssé látható vagy hallható a barlang belsejéből.",geography,travel,"<|begin_of_text|>SENTENCE:
+ Semmi egyebet nem lehet látni, csak a tiszta, gyönyörű égboltot és a környező hegyeket. Ez a világ kevéssé látható vagy hallható a barlang belsejéből. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+A SENT"
+"Ami Japánt illeti, Japán egy szigetország, ahogy Britannia is.",geography,geography,"<|begin_of_text|>SENTENCE:
+ Ami Japánt illeti, Japán egy szigetország, ahogy Britannia is. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+A"
+"Csúcspontján a Gonu trópusi ciklon, amelyet a Maldív-szigetek nyelvén pálmalevél-zsáknak neveztek el, 240 km/óra (149 mérföld/óra) sebességű tartós szeleket ért el.",geography,geography,"<|begin_of_text|>SENTENCE:
+ Csúcspontján a Gonu trópusi ciklon, amelyet a Maldív-szigetek nyelvén pálmalevél-zsáknak neveztek el, 240 km/óra (149 mérföld/óra) sebességű tartós szeleket ért el. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+A"
+"Törökország területe - beleértve a tavakat is - 783 562 négyzetkilométer (300 948 négyzetmérföld), melyből 755 688 négyzetkilométer (291 773 négyzetmérföld) Délnyugat-Ázsiában van, 23 764 négyzetkilométer (9174 négyzetmérföld) pedig Európában.",geography,geography,"<|begin_of_text|>SENTENCE:
+ Törökország területe - beleértve a tavakat is - 783 562 négyzetkilométer (300 948 négyzetmérföld), melyből 755 688 négyzetkilométer (291 773 négyzetmérföld) Délnyugat-Ázsiában van, 23 764 négyzetkilométer (9174 négyzetmérföld) pedig Európában. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+ EXPLANATION:
+ This"
+"Az 1819-ben felfedezett Déli-Shetland-szigetekre számos ország igényt tart és ez a terület rendelkezik a legtöbb bázissal, amelyekből 2020-ban tizenhat aktív bázis.",geography,geography,"<|begin_of_text|>SENTENCE:
+ Az 1819-ben felfedezett Déli-Shetland-szigetekre számos ország igényt tart és ez a terület rendelkezik a legtöbb bázissal, amelyekből 2020-ban tizenhat aktív bázis. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+A"
+Apia Szamoa fővárosa. A város Upolu szigetén található és népessége kicsivel 40 000 fő alatt van.,geography,geography,"<|begin_of_text|>SENTENCE:
+ Apia Szamoa fővárosa. A város Upolu szigetén található és népessége kicsivel 40 000 fő alatt van. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+A"
+"Mivel a vihar még nem érte el a szárazföldet, így továbbra is nehéz felbecsülni az Egyesült Államokat vagy a Karib-térséget érő potenciális hatását.",geography,geography,"<|begin_of_text|>SENTENCE:
+ Mivel a vihar még nem érte el a szárazföldet, így továbbra is nehéz felbecsülni az Egyesült Államokat vagy a Karib-térséget érő potenciális hatását. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+A"
+"A mare-vidékek alatt vékonyabb, a fennsíkok alatt pedig vastagabb.",geography,geography,"<|begin_of_text|>SENTENCE:
+ A mare-vidékek alatt vékonyabb, a fennsíkok alatt pedig vastagabb. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+A"
+De az erdők nem csupán mangrovemocsarakból állnak - itt található az egykor az egész Gangeszi-síkságot beborító hatalmas dzsungel néhány utolsó fellegvára is.,geography,geography,"<|begin_of_text|>SENTENCE:
+ De az erdők nem csupán mangrovemocsarakból állnak - itt található az egykor az egész Gangeszi-síkságot beborító hatalmas dzsungel néhány utolsó fellegvára is. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+A"
+Az Egyesült Államok Földrajzi Intézetének nemzetközi földrengés-epicentrumok térképe az azt megelőző héten nem jelzett földrengést Izlandon.,geography,geography,"<|begin_of_text|>SENTENCE:
+ Az Egyesült Államok Földrajzi Intézetének nemzetközi földrengés-epicentrumok térképe az azt megelőző héten nem jelzett földrengést Izlandon. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+A"
+A Mekkától északra fekvő hegyek egyikének a tetején található barlang teljesen el van szigetelve a külvilágtól.,geography,geography,"<|begin_of_text|>SENTENCE:
+ A Mekkától északra fekvő hegyek egyikének a tetején található barlang teljesen el van szigetelve a külvilágtól. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+A"

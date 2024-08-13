@@ -1,0 +1,3017 @@
+text,actual_category,predicted_category,generated_text
+"موتاسي متامه جنيس ݢينيتيك بارو, ڠن سيليكسي ڤݢادوه نيبك جنيس مساڤت ڽڠ ڽات.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ موتاسي متامه جنيس ݢينيتيك بارو, ڠن سيليكسي ڤݢادوه نيبك جنيس مساڤت ڽڠ ڽات. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+This sentence"
+بوم فيسي جي كرجا ماصل بك ڤرينسيڤ بهوا جي ڤرلو ككواتن ك ڤساڤت اينتي دڠن ڤروتون ڠن نيوترون.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ بوم فيسي جي كرجا ماصل بك ڤرينسيڤ بهوا جي ڤرلو ككواتن ك ڤساڤت اينتي دڠن ڤروتون ڠن نيوترون. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+This sentence"
+اينتي اتوم ڽن ناكه نيبك دوا بوه ڤارتيكل نيوترون ڠن ڤروتون.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ اينتي اتوم ڽن ناكه نيبك دوا بوه ڤارتيكل نيوترون ڠن ڤروتون. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: -science
+EXPLANATION:
+This sentence is"
+ڽي ڽڠ ڤموڠكين ݢاچ لينسا زووم ك جي ڤحاصيل ݢمبر ڽڠ ݢج جيه ڽن سبنديڠ دڠن ݢاچ لينسا دڠن فؤكوس جؤه ڽڠ تتڤ.,science/technology,geography,"<|begin_of_text|>SENTENCE:
+ ڽي ڽڠ ڤموڠكين ݢاچ لينسا زووم ك جي ڤحاصيل ݢمبر ڽڠ ݢج جيه ڽن سبنديڠ دڠن ݢاچ لينسا دڠن فؤكوس جؤه ڽڠ تتڤ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+"اوق ڽن لبيه ماجو ك ڤروكسي ويب سبب ڤادوم بوه السن: اوق ڽن ݢ-سيت مندوم لالو لينتس اينتيرنيت, كن ه ت ت ڤ ساݢل.",science/technology,N/A,"<|begin_of_text|>SENTENCE:
+ اوق ڽن لبيه ماجو ك ڤروكسي ويب سبب ڤادوم بوه السن: اوق ڽن ݢ-سيت مندوم لالو لينتس اينتيرنيت, كن ه ت ت ڤ ساݢل. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- None of the above 
+REASONING"
+بنتوق ڽڠ اينتراكتيف ڽن ڤرلو ك ݢتا تابوه يوم لوم سيݢر تك ڤراسڠكا درينه ك ڤنا مديا ڠن نمروني ك ن ڤيكير لم سابوه چارا ڽڠ هنا سابن.,science/technology,entertainment,"<|begin_of_text|>SENTENCE:
+ بنتوق ڽڠ اينتراكتيف ڽن ڤرلو ك ݢتا تابوه يوم لوم سيݢر تك ڤراسڠكا درينه ك ڤنا مديا ڠن نمروني ك ن ڤيكير لم سابوه چارا ڽڠ هنا سابن. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+REASONING:
+The"
+"ڽي جد ݢڤبوت لڠسوڠ لى اورڠ رامي, تاڤيه بسي واب لبيه باݢه تي رودا كايو ݢروبك.",science/technology,geography,"<|begin_of_text|>SENTENCE:
+ ڽي جد ݢڤبوت لڠسوڠ لى اورڠ رامي, تاڤيه بسي واب لبيه باݢه تي رودا كايو ݢروبك. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+"ڤرايدس مچاكوڤ سابوه سمڤي تلو جنتن باليغ ڽڠ مكاويت, دڠن تلو ڤلوه بتينا ڠن انقجيه.",science/technology,geography,"<|begin_of_text|>SENTENCE:
+ ڤرايدس مچاكوڤ سابوه سمڤي تلو جنتن باليغ ڽڠ مكاويت, دڠن تلو ڤلوه بتينا ڠن انقجيه. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+"ادتڤيه ا اي ڽن نا ا اي ڽڠ كوڠ لم علمو ساينس حايل, ا اي ڽن جيڤدوڠ سابوه چابڠ لم علمو ساينس كومڤوتر, ڽڠ مهوبوڠ ڠڽ ڤكاتن, مروني ڠڽ چاروڠ جيه سابوه مسين لم ادڤتاسي.",science/technology,travel,"<|begin_of_text|>SENTENCE:
+ ادتڤيه ا اي ڽن نا ا اي ڽڠ كوڠ لم علمو ساينس حايل, ا اي ڽن جيڤدوڠ سابوه چابڠ لم علمو ساينس كومڤوتر, ڽڠ مهوبوڠ ڠڽ ڤكاتن, مروني ڠڽ چاروڠ جيه سابوه مسين لم ادڤتاسي. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+travel
+REASONING:
+This sentence is"
+اسڤيك راسيو لم اوكور ڽي (ڽڠ جيباهݢي لم دوا بله ك تاتمو دوم-نومبور راسيو ڽڠ ڤاليڠ بيئسا) ناكه دكهن ٣:٢.,science/technology,N/A,"<|begin_of_text|>SENTENCE:
+ اسڤيك راسيو لم اوكور ڽي (ڽڠ جيباهݢي لم دوا بله ك تاتمو دوم-نومبور راسيو ڽڠ ڤاليڠ بيئسا) ناكه دكهن ٣:٢. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: None of the above 
+EXPLANATION: 
+"
+"سابوه تيليڤون ساتليت عموم جيه كن سابوه ݢلنتر ك تيليڤون سيلولير, ݢتا سواه نا د لوار دڠن ڤنداڠن ڽڠ تراڠ ماڠت جد ڤݢج سابوه ڤڠݢيلن تيليڤون.",science/technology,entertainment,"<|begin_of_text|>SENTENCE:
+ سابوه تيليڤون ساتليت عموم جيه كن سابوه ݢلنتر ك تيليڤون سيلولير, ݢتا سواه نا د لوار دڠن ڤنداڠن ڽڠ تراڠ ماڠت جد ڤݢج سابوه ڤڠݢيلن تيليڤون. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+TRANSLATION:
+Sat"
+"ادت ڤيه جالن ݢريتن اڤوى جيڤݢج نيبك ڤاڤن كايو ڽڠ مسمبوڠ, اوق ڽن جيبري ايدين ك ݢودا تاريك اوق ڽن نك باݢه تروء ڽڠ لبيه رايق ڠڽ تاريك ببن ڽڠ لبيه رايق نيبك رج اوه ڽڠ باچوت ݢاسر بك اوري ڽن.",science/technology,geography,"<|begin_of_text|>SENTENCE:
+ ادت ڤيه جالن ݢريتن اڤوى جيڤݢج نيبك ڤاڤن كايو ڽڠ مسمبوڠ, اوق ڽن جيبري ايدين ك ݢودا تاريك اوق ڽن نك باݢه تروء ڽڠ لبيه رايق ڠڽ تاريك ببن ڽڠ لبيه رايق نيبك رج اوه ڽڠ باچوت ݢاسر بك اوري ڽن. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+"اورڠ كا جي تڤوى تتڠ ڤونچا ذات-ذات كيميا لاݢو مس, ڤيرق, ڠن تماݢ داري جامن ديلو, ڽڠ ڽي جد د تمو بك عالم لم بنتوق اصل جيه ڠن بيئسا جيه ماڠت ݢكوه دڠن ڤركاكس-ڤركاكس ڤريميف.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ اورڠ كا جي تڤوى تتڠ ڤونچا ذات-ذات كيميا لاݢو مس, ڤيرق, ڠن تماݢ داري جامن ديلو, ڽڠ ڽي جد د تمو بك عالم لم بنتوق اصل جيه ڠن بيئسا جيه ماڠت ݢكوه دڠن ڤركاكس-ڤركاكس ڤريميف. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science
+EXPLANATION:
+This sentence is in"
+رودا ك ݢڤاوبه دونيا دڠن چار ڽڠ هاير تهت. حل ڤاليڠ رايق ڽڠ كا ݢڤبوت رودا ك ݢتاڽي ناكه بري ك ݢتاڽي ترانسڤورتاسي ڽڠ لبيه ماڠت ڠن لبيه باݢه.,science/technology,geography,"<|begin_of_text|>SENTENCE:
+ رودا ك ݢڤاوبه دونيا دڠن چار ڽڠ هاير تهت. حل ڤاليڠ رايق ڽڠ كا ݢڤبوت رودا ك ݢتاڽي ناكه بري ك ݢتاڽي ترانسڤورتاسي ڽڠ لبيه ماڠت ڠن لبيه باݢه. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+ TRANSLATION:
+ The"
+حل ڽي د ڤݢج ك ڤڤستي بهوا ݢمبر ݢتوڤ بن مندوم لاير. ڽن ݢسبوت اوفير سكين.,science/technology,N/A,"<|begin_of_text|>SENTENCE:
+ حل ڽي د ڤݢج ك ڤڤستي بهوا ݢمبر ݢتوڤ بن مندوم لاير. ڽن ݢسبوت اوفير سكين. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- None of the above 
+REASONING"
+كاڤل نوم اورڠ جرمان ننجيه او-بوتس. اورڠ جرمان جروه تهه بك جيمى راكن بك جيڠوى كاڤل نوم اوق ڽن.,science/technology,geography,"<|begin_of_text|>SENTENCE:
+ كاڤل نوم اورڠ جرمان ننجيه او-بوتس. اورڠ جرمان جروه تهه بك جيمى راكن بك جيڠوى كاڤل نوم اوق ڽن. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: -geography 
+REASONING:
+The sentence"
+"ادتڤيه صيفت بنتوق جيه جد مݢنتي, صيفت كيميا جيه تتڤ سابن.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ ادتڤيه صيفت بنتوق جيه جد مݢنتي, صيفت كيميا جيه تتڤ سابن. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+This sentence"
+تݢاڠن ڤرموكاءن نا سابب موليكول اير د ڤرموكاءن اير لبيه متاريك سابي كدري٢جيه نيبك موليكول اودارا د اتس جيه.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ تݢاڠن ڤرموكاءن نا سابب موليكول اير د ڤرموكاءن اير لبيه متاريك سابي كدري٢جيه نيبك موليكول اودارا د اتس جيه. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science
+EXPLANATION:
+This sentence is about"
+ساله سابوه مسئله ڽڠ ڤاليڠ عموم عوه واتو چوبا اوبه فيلم او فورمت د في د ناكه ڤمينداين برلبيه اتوا اوفير سكين.,science/technology,entertainment,"<|begin_of_text|>SENTENCE:
+ ساله سابوه مسئله ڽڠ ڤاليڠ عموم عوه واتو چوبا اوبه فيلم او فورمت د في د ناكه ڤمينداين برلبيه اتوا اوفير سكين. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+The"
+سچارا خاص، جيچڤ بهواسجيه سيدري اورڠ جد جيتڤور ڤوى كه سيدري اورڠ مسوليت دڠن ݢتكسير ايكسڤرىسي ميكرو دڠن بتول.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ سچارا خاص، جيچڤ بهواسجيه سيدري اورڠ جد جيتڤور ڤوى كه سيدري اورڠ مسوليت دڠن ݢتكسير ايكسڤرىسي ميكرو دڠن بتول. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science
+EXPLANATION:
+This sentence is in"
+موه جوت ݢأوله جوت کى بندوم ماچم روڤا. موه جوت ݢݢولوڠ جوت کى روڤا ڽڠ اوبيت.,science/technology,geography,"<|begin_of_text|>SENTENCE:
+ موه جوت ݢأوله جوت کى بندوم ماچم روڤا. موه جوت ݢݢولوڠ جوت کى روڤا ڽڠ اوبيت. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+TRANSLATION:
+The"
+"سيستم ا اي ڽي جيني قايم جيڠوى لم بيدڠ ايكونومي, اوبت, مسين ڠن ميليتر, لاݢو ڽڠ كا د ڤݢج لى لادوم كومڤوتر رومه ڠن اڤليكاسي سوفت وير فيديو ك معين.",science/technology,N/A,"<|begin_of_text|>SENTENCE:
+ سيستم ا اي ڽي جيني قايم جيڠوى لم بيدڠ ايكونومي, اوبت, مسين ڠن ميليتر, لاݢو ڽڠ كا د ڤݢج لى لادوم كومڤوتر رومه ڠن اڤليكاسي سوفت وير فيديو ك معين. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+None of the above. This sentence is in"
+"ڽي منتوڠ دڤنا سمي عوه نو هت, تاڤي ڽڠ لبيه ڤنتيڠ اسڤيك راسيو جيه ڽڠ كا د ڤواريس لم اوكور سينسور ݢمبر نيبك كاميرا ديݢيتل.",science/technology,travel,"<|begin_of_text|>SENTENCE:
+ ڽي منتوڠ دڤنا سمي عوه نو هت, تاڤي ڽڠ لبيه ڤنتيڠ اسڤيك راسيو جيه ڽڠ كا د ڤواريس لم اوكور سينسور ݢمبر نيبك كاميرا ديݢيتل. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+travel
+EXPLANATION:
+The sentence is"
+حكوم كتلو ڽڠ ڤاليڠ جل د ڤرلوه ڠن ڽڠ ڤاليڠ جل دكهن ك بروق ناكه سابوه ڤتوڽوق ڽڠ بيئسا ك ڤنا ڤراوبهن عوه واتو ڤتتڤ اوكور ڽڠ مجالين لم سابوه ݢمبر.,science/technology,geography,"<|begin_of_text|>SENTENCE:
+ حكوم كتلو ڽڠ ڤاليڠ جل د ڤرلوه ڠن ڽڠ ڤاليڠ جل دكهن ك بروق ناكه سابوه ڤتوڽوق ڽڠ بيئسا ك ڤنا ڤراوبهن عوه واتو ڤتتڤ اوكور ڽڠ مجالين لم سابوه ݢمبر. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+This"
+ڽو کوه ݢتنتى بهوا ناکوه لادوم دينوساوروس نا بولى، بوهسابوه تيوري ڽڠ کا مشوهو، تتڤجيه عمومجيه هان جوت ݢبري رينچيان، لاݢى ورناِ ڠون سوسونن لهى ديمينسي.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ ڽو کوه ݢتنتى بهوا ناکوه لادوم دينوساوروس نا بولى، بوهسابوه تيوري ڽڠ کا مشوهو، تتڤجيه عمومجيه هان جوت ݢبري رينچيان، لاݢى ورناِ ڠون سوسونن لهى ديمينسي. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+The sentence"
+"ڤاكريبن كه ݢرافيتاسي بومي لا دتاريق لن؟ مڠڽو درينه ندوڠ اتس لا, ݢهن درينه جد كڤهوى نيبك بومي.",science/technology,geography,"<|begin_of_text|>SENTENCE:
+ ڤاكريبن كه ݢرافيتاسي بومي لا دتاريق لن؟ مڠڽو درينه ندوڠ اتس لا, ݢهن درينه جد كڤهوى نيبك بومي. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+�"
+نيک‌س‌تݢين ناکوه سيستم ڽڠ ݢکلايم ايف.اي.اي. اکن ݢڤموڠکن کاڤاي تربڠ کى تربڠ روتى ڽڠ لوبيه ڤانق ڠن هيمت مجوتا ݢالون باهن باکر تيڤ تهون ڠن ڤکورڠ ايميسي کربون.,science/technology,geography,"<|begin_of_text|>SENTENCE:
+ نيک‌س‌تݢين ناکوه سيستم ڽڠ ݢکلايم ايف.اي.اي. اکن ݢڤموڠکن کاڤاي تربڠ کى تربڠ روتى ڽڠ لوبيه ڤانق ڠن هيمت مجوتا ݢالون باهن باکر تيڤ تهون ڠن ڤکورڠ ايميسي کربون. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+REASONING:
+The"
+دتا علمو سارف بيولوݢي ڽن ݢڤنا بوقتي ڽڠ ڽات ك چارا سابوه تيوري ك ݢكالن واسيل. ڽنكه ڽي د ڤاوبيت ولايه ك ݢمستج ڠن ڽي جد ك لبيه تڤت.,science/technology,geography,"<|begin_of_text|>SENTENCE:
+ دتا علمو سارف بيولوݢي ڽن ݢڤنا بوقتي ڽڠ ڽات ك چارا سابوه تيوري ك ݢكالن واسيل. ڽنكه ڽي د ڤاوبيت ولايه ك ݢمستج ڠن ڽي جد ك لبيه تڤت. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+"نا مدوا ٢ جم چرامهجيه، ݢوبڽن ݢخن بهوا ""اورو ڽو اڤيل کا ݢتومى لوم تليڤون، کامو نق ڤݢوت سجاره اورو ڽو.""",science/technology,N/A,"<|begin_of_text|>SENTENCE:
+ نا مدوا ٢ جم چرامهجيه، ݢوبڽن ݢخن بهوا ""اورو ڽو اڤيل کا ݢتومى لوم تليڤون، کامو نق ڤݢوت سجاره اورو ڽو."" 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+None of the above. This sentence is in"
+ڽڠ كورڠ ݢج نيبك ݢاچ لينسا زووم ڽن ناكه بهواسجيه فوكوس ڽڠ ڤايه ڠن نومبور نيبك بكل ݢاچ لينسا ڽن ڤرلو ك بتروه او سابوه تيتيق جؤه فؤكوس ڽڠ لبيه رايق نيبك ݢاچ لينسا ڽڠ ڤهون.,science/technology,entertainment,"<|begin_of_text|>SENTENCE:
+ ڽڠ كورڠ ݢج نيبك ݢاچ لينسا زووم ڽن ناكه بهواسجيه فوكوس ڽڠ ڤايه ڠن نومبور نيبك بكل ݢاچ لينسا ڽن ڤرلو ك بتروه او سابوه تيتيق جؤه فؤكوس ڽڠ لبيه رايق نيبك ݢاچ لينسا ڽڠ ڤهون. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+This"
+موهي دڠن ريموت تيليۏيسي⹁ کونترول جيڠوي دوا بوه سينسور ڽڠ ݢدوق دي تو تيليۏيسي اورڠ ڠوي کى ݢڤسيڤت ڤوسيسيجيه لام رواڠ لهى ديمنسي.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ موهي دڠن ريموت تيليۏيسي⹁ کونترول جيڠوي دوا بوه سينسور ڽڠ ݢدوق دي تو تيليۏيسي اورڠ ڠوي کى ݢڤسيڤت ڤوسيسيجيه لام رواڠ لهى ديمنسي. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science
+EXPLANATION:
+This sentence is about"
+اوق علمون خن بولى هيوان ڽو مورنا چوکلت کاستاڽى بق باݢين اتوه ڠون باݢين يوڤ مورنا ڤوچت اتاو مورنا کاروتينويد.,science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ اوق علمون خن بولى هيوان ڽو مورنا چوکلت کاستاڽى بق باݢين اتوه ڠون باݢين يوڤ مورنا ڤوچت اتاو مورنا کاروتينويد. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+This sentence"
+بندوا سڽاووڠ ثن مرياکيس سابوه ڠن ڽڠ لاءين کى ݢڤݢوت کريستل ڽڠ جوت ݢڤلينتوڠ کرجا ݢينجل⹁ ݢخن لى اوق ڤنليتي دي يونيۏرسيتس ثن.,science/technology,N/A,"<|begin_of_text|>SENTENCE:
+ بندوا سڽاووڠ ثن مرياکيس سابوه ڠن ڽڠ لاءين کى ݢڤݢوت کريستل ڽڠ جوت ݢڤلينتوڠ کرجا ݢينجل⹁ ݢخن لى اوق ڤنليتي دي يونيۏرسيتس ثن. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+None of the above. This sentence is in"
+ڽي جد جيبري ريسولوسي كا رب ڤت كالي ليڤت ڽڠ ٣٥ مم نيݢاتيف (٣١٣٦ مم٢ صيرسوس ٨٦٤).,science/technology,geography,"<|begin_of_text|>SENTENCE:
+ ڽي جد جيبري ريسولوسي كا رب ڤت كالي ليڤت ڽڠ ٣٥ مم نيݢاتيف (٣١٣٦ مم٢ صيرسوس ٨٦٤). 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+"بركت لينك كاوات اوڤتيك د ميوب لاؤة او ايروڤا ڠن ساتليت برودباند, ݢريينلاند كا مسمبوڠ ڠن ٩٣% ڤوڤولاسي نا ݢاكسيس اينتيرنيت.",science/technology,geography,"<|begin_of_text|>SENTENCE:
+ بركت لينك كاوات اوڤتيك د ميوب لاؤة او ايروڤا ڠن ساتليت برودباند, ݢريينلاند كا مسمبوڠ ڠن ٩٣% ڤوڤولاسي نا ݢاكسيس اينتيرنيت. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: geography 
+EXPLANATION: 
+This sentence is"
+"ساله سابوه اڤليكاسي ڤاليڠ ده دالم كنيرا ڽي ناكه ݢووݢلى ترانسلاتى, ڽڠ مونݢكين ڤنرجماهن اونلينى تلس چوك كبه داتا بهسا ڽڠ ڤرلو.",science/technology,travel,"<|begin_of_text|>SENTENCE:
+ ساله سابوه اڤليكاسي ڤاليڠ ده دالم كنيرا ڽي ناكه ݢووݢلى ترانسلاتى, ڽڠ مونݢكين ڤنرجماهن اونلينى تلس چوك كبه داتا بهسا ڽڠ ڤرلو. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+travel
+EXPLANATION:
+This sentence is"
+"ڽن نا سوسونن موليكول ڽڠ سابن ڤوى كه ڽن سابوه ݢس, چاير, اتوا كرس.",science/technology,science/technology,"<|begin_of_text|>SENTENCE:
+ ڽن نا سوسونن موليكول ڽڠ سابن ڤوى كه ڽن سابوه ݢس, چاير, اتوا كرس. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science
+EXPLANATION:
+This sentence is in"
+"ڤنڠوى ركامن فيديو جد محاصيل سي ڽڠ تمو ڤنتيڠ لم اينترڤريتاسي ايكسڤريسي ميكرو, ݢراق موكا ڽڠ مݢراق ڤادوم ميلي دتيك.",science/technology,geography,"<|begin_of_text|>SENTENCE:
+ ڤنڠوى ركامن فيديو جد محاصيل سي ڽڠ تمو ڤنتيڠ لم اينترڤريتاسي ايكسڤريسي ميكرو, ݢراق موكا ڽڠ مݢراق ڤادوم ميلي دتيك. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: geography 
+EXPLANATION: 
+This sentence is"
+اورڠ٠اورڠ كا ݢڤݢج ڠن ݢڤݢونا لينسا ك تاڤرايق نيبك تريب متيبو-ريبو تهون.,science/technology,geography,"<|begin_of_text|>SENTENCE:
+ اورڠ٠اورڠ كا ݢڤݢج ڠن ݢڤݢونا لينسا ك تاڤرايق نيبك تريب متيبو-ريبو تهون. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+"كن ڽن ساݢل, ايكسڤيريمن ناكه سابوه اوجي چوبا دڠوى ك ڤݢادوس سابوه اتوا لبيه ڽڠ موڠكين, ݢتماڽڠ ڠن ݢڤݢج ڤڠامتن چيت ݢڤمهو ڤنليتين عالمي.",science/technology,travel,"<|begin_of_text|>SENTENCE:
+ كن ڽن ساݢل, ايكسڤيريمن ناكه سابوه اوجي چوبا دڠوى ك ڤݢادوس سابوه اتوا لبيه ڽڠ موڠكين, ݢتماڽڠ ڠن ݢڤݢج ڤڠامتن چيت ݢڤمهو ڤنليتين عالمي. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The sentence"
+"اخيرجيه, رودا كايو جيݢنتي دڠن رودا بسي. بك تهون ١٧٦٧, رين بسي ڤهون جيڤتوري.",science/technology,geography,"<|begin_of_text|>SENTENCE:
+ اخيرجيه, رودا كايو جيݢنتي دڠن رودا بسي. بك تهون ١٧٦٧, رين بسي ڤهون جيڤتوري. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+"سمنتارا سباݢي لر كرتو ݢج ك تيلوڤون دمهو, ڤادوم بوه سڤيسياليس دالم د جوق يوم ڤڠݢيلن ك كلومڤوك نڠݢري متنتو.",science/technology,travel,"<|begin_of_text|>SENTENCE:
+ سمنتارا سباݢي لر كرتو ݢج ك تيلوڤون دمهو, ڤادوم بوه سڤيسياليس دالم د جوق يوم ڤڠݢيلن ك كلومڤوك نڠݢري متنتو. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+travel
+EXPLANATION:
+This sentence is"
+جل تيليسكوڤ ڤنىليتي موديرن ڽن كه تمڤت ڽڠ رايق بك داءيره٢ دڠن كادءن چواچ ڽڠ ݢج.,science/technology,geography,"<|begin_of_text|>SENTENCE:
+ جل تيليسكوڤ ڤنىليتي موديرن ڽن كه تمڤت ڽڠ رايق بك داءيره٢ دڠن كادءن چواچ ڽڠ ݢج. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+جاروم باجا ماڤوڠ د اتس اير سابب تݢاڠن ڤرموكاءن.,science/technology,travel,"<|begin_of_text|>SENTENCE:
+ جاروم باجا ماڤوڠ د اتس اير سابب تݢاڠن ڤرموكاءن. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+travel
+EXPLANATION:
+This sentence is"
+"اوكور ٣٥ م م ڽن سبتول جيه, ڽڠ مومڠ جيه, ٣٦ م م لم ڤاڽڠ مسمڤيڠ ڠن ٢٤ م م ماڽڠ.",science/technology,geography,"<|begin_of_text|>SENTENCE:
+ اوكور ٣٥ م م ڽن سبتول جيه, ڽڠ مومڠ جيه, ٣٦ م م لم ڤاڽڠ مسمڤيڠ ڠن ٢٤ م م ماڽڠ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: -geography
+EXPLANATION:
+اوكور"
+"سيل ماصل تهت ڠن ڤنتيڠ ك مروني نيبك هوديڤ, سبتول جيه, اوق ڽن قايم جيڤݢه سباݢي "" دابس ڤڽوسون هوديڤ"".",science/technology,politics,"<|begin_of_text|>SENTENCE:
+ سيل ماصل تهت ڠن ڤنتيڠ ك مروني نيبك هوديڤ, سبتول جيه, اوق ڽن قايم جيڤݢه سباݢي "" دابس ڤڽوسون هوديڤ"". 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+The sentence"
+ڤڽديا VPN ڤريبادي ( فيرتوال ڤريفات نيتورك) ناكه چارا لبيه ݢج ݢهيندر مندوا سينسور ڤوليتيك ڠن ݢساريڠ ا ڤ كوميرسيال.,science/technology,entertainment,"<|begin_of_text|>SENTENCE:
+ ڤڽديا VPN ڤريبادي ( فيرتوال ڤريفات نيتورك) ناكه چارا لبيه ݢج ݢهيندر مندوا سينسور ڤوليتيك ڠن ݢساريڠ ا ڤ كوميرسيال. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+�"
+ستاسيون ݢڤتهين تمڤتجيه⹁ باهڤيه ݢدوه ݢيروسکوڤ سيݢوهلومجيه لام ميسي لوا اڠکاس⹁ سمڤو اخى ڤرجالنن لوا اڠکاس‌‌.,science/technology,geography,"<|begin_of_text|>SENTENCE:
+ ستاسيون ݢڤتهين تمڤتجيه⹁ باهڤيه ݢدوه ݢيروسکوڤ سيݢوهلومجيه لام ميسي لوا اڠکاس⹁ سمڤو اخى ڤرجالنن لوا اڠکاس‌‌. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+REASONING:
+The"
+"اورڠ دڠن تيڤى ڤميكيرن ڽي ڤو ڤميكيرن ڽڠ لوݢيس, سڠݢوڤ ݢايڠت ڤولا, ڤسلسي مسئاله ڠن ڤبوت تيس علميه.",science/technology,entertainment,"<|begin_of_text|>SENTENCE:
+ اورڠ دڠن تيڤى ڤميكيرن ڽي ڤو ڤميكيرن ڽڠ لوݢيس, سڠݢوڤ ݢايڠت ڤولا, ڤسلسي مسئاله ڠن ڤبوت تيس علميه. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+TRANSLATION:
+Or"
+"اوچيلوت ݢالق ڤاجوه ملاتڠ اوبيت. اوچيلوت اكن ݢدروب سيبن, اولر, تيكوس ڠن چيچم مڠڽو جيجد. رب مندوم ملاتڠ ڽڠ ݢڤچروق اچيلوت جؤه لبيه اوبيت نيبك جيه.",science/technology,geography,"<|begin_of_text|>SENTENCE:
+ اوچيلوت ݢالق ڤاجوه ملاتڠ اوبيت. اوچيلوت اكن ݢدروب سيبن, اولر, تيكوس ڠن چيچم مڠڽو جيجد. رب مندوم ملاتڠ ڽڠ ݢڤچروق اچيلوت جؤه لبيه اوبيت نيبك جيه. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+TRANSLATION:
+The"
+"ڤادوم بوه كاميرا دڠن فورمت تڠوه جيڤاكي فيرمت ٦x٦ چ م, لبيه تڤت جيه ٥٦x٥٦ م م نيݢاتيف.",science/technology,geography,"<|begin_of_text|>SENTENCE:
+ ڤادوم بوه كاميرا دڠن فورمت تڠوه جيڤاكي فيرمت ٦x٦ چ م, لبيه تڤت جيه ٥٦x٥٦ م م نيݢاتيف. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+�"
+اورڠ جك تماشا سيب برت ݢبري نصحت بتݢوه تهت مريسيكو چواچ هنا ݢج ڽڠ مڤڠاروه تمڤت اوق ڽن كرن جد ك مڤڠاروه دوم ڤوى ڤرجالنن.,travel,entertainment,"<|begin_of_text|>SENTENCE:
+ اورڠ جك تماشا سيب برت ݢبري نصحت بتݢوه تهت مريسيكو چواچ هنا ݢج ڽڠ مڤڠاروه تمڤت اوق ڽن كرن جد ك مڤڠاروه دوم ڤوى ڤرجالنن. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+TRANSLATION:
+Or"
+"موتو بس دبوڠكر ستاسيون موتو بس داءيره (مكوه كروڠ) سيڤڽڠ اوري, ادت قايم جيه, خصوص جيه ڽڠ مجك او تيمور ڠن جاكار/بومتهاڠ جي ڤهه انتارا ڤوه ٦:٣٠ ڠن ڤوه ٧:٣٠.",travel,travel,"<|begin_of_text|>SENTENCE:
+ موتو بس دبوڠكر ستاسيون موتو بس داءيره (مكوه كروڠ) سيڤڽڠ اوري, ادت قايم جيه, خصوص جيه ڽڠ مجك او تيمور ڠن جاكار/بومتهاڠ جي ڤهه انتارا ڤوه ٦:٣٠ ڠن ڤوه ٧:٣٠. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+travel
+EXPLANATION:
+This sentence is"
+اترا دوا ڽن جد كه سباݢي ڤكاكه ك ڤأمن اورڠ ڽڠ ايك ݢودا تاڤي جد چيت ك مڤالي كرن موڠكين ݢاكي اورڠ ڽڠ ايك ݢودا جد مسڠكوت لم اترا دوا ڽن.,travel,health,"<|begin_of_text|>SENTENCE:
+ اترا دوا ڽن جد كه سباݢي ڤكاكه ك ڤأمن اورڠ ڽڠ ايك ݢودا تاڤي جد چيت ك مڤالي كرن موڠكين ݢاكي اورڠ ڽڠ ايك ݢودا جد مسڠكوت لم اترا دوا ڽن. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+health
+EXPLANATION:
+This sentence is"
+لي دري كڤل٢ ڤسيار ميواه بلتيق كرويس د ڤييوه دالم واتو ڽڠ تريب د St. Petersburg روسسيا.,travel,travel,"<|begin_of_text|>SENTENCE:
+ لي دري كڤل٢ ڤسيار ميواه بلتيق كرويس د ڤييوه دالم واتو ڽڠ تريب د St. Petersburg روسسيا. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The sentence"
+"سارن ڽن اسومسي جيه اورڠ مجك٢ هنا ݢچمچور , ڤلڠݢارن, نا ڤرتيسيڤاسي لم ڤكن ايلݢل, اورڠ لاكو٢, اتوا ايكسڤلويتاسي اورڠ لائين ك اونتوڠ دري.",travel,travel,"<|begin_of_text|>SENTENCE:
+ سارن ڽن اسومسي جيه اورڠ مجك٢ هنا ݢچمچور, ڤلڠݢارن, نا ڤرتيسيڤاسي لم ڤكن ايلݢل, اورڠ لاكو٢, اتوا ايكسڤلويتاسي اورڠ لائين ك اونتوڠ دري. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+travel
+EXPLANATION:
+This sentence is"
+نا تلو هل ڽڠ ڤرلو ڤتيمڠ سيݢوهلوم ڠن واتو ݢتا جك بك سابوه تمڤت.,travel,geography,"<|begin_of_text|>SENTENCE:
+ نا تلو هل ڽڠ ڤرلو ڤتيمڠ سيݢوهلوم ڠن واتو ݢتا جك بك سابوه تمڤت. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: -geography
+EXPLANATION:
+The sentence"
+"بك چوت اوري ڽڠ سؤم, ڤجلاجه متمو راس فاتامورݢانا ڽڠ جيبري بياڠن اير(اتوا هل ڽڠ لاءين).",travel,geography,"<|begin_of_text|>SENTENCE:
+ بك چوت اوري ڽڠ سؤم, ڤجلاجه متمو راس فاتامورݢانا ڽڠ جيبري بياڠن اير(اتوا هل ڽڠ لاءين). 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+"كلوارݢا دڠن انق ميت جارڠ نا, تاڤي ڤادوم بوه بيليك نا ڽڠ جيبري يدين اوق ڽن بك كامر ڤريبادي.",travel,geography,"<|begin_of_text|>SENTENCE:
+ كلوارݢا دڠن انق ميت جارڠ نا, تاڤي ڤادوم بوه بيليك نا ڽڠ جيبري يدين اوق ڽن بك كامر ڤريبادي. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+"مثل جيه تاجك كالن كاستيل د ڤنتون لويرى, ڤنتون رهينى, اتوا ايك جالو بن سابوه كانل ايريى.",travel,entertainment,"<|begin_of_text|>SENTENCE:
+ مثل جيه تاجك كالن كاستيل د ڤنتون لويرى, ڤنتون رهينى, اتوا ايك جالو بن سابوه كانل ايريى. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+The"
+ڽن جد لبيه ݢج تا ڠوي اݢين ڽڠ قايم ڤسن ڤرجالنن سابن ڠن ݢتا.,travel,geography,"<|begin_of_text|>SENTENCE:
+ ڽن جد لبيه ݢج تا ڠوي اݢين ڽڠ قايم ڤسن ڤرجالنن سابن ڠن ݢتا. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+كوچهسورفيڠ جيتمو بك بولن جانواري ٢٠٠٤ تلس ڤڤروݢرام كومڤوتر كاسيفينتون جي تمو ڤنڤر موره او ايسلاند تاڤي هنا تمڤت ڤيوه.,travel,travel,"<|begin_of_text|>SENTENCE:
+ كوچهسورفيڠ جيتمو بك بولن جانواري ٢٠٠٤ تلس ڤڤروݢرام كومڤوتر كاسيفينتون جي تمو ڤنڤر موره او ايسلاند تاڤي هنا تمڤت ڤيوه. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The sentence"
+ۏيسا ڤلاجر عموم جيه د جوك شرط مبيدا ڠن ڤروسيدور اڤليكاسي داري ۏيسا اورڠ اسيڠ نورمل اتوا ۏيسا اورڠ كرجا.,travel,geography,"<|begin_of_text|>SENTENCE:
+ ۏيسا ڤلاجر عموم جيه د جوك شرط مبيدا ڠن ڤروسيدور اڤليكاسي داري ۏيسا اورڠ اسيڠ نورمل اتوا ۏيسا اورڠ كرجا. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+تيڤ نڠݢري سيت نا قانون چده لاݢينا ڤدابس ڽڠ مكارت ڽڠ نا لم موتو.,travel,geography,"<|begin_of_text|>SENTENCE:
+ تيڤ نڠݢري سيت نا قانون چده لاݢينا ڤدابس ڽڠ مكارت ڽڠ نا لم موتو. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+"ادت ڤيه لا اݢينسي اكن ݢچوق لبيه سريڠ ڤسانن تراتور, لي اݢين خصوص بك ڤرجالنن, كيسارن ڤڠ اتوا توجوان.",travel,travel,"<|begin_of_text|>SENTENCE:
+ ادت ڤيه لا اݢينسي اكن ݢچوق لبيه سريڠ ڤسانن تراتور, لي اݢين خصوص بك ڤرجالنن, كيسارن ڤڠ اتوا توجوان. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+travel
+EXPLANATION:
+This sentence is"
+اورڠ ڽڠ جك كونجوڠ ڽن موڠكين مرومڤک ڠن بيناتڠ هام ڽڠ اوق ڽن هنا دتوري لوم بك داءيره اصل اوق ڽن.,travel,geography,"<|begin_of_text|>SENTENCE:
+ اورڠ ڽڠ جك كونجوڠ ڽن موڠكين مرومڤک ڠن بيناتڠ هام ڽڠ اوق ڽن هنا دتوري لوم بك داءيره اصل اوق ڽن. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+"نا سيت او باروه جك ساور تمڤت سوچي اورڠ اينوڠ فاتيما (كوءيل), دس تاكالن ماريه ڽڠ مشهور بن سيݢوم دونيا.",travel,geography,"<|begin_of_text|>SENTENCE:
+ نا سيت او باروه جك ساور تمڤت سوچي اورڠ اينوڠ فاتيما (كوءيل), دس تاكالن ماريه ڽڠ مشهور بن سيݢوم دونيا. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+درينه جد نڠوى بودا بودا (هوندا سيوا) ك ويت ويت ليڠكر ݢوما. بيئسا اوڠكوس جيه (لوكل) ٥٠٠ فرانس كوڠو مسل نك جك ڽڠ تي تي.,travel,travel,"<|begin_of_text|>SENTENCE:
+ درينه جد نڠوى بودا بودا (هوندا سيوا) ك ويت ويت ليڠكر ݢوما. بيئسا اوڠكوس جيه (لوكل) ٥٠٠ فرانس كوڠو مسل نك جك ڽڠ تي تي. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+travel
+REASONING:
+This sentence is"
+"ك اوق ڽن ڽڠ ڤراست بوت اوري اوري د لوار رومه, ڤرجالنن او جوروڠ لاؤة او لاڠيت سيب برت ڤنتيڠ.",travel,geography,"<|begin_of_text|>SENTENCE:
+ ك اوق ڽن ڽڠ ڤراست بوت اوري اوري د لوار رومه, ڤرجالنن او جوروڠ لاؤة او لاڠيت سيب برت ڤنتيڠ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+"جك مسافاري (كادڠ دكهن سباݢي ""جك لم بلوكر"", ""جك جيؤه مسافاري"",اتوا جك ""ڠن تاڤق"" ) ڽڠ نا روه جك جيؤه, جد ڤادوم جم اتوا ڤادوم اوري.",travel,travel,"<|begin_of_text|>SENTENCE:
+ جك مسافاري (كادڠ دكهن سباݢي ""جك لم بلوكر"", ""جك جيؤه مسافاري"",اتوا جك ""ڠن تاڤق"" ) ڽڠ نا روه جك جيؤه, جد ڤادوم جم اتوا ڤادوم اوري. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+travel
+EXPLANATION:
+This sentence is"
+"سابوه٢ جيه چارا به جد لبيه باݢس بك تاكيريم ڽنكه دڠن د چيك بارڠ. اتورن مسكڤل هن جد د كيريم بارڠ لي اوق ڽن مڠڽو هنا ڤنومڤڠ, ڽن كه ڽن ساعت درينه نتاموڠ.",travel,travel,"<|begin_of_text|>SENTENCE:
+ سابوه٢ جيه چارا به جد لبيه باݢس بك تاكيريم ڽنكه دڠن د چيك بارڠ. اتورن مسكڤل هن جد د كيريم بارڠ لي اوق ڽن مڠڽو هنا ڤنومڤڠ, ڽن كه ڽن ساعت درينه نتاموڠ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+travel
+EXPLANATION:
+This sentence is"
+تامه ۳۰۰ جوت کى مندوم ١.۳۰۰ ݢربوڠ ڽڠ کا ݢڤرلى کى ڤکورڠ ارت.,travel,geography,"<|begin_of_text|>SENTENCE:
+ تامه ۳۰۰ جوت کى مندوم ١.۳۰۰ ݢربوڠ ڽڠ کا ݢڤرلى کى ڤکورڠ ارت. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+"كلوارݢا دڠن انق ميت ڤرلو لبيه لا ڤرسياڤن, تاڤي سي اوري د لوار رومه موڠكين لبيه ماڠت دڠن انق ميت ڠن انق ݢوهلوم سيكولا.",travel,geography,"<|begin_of_text|>SENTENCE:
+ كلوارݢا دڠن انق ميت ڤرلو لبيه لا ڤرسياڤن, تاڤي سي اوري د لوار رومه موڠكين لبيه ماڠت دڠن انق ميت ڠن انق ݢوهلوم سيكولا. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+"سي منتوڠ ڽڠ ايك ماڽڠ تهت اتوا لبيه نيبك ݢونوڠ بنا تيڠت ك سلجو, ايس, اتوا سوهو بكو.",travel,travel,"<|begin_of_text|>SENTENCE:
+ سي منتوڠ ڽڠ ايك ماڽڠ تهت اتوا لبيه نيبك ݢونوڠ بنا تيڠت ك سلجو, ايس, اتوا سوهو بكو. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+travel
+EXPLANATION:
+This sentence is"
+"اري ڽي, تيمبوكتو ناكه كوتا ڽڠ ݢاسين, ادتڤيه مرتابت جيه جد ك كوتا سبݢي تمڤت جك تماش, ڠن نا سابوه بندارا.",travel,geography,"<|begin_of_text|>SENTENCE:
+ اري ڽي, تيمبوكتو ناكه كوتا ڽڠ ݢاسين, ادتڤيه مرتابت جيه جد ك كوتا سبݢي تمڤت جك تماش, ڠن نا سابوه بندارا. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+"نيبك تريب بادي سلجو, سيب دڠن سلجو منتوڠ جد ڤݢج درينه ربه لم واتو سيكليڤ مات.",travel,geography,"<|begin_of_text|>SENTENCE:
+ نيبك تريب بادي سلجو, سيب دڠن سلجو منتوڠ جد ڤݢج درينه ربه لم واتو سيكليڤ مات. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+"مڠڽو درينه نا هوا ن ڤر او كليليڠ دونيا ن مندوم بك ولايه تونوڠ بومي, ڤيليهن اونتوق جك رج نن ڠن اونتوق توجوان كنن ڽن ساڠت ترباتس كرن ديت تهت كاڤل ڤر اتو لاؤة اره ولايه كنن.",travel,travel,"<|begin_of_text|>SENTENCE:
+ مڠڽو درينه نا هوا ن ڤر او كليليڠ دونيا ن مندوم بك ولايه تونوڠ بومي, ڤيليهن اونتوق جك رج نن ڠن اونتوق توجوان كنن ڽن ساڠت ترباتس كرن ديت تهت كاڤل ڤر اتو لاؤة اره ولايه كنن. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+This sentence"
+"مسكڤل لاݢو Emirates, Etihad Airways, Qatar Airways & Turkish Airlines كا د ڤلواس ولايه ڤر كاڤل تروه او افريكا دڠن يوم ڽڠ لبيه موراه داري مسكڤل٢ ايروڤا.",travel,travel,"<|begin_of_text|>SENTENCE:
+ مسكڤل لاݢو Emirates, Etihad Airways, Qatar Airways & Turkish Airlines كا د ڤلواس ولايه ڤر كاڤل تروه او افريكا دڠن يوم ڽڠ لبيه موراه داري مسكڤل٢ ايروڤا. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The sentence"
+هانا ترنسڤورتاسي لوبيه ڽڠ ݢڤاسڠ ڠن ݢريتن دي اتيه تانوه هانا اکن مڤيوه دي ويمبلي⹁ ڠن فسيليتس ڤرکير موتو سرتا ڤرکير-ڠن-ايک موتو هانا تسديا دي دارت.,travel,travel,"<|begin_of_text|>SENTENCE:
+ هانا ترنسڤورتاسي لوبيه ڽڠ ݢڤاسڠ ڠن ݢريتن دي اتيه تانوه هانا اکن مڤيوه دي ويمبلي⹁ ڠن فسيليتس ڤرکير موتو سرتا ڤرکير-ڠن-ايک موتو هانا تسديا دي دارت. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+travel
+EXPLANATION:
+This sentence is"
+عموم جيه تيڠݢل د نڠݢري لاءين لم واتو ڽڠ تريب سواه تامرومڤک ويسا ڤهون٢ تهت.,travel,geography,"<|begin_of_text|>SENTENCE:
+ عموم جيه تيڠݢل د نڠݢري لاءين لم واتو ڽڠ تريب سواه تامرومڤک ويسا ڤهون٢ تهت. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: geography 
+EXPLANATION: 
+This sentence is"
+تيڤ ݢرتن اڤوى نا ڤلاتيه ميترو ڤلوس ڠن ميترو; ڤلاتيه موتور ڤلوس سابي ݢدوق بك اوجوڠ ݢرتن اڤوى تي ڠن چاڤي توون.,travel,geography,"<|begin_of_text|>SENTENCE:
+ تيڤ ݢرتن اڤوى نا ڤلاتيه ميترو ڤلوس ڠن ميترو; ڤلاتيه موتور ڤلوس سابي ݢدوق بك اوجوڠ ݢرتن اڤوى تي ڠن چاڤي توون. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+تيڤ-تيڤ اورڠ ساڤوى كهن لم اورڠ جل ڠن ݢڤاكي سيستيم ترانسڤورتاسي. كا رب مندوم اورڠ ݢڤݢه حل ك سيستيم ترانسڤورتاسي.,travel,science/technology,"<|begin_of_text|>SENTENCE:
+ تيڤ-تيڤ اورڠ ساڤوى كهن لم اورڠ جل ڠن ݢڤاكي سيستيم ترانسڤورتاسي. كا رب مندوم اورڠ ݢڤݢه حل ك سيستيم ترانسڤورتاسي. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science
+EXPLANATION:
+This sentence is about"
+"كرن داءيره ڽي جارڠ نا ڤندودوق, ڤؤلوسي هنا جد ك مسئاله, ݢتا جد ماڠت بك مات ته دس بينتڠ٢.",travel,geography,"<|begin_of_text|>SENTENCE:
+ كرن داءيره ڽي جارڠ نا ڤندودوق, ڤؤلوسي هنا جد ك مسئاله, ݢتا جد ماڠت بك مات ته دس بينتڠ٢. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+شرط ڠن اڠكوس يوم فيسا مباݢي جنيس نيبك سابوه نڠݢري لاءين ڠن جيڤڠاروه لى نڠݢري اصل درينه.,travel,geography,"<|begin_of_text|>SENTENCE:
+ شرط ڠن اڠكوس يوم فيسا مباݢي جنيس نيبك سابوه نڠݢري لاءين ڠن جيڤڠاروه لى نڠݢري اصل درينه. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+"سچارا عموم جيه, هنا مݢونا تميتا كورڠ يم بڠكو ݢله بيسنيس اتوا ݢله ڤهون نيبك ڤنربڠن لڠسوڠ ڤوى داري ا او ب.",travel,travel,"<|begin_of_text|>SENTENCE:
+ سچارا عموم جيه, هنا مݢونا تميتا كورڠ يم بڠكو ݢله بيسنيس اتوا ݢله ڤهون نيبك ڤنربڠن لڠسوڠ ڤوى داري ا او ب. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+travel
+EXPLANATION:
+This sentence is"
+سروم بوميراڠ ڽن كه سابوه كاهليان ڽڠ مشهور ڽڠ ݢالك لي اورڠ رامي.,travel,geography,"<|begin_of_text|>SENTENCE:
+ سروم بوميراڠ ڽن كه سابوه كاهليان ڽڠ مشهور ڽڠ ݢالك لي اورڠ رامي. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+ڤنربڠن ڽي كن سابوه٢ جيه چارا مڠڽو درينه مهت نڤليوات اره ڤر ڤاسيفيك سلاتن ڠن ولايه ڤانتي بارت داري اميريكا سلاتن. (نكالن ديوب),travel,travel,"<|begin_of_text|>SENTENCE:
+ ڤنربڠن ڽي كن سابوه٢ جيه چارا مڠڽو درينه مهت نڤليوات اره ڤر ڤاسيفيك سلاتن ڠن ولايه ڤانتي بارت داري اميريكا سلاتن. (نكالن ديوب) 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+travel
+EXPLANATION:
+This sentence is"
+"سان ڤرانسيسكو كا ݢكمبڠكن اينفراستروكتور ڤڠونجوڠ ڽڠ رايق دڠن لا هوتيل, تمڤت سماجوه, ڠن تمڤت كسڤاكتن ݢله-اتس.",travel,travel,"<|begin_of_text|>SENTENCE:
+ سان ڤرانسيسكو كا ݢكمبڠكن اينفراستروكتور ڤڠونجوڠ ڽڠ رايق دڠن لا هوتيل, تمڤت سماجوه, ڠن تمڤت كسڤاكتن ݢله-اتس. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+travel
+EXPLANATION:
+This sentence is"
+ڤتبا دري واتو تاجك لم ملنچوڠ ناكه سابوه چارا ڽڠ ݢج اونتوق تاڤݢج سابوه هل ڽڠ مبيدا تاڤي ڽن كن چوما تتڠ بوت جوق.,travel,geography,"<|begin_of_text|>SENTENCE:
+ ڤتبا دري واتو تاجك لم ملنچوڠ ناكه سابوه چارا ڽڠ ݢج اونتوق تاڤݢج سابوه هل ڽڠ مبيدا تاڤي ڽن كن چوما تتڠ بوت جوق. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+اورڠ موڠكين هنا ݢتڤوى بهوا صبر ڠن ڤفهوم ڽن ڤرلو ك اوق ݢالك جك٢ ڽڠ وي او رومه.,travel,geography,"<|begin_of_text|>SENTENCE:
+ اورڠ موڠكين هنا ݢتڤوى بهوا صبر ڠن ڤفهوم ڽن ڤرلو ك اوق ݢالك جك٢ ڽڠ وي او رومه. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: -geography 
+EXPLANATION: 
+The"
+"بيك تور نتامه بياي ك تمبهن visa, ڤاجك واتو تاڤر, بيياي جك د دارت, ڠن سباݢيجيه ك مندوم تمڤت٢ ڽن ڽڠ دلوار افريكا.",travel,travel,"<|begin_of_text|>SENTENCE:
+ بيك تور نتامه بياي ك تمبهن visa, ڤاجك واتو تاڤر, بيياي جك د دارت, ڠن سباݢيجيه ك مندوم تمڤت٢ ڽن ڽڠ دلوار افريكا. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+This sentence"
+لادوم اورڠ ݢمڤوڠ بيشکيک ݢڤساله ڤڠونجوق راس نيبق سلاتن اتوه ملڠݢيه حکوم.,politics,politics,"<|begin_of_text|>SENTENCE:
+ لادوم اورڠ ݢمڤوڠ بيشکيک ݢڤساله ڤڠونجوق راس نيبق سلاتن اتوه ملڠݢيه حکوم. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+This sentence"
+لادوم بلݢيا واتو ڽي ناكه لادوم لوكسيمبورݢ ماس او ليكوت تتاڤي جد ك بلݢيا عوه تلس ريفولوسي بلݢيا تهون ١٨٣٠ ان.,politics,geography,"<|begin_of_text|>SENTENCE:
+ لادوم بلݢيا واتو ڽي ناكه لادوم لوكسيمبورݢ ماس او ليكوت تتاڤي جد ك بلݢيا عوه تلس ريفولوسي بلݢيا تهون ١٨٣٠ ان. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+فون تهون ١۹۸۸، کوتق سو سواه ترنسڤرن بجوت ڤميليه ڠون ڤڠامت ݢکالون بهوا هان امڤلوڤ بق اواي ڤموڠوتن سو ڠون هان امڤلوڤ ڽڠ ݢتامه کچوالي اتا ڤميليه ڽڠ کا ݢبيلڠ ڠون ݢبري کواس.,politics,geography,"<|begin_of_text|>SENTENCE:
+ فون تهون ١۹۸۸، کوتق سو سواه ترنسڤرن بجوت ڤميليه ڠون ڤڠامت ݢکالون بهوا هان امڤلوڤ بق اواي ڤموڠوتن سو ڠون هان امڤلوڤ ڽڠ ݢتامه کچوالي اتا ڤميليه ڽڠ کا ݢبيلڠ ڠون ݢبري کواس. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+سمنتارا ڤردانا منترو جوليا ݢيلارد ڤکلايم لاويت کمڤڽى ڤنيليه فيديرل ٢٠١٠ بهوا ݢوبڽ ݢڤتيه اءوسترالي هرويه جوت کى ريڤوبليک بق اخى ڤمرنتهن راتو ايليزابيث II.,politics,entertainment,"<|begin_of_text|>SENTENCE:
+ سمنتارا ڤردانا منترو جوليا ݢيلارد ڤکلايم لاويت کمڤڽى ڤنيليه فيديرل ٢٠١٠ بهوا ݢوبڽ ݢڤتيه اءوسترالي هرويه جوت کى ريڤوبليک بق اخى ڤمرنتهن راتو ايليزابيث II. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+The"
+ڤمرنته ايرلانديا ݢڤتݢون اورݢينسي حکوم ڤرلمين کى ݢڤݢوت کأداءن.,politics,politics,"<|begin_of_text|>SENTENCE:
+ ڤمرنته ايرلانديا ݢڤتݢون اورݢينسي حکوم ڤرلمين کى ݢڤݢوت کأداءن. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+politics
+EXPLANATION:
+The sentence"
+ارݢومين ديڤلوماتيك بك ولايه ڽن سابي جيڤبروك هوبوڠن انتارا ارمينيا ڠن اذربيجان.,politics,geography,"<|begin_of_text|>SENTENCE:
+ ارݢومين ديڤلوماتيك بك ولايه ڽن سابي جيڤبروك هوبوڠن انتارا ارمينيا ڠن اذربيجان. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+ڤردان منترو ستيفن هارڤر کا ساڤو خن کى ݢکيريم 'کلين اير اک‌ت' ڤمرنته او کوميتى بندوم ڤيهق کى ݢکالون لوم، سيݢوهلوم ݢباچ کدوا جيه، اوه لهوه مرومڤوق ۲٥ مينيت اورو ثلاث ڠون شيح اين.دي.ڤي. جاک لايتون دي ڤي.ايم.او.,politics,entertainment,"<|begin_of_text|>SENTENCE:
+ ڤردان منترو ستيفن هارڤر کا ساڤو خن کى ݢکيريم 'کلين اير اک‌ت' ڤمرنته او کوميتى بندوم ڤيهق کى ݢکالون لوم، سيݢوهلوم ݢباچ کدوا جيه، اوه لهوه مرومڤوق ۲٥ مينيت اورو ثلاث ڠون شيح اين.دي.ڤي. جاک لايتون دي ڤي.ايم.او. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+The"
+سبولن ڽڠ کا لوڤه⹁ نا ڤروتيس رايق دي ڤولنديا واتى نڠرو ڽن ݢتندا تاڠن اي.سي.تي.اي.⹁ ڽڠ ڤسبب ڤمرنته ڤولنديا جڤڤوتوه هان مراتيفيکاسي ڤرجنجيان ڽن⹁ کى ساعة ڽو.,politics,travel,"<|begin_of_text|>SENTENCE:
+ سبولن ڽڠ کا لوڤه⹁ نا ڤروتيس رايق دي ڤولنديا واتى نڠرو ڽن ݢتندا تاڠن اي.سي.تي.اي.⹁ ڽڠ ڤسبب ڤمرنته ڤولنديا جڤڤوتوه هان مراتيفيکاسي ڤرجنجيان ڽن⹁ کى ساعة ڽو. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+travel
+EXPLANATION:
+This sentence is"
+نصحة ناكه سابوه چاليترا ڤانك نيبك كأداءن ڤوليتيك د سابوه نڠݢري.,politics,geography,"<|begin_of_text|>SENTENCE:
+ نصحة ناكه سابوه چاليترا ڤانك نيبك كأداءن ڤوليتيك د سابوه نڠݢري. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: geography 
+EXPLANATION:
+This sentence is in"
+لم ڤنيليه ١۹٧٦، ݢوبڽن ݢبي نصيحة بق کرتير تنتڠ کبيجقن لوا نڠرو، الهوه ڽن متوݢه سباݢو ڤنصيحة کأمنن نسيونل (اين.ايس.اي.) ١۹٧٧-١۹۸١، ݢلنتو هينري کيسينجر.,politics,politics,"<|begin_of_text|>SENTENCE:
+ لم ڤنيليه ١۹٧٦، ݢوبڽن ݢبي نصيحة بق کرتير تنتڠ کبيجقن لوا نڠرو، الهوه ڽن متوݢه سباݢو ڤنصيحة کأمنن نسيونل (اين.ايس.اي.) ١۹٧٧-١۹۸١، ݢلنتو هينري کيسينجر. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+politics
+EXPLANATION:
+The sentence"
+تورکي نق چوق ڤولڠ چيت کاواي اوق ڤجواڠ ايسيس ڽڠ ݢدروڤ، ڽڠ منوروت ‎ڤرڽاتاءن ڽن، نڠرو-نڠرو ايروڤا کا ݢتولق کى ݢفووو.,politics,geography,"<|begin_of_text|>SENTENCE:
+ تورکي نق چوق ڤولڠ چيت کاواي اوق ڤجواڠ ايسيس ڽڠ ݢدروڤ، ڽڠ منوروت ‎ڤرڽاتاءن ڽن، نڠرو-نڠرو ايروڤا کا ݢتولق کى ݢفووو. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+TRANSLATION:
+Tur"
+"برڠݢادوم, ڤݢه ڽي جد اوسڠ كا راب لم سي ملم, واتو لبيه نيبك ٨٠٠٠٠٠ تنترا نيبك تنترا ميراه اوني سوفيىت جي تاموڠ ڠن ڤݢج بله بيلاروسيا ڠن اوكراينا عوه تلس ݢجك اينفاسي ولايه تيمو ڤولنديا ڽڠ ساكر قنون دامي ريݢا, ڤكتا هنا-اݢرسي اوفيت-ڤولنديا, ڠن قنون اينترناسيونل لاءين, جد بيلاترل اتوا ڤيه مولتي لاترل.",politics,politics,"<|begin_of_text|>SENTENCE:
+ برڠݢادوم, ڤݢه ڽي جد اوسڠ كا راب لم سي ملم, واتو لبيه نيبك ٨٠٠٠٠٠ تنترا نيبك تنترا ميراه اوني سوفيىت جي تاموڠ ڠن ڤݢج بله بيلاروسيا ڠن اوكراينا عوه تلس ݢجك اينفاسي ولايه تيمو ڤولنديا ڽڠ ساكر قنون دامي ريݢا, ڤكتا هنا-اݢرسي اوفيت-ڤولنديا, ڠن قنون اينترناسيونل لاءين, جد بيلاترل اتوا ڤيه مولتي لاترل. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+politics
+EXPLANATION:
+The sentence"
+لهوه ڤروسيس ڽن⹁ ايچ.جي.ار.-٣ ݢنق تيليق لوم لى لݢيسلاتيف ڽڠ تڤيليه لهوهجيه ݢيت تهون ٢٠١٥ اتاو ٢٠١٦ کى تتڤ لا ڤروسيس.,politics,health,"<|begin_of_text|>SENTENCE:
+ لهوه ڤروسيس ڽن⹁ ايچ.جي.ار.-٣ ݢنق تيليق لوم لى لݢيسلاتيف ڽڠ تڤيليه لهوهجيه ݢيت تهون ٢٠١٥ اتاو ٢٠١٦ کى تتڤ لا ڤروسيس. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-health
+EXPLANATION:
+The sentence is"
+"واتو كا تلس ݢتريموڠ لى كوڠريس عوه تڠݢل ٤ جولي, سابوه خط كݢبوه تيكين لى ڤريسيدن كوڠريس جوهن هانكوق ڠن سيكريتاريس چهارليس تهومسون تلس ڽن كيريم ݢكيريم او سابوه كدي سالين ڽڠ هنا جؤه نيبك سينن اترا جوهن دونلڤ.",politics,politics,"<|begin_of_text|>SENTENCE:
+ واتو كا تلس ݢتريموڠ لى كوڠريس عوه تڠݢل ٤ جولي, سابوه خط كݢبوه تيكين لى ڤريسيدن كوڠريس جوهن هانكوق ڠن سيكريتاريس چهارليس تهومسون تلس ڽن كيريم ݢكيريم او سابوه كدي سالين ڽڠ هنا جؤه نيبك سينن اترا جوهن دونلڤ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+politics
+EXPLANATION:
+The sentence"
+تڤت اوه لهوه ڤوه ١١:٠٠، اورڠ ڽڠ ڤروتيه ݢتوڤ لالو لينتس دي ݢربوڠ اوتارا دي وايتهال.,politics,travel,"<|begin_of_text|>SENTENCE:
+ تڤت اوه لهوه ڤوه ١١:٠٠، اورڠ ڽڠ ڤروتيه ݢتوڤ لالو لينتس دي ݢربوڠ اوتارا دي وايتهال. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+travel
+EXPLANATION:
+This sentence is"
+"برڠݢادوم, بك بولن جوني ١٩٥٦, جنجي كروسهچهىص جي اوجي واتو كارو د ڤولنديا, د ڤت اورڠ-اورڠ كريجا كا ݢمدعوا هن سيب ڤناجوه ڠن دكوه ݢاجي, ماوبه جد ك دعوا اورڠ رامي بك كومونيسمى.",politics,geography,"<|begin_of_text|>SENTENCE:
+ برڠݢادوم, بك بولن جوني ١٩٥٦, جنجي كروسهچهىص جي اوجي واتو كارو د ڤولنديا, د ڤت اورڠ-اورڠ كريجا كا ݢمدعوا هن سيب ڤناجوه ڠن دكوه ݢاجي, ماوبه جد ك دعوا اورڠ رامي بك كومونيسمى. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+"ڽن اكن ملڠسوڠ لم ٤٠ تهون او كر ڠن اكن ݢڤجواڠ ڠن ڽات, لى تنترا داري چابڠ, بك ولايه ڤراڠ نيبك افريكا تروه او اسيا, بك افݢانيستن, كبا, ڠن لى تمڤت لاءين.",politics,geography,"<|begin_of_text|>SENTENCE:
+ ڽن اكن ملڠسوڠ لم ٤٠ تهون او كر ڠن اكن ݢڤجواڠ ڠن ڽات, لى تنترا داري چابڠ, بك ولايه ڤراڠ نيبك افريكا تروه او اسيا, بك افݢانيستن, كبا, ڠن لى تمڤت لاءين. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+geography
+EXPLANATION:
+The sentence"
+بولن ڽڠ کا لوڤه کوميسي کڤريسيدنن ݢريکوم ڤڠوندورن درو سي.اي.ڤي. سيݢوهلومجيه سباݢو بهاݢين نيبق ڤاکيت بوت کى ڤݢرق نڠرو او ڤميليه بارو.,politics,geography,"<|begin_of_text|>SENTENCE:
+ بولن ڽڠ کا لوڤه کوميسي کڤريسيدنن ݢريکوم ڤڠوندورن درو سي.اي.ڤي. سيݢوهلومجيه سباݢو بهاݢين نيبق ڤاکيت بوت کى ڤݢرق نڠرو او ڤميليه بارو. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+TRANSLATION:
+B"
+توڤيق لاءين ڽڠ ݢبريتهى تماسوق کأداءن ماس اوکى ييروسليم ڽڠ سوچي کى بندوا نڠرو ڠن ڤکارا لمبه يوردن.,politics,geography,"<|begin_of_text|>SENTENCE:
+ توڤيق لاءين ڽڠ ݢبريتهى تماسوق کأداءن ماس اوکى ييروسليم ڽڠ سوچي کى بندوا نڠرو ڠن ڤکارا لمبه يوردن. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+ڽن ڤيه كن ڤو خرجن نك ڤسيبله قنون قنون ڤاجك ڠن اوڠكوه نيبك نڠݢري بهݢين.,politics,geography,"<|begin_of_text|>SENTENCE:
+ ڽن ڤيه كن ڤو خرجن نك ڤسيبله قنون قنون ڤاجك ڠن اوڠكوه نيبك نڠݢري بهݢين. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+قانون ڤميلو ڤرنچيه ݢڤأتو ڤروسيس سچارا کتت.,politics,N/A,"<|begin_of_text|>SENTENCE:
+ قانون ڤميلو ڤرنچيه ݢڤأتو ڤروسيس سچارا کتت. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: None of the above 
+REASONING SKILL"
+اوه لهوه سيالوحد تالو لم سيتڠوه واتى، بوش ݢخن کى اورڠ ڽڠ کالون هاي ڤلواه ڤردان اي اسيا.,politics,geography,"<|begin_of_text|>SENTENCE:
+ اوه لهوه سيالوحد تالو لم سيتڠوه واتى، بوش ݢخن کى اورڠ ڽڠ کالون هاي ڤلواه ڤردان اي اسيا. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+TRANSLATION:
+Oh"
+"رنچان ڽن بتول ك جد مهاسيل, ڽن جيڤڤوتوس ڤركاكس ك اورڠ ميليتر ڠن مشاركت, ادت ڤيه ڤتهن رج اوه ڽي ملڠݢيس ڠن حكوم دونيا ڽڠ كا ݢتريموڠ لى مندوم ڽڠ د ڤݢج لى لادوم ڽڠ مسابوه ڤاكت دوا رتوس تهون ڽڠ كا او ليكوت.",politics,politics,"<|begin_of_text|>SENTENCE:
+ رنچان ڽن بتول ك جد مهاسيل, ڽن جيڤڤوتوس ڤركاكس ك اورڠ ميليتر ڠن مشاركت, ادت ڤيه ڤتهن رج اوه ڽي ملڠݢيس ڠن حكوم دونيا ڽڠ كا ݢتريموڠ لى مندوم ڽڠ د ڤݢج لى لادوم ڽڠ مسابوه ڤاكت دوا رتوس تهون ڽڠ كا او ليكوت. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+TRANSLATION:
+Ranch"
+سينمبوڠ ايكونومي كا ݢڤݢج لوم انتارا دوا بوه بهݢيان مولدوفا ادت ڤيه كسڤاكتن نا محسل.,politics,geography,"<|begin_of_text|>SENTENCE:
+ سينمبوڠ ايكونومي كا ݢڤݢج لوم انتارا دوا بوه بهݢيان مولدوفا ادت ڤيه كسڤاكتن نا محسل. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+ݢڤڠون لى اوق ڽن⹁ ݢوبڽ ݢڤيقين ورݢ تيکساس لڠکه-لڠکه تڠوه ݢچوق کى ݢڤليندوڠ کسلامتن ڤوبليک.,politics,geography,"<|begin_of_text|>SENTENCE:
+ ݢڤڠون لى اوق ڽن⹁ ݢوبڽ ݢڤيقين ورݢ تيکساس لڠکه-لڠکه تڠوه ݢچوق کى ݢڤليندوڠ کسلامتن ڤوبليک. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+کريتيک ليبرال کى اوڤاي ريکونستروکسي کا مفوکوس بق ݢبري کونتراک ريکونستروکسي کى اورڠ اي وشيڠتون ڽڠ ݢأڠݢڤ.,politics,politics,"<|begin_of_text|>SENTENCE:
+ کريتيک ليبرال کى اوڤاي ريکونستروکسي کا مفوکوس بق ݢبري کونتراک ريکونستروکسي کى اورڠ اي وشيڠتون ڽڠ ݢأڠݢڤ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+TRANSLATION:
+Critique"
+دري ١.٤٠٠ اورڠ ڽڠ ݢسورفي سيݢوهلوم ڤنيليه فيديرل ٢٠١٠⹁ اوق ڽڠ لاون اءوسترالي ڽڠ جوت کى ريڤوبليک تيموه ٨ ڤرسين مولافون ٢٠٠٨.,politics,geography,"<|begin_of_text|>SENTENCE:
+ دري ١.٤٠٠ اورڠ ڽڠ ݢسورفي سيݢوهلوم ڤنيليه فيديرل ٢٠١٠⹁ اوق ڽڠ لاون اءوسترالي ڽڠ جوت کى ريڤوبليک تيموه ٨ ڤرسين مولافون ٢٠٠٨. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+The"
+اوق ديڤلومات خن بهوا اوقڽن کا متومى چوکوڤ امبيݢويتس لم کونستيتوسي افݢانيستن کى ‎ݢڤتنتى ڤوترن کدوا سباݢو هان ڤرلى.,politics,N/A,"<|begin_of_text|>SENTENCE:
+ اوق ديڤلومات خن بهوا اوقڽن کا متومى چوکوڤ امبيݢويتس لم کونستيتوسي افݢانيستن کى ‎ݢڤتنتى ڤوترن کدوا سباݢو هان ڤرلى. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+None of the above. This sentence is in"
+اوه لهوه حسى جيه تاموڠ، ݢيڠريچ ݢڤڤوجو سانتوروم، تتڤي نا کلمه ݢاس کى رومني، ڽڠ اتوه نن سو اعلان کمڤاڽى هان ݢيت ݢڤدوه نيبق ملاون ݢيڠريچ.,politics,geography,"<|begin_of_text|>SENTENCE:
+ اوه لهوه حسى جيه تاموڠ، ݢيڠريچ ݢڤڤوجو سانتوروم، تتڤي نا کلمه ݢاس کى رومني، ڽڠ اتوه نن سو اعلان کمڤاڽى هان ݢيت ݢڤدوه نيبق ملاون ݢيڠريچ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+TRANSLATION:
+Oh"
+ڽو ناکوه سي.اي.ڤي. کى ليموڠ مرتيلي لام ڤيت تهون.,politics,geography,"<|begin_of_text|>SENTENCE:
+ ڽو ناکوه سي.اي.ڤي. کى ليموڠ مرتيلي لام ڤيت تهون. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+�"
+ڤراءيه مدالي موه اوليمڤيادى ڽن اکن ملاڠو لام ݢاي بيبوه ١٠٠م ڠن ٢٠٠م ڠن لام لهى ايستافيت دي کومونويل‌ث ݢايم‌س⹁ تڤي سبب کلوهنجيه کبوݢرنجيه ݢراݢو.,sports,sports,"<|begin_of_text|>SENTENCE:
+ ڤراءيه مدالي موه اوليمڤيادى ڽن اکن ملاڠو لام ݢاي بيبوه ١٠٠م ڠن ٢٠٠م ڠن لام لهى ايستافيت دي کومونويل‌ث ݢايم‌س⹁ تڤي سبب کلوهنجيه کبوݢرنجيه ݢراݢو. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+EXPLANATION:
+The sentence"
+سيلاءين جوارا ڽڠ کا لوڤه اوليمڤيک اند وورلد⹁ سايتو ناکوه ڤتوا کوميتي ڤلاتيهن اول جاڤن جودو فيديراشين بق واتى منيڠݢايجيه.,sports,sports,"<|begin_of_text|>SENTENCE:
+ سيلاءين جوارا ڽڠ کا لوڤه اوليمڤيک اند وورلد⹁ سايتو ناکوه ڤتوا کوميتي ڤلاتيهن اول جاڤن جودو فيديراشين بق واتى منيڠݢايجيه. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports 
+EXPLANATION: 
+This sentence is"
+کوميتى اوليمڤيادى اينترناسيونل ڤيليه کى ݢڤتموڠ اولهراݢ بق ڤرتمون ديوان ايکسيکوتيف اي برلين اورو ڽو. روݢبي⹁ تنتجيه روݢبي يونين⹁ ڠن ݢول‌ف ݢڤيليه نيبق ليموڠ اولهراݢ لاءين کى ݢتيمڠ کى مأيکوت لام اوليمڤيادى.,sports,sports,"<|begin_of_text|>SENTENCE:
+ کوميتى اوليمڤيادى اينترناسيونل ڤيليه کى ݢڤتموڠ اولهراݢ بق ڤرتمون ديوان ايکسيکوتيف اي برلين اورو ڽو. روݢبي⹁ تنتجيه روݢبي يونين⹁ ڠن ݢول‌ف ݢڤيليه نيبق ليموڠ اولهراݢ لاءين کى ݢتيمڠ کى مأيکوت لام اوليمڤيادى. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports 
+EXPLANATION: 
+This sentence is"
+تورنامين سيتهون سيݢر ڽڠ ڤاليڠ رايق د ڤݢج لم بولن ديسيمبر بك لاڤڠن ڤولو د لس كانيتاس.,sports,sports,"<|begin_of_text|>SENTENCE:
+ تورنامين سيتهون سيݢر ڽڠ ڤاليڠ رايق د ڤݢج لم بولن ديسيمبر بك لاڤڠن ڤولو د لس كانيتاس. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports 
+EXPLANATION: 
+This sentence is"
+ڤفون ڤينه او ايبوکوتا کاتالن، ۏيدل کا ماءين ٤۹ ڤرتنديڠن کى کلوب ڽن.,sports,geography,"<|begin_of_text|>SENTENCE:
+ ڤفون ڤينه او ايبوکوتا کاتالن، ۏيدل کا ماءين ٤۹ ڤرتنديڠن کى کلوب ڽن. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+REASONING:
+The"
+"تاڤنا ك داي كصيحتن ڽڠ تيمڠ, تاڤبوت چارا جيب اير ڽڠ ݢج ك لازيم, ڠن بتامڤهوم كڤادوم بوه حل نك بوت ڤاجوه سوڤليمين ڽڠ نك جد د ڤايك تناݢ سيدري اتليت ڠن جي ڤايك راس سنڠ لم منعين (سڤورت).",sports,geography,"<|begin_of_text|>SENTENCE:
+ تاڤنا ك داي كصيحتن ڽڠ تيمڠ, تاڤبوت چارا جيب اير ڽڠ ݢج ك لازيم, ڠن بتامڤهوم كڤادوم بوه حل نك بوت ڤاجوه سوڤليمين ڽڠ نك جد د ڤايك تناݢ سيدري اتليت ڠن جي ڤايك راس سنڠ لم منعين (سڤورت). 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+TRANSLATION:
+The"
+بق ڤوسيسي کلهى، هاملين تالو دوا ڤلوه ڤوين، تتڤي منڠ ليموڠ ڤوين نيبق بويير. کاهن ڠون ترو جونيور ماسيڠ-ماسيڠ نا بق ڤوسيسي کليموڠ ڠون کأنم دڠون ۲.۲۲۰ دان ۲.۲۰٧ ڤوين.,sports,geography,"<|begin_of_text|>SENTENCE:
+ بق ڤوسيسي کلهى، هاملين تالو دوا ڤلوه ڤوين، تتڤي منڠ ليموڠ ڤوين نيبق بويير. کاهن ڠون ترو جونيور ماسيڠ-ماسيڠ نا بق ڤوسيسي کليموڠ ڠون کأنم دڠون ۲.۲۲۰ دان ۲.۲۰٧ ڤوين. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+ TRANSLATION:
+In"
+ريکور اولى کى اولى نادل ملاون ‎ڤتنيس کانادا ناکوه ٧-۲.,sports,sports,"<|begin_of_text|>SENTENCE:
+ ريکور اولى کى اولى نادل ملاون ‎ڤتنيس کانادا ناکوه ٧-۲. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: sports 
+EXPLANATION: 
+The sentence is"
+هرقي ݢمرونو سلاما ‎ڤلاتيهن ڤرا-موسيم اي کوۏيرسيانو ايتالي بق اورو سيݢوهلومجيه. ݢوبڽ ݢئيه اي هوتيل تيم کونجوڠ ڤرتنديڠن ڽڠ ݢرنچڠ اورو الوحد لاون بولونيا.,sports,travel,"<|begin_of_text|>SENTENCE:
+ هرقي ݢمرونو سلاما ‎ڤلاتيهن ڤرا-موسيم اي کوۏيرسيانو ايتالي بق اورو سيݢوهلومجيه. ݢوبڽ ݢئيه اي هوتيل تيم کونجوڠ ڤرتنديڠن ڽڠ ݢرنچڠ اورو الوحد لاون بولونيا. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The sentence"
+راس خواطى اکن کورڠجيه ترنسڤورتاسي ڤݢوت لوبيه رايق کموڠکينن بهوا ڤرتنديڠن اکم ݢڤقسا ݢماءين سچارا متوڤ ڠن هانا ڤندوکوڠ تيم.,sports,entertainment,"<|begin_of_text|>SENTENCE:
+ راس خواطى اکن کورڠجيه ترنسڤورتاسي ڤݢوت لوبيه رايق کموڠکينن بهوا ڤرتنديڠن اکم ݢڤقسا ݢماءين سچارا متوڤ ڠن هانا ڤندوکوڠ تيم. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+This"
+"تومي دريمر ݢخن ""لونا ناکوه راتو ايکستريم فون. منجير فون لون. لونا ماتى بق مالم دوا بولن. سيڤ چوده لاݢى ݢوبڽن. اينوڠ ڽڠ توݢ.""",sports,entertainment,"<|begin_of_text|>SENTENCE:
+ تومي دريمر ݢخن ""لونا ناکوه راتو ايکستريم فون. منجير فون لون. لونا ماتى بق مالم دوا بولن. سيڤ چوده لاݢى ݢوبڽن. اينوڠ ڽڠ توݢ."" 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+The"
+اوق ڽڠ ماءين سکي اݢم دري ڤولنديا ڽڠ هان جوت او⹁ مچيج کريزل⹁ ڠن ڤمندو انا اوݢرزنسک ݢدوق کلهى بله بق سوڤر-جي. جوڠ سوق باق دري کوريا سلاتن ݢدوق کدوا ڤلوه ڤت بق سوڤر-جي دوق اݢم.,sports,geography,"<|begin_of_text|>SENTENCE:
+ اوق ڽڠ ماءين سکي اݢم دري ڤولنديا ڽڠ هان جوت او⹁ مچيج کريزل⹁ ڠن ڤمندو انا اوݢرزنسک ݢدوق کلهى بله بق سوڤر-جي. جوڠ سوق باق دري کوريا سلاتن ݢدوق کدوا ڤلوه ڤت بق سوڤر-جي دوق اݢم. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+ TRANSLATION:
+The"
+"ك خبر تنتڠ تورنامين ڠن ڤت د ڤوبلي تيكيت ك اچارا تادوڠ ڤولو, نكالن بك اسوسياتيون ارݢينتينا د ڤولو.",sports,politics,"<|begin_of_text|>SENTENCE:
+ ك خبر تنتڠ تورنامين ڠن ڤت د ڤوبلي تيكيت ك اچارا تادوڠ ڤولو, نكالن بك اسوسياتيون ارݢينتينا د ڤولو. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-politics
+EXPLANATION:
+The sentence"
+مناءين دمولاي ڤوه ١۰:۰۰ بڠوه ڠون چواچ ڽڠ ݢيت به تهات اوجين مڤريت-ڤريت بق تڠوه ڽڠ ڤيرڠ دڠون بݢه، ڽن اداله اورو ڽڠ سمڤورنا اونتوق روݢبي ٧.,sports,entertainment,"<|begin_of_text|>SENTENCE:
+ مناءين دمولاي ڤوه ١۰:۰۰ بڠوه ڠون چواچ ڽڠ ݢيت به تهات اوجين مڤريت-ڤريت بق تڠوه ڽڠ ڤيرڠ دڠون بݢه، ڽن اداله اورو ڽڠ سمڤورنا اونتوق روݢبي ٧. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+This"
+ارلي ۏلسکيز نيبق مکسيکو ݢدوق کليموڠ بله لام سوڤر-جي دوق اݢم. ادم هال ݢدوق کسيکورڠ لام سوڤر-جي دوڠ اݢم.,sports,geography,"<|begin_of_text|>SENTENCE:
+ ارلي ۏلسکيز نيبق مکسيکو ݢدوق کليموڠ بله لام سوڤر-جي دوق اݢم. ادم هال ݢدوق کسيکورڠ لام سوڤر-جي دوڠ اݢم. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+REASONING SKILL"
+تنديڠ سنلهوه نيبق بابق ڽو کنق ايڤودوق اي ايليس ڤارک دي جوهان‌سبورݢ الوحد اوکى واتى سڤريڠبوک‌س ماءين لاون اءوسترالي.,sports,travel,"<|begin_of_text|>SENTENCE:
+ تنديڠ سنلهوه نيبق بابق ڽو کنق ايڤودوق اي ايليس ڤارک دي جوهان‌سبورݢ الوحد اوکى واتى سڤريڠبوک‌س ماءين لاون اءوسترالي. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+REASONING:
+The sentence"
+لم واتو ڽڠ ݢج ݢتا كنك تروه او تمڤت ڽڠ لبيه جؤه لوم نيبك نجك ڠن تاڤق – تاڤي جارڠ تهت ݢتا كنك تروه باݢس لاݢو تاجك ڠن سكي د عالم لوار ڠن هنا تس ݢهون ساجن واتو د جالن ڽڠ بيئسا.,sports,geography,"<|begin_of_text|>SENTENCE:
+ لم واتو ڽڠ ݢج ݢتا كنك تروه او تمڤت ڽڠ لبيه جؤه لوم نيبك نجك ڠن تاڤق – تاڤي جارڠ تهت ݢتا كنك تروه باݢس لاݢو تاجك ڠن سكي د عالم لوار ڠن هنا تس ݢهون ساجن واتو د جالن ڽڠ بيئسا. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+REASONING:
+The"
+تالو توجوه ڤوين، جونسون نا لم ڤوسيسي کدوا دڠون ۲.۲٤۳.,sports,N/A,"<|begin_of_text|>SENTENCE:
+ تالو توجوه ڤوين، جونسون نا لم ڤوسيسي کدوا دڠون ۲.۲٤۳. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: None of the above 
+REASONING:
+The"
+"جك لم رلڠ ( اتوا: كاڽونيريڠ) نا كه جك د ميوب سابوه رلڠ, ڽڠ موڠكين كادڠ تهور اتوا ڤنوه ڠن اير.",sports,geography,"<|begin_of_text|>SENTENCE:
+ جك لم رلڠ ( اتوا: كاڽونيريڠ) نا كه جك د ميوب سابوه رلڠ, ڽڠ موڠكين كادڠ تهور اتوا ڤنوه ڠن اير. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+روبين اوتاڤا ڤݢوت نيلاي تيڠکت ڤاليڠ ماڽڠ، ٧۰ ڤلوڠ سيت لم ٤١ بوهلا ڠون ݢفيه ١١ ڤوت ڠون ۲ نم.,sports,geography,"<|begin_of_text|>SENTENCE:
+ روبين اوتاڤا ڤݢوت نيلاي تيڠکت ڤاليڠ ماڽڠ، ٧۰ ڤلوڠ سيت لم ٤١ بوهلا ڠون ݢفيه ١١ ڤوت ڠون ۲ نم. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+geography
+EXPLANATION:
+This sentence"
+"اوله راݢا موسيم لڤئي ڤاليڠ مشهور د ولايه اوتارا, دڠن اورڠ ايتاليا ملومبا لم تنديڠ اينترناسيونل ڠن اچرا اوليميادى.",sports,geography,"<|begin_of_text|>SENTENCE:
+ اوله راݢا موسيم لڤئي ڤاليڠ مشهور د ولايه اوتارا, دڠن اورڠ ايتاليا ملومبا لم تنديڠ اينترناسيونل ڠن اچرا اوليميادى. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+مروچيدوري کالوه اي اتوه ريڽون، نم ڤوين نيبق نوسا بق ڤوسيسي کدوا.,sports,geography,"<|begin_of_text|>SENTENCE:
+ مروچيدوري کالوه اي اتوه ريڽون، نم ڤوين نيبق نوسا بق ڤوسيسي کدوا. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+مايكل شوماخر ݢڤأخى بالڤنجيه هانا تريب لهوه الونسو⹁ سبب کروسقن سوسڤينسي لام لى باݢو ڤرتمڤورن لاويت بالڤن.,sports,sports,"<|begin_of_text|>SENTENCE:
+ مايكل شوماخر ݢڤأخى بالڤنجيه هانا تريب لهوه الونسو⹁ سبب کروسقن سوسڤينسي لام لى باݢو ڤرتمڤورن لاويت بالڤن. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-sports
+ TRANSLATION:
+Michael Sch"
+"ڤاجوه ڤناجوه ڽڠ صحة ساݢل ڽن هنا سيب ك ڤنا تناݢ ڽڠ هاير, تاڤي اترا ڽن جد ك برت معاقبة نيبك اورڠ اتليت مودا ك بن مندوم كادءن ڽڠ ݢج.",sports,health,"<|begin_of_text|>SENTENCE:
+ ڤاجوه ڤناجوه ڽڠ صحة ساݢل ڽن هنا سيب ك ڤنا تناݢ ڽڠ هاير, تاڤي اترا ڽن جد ك برت معاقبة نيبك اورڠ اتليت مودا ك بن مندوم كادءن ڽڠ ݢج. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+health
+REASONING:
+The sentence is"
+ݢوبڽ هانا جوت جيب اوبت ݢڤرلى کى ݢڤڤوليه راس ساکيتجيه سبب ݢتهام دري اوليمڤيادى.,sports,geography,"<|begin_of_text|>SENTENCE:
+ ݢوبڽ هانا جوت جيب اوبت ݢڤرلى کى ݢڤڤوليه راس ساکيتجيه سبب ݢتهام دري اوليمڤيادى. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+ڤنليتين كا ݢتمو بهواسجيه اورڠ اينوڠ لبيه موده كنوڠ م س دوا ݢر ليڤت نيبك اورڠ اݢم.,health,geography,"<|begin_of_text|>SENTENCE:
+ ڤنليتين كا ݢتمو بهواسجيه اورڠ اينوڠ لبيه موده كنوڠ م س دوا ݢر ليڤت نيبك اورڠ اݢم. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+�"
+"جيوا هنا جلس ماسيمباݢي ماچم حل كوتور ڽڠ مبهيا لاݢو ميتانول, ڽڠ جد ك سبب بوتا اتوا ماتى ادت ڤيه لم دوسيس اوبيت.",health,science/technology,"<|begin_of_text|>SENTENCE:
+ جيوا هنا جلس ماسيمباݢي ماچم حل كوتور ڽڠ مبهيا لاݢو ميتانول, ڽڠ جد ك سبب بوتا اتوا ماتى ادت ڤيه لم دوسيس اوبيت. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+- science
+EXPLANATION:
+This sentence"
+"ڤڠاروه نيبك بالا ساݢل, كن ديڤريسي ڠن ير ڽڠ كه شرط نيبك سيسي ڤ أ مسوسون تيڤ الحد ماتور.",health,geography,"<|begin_of_text|>SENTENCE:
+ ڤڠاروه نيبك بالا ساݢل, كن ديڤريسي ڠن ير ڽڠ كه شرط نيبك سيسي ڤ أ مسوسون تيڤ الحد ماتور. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+�"
+"كڤمليقن موتو ماسل ڤيه جد ك سبب لبيه لى اينسيدن كچىلاكاءن د جالن, ڽڠ ماره نيبك تنمو تكنيك بارو لم ڤراوتن كصيحتن ك ڤݢج توبوه ڽڠ رلوه.",health,geography,"<|begin_of_text|>SENTENCE:
+ كڤمليقن موتو ماسل ڤيه جد ك سبب لبيه لى اينسيدن كچىلاكاءن د جالن, ڽڠ ماره نيبك تنمو تكنيك بارو لم ڤراوتن كصيحتن ك ڤݢج توبوه ڽڠ رلوه. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+ڤنليتي اوتام خن اترا ڽو موڠکين محسى ديتيکسي فون کى کنکر، ت.ب.س.، ايچ.اي.ۏي. ڠون مالاريا کى ڤاسيان دي نڠرو ڽڠ ݢاسين، ڽڠ توه تيڠکت کى اودڤ کى ڤڽاکيت لاݢى کنکر بوه دادا جوت ستڠوه دري نڠرو ڽڠ لوبيه کاي.,health,health,"<|begin_of_text|>SENTENCE:
+ ڤنليتي اوتام خن اترا ڽو موڠکين محسى ديتيکسي فون کى کنکر، ت.ب.س.، ايچ.اي.ۏي. ڠون مالاريا کى ڤاسيان دي نڠرو ڽڠ ݢاسين، ڽڠ توه تيڠکت کى اودڤ کى ڤڽاکيت لاݢى کنکر بوه دادا جوت ستڠوه دري نڠرو ڽڠ لوبيه کاي. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+health
+EXPLANATION:
+This sentence is"
+در. ايهود اور، ڤروفيسور کدوکترن بق يونيۏرسيتس دلهاوسي دي هليفاک‌س، نوفا سکوتيا ڠون کڤالا ديۏيسي كلينيس ڠون علميه دري اسوسياسي ديابيتيس کانادا ݢڤئيڠت بهوا ڤنليتين ڽو منتوڠ لم ماس ڽڠ کفون.,health,health,"<|begin_of_text|>SENTENCE:
+ در. ايهود اور، ڤروفيسور کدوکترن بق يونيۏرسيتس دلهاوسي دي هليفاک‌س، نوفا سکوتيا ڠون کڤالا ديۏيسي كلينيس ڠون علميه دري اسوسياسي ديابيتيس کانادا ݢڤئيڠت بهوا ڤنليتين ڽو منتوڠ لم ماس ڽڠ کفون. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+health
+EXPLANATION:
+The sentence is"
+"انق-انق ميت ڽي جل ڤكركارا, سابب اوق ڽن ” ترڤاوت لم بهيا كڤتن, جي ملهو, ڠڽ جي لاون اوق رايق” ك ڤرنسڠ اوتق جيه, سابب اوتق جيه هن مرڠسڠ دڠن ميتودي بياس.",health,N/A,"<|begin_of_text|>SENTENCE:
+ انق-انق ميت ڽي جل ڤكركارا, سابب اوق ڽن ” ترڤاوت لم بهيا كڤتن, جي ملهو, ڠڽ جي لاون اوق رايق” ك ڤرنسڠ اوتق جيه, سابب اوتق جيه هن مرڠسڠ دڠن ميتودي بياس. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+None of the above. This sentence is in"
+ماءنسي جوت جڤڠاروه دڠون ڤلهوه نافه ڽڠ کنوڠ اي ڽڠ جبا او اودارا لى اڠين ڠون ݢلومبڠ.,health,geography,"<|begin_of_text|>SENTENCE:
+ ماءنسي جوت جڤڠاروه دڠون ڤلهوه نافه ڽڠ کنوڠ اي ڽڠ جبا او اودارا لى اڠين ڠون ݢلومبڠ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+ڤادوم دري اورڠ ݢڤاتيه بهوا كا ݢعالمي لى لومڤي جڠيه ڽڠ د ايندوكسي ڠن چارا ارتيفيسيل قايم چوكوڤ جد هيك تهت.,health,geography,"<|begin_of_text|>SENTENCE:
+ ڤادوم دري اورڠ ݢڤاتيه بهوا كا ݢعالمي لى لومڤي جڠيه ڽڠ د ايندوكسي ڠن چارا ارتيفيسيل قايم چوكوڤ جد هيك تهت. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+ڤوترو تريموڠ ڤراوتن دي باهو ݢوبڽ جينو تاڤي محسى باليق او ڤرمائينن.,health,geography,"<|begin_of_text|>SENTENCE:
+ ڤوترو تريموڠ ڤراوتن دي باهو ݢوبڽ جينو تاڤي محسى باليق او ڤرمائينن. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+"سلاءين ڽن, هنا واسيل ك ڤبوت نا عاقبة ݢاسول : ديڤريسي متيموه, كورڠ ݢيزي, ڠن اخير جيه ماتي.",health,geography,"<|begin_of_text|>SENTENCE:
+ سلاءين ڽن, هنا واسيل ك ڤبوت نا عاقبة ݢاسول : ديڤريسي متيموه, كورڠ ݢيزي, ڠن اخير جيه ماتي. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+ڤجابت کوتا امستردام ڠون موسيوم ان فرڠ‌ک خن بهوا بق ڽن کا مکولت ڠون م‎ڤسبب بهاي کصيحتن اورڠ رامى سبب اوقڽن ايڤݢه بهوا بق ڽن لم بهاي روبه.,health,geography,"<|begin_of_text|>SENTENCE:
+ ڤجابت کوتا امستردام ڠون موسيوم ان فرڠ‌ک خن بهوا بق ڽن کا مکولت ڠون م‎ڤسبب بهاي کصيحتن اورڠ رامى سبب اوقڽن ايڤݢه بهوا بق ڽن لم بهاي روبه. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+روموه ساکيت کا ايڤاتيه ڤروتوکول ‎ڤڠندالين اينفيکسي⹁ تماسوق ݢ‎ڤأسيڠ اورڠ سکيت نيبق اورڠ لاءين کى ݢهيندر کموڠکينن اينفيکسي اورڠ لاءين.,health,science/technology,"<|begin_of_text|>SENTENCE:
+ روموه ساکيت کا ايڤاتيه ڤروتوکول ‎ڤڠندالين اينفيکسي⹁ تماسوق ݢ‎ڤأسيڠ اورڠ سکيت نيبق اورڠ لاءين کى ݢهيندر کموڠکينن اينفيکسي اورڠ لاءين. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: science
+EXPLANATION:
+This sentence is in"
+اينستيتوت کعاديلن ڠن ديموکراسي هايتي کا مڠچو ڤد ستودي ايندڤندن ڽڠ ݢ‎ڤوݢه بهوا باتاليون کاواي دامى ڤ.ب.ب. نيڤل هان ݢتهى ݢبا ڤثاکيت ڽن او هايتي.,health,politics,"<|begin_of_text|>SENTENCE:
+ اينستيتوت کعاديلن ڠن ديموکراسي هايتي کا مڠچو ڤد ستودي ايندڤندن ڽڠ ݢ‎ڤوݢه بهوا باتاليون کاواي دامى ڤ.ب.ب. نيڤل هان ݢتهى ݢبا ڤثاکيت ڽن او هايتي. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+politics
+EXPLANATION:
+The sentence"
+"ڤڽاكيت ڽڠ مجڠكيت ڽن, اتوا مناتڠ ڽڠ مڤالي ڽڠ جد ڤلوكا اتوا جيكب اتوا جيڤوه ماتي اورڠ ڠن جيڤكسا, بيئسا جيه هن د تاموڠ لم كلومڤوق هام.",health,geography,"<|begin_of_text|>SENTENCE:
+ ڤڽاكيت ڽڠ مجڠكيت ڽن, اتوا مناتڠ ڽڠ مڤالي ڽڠ جد ڤلوكا اتوا جيكب اتوا جيڤوه ماتي اورڠ ڠن جيڤكسا, بيئسا جيه هن د تاموڠ لم كلومڤوق هام. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+"انق ميت ڽڠ كنوڠ"" ا دد"" ڤايه ك فوكوس بك حل-حل لاݢو بوت سيكولا, تتاڤي اوق ڽن جد كونسينتراسي بك حل-حل ڽڠ اوق ڽن ݢالق لاݢو معين ݢيم اتوا كالن كارتون ڽڠ ݢالق اوق ڽن اتوا جي تموليه كاليمه هنا متندا باچ.",health,entertainment,"<|begin_of_text|>SENTENCE:
+ انق ميت ڽڠ كنوڠ"" ا دد"" ڤايه ك فوكوس بك حل-حل لاݢو بوت سيكولا, تتاڤي اوق ڽن جد كونسينتراسي بك حل-حل ڽڠ اوق ڽن ݢالق لاݢو معين ݢيم اتوا كالن كارتون ڽڠ ݢالق اوق ڽن اتوا جي تموليه كاليمه هنا متندا باچ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+The"
+لم واتى ستهون، اورڠ ڽڠ تأينفيکسي جوت ݢڤأينفيکسي ١۰ سمڤو ١٥ اورڠ ڽڠ رب.,health,geography,"<|begin_of_text|>SENTENCE:
+ لم واتى ستهون، اورڠ ڽڠ تأينفيکسي جوت ݢڤأينفيکسي ١۰ سمڤو ١٥ اورڠ ڽڠ رب. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+واتى ڤرڠ کا جڤيوه اوه لهوه ڽڠ چيدرا ݢبا او روموه ساکيت، ليڠک ٤۰ ناراڤيدانا ڽڠ تيڠݢاي جدوق لم تامن ڠون تولق کى ريواڠ او سيل اوقڽن.,health,geography,"<|begin_of_text|>SENTENCE:
+ واتى ڤرڠ کا جڤيوه اوه لهوه ڽڠ چيدرا ݢبا او روموه ساکيت، ليڠک ٤۰ ناراڤيدانا ڽڠ تيڠݢاي جدوق لم تامن ڠون تولق کى ريواڠ او سيل اوقڽن. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+دوكتر كا مولاءي ݢتاريك لى راج اݢوستوس ڠن ݢڤݢج كورڤوراسي ميديس روماوي ڽڠ ك ڤهون ك جيڠوى عوه تلس ڤراڠ.,health,geography,"<|begin_of_text|>SENTENCE:
+ دوكتر كا مولاءي ݢتاريك لى راج اݢوستوس ڠن ݢڤݢج كورڤوراسي ميديس روماوي ڽڠ ك ڤهون ك جيڠوى عوه تلس ڤراڠ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+تڤي⹁ اورڠ مى موتو برت تهات لوت بق اولى.,health,N/A,"<|begin_of_text|>SENTENCE:
+ تڤي⹁ اورڠ مى موتو برت تهات لوت بق اولى. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+None of the above. This sentence is in"
+"""کامو جينو نا تيكويه عمو ٤ بولن ڽڠ هانا ديابيتيس ڽڠ اوايجيه ساکيت ديابيتيس،"" غتامه لى غوبڽن.",health,health,"<|begin_of_text|>SENTENCE:
+ ""کامو جينو نا تيكويه عمو ٤ بولن ڽڠ هانا ديابيتيس ڽڠ اوايجيه ساکيت ديابيتيس،"" غتامه لى غوبڽن. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+health
+REASONING:
+The sentence is"
+"توبا ڽڠ كنوڠ لم توبوه ڽن هن دس سيݢرا. حل-حل ڽڠ متكا, لاݢو مونته ناكه عموم جيه سابوه حل كڤريقسا ڽڠ باݢه هن جد تاڤنا.",health,geography,"<|begin_of_text|>SENTENCE:
+ توبا ڽڠ كنوڠ لم توبوه ڽن هن دس سيݢرا. حل-حل ڽڠ متكا, لاݢو مونته ناكه عموم جيه سابوه حل كڤريقسا ڽڠ باݢه هن جد تاڤنا. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+TRANSLATION:
+T"
+مسببجيه، اوق ڽڠ ماءين ڽن ݢ‎ڤيڤ روکوق ݢنجا اي اتوه ڤڠݢوڠ، ڠون سنديوارا ڽن کدرو ݢڤمهوت اورڠ کالون کى مساڤت.,entertainment,geography,"<|begin_of_text|>SENTENCE:
+ مسببجيه، اوق ڽڠ ماءين ڽن ݢ‎ڤيڤ روکوق ݢنجا اي اتوه ڤڠݢوڠ، ڠون سنديوارا ڽن کدرو ݢڤمهوت اورڠ کالون کى مساڤت. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+ايروسميث کا ݢڤبطى اينچيت کونسر اوق ثن لام تور اوق ڽن.,entertainment,geography,"<|begin_of_text|>SENTENCE:
+ ايروسميث کا ݢڤبطى اينچيت کونسر اوق ثن لام تور اوق ڽن. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+REASONING SKILL"
+مسل درينه نك تي دڠن ݢلاݢت درينه واجيب جك بڤهون نك متمو تمڤت دوم تي دڠن موسيق.,entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ مسل درينه نك تي دڠن ݢلاݢت درينه واجيب جك بڤهون نك متمو تمڤت دوم تي دڠن موسيق. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+This"
+ڽن جل فورمت فيلم ڽڠ مبيدا مبيدا ڽڠ جيڤاكي كا متهون متهون. فيلم ستندر ٣٥ م م (٣٦x٢٤ م م نݢاتيف) ڽن كه نيبك عموم جيه.,entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ ڽن جل فورمت فيلم ڽڠ مبيدا مبيدا ڽڠ جيڤاكي كا متهون متهون. فيلم ستندر ٣٥ م م (٣٦x٢٤ م م نݢاتيف) ڽن كه نيبك عموم جيه. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+The"
+"ادت ڤيه ڽي ناكه سابوه كݢياتن ڽڠ عموم, تاڤي ݢتݢه لى ديسنيي: تيكيت هن جد ڤينه جاري.",entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ ادت ڤيه ڽي ناكه سابوه كݢياتن ڽڠ عموم, تاڤي ݢتݢه لى ديسنيي: تيكيت هن جد ڤينه جاري. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+The"
+تيڤ ايڤيسودى اچارا اکن ڤڤوست بق تيما لم بوکو تتنتى ڠون لهوه ڽن ݢڤݢوت تيما ڽن ملالوي حکاية-حکاية.,entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ تيڤ ايڤيسودى اچارا اکن ڤڤوست بق تيما لم بوکو تتنتى ڠون لهوه ڽن ݢڤݢوت تيما ڽن ملالوي حکاية-حکاية. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+This"
+لادوم لايى تيۏي رايق دڤاسڠ دوم ڤت اي روما ماڠت اورڠ-اورڠ کالون اوڤاچارا ڽن.,entertainment,geography,"<|begin_of_text|>SENTENCE:
+ لادوم لايى تيۏي رايق دڤاسڠ دوم ڤت اي روما ماڠت اورڠ-اورڠ کالون اوڤاچارا ڽن. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+سوڤهوچهليس ڠن اريستوڤهانيس ڽن اورڠ ڽڠ معين دالڤ ڽڠ منتوڠ منتوڠ مشهور ڠن دالڤ اوق ڽن جيتهو سباݢي ساله سابوه ڽڠ ڤاليڠ ݢج نيبك ليتراتور دونيا.,entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ سوڤهوچهليس ڠن اريستوڤهانيس ڽن اورڠ ڽڠ معين دالڤ ڽڠ منتوڠ منتوڠ مشهور ڠن دالڤ اوق ڽن جيتهو سباݢي ساله سابوه ڽڠ ڤاليڠ ݢج نيبك ليتراتور دونيا. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+TRANSLATION:
+S"
+تيڤ ڤياسن اکن ݢبري چيت ريکومينداسي بوکو-بوکو ڽڠ هاروه ݢميتا لى انق-انق ميت واتى اوق ڽن جق او ڤوستاک اوق ڽن.,entertainment,geography,"<|begin_of_text|>SENTENCE:
+ تيڤ ڤياسن اکن ݢبري چيت ريکومينداسي بوکو-بوکو ڽڠ هاروه ݢميتا لى انق-انق ميت واتى اوق ڽن جق او ڤوستاک اوق ڽن. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+"بك اكورديون, به متمو سو ڽڠ لبيه رايق, ݢتا نهمبوس دڠن لبيه متݢون اتوا لبيه باݢه.",entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ بك اكورديون, به متمو سو ڽڠ لبيه رايق, ݢتا نهمبوس دڠن لبيه متݢون اتوا لبيه باݢه. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+The"
+ݢتا جد تا ار ڤيراميدا ڽن لم سڤوت ڠن لم سڠڤ سيݢوهلوم ڤياسن ڽن د ڤڤهون.,entertainment,geography,"<|begin_of_text|>SENTENCE:
+ ݢتا جد تا ار ڤيراميدا ڽن لم سڤوت ڠن لم سڠڤ سيݢوهلوم ڤياسن ڽن د ڤڤهون. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+"تمسيل جيه بوت سي اوري-اوري بك دري ته ترماسوق جك لم اوتن, جك كماويل, جك چوق ݢمبر, جك تيليك چيچم, ڠن جك ساور سلامن ڠن جك ستج بريتا بهس ايكوسيستيم.",entertainment,N/A,"<|begin_of_text|>SENTENCE:
+ تمسيل جيه بوت سي اوري-اوري بك دري ته ترماسوق جك لم اوتن, جك كماويل, جك چوق ݢمبر, جك تيليك چيچم, ڠن جك ساور سلامن ڠن جك ستج بريتا بهس ايكوسيستيم. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: None of the above 
+REASONING SKILL"
+سڤهينڠ ڽن دڤجد ك لاير د ليكوت ڠن ك ڽڠ ڤݢه سابوه چاليترا ڽڠ ڤاڽڠ.,entertainment,geography,"<|begin_of_text|>SENTENCE:
+ سڤهينڠ ڽن دڤجد ك لاير د ليكوت ڠن ك ڽڠ ڤݢه سابوه چاليترا ڽڠ ڤاڽڠ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+TRANSLATION:
+Sab"
+"اوق ڽن بيئسا جيه نا مكنن خصوص اير جيب ڠن جيڤتبا ڤياسن, ك جامو نك ڽامن ݢه, ڠن ك جݢا اوق ڽن بك ڤريميس.",entertainment,geography,"<|begin_of_text|>SENTENCE:
+ اوق ڽن بيئسا جيه نا مكنن خصوص اير جيب ڠن جيڤتبا ڤياسن, ك جامو نك ڽامن ݢه, ڠن ك جݢا اوق ڽن بك ڤريميس. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+کا ݢڤتهى لام باس ايڠݢريه ڠن جوڤڠ⹁ اورݢانيساسي ݢلوبل ݢڤتبيت ڤروݢرم مباس سڤڽول⹁ ايتالي⹁ ڠن کوريا⹁ کى تيليۏيسي⹁ ويب⹁ ڠن ڤرڠکت سلولر.,entertainment,geography,"<|begin_of_text|>SENTENCE:
+ کا ݢڤتهى لام باس ايڠݢريه ڠن جوڤڠ⹁ اورݢانيساسي ݢلوبل ݢڤتبيت ڤروݢرم مباس سڤڽول⹁ ايتالي⹁ ڠن کوريا⹁ کى تيليۏيسي⹁ ويب⹁ ڠن ڤرڠکت سلولر. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+سيݢوهلوم دي سيمڤسونس⹁ سايمون کا کرجا اي لادوم ڤياسن بق ماچم ڤوسيسي.,entertainment,geography,"<|begin_of_text|>SENTENCE:
+ سيݢوهلوم دي سيمڤسونس⹁ سايمون کا کرجا اي لادوم ڤياسن بق ماچم ڤوسيسي. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+EXPLANATION:
+The"
+ڽو اکن ݢڤموڠکن ڤماءين ݢڤتيمڠ تيندقن ڠن ݢرق لام ۏيديو ݢايم دڠن ݢڤݢرق ڤرڠکت دي اودارا.,entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ ڽو اکن ݢڤموڠکن ڤماءين ݢڤتيمڠ تيندقن ڠن ݢرق لام ۏيديو ݢايم دڠن ݢڤݢرق ڤرڠکت دي اودارا. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+The"
+ستيدقجيه ١٠٠ درو اورڠ کا توک لام ڤيستا ڽن⹁ کى ڤياسن ميلاد فون ڤاسڠن ڽڠ ڤرنکاحنجيه ݢڤوبوت تهون ڽڠ کا لوڤه.,entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ ستيدقجيه ١٠٠ درو اورڠ کا توک لام ڤيستا ڽن⹁ کى ڤياسن ميلاد فون ڤاسڠن ڽڠ ڤرنکاحنجيه ݢڤوبوت تهون ڽڠ کا لوڤه. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+TRANSLATION:
+St"
+دوا بوه لاݢو دري فيلم ڽن، اوديشين (دي فول‌س هو دريم) ڠون سيتي اوف ستارس، تريموڠ نوميناسي کى لاݢو اصلي ڽڠ ڤاليڠ ݢيت. ستوديو لايون‌سݢايت تريموڠ ۲٦ نوميناسي — لوبيه لى دري ستوديو ڽڠ لاءين.,entertainment,entertainment,"<|begin_of_text|>SENTENCE:
+ دوا بوه لاݢو دري فيلم ڽن، اوديشين (دي فول‌س هو دريم) ڠون سيتي اوف ستارس، تريموڠ نوميناسي کى لاݢو اصلي ڽڠ ڤاليڠ ݢيت. ستوديو لايون‌سݢايت تريموڠ ۲٦ نوميناسي — لوبيه لى دري ستوديو ڽڠ لاءين. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-entertainment
+EXPLANATION:
+This"
+كرق جيه تبل سڠكيرا ٧٠ ك م د بهݢين ڽڠ تي ڠن تبل ١٠٠ ك م د بهݢين ڽڠ جؤه جيه.,geography,geography,"<|begin_of_text|>SENTENCE:
+ كرق جيه تبل سڠكيرا ٧٠ ك م د بهݢين ڽڠ تي ڠن تبل ١٠٠ ك م د بهݢين ڽڠ جؤه جيه. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+لبيه جيؤه او تونوڠ ناكه اير ترجون نياݢارا ڽڠ بله باروه ناكه رومه عالم ڽڠ چده موسكوكا ڽڠ عوه تلس نيبك ڽن.,geography,geography,"<|begin_of_text|>SENTENCE:
+ لبيه جيؤه او تونوڠ ناكه اير ترجون نياݢارا ڽڠ بله باروه ناكه رومه عالم ڽڠ چده موسكوكا ڽڠ عوه تلس نيبك ڽن. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+"ايللسؤرته لاند ناكه دائيره بله تونوڠ اوجوڠ تنجوڠ, د چر لي لاؤة بيلليڠسهاوسين.",geography,geography,"<|begin_of_text|>SENTENCE:
+ ايللسؤرته لاند ناكه دائيره بله تونوڠ اوجوڠ تنجوڠ, د چر لي لاؤة بيلليڠسهاوسين. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+ساوته ڤول ترافيرسي(اتوا جالن راي) ڤاڽڠ جيه ١٦٠٠ ك.م داري ستاسيون م چ موردو د اتس لاؤة روسس او كوتوب.,geography,travel,"<|begin_of_text|>SENTENCE:
+ ساوته ڤول ترافيرسي(اتوا جالن راي) ڤاڽڠ جيه ١٦٠٠ ك.م داري ستاسيون م چ موردو د اتس لاؤة روسس او كوتوب. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+This sentence"
+"ماڽڠ د اتس بله باروه اوجوڠ داري ماچهو ڤيچهو ڽنكه ݢونوڠ مرلڠ, قايم جد ك لاير ك چوق ݢمبر داري جل ݢمبر ڽڠ تيڠݢل داري تمڤت ڽن.",geography,geography,"<|begin_of_text|>SENTENCE:
+ ماڽڠ د اتس بله باروه اوجوڠ داري ماچهو ڤيچهو ڽنكه ݢونوڠ مرلڠ, قايم جد ك لاير ك چوق ݢمبر داري جل ݢمبر ڽڠ تيڠݢل داري تمڤت ڽن. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+اينسيلادوس ناکوه اوبجيق ڽڠ ڤاليڠ ريفليکتيف بق تاتا سوريا، ڽڠ هو سيليڠک ۹۰ ڤرسين چهاي ماتاءورو ڽڠ کنوڠجيه.,geography,geography,"<|begin_of_text|>SENTENCE:
+ اينسيلادوس ناکوه اوبجيق ڽڠ ڤاليڠ ريفليکتيف بق تاتا سوريا، ڽڠ هو سيليڠک ۹۰ ڤرسين چهاي ماتاءورو ڽڠ کنوڠجيه. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography 
+REASONING SKILL"
+"هنا مساڤوى ڽڠ دس سلاءين لاڠيت ڽڠ ݢليه, چده د اتس ڠن لا ݢونوڠ مليڠكر. باچوت حل ڽڠ جت تاكالن ڠن تادڠر نيبك دالم ݢوها ڽي.",geography,geography,"<|begin_of_text|>SENTENCE:
+ هنا مساڤوى ڽڠ دس سلاءين لاڠيت ڽڠ ݢليه, چده د اتس ڠن لا ݢونوڠ مليڠكر. باچوت حل ڽڠ جت تاكالن ڠن تادڠر نيبك دالم ݢوها ڽي. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+TRANSLATION:
+Here"
+"جيني ك جڤاڠ. جڤاڠ جامن ڽنكه سابوه نڠݢري ڤولو, سابن سيت لاݢو ايڠݢريه.",geography,geography,"<|begin_of_text|>SENTENCE:
+ جيني ك جڤاڠ. جڤاڠ جامن ڽنكه سابوه نڠݢري ڤولو, سابن سيت لاݢو ايڠݢريه. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+بق ڤونچا جيه، سيکلون تروڤيس ݢونو، ݢبوه نن خوت دڠون سابوه کرتايه اون ڤالم لم باس مالاديوا، تروق بݢه اڠين ۲٤۰ کيلوميتى ڤر جم (١٤۹ ميل ڤر جم).,geography,travel,"<|begin_of_text|>SENTENCE:
+ بق ڤونچا جيه، سيکلون تروڤيس ݢونو، ݢبوه نن خوت دڠون سابوه کرتايه اون ڤالم لم باس مالاديوا، تروق بݢه اڠين ۲٤۰ کيلوميتى ڤر جم (١٤۹ ميل ڤر جم). 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The sentence"
+"ولايه توركي, جيتاموڠ دانو, جيدوق ٧٨٣٥٦٢ كيلوميتير ڤتساݢي (٣٠٠٠٩٤٨ س ق مي), ناكه ٧٥٥٦٨٨ كيلوميتير ڤتساݢي (٢٩١٧٣٣ س ق مي)ساڤت د اسيا بارت داي ڠن ٢٣٧٦٤ كيلوميتير ڤتساݢي (٩١٧٤ س ق مي ) د ايروڤا.",geography,geography,"<|begin_of_text|>SENTENCE:
+ ولايه توركي, جيتاموڠ دانو, جيدوق ٧٨٣٥٦٢ كيلوميتير ڤتساݢي (٣٠٠٠٩٤٨ س ق مي), ناكه ٧٥٥٦٨٨ كيلوميتير ڤتساݢي (٢٩١٧٣٣ س ق مي)ساڤت د اسيا بارت داي ڠن ٢٣٧٦٤ كيلوميتير ڤتساݢي (٩١٧٤ س ق مي ) د ايروڤا. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+geography
+EXPLANATION:
+The sentence"
+"ڤولو سهيتلاند سلاتن, ڽڠ دتمو بك تهون ١٨١٩, د اكوءي لى ڤادوم بوه نڠݢري, ڤولو ڽن نا ڤاليڠ لا مركه تنترا, دڠن نم بلس ڽڠ منتڠ اكتيف لم تهون ٢٠٢٠.",geography,geography,"<|begin_of_text|>SENTENCE:
+ ڤولو سهيتلاند سلاتن, ڽڠ دتمو بك تهون ١٨١٩, د اكوءي لى ڤادوم بوه نڠݢري, ڤولو ڽن نا ڤاليڠ لا مركه تنترا, دڠن نم بلس ڽڠ منتڠ اكتيف لم تهون ٢٠٢٠. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+geography
+EXPLANATION:
+The sentence"
+اڤيا ناكه ابو كوتا ساموا. كوتا ڽي بك ڤولو اوڤولو ڠن مشاركت كورڠ نيبك ٤٠٠٠٠.,geography,geography,"<|begin_of_text|>SENTENCE:
+ اڤيا ناكه ابو كوتا ساموا. كوتا ڽي بك ڤولو اوڤولو ڠن مشاركت كورڠ نيبك ٤٠٠٠٠. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+سب بادى جيئوه نيبق دارت⹁ منتڠ ڤايه کى ݢڤڽوم ڤوتينسي مو عقيبت او امريکا سريکت اتاو کريبيا.,geography,travel,"<|begin_of_text|>SENTENCE:
+ سب بادى جيئوه نيبق دارت⹁ منتڠ ڤايه کى ݢڤڽوم ڤوتينسي مو عقيبت او امريکا سريکت اتاو کريبيا. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-travel
+EXPLANATION:
+The sentence"
+لبيه ليڤيه د ميوب ماريا ڠڽ لبيه تبل د ميوب داترن ماڽڠ.,geography,geography,"<|begin_of_text|>SENTENCE:
+ لبيه ليڤيه د ميوب ماريا ڠڽ لبيه تبل د ميوب داترن ماڽڠ. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: -geography 
+REASONING:
+The sentence"
+اوتن جيه ڽن ڤيه كن الور باكاو ساݢل — ڽن د تاموڠ لادوم داري ريمبا ريمبا خر ڽڠ تيڠݢل ڽڠ ديلير د كهوڤ تانه لواس ݢاڠينتيك.,geography,geography,"<|begin_of_text|>SENTENCE:
+ اوتن جيه ڽن ڤيه كن الور باكاو ساݢل — ڽن د تاموڠ لادوم داري ريمبا ريمبا خر ڽڠ تيڠݢل ڽڠ ديلير د كهوڤ تانه لواس ݢاڠينتيك. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+TRANSLATION:
+O"
+ڤتا ݢمڤا بنسيݢوم دوڽا دري سورۏي ݢيولوݢي امريکا سريکت جڤتوڽوق هانا ݢمڤا نيبق ايسلنديا سالوحد سݢوهلوم جيه.,geography,geography,"<|begin_of_text|>SENTENCE:
+ ڤتا ݢمڤا بنسيݢوم دوڽا دري سورۏي ݢيولوݢي امريکا سريکت جڤتوڽوق هانا ݢمڤا نيبق ايسلنديا سالوحد سݢوهلوم جيه. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
+"ݢدوق د اتس سابوه نيبك بك ݢونوڠ لم ولايه اوتارا مكة, ݢوها ڽن كبيت مڤيسه نيبك دونيا لوار.",geography,geography,"<|begin_of_text|>SENTENCE:
+ ݢدوق د اتس سابوه نيبك بك ݢونوڠ لم ولايه اوتارا مكة, ݢوها ڽن كبيت مڤيسه نيبك دونيا لوار. 
+ Is this SENTENCE science, travel, politics, sports, health, entertainment, geography? 
+OPTIONS:
+-science
+- travel
+- politics
+- sports
+- health
+- entertainment
+- geography
+-ANSWER: 
+-geography
+EXPLANATION:
+The"
