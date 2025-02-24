@@ -306,3 +306,10 @@ poetry.toml
 pyrightconfig.json
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,python,jupyternotebooks,pycharm+all
+
+# Custom
+analysis.ipynb
+MT_Task_google_colab.ipynb
+plot generators
+Taxi-1500
+.idea
